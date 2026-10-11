@@ -1,2 +1,9 @@
 (\d+): Empty	$1 : Vide
 Press (<sprite[^>]*>) to continue	Appuyez sur $1 pour continuer
+Press (.+) to toggle the Dateviators\.	Appuyez sur $1 pour mettre ou retirer les Dateviators.
+Awaken a door by holding (.+)\.	Éveillez une porte en maintenant $1.
+Press (.+) to switch between glasses on and off modes\.	Appuyez sur $1 pour mettre ou retirer les lunettes.
+Hold down (.+) when wearing the glasses while aimed at an object to speak to it!	Maintenez $1 en portant les lunettes et en visant un objet pour lui parler !
+Date: (.+)	Date : $1
+Time: (.+)	Heure : $1
+Press SPACE to Rejoin: (.+)	Appuyez sur ESPACE pour rejoindre : $1

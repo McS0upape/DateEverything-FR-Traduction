@@ -8,1002 +8,1202 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: screen_tutorials/1
 msgctxt "Tag Titre écran de chargement"
 msgid "Grand Piano"
-msgstr ""
+msgstr "Piano à queue"
 
+# Traduction IA – à relire
 #: screen_tutorials/4
 msgctxt "Tag Anecdote écran de chargement"
 msgid "A concert grand piano typically measures 9 feet in length. A baby grand is 5 feet in length and can actually fit in a home."
-msgstr ""
+msgstr "Un piano de concert mesure généralement 2,75 mètres de long. Un crapaud ne mesure qu'1,50 mètre et peut réellement tenir dans une maison."
 
+# Traduction IA – à relire
 #: screen_tutorials/7
 msgctxt "Tag Titre écran de chargement"
 msgid "Stove"
-msgstr ""
+msgstr "Cuisinière"
 
+# Traduction IA – à relire
 #: screen_tutorials/10
 msgctxt "Tag Anecdote écran de chargement"
 msgid "A 'stove' refers to the oven plus the cooktop. A 'range' is the same as a 'stove', but helps distinguish between things that are called stoves but aren't in the kitchen, like wood-burning stoves."
-msgstr ""
+msgstr "Une « cuisinière » désigne le four et la plaque de cuisson réunis. En anglais, on distingue « range » et « stove », ce dernier pouvant aussi désigner des appareils qui ne sont pas dans la cuisine, comme les poêles à bois."
 
+# Traduction IA – à relire
 #: screen_tutorials/13
 msgctxt "Tag Titre écran de chargement"
 msgid "Chair"
-msgstr ""
+msgstr "Chaise"
 
+# Traduction IA – à relire
 #: screen_tutorials/16
 msgctxt "Tag Anecdote écran de chargement"
 msgid "A chair is a piece of furniture designed for one person to sit on. If it fits multiple people, it is technically not a chair."
-msgstr ""
+msgstr "Une chaise est un meuble conçu pour qu'une seule personne s'y asseye. Si plusieurs personnes peuvent s'y installer, ce n'est techniquement plus une chaise."
 
+# Traduction IA – à relire
 #: screen_tutorials/19
 msgctxt "Tag Titre écran de chargement"
 msgid "Coffeepot"
-msgstr ""
+msgstr "Cafetière"
 
+# Traduction IA – à relire
 #: screen_tutorials/22
 msgctxt "Tag Anecdote écran de chargement"
 msgid "A coffee 'bean' is actually a seed of the coffee cherry - you can plant a coffee bean and grow a whole new shrub."
-msgstr ""
+msgstr "Un « grain » de café est en réalité la graine de la cerise du caféier : on peut planter un grain de café et faire pousser un arbuste entier."
 
+# Traduction IA – à relire
 #: screen_tutorials/25
 msgctxt "Tag Titre écran de chargement"
 msgid "Magnifying Glass"
-msgstr ""
+msgstr "Loupe"
 
+# Traduction IA – à relire
 #: screen_tutorials/28
 msgctxt "Tag Anecdote écran de chargement"
 msgid "A magnifying glass is actually the simplest form of a basic microscope. Historians believe a scientist named Alhazen created the first in 1021."
-msgstr ""
+msgstr "Une loupe est en fait la forme la plus simple de microscope. Les historiens pensent qu'un savant nommé Alhazen a créé la première en 1021."
 
+# Traduction IA – à relire
 #: screen_tutorials/31
 msgctxt "Tag Titre écran de chargement"
 msgid "Window"
-msgstr ""
+msgstr "Fenêtre"
 
+# Traduction IA – à relire
 #: screen_tutorials/34
 msgctxt "Tag Anecdote écran de chargement"
 msgid "A window sill is only located on the outside of a home. Inside, it is called a 'stool'."
-msgstr ""
+msgstr "En anglais, le « window sill » (rebord de fenêtre) se trouve uniquement à l'extérieur d'une maison. À l'intérieur, on l'appelle un « stool »."
 
+# Traduction IA – à relire
 #: screen_tutorials/37
 msgctxt "Tag Titre écran de chargement"
 msgid "Couch"
-msgstr ""
+msgstr "Canapé"
 
+# Traduction IA – à relire
 #: screen_tutorials/40
 msgctxt "Tag Anecdote écran de chargement"
 msgid "According to Feng Shui principles, it is best to place a living room couch southwards, to optimize more light and within view of an entrance to provide security. A couch should never be placed in front of a window, as it can bring in chaotic energy."
-msgstr ""
+msgstr "Selon les principes du feng shui, mieux vaut orienter le canapé du salon vers le sud, pour profiter d'un maximum de lumière, et en vue d'une entrée pour se sentir en sécurité. Un canapé ne doit jamais être placé devant une fenêtre, car il risque d'attirer une énergie chaotique."
 
+# Traduction IA – à relire
 #: screen_tutorials/43
 msgctxt "Tag Titre écran de chargement"
 msgid "Refrigerator"
-msgstr ""
+msgstr "Réfrigérateur"
 
+# Traduction IA – à relire
 #: screen_tutorials/46
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Around 20% of electricity in a home is used solely by the refrigerator at an average cost of $240 per year."
-msgstr ""
+msgstr "Environ 20 % de l'électricité d'une maison est consommée par le seul réfrigérateur, pour un coût moyen de 240 $ par an."
 
+# Traduction IA – à relire
 #: screen_tutorials/49
 msgctxt "Tag Titre écran de chargement"
 msgid "Bathtub"
-msgstr ""
+msgstr "Baignoire"
 
+# Traduction IA – à relire
 #: screen_tutorials/52
 msgctxt "Tag Anecdote écran de chargement"
 msgid "At the equator, bathtub water drains straight down."
-msgstr ""
+msgstr "À l'équateur, l'eau d'une baignoire s'écoule tout droit."
 
+# Traduction IA – à relire
 #: screen_tutorials/55
 msgctxt "Tag Titre écran de chargement"
 msgid "Air fryer"
-msgstr ""
+msgstr "Friteuse à air"
 
+# Traduction IA – à relire
 #: screen_tutorials/58
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Avoid using non-stick sprays in air fryers and only use oils, or cooking sprays. Non-stick sprays contain chemicals that can chip the coating."
-msgstr ""
+msgstr "Évitez les sprays antiadhésifs dans les friteuses à air et n'utilisez que de l'huile ou des sprays de cuisson. Les sprays antiadhésifs contiennent des produits chimiques qui peuvent abîmer le revêtement."
 
+# Traduction IA – à relire
 #: screen_tutorials/61
 msgctxt "Tag Titre écran de chargement"
 msgid "Towels"
-msgstr ""
+msgstr "Serviettes"
 
+# Traduction IA – à relire
 #: screen_tutorials/64
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Before terrycloth (the fluffy weaving style used in modern towels) was popularized, plain linens were used to dry off after baths."
-msgstr ""
+msgstr "Avant que le tissu éponge (le tissage moelleux des serviettes modernes) ne se popularise, on se séchait après le bain avec de simples linges."
 
+# Traduction IA – à relire
 #: screen_tutorials/67
 msgctxt "Tag Titre écran de chargement"
 msgid "Computer"
-msgstr ""
+msgstr "Ordinateur"
 
+# Traduction IA – à relire
 #: screen_tutorials/70
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Before the 1940’s the word \"computer\" was used to refer to a position where somebody had to calculate something very quickly."
-msgstr ""
+msgstr "Avant les années 1940, le mot anglais « computer » désignait un poste occupé par une personne chargée de faire des calculs très rapidement."
 
+# Traduction IA – à relire
 #: screen_tutorials/73
 msgctxt "Tag Titre écran de chargement"
 msgid "Record Player"
-msgstr ""
+msgstr "Tourne-disque"
 
+# Traduction IA – à relire
 #: screen_tutorials/76
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Black PVC pellets are used to create vinyl records, giving them their signature licorice look. Other colors decrease durability and collect dust more easily"
-msgstr ""
+msgstr "Les disques vinyle sont fabriqués à partir de granulés de PVC noir, ce qui leur donne leur aspect de réglisse si caractéristique. Les autres couleurs réduisent leur durabilité et attirent davantage la poussière."
 
+# Traduction IA – à relire
 #: screen_tutorials/79
 msgctxt "Tag Titre écran de chargement"
 msgid "Bobby Pin"
-msgstr ""
+msgstr "Pince à cheveux"
 
+# Traduction IA – à relire
 #: screen_tutorials/82
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Bobby Pins are named after the popular 'bob cut', although they were almost named after their creator: Luis Marcus."
-msgstr ""
+msgstr "En anglais, les pinces à cheveux s'appellent « bobby pins » en référence à la célèbre coupe au carré, la « bob cut ». Elles ont failli porter le nom de leur inventeur : Luis Marcus."
 
+# Traduction IA – à relire
 #: screen_tutorials/85
 msgctxt "Tag Titre écran de chargement"
 msgid "Cabinet"
-msgstr ""
+msgstr "Placard"
 
+# Traduction IA – à relire
 #: screen_tutorials/88
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Cabinets apparently only refer to standalone decorative pieces that are not attached to any walls or other structures. Which means, there are no cabinets in this game, only cupboards."
-msgstr ""
+msgstr "En anglais, « cabinet » désignerait uniquement un meuble décoratif indépendant, fixé à aucun mur ni aucune structure. Ce qui signifie qu'il n'y a aucun « cabinet » dans ce jeu, seulement des placards."
 
+# Traduction IA – à relire
 #: screen_tutorials/91
 msgctxt "Tag Titre écran de chargement"
 msgid "Candelabra"
-msgstr ""
+msgstr "Candélabre"
 
+# Traduction IA – à relire
 #: screen_tutorials/94
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Candle snuffers reduce the risk of accidental fires caused by blowing candles out, as well as help make you feel very cool."
-msgstr ""
+msgstr "Les éteignoirs réduisent le risque d'incendie accidentel lorsqu'on souffle une bougie, et vous donnent en plus l'air très classe."
 
+# Traduction IA – à relire
 #: screen_tutorials/97
 msgctxt "Tag Titre écran de chargement"
 msgid "Art"
-msgstr ""
+msgstr "Art"
 
+# Traduction IA – à relire
 #: screen_tutorials/100
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Caroline Shawk Brooks 1876 masterpiece, <i>Dreaming Iolanthe</i>, brought interest to the world in butter sculpting as an art form."
-msgstr ""
+msgstr "En 1876, le chef-d'œuvre de Caroline Shawk Brooks, <i>Dreaming Iolanthe</i>, a éveillé l'intérêt du monde pour la sculpture sur beurre en tant que forme d'art."
 
+# Traduction IA – à relire
 #: screen_tutorials/103
 msgctxt "Tag Titre écran de chargement"
 msgid "Dryer"
-msgstr ""
+msgstr "Sèche-linge"
 
+# Traduction IA – à relire
 #: screen_tutorials/106
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Clothes dryers don't only dry clothes, but also kill pests such as bed bugs, ticks, and dust mites."
-msgstr ""
+msgstr "Les sèche-linge ne font pas que sécher le linge : ils tuent aussi les nuisibles comme les punaises de lit, les tiques et les acariens."
 
+# Traduction IA – à relire
 #: screen_tutorials/109
 msgctxt "Tag Titre écran de chargement"
 msgid "Fold-out Ironing Board"
-msgstr ""
+msgstr "Planche à repasser pliante"
 
+# Traduction IA – à relire
 #: screen_tutorials/112
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Clothes irons can also be used to remove chewing gum from garments, make paninis, and soften dents in tables."
-msgstr ""
+msgstr "Un fer à repasser peut aussi servir à retirer un chewing-gum d'un vêtement, à faire des paninis et à atténuer les bosses sur une table."
 
+# Traduction IA – à relire
 #: screen_tutorials/115
 msgctxt "Tag Titre écran de chargement"
 msgid "Dishware"
-msgstr ""
+msgstr "Vaisselle"
 
+# Traduction IA – à relire
 #: screen_tutorials/118
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Combination utensils include: spork, knork, spifork, sporf, spife, and forkchops."
-msgstr ""
+msgstr "Parmi les couverts hybrides, on trouve la cuillère-fourchette, la fourchette-couteau, la cuillère-fourchette-couteau, la fourchillère, la cuitelle et les fourchopsticks."
 
+# Traduction IA – à relire
 #: screen_tutorials/121
 msgctxt "Tag Titre écran de chargement"
 msgid "Detergent"
-msgstr ""
+msgstr "Lessive"
 
+# Traduction IA – à relire
 #: screen_tutorials/124
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Detergents can be defined as 'surfactants'. What 'surfactants' are unfortunately lie beyond the scope of this loading screen."
-msgstr ""
+msgstr "Les lessives peuvent être définies comme des « tensioactifs ». Ce que sont les « tensioactifs », hélas, dépasse le cadre de cet écran de chargement."
 
+# Traduction IA – à relire
 #: screen_tutorials/127
 msgctxt "Tag Titre écran de chargement"
 msgid "Money"
-msgstr ""
+msgstr "Argent"
 
+# Traduction IA – à relire
 #: screen_tutorials/130
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Dollar bills are green because when they were created a color other than black was needed to make reproduction difficult, and green was seen as a color signifying stability."
-msgstr ""
+msgstr "Les billets de dollar sont verts car, lors de leur création, il fallait une autre couleur que le noir pour compliquer leur reproduction, et le vert était perçu comme une couleur synonyme de stabilité."
 
+# Traduction IA – à relire
 #: screen_tutorials/133
 msgctxt "Tag Titre écran de chargement"
 msgid "Wall"
-msgstr ""
+msgstr "Mur"
 
+# Traduction IA – à relire
 #: screen_tutorials/136
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Drywall means that there is no plumbing attached to a wall, as opposed to a wet wall- where there is plumbing connected."
-msgstr ""
+msgstr "En anglais, une « drywall » est une cloison sans aucune plomberie, par opposition à une « wet wall », qui en contient."
 
+# Traduction IA – à relire
 #: screen_tutorials/139
 msgctxt "Tag Titre écran de chargement"
 msgid "Dust Bunny"
-msgstr ""
+msgstr "Mouton de poussière"
 
+# Traduction IA – à relire
 #: screen_tutorials/142
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Dust bunnies are held together by fibrous entanglement and static electricity."
-msgstr ""
+msgstr "Les moutons de poussière tiennent ensemble grâce à l'enchevêtrement de leurs fibres et à l'électricité statique."
 
+# Traduction IA – à relire
 #: screen_tutorials/145
 msgctxt "Tag Titre écran de chargement"
 msgid "Darkness"
-msgstr ""
+msgstr "Obscurité"
 
+# Traduction IA – à relire
 #: screen_tutorials/148
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Eratosthenes used a stick and its small shadow to measure the circumference of the earth around 240 BCE."
-msgstr ""
+msgstr "Vers 240 av. J.-C., Ératosthène a mesuré la circonférence de la Terre à l'aide d'un bâton et de sa petite ombre."
 
+# Traduction IA – à relire
 #: screen_tutorials/151
 msgctxt "Tag Titre écran de chargement"
 msgid "Trash Can"
-msgstr ""
+msgstr "Poubelle"
 
+# Traduction IA – à relire
 #: screen_tutorials/154
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Eugène Poubelle decreed in 1884 that landlords must provide three wastebins for residents to sort into compost, paper and cloth, and crockery and shells. To this day in France the word for trash can is 'la poubelle'."
-msgstr ""
+msgstr "En 1884, Eugène Poubelle a décrété que les propriétaires devaient fournir à leurs locataires trois récipients pour trier les déchets : compost, papier et tissus, et vaisselle et coquillages. Voilà pourquoi, en France, on dit encore aujourd'hui « une poubelle »."
 
+# Traduction IA – à relire
 #: screen_tutorials/157
 msgctxt "Tag Titre écran de chargement"
 msgid "Clock"
-msgstr ""
+msgstr "Horloge"
 
+# Traduction IA – à relire
 #: screen_tutorials/160
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first clocks did not use hands or dials, but instead used bells. The word \"clock\" most likely comes from either the french word \"cloche\" or the german word \"glocke\", both meaning bell."
-msgstr ""
+msgstr "Les premières horloges n'avaient ni aiguilles ni cadran, mais utilisaient des cloches. Le mot anglais « clock » vient très probablement du français « cloche » ou de l'allemand « Glocke », qui signifient tous deux « cloche »."
 
+# Traduction IA – à relire
 #: screen_tutorials/163
 msgctxt "Tag Titre écran de chargement"
 msgid "Dirty Laundry"
-msgstr ""
+msgstr "Linge sale"
 
+# Traduction IA – à relire
 #: screen_tutorials/166
 msgctxt "Tag Anecdote écran de chargement"
 msgid "GINETEX, formed in France in 1963, created the worldwide symbols for laundry care printed on every garment tag. Their guidelines are updated every five years."
-msgstr ""
+msgstr "Le GINETEX, créé en France en 1963, a conçu les symboles d'entretien imprimés sur l'étiquette de chaque vêtement dans le monde entier. Ses recommandations sont mises à jour tous les cinq ans."
 
+# Traduction IA – à relire
 #: screen_tutorials/169
 msgctxt "Tag Titre écran de chargement"
 msgid "Sink"
-msgstr ""
+msgstr "Évier"
 
+# Traduction IA – à relire
 #: screen_tutorials/172
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Hot water valves are always on the left because readily available hot water was introduced second, and most people are right-handed."
-msgstr ""
+msgstr "Le robinet d'eau chaude est toujours à gauche, car l'eau chaude courante est arrivée en second et que la plupart des gens sont droitiers."
 
+# Traduction IA – à relire
 #: screen_tutorials/175
 msgctxt "Tag Titre écran de chargement"
 msgid "Safe"
-msgstr ""
+msgstr "Coffre-fort"
 
+# Traduction IA – à relire
 #: screen_tutorials/178
 msgctxt "Tag Anecdote écran de chargement"
 msgid "If you have unlimited time, no safe is unbreakable."
-msgstr ""
+msgstr "Avec un temps illimité, aucun coffre-fort n'est inviolable."
 
+# Traduction IA – à relire
 #: screen_tutorials/181
 msgctxt "Tag Titre écran de chargement"
 msgid "Vacuum Cleaner"
-msgstr ""
+msgstr "Aspirateur"
 
+# Traduction IA – à relire
 #: screen_tutorials/184
 msgctxt "Tag Anecdote écran de chargement"
 msgid "It is inadvisable to vacuum fireplace ash as the ash might be scattered further due to its small size. If there is a need however, simply cover the ash with wet coffee grounds to absorb the fine particulates."
-msgstr ""
+msgstr "Il est déconseillé d'aspirer les cendres d'une cheminée, car leurs particules très fines risquent d'être dispersées davantage. Si besoin, recouvrez simplement les cendres de marc de café humide pour absorber les particules."
 
+# Traduction IA – à relire
 #: screen_tutorials/187
 msgctxt "Tag Titre écran de chargement"
 msgid "Smoke Alarm"
-msgstr ""
+msgstr "Détecteur de fumée"
 
+# Traduction IA – à relire
 #: screen_tutorials/190
 msgctxt "Tag Anecdote écran de chargement"
 msgid "It is recommended to test smoke alarms monthly, and replace them after 10 years of use."
-msgstr ""
+msgstr "Il est recommandé de tester ses détecteurs de fumée chaque mois et de les remplacer après 10 ans d'utilisation."
 
+# Traduction IA – à relire
 #: screen_tutorials/193
 msgctxt "Tag Titre écran de chargement"
 msgid "Literature"
-msgstr ""
+msgstr "Littérature"
 
+# Traduction IA – à relire
 #: screen_tutorials/196
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Literature is considered anything that has ever been written, including novels, cereal boxes, and this sentence."
-msgstr ""
+msgstr "La littérature englobe tout ce qui a jamais été écrit, y compris les romans, les boîtes de céréales et cette phrase."
 
+# Traduction IA – à relire
 #: screen_tutorials/199
 msgctxt "Tag Titre écran de chargement"
 msgid "Teddy Bear"
-msgstr ""
+msgstr "Ours en peluche"
 
+# Traduction IA – à relire
 #: screen_tutorials/202
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Margarette Steiff created the first mass-produced stuffed animal in 1880 - a felt elephant intended for use as a pin cushion."
-msgstr ""
+msgstr "En 1880, Margarete Steiff a créé la première peluche produite en série : un éléphant en feutre destiné à servir de pelote à épingles."
 
+# Traduction IA – à relire
 #: screen_tutorials/205
 msgctxt "Tag Titre écran de chargement"
 msgid "Microwave"
-msgstr ""
+msgstr "Micro-ondes"
 
+# Traduction IA – à relire
 #: screen_tutorials/208
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Microwaves can microwave glass, paper, and most ceramics, but not metal."
-msgstr ""
+msgstr "On peut passer au micro-ondes du verre, du papier et la plupart des céramiques, mais pas du métal."
 
+# Traduction IA – à relire
 #: screen_tutorials/211
 msgctxt "Tag Titre écran de chargement"
 msgid "Mirror"
-msgstr ""
+msgstr "Miroir"
 
+# Traduction IA – à relire
 #: screen_tutorials/214
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Mirrors reflect not only light, but sound too."
-msgstr ""
+msgstr "Les miroirs ne réfléchissent pas seulement la lumière, mais aussi le son."
 
+# Traduction IA – à relire
 #: screen_tutorials/217
 msgctxt "Tag Titre écran de chargement"
 msgid "Holidays"
-msgstr ""
+msgstr "Jours fériés"
 
+# Traduction IA – à relire
 #: screen_tutorials/220
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Nepal has the highest number of nationally recognized public holidays, with 35. However, it also has a 6-day work week."
-msgstr ""
+msgstr "Le Népal détient le record de jours fériés officiels, avec 35 jours. Cependant, on y travaille aussi six jours par semaine."
 
+# Traduction IA – à relire
 #: screen_tutorials/223
 msgctxt "Tag Titre écran de chargement"
 msgid "Door"
-msgstr ""
+msgstr "Porte"
 
+# Traduction IA – à relire
 #: screen_tutorials/226
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Of the 17 doors in this game, only hinged and sliding doors are represented. Not shown: rotating, folding, and garage (up-and-over). The developers deeply regret this omission."
-msgstr ""
+msgstr "Sur les 17 portes de ce jeu, seules les portes à charnières et coulissantes sont représentées. Absentes : les portes tournantes, pliantes et de garage (basculantes). Les développeurs regrettent profondément cette omission."
 
+# Traduction IA – à relire
 #: screen_tutorials/229
 msgctxt "Tag Titre écran de chargement"
 msgid "Desk"
-msgstr ""
+msgstr "Bureau"
 
+# Traduction IA – à relire
 #: screen_tutorials/232
 msgctxt "Tag Anecdote écran de chargement"
 msgid "One crucial difference between desks and tables is that desks are largely designed to be used from only one side."
-msgstr ""
+msgstr "Une différence essentielle entre un bureau et une table : un bureau est en grande partie conçu pour être utilisé d'un seul côté."
 
+# Traduction IA – à relire
 #: screen_tutorials/235
 msgctxt "Tag Titre écran de chargement"
 msgid "Shelf"
-msgstr ""
+msgstr "Étagère"
 
+# Traduction IA – à relire
 #: screen_tutorials/238
 msgctxt "Tag Anecdote écran de chargement"
 msgid "One great way to secure your shelves from earthquakes: bungee cords."
-msgstr ""
+msgstr "Une excellente façon de protéger vos étagères des tremblements de terre : les tendeurs élastiques."
 
+# Traduction IA – à relire
 #: screen_tutorials/241
 msgctxt "Tag Titre écran de chargement"
 msgid "Water Heater"
-msgstr ""
+msgstr "Chauffe-eau"
 
+# Traduction IA – à relire
 #: screen_tutorials/244
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Pilot lights unfortunately use roughly half of a heating system's total energy usage merely by staying lit. However, they can still be used during an electrical outage."
-msgstr ""
+msgstr "Les veilleuses consomment malheureusement près de la moitié de l'énergie totale d'un système de chauffage, rien qu'en restant allumées. En revanche, elles fonctionnent même en cas de coupure de courant."
 
+# Traduction IA – à relire
 #: screen_tutorials/247
 msgctxt "Tag Titre écran de chargement"
 msgid "Toilet"
-msgstr ""
+msgstr "Toilettes"
 
+# Traduction IA – à relire
 #: screen_tutorials/250
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Porcelain is used for toilets because it is waterproof, non-porous, and able to support weight."
-msgstr ""
+msgstr "On utilise la porcelaine pour les toilettes car elle est étanche, non poreuse et capable de supporter du poids."
 
+# Traduction IA – à relire
 #: screen_tutorials/253
 msgctxt "Tag Titre écran de chargement"
 msgid "Rat Trap"
-msgstr ""
+msgstr "Piège à rats"
 
+# Traduction IA – à relire
 #: screen_tutorials/256
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Regardless of what cartoons would have us believe, cheese is not as effective at trapping mice as peanut butter."
-msgstr ""
+msgstr "Quoi qu'en disent les dessins animés, le fromage est moins efficace que le beurre de cacahuète pour attraper les souris."
 
+# Traduction IA – à relire
 #: screen_tutorials/259
 msgctxt "Tag Titre écran de chargement"
 msgid "Dateviators"
-msgstr ""
+msgstr "Dateviators"
 
+# Traduction IA – à relire
 #: screen_tutorials/262
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Rose-colored glasses have been used to help sufferers of migraines, to treat depression for Civil War veterans, and for chickens to prevent cannibalism."
-msgstr ""
+msgstr "Les lunettes roses ont servi à soulager les migraines, à traiter la dépression des vétérans de la guerre de Sécession, et à empêcher le cannibalisme chez les poules."
 
+# Traduction IA – à relire
 #: screen_tutorials/265
 msgctxt "Tag Titre écran de chargement"
 msgid "Curtain Rod"
-msgstr ""
+msgstr "Tringle à rideaux"
 
+# Traduction IA – à relire
 #: screen_tutorials/268
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Samuel Scottron was an African-American inventor who not only invented the curtain rod, but an adjustable mirror for cutting hair, the window cornice, and the leather hand strap used for riding on trolley cars."
-msgstr ""
+msgstr "Samuel Scottron était un inventeur afro-américain qui a inventé non seulement la tringle à rideaux, mais aussi un miroir réglable pour se couper les cheveux, la corniche de fenêtre et la poignée en cuir des tramways."
 
+# Traduction IA – à relire
 #: screen_tutorials/271
 msgctxt "Tag Titre écran de chargement"
 msgid "Mysterious Objects"
-msgstr ""
+msgstr "Objets mystérieux"
 
+# Traduction IA – à relire
 #: screen_tutorials/274
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Sex toys are classified as 'novelties' in the United States to avoid the more stringent requirements and ingredient specifications of 'medical devices'."
-msgstr ""
+msgstr "Aux États-Unis, les sex-toys sont classés comme « articles de fantaisie » pour échapper aux exigences plus strictes et aux normes de composition des « dispositifs médicaux »."
 
+# Traduction IA – à relire
 #: screen_tutorials/277
 msgctxt "Tag Titre écran de chargement"
 msgid "Beauty Supplies"
-msgstr ""
+msgstr "Produits de beauté"
 
+# Traduction IA – à relire
 #: screen_tutorials/280
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Some of the first makeup was eyeshadow invented by the Egyptians by grinding Lapis into a powder. The blue powder was only used by royalties and only seen by high ranking officials or other royals- hence the name \"royal blue\""
-msgstr ""
+msgstr "L'un des premiers maquillages fut une ombre à paupières inventée par les Égyptiens en broyant du lapis-lazuli en poudre. Cette poudre bleue était réservée à la royauté et n'était vue que par les hauts dignitaires ou d'autres membres de la famille royale, d'où le nom de « bleu roi »."
 
+# Traduction IA – à relire
 #: screen_tutorials/283
 msgctxt "Tag Titre écran de chargement"
 msgid "Rejection"
-msgstr ""
+msgstr "Rejet"
 
+# Traduction IA – à relire
 #: screen_tutorials/286
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Susie Orbach conjectures that dating breakups are possibly more impactful than divorce because nonmarital relationships are not as socially recognized or defined."
-msgstr ""
+msgstr "Selon Susie Orbach, une rupture amoureuse pourrait avoir plus d'impact qu'un divorce, car les relations hors mariage sont moins reconnues et moins définies socialement."
 
+# Traduction IA – à relire
 #: screen_tutorials/289
 msgctxt "Tag Titre écran de chargement"
 msgid "Sporting Goods"
-msgstr ""
+msgstr "Articles de sport"
 
+# Traduction IA – à relire
 #: screen_tutorials/292
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The 'shuttle' in 'shuttlecock' refers to the back-and-forth motion of badminton like a loom. The 'cock' refers to the resemblance to feathers on a chicken."
-msgstr ""
+msgstr "En anglais, le « shuttle » de « shuttlecock » (le volant de badminton) évoque le va-et-vient de la navette d'un métier à tisser. Le « cock » vient de la ressemblance avec les plumes d'un coq."
 
+# Traduction IA – à relire
 #: screen_tutorials/295
 msgctxt "Tag Titre écran de chargement"
 msgid "The Developers (Creators)"
-msgstr ""
+msgstr "Les développeurs (créateurs)"
 
+# Traduction IA – à relire
 #: screen_tutorials/298
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The 33 developers in this game volunteered to be featured. Brave souls."
-msgstr ""
+msgstr "Les 33 développeurs présents dans ce jeu se sont portés volontaires. Quelles âmes courageuses."
 
+# Traduction IA – à relire
 #: screen_tutorials/301
 msgctxt "Tag Titre écran de chargement"
 msgid "Beverage"
-msgstr ""
+msgstr "Boissons"
 
+# Traduction IA – à relire
 #: screen_tutorials/304
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The alcohol in alcoholic beverages is ethanol."
-msgstr ""
+msgstr "L'alcool des boissons alcoolisées est de l'éthanol."
 
+# Traduction IA – à relire
 #: screen_tutorials/307
 msgctxt "Tag Titre écran de chargement"
 msgid "Junk Drawer"
-msgstr ""
+msgstr "Tiroir à bazar"
 
+# Traduction IA – à relire
 #: screen_tutorials/310
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The average drawer can hold around 50lbs of junk."
-msgstr ""
+msgstr "Un tiroir moyen peut contenir environ 23 kilos de bazar."
 
+# Traduction IA – à relire
 #: screen_tutorials/313
 msgctxt "Tag Titre écran de chargement"
 msgid "Box"
-msgstr ""
+msgstr "Carton"
 
+# Traduction IA – à relire
 #: screen_tutorials/316
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The circular stamp printed on the outside of cardboard boxes is the Box Maker's Certificate - it tells interesting properties about the box itself such as its Bursting Test Score, Maximum Allowable Weight, and place of manufacture."
-msgstr ""
+msgstr "Le tampon circulaire imprimé à l'extérieur des cartons est le certificat du fabricant : il indique des propriétés passionnantes du carton, comme sa résistance à l'éclatement, son poids maximal admissible et son lieu de fabrication."
 
+# Traduction IA – à relire
 #: screen_tutorials/319
 msgctxt "Tag Titre écran de chargement"
 msgid "D20"
-msgstr ""
+msgstr "D20"
 
+# Traduction IA – à relire
 #: screen_tutorials/322
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The d20's shape provides an equal five percent probability for each outcome, which is easier to calculate than the more common six-sided die."
-msgstr ""
+msgstr "La forme du d20 donne à chaque résultat une probabilité égale de 5 %, plus simple à calculer qu'avec le dé à six faces, pourtant plus courant."
 
+# Traduction IA – à relire
 #: screen_tutorials/325
 msgctxt "Tag Titre écran de chargement"
 msgid "Diary"
-msgstr ""
+msgstr "Journal intime"
 
+# Traduction IA – à relire
 #: screen_tutorials/328
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The difference between a diary and a journal is that journals are made with the intention of somebody to read them. Diaries are not."
-msgstr ""
+msgstr "En anglais, la différence entre un « diary » et un « journal » est que le journal est écrit dans l'intention d'être lu par quelqu'un. Le journal intime, non."
 
+# Traduction IA – à relire
 #: screen_tutorials/331
 msgctxt "Tag Titre écran de chargement"
 msgid "Electricity"
-msgstr ""
+msgstr "Électricité"
 
+# Traduction IA – à relire
 #: screen_tutorials/334
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The electrical activity in a typical human brain is enough to power a low-wattage bulb, like the one in the back of a refrigerator."
-msgstr ""
+msgstr "L'activité électrique d'un cerveau humain typique suffit à alimenter une ampoule de faible puissance, comme celle du fond d'un réfrigérateur."
 
+# Traduction IA – à relire
 #: screen_tutorials/337
 msgctxt "Tag Titre écran de chargement"
 msgid "HVAC"
-msgstr ""
+msgstr "Climatisation"
 
+# Traduction IA – à relire
 #: screen_tutorials/340
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first air conditioners were 7ft high, 6ft wide, and 20ft long."
-msgstr ""
+msgstr "Les premiers climatiseurs mesuraient 2 mètres de haut, 1,80 mètre de large et 6 mètres de long."
 
+# Traduction IA – à relire
 #: screen_tutorials/343
 msgctxt "Tag Titre écran de chargement"
 msgid "Food"
-msgstr ""
+msgstr "Nourriture"
 
+# Traduction IA – à relire
 #: screen_tutorials/346
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first critiques of restaurants can be attributed to Alexandre Balthazar Laurent Grimod de La Reynière, who wrote eight volumes of criticism of the Paris cuisine scene from 1803-1812. He was accused of accepting bribes in exchange for positive reviews."
-msgstr ""
+msgstr "Les premières critiques gastronomiques sont attribuées à Alexandre Balthazar Laurent Grimod de La Reynière, qui a écrit huit volumes de critiques sur la scène culinaire parisienne entre 1803 et 1812. On l'a accusé d'accepter des pots-de-vin en échange de critiques élogieuses."
 
+# Traduction IA – à relire
 #: screen_tutorials/349
 msgctxt "Tag Titre écran de chargement"
 msgid "Lamp"
-msgstr ""
+msgstr "Lampe"
 
+# Traduction IA – à relire
 #: screen_tutorials/352
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first lamps were used in prehistoric times and were made from seashells, animal fat, and bushes as the wicks."
-msgstr ""
+msgstr "Les premières lampes, préhistoriques, étaient faites de coquillages, de graisse animale et de broussailles en guise de mèche."
 
+# Traduction IA – à relire
 #: screen_tutorials/355
 msgctxt "Tag Titre écran de chargement"
 msgid "Rubber Ducky"
-msgstr ""
+msgstr "Canard en caoutchouc"
 
+# Traduction IA – à relire
 #: screen_tutorials/358
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first rubber ducks were made from solid rubber, and thus did not float. They were used as chew toys for children."
-msgstr ""
+msgstr "Les premiers canards en caoutchouc étaient en caoutchouc plein et ne flottaient donc pas. Ils servaient de jouets à mâcher pour les enfants."
 
+# Traduction IA – à relire
 #: screen_tutorials/361
 msgctxt "Tag Titre écran de chargement"
 msgid "Office Supplies"
-msgstr ""
+msgstr "Fournitures de bureau"
 
+# Traduction IA – à relire
 #: screen_tutorials/364
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first stapler was created for King Louis XV who preferred it over wax seals. This model delivered gold staples and could only hold one at a time."
-msgstr ""
+msgstr "La première agrafeuse a été créée pour le roi Louis XV, qui la préférait aux sceaux de cire. Ce modèle utilisait des agrafes en or et ne pouvait en contenir qu'une à la fois."
 
+# Traduction IA – à relire
 #: screen_tutorials/367
 msgctxt "Tag Titre écran de chargement"
 msgid "Time Capsule"
-msgstr ""
+msgstr "Capsule temporelle"
 
+# Traduction IA – à relire
 #: screen_tutorials/370
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first Time Capsule started at the World's fair in 1938 and is scheduled to be open in 6939."
-msgstr ""
+msgstr "La première capsule temporelle a été enterrée lors de l'Exposition universelle de 1938 et doit être ouverte en 6939."
 
+# Traduction IA – à relire
 #: screen_tutorials/373
 msgctxt "Tag Titre écran de chargement"
 msgid "Crosstrainer"
-msgstr ""
+msgstr "Vélo elliptique"
 
+# Traduction IA – à relire
 #: screen_tutorials/376
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first treadmill was invented in England in 1818 as a torture device for prisoners."
-msgstr ""
+msgstr "Le premier tapis de course a été inventé en Angleterre en 1818 comme instrument de torture pour les prisonniers."
 
+# Traduction IA – à relire
 #: screen_tutorials/379
 msgctxt "Tag Titre écran de chargement"
 msgid "Trophy"
-msgstr ""
+msgstr "Trophée"
 
+# Traduction IA – à relire
 #: screen_tutorials/382
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first trophies were made of the armor, weapons, and body parts of defeated enemies in warfare. Today they are largely made of plastic."
-msgstr ""
+msgstr "Les premiers trophées étaient faits des armures, des armes et des morceaux de corps des ennemis vaincus à la guerre. Aujourd'hui, ils sont essentiellement en plastique."
 
+# Traduction IA – à relire
 #: screen_tutorials/385
 msgctxt "Tag Titre écran de chargement"
 msgid "Bug in the Game"
-msgstr ""
+msgstr "Bug dans le jeu"
 
+# Traduction IA – à relire
 #: screen_tutorials/388
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first true computer bug was found in 1947, when an actual moth flew into the inner workings of the Mark II computer at Harvard."
-msgstr ""
+msgstr "Le premier véritable bug informatique a été découvert en 1947, quand un vrai papillon de nuit s'est glissé dans les entrailles de l'ordinateur Mark II, à Harvard."
 
+# Traduction IA – à relire
 #: screen_tutorials/391
 msgctxt "Tag Titre écran de chargement"
 msgid "U.I."
-msgstr ""
+msgstr "Interface"
 
+# Traduction IA – à relire
 #: screen_tutorials/394
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first User Interface was created in 1962. Called \"Sketchpad\", users could draw, move, rotate, copy, and change the size of lines drawn directly on a screen."
-msgstr ""
+msgstr "La première interface utilisateur a été créée en 1962. Baptisée « Sketchpad », elle permettait de dessiner, déplacer, faire pivoter, copier et redimensionner des traits tracés directement sur un écran."
 
+# Traduction IA – à relire
 #: screen_tutorials/397
 msgctxt "Tag Titre écran de chargement"
 msgid "Washer"
-msgstr ""
+msgstr "Lave-linge"
 
+# Traduction IA – à relire
 #: screen_tutorials/400
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The first washing machine was produced by Maytag and was called \"The hired girl.\""
-msgstr ""
+msgstr "La première machine à laver a été produite par Maytag et s'appelait « La bonne à tout faire »."
 
+# Traduction IA – à relire
 #: screen_tutorials/403
 msgctxt "Tag Titre écran de chargement"
 msgid "Floor"
-msgstr ""
+msgstr "Sol"
 
+# Traduction IA – à relire
 #: screen_tutorials/406
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The floor, in addition to holding air conditioning, electrical wiring, plumbing, fire protection, and the like, also holds the ceiling of the storey beneath it."
-msgstr ""
+msgstr "Le sol, en plus d'abriter la climatisation, les câbles électriques, la plomberie, la protection incendie et compagnie, soutient aussi le plafond de l'étage du dessous."
 
+# Traduction IA – à relire
 #: screen_tutorials/409
 msgctxt "Tag Titre écran de chargement"
 msgid "Globe"
-msgstr ""
+msgstr "Globe"
 
+# Traduction IA – à relire
 #: screen_tutorials/412
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The largest globe in the world is <i>Eartha</i> located in Yarmouth, Maine, former headquarters of a mapping company. Its diameter is 41 feet."
-msgstr ""
+msgstr "Le plus grand globe du monde s'appelle <i>Eartha</i> et se trouve à Yarmouth, dans le Maine, dans l'ancien siège d'une entreprise de cartographie. Son diamètre est de 12,5 mètres."
 
+# Traduction IA – à relire
 #: screen_tutorials/415
 msgctxt "Tag Titre écran de chargement"
 msgid "Overwhelming Sense of Existential Dread"
-msgstr ""
+msgstr "Écrasant sentiment d'angoisse existentielle"
 
+# Traduction IA – à relire
 #: screen_tutorials/418
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The meaning of life has eluded scholars for millennia and caused countless existential dilemmas. Fortunately, it is now clear that the truth is simple: Date Everything."
-msgstr ""
+msgstr "Le sens de la vie échappe aux érudits depuis des millénaires et a provoqué d'innombrables dilemmes existentiels. Heureusement, la vérité est désormais claire et simple : Date Everything."
 
+# Traduction IA – à relire
 #: screen_tutorials/421
 msgctxt "Tag Titre écran de chargement"
 msgid "Hangers"
-msgstr ""
+msgstr "Cintres"
 
+# Traduction IA – à relire
 #: screen_tutorials/424
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The modern clothes hanger was conceived in 1903 by Albert J. Parkhouse as an improvement over the coat-rack hook."
-msgstr ""
+msgstr "Le cintre moderne a été imaginé en 1903 par Albert J. Parkhouse pour remplacer le crochet du portemanteau."
 
+# Traduction IA – à relire
 #: screen_tutorials/427
 msgctxt "Tag Titre écran de chargement"
 msgid "Anime Figurine"
-msgstr ""
+msgstr "Figurine d'anime"
 
+# Traduction IA – à relire
 #: screen_tutorials/430
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The most expensive anime figurine is the Gold Gunpla Kit - made of solid gold and worth over $200,000 each."
-msgstr ""
+msgstr "La figurine d'anime la plus chère est le kit Gunpla en or : en or massif, chacun vaut plus de 200 000 $."
 
+# Traduction IA – à relire
 #: screen_tutorials/433
 msgctxt "Tag Titre écran de chargement"
 msgid "Toolbox"
-msgstr ""
+msgstr "Boîte à outils"
 
+# Traduction IA – à relire
 #: screen_tutorials/436
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The most important tool in a toolbox is knowledge."
-msgstr ""
+msgstr "L'outil le plus important d'une boîte à outils, c'est le savoir."
 
+# Traduction IA – à relire
 #: screen_tutorials/439
 msgctxt "Tag Titre écran de chargement"
 msgid "Video Game Console"
-msgstr ""
+msgstr "Console de jeu"
 
+# Traduction IA – à relire
 #: screen_tutorials/442
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The most memorable, rewarding, and highest paid part of game development is writing loading screen trivia."
-msgstr ""
+msgstr "L'aspect le plus mémorable, le plus gratifiant et le mieux payé du développement d'un jeu vidéo, c'est d'écrire les anecdotes des écrans de chargement."
 
+# Traduction IA – à relire
 #: screen_tutorials/445
 msgctxt "Tag Titre écran de chargement"
 msgid "Musical Triangle"
-msgstr ""
+msgstr "Triangle"
 
+# Traduction IA – à relire
 #: screen_tutorials/448
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The musical triangle is the only percussion instrument which can be struck on both an upstroke and downstroke."
-msgstr ""
+msgstr "Le triangle est le seul instrument de percussion qui se frappe aussi bien de bas en haut que de haut en bas."
 
+# Traduction IA – à relire
 #: screen_tutorials/451
 msgctxt "Tag Titre écran de chargement"
 msgid "Work"
-msgstr ""
+msgstr "Travail"
 
+# Traduction IA – à relire
 #: screen_tutorials/454
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The oldest profession in the world is most likely either hunter, or toolmaker, though customer service as a profession began around the 1760s."
-msgstr ""
+msgstr "Le plus vieux métier du monde est sans doute chasseur ou fabricant d'outils, mais le service client en tant que métier est apparu vers les années 1760."
 
+# Traduction IA – à relire
 #: screen_tutorials/457
 msgctxt "Tag Titre écran de chargement"
 msgid "Shower"
-msgstr ""
+msgstr "Douche"
 
+# Traduction IA – à relire
 #: screen_tutorials/460
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The philosopher Ibh Khaldun wrote in 1377 of people enjoying the sound of their voices singing while bathing."
-msgstr ""
+msgstr "En 1377, le philosophe Ibn Khaldoun évoquait déjà des gens qui aimaient s'entendre chanter pendant leur bain."
 
+# Traduction IA – à relire
 #: screen_tutorials/463
 msgctxt "Tag Titre écran de chargement"
 msgid "Ship-in-a-Bottle"
-msgstr ""
+msgstr "Bateau en bouteille"
 
+# Traduction IA – à relire
 #: screen_tutorials/466
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The practice of making ships in a bottle was started by sailors on large journeys who would make models of their ships in their free time."
-msgstr ""
+msgstr "La pratique des bateaux en bouteille vient des marins qui, lors de longs voyages, fabriquaient des maquettes de leur navire pendant leur temps libre."
 
+# Traduction IA – à relire
 #: screen_tutorials/469
 msgctxt "Tag Titre écran de chargement"
 msgid "Fan"
-msgstr ""
+msgstr "Éventail"
 
+# Traduction IA – à relire
 #: screen_tutorials/472
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The proper way to hold and handle a fan was considered a social skill, and often taught. This practice stopped with the invention of the electric fan."
-msgstr ""
+msgstr "Savoir tenir et manier un éventail était considéré comme une compétence sociale, et s'enseignait souvent. Cette pratique a disparu avec l'invention du ventilateur électrique."
 
+# Traduction IA – à relire
 #: screen_tutorials/475
 msgctxt "Tag Titre écran de chargement"
 msgid "First Aid Kit"
-msgstr ""
+msgstr "Trousse de secours"
 
+# Traduction IA – à relire
 #: screen_tutorials/478
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The term \"First Aid\" is a combination of \"first treatment\" and \"National Aid\", coined in 1878."
-msgstr ""
+msgstr "Le terme anglais « First Aid » (premiers secours) est né en 1878 de la combinaison de « first treatment » et « National Aid »."
 
+# Traduction IA – à relire
 #: screen_tutorials/481
 msgctxt "Tag Titre écran de chargement"
 msgid "Air"
-msgstr ""
+msgstr "Air"
 
+# Traduction IA – à relire
 #: screen_tutorials/484
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The sky appears blue because air molecules scatter more blue light than other colors."
-msgstr ""
+msgstr "Le ciel paraît bleu parce que les molécules de l'air diffusent davantage la lumière bleue que les autres couleurs."
 
+# Traduction IA – à relire
 #: screen_tutorials/487
 msgctxt "Tag Titre écran de chargement"
 msgid "Fire Place"
-msgstr ""
+msgstr "Cheminée"
 
+# Traduction IA – à relire
 #: screen_tutorials/490
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The smooth curves of the Cerona indoor gas fireplace give it a bigger presence. And, the patented Heat & Glo FireBrick® supplies 25-percent more heat."
-msgstr ""
+msgstr "Les courbes harmonieuses de la cheminée à gaz d'intérieur Cerona lui confèrent une présence accrue. Et la FireBrick® brevetée de Heat & Glo fournit 25 % de chaleur en plus."
 
+# Traduction IA – à relire
 #: screen_tutorials/493
 msgctxt "Tag Titre écran de chargement"
 msgid "Table"
-msgstr ""
+msgstr "Table"
 
+# Traduction IA – à relire
 #: screen_tutorials/496
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The table is the only piece of furniture associated with many sports - including table tennis, foosball, pool, and air hockey."
-msgstr ""
+msgstr "La table est le seul meuble associé à de nombreux sports : tennis de table, baby-foot, billard et air hockey."
 
+# Traduction IA – à relire
 #: screen_tutorials/499
 msgctxt "Tag Titre écran de chargement"
 msgid "Nightmare"
-msgstr ""
+msgstr "Cauchemar"
 
+# Traduction IA – à relire
 #: screen_tutorials/502
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The term 'nightmare' has no relation to female horses, but rather from the term <i>mare</i> which meant a female incubus, or 'succubus'."
-msgstr ""
+msgstr "En anglais, « nightmare » (cauchemar) n'a rien à voir avec les juments (« mares ») : le mot vient de <i>mare</i>, qui désignait un incube femelle, une « succube ». En français, le « mar » de cauchemar a la même origine."
 
+# Traduction IA – à relire
 #: screen_tutorials/505
 msgctxt "Tag Titre écran de chargement"
 msgid "Skeleton Key"
-msgstr ""
+msgstr "Clé passe-partout"
 
+# Traduction IA – à relire
 #: screen_tutorials/508
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The term ‘skeleton key’ derives from the fact that the key has been reduced to its essential parts."
-msgstr ""
+msgstr "En anglais, une clé passe-partout se dit « skeleton key » (clé squelette), car la clé est réduite à ses parties essentielles."
 
+# Traduction IA – à relire
 #: screen_tutorials/511
 msgctxt "Tag Titre écran de chargement"
 msgid "TV"
-msgstr ""
+msgstr "Télé"
 
+# Traduction IA – à relire
 #: screen_tutorials/514
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The three largest television screens in the world are all located in Las Vegas, Nevada."
-msgstr ""
+msgstr "Les trois plus grands écrans de télévision du monde se trouvent tous à Las Vegas, dans le Nevada."
 
+# Traduction IA – à relire
 #: screen_tutorials/517
 msgctxt "Tag Titre écran de chargement"
 msgid "Fake Plant"
-msgstr ""
+msgstr "Plante artificielle"
 
+# Traduction IA – à relire
 #: screen_tutorials/520
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The tradition of artificial plants dates back to ancient civilizations like Egypt, who made plants and flowers out of linen."
-msgstr ""
+msgstr "La tradition des plantes artificielles remonte à des civilisations antiques comme l'Égypte, où l'on fabriquait des plantes et des fleurs en lin."
 
+# Traduction IA – à relire
 #: screen_tutorials/523
 msgctxt "Tag Titre écran de chargement"
 msgid "Ghost"
-msgstr ""
+msgstr "Fantôme"
 
+# Traduction IA – à relire
 #: screen_tutorials/526
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The transparent or white depiction of ghosts started the 18th century, when theater and optical shows needed a way to clearly signal to the audience that a character was from the afterlife and different than the other characters on stage."
-msgstr ""
+msgstr "La représentation des fantômes en blanc ou transparents date du XVIIIe siècle, quand le théâtre et les spectacles d'optique avaient besoin d'indiquer clairement au public qu'un personnage venait de l'au-delà et se distinguait des autres personnages sur scène."
 
+# Traduction IA – à relire
 #: screen_tutorials/529
 msgctxt "Tag Titre écran de chargement"
 msgid "Stairs"
-msgstr ""
+msgstr "Escalier"
 
+# Traduction IA – à relire
 #: screen_tutorials/532
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The unused triangular space underneath a staircase is called a 'spandrel'. You cannot date the spandrel."
-msgstr ""
+msgstr "L'espace triangulaire inutilisé sous un escalier s'appelle un « écoinçon ». Vous ne pouvez pas sortir avec l'écoinçon."
 
+# Traduction IA – à relire
 #: screen_tutorials/535
 msgctxt "Tag Titre écran de chargement"
 msgid "Bed"
-msgstr ""
+msgstr "Lit"
 
+# Traduction IA – à relire
 #: screen_tutorials/538
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The water bed has been the only change to standard bed design from the 1900’s to present day."
-msgstr ""
+msgstr "Le lit à eau est le seul changement apporté à la conception standard du lit depuis les années 1900."
 
+# Traduction IA – à relire
 #: screen_tutorials/541
 msgctxt "Tag Titre écran de chargement"
 msgid "Blanket"
-msgstr ""
+msgstr "Couverture"
 
+# Traduction IA – à relire
 #: screen_tutorials/544
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The Webster's New World College Dictionary (fifth edition) describes a blanket as \"Anything resembling a blanket\" So if you think it's a blanket, it is a blanket."
-msgstr ""
+msgstr "Le Webster's New World College Dictionary (cinquième édition) définit une couverture comme « tout ce qui ressemble à une couverture ». Donc si vous pensez que c'est une couverture, c'est une couverture."
 
+# Traduction IA – à relire
 #: screen_tutorials/547
 msgctxt "Tag Titre écran de chargement"
 msgid "Phone"
-msgstr ""
+msgstr "Téléphone"
 
+# Traduction IA – à relire
 #: screen_tutorials/550
 msgctxt "Tag Anecdote écran de chargement"
 msgid "The Word \"Hello\" was created specifically for the use of the telephone, when people needed a greeting where the time of day and person they were speaking to was unknown. This replaced standard greetings at the time such as \"good morning Ma’am\""
-msgstr ""
+msgstr "Le mot anglais « Hello » a été créé spécialement pour le téléphone, quand on a eu besoin d'une salutation valable sans connaître l'heure ni l'interlocuteur. Il a remplacé les salutations d'usage de l'époque, comme « Bonjour, Madame »."
 
+# Traduction IA – à relire
 #: screen_tutorials/553
 msgctxt "Tag Titre écran de chargement"
 msgid "Ceiling"
-msgstr ""
+msgstr "Plafond"
 
+# Traduction IA – à relire
 #: screen_tutorials/556
 msgctxt "Tag Anecdote écran de chargement"
 msgid "There is a clear relationship between low ceilings creating feelings of anger or anxiety, while high ceilings elicit joy. However, low ceilings are easier to heat, which could theoretically lead to joy."
-msgstr ""
+msgstr "Il existe un lien évident entre les plafonds bas, qui provoquent colère ou anxiété, et les plafonds hauts, qui suscitent la joie. Cela dit, les plafonds bas sont plus faciles à chauffer, ce qui pourrait en théorie procurer de la joie."
 
+# Traduction IA – à relire
 #: screen_tutorials/559
 msgctxt "Tag Titre écran de chargement"
 msgid "Dishwasher"
-msgstr ""
+msgstr "Lave-vaisselle"
 
+# Traduction IA – à relire
 #: screen_tutorials/562
 msgctxt "Tag Anecdote écran de chargement"
 msgid "There is no data concerning deaths related from dishwasher use."
-msgstr ""
+msgstr "Il n'existe aucune donnée sur les décès liés à l'utilisation d'un lave-vaisselle."
 
+# Traduction IA – à relire
 #: screen_tutorials/565
 msgctxt "Tag Titre écran de chargement"
 msgid "Board Games"
-msgstr ""
+msgstr "Jeux de société"
 
+# Traduction IA – à relire
 #: screen_tutorials/568
 msgctxt "Tag Anecdote écran de chargement"
 msgid "There is no evidence that Chester A. Arthur played chess."
-msgstr ""
+msgstr "Rien ne prouve que Chester A. Arthur jouait aux échecs."
 
+# Traduction IA – à relire
 #: screen_tutorials/571
 msgctxt "Tag Titre écran de chargement"
 msgid "Geodes"
-msgstr ""
+msgstr "Géodes"
 
+# Traduction IA – à relire
 #: screen_tutorials/574
 msgctxt "Tag Anecdote écran de chargement"
 msgid "There is no way to know what is inside a geode without opening it."
-msgstr ""
+msgstr "Impossible de savoir ce qu'il y a dans une géode sans l'ouvrir."
 
+# Traduction IA – à relire
 #: screen_tutorials/577
 msgctxt "Tag Titre écran de chargement"
 msgid "Toaster"
-msgstr ""
+msgstr "Grille-pain"
 
+# Traduction IA – à relire
 #: screen_tutorials/580
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Toasters are not limited to merely toasting bread - they can be used to heat potatoes, burgers, bacon, and even asparagus."
-msgstr ""
+msgstr "Les grille-pain ne servent pas qu'à griller du pain : on peut aussi y réchauffer des pommes de terre, des burgers, du bacon et même des asperges."
 
+# Traduction IA – à relire
 #: screen_tutorials/583
 msgctxt "Tag Titre écran de chargement"
 msgid "Water"
-msgstr ""
+msgstr "Eau"
 
+# Traduction IA – à relire
 #: screen_tutorials/586
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Water is the only naturally occurring substance on Earth that can be found in three physical states: solid, liquid, and gas."
-msgstr ""
+msgstr "L'eau est la seule substance naturelle sur Terre que l'on trouve sous trois états physiques : solide, liquide et gazeux."
 
+# Traduction IA – à relire
 #: screen_tutorials/589
 msgctxt "Tag Titre écran de chargement"
 msgid "Hamper"
-msgstr ""
+msgstr "Panier à linge"
 
+# Traduction IA – à relire
 #: screen_tutorials/592
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Wicker has the properties of being light yet sturdy, meaning that it's suited for things that will be moved a great deal like patio furniture and clothes hampers."
-msgstr ""
+msgstr "L'osier est à la fois léger et solide, ce qui le rend idéal pour les objets souvent déplacés, comme les meubles de jardin et les paniers à linge."
 
+# Traduction IA – à relire
 #: screen_tutorials/595
 msgctxt "Tag Titre écran de chargement"
 msgid "Memories"
-msgstr ""
+msgstr "Souvenirs"
 
+# Traduction IA – à relire
 #: screen_tutorials/598
 msgctxt "Tag Anecdote écran de chargement"
 msgid "Your memories from ages 15-25 will always be your most easily recalled memories throughout your lifetime - this effect is called the 'reminiscence bump'."
-msgstr ""
+msgstr "Les souvenirs de vos 15 à 25 ans resteront toute votre vie ceux dont vous vous souvenez le plus facilement : c'est ce qu'on appelle le « pic de réminiscence »."

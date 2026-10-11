@@ -25,10 +25,14 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
-- **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Genre grammatical du personnage** : elle.
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie, avec beaucoup de familiarité dès le début. L'appelle parfois « champion » / « championne » (`{{champion|championne|champion·ne}}`), « mon chou », « andouille ».
+- **Le joueur ou la joueuse lui parle avec** : tu.
+- **Registre** : familier, enjoué, geek.
+- **Personnalité, manière de parler** : guide du jeu, ultra enthousiaste, serviable, un peu fofolle. Onomatopées (« Piou piou piou ! »), mots déformés et babil enfantin (« mon petit bidou », « gnagnagna »), points d'exclamation à la pelle. Humour autodérisoire qui cache un manque d'estime de soi. Brise volontiers le quatrième mur (menus, « mode tutoriel », jeu de drague).
+- **Tics verbaux, jeux de mots à préserver** : « Schweet » → « Trop bieeen » ; « Pew pew » → « Piou piou » ; l'acronyme D.A.T.E. (« Directement Admettre Toute Existence ») ; les mots en `<w>` (texte qui ondule) restent emphatiques.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Schweet. » → « Trop bieeen. »
+  - « Pew Pew Pew!! » → « Piou piou piou !! »
+  - « Oh, you'll soon learn the meaning of hate, my friend. » → « Oh, tu vas bientôt découvrir le sens du mot haine, mon pote. »
+  - « Not in this menu, silly-willy... » → « Pas dans ce menu, gros bêta... »
