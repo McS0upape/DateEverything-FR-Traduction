@@ -1,0 +1,4189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: cf_cf/cf_ceilingsorter/4
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "CEILING"
+msgstr ""
+
+#: cf_cf/cf_floorsorter/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "FLOOR"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/0
+msgctxt "Florence"
+msgid "Be there in a moment!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/8 cf_cf/cf_1st_encounter_celia/3
+msgctxt "Narrator"
+msgid "An utterly charming secretary hurries into view, giving you an apologetic nod."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/16
+msgctxt "Florence"
+msgid "Hello there. What can I do for you?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/24 cf_cf/cf_1st_encounter_celia/27
+msgctxt "Narrator"
+msgid "Her greeting is cut short as she seems to recognize you mid-sentence."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/32 cf_cf/cf_1st_encounter_appointment/0/c-1/7 cf_cf/florence_part1/0/g-0/24 cf_cf/cf_realize_return/0/8
+msgctxt "Florence"
+msgid "Oh!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/40
+msgctxt "Florence"
+msgid "Oh my goodness gracious! It's the human!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/54
+msgctxt "Florence"
+msgid "W-Well, I wasn't expecting you today! Golly, I must look an absolute mess."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_florence/62
+msgctxt "Florence"
+msgid "You must be here for Mayor Celia."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_celia/11
+msgctxt "Florence"
+msgid "Excuse me!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_celia/19
+msgctxt "Florence"
+msgid "I'm sorry, I'm afraid Miss Mayor is quite busy at the moment. She has a whole line of meetings going out the door. You'll have to wait until..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_celia/35
+msgctxt "Florence"
+msgid "Oh! Oh, oh my goodness gracious! It's the human!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_celia/49
+msgctxt "Florence"
+msgid "W-Well, I wasn't expecting you today! Gosh, I must look an absolute mess..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_celia/57 cf_cf/florence_part2/0/15/b/1
+msgctxt "Florence"
+msgid "I presume you're here to see Mayor Celia?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/0/s/0
+msgctxt "Choix"
+msgid "Yes, I'm here to see Celia."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/1/s/0
+msgctxt "Choix"
+msgid "Mayor Celia?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/2/s/0
+msgctxt "Choix"
+msgid "How are you, Florence?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/3/s/0
+msgctxt "Choix"
+msgid "Just wandering around. Who are you?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-0/7
+msgctxt "Florence"
+msgid "Of course! She's in a series of meetings at the moment, but I can pencil you in to see her as soon as possible."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/7
+msgctxt "Florence"
+msgid "Oh! You don't know!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/15
+msgctxt "Florence"
+msgid "I completely understand. You must be such a busy bee, running around and taking care of all of us here in the house."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/23
+msgctxt "Florence"
+msgid "Who would have the time to remember every little detail?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/31
+msgctxt "Florence"
+msgid "Mayor Celia runs things around here! Keeps an eye on all the citizens. Makes sure the wheels are greased so nothin' squeaks."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/39
+msgctxt "Florence"
+msgid "You know, that sort of thing."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/47
+msgctxt "Florence"
+msgid "I help her out where I can... (But if we're being honest she does most of the heavy lifting around here.)"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/55
+msgctxt "Florence"
+msgid "Keeps a roof over everyone's heads."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/63
+msgctxt "Florence"
+msgid "Literally. She's the ceiling."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-1/71 cf_cf/cf_1st_encounter_1/0/c-3/31
+msgctxt "Florence"
+msgid "I could pencil you in for an appointment, if you'd like?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-2/13
+msgctxt "Florence"
+msgid "Oh! I'm fine. Great, even!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-2/21
+msgctxt "Florence"
+msgid "Surprised that you even remembered little old me. Means the world."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-2/29
+msgctxt "Florence"
+msgid "The mayor's a little busy today, but I can pencil you in to see her as soon as possible, if you like?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-3/7
+msgctxt "Florence"
+msgid "Me? Oh, I'm nobody. Nobody at all. Just Mayor Celia's assistant."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-3/15
+msgctxt "Florence"
+msgid "I do odd jobs here and there. File papers and licking stamps."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_1/0/c-3/23
+msgctxt "Florence"
+msgid "The mayor's up in her office doing the real work. Whole line a' folks lined up outside her door now."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/0/s/0
+msgctxt "Choix"
+msgid "You sound like a great PA. If it helps you look good to your boss, I'd be glad to."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/1/s/0
+msgctxt "Choix"
+msgid "I'd like to see her now, actually."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/c-0/7
+msgctxt "Florence"
+msgid "Oh! Well..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/c-0/15
+msgctxt "Narrator"
+msgid "She twirls a strand of dark hair around her finger, blushing sweetly."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/c-1/15
+msgctxt "Florence"
+msgid "Oh, of course! I'm so sorry!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/c-1/23
+msgctxt "Florence"
+msgid "What am I thinking? You are <i>the human</i>, after all. It is your house! Why should you have to wait?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/c-1/31
+msgctxt "Florence"
+msgid "Here, right this way. I'll take you up to her office."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_appointment/0/c-1/39
+msgctxt "Florence"
+msgid "She still has a few appointments lined up, but knowing her she'll be done in a jiff!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/0
+msgctxt "Florence"
+msgid "Would you care for some tea while you wait?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/8/s/0
+msgctxt "Choix"
+msgid "Yes, please."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/9/s/0
+msgctxt "Choix"
+msgid "No, that's alright."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/7
+msgctxt "Florence"
+msgid "Okey-dokey. I'll let you know the minute she's available."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/15
+msgctxt "Florence"
+msgid "And let me know if you change your mind about that tea!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "<i>Change your mind about the tea.</i>"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "<i>Never. Your mind is made up. No tea shall pass these lips on this day, so help you God.</i>"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/23/c-0/7
+msgctxt "Florence"
+msgid "Coming right up!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/23/c-1/7
+msgctxt "Florence"
+msgid "She should be free in just a second."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/23/c-1/15
+msgctxt "Florence"
+msgid "Hmm hmm hmm~ ?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/23/c-1/23
+msgctxt "Florence"
+msgid "Ah, there we go. Thanks for waiting. I'll take you up to her office."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_tea_prelude/0/c-1/23/c-1/31
+msgctxt "Florence"
+msgid "She still has a few appointments lined up, but knowing her she'll be done in a jiff! You can head on up, if you like."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/0
+msgctxt "Florence"
+msgid "Perfect timing! Just so happens I've got a kettle all nice and ready."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/8
+msgctxt "Florence"
+msgid "How do you take it?"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/16/s/0
+msgctxt "Choix"
+msgid "Plain is okay."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/17/s/0
+msgctxt "Choix"
+msgid "Milk and sugar, please."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/18/s/0
+msgctxt "Choix"
+msgid "With a shot of whiskey."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-0/7
+msgctxt "Florence"
+msgid "Coming up!"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-0/15
+msgctxt "Florence"
+msgid "(I'll use the nice cup since you're a VIP. Don't tell the others, though! Wink!)"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-0/23
+msgctxt "Florence"
+msgid "...probably could'a just winked my eye instead'a sayin' it out loud, huh?"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-1/13
+msgctxt "Florence"
+msgid "Oh! That's my favorite too. I think I'll pour myself a cup while I'm at it."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-2/7
+msgctxt "Florence"
+msgid "Well!"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-2/15
+msgctxt "Florence"
+msgid "Normally I wouldn't offer that sort of thing, being a civil servant and all, but you are a VIP!"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-2/23
+msgctxt "Florence"
+msgid "(You didn't hear it from me, but sometimes the mayor likes a little Irish in the cup herself.)"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-2/31
+msgctxt "Florence"
+msgid "Too much for me, personally. I'm a sugar gal."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/c-2/39
+msgctxt "Florence"
+msgid "Here you are!"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/0
+msgctxt "Florence"
+msgid "Wh... whoa! <w>Aaaah!</w>"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/8
+msgctxt "Narrator"
+msgid "Florence stumbles, pitching forward onto her hands and knees. The tea spills all over the floor, though thankfully the cup doesn't shatter."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/29
+msgctxt "Florence"
+msgid "Ooh... oh no! Gosh, that just spilled everywhere."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/40
+msgctxt "Florence"
+msgid "And right on the carpet of my good jacket... Ohh, that's gonna stain!"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/48
+msgctxt "Florence"
+msgid "I'm so sorry dear, I need to dab this out with a towel right away!"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/56
+msgctxt "Florence"
+msgid "Erm. W-Would it be alright if you showed yourself up to the mayor's office? Just this once?"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/64/s/0
+msgctxt "Choix"
+msgid "Sure, don't worry about it."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/65/s/0
+msgctxt "Choix"
+msgid "But... my tea..."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/c-3/13
+msgctxt "Florence"
+msgid "Thank you so much, dear. Sorry again about the tea! Aaagh... please don't tell the mayor about this!"
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/c-4/13
+msgctxt "Florence"
+msgid "Oh... r-right! Erm... I'll make it again first. So sorry about that..."
+msgstr ""
+
+#: cf_cf/cf_firstencounter_1_tea/0/g-0/c-4/21
+msgctxt "Florence"
+msgid "<i>Aagh, c'mon Florence! Get it together!</i>"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/9
+msgctxt "Narrator"
+msgid "There she is, the mayor herself—she simply radiates poise and power. She's an intimidating sort of beauty, but you find yourself intrigued to learn more about her."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/28
+msgctxt "Celia"
+msgid "So... in summary..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/36
+msgctxt "Beverly"
+msgid "I just think if I could get a little more foot traffic around my bar I'd get more business!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/47
+msgctxt "Celia"
+msgid "Oh, Beverly, I understand your concerns. But what do you expect us to do, dear? We already put up posters and held fundraisers."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/55
+msgctxt "Celia"
+msgid "We can't just move the fridge, stove, toilet, and everyone else out of the way to clear foot traffic every night."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/63
+msgctxt "Beverly"
+msgid "We could try that!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/71
+msgctxt "Celia"
+msgid "<i>Bev.</i>"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/79
+msgctxt "Beverly"
+msgid "Tch. Fine."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/87
+msgctxt "Celia"
+msgid "Trust me. We're doing everything that we can."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/95
+msgctxt "Beverly"
+msgid "Alright. But if nobody's in by next week, I'll be back!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/103
+msgctxt "Celia"
+msgid "I'm sure you will, darling."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/0
+msgctxt "Narrator"
+msgid "Celia presses an intercom button on her desk."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/11
+msgctxt "Celia"
+msgid "Florence, dearest? Send the next one in."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/19
+msgctxt "Florence"
+msgid "Yes, Miss."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/27
+msgctxt "Mateo"
+msgid "Uh... Hi."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/38
+msgctxt "Celia"
+msgid "Hello, Mateo. What can I do for you today?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/46
+msgctxt "Mateo"
+msgid "That's... um, that's a great question actually. Now that I'm here I can't even remember! Haha, isn't it funny how that always happens? Right when you need to think of something to say your brain just sort of goes blank."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/57
+msgctxt "Mateo"
+msgid "You know what, it was probably nothing. I don't want to waste your time, I know how busy you are. I'll just see myself out!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/65
+msgctxt "Celia"
+msgid "Mateo."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/73
+msgctxt "Celia"
+msgid "Come, sit."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/81
+msgctxt "Celia"
+msgid "Tell me what's bothering you."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/89
+msgctxt "Mateo"
+msgid "Right... it's just..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/97
+msgctxt "Celia"
+msgid "Go on."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/105
+msgctxt "Mateo"
+msgid "It's Lux. They're kinda pulling cords around the house... refusing to pick up after themselves... keeping the whole bedroom up late with their streams..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/119
+msgctxt "Mateo"
+msgid "It's really been stressful for the inanimals."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/127
+msgctxt "Mateo"
+msgid "And, I don't want to get anyone in trouble, but it's just been a lot and-"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/135
+msgctxt "Celia"
+msgid "Alright, Mateo, alright. Lux, you said?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/143
+msgctxt "Mateo"
+msgid "Y-Yes, ma'am."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/151
+msgctxt "Celia"
+msgid "I'll have someone take care of it."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/159
+msgctxt "Mateo"
+msgid "Thank you..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/178 cf_cf/cf_1st_encounter_2/0/118/239
+msgctxt "Celia"
+msgid "Next?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/189
+msgctxt "Wallace"
+msgid "Wall."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/200
+msgctxt "Celia"
+msgid "Hello, Wallace darling."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/208 cf_cf/cf_1st_encounter_2/0/118/225/b/1
+msgctxt "Wallace"
+msgid "WALL."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/216
+msgctxt "Celia"
+msgid "Yes, I remember from last week. It's on the docket."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/224/b/1
+msgctxt "Wallace"
+msgid "Ah my apologies. How can one forget the docket!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/228
+msgctxt "Celia"
+msgid "Think nothing of it."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/247
+msgctxt "Celia"
+msgid "Oh. It's you."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/255/b/1
+msgctxt "Celia"
+msgid "You're the one who was working on the junk drawer issue. Thanks again for that. Come in, come in."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/255/b/12
+msgctxt "Celia"
+msgid "Mayor Celia. I'm also the president of the HOA. That's \"Home Objects Association\"."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/256/b/1
+msgctxt "Celia"
+msgid "You're the one who puts on those... interesting plays with Chairemi. Come in, come in."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/256/b/9 cf_cf/cf_1st_encounter_2/0/118/257/b/9 cf_cf/cf_1st_encounter_2/0/118/258/b/9 cf_cf/cf_1st_encounter_2/0/118/259/b/1
+msgctxt "Celia"
+msgid "I don't believe we've formally met. Mayor Celia. I'm also the president of the HOA. That's \"Home Objects Association\"."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/257/b/1
+msgctxt "Celia"
+msgid "You're the one who puts on those delightful performances with Chairemi. Come in, come in."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/258/b/1
+msgctxt "Celia"
+msgid "Florence tells me you've been putting on some delightful performances with Chairemi. I'll have to make the time to see them later this week. Come in, come in."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/3
+msgctxt "Celia"
+msgid "Here's my card. But really, all you ever need to do if you need me is to simply look up."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/11
+msgctxt "Celia"
+msgid "What can I do for you today?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/22/s/0 cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/78/0/s/0
+msgctxt "Choix"
+msgid "Nothing specific. I'm just going around talking to everyone."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/23/s/0
+msgctxt "Choix"
+msgid "Try to get the lay of the land, and I wanted to meet \"The Mayor\"."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/24/s/0 cf_cf/cf_raineyreturn/0/11/s/0
+msgctxt "Choix"
+msgid "I have a question about Rainey's past."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/7 cf_cf/cf_1st_encounter_no_detective/0/c-0/7 cf_cf/cf_raineyreturn/0/c-0/7
+msgctxt "Celia"
+msgid "Rainey? Ah... poor thing."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/15 cf_cf/cf_1st_encounter_no_detective/0/c-0/15 cf_cf/cf_raineyreturn/0/c-0/15 cf_cf/quickrainey/0/c-0/18
+msgctxt "Celia"
+msgid "She hasn't been quite the same since the incident..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/23 cf_cf/cf_1st_encounter_no_detective/0/c-0/23 cf_cf/cf_raineyreturn/0/c-0/23
+msgctxt "Celia"
+msgid "What did you want to know?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/0/s/0 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/0/s/0 cf_cf/cf_raineyreturn/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Why's her music all messed up?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/1/s/0 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/1/s/0 cf_cf/cf_raineyreturn/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "What's 'the incident?'"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/0 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/7 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/0 cf_cf/cf_raineyreturn/0/g-0/0
+msgctxt "Celia"
+msgid "...I see."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/8 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/15 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/8 cf_cf/cf_raineyreturn/0/g-0/8
+msgctxt "Celia"
+msgid "It's a tragic affair, really. But I'm one of the only objects in this home old enough to tell it, so I suppose it falls to me."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/16 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/23 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/16 cf_cf/cf_raineyreturn/0/g-0/16 cf_cf/quickrainey/0/c-0/26/c-0/7
+msgctxt "Celia"
+msgid "The long and short of it is that she was damaged during a party. A wild one, if memory serves."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/24 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/31 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/24 cf_cf/cf_raineyreturn/0/g-0/24 cf_cf/quickrainey/0/c-0/26/c-0/15
+msgctxt "Celia"
+msgid "She was knocked down from her perch just as things were really getting going... it was a catastrophic fall."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/32 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/39 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/32 cf_cf/cf_raineyreturn/0/g-0/32 cf_cf/quickrainey/0/g-1/0
+msgctxt "Celia"
+msgid "Here. I'll write everything down for you. Take this to Rainey and tell her about it. She'll have an easier time believing it if you've got written proof."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/43 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/47 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/40 cf_cf/cf_raineyreturn/0/g-0/40 cf_cf/quickrainey/0/g-1/11
+msgctxt "Narrator"
+msgid "Celia writes something quickly on a memo pad, handing it over to you. You can't help but linger on her beautiful handwriting—it's just as grand and elegant as she is."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/51 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/55 cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/48 cf_cf/cf_raineyreturn/0/g-0/51 cf_cf/quickrainey/0/g-1/19
+msgctxt "Celia"
+msgid "She's a stubborn thing, but she still trusts me."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/59 cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/69
+msgctxt "Celia"
+msgid "Now then..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/70
+msgctxt "Celia"
+msgid "Was there anything else you needed?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/118/262/c-2/31/g-0/78/1/s/0
+msgctxt "Choix"
+msgid "I'm getting the lay of the land, and I wanted to meet \"The Mayor\"."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-1/0
+msgctxt "Celia"
+msgid "Well, then. Hello. Meeting successful."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-1/8
+msgctxt "Celia"
+msgid "Never a bad idea to make sure everybody knows your face. We're important here."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-1/16
+msgctxt "Celia"
+msgid "Some sit back and wait for others to plan things. Others simply do them. You and I? We're doers."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "I dunno, I'm kind of an introvert to be honest..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Absolutely."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-1/c-3/7
+msgctxt "Celia"
+msgid "That hardly precludes you from getting things done. It just means that you do them quietly."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-1/c-4/13
+msgctxt "Celia"
+msgid "I've seen you zipping back and forth around the house, running here and there."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/0
+msgctxt "Celia"
+msgid "You seem like a reliable sort. I wonder if I might ask you a favor?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/8
+msgctxt "Celia"
+msgid "It's about my assistant, Florence."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "She seems sweet."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "She seems distracted."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "She spilled my tea."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/c-5/13
+msgctxt "Celia"
+msgid "She is an absolute dear."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/c-5/21
+msgctxt "Celia"
+msgid "Although sometimes, I fear it gets her into trouble."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/c-6/7
+msgctxt "Celia"
+msgid "Yes, that's exactly the issue."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/c-6/15
+msgctxt "Celia"
+msgid "She can be a bit clumsy sometimes... But she's been unusually out of sorts lately. I'm concerned."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/c-7/19
+msgctxt "Celia"
+msgid "I see. That is unfortunate."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-2/c-7/27
+msgctxt "Celia"
+msgid "She can be a bit clumsy sometimes, but she's been unusually out of sorts lately. Even for her."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/0
+msgctxt "Celia"
+msgid "She's such a kind thing... but that means she lets people walk all over her. Sometimes I worry the wrong sort might be taking advantage of her."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/8
+msgctxt "Celia"
+msgid "I've noticed that whenever we go to lunch together she never seems to buy herself anything."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/16
+msgctxt "Celia"
+msgid "What's more, she's been pinching every penny you've dropped on her like a miser. I suspect she might be having financial issues."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/24
+msgctxt "Celia"
+msgid "This office pays her well, of course. She's an invaluable assistant. I think it's possible someone might be fleecing her."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/32
+msgctxt "Celia"
+msgid "I'd like to formally ask for your help."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/40
+msgctxt "Celia"
+msgid "I may be her boss, but Florence would never give me a straight answer if she thought it might upset me."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/48
+msgctxt "Celia"
+msgid "However, she's quite friendly with strangers. And technically speaking, as the owner of the house, you outrank me. Maybe you could get something out of her?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/56
+msgctxt "Celia"
+msgid "What do you say? Would you do me a favor and look into this matter? Quietly?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/70/s/0
+msgctxt "Choix"
+msgid "Okay, I'll look into it."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/71/s/0
+msgctxt "Choix"
+msgid "I'm not that interested."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/c-8/17
+msgctxt "Celia"
+msgid "Thank you. I'll be waiting. Hopefully it's nothing."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/c-9/7
+msgctxt "Celia"
+msgid "Well. I suppose I can't force you. This is a private matter, after all."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/g-3/c-9/15
+msgctxt "Celia"
+msgid "If you happen to change your mind, I'll be here."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/3/b/1
+msgctxt "Celia"
+msgid "Stop doing that!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/6/b/1
+msgctxt "Celia"
+msgid "What else do you need?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/9/s/0
+msgctxt "Choix"
+msgid "Oh, real quick, Rainey wanted me to ask you something."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/10/s/0
+msgctxt "Choix"
+msgid "Tell me about Florence."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/11/s/0
+msgctxt "Choix"
+msgid "Just wanted to see you!"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/12/s/0
+msgctxt "Choix"
+msgid "I figured it out. Florence is trapped in a pyramid scheme."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/13/s/0
+msgctxt "Choix"
+msgid "I'll go back through Florence's office."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/7
+msgctxt "Celia"
+msgid "Oh? What about?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/15
+msgctxt "Celia"
+msgid "Her memory isn't the best, the poor thing. But at least she isn't trapped in that attic anymore."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/23
+msgctxt "Celia"
+msgid "What did she want to know?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/0/s/0
+msgctxt "Choix"
+msgid "What happened on the night of the big party?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-10/31/c-0/89 cf_cf/cf_raineyreturn/0/g-0/59
+msgctxt "Narrator"
+msgid "You leave the Mayor's office, proof in hand."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/7
+msgctxt "Celia"
+msgid "She's the most dedicated secretary I've ever worked with. She would do anything for this office."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/15
+msgctxt "Celia"
+msgid "Unfortunately, the dear can be a little down on herself. Not much in the way of self-confidence."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/23
+msgctxt "Celia"
+msgid "It's a shame, really. She's totally unaware of her own natural charms."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/0/s/0
+msgctxt "Choix"
+msgid "What makes you say that?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/1/s/0
+msgctxt "Choix"
+msgid "Natural charms?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-0/7
+msgctxt "Celia"
+msgid "I think she's under the impression that she needs to spruce herself up. I keep finding empty bottles around her desk. Perfume, maybe? Although they don't carry a scent..."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-0/15
+msgctxt "Celia"
+msgid "And it seems like every time I turn my back, she's got another set."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-0/23
+msgctxt "Celia"
+msgid "They don't look especially high-quality either. Poor dear."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-1/7
+msgctxt "Celia"
+msgid "Of course."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-1/15
+msgctxt "Celia"
+msgid "She's a hard worker and she gets along with absolutely everybody. She's never in the spotlight, but she makes every room she's in better, like foil next to a diamond."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-1/23
+msgctxt "Celia"
+msgid "The objects who come into my office to lodge complaints would be in a much worse mood if she weren't there to take the edge off them."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-1/31
+msgctxt "Celia"
+msgid "And, speaking personally, I'd enjoy my work much less if I didn't get to see her smiling face in the office every morning."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-11/31/c-1/39
+msgctxt "Celia"
+msgid "It's a tragedy she doesn't see herself the same way."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-12/7
+msgctxt "Celia"
+msgid "You have done so. Keep well."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_2/0/cf_celiaquestionloop/c-14/7/b/1
+msgctxt "Celia"
+msgid "Mhm."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_no_detective/0/0
+msgctxt "Celia"
+msgid "Welcome back. Have you changed your mind about helping me with Florence?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_no_detective/0/8/s/0
+msgctxt "Choix"
+msgid "Actually, Rainey wanted me to ask you something."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_no_detective/0/9/s/0
+msgctxt "Choix"
+msgid "I'll do it."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_no_detective/0/10/s/0
+msgctxt "Choix"
+msgid "Nope."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_no_detective/0/c-0/31/g-0/56
+msgctxt "Celia"
+msgid "Now then... was there anything else you needed?"
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_no_detective/0/c-1/7
+msgctxt "Celia"
+msgid "Wonderful."
+msgstr ""
+
+#: cf_cf/cf_1st_encounter_no_detective/0/c-2/13
+msgctxt "Celia"
+msgid "...then I question why you're here taking up my valuable time. You can see yourself out."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/6
+msgctxt "Florence"
+msgid "Oh, hello again!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/14
+msgctxt "Florence"
+msgid "I trust your meeting with the mayor went well?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/22/s/0
+msgctxt "Choix"
+msgid "Eh. I kinda blew her off actually."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/23/s/0
+msgctxt "Choix"
+msgid "Yep."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/c-0/7
+msgctxt "Florence"
+msgid "W-What?!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/c-0/15
+msgctxt "Florence"
+msgid "Oh, maybe that's why she's been sort of prickly lately..."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/c-0/23
+msgctxt "Florence"
+msgid "Here, you have to go talk to her at once!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/c-1/7
+msgctxt "Florence"
+msgid "Wonderful!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/0
+msgctxt "Florence"
+msgid "Anything else I can help you with while you're here?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/8/s/0
+msgctxt "Choix"
+msgid "Tell me about yourself."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/9/s/0
+msgctxt "Choix"
+msgid "About your crush on the mayor..."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/10/s/0 cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/50/0/s/0
+msgctxt "Choix"
+msgid "Florence... you have feelings for the mayor, don't you?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/11/s/0
+msgctxt "Choix"
+msgid "Tell me about the mayor."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/12/s/0
+msgctxt "Choix"
+msgid "Celia tells me you've been leaving bottles around your desk."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/13/s/0
+msgctxt "Choix"
+msgid "<i>Exit Florence's office.</i>"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-2/11
+msgctxt "Florence"
+msgid "What? You want to know about me?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-2/19
+msgctxt "Florence"
+msgid "Oh, no. No, no, no, no, no."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-2/27
+msgctxt "Florence"
+msgid "You just spoke with the mayor! A little ol' fuddy-duddy like me can't hold a candle to someone like her."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-2/35
+msgctxt "Florence"
+msgid "I just handle the paperwork, that's all. Pay me no mind."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-4/7
+msgctxt "Florence"
+msgid "W-w-w-what?!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-4/18 cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/50/c-0/18
+msgctxt "Florence"
+msgid "Hahahaha! T-That's crazy!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-4/34 cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/50/c-0/34
+msgctxt "Florence"
+msgid "Ooh... Is it that obvious?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/11
+msgctxt "Florence"
+msgid "She's just incredible, isn't she?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/19
+msgctxt "Florence"
+msgid "So tall and commanding... What I wouldn't give to be able to deal with people the way that she does!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/27
+msgctxt "Florence"
+msgid "Some people think the mayor's cold-hearted, but I'll tell you what, there isn't a sweeter structure this side of the HOA!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/0/s/0
+msgctxt "Choix"
+msgid "She's very striking."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/1/s/0
+msgctxt "Choix"
+msgid "You seem quite taken with her."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-0/13
+msgctxt "Florence"
+msgid "Isn't she though?!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-0/21
+msgctxt "Narrator"
+msgid "Florence puts her hands to her cheeks and sighs wistfully, her lashes fluttering."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-0/29
+msgctxt "Florence"
+msgid "...that vaulted figure. Her impeccable fashion sense. She really has it all, doesn't she?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-0/37
+msgctxt "Florence"
+msgid "It's no wonder she's the mayor! She has my vote any day."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/7
+msgctxt "Florence"
+msgid "Wh..."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/18
+msgctxt "Florence"
+msgid "W-What do you mean by that exactly?!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/26
+msgctxt "Florence"
+msgid "I-I just think she's a really remarkable ceiling, that's all!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/34
+msgctxt "Florence"
+msgid "Besides, she's my boss so I couldn't begin to comment on her outside of professional opinion. H-haha!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/50/1/s/0
+msgctxt "Choix"
+msgid "Sounds very professional."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/50/c-0/7
+msgctxt "Florence"
+msgid "W-w-w- wait wait wait, what?!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-5/35/c-1/50/c-1/7
+msgctxt "Florence"
+msgid "Hoho! Y-yep!!!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/11
+msgctxt "Florence"
+msgid "Oh goodness! Did I forget to clean those up again? I'm hopeless..."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/19
+msgctxt "Florence"
+msgid "But I'm happy to hear she's noticed something different about me, at least. (That means it's working!)"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/27
+msgctxt "Florence"
+msgid "I have been sampling some new things the past few weeks. It's a special new line of \"bottled air\" from Airway!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/0/s/0
+msgctxt "Choix"
+msgid "Ah, of course. Bottled air. A quality product."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/1/s/0
+msgctxt "Choix"
+msgid "Ah, of course. Bottled air. A 'quality' product..."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/2/s/0
+msgctxt "Choix"
+msgid "Bottled... air?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/3
+msgctxt "Florence"
+msgid "Yes! <i>\"Activated Air to improve the mind and body!\"</i>"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/11
+msgctxt "Florence"
+msgid "And it has the most <i>interesting</i> business model!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/19
+msgctxt "Florence"
+msgid "Now, normally, you just buy a product from the store and that's it, right?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/27
+msgctxt "Florence"
+msgid "Well, with Activated Air from Airway, you can buy your own kit and sell them to other people! And then <i>those</i> people can start selling their own little kits! And you get a cut of each sale."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/38
+msgctxt "Florence"
+msgid "They call it a \"resale triangle!\" Isn't that fun?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/0/s/0
+msgctxt "Choix"
+msgid "That's very interesting."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/1/s/0
+msgctxt "Choix"
+msgid "That is 100% a pyramid scheme."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/13
+msgctxt "Florence"
+msgid "Isn't it?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/21
+msgctxt "Florence"
+msgid "Now, I'm not really cut out for the business angle myself. Or, the business tri-angle, as those Airway people would say."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/29
+msgctxt "Florence"
+msgid "But the label says that anybody seen through the Activated Air will become irresistibly eye-catching!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/37
+msgctxt "Florence"
+msgid "It's like a magical lens floating all around your body!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/45
+msgctxt "Florence"
+msgid "That's why I've bought ten packs. You can't buy the products by themselves, you see. It's a whole process."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/53
+msgctxt "Florence"
+msgid "They're quite expensive, but it'll all be worth it when they work!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/0/s/0
+msgctxt "Choix"
+msgid "Are you trying to catch anyone's eye in particular?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/1/s/0
+msgctxt "Choix"
+msgid "Yeah. That's absolutely a pyramid scheme."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/7
+msgctxt "Florence"
+msgid "Oho... well. Maybe. A floor has to have her secrets!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Well, I think you're plenty eye-catching already, Florence."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Maybe... Mayor Celia?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Goodness! Flatterer!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-0/15
+msgctxt "Florence"
+msgid "You don't have to butter me up, dear. After all, the primary <i>flavoring agent</i> in many of Airway's air bottles is actually butter! I'm covered in it!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-0/23
+msgctxt "Florence"
+msgid "The ants love it."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-1/7
+msgctxt "Narrator"
+msgid "Florence lets out a sound that you couldn't transcribe even if you tried."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-1/15
+msgctxt "Florence"
+msgid "<w>kfdklsahHodghdk!</w>"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-1/23
+msgctxt "Florence"
+msgid "I HAVE NO IDEA WHAT YOU'RE TALKING ABOUT, DEAR!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-1/31
+msgctxt "Florence"
+msgid "Ho! Ho ho ho! HAHAHAHAHA!!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-1/39
+msgctxt "Florence"
+msgid "M-Me and the mayor?! HAHAHA!! Could you even imagine!?! AHAHAH!!!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-1/58
+msgctxt "Florence"
+msgid "...could you, though?"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-6/35/g-0/46/c-0/61/c-0/15/c-1/66/0/s/0
+msgctxt "Choix"
+msgid "Florence..."
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-7/7
+msgctxt "Florence"
+msgid "Oh! Bye bye!"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-7/15/0/s/0 cf_cf/cf_bottledairmention/0/g-0/c-2/30/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "<i>Go to Celia's office.</i>"
+msgstr ""
+
+#: cf_cf/cf_2nd_encounter/0/cf_florencequestionloop/c-7/15/1/s/0
+msgctxt "Choix"
+msgid "<i>Leave.</i>"
+msgstr ""
+
+#: cf_cf/cf_pyramidscheme/0/4
+msgctxt "Florence"
+msgid "A pyramid scheme? Oh, no! No."
+msgstr ""
+
+#: cf_cf/cf_pyramidscheme/0/12
+msgctxt "Florence"
+msgid "It's an opportunity to become a small business! At least, that's what the very persuasive literature that comes with each package says."
+msgstr ""
+
+#: cf_cf/cf_pyramidscheme/0/20
+msgctxt "Florence"
+msgid "You don't need to worry about me, dearie. I'm a grown floorboard, I think I'd know a pyramid scheme when I see one!"
+msgstr ""
+
+#: cf_cf/cf_pyramidscheme/0/28
+msgctxt "Florence"
+msgid "Besides, this is a \"resale triangle\". Very different."
+msgstr ""
+
+#: cf_cf/cf_pyramidscheme/0/36
+msgctxt "Florence"
+msgid "...by the way I don't suppose you could see your way to dropping a few more coins on me, could you? All these bottles are really starting to eat into my finances."
+msgstr ""
+
+#: cf_cf/cf_pyramidscheme/0/44/s/0
+msgctxt "Choix"
+msgid "<i>Maybe I should tell Celia about this... </i>"
+msgstr ""
+
+#: cf_cf/cf_pyramidscheme/0/45/s/0
+msgctxt "Choix"
+msgid "No thank you..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/0
+msgctxt "Florence"
+msgid "I guess I can't hide anything from someone as keen-eyed as you."
+msgstr ""
+
+#: cf_cf/florence_part1/0/8
+msgctxt "Florence"
+msgid "Yes. I'm afraid it's true. I've been... taken with the mayor for... For quite some time now."
+msgstr ""
+
+#: cf_cf/florence_part1/0/16
+msgctxt "Florence"
+msgid "Any time I think about her, I can feel my foundation warping into the shape of a heart..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/24
+msgctxt "Florence"
+msgid "I'm terribly embarrassed about it, of course!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/32
+msgctxt "Florence"
+msgid "But can you blame me?! She's incredible!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/40
+msgctxt "Florence"
+msgid "The looks... the brains... the confidence."
+msgstr ""
+
+#: cf_cf/florence_part1/0/48/s/0
+msgctxt "Choix"
+msgid "Sounds like you really look up to her."
+msgstr ""
+
+#: cf_cf/florence_part1/0/49/s/0
+msgctxt "Choix"
+msgid "I dunno. I think you're just about as cute as she is."
+msgstr ""
+
+#: cf_cf/florence_part1/0/c-0/7
+msgctxt "Florence"
+msgid "I mean, <i>everyone</i> looks up to her. She's the ceiling."
+msgstr ""
+
+#: cf_cf/florence_part1/0/c-0/15
+msgctxt "Florence"
+msgid "Ho ho! House joke!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/c-0/23
+msgctxt "Florence"
+msgid "But... me especially. She means the world to me."
+msgstr ""
+
+#: cf_cf/florence_part1/0/c-1/13
+msgctxt "Florence"
+msgid "P-Please, dear, don't try to fluster me! I'm already in a tizzy!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/0
+msgctxt "Florence"
+msgid "The other day while organizing her schedule, I even caught myself writing my first name with her last and vice-versa."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/8
+msgctxt "Florence"
+msgid "\"Celia Floor.\" \"Florence Ceiling.\""
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/16
+msgctxt "Florence"
+msgid "...listen to me go on and on like this. I'm such a schoolgirl."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/0
+msgctxt "Florence"
+msgid "Y-You're not going to tell Celia, are you? I'd be absolutely mortified!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/12/s/0
+msgctxt "Choix"
+msgid "Your secret's safe with me."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/13/s/0
+msgctxt "Choix"
+msgid "Why not tell her you like her?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/c-2/13
+msgctxt "Florence"
+msgid "Thank goodness... Nearly gave me a tell-tale heart attack there."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/c-3/7
+msgctxt "Florence"
+msgid "Oh, lord, no! I'd have to be cuckoo bananas to do that!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/c-3/15
+msgctxt "Florence"
+msgid "First thing's first: She's my boss! This is a public office, for heaven's sake! I couldn't cause that kind of scandal. It'd ruin her!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/c-3/23
+msgctxt "Florence"
+msgid "And, second things second:"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-0/32/c-3/31
+msgctxt "Florence"
+msgid "I'm nervous."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Maybe I could help you catch her eye?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "Well. Good luck with all that."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/13 cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/0
+msgctxt "Florence"
+msgid "...really?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/21
+msgctxt "Florence"
+msgid "Oh, no, dear... That's asking far too much."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/29
+msgctxt "Florence"
+msgid "I can't imagine she'd ever think of me as anything other than her fuddy-duddy little secretary, anyhow..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/0/s/0
+msgctxt "Choix"
+msgid "Well, if you're sure..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/1/s/0
+msgctxt "Choix"
+msgid "Not if you use more bottled air!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/2/s/0
+msgctxt "Choix"
+msgid "What about that new bottled air product that everyone is talking about these days?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/3/s/0
+msgctxt "Choix"
+msgid "That's not true. She really respects you."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-0/7
+msgctxt "Florence"
+msgid "Thanks anyways, dear. It's sweet of you to want to help."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/7
+msgctxt "Florence"
+msgid "Oh, I don't know about that."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "She told me that \"you make every room you're in better\"."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "She said she wouldn't enjoy her work if she didn't get to see your smiling face every day."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/8
+msgctxt "Florence"
+msgid "She said that? About... me?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/16
+msgctxt "Florence"
+msgid "That's so sweet..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "Celia asked me to make sure you were ok. She's been worried sick about you."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/7
+msgctxt "Florence"
+msgid "Well... Gosh, I... I don't know what to say!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/15
+msgctxt "Florence"
+msgid "I think I might cry..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/23
+msgctxt "Florence"
+msgid "But... Wh-what am I supposed to do?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/31
+msgctxt "Florence"
+msgid "Sure, I'm better than a plain dirt floor, I suppose. But I've got wrinkles! Cracks in my tiles!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/39
+msgctxt "Florence"
+msgid "My paneling is peeling, my form is all warped..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/47
+msgctxt "Florence"
+msgid "Even if the mayor really does like me a <i>little</i> bit, I can't imagine ever being good enough to reach her level!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/55
+msgctxt "Florence"
+msgid "She's a ceiling!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/63
+msgctxt "Florence"
+msgid "Unless..."
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/71
+msgctxt "Florence"
+msgid "Wait! Wait a moment, dear!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/79
+msgctxt "Florence"
+msgid "You've been running around and practicing dating, right? You must've learned a thing or two!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/87
+msgctxt "Florence"
+msgid "Would you be able to teach me some of what you've learned?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/95/0/s/0
+msgctxt "Choix"
+msgid "I can try?"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-4/37/c-3/15/g-0/24/c-0/95/c-0/7
+msgctxt "Florence"
+msgid "Okay! Any advice you have would be great!"
+msgstr ""
+
+#: cf_cf/florence_part1/0/g-1/c-5/7
+msgctxt "Florence"
+msgid "Alright... Phew."
+msgstr ""
+
+#: cf_cf/florence_part2/0/6
+msgctxt "Florence"
+msgid "Oh, you're back!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/14/b/1
+msgctxt "Florence"
+msgid "Did you want to see the mayor? Or were you here to help me, erm..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/14/b/9
+msgctxt "Florence"
+msgid "(G-Give me some dating advice?)"
+msgstr ""
+
+#: cf_cf/florence_part2/0/18/s/0
+msgctxt "Choix"
+msgid "I'm here to see Celia."
+msgstr ""
+
+#: cf_cf/florence_part2/0/19/s/0
+msgctxt "Choix"
+msgid "I'm here to give dating advice."
+msgstr ""
+
+#: cf_cf/florence_part2/0/20/s/0 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/31/2/s/0
+msgctxt "Choix"
+msgid "Actually I had some questions for you."
+msgstr ""
+
+#: cf_cf/florence_part2/0/21/s/0
+msgctxt "Choix"
+msgid "I know what you need! More bottled air!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/22/s/0
+msgctxt "Choix"
+msgid "I'm coming here from Airway Inc. Have you used our bottled air to attract the attentions of a certain crush you might have?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/23/s/0
+msgctxt "Choix"
+msgid "Nevermind."
+msgstr ""
+
+#: cf_cf/florence_part2/0/c-0/7 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/31/c-0/7
+msgctxt "Florence"
+msgid "Okay, I'll send you right up!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/c-5/7
+msgctxt "Florence"
+msgid "Oh! Alright! S-See you later, then!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/0
+msgctxt "Florence"
+msgid "A-Alright! Let's hear it!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/0/s/0
+msgctxt "Choix"
+msgid "If you want someone to like you, then <i>you</i> have to like you first."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/1/s/0
+msgctxt "Choix"
+msgid "Maybe you should try being sassy~!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/2/s/0
+msgctxt "Choix"
+msgid "You need to use more Activated Air!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/3/s/0
+msgctxt "Choix"
+msgid "For you girl, the <i>only</i> thing is Activated Air!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/4/s/0
+msgctxt "Choix"
+msgid "...sorry, I got nothing."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/7
+msgctxt "Florence"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/0/s/0
+msgctxt "Choix"
+msgid "You're so quick to belittle yourself, Florence. You need to be more confident."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/1/s/0
+msgctxt "Choix"
+msgid "You want Celia to love you? Love yourself."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/8
+msgctxt "Florence"
+msgid "Well. Easier said than done, I think."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/16
+msgctxt "Florence"
+msgid "I'm just a boring old floor... What's there to love?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "Your kindness."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "Remember what the mayor said?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/2/s/0
+msgctxt "Choix"
+msgid "Well, first off? You're hot."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/7
+msgctxt "Florence"
+msgid "My... kindness?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "The way you greet the citizens when they come into the office."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Oh that's nothing..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You offered me tea. And a smile."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "So..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That's worth more than you think, Florence."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/21
+msgctxt "Florence"
+msgid "You really think so?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/0/s/0
+msgctxt "Choix"
+msgid "Celia thinks so. She told me, herself, remember?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/7
+msgctxt "Florence"
+msgid "...that's true."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "She has to deal with angry, frustrated citizens all day. You're her bright spot."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Gosh, I try to be. I really do!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "How does the mayor take her tea?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Hmm? Earl grey, caffeinated. With a spot of milk."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/15
+msgctxt "Florence"
+msgid "(And... sometimes a little bit of whiskey, on the rough days.)"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "And I bet you're the only object who knows that."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/7
+msgctxt "Florence"
+msgid "I..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You're kind, Florence. And she likes you for that. Tell her how you feel."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/15 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/23
+msgctxt "Florence"
+msgid "Okay."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/23 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/31
+msgctxt "Florence"
+msgid "Okay!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/31 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/39 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/26
+msgctxt "Florence"
+msgid "It's hard to believe, but... If both of you think I'm great, then, well, maybe I am!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/39 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/34
+msgctxt "Florence"
+msgid "I'm gonna talk to Celia right now! Tell her how I feel!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/47 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/55 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/42
+msgctxt "Florence"
+msgid "A-And if I get fired, then you have to buy me lunch! (I'm... a little short on cash.)"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/64/0/s/0 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/72/0/s/0 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/59/0/s/0
+msgctxt "Choix"
+msgid "Haha, sure thing."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/64/1/s/0 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/72/1/s/0 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/59/1/s/0
+msgctxt "Choix"
+msgid "You won't get fired. I believe in you."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-0/15/c-0/15/c-0/15/c-0/29/c-0/15/c-0/15/c-0/23/c-0/15/c-0/64/g-0/6 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/72/g-0/6 cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/59/g-0/6
+msgctxt "Florence"
+msgid "...alright. Let's go!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/7
+msgctxt "Florence"
+msgid "Hm?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "She told me she loves seeing you. And that you make her work better."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/7
+msgctxt "Florence"
+msgid "Oh, that. Just the sort of thing a mayor of her caliber would say."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Do you think Celia would lie about that sort of thing?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "...no. I guess she wouldn't."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/15
+msgctxt "Florence"
+msgid "B-But maybe she was just being polite! What if she actually hates me?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I wonder how Celia would feel if she knew how cruel you thought she was."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/7
+msgctxt "Florence"
+msgid "Huh?!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/15
+msgctxt "Florence"
+msgid "N-No, I...!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "You don't? Then why would you imagine a version of her that's so much meaner than she really is?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/15
+msgctxt "Florence"
+msgid "I guess I never thought about it like that before."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/23
+msgctxt "Florence"
+msgid "That's not very nice of me. Is it?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/31
+msgctxt "Florence"
+msgid "Casting the mayor in such a terrible light... just because of my own insecurities."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "She likes you, Florence."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/7
+msgctxt "Florence"
+msgid "...do you really, really think so?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Of course. You don't think <i>I'm</i> a liar now, do you?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "No! No, I don't."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-1/15/c-0/15/c-0/23/c-0/23/c-0/39/c-0/15/c-0/47
+msgctxt "Florence"
+msgid "I'm... I'm going to talk to Celia right now! Tell her how I feel!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/13
+msgctxt "Florence"
+msgid "H-Huh?!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/21
+msgctxt "Florence"
+msgid "Goodness gracious, no I am not!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/0/s/0
+msgctxt "Choix"
+msgid "Sorry. You don't get to decide whether or not you're hot."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/1/s/0
+msgctxt "Choix"
+msgid "Beauty is in the eye of the beholder, and <i>damn.</i> You are a sight to behold."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/0
+msgctxt "Florence"
+msgid "N-Now you're just being silly!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "I'm being honest."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Those \"cracked tiles\" and wrinkles you were so worried about? Those are charm points!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/2/s/0
+msgctxt "Choix"
+msgid "Those ugly, modern, sheer grey floors got NOTHING on you."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/0
+msgctxt "Florence"
+msgid "Well..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Girl. It's all about that baseboard. Renters love a little extra floor space! And you have got it!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/7
+msgctxt "Florence"
+msgid "I feel like you're just flattering me! I'm just a dumpy little thing..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "The only thing you still need to get? A date."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Goodness me, I'm not used to all this praise, haha..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Celia will praise you a whole lot more than this after the two of you start kissing."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Aaaaaagh, stop it! Stop it, you silly... silly human!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-6/15/g-0/24/c-2/29/g-0/8/g-0/8/c-0/15/c-0/15/c-0/18
+msgctxt "Florence"
+msgid "Fine! Fine, okay! You've convinced me!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-7/7
+msgctxt "Florence"
+msgid "Ho ho ho!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-7/15
+msgctxt "Florence"
+msgid "Oh. Oh, goodness no!"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-7/23
+msgctxt "Florence"
+msgid "I don't think I could outwit or out-sass the mayor if my pipes depended on it."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-7/31
+msgctxt "Florence"
+msgid "We'll have to try something else."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/7
+msgctxt "Florence"
+msgid "...that's alright."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/15
+msgctxt "Florence"
+msgid "Figured I was a lost cause..."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/23
+msgctxt "Florence"
+msgid "Anything else I can do while you're up here?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/31/0/s/0
+msgctxt "Choix"
+msgid "Could I speak with Celia for a bit?"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/31/1/s/0
+msgctxt "Choix"
+msgid "Wait nevermind, let's try the dating advice again."
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/31/3/s/0
+msgctxt "Choix"
+msgid "That's all for now. <i>Exit</i>"
+msgstr ""
+
+#: cf_cf/florence_part2/0/florence_part2_spectacle_check_a/8/c-10/31/c-3/7
+msgctxt "Florence"
+msgid "Alright. Let me know if you come up with anything!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/4
+msgctxt "Florence"
+msgid "You're right! So what if the last few bottles haven't been working out so far?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/12
+msgctxt "Florence"
+msgid "That just means that I've gotta use more of it!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/20/s/0
+msgctxt "Choix"
+msgid "You probably need a lot because of your considerable surface area."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/21/s/0
+msgctxt "Choix"
+msgid "I knew you seemed like a smart lady!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/c-0/13
+msgctxt "Florence"
+msgid "C-Considerable?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/c-0/24
+msgctxt "Florence"
+msgid "I know my square footage is a little higher than average on the bottom floor, but..."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/c-1/13
+msgctxt "Florence"
+msgid "Oho, well..."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "So, where have you been getting your Activated Air from?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/7
+msgctxt "Florence"
+msgid "Stella provided me a few samples! You know Stella. The staircase?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/22
+msgctxt "Florence"
+msgid "The first batch didn't seem like enough, so I've been ordering them online."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/0/s/0
+msgctxt "Choix"
+msgid "Interesting... Oh, look at the time, I actually have to go. <i>Report to Celia.</i>"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/1/s/0
+msgctxt "Choix"
+msgid "Well aren't you lucky! It just so happens that I work with Stella!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/2/s/0
+msgctxt "Choix"
+msgid "Well aren't you lucky! It just so happens that I have a direct connect with Airway!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/c-0/7
+msgctxt "Florence"
+msgid "So soon? Alright!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/c-0/15
+msgctxt "Florence"
+msgid "You think I should look into getting more Activated Air?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Maybe hold off on that for a bit."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/c-0/23/c-0/7
+msgctxt "Florence"
+msgid "Alright, whatever you say!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-0/c-2/30/c-2/7
+msgctxt "Florence"
+msgid "No! Small world!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Hey, I know. Why don't you sign this paperwork to become an Airway Lieutenant so Stella can start shipping you Activated Air directly?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/7
+msgctxt "Florence"
+msgid "Is that faster than ordering online?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Probably!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/7
+msgctxt "Florence"
+msgid "Oho! What a coinkydink. Here I am with this problem and you come in out of nowhere to help!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That's me. Super helpful."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Hm... What's this section about a long-term \"indentured servitude to the Airway company\"...?"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Probably just a typo. Hurry up and sign it."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/15/c-0/7
+msgctxt "Florence"
+msgid "Welp, I have no reason not to believe you!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/15/c-0/15
+msgctxt "Narrator"
+msgid "Florence produces a pen and scrawls a signature on your proferred paperwork."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/15/c-0/20
+msgctxt "Florence"
+msgid "There you go. Signed on the bottom line! Easiest place for a floor to sign, ho ho!"
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/15/c-0/28/0/s/0
+msgctxt "Choix"
+msgid "Thanks so much, Florence. You've been a huge help."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/15/c-0/28/c-0/7
+msgctxt "Narrator"
+msgid "You take your leave before Florence can work out what's just happened."
+msgstr ""
+
+#: cf_cf/cf_bottledairmention/0/g-1/c-3/15/c-0/15/c-0/15/c-0/28/c-0/15
+msgctxt "Florence"
+msgid "Okay, bye-dee-bye!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/0/b/7
+msgctxt "Celia"
+msgid "Florence? I told you I was in the middle of something."
+msgstr ""
+
+#: cf_cf/florence_part3/0/0/b/18
+msgctxt "Celia"
+msgid "It's not like you to barge in without calling up first. Or at least knocking."
+msgstr ""
+
+#: cf_cf/florence_part3/0/0/b/26 cf_cf/florence_part3/0/1/b/18
+msgctxt "Florence"
+msgid "P-PARDON THE INTRUSION, MISS MAYOR!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/0/b/34
+msgctxt "Celia"
+msgid "It's alright, dearest. Just... a little warning next time. This current work is sensitive."
+msgstr ""
+
+#: cf_cf/florence_part3/0/0/b/42
+msgctxt "Florence"
+msgid "S-SORRY!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/0/b/50
+msgctxt "Celia"
+msgid "Sigh..."
+msgstr ""
+
+#: cf_cf/florence_part3/0/1/b/7
+msgctxt "Celia"
+msgid "Florence? You didn't let me know you were coming up. That's unusual."
+msgstr ""
+
+#: cf_cf/florence_part3/0/1/b/26
+msgctxt "Celia"
+msgid "It's alright, dearest."
+msgstr ""
+
+#: cf_cf/florence_part3/0/4
+msgctxt "Celia"
+msgid "What can I do for you?"
+msgstr ""
+
+#: cf_cf/florence_part3/0/12
+msgctxt "Narrator"
+msgid "Florence says nothing, only staring wordlessly at Celia."
+msgstr ""
+
+#: cf_cf/florence_part3/0/47
+msgctxt "Celia"
+msgid "Dear?"
+msgstr ""
+
+#: cf_cf/florence_part3/0/55/s/0
+msgctxt "Choix"
+msgid "Go on, Florence."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/7
+msgctxt "Florence"
+msgid "Oh. Yes! Of course!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/15
+msgctxt "Florence"
+msgid "C-Can I get you anything to drink?"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/23
+msgctxt "Celia"
+msgid "You came all the way up here to ask me that?"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "No. Florence has something important she wants to tell you. Isn't that right, Florence?"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/7
+msgctxt "Florence"
+msgid "Y-Yes."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/15
+msgctxt "Florence"
+msgid "<w>inhale... </w>"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/23
+msgctxt "Florence"
+msgid "<w>exhale... </w>"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/31
+msgctxt "Florence"
+msgid "I'm quitting!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/39 cf_cf/celia_part2/0/g-2/c-5/7
+msgctxt "Celia"
+msgid "What?!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/0/s/0
+msgctxt "Choix"
+msgid "What?!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/7
+msgctxt "Florence"
+msgid "Er..."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/15
+msgctxt "Florence"
+msgid "J-just kidding! H-Ha ha!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/23
+msgctxt "Celia"
+msgid "Dearest, what is going on with you lately?"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/31
+msgctxt "Celia"
+msgid "You're an absolute ball of nerves. Your desk is littered with bottles. You're hardly eating anymore when we go out."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/39
+msgctxt "Florence"
+msgid "Nothing's going on! I..."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/47
+msgctxt "Florence"
+msgid "Sorry! I'm sorry! I don't know what I was thinking. I'll get out of your way. Sorry!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/55
+msgctxt "Celia"
+msgid "Florence. Stop."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/63
+msgctxt "Celia"
+msgid "I'm worried about you."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/71
+msgctxt "Celia"
+msgid "You know you can tell me anything. Right? I'm not just your boss. I'm your friend."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/79
+msgctxt "Florence"
+msgid "Uh..."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/0/s/0
+msgctxt "Choix"
+msgid "See? She cares about you. Now tell her how <i>you</i> feel."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/1/s/0
+msgctxt "Choix"
+msgid "Trust her, Florence.  ...and trust in yourself."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/2/s/0
+msgctxt "Choix"
+msgid "She's right there! Get it, girl!"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/c-0/7
+msgctxt "Celia"
+msgid "Hm. Yes I do."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/c-1/7
+msgctxt "Celia"
+msgid "Wise words."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/c-2/15
+msgctxt "Celia"
+msgid "Yes... 'get it girl.'"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/0
+msgctxt "Florence"
+msgid "Okay. You're right."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/8
+msgctxt "Florence"
+msgid "And... you're right too, Miss Mayor. Something <i>has</i> been on my mind recently."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/16
+msgctxt "Florence"
+msgid "(Gosh. Gosh this is so hard.)"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/27
+msgctxt "Florence"
+msgid "I'm sorry about the way I've been acting. I know I've caused you a lot of worry, and I'm sure it's been affecting your work, and I'm so, so sorry about that and..."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/35
+msgctxt "Celia"
+msgid "Shh, shh shh shh. Don't worry about any of that. It doesn't matter. Just let me know what I can do to help."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/43
+msgctxt "Florence"
+msgid "Oh... but that's exactly the problem."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/51
+msgctxt "Celia"
+msgid "I don't understand."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/59
+msgctxt "Florence"
+msgid "You're always helping everybody. Because you're so kind. And talented. And patient, and wonderful."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/67
+msgctxt "Florence"
+msgid "But you can't help with this. Because that helpfulness and that way you are... That's exactly the reason I can't help feeling the way I do when I think about you."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/83
+msgctxt "Celia"
+msgid "What do you mean, dear?"
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/91/0/s/0
+msgctxt "Choix"
+msgid "She has feelings for you."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/91/c-0/7
+msgctxt "Celia"
+msgid "Shh. Shush. Shut up. I want to hear her say it."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/91/c-0/15
+msgctxt "Florence"
+msgid "Of course. Much easier to fire me if you've got it spoken in front of a witness, I get it."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/91/c-0/23
+msgctxt "Celia"
+msgid "Oh, Florence, no. Never. Never in a million years could I fire you."
+msgstr ""
+
+#: cf_cf/florence_part3/0/c-0/31/c-0/50/c-0/87/g-0/91/c-0/31
+msgctxt "Celia"
+msgid "You are wrong, you know. I actually can help you with this. Quite easily, in fact. Won't even need any paperwork."
+msgstr ""
+
+#: cf_cf/celia_part1/0/6
+msgctxt "Celia"
+msgid "A pyramid scheme?! Well, that explains it."
+msgstr ""
+
+#: cf_cf/celia_part1/0/14
+msgctxt "Celia"
+msgid "What are they selling?"
+msgstr ""
+
+#: cf_cf/celia_part1/0/22/s/0
+msgctxt "Choix"
+msgid "Cleaning supplies. Something called \"Airway Activated Air\"?"
+msgstr ""
+
+#: cf_cf/celia_part1/0/c-0/7
+msgctxt "Celia"
+msgid "Oh no."
+msgstr ""
+
+#: cf_cf/celia_part1/0/c-0/15
+msgctxt "Celia"
+msgid "I've heard of Airway. Despicable company. The telephone pole told me just the other day that their products have infected the whole neighborhood just a few houses over."
+msgstr ""
+
+#: cf_cf/celia_part1/0/c-0/23
+msgctxt "Celia"
+msgid "Well, if they think they're going to squeeze another red cent out of my Florence, they've got another thing coming!"
+msgstr ""
+
+#: cf_cf/celia_part1/0/c-0/34
+msgctxt "Celia"
+msgid "Florence never leaves the premises... Which means the salesperson is coming from <i>inside the house</i>. Do you have any idea who might be peddling that snake oil?"
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "I think it was Stella, but I actually talked her out of it already."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/1/s/0 cf_cf/celia_investigating/0/23/s/0
+msgctxt "Choix"
+msgid "It's Stella, the Stairs."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/2/s/0 cf_cf/celia_investigating/0/24/s/0
+msgctxt "Choix"
+msgid "It could be Stella. She's peddling a similar product."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/3/s/0
+msgctxt "Choix"
+msgid "No, sorry."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/7
+msgctxt "Celia"
+msgid "I see. In that case I suppose I'll have to investigate myself."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/15
+msgctxt "Celia"
+msgid "Thank you for coming to me with this."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/23
+msgctxt "Celia"
+msgid "I should have an update on this matter within the week."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/31
+msgctxt "Celia"
+msgid "Actually, make that three days. I'm bumping this up to priority number one."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/39/0/s/0
+msgctxt "Choix"
+msgid "Wow, you're taking this really seriously."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/39/c-0/7
+msgctxt "Celia"
+msgid "Of course. A scam is preying on the members of our community. We can't leave them to fend for themselves."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/39/c-0/15
+msgctxt "Celia"
+msgid "Especially not the sweet, innocent, adorable ones..."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/39/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "What?"
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/39/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Very true."
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/39/c-0/23/c-0/7
+msgctxt "Celia"
+msgid "Hm?"
+msgstr ""
+
+#: cf_cf/celia_part1/0/g-0/c-4/39/c-0/23/c-0/15
+msgctxt "Celia"
+msgid "I said you're free to go."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/0 cf_cf/celia_stella_info/0/0
+msgctxt "Celia"
+msgid "Stella?! Shingles above, what's this house coming to?"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/8
+msgctxt "Celia"
+msgid "Are you sure it's settled? You don't need me to step in? I don't mind having words with anyone who needs the house brought down on them."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/16/s/0
+msgctxt "Choix"
+msgid "I think it should be resolved."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/31
+msgctxt "Celia"
+msgid "Well! Aren't you efficient? You're quite the little bloodhound."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/39
+msgctxt "Celia"
+msgid "As mayor, I formally extend my thanks for nipping that problem in the bud."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/47
+msgctxt "Celia"
+msgid "...though I might have to have a few words with Stella on my off time about this."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/0/s/0
+msgctxt "Choix"
+msgid "You seem unusually riled up about this."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/1/s/0
+msgctxt "Choix"
+msgid "Sounds like a plan!"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/7
+msgctxt "Celia"
+msgid "Why shouldn't I be?!"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/15
+msgctxt "Celia"
+msgid "This kind of scam is a threat to everyone in the Home Objects Association! Nobody should have to deal with that sort of fraud!"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/23
+msgctxt "Celia"
+msgid "Least of all a poor, unassuming, sweet thing like..."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/31
+msgctxt "Celia"
+msgid "Excuse me. That was unbecoming of me."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Do you have a thing for Florence?"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/7
+msgctxt "Celia"
+msgid "I beg your pardon?"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/15
+msgctxt "Celia"
+msgid "Do I have \"a thing\"?"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/23
+msgctxt "Celia"
+msgid "Are you sincerely asking the mayor point-blank if she has feelings for her secretary?! Of all the unbelievable..."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I'm not hearing a \"no\"."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/31/c-0/7
+msgctxt "Celia"
+msgid "Listen here! There is nothing strange about a civil servant looking after the people under her care!"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/31/c-0/15
+msgctxt "Celia"
+msgid "Especially the adorable ones who don't know how to defend themselves!"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/31/c-0/23
+msgctxt "Narrator"
+msgid "Celia falls silent, her cheeks reddening as her own words sink in."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/31/c-0/39
+msgctxt "Celia"
+msgid "I-I've said too much."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/31/c-0/47
+msgctxt "Celia"
+msgid "Thank you for your work on this matter. If you have any further issues, you are always welcome to take it up with the mayor's office."
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-0/39/c-0/31/c-0/55
+msgctxt "Celia"
+msgid "Good day!"
+msgstr ""
+
+#: cf_cf/celia_stella_bypass/0/c-0/55/c-1/7
+msgctxt "Celia"
+msgid "It does indeed."
+msgstr ""
+
+#: cf_cf/celia_stella_info/0/26
+msgctxt "Celia"
+msgid "Well, it seems you've done your homework. You're quite the little bloodhound."
+msgstr ""
+
+#: cf_cf/celia_stella_info/0/34
+msgctxt "Celia"
+msgid "Tell you what. Why don't you and I pay Stella a visit together? We'll get this issue resolved."
+msgstr ""
+
+#: cf_cf/celia_stella_info/0/48/s/0 cf_cf/celia_investigation_stellafinished/0/g-0/c-2/73/0/s/0
+msgctxt "Choix"
+msgid "Okay, see you at the staircase."
+msgstr ""
+
+#: cf_cf/celia_stella_info/0/49/s/0 cf_cf/celia_investigation_stellafinished/0/g-0/c-2/73/1/s/0
+msgctxt "Choix"
+msgid "You seem really heated about this."
+msgstr ""
+
+#: cf_cf/celia_stella_info/0/c-1/7
+msgctxt "Celia"
+msgid "Why wouldn't I be? There is nothing strange about a civil servant looking after the objects under her care."
+msgstr ""
+
+#: cf_cf/celia_stella_info/0/c-1/15
+msgctxt "Celia"
+msgid "Come along, now. Don't dawdle!"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/3 cf_cf/celia_investigating/0/3
+msgctxt "Celia"
+msgid "What is it? I'm very busy!"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/11
+msgctxt "Celia"
+msgid "Oh, it's you. Perfect. I was just going to have Florence contact you."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/19
+msgctxt "Celia"
+msgid "I believe I've figured out the source of Airway's foothold."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/27/s/0
+msgctxt "Choix"
+msgid "Stella, right?"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/c-0/7
+msgctxt "Celia"
+msgid "What? Yes. How did you...?"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "I actually already talked her out of it."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "I was just talking with Stella. She mentioned her MLM to me."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/7
+msgctxt "Celia"
+msgid "Really?"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Yep. She won't be bothering Florence anymore."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/15/c-0/7
+msgctxt "Celia"
+msgid "...heh. Unbelievable."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/15/c-0/15
+msgctxt "Celia"
+msgid "I spent so much time researching this and it turns out you were already handling it."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/15/c-0/23
+msgctxt "Celia"
+msgid "At the very least you could've let me know earlier!"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Sorry."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/15/c-0/31/c-0/7
+msgctxt "Celia"
+msgid "Don't apologize. Honestly, I can't thank you enough. As long as Florence is okay, that's the important thing."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-1/15/c-0/31/c-0/33
+msgctxt "Celia"
+msgid "Thank you."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/7
+msgctxt "Celia"
+msgid "You should've said something earlier!"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/15
+msgctxt "Celia"
+msgid "A fat lot of good this does me <i>now</i> after I've spent days investigating!"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/29
+msgctxt "Celia"
+msgid "Hahh..."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/37
+msgctxt "Celia"
+msgid "I apologize. This situation has me... stressed."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/51
+msgctxt "Celia"
+msgid "Your investigative work is appreciated. Now, it's time to act."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/59
+msgctxt "Celia"
+msgid "Why don't you and I pay Stella a visit together? We'll get this issue resolved by the end of the night."
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/73/c-1/7
+msgctxt "Celia"
+msgid "Why wouldn't I be?! There is nothing strange about a civil servant looking after the people under her care!"
+msgstr ""
+
+#: cf_cf/celia_investigation_stellafinished/0/g-0/c-2/73/c-1/15
+msgctxt "Celia"
+msgid "Come along now. Don't dawdle!"
+msgstr ""
+
+#: cf_cf/celia_investigating/0/11/b/1
+msgctxt "Celia"
+msgid "And if you keep barging in like that I'll have you thrown out bodily by Dorian!"
+msgstr ""
+
+#: cf_cf/celia_investigating/0/14
+msgctxt "Celia"
+msgid "Oh, it's you. Have you discovered who's selling that Airway Activated Air nonsense?"
+msgstr ""
+
+#: cf_cf/celia_investigating/0/22/s/0
+msgctxt "Choix"
+msgid "It's all settled and aboveboard, no need for further investigation."
+msgstr ""
+
+#: cf_cf/celia_investigating/0/25/s/0
+msgctxt "Choix"
+msgid "Not yet."
+msgstr ""
+
+#: cf_cf/celia_investigating/0/c-3/7
+msgctxt "Celia"
+msgid "Then I must ask you to leave my office until this matter is resolved. Good day."
+msgstr ""
+
+#: cf_cf/floor_investigating/0/3
+msgctxt "Florence"
+msgid "Oh, I'm sorry. The mayor isn't taking any appointments today."
+msgstr ""
+
+#: cf_cf/floor_investigating/0/17
+msgctxt "Florence"
+msgid "She's very busy investigating a \"private matter\". Emergencies only."
+msgstr ""
+
+#: cf_cf/floor_investigating/0/25/s/0
+msgctxt "Choix"
+msgid "I have information that might help her investigation."
+msgstr ""
+
+#: cf_cf/floor_investigating/0/26/s/0
+msgctxt "Choix"
+msgid "Actually, I'm here to speak with you."
+msgstr ""
+
+#: cf_cf/floor_investigating/0/27/s/0
+msgctxt "Choix"
+msgid "Okay, I'll come back later."
+msgstr ""
+
+#: cf_cf/floor_investigating/0/c-0/7
+msgctxt "Florence"
+msgid "Really? Wow! I'll let her know right away!"
+msgstr ""
+
+#: cf_cf/floor_investigating/0/c-1/7
+msgctxt "Florence"
+msgid "Oh?"
+msgstr ""
+
+#: cf_cf/floor_investigating/0/c-2/7
+msgctxt "Florence"
+msgid "Thank you for your understanding. Have a nice day!"
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/0
+msgctxt "Florence"
+msgid "I'm sorry, the mayor isn't in today..."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/8
+msgctxt "Florence"
+msgid "Oh, it's you! Miss Mayor had a message for you!"
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/16
+msgctxt "Florence"
+msgid "She told me to let you know that \"she found the person we're looking for\" and that she wanted you to meet her by the <b>stairs</b>."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/30
+msgctxt "Florence"
+msgid "Please... what's going on? She looked so upset and she wouldn't tell me a thing! It's not like her."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/38/s/0
+msgctxt "Choix"
+msgid "Don't worry about it, Florence."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/39/s/0
+msgctxt "Choix"
+msgid "She's worried about you."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-0/7
+msgctxt "Florence"
+msgid "...alright. If you say so."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/7
+msgctxt "Florence"
+msgid "A-About me? Why? I haven't done something to upset her, have I?!"
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Not at all. She cares about you, you know."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Uh. A little."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/15/c-0/13
+msgctxt "Florence"
+msgid "H-Huh? Oh. Um! Okay?"
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/15/c-0/21
+msgctxt "Florence"
+msgid "A-Anyways, be sure to make your way to the stairs as soon as you can. Wouldn't want to keep her waiting."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/15/c-0/29
+msgctxt "Florence"
+msgid "(... she cares about me...)"
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/15/c-1/13
+msgctxt "Florence"
+msgid "Oh..."
+msgstr ""
+
+#: cf_cf/celia_investigation_complete/0/c-1/15/c-1/21
+msgctxt "Florence"
+msgid "Well... please hurry over to the stairs as soon as you can. I wouldn't want her to get any angrier..."
+msgstr ""
+
+#: cf_cf/celia_stair_reminder/3
+msgctxt "Florence"
+msgid "Miss Mayor is waiting for you at the stairs! Please hurry over there as soon as you can."
+msgstr ""
+
+#: cf_cf/celia_part2/0/11/s/0
+msgctxt "Choix"
+msgid "Well."
+msgstr ""
+
+#: cf_cf/celia_part2/0/12/s/0
+msgctxt "Choix"
+msgid "Looks like the Airway stuff is resolved."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-0/0
+msgctxt "Celia"
+msgid "Indeed."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Not much else to do but..."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "So... are ya gonna...?"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-0/c-2/7
+msgctxt "Celia"
+msgid "But what?"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-0/c-3/7
+msgctxt "Celia"
+msgid "Going to what?"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Tell Florence how you feel."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/7
+msgctxt "Celia"
+msgid "L-Listen here!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/15
+msgctxt "Celia"
+msgid "I appreciate all your work resolving this matter and everything you do around the house, but this is entirely out of line!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/23
+msgctxt "Celia"
+msgid "You can't just go rooting around in the personal affairs of others!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/31/0/s/0
+msgctxt "Choix"
+msgid "But... you do like her."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/31/c-0/7
+msgctxt "Celia"
+msgid "My personal feelings towards Florence are none of your business. Or anyone else's for that matter!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/31/c-0/15
+msgctxt "Celia"
+msgid "I don't see why I should have to explain myself to you."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/31/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "You spent days organizing this entire investigation just because you were worried about her."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-1/c-4/31/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "You're so concerned with everyone in the house's happiness. Don't you think it's time you pursued your own?"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/0 cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/31
+msgctxt "Celia"
+msgid "I..."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/16
+msgctxt "Celia"
+msgid "It doesn't matter how I feel. It doesn't matter if everything you're insinuating is true."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/24
+msgctxt "Celia"
+msgid "I'm the mayor. I'm a ceiling of station. I can't just go traipsing around with my secretary."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/32
+msgctxt "Celia"
+msgid "No matter how kindly she is. Or how sweet."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/40
+msgctxt "Celia"
+msgid "No matter how much I may want to."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/51
+msgctxt "Narrator"
+msgid "Florence enters, barely able to look Celia in the eye."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/62
+msgctxt "Florence"
+msgid "Celia..."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/70
+msgctxt "Celia"
+msgid "F-Florence!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/81
+msgctxt "Celia"
+msgid "Dearest. How... How long have you been standing there?"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/89/s/0
+msgctxt "Choix"
+msgid "I had my finger on the intercom button the whole time."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/0/s/0
+msgctxt "Choix"
+msgid "Sorry. I had to go over your head on this one."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/7
+msgctxt "Celia"
+msgid "You can't go over my head! I'm the ceiling!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "This house has two floors."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/7
+msgctxt "Celia"
+msgid "Q-Quiet!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/15 cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/23
+msgctxt "Florence"
+msgid "Miss Mayor..."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/23
+msgctxt "Florence"
+msgid "...Celia. Is it true?"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/39
+msgctxt "Celia"
+msgid "I'm sorry. This must be so embarrassing for you, seeing me like this."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/47
+msgctxt "Celia"
+msgid "Unprofessional, that's what it is."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/55
+msgctxt "Celia"
+msgid "If you would do me a favor and fetch me the official resignation papers. I'll get started on them. It's what I deserve for my conduct."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/66
+msgctxt "Florence"
+msgid "No! Miss Mayor, you can't quit! You're wonderful! Wonderful!"
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/74
+msgctxt "Florence"
+msgid "All this running around you've been doing the last few days... I had no idea it was for me."
+msgstr ""
+
+#: cf_cf/celia_part2/0/g-2/c-5/18/c-0/18/c-0/82
+msgctxt "Florence"
+msgid "I must cause you no end of trouble..."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/0
+msgctxt "Celia"
+msgid "Florence. Dearest. Do you know what my favorite part of this job is?"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/8
+msgctxt "Celia"
+msgid "Every day, when I look down at all of the objects in this house... I feel <i>so</i> lucky. Because from this angle, I always get to see you."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/16
+msgctxt "Celia"
+msgid "The deep brown of your hardwood, softly reflecting everybody's best features. Your gentle carpet, alleviating the tension and hiding all those little crumbs."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/24
+msgctxt "Celia"
+msgid "You're a dear, Florence. My dearest."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/35
+msgctxt "Celia"
+msgid "Everyone thinks I'm the one in charge, but the truth is you're the foundation of this house. I wouldn't be anything without you."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/43
+msgctxt "Florence"
+msgid "Oh... Oh, Celia..."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/54
+msgctxt "Florence"
+msgid "I-I've felt the same way about you for so, so long... But never in my wildest dreams did I think you'd ever... Ever..."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/62
+msgctxt "Narrator"
+msgid "Tears slip down Florence's cheeks—Celia reaches out to dab at them with gentle hands."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/73
+msgctxt "Celia"
+msgid "Come now, dearest. You mustn't cry. You'll get water damage."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/81
+msgctxt "Florence"
+msgid "Mhm..."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/89
+msgctxt "Celia"
+msgid "Well, now. What are we going to do about this?"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/97
+msgctxt "Celia"
+msgid "It simply won't do to have an elected official noodling about with one of her employees."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/105
+msgctxt "Florence"
+msgid "Well... You are the mayor. But technically... er, bureaucratically speaking, I mean... the human <i>does</i> outrank you."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/116
+msgctxt "Florence"
+msgid "They could maybe... write up some sort of document that... makes this okay?"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/124
+msgctxt "Celia"
+msgid "Well. There's an idea."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/132
+msgctxt "Celia"
+msgid "What do you say?"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/140/s/0
+msgctxt "Choix"
+msgid "I could make you co-mayors. Partners!"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/141/s/0
+msgctxt "Choix"
+msgid "Any chance we could make this a 3-party system?"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-0/7
+msgctxt "Celia"
+msgid "\"Co-mayors\". Hm. Yes. That sounds like the sort of HOA nonsense that the voters might just swallow next election season."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-0/15
+msgctxt "Celia"
+msgid "Thank you. Truly. What you've done for Florence and I... it's more than I can put into words."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-0/23
+msgctxt "Celia"
+msgid "I'd award you with the key to the house... but you already have one."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-0/31
+msgctxt "Celia"
+msgid "So here I present to you the fake rock that hides the key to the house."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-0/39
+msgctxt "Celia"
+msgid "It's yours."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-0/50
+msgctxt "Narrator"
+msgid "Celia hands you the small faux rock you usually keep outside the door—you're not sure how she got her hands on it, but you're not about to ruin the moment by asking."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-0/58
+msgctxt "Celia"
+msgid "You'll always be welcome here. Feel free to stop by the office any time."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-1/7
+msgctxt "Celia"
+msgid "Hah!"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-1/15
+msgctxt "Celia"
+msgid "Shingles above... Just when I thought you couldn't get any more audacious!"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-1/23
+msgctxt "Florence"
+msgid "I wouldn't mind! I think you're wonderful!"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-1/31
+msgctxt "Florence"
+msgid "If you plant your feet on me and stretch your arms up as high as you can, we can all hold hands at once!"
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-1/39
+msgctxt "Celia"
+msgid "Well. If Florence is alright with it, then I suppose I have no objections."
+msgstr ""
+
+#: cf_cf/cf_finalconfession/0/c-1/47
+msgctxt "Celia"
+msgid "... Although it may take some time for me to get used to having two \"dearest\"s."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/0
+msgctxt "Celia"
+msgid "Well, well. I can't believe you had the gall to come back here."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/8
+msgctxt "Celia"
+msgid "Saves me the trouble of calling you in, I suppose."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/24/s/0
+msgctxt "Choix"
+msgid "...is there a problem?"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/7
+msgctxt "Celia"
+msgid "You know damn well that there's a problem!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/18
+msgctxt "Celia"
+msgid "I ask you for a personal favor. To help me figure out who's tormenting my poor secretary."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/26
+msgctxt "Celia"
+msgid "And it turns out it's been <i>you</i> all along! Right under my nose!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Well, technically everywhere in the house is under your nose."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/7
+msgctxt "Celia"
+msgid "Shut up. Don't you dare take that tone with me."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/18
+msgctxt "Celia"
+msgid "You shackled Florence to this damned contract, and now she's trapped!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/26
+msgctxt "Florence"
+msgid "Well, it's not as bad as all that..."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/34
+msgctxt "Celia"
+msgid "It absolutely <i>is</i> as bad as all that!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/42
+msgctxt "Celia"
+msgid "\"90% of all profits to the parent company\"? \"Permission to use your likeness on advertising in perpetuity\"?"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/50
+msgctxt "Celia"
+msgid "\"All descendants are automatically enrolled as lieutenants in the Airway Army\"?!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/0/s/0
+msgctxt "Choix"
+msgid "That last one isn't as bad as it sounds. If you take a look at the adoption clause you can actually make a lot of money!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/7
+msgctxt "Celia"
+msgid "This contract is an absolute farce! And all to sell, what?! <i>Bottled air!?</i>"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/15
+msgctxt "Celia"
+msgid "Well. I hope it was worth it. Because from this day forward, you are hereby banned from the mayor's office and all of the services it offers."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/31
+msgctxt "Celia"
+msgid "And! Furthermore!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/39
+msgctxt "Celia"
+msgid "I take this betrayal as a personal insult to both myself and Florence. So I'm issuing a new mayoral decree."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/50
+msgctxt "Celia"
+msgid "Florence? From now on, any time the human drops something in the house, you are to bend and sway so that it falls under the most inconvenient piece of furniture."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/0/s/0
+msgctxt "Choix"
+msgid "Aw, come on!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/7
+msgctxt "Celia"
+msgid "You hurt us, we hurt you. This house protects its own. Or at least we're <i>supposed</i> to."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/15
+msgctxt "Celia"
+msgid "I've already listed the home for sale online."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "W-Wait, you can't do that!"
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/23/c-0/7
+msgctxt "Celia"
+msgid "I can, and did. For cheap."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/23/c-0/15
+msgctxt "Celia"
+msgid "Enjoy wading through applicants, citizen."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/23/c-0/23
+msgctxt "Celia"
+msgid "Now get out of my office."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/23/c-0/80
+msgctxt "Reggie"
+msgid "That relationship went <i>waayyyyy</i> over your head."
+msgstr ""
+
+#: cf_cf/cf_caughtintheact/0/c-0/34/c-0/58/c-0/58/c-0/23/c-0/88
+msgctxt "Reggie"
+msgid "You don't even have a floor to stand on here."
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/3/b/1
+msgctxt "Florence"
+msgid "Hm? Oh... H-Hello."
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/3/b/9
+msgctxt "Florence"
+msgid "You're looking for the mayor? She's actually free right now... Though she's not in the best of moods."
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/3/b/17
+msgctxt "Florence"
+msgid "P-Please don't do anything to upset her, alright?"
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/4/b/1
+msgctxt "Florence"
+msgid "Well, hello there, stranger!"
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/4/b/9
+msgctxt "Florence"
+msgid "Looking for the other co-mayor? Great timing, she's actually free. I'll buzz you up at once!"
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/5/b/1
+msgctxt "Florence"
+msgid "Hi, love! Always a joy!"
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/5/b/9
+msgctxt "Florence"
+msgid "Looking for Celia? Great timing. She's actually free, for once!"
+msgstr ""
+
+#: cf_cf/florence_raineyreturn/5/b/17
+msgctxt "Florence"
+msgid "I'm sure she'll be just delighted to see you! Go on, now! Give her an extra kiss for me, would you?"
+msgstr ""
+
+#: cf_cf/cf_raineyreturn/0/6/b/1
+msgctxt "Celia"
+msgid "...what is it, citizen? I'm very busy."
+msgstr ""
+
+#: cf_cf/cf_raineyreturn/0/7/b/1
+msgctxt "Celia"
+msgid "Hello, darling. What can I help you with?"
+msgstr ""
+
+#: cf_cf/cf_raineyreturn/0/8/b/1
+msgctxt "Celia"
+msgid "Hello, dearest. Something on your mind?"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/0
+msgctxt "Florence"
+msgid "Welcome! The mayor is currently in a meeting."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/8
+msgctxt "Florence"
+msgid "Oh! It's you! Hello!"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/16
+msgctxt "Florence"
+msgid "Even though I'm co-mayor now, I still mostly handle the administrative duties down here."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/24
+msgctxt "Florence"
+msgid "Here, let me ring Celia on the other line so you can say hi."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/32
+msgctxt "Florence"
+msgid "Miss Mayor, guess who's here!"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/40
+msgctxt "Celia"
+msgid "Miss Mayor, I told you before not to interrupt in the middle of a meeting unless it was an emergency."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/48
+msgctxt "Florence"
+msgid "This <i>is</i> an emergency! Someone needs to say hi!"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/56
+msgctxt "Florence"
+msgid "(Say hi!)"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/64/s/0
+msgctxt "Choix"
+msgid "Hi!"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/7
+msgctxt "Celia"
+msgid "Oh. I see."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/15
+msgctxt "Celia"
+msgid "Hello."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Nice to hear you, Celia!"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I'd like to talk about getting you two Realized!"
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/23/c-0/7
+msgctxt "Narrator"
+msgid "She hangs up and gets back to her duties. Florence smiles politely."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/23/c-0/15
+msgctxt "Narrator"
+msgid "It's time to go."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/23/c-1/7
+msgctxt "Celia"
+msgid "Goodness - that is important. I'll come down right away."
+msgstr ""
+
+#: cf_cf/cf_friendshipreturn/0/c-0/23/c-1/15
+msgctxt "Celia"
+msgid "Telly - just be a dear and shut yourself off for a moment."
+msgstr ""
+
+#: cf_cf/cf_lovereturn/0/6
+msgctxt "Celia"
+msgid "Well, well, if it isn't our third co-mayor, running your head off as per usual."
+msgstr ""
+
+#: cf_cf/cf_lovereturn/0/14
+msgctxt "Florence"
+msgid "Wipe your feet and take a load off! I'll fix us some tea."
+msgstr ""
+
+#: cf_cf/cf_lovereturn/0/22/s/0
+msgctxt "Choix"
+msgid "Delightful!"
+msgstr ""
+
+#: cf_cf/cf_lovereturn/0/23/s/0
+msgctxt "Choix"
+msgid "Actually, before the tea, I would like to talk to you both about Realization."
+msgstr ""
+
+#: cf_cf/cf_lovereturn/0/c-0/7
+msgctxt "Narrator"
+msgid "You drink the lovely tea, not minding any spills that occur, and catch up with your lovers about the news of the day."
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/3
+msgctxt "Florence"
+msgid "Oh! Um... Sorry..."
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/11
+msgctxt "Florence"
+msgid "You're not allowed to see the mayor anymore..."
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/19
+msgctxt "Florence"
+msgid "(Sorry...)"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/30/s/0
+msgctxt "Choix"
+msgid "Actually, I got you out of your contract. (USE SMARTS CANDY)"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/31/s/0
+msgctxt "Choix"
+msgid "<i>Exit</i>"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/7
+msgctxt "Florence"
+msgid "R-Really?"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/15
+msgctxt "Florence"
+msgid "Oh, goodness, look at that. It's true! I'm a free floorspace!"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/23
+msgctxt "Florence"
+msgid "(Well, not entirely free, since the Mayor and I started dating~!)"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/31
+msgctxt "Florence"
+msgid "Er. Did I just say that out loud?"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/39
+msgctxt "Florence"
+msgid "W-Well, don't tell the Mayor you heard it from me!"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/47
+msgctxt "Florence"
+msgid "In fact, you probably shouldn't tell her anything at all for a bit. She's still pretty steamed at you."
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/55
+msgctxt "Florence"
+msgid "But tell you what: Since you were nice enough to get me out of that contract, I'll put in a word with her and we'll see what we can do."
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/63
+msgctxt "Florence"
+msgid "Maybe we can even lift your ban!"
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/71
+msgctxt "Florence"
+msgid "...until then though, you will have to leave the office. Otherwise I'm afraid I'm going to have to release the hounds."
+msgstr ""
+
+#: cf_cf/cf_hatereturn/0/c-0/79
+msgctxt "Florence"
+msgid "(The hounds are my fists!)"
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/0
+msgctxt "Celia"
+msgid "Realization? Are you sure that's a good idea?"
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/8
+msgctxt "Celia"
+msgid "Who would take care of our responsibilities if we were to snap our fingers and run around as humans all... willy-nilly."
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/16
+msgctxt "Florence"
+msgid "I think it would be fun!"
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/24
+msgctxt "Florence"
+msgid "As long as it's both of us."
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/44/s/0
+msgctxt "Choix"
+msgid "Don't worry. I have what it takes to look after the house."
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/45/s/0
+msgctxt "Choix"
+msgid "That's a good point. I'll have to think about this."
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/c-1/16
+msgctxt "Celia"
+msgid "See that you do. If you would like to bring this matter up again, we can always take the time to fit you into our schedule."
+msgstr ""
+
+#: cf_cf/cf_realize_join/0/c-1/24
+msgctxt "Florence"
+msgid "Saturdays are great!"
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/0
+msgctxt "Florence"
+msgid "Hello dear!"
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/16
+msgctxt "Florence"
+msgid "Is this about that 'Realization' business that you brought up last time?"
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/24
+msgctxt "Florence"
+msgid "Let me get the Mayor..."
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/35
+msgctxt "Celia"
+msgid "No need, dearest. I'm right here."
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/43
+msgctxt "Celia"
+msgid "Well, have you made a decision?"
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/63/s/0
+msgctxt "Choix"
+msgid "I have. I'm ready to Realize you both."
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/64/s/0
+msgctxt "Choix"
+msgid "No, sorry, it's taking more stats than I expected."
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/c-1/16
+msgctxt "Celia"
+msgid "Well... we are certainly worth more than anyone else in the house."
+msgstr ""
+
+#: cf_cf/cf_realize_return/0/c-1/24
+msgctxt "Celia"
+msgid "Just don't tell the Hanks that you heard it from me."
+msgstr ""
+
+#: cf_cf/cf_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Starting with the executive branch, huh? Those'll be some big shoes to fill when they're gone!"
+msgstr ""
+
+#: cf_cf/cf_realize_begin/9
+msgctxt "Skylar"
+msgid "Madames, your populace awaits!!"
+msgstr ""
+
+#: cf_cf/cf_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely the floor and ceiling, becomes..."
+msgstr ""
+
+#: cf_cf/cf_realized/0/3
+msgctxt "Celia"
+msgid "Here you are."
+msgstr ""
+
+#: cf_cf/cf_realized/0/11
+msgctxt "Narrator"
+msgid "Before remarking on becoming a human, it seems that there's business to be done."
+msgstr ""
+
+#: cf_cf/cf_realized/0/19
+msgctxt "Narrator"
+msgid "Celia hands over a gigantic stack of papers."
+msgstr ""
+
+#: cf_cf/cf_realized/0/27
+msgctxt "Celia"
+msgid "Now according to the bylaws of the Line of Succession to the House, the duties of Mayor fall to you by default."
+msgstr ""
+
+#: cf_cf/cf_realized/0/35
+msgctxt "Florence"
+msgid "It's alright, you'll do great!"
+msgstr ""
+
+#: cf_cf/cf_realized/0/43
+msgctxt "Celia"
+msgid "Just don't forget - shake hands, listen well, always wear a winning smile, and you're likely to win the special election when it comes time."
+msgstr ""
+
+#: cf_cf/cf_realized/0/51
+msgctxt "Florence"
+msgid "<i>Celia always did tend to forget the last one... </i>"
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/0
+msgctxt "Celia"
+msgid "Well. This mess outside isn't going to fix itself."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/8
+msgctxt "Florence"
+msgid "Ready to go?"
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/16/s/0
+msgctxt "Choix"
+msgid "Can we have one last fling for now?"
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/17/s/0
+msgctxt "Choix"
+msgid "Bon voyage, ladies."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/10
+msgctxt "Celia"
+msgid "Time permits?"
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/21
+msgctxt "Florence"
+msgid "Always!"
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/32
+msgctxt "Narrator"
+msgid "The two of them work together so well in play, as well as work."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/43
+msgctxt "Narrator"
+msgid "Florence is as cuddly as expected, but you find Celia is also surprisingly affectionate whenever appropriate."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/60
+msgctxt "Narrator"
+msgid "Eventually, all three of you wind up collapsed on the bed together."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/71
+msgctxt "Narrator"
+msgid "Florence seems so excited to finally be able to talk about how good at kissing the Mayor is. And how lovely it feels to work her own way up and down her neck."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/82
+msgctxt "Narrator"
+msgid "Much of your time together is spent in quiet repose. Simply enjoying the silence."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/93
+msgctxt "Narrator"
+msgid "There's something truly lovely about being just content. Being alone... together."
+msgstr ""
+
+#: cf_cf/cf_realized/0/62/c-0/104
+msgctxt "Narrator"
+msgid "But even the afterglow must come to an end sometime..."
+msgstr ""
+
+#: cf_cf/cf_realized/0/g-0/0
+msgctxt "Narrator"
+msgid "Celia dusts her hands and excuses herself and Florence from your home."
+msgstr ""
+
+#: cf_cf/cf_realized/0/g-0/11
+msgctxt "Celia"
+msgid "It's been lovely being your mayor, but it simply isn't right for a woman of means to live on another person's dime."
+msgstr ""
+
+#: cf_cf/cf_realized/0/g-0/25
+msgctxt "Narrator"
+msgid "She and Celia get a surprisingly luxurious apartment together. You never did figure out how they could afford it."
+msgstr ""
+
+#: cf_cf/cf_realized/0/g-0/36
+msgctxt "Narrator"
+msgid "Soon enough Celia throws herself back into local politics. First it's the neighborhood watch, then the local school board, then a small government position a few towns over."
+msgstr ""
+
+#: cf_cf/cf_realized/0/g-0/44
+msgctxt "Narrator"
+msgid "It's never a surprise to see your previous ceiling running for the primary."
+msgstr ""
+
+#: cf_cf/cf_realized/0/g-0/52
+msgctxt "Narrator"
+msgid "She always holds the most wonderful parties on election night, and she never fails to answer you any time you reach out, especially with the help of her lovely assistant."
+msgstr ""
+
+#: cf_cf/cf_realized/0/g-0/63
+msgctxt "Narrator"
+msgid "She and Florence as a team complement each other perfectly."
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/11
+msgctxt "Florence"
+msgid "You show your face here?"
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/19/s/0
+msgctxt "Choix"
+msgid "Suck it. Airway forever!!"
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/20/s/0
+msgctxt "Choix"
+msgid "I'm here for Rainey."
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/c-0/7
+msgctxt "Florence"
+msgid "Get out."
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/c-1/7
+msgctxt "Florence"
+msgid "Mayor Celia knows."
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/c-1/15
+msgctxt "Florence"
+msgid "Here."
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/c-1/23
+msgctxt "Narrator"
+msgid "Florence pushes a sealed document toward you."
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/c-1/31
+msgctxt "Florence"
+msgid "Written proof of her past."
+msgstr ""
+
+#: cf_cf/cf_ultimate_hate/0/c-1/45
+msgctxt "Florence"
+msgid "Out."
+msgstr ""
+
+#: cf_cf/quickrainey/0/0
+msgctxt "Celia"
+msgid "There is one special matter I must tell you about before I go..."
+msgstr ""
+
+#: cf_cf/quickrainey/0/8/s/0
+msgctxt "Choix"
+msgid "What is it...?"
+msgstr ""
+
+#: cf_cf/quickrainey/0/c-0/7
+msgctxt "Celia"
+msgid "It's about Rainey, the record player. I meant to deal with it but I was afraid of bringing up past wounds..."
+msgstr ""
+
+#: cf_cf/quickrainey/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "What could that be...?"
+msgstr ""
+
+#: cf_cf/quickrainey/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Is this going to be a quest or something?"
+msgstr ""
+
+#: cf_cf/quickrainey/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "What can I do to help?"
+msgstr ""
+
+#: cf_cf/quickrainey/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "I'm on it."
+msgstr ""
+
+#: cf_cf/quickrainey/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "You are very worthy of trust, Celia."
+msgstr ""

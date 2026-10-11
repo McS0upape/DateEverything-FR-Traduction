@@ -1,0 +1,5306 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: sinclaire_sink/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "SINK"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/0
+msgctxt "Narrator"
+msgid "You're used to seeing mostly people-shaped objects with the dateviators, but clearly the sink-headed figure before you is... well, not like the others."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/8
+msgctxt "Narrator"
+msgid "All the time in the world wouldn't be enough to comprehend whatever is going on with this guy."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/13
+msgctxt "Narrator"
+msgid "You can see that he's got a sink for a head and the clothing and posture of a beleaguered stand-up comic, but your inspection is cut short by his disturbing screams."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/18
+msgctxt "Sinclaire"
+msgid "HEEEEELLLLLLLPPPPPPP!!!!!!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/29
+msgctxt "Sinclaire"
+msgid "HELP ME!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/37
+msgctxt "Sinclaire"
+msgid "Hello?? Can you hear me???"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/45/s/0 sinclaire_sink/sinclaire_hate_return/0/22/s/0
+msgctxt "Choix"
+msgid "Um... hi?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/46/s/0
+msgctxt "Choix"
+msgid "What's wrong!?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/47/s/0
+msgctxt "Choix"
+msgid "Did you happen to start a fire in the bathroom?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/7
+msgctxt "Sinclaire"
+msgid "Hi. Hello."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Why were you just screaming 'help?'"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "That wasn't me."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "...what?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "I mean it was me, but it wasn't. Isn't."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/15
+msgctxt "Sinclaire"
+msgid "Nothing is as it seems. <w>I</w> am not who <w>I</w> seem!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Okayyyy..."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I'm gonna go ahead and leave now."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/7
+msgctxt "Sinclaire"
+msgid "I mean the I you see before you isn't the me I am inside!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/15
+msgctxt "Sinclaire"
+msgid "You see, there's the I that sees through these eyes, of course, but who is that?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/23
+msgctxt "Sinclaire"
+msgid "Certainly not the one I am!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Oh, I see. It's a philosophy thing!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "You're kind of scaring me."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-0/7
+msgctxt "Sinclaire"
+msgid "No, it's a reality thing."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-1/7
+msgctxt "Sinclaire"
+msgid "Don't be afraid."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-1/15
+msgctxt "Sinclaire"
+msgid "There's nothing to fear except creepy old fortune tellers in poorly-lit back alleys."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "What on earth are you talking about?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-1/7
+msgctxt "Sinclaire"
+msgid "No! Don't leave me!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Byeeeee..."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-1/7
+msgctxt "Sinclaire"
+msgid "Listen closely. There isn't much time. Nothing is as it seems."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Oh my gosh! What's going on?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-2/7
+msgctxt "Sinclaire"
+msgid "Why yes! I splish-splashed a little water right into the electrical socket."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-2/15
+msgctxt "Sinclaire"
+msgid "Not a bad move, if I may say so!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "You really shouldn't be doing that! You could've gotten someone really hurt!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-2/23/c-0/7
+msgctxt "Sinclaire"
+msgid "I never thought about it that way."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-2/23/c-0/15
+msgctxt "Sinclaire"
+msgid "I merely meant to alert the powers that be to my terrible predicament."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/c-2/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Which is...?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/0
+msgctxt "Sinclaire"
+msgid "I'm not who I appear to be."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/15
+msgctxt "Sinclaire"
+msgid "My name is NOT Sinclaire, it's MARTIN. Martin Applegate."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/26
+msgctxt "Martin Applegate"
+msgid "And I'm not a sink."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/34
+msgctxt "Martin Applegate"
+msgid "I'm an insurance claims adjuster from Turkleman City, Florida."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/42/s/0
+msgctxt "Choix"
+msgid "This is getting weird fast."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/43/s/0
+msgctxt "Choix"
+msgid "Turkleman City? Is that even a real place?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/7
+msgctxt "Sinclaire"
+msgid "Now you're catching on."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "To...?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Just how weird this is going to get."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I don't know if I want that."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "I'm gonna gooo..."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Ooh! Weird. I like weird."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Well <i>I</i> don't know if I wanted my dog to be turned into a bar of <i>SOAP!</i>"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/15
+msgctxt "Sinclaire"
+msgid "But that happened, and here we are..."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Your dog got turned into a bar of soap?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/13 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/6 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/21 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/32 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/21 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/21
+msgctxt "Sudsy"
+msgid "Ruff!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/21 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/14 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/29 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/40 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/29 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/29
+msgctxt "Narrator"
+msgid "A strange creature that looks and sounds like a soapy little dog jumps up at your legs, yapping and barking."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/32 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/25 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/40 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/51 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/40 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/40
+msgctxt "Sinclaire"
+msgid "Down Sudsy! Down! Keep your bubbles to yourself, you little devil!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/40 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/33 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/48 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/59 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/48 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/51
+msgctxt "Sudsy"
+msgid "Ruff! Ruff!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/48 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/41 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/56 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/67 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/56 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/59
+msgctxt "Sinclaire"
+msgid "Tray, Sudsy!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/59
+msgctxt "Sudsy"
+msgid "rrrrrRUFF!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/67 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/57 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/72 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/83 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/72 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/78
+msgctxt "Sinclaire"
+msgid "Go. To. Your. Tray!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/81 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/71 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/86 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/97 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/86 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/92
+msgctxt "Sinclaire"
+msgid "Sorry about that."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/89/0/s/0
+msgctxt "Choix"
+msgid "Ok, so that just happened."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/89/c-0/7
+msgctxt "Sinclaire"
+msgid "And that's just the beginning."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/7
+msgctxt "Sinclaire"
+msgid "No, wait! I need someone to reverse this curse!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Did you say curse?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Oh yes, a foul, mysterious curse! Cast upon me by a foul, mysterious fiend!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Go on."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Guess I'm stuck here..."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/49 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/64 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/64
+msgctxt "Sudsy"
+msgid "rrrrrRUF!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/7
+msgctxt "Sinclaire"
+msgid "Try this on for size, then."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/7
+msgctxt "Sinclaire"
+msgid "Of course it's a real place!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/15
+msgctxt "Sinclaire"
+msgid "Do I look like the kind of guy who would lie to you?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/0/s/0 sinclaire_sink/maggie_and_sinclaire/0/53/s/0
+msgctxt "Choix"
+msgid "Yes."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/1/s/0 sinclaire_sink/maggie_and_sinclaire/0/52/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/2/s/0
+msgctxt "Choix"
+msgid "I mean, what do you want me to say? You're a talking sink."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/7
+msgctxt "Sinclaire"
+msgid "Looks..."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Why are you pausing?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Um."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/0
+msgctxt "Sinclaire"
+msgid "...can be deceiving!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Thanks for the dramatic pause, I guess."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/7
+msgctxt "Sinclaire"
+msgid "My pleasure..."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/15
+msgctxt "Sinclaire"
+msgid "IS WHAT I WOULD SAY IF I WEREN'T TRAPPED IN ETERNAL SINKDOM."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/75 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/70
+msgctxt "Sudsy"
+msgid "rrrrrrRUF!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/7
+msgctxt "Sinclaire"
+msgid "Exactly! And I'm not! I'm telling you the truth."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/7
+msgctxt "Sinclaire"
+msgid "No! That's just what <w>she</w> wants you to think!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "She!? Who's 'she?'"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Allow me to explain..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/0
+msgctxt "Sinclaire"
+msgid "Before I begin telling you my tale of woe and temples shirley..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/8
+msgctxt "Sinclaire"
+msgid "Lemme let Sudsy out, okay? When he gets like this I just get really flustered."
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/16/s/0
+msgctxt "Choix"
+msgid "Okay?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/17/s/0
+msgctxt "Choix"
+msgid "Is your dog gonna pee on my bathroom tile?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/18/s/0
+msgctxt "Choix"
+msgid "Is your dog gonna pee on my kitchen tile?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/19/s/0
+msgctxt "Choix"
+msgid "Is your dog gonna pee on my floor?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/20/s/0
+msgctxt "Choix"
+msgid "More flustered than being transformed into a sink?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/c-1/7 sinclaire_sink/Sinclaires_Situation/0/c-2/7 sinclaire_sink/Sinclaires_Situation/0/c-3/7
+msgctxt "Sinclaire"
+msgid "No!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/c-4/7
+msgctxt "Sinclaire"
+msgid "Yeah. Pretty much."
+msgstr ""
+
+#: sinclaire_sink/Sinclaires_Situation/0/g-0/0
+msgctxt "Sinclaire"
+msgid "Okay bye! Sink you next time!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/0 sinclaire_sink/Agreed_But_No_Agatha/0/0
+msgctxt "Sinclaire"
+msgid "You're back!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/8/s/0
+msgctxt "Choix"
+msgid "Tell me your story, Sinclaire."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/9/s/0
+msgctxt "Choix"
+msgid "Yeah, I guess so. More curious than anything."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/0
+msgctxt "Sinclaire"
+msgid "It all happened one rainy night, on the North Side of Turkleman City..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/8
+msgctxt "Sinclaire"
+msgid "The <i>tough</i> side."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/16
+msgctxt "Sinclaire"
+msgid "I'd stayed late at the office because I had extra work to do before the holidays."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Stayed late at your job as an... insurance claims adjuster. Go on."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/7
+msgctxt "Sinclaire"
+msgid "Well, when I left, I was feeling a bit low, so I went out to a local bar."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/15
+msgctxt "Sinclaire"
+msgid "It's called The Banana Club. They make a mean Shirley Temple. Heavy pour."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Then what happened?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "But I thought Shirley Temples were..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/c-1/7
+msgctxt "Sinclaire"
+msgid "Devastatingly potent. Yes."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I was going to say..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "A recipe for disaster? I know! I shouldn't have indulged."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/0
+msgctxt "Sinclaire"
+msgid "I should have known better."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/8
+msgctxt "Sinclaire"
+msgid "But after I'd had about seven of them, I went out for a stroll."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/16
+msgctxt "Sinclaire"
+msgid "I don't know where I was going."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/24
+msgctxt "Sinclaire"
+msgid "Just trekking the streets with my dog."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/32
+msgctxt "Sinclaire"
+msgid "Suddenly, I came upon a fine dining establishment called the Questionable Dandelion."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "Right."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/7
+msgctxt "Sinclaire"
+msgid "They've got an incredible buffet."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/15
+msgctxt "Sinclaire"
+msgid "Lots of strange ingredients from all around the world."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/23
+msgctxt "Sinclaire"
+msgid "They're always trying new things."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/0/s/0
+msgctxt "Choix"
+msgid "Ok."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/7
+msgctxt "Sinclaire"
+msgid "Like diplodocus berries."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Sure. Of course."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Diplodocus...? Berries...?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/0
+msgctxt "Sinclaire"
+msgid "And Jimson Weed cupcakes."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Naturally."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/7
+msgctxt "Sinclaire"
+msgid "They also sell Exceedrin by the pint. The headache medicine."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Well, that sounds dangerous."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "I'm tracking this... I think."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Oh yes. Very. But good for headaches."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/c-1/7
+msgctxt "Sinclaire"
+msgid "Anyway, I ate my fill and went on my way. That's when things started to get weird."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-2/0/s/0
+msgctxt "Choix"
+msgid "Oh, is that when it happened?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-2/1/s/0
+msgctxt "Choix"
+msgid "Up until now it had been a typical Friday night, I'm guessing?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-2/c-5/7
+msgctxt "Sinclaire"
+msgid "NO! NOT. AT ALL."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-2/c-5/21/c-0/7
+msgctxt "Sinclaire"
+msgid "It was Thursday."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-2/c-5/21/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Forgive me."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/0
+msgctxt "Sinclaire"
+msgid "I was walking around, or sort of drifting, or rather, floating, or..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/8
+msgctxt "Sinclaire"
+msgid "I guess you could say I was 'making my way' about town."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/16
+msgctxt "Sinclaire"
+msgid "Aimlessly, you see?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "I'm getting that."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "And?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/26/s/0
+msgctxt "Choix"
+msgid "Would you please just get to the bloody point!?!?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-6/7
+msgctxt "Sinclaire"
+msgid "You're very perceptive!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-6/18/0/s/0
+msgctxt "Choix"
+msgid "I pride myself on it. So what happened?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/7
+msgctxt "Sinclaire"
+msgid "And what?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/0/s/0
+msgctxt "Choix"
+msgid "What do you mean 'and what?!' You were just telling me your story!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Ah yes, so you want me to continue. This was your meaning?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What on EARTH is the MATTER WITH YOU?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Why, that's precisely what I'm telling you!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I may just go insane, here."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Please don't. I can assure you, it isn't as much fun as it looks."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/15
+msgctxt "Sinclaire"
+msgid "And with two of us in the room, it might just start to get a little confusing."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Oh it might, might it?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/23/c-0/7
+msgctxt "Sinclaire"
+msgid "Please try to stay on track."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/0
+msgctxt "Sinclaire"
+msgid "Well, I came across an alley I had never noticed before."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/8
+msgctxt "Sinclaire"
+msgid "It was dark and had a rather threatening look about it."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/16
+msgctxt "Sinclaire"
+msgid "So naturally I went down it."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/24/s/0
+msgctxt "Choix"
+msgid "What anyone might do."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/25/s/0
+msgctxt "Choix"
+msgid "Are you bonkers?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/26/s/0
+msgctxt "Choix"
+msgid "Sinks sure are brave. Or stupid."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-10/7
+msgctxt "Sinclaire"
+msgid "Would I know?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-10/15/0/s/0
+msgctxt "Choix"
+msgid "Good point."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/7
+msgctxt "Sinclaire"
+msgid "Sinks?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/0/s/0
+msgctxt "Choix"
+msgid "Oh right, I forgot. You're an insurance claims adjuster named Martin Applegate."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/7
+msgctxt "Sinclaire"
+msgid "I am?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I'm literally two seconds away from leaving."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Relax! It was a joke."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "<i>Face palm.</i>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "You really ought to lighten up. Anyway..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/0
+msgctxt "Sinclaire"
+msgid "I wandered down the alley and came to a door, lit by a red light."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/8
+msgctxt "Sinclaire"
+msgid "I opened it and found a long hall, at the end of which was a sort of booth."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/16
+msgctxt "Sinclaire"
+msgid "And in this booth was a fortune teller!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/24/b/1 sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/15/b/1
+msgctxt "Sinclaire"
+msgid "She was wearing a fantastic red shirt, not unlike the one you're sporting."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/24/b/9
+msgctxt "Sinclaire"
+msgid "Although it could easily have been more of a chartreuse. I can't tell, I'm tone deaf."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/27/s/0
+msgctxt "Choix"
+msgid "A fortune teller?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/7
+msgctxt "Sinclaire"
+msgid "Yes! Her name was Vagabonda the Sinclairious."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/15/b/9
+msgctxt "Sinclaire"
+msgid "I'm sorry I keep harping on the shirt, but it was absolutely... fantastic."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/18
+msgctxt "Sinclaire"
+msgid "She spread out a deck of strange cards, and asked me to select one."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/0/s/0
+msgctxt "Choix"
+msgid "Strange how?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/7
+msgctxt "Sinclaire"
+msgid "They were business cards!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I see."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Which one did you pick?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/0
+msgctxt "Sinclaire"
+msgid "I chose at random, and the card I picked turned out to be the Ace of Spades."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Wait... I thought you just said they were business cards."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Sounds like a lucky card..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/7
+msgctxt "Sinclaire"
+msgid "The Ace of Spades is a bespoke shovel manufacturer based in Crumple, Michigan."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/15
+msgctxt "Sinclaire"
+msgid "The owner's name is Ace."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I should've known."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/23/c-0/7
+msgctxt "Sinclaire"
+msgid "He does great work."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-1/7
+msgctxt "Sinclaire"
+msgid "If ONLY I'd known... that it WASN'T TO BE THE CASE!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-6/0
+msgctxt "Sinclaire"
+msgid "Vagabonda snatched the card back from me and said 'not that one!'"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-6/8
+msgctxt "Sinclaire"
+msgid "It turns out she had her rewards program on the back - twelve stamps and you get a free spade."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-6/16/s/0
+msgctxt "Choix"
+msgid "Probably shouldn't have had that one in there."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-6/17/s/0
+msgctxt "Choix"
+msgid "That's rude."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/0
+msgctxt "Sinclaire"
+msgid "We agree! Besides, she only had two stamps."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/8/b/1
+msgctxt "Sinclaire"
+msgid "So I snatched it back from her again, and we had a bit of a row..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/8/b/9
+msgctxt "Sinclaire"
+msgid "I'm sorry, God damn that is a nice shirt!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/8/b/17
+msgctxt "Sinclaire"
+msgid "Anyway."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/9/b/1
+msgctxt "Sinclaire"
+msgid "So I snatched it back from her again, and we had a bit of a row."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/12
+msgctxt "Sinclaire"
+msgid "I guess that wasn't a very good start to our fortune telling session."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/20
+msgctxt "Sinclaire"
+msgid "I think that's why she cursed me!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/28/s/0
+msgctxt "Choix"
+msgid "How do you figure?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/7
+msgctxt "Sinclaire"
+msgid "Because right afterwards she said:"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/15
+msgctxt "Sinclaire"
+msgid "'Martin, that wasn't a very good start to our fortune telling session."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/23
+msgctxt "Sinclaire"
+msgid "I'm going to curse you because of it!'"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/31
+msgctxt "Sinclaire"
+msgid "And then she cursed me!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/0/s/0
+msgctxt "Choix"
+msgid "Cursed you how?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/7
+msgctxt "Sinclaire"
+msgid "She waved what looked like a magic wand..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/15
+msgctxt "Sinclaire"
+msgid "... although to be honest it could have easily been a bagel of some sort..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/23
+msgctxt "Sinclaire"
+msgid "... and then said 'Martin, I doom you now to become a detestable object!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/31
+msgctxt "Sinclaire"
+msgid "I transform you thusly, so that you may go home and sink about what you've done.'"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Go home and 'sink' about what you've done?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "Am I to understand that you may have confused a wand for a bagel?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-0/7
+msgctxt "Sinclaire"
+msgid "She wasn't above a bad pun."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-0/15/0/s/0 sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "And then you became a sink?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-1/7
+msgctxt "Sinclaire"
+msgid "That is correct."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/0
+msgctxt "Sinclaire"
+msgid "And then I became a sink."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/8
+msgctxt "Sinclaire"
+msgid "Now you find me as I am! Trapped in this porcelain prison!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/16
+msgctxt "Sinclaire"
+msgid "All I want to do is return to my old life,"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/24
+msgctxt "Sinclaire"
+msgid "To stroll the streets of Turkleman City once more..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/32
+msgctxt "Sinclaire"
+msgid "Without a care in the world!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/40
+msgctxt "Sinclaire"
+msgid "Oh, how I long for it! Please, won't you help me?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/48
+msgctxt "Sinclaire"
+msgid "Sudsy and I would be oh so grateful if you could get to the bottom of what's going on here, and return us to our proper forms! Will you?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/56/s/0
+msgctxt "Choix"
+msgid "I'll do everything I can!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/57/s/0
+msgctxt "Choix"
+msgid "I'm never coming near you again."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/58/s/0
+msgctxt "Choix"
+msgid "Can I have a bit to think about this?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-16/7
+msgctxt "Sinclaire"
+msgid "Oh, joy!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-17/7
+msgctxt "Sinclaire"
+msgid "A wise choice!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/7
+msgctxt "Sinclaire"
+msgid "Ooh. I'm fresh out of bits."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/0/s/0
+msgctxt "Choix"
+msgid "No, I mean, like, can I have five minutes."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/c-0/7
+msgctxt "Sinclaire"
+msgid "I haven't been taking minutes on this meeting. Have you?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What the...? No, I mean... Never mind. I'll be back in a little while."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/c-0/15/c-0/11 sinclaire_sink/Sinclaire_Suggests_Maggie/0/c-1/7 sinclaire_sink/HaveYouMadeUpYourMind/0/c-1/7 sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/63/c-0/7
+msgctxt "Narrator"
+msgid "He stands there silent and unmoving until you finally leave."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/0
+msgctxt "Sinclaire"
+msgid "If you want to help get to the bottom of all this,"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/8
+msgctxt "Sinclaire"
+msgid "I might suggest you seek out someone who is in the business of solving unsolvable mysteries!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/16
+msgctxt "Sinclaire"
+msgid "Or just go see if Vagabonda the Sinclairious is willing to undo her curse for a free shovel."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/24/s/0
+msgctxt "Choix"
+msgid "I'll do my best to help you."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/25/s/0
+msgctxt "Choix"
+msgid "I think I know just the magnifying glass..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/26/s/0
+msgctxt "Choix"
+msgid "On second thought, I think I'll just leave you to your own devices for now."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/c-0/7
+msgctxt "Sinclaire"
+msgid "Oh, yay! Let me know when you have news!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Suggests_Maggie/0/c-2/7
+msgctxt "Sinclaire"
+msgid "Fair enough!"
+msgstr ""
+
+#: sinclaire_sink/HaveYouMadeUpYourMind/0/0
+msgctxt "Sinclaire"
+msgid "Hello again, wandering traveler!"
+msgstr ""
+
+#: sinclaire_sink/HaveYouMadeUpYourMind/0/8
+msgctxt "Sinclaire"
+msgid "Have you made up your mind as to whether or not you'll help me?"
+msgstr ""
+
+#: sinclaire_sink/HaveYouMadeUpYourMind/0/16
+msgctxt "Sinclaire"
+msgid "I long to escape the confines of the pipes and their various interweavings."
+msgstr ""
+
+#: sinclaire_sink/HaveYouMadeUpYourMind/0/24
+msgctxt "Sinclaire"
+msgid "And return to my old life as Martin Applegate, insurance claims adjuster extraordinaire."
+msgstr ""
+
+#: sinclaire_sink/HaveYouMadeUpYourMind/0/32/s/0
+msgctxt "Choix"
+msgid "I'll help you."
+msgstr ""
+
+#: sinclaire_sink/HaveYouMadeUpYourMind/0/33/s/0
+msgctxt "Choix"
+msgid "I forgot how crazy you are. Goodbye."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/11
+msgctxt "Sudsy"
+msgid "Wruf! rrrRUF RUF!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/19
+msgctxt "Sinclaire"
+msgid "Off, Sudsy! Go lick someone else's hands!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/30
+msgctxt "Sudsy"
+msgid "... rof."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/38
+msgctxt "Sinclaire"
+msgid "I don't care how dirty they are! Off with you! Go to your tray."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/49
+msgctxt "Sudsy"
+msgid "Bwuff."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/60
+msgctxt "Sinclaire"
+msgid "So, have you found someone to help yet?"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/68/s/0
+msgctxt "Choix"
+msgid "I'm working on it!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/69/s/0
+msgctxt "Choix"
+msgid "As a matter of complete coincidence, I happened to run into one 'Vagabonda the Sinclairious!'"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/70/s/0
+msgctxt "Choix"
+msgid "No. But maybe I can help you myself!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-0/7
+msgctxt "Sinclaire"
+msgid "Well it is like I have all day!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-0/15
+msgctxt "Sinclaire"
+msgid "So I'll see you some other time then!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/7
+msgctxt "Sinclaire"
+msgid "You... You did!?"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I did! And as another matter of coincidence, I happened to be carrying an unneeded shovel at the time."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "That's so unlikely as to be almost unbelievable!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Well, ya know what they say: Fact is stranger than fiction!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "They do say that. They always have."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Anyway, I offered Vagabonda the shovel in exchange for lifting the curse, and VOILA! You're all better now!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "I... I am!? Wow! Thank you! Let me shake your... Hmm. That's odd."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What's odd? Nothing's odd. Everything's totally fine and you believe me."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Your tricks won't work on me! My hand isn't a hand at all! It's a stainless steel knob! And my neck is a faucet!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/29
+msgctxt "Sinclaire"
+msgid "And my dog is still a bar of soap!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/37
+msgctxt "Sudsy"
+msgid "ruf ruf!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/45
+msgctxt "Sinclaire"
+msgid "I don't care if <i>you</i> don't mind, Sudsy! The point here is we've been lied to!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/56
+msgctxt "Sudsy"
+msgid "rrrrrrrr."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/64
+msgctxt "Sinclaire"
+msgid "Exactly!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/0/s/0
+msgctxt "Choix"
+msgid "It's possible you might have been <i>slightly</i> misled."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/1/s/0
+msgctxt "Choix"
+msgid "I'm sorry! I was just trying to help! Your story is so crazy I thought that maybe I could just sort of convince you out of it!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-0/7
+msgctxt "Sinclaire"
+msgid "Out with you! Out of my sight, false friend!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-0/18
+msgctxt "Sudsy"
+msgid "rrrrRUF RUF! rrrrrrr!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Ok! Ok! I'm going! Sorry!"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/7
+msgctxt "Sinclaire"
+msgid "Unbelievable."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/15
+msgctxt "Sinclaire"
+msgid "You thought that just because <i>you</i> didn't believe my story,"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/23
+msgctxt "Sinclaire"
+msgid "That it wasn't my actual experience?"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/31
+msgctxt "Sinclaire"
+msgid "You don't know what it's like to live trapped in an alien body."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/39
+msgctxt "Sinclaire"
+msgid "To know in your heart that you're an insurance claims adjuster, while everyone around you just sees a plain old 'sink!'"
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/47
+msgctxt "Sinclaire"
+msgid "A sink with a bar of soap for a pet."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/63/0/s/0
+msgctxt "Choix"
+msgid "I'm sure there's a right way to reply to this, but I'll be damned if I know what it is."
+msgstr ""
+
+#: sinclaire_sink/Agreed_But_No_Agatha/0/c-2/7
+msgctxt "Sinclaire"
+msgid "You? Alone? I doubt it. Come back when you've found a professional!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/0
+msgctxt "Narrator"
+msgid "Sinclaire does a funny little dance when he sees you, leaping up in the air and clicking his heels together."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/8
+msgctxt "Sinclaire"
+msgid "You've returned!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/19
+msgctxt "Sinclaire"
+msgid "And no better time. I've been hearing some strange rumors lately."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/27
+msgctxt "Sinclaire"
+msgid "It would seem that <i>some</i> people are saying I'm not a man at all!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/35
+msgctxt "Sinclaire"
+msgid "They say I'm a sink who's lost his mind!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/43
+msgctxt "Sinclaire"
+msgid "Can you believe it?!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/51/s/0
+msgctxt "Choix"
+msgid "Um..."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/c-0/7
+msgctxt "Sinclaire"
+msgid "Sounds like the 'um' of agreeance!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/c-1/7
+msgctxt "Sinclaire"
+msgid "Sounds like the 'no' of agreeance!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/c-2/7
+msgctxt "Sinclaire"
+msgid "Right?!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/6
+msgctxt "Narrator"
+msgid "Sinclaire turns his red and blue gaze to Maggie, his expression completely blank."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/17
+msgctxt "Sinclaire"
+msgid "And who's this you've got with you?"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/25
+msgctxt "Maggie"
+msgid "You don't remember me?"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/33
+msgctxt "Sinclaire"
+msgid "Remember you? Why, no madam, we've never met before."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/41
+msgctxt "Sinclaire"
+msgid "I'm sure I'd remember such a stunning beauty!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/49
+msgctxt "Narrator"
+msgid "He waggles his handles the way a human might waggle their eyebrows."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/60
+msgctxt "Maggie"
+msgid "Interesting..."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/71
+msgctxt "Sudsy"
+msgid "rof!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/79
+msgctxt "Narrator"
+msgid "Maggie bends to allow Sudsy to sniff her hand, patting his head briefly."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/93
+msgctxt "Maggie"
+msgid "Hi there, Sudsy. That's a good boy. Now run along to your tray, won't you dear?"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/104
+msgctxt "Sudsy"
+msgid "Wuff! Wuff! rr r ..."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/115
+msgctxt "Sinclaire"
+msgid "Yet my dog seems to know you... How curious!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/123/s/0
+msgctxt "Choix"
+msgid "Sincl... er... Martin, listen, I've brought Maggie here to help figure out what's going on with you."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/c-3/7
+msgctxt "Sinclaire"
+msgid "So that's the name of this shapely glass."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Right. And she's a professional. We're here to get to the bottom of this!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/0
+msgctxt "Maggie"
+msgid "Let's dive right in. Our mutual friend here filled me in on your last conversation, and—"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/8
+msgctxt "Sinclaire"
+msgid "How rude."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "You asked for my help!"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/7
+msgctxt "Sinclaire"
+msgid "Yes, and that's very kind of you."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/15
+msgctxt "Sinclaire"
+msgid "I meant it was rude of me to interrupt just now."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "But you... But I... But..."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/1/s/0
+msgctxt "Choix"
+msgid "Nevermind."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/0
+msgctxt "Maggie"
+msgid "As I was saying, I know the contents of your last conversation."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/8
+msgctxt "Sinclaire"
+msgid "It seems to me there are a few different avenues for further investigation."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/16
+msgctxt "Sinclaire"
+msgid "There is my very curious choice of occupation..."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/24
+msgctxt "Sinclaire"
+msgid "My journey downtown after work..."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/32
+msgctxt "Sinclaire"
+msgid "My incongruous lack of memory with regard to other entities in the house..."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/40
+msgctxt "Sinclaire"
+msgid "And my encounter with the mysterious Vagabonda the Sinclairious."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/48
+msgctxt "Maggie"
+msgid "I... Why, yes. That's... exactly right."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/56
+msgctxt "Sinclaire"
+msgid "I never cease to amaze myself."
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/67
+msgctxt "Maggie"
+msgid "Let's go through these again and see if we can't collect some evidence, shall we?"
+msgstr ""
+
+#: sinclaire_sink/maggie_and_sinclaire/0/g-1/c-4/23/g-0/75/0/s/0
+msgctxt "Choix"
+msgid "Let's do it!"
+msgstr ""
+
+#: sinclaire_sink/questioning_sinclaire/0/0/b/1
+msgctxt "Maggie"
+msgid "Where should we begin our investigation?"
+msgstr ""
+
+#: sinclaire_sink/questioning_sinclaire/0/1/b/1
+msgctxt "Maggie"
+msgid "What else should we ask him about?"
+msgstr ""
+
+#: sinclaire_sink/questioning_sinclaire/0/4/s/0
+msgctxt "Choix"
+msgid "Let's go into a bit of detail about your occupation, Martin."
+msgstr ""
+
+#: sinclaire_sink/questioning_sinclaire/0/5/s/0
+msgctxt "Choix"
+msgid "Martin, I'd like to talk about your trip downtown in more detail."
+msgstr ""
+
+#: sinclaire_sink/questioning_sinclaire/0/6/s/0
+msgctxt "Choix"
+msgid "Can you tell us a little more about this 'Vagabonda' character?"
+msgstr ""
+
+#: sinclaire_sink/questioning_sinclaire/0/7/s/0
+msgctxt "Choix"
+msgid "I'd like to know what some other objects in the house think."
+msgstr ""
+
+#: sinclaire_sink/questioning_sinclaire/0/8/s/0
+msgctxt "Choix"
+msgid "I think we're done here. Let's solve this thing!"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/0/b/1
+msgctxt "Sinclaire"
+msgid "What else can I tell you about my job?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/1/b/1
+msgctxt "Sinclaire"
+msgid "I work for Generally National Auto Insurance."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/8/s/0
+msgctxt "Choix"
+msgid "What do you do there?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/9/s/0
+msgctxt "Choix"
+msgid "What's your boss' name?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/10/s/0
+msgctxt "Choix"
+msgid "Tell me about your office."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/11/s/0
+msgctxt "Choix"
+msgid "Lets move on to another line of inquiry."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/7
+msgctxt "Sinclaire"
+msgid "I'm a claims adjuster."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What does that entail?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Mostly, I just adjust claims. On some special occasions, they adjust me."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Can you go into more detail on that?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Sure! Adjusting claims is a lot like adjusting the human body."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/15
+msgctxt "Sinclaire"
+msgid "Like chiropractors do!"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/23
+msgctxt "Sinclaire"
+msgid "You kind of take one bit and then sort of twist it until something snaps."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/31
+msgctxt "Sinclaire"
+msgid "Then the person says \"Wow, thank you! I feel so much better!\""
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/39
+msgctxt "Sinclaire"
+msgid "After that, you submit the claim for approval..."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/47
+msgctxt "Sinclaire"
+msgid "And your boss says \"You did a great job, Martin! I'm proud of you.\""
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/58/0/s/0
+msgctxt "Choix"
+msgid "That sounds reasonable to me."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/58/1/s/0
+msgctxt "Choix"
+msgid "I get the feeling you don't have any idea what you're talking about."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/58/2/s/0
+msgctxt "Choix"
+msgid "What if my name isn't Martin?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/58/c-0/7
+msgctxt "Sinclaire"
+msgid "Reasonable is my middle name."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/58/c-1/7
+msgctxt "Sinclaire"
+msgid "Me too!"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-0/15/c-0/15/c-0/58/c-2/7
+msgctxt "Sinclaire"
+msgid "Then clearly this isn't the right job for you."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-1/7
+msgctxt "Sinclaire"
+msgid "My boss is named Boss."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Did you just say that because I—"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Jim Boss."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That sounds like a fake—"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-1/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Jim Boss-Man. His name is Jim Bossman."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-1/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Right..."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-1/15/c-0/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Sounds legit."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-2/7 sinclaire_sink/solve_for_sinclaire/0/8
+msgctxt "Sinclaire"
+msgid "Of course!"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-2/15
+msgctxt "Sinclaire"
+msgid "But first, what do offices look like?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "You've never seen one before?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-2/23/c-0/7
+msgctxt "Sinclaire"
+msgid "Not exactly, no."
+msgstr ""
+
+#: sinclaire_sink/MartinsJob/0/c-2/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I should have expected that."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/9
+msgctxt "Maggie"
+msgid "Before we do, let's discuss what we learned."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/17
+msgctxt "Maggie"
+msgid "What do you make of it?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/25/s/0
+msgctxt "Choix"
+msgid "He's clearly lying about what he does for a living."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/26/s/0
+msgctxt "Choix"
+msgid "It's like he's making it all up as he goes..."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-0/7
+msgctxt "Maggie"
+msgid "The whole thing did seem suspicious..."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-0/15 sinclaire_sink/MartinsJobClueSelect/0/c-1/31
+msgctxt "Maggie"
+msgid "What do you think it points to?"
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "He's a sink, trying to mislead us for some reason."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "He's a man, but his memory has been warped by his transformation."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "Too early to say. I don't think it necessarily means anything."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-1/7
+msgctxt "Maggie"
+msgid "I thought the same thing!"
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-1/15
+msgctxt "Maggie"
+msgid "Yet there is no apparent ill intention behind it."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-1/23
+msgctxt "Maggie"
+msgid "Perhaps his benign fabrication is a clue in and of itself..."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "He's a man. The transformation has driven him insane."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-1/39/1/s/0
+msgctxt "Choix"
+msgid "He's a sink. Something deeper is going on here."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-1/39/c-0/13
+msgctxt "Maggie"
+msgid "An intriguing hypothesis..."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/c-1/39/c-1/13
+msgctxt "Maggie"
+msgid "I'm thinking the same."
+msgstr ""
+
+#: sinclaire_sink/MartinsJobClueSelect/0/g-0/0
+msgctxt "Maggie"
+msgid "Let's get back to our interview."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/0/b/1
+msgctxt "Sinclaire"
+msgid "What else can I tell you about that fateful night?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/1/b/1
+msgctxt "Sinclaire"
+msgid "Let us dive into that unfortunate eve."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/8/s/0
+msgctxt "Choix"
+msgid "Let's go over it again from start to finish."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/c-0/7
+msgctxt "Sinclaire"
+msgid "Of course. I left work late and made my way to a local watering hole."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/0
+msgctxt "Sinclaire"
+msgid "The Banana Club."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "What did you order?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/7
+msgctxt "Sinclaire"
+msgid "I had a Shirley Temple."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I thought you said you had seven—"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "And then I had six more of them."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "And these were alcoholic, or...?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/c-0/7
+msgctxt "Sinclaire"
+msgid "Surely not. Or should I say, Shirley not."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "But you mentioned them being 'potent' last time we talked."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Alright, what next?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "My mistake. I probably just didn't finish."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/c-0/15/c-0/15
+msgctxt "Sinclaire"
+msgid "If I had, I would have said they were 'potent'-ially the best drinks I'd ever had."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/c-0/15/c-0/23
+msgctxt "Maggie"
+msgid "It's like interviewing a can of silly string. He's all over the place!"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-0/c-1/15/c-0/18/c-0/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Ok what happened after that?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/0
+msgctxt "Sinclaire"
+msgid "Then I went to the Questionable Dandelion."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "Let's dig into that a bit."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/7
+msgctxt "Sinclaire"
+msgid "With gusto!"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "What did you eat?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/7
+msgctxt "Sinclaire"
+msgid "I had one of their new specials."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/15
+msgctxt "Sinclaire"
+msgid "Jimson Weed cupcakes with a side of diplodocus berries! Delicious."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Didn't you mention that they sold 'Exceedrin by the pint?'"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/26/c-0/7
+msgctxt "Sinclaire"
+msgid "I didn't have a headache, so naturally I avoided that item."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/26/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "How very rational of you. Then what?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/26/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "I roamed about a bit."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/26/c-0/15/c-0/15
+msgctxt "Sinclaire"
+msgid "Then I saw a mysterious, threatening, dark alley, which I wandered into - quite sanely I might add."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightOut/0/g-1/c-2/15/c-0/26/c-0/15/c-0/23
+msgctxt "Sinclaire"
+msgid "And that's when I met Vagabonda!"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/6 sinclaire_sink/MartinsNightClueSelect/0/15/0
+msgctxt "Maggie"
+msgid "Ok. Let's go over this."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/0/s/0
+msgctxt "Choix"
+msgid "What do you make of the Questionable Dandelion?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/1/s/0
+msgctxt "Choix"
+msgid "What's the deal with that bar? The so-called 'Banana Lounge?'"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/2/s/0
+msgctxt "Choix"
+msgid "I have my takeaway from this line of questioning."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/7
+msgctxt "Maggie"
+msgid "Well, that is actually a real place. It's usually called the 'QD.'"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/15
+msgctxt "Maggie"
+msgid "It's the first thing he's said that seems like it could be true..."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/23
+msgctxt "Maggie"
+msgid "But what about those ingredients?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Diplodocus berries are real. They come from the diplodocus bush."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Jimson weed is a thing."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/2/s/0
+msgctxt "Choix"
+msgid "Exceedrin is real. It's an off-brand headache med."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/3/s/0
+msgctxt "Choix"
+msgid "None of that stuff is real."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-0/7
+msgctxt "Maggie"
+msgid "If you say so..."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/7
+msgctxt "Maggie"
+msgid "It is?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "You bet. But it's just a culinary garnish."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Yep. It's a powerful psychedelic!"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "Grows all over the place. Nothing fancy."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/15/c-0/7
+msgctxt "Maggie"
+msgid "Hmm. Doesn't point to much..."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/15/c-1/7
+msgctxt "Maggie"
+msgid "By gosh you're right! 'Datura stramonium.'"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/15/c-1/18
+msgctxt "Maggie"
+msgid "Its properties include memory loss and delusion!"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-1/15/c-2/7
+msgctxt "Maggie"
+msgid "Hmm. Not much of a clue, there."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-2/7
+msgctxt "Maggie"
+msgid "True, true... Says here 'Side effects include psychosis, vomiting, diarrhea, and more vomiting.'"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-0/31/c-3/7
+msgctxt "Maggie"
+msgid "Guess there's no real clue here, then."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect/0/15/8/c-1/7
+msgctxt "Maggie"
+msgid "You've got me. I can't find anything about it online."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/0
+msgctxt "Maggie"
+msgid "What is it?"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/8/s/0
+msgctxt "Choix"
+msgid "I don't buy what he said about the Shirley Temples. I think they must have been alcoholic."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/9/s/0
+msgctxt "Choix"
+msgid "He ordered from a real restaurant. That's the only thing he's told us so far that adds up."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/c-0/7
+msgctxt "Maggie"
+msgid "Interesting... Let's add that to our list."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/c-1/7
+msgctxt "Maggie"
+msgid "Indeed. I thought the same."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "And on top of that, his diet included a known psychedelic plant!"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "And he just may have eaten a medication known to cause psychosis!"
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "Guess that's a dead end..."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/c-1/15/c-0/7
+msgctxt "Maggie"
+msgid "I think we're on to something."
+msgstr ""
+
+#: sinclaire_sink/MartinsNightClueSelect2/0/c-1/15/c-1/7
+msgctxt "Maggie"
+msgid "Things are starting to add up here!"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/0/b/1
+msgctxt "Sinclaire"
+msgid "Vagabonda! What a mysterious character."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/1/b/1
+msgctxt "Sinclaire"
+msgid "What else would you like to know?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/14/s/0
+msgctxt "Choix"
+msgid "What was the deal with her punch card?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/15/s/0
+msgctxt "Choix"
+msgid "Why did she curse you, again?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/16/s/0
+msgctxt "Choix"
+msgid "How do I know she's a real person?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/17/s/0
+msgctxt "Choix"
+msgid "Let's move on to another line of questioning."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/7
+msgctxt "Sinclaire"
+msgid "It was a loyalty card for a free shovel from Ace of Spades."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/15
+msgctxt "Sinclaire"
+msgid "It's a bespoke shovel manufactory."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Do you still have it?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Maggie, can you find anything about it?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-0/7
+msgctxt "Sinclaire"
+msgid "Why yes! Here it is."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "You've just handed me a warranty for an in-sink disposal."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-0/18/c-0/7
+msgctxt "Sinclaire"
+msgid "Have I?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-0/18/c-0/15
+msgctxt "Sinclaire"
+msgid "How odd."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-0/18/c-0/23
+msgctxt "Sinclaire"
+msgid "Completely unlike me to do such a thing."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-1/7
+msgctxt "Maggie"
+msgid "There's nothing anywhere online."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-1/15
+msgctxt "Maggie"
+msgid "Could just be a mom and pop shop though."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-1/23
+msgctxt "Sinclaire"
+msgid "They sell moms and pops now?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-0/23/c-1/31
+msgctxt "Sinclaire"
+msgid "Ruthless!"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-1/7
+msgctxt "Sinclaire"
+msgid "I assume it was because I took her punch card."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-2/7
+msgctxt "Sinclaire"
+msgid "You don't! I don't!"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounter/0/c-2/15
+msgctxt "Sinclaire"
+msgid "But do we really <i>know</i> anything?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounterClueSelect/0/0
+msgctxt "Maggie"
+msgid "Give us a moment, would you Martin?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounterClueSelect/0/11
+msgctxt "Maggie"
+msgid "Anything stand out to you?"
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounterClueSelect/0/19/s/0
+msgctxt "Choix"
+msgid "The disposal warranty is very intriguing."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounterClueSelect/0/20/s/0
+msgctxt "Choix"
+msgid "He has no evidence that she's real."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounterClueSelect/0/c-0/7
+msgctxt "Maggie"
+msgid "I agree. One of the most interesting pieces of evidence thus far."
+msgstr ""
+
+#: sinclaire_sink/MartinsEncounterClueSelect/0/c-1/7
+msgctxt "Maggie"
+msgid "Yes. Very peculiar."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/0
+msgctxt "Maggie"
+msgid "Sinclaire, would you give us a moment?"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/11
+msgctxt "Maggie"
+msgid "I think witnesses are in order."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/19/b/1
+msgctxt "Maggie"
+msgid "We can talk to Dorian, Arma, or... Sudsy?"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/22/b/1
+msgctxt "Maggie"
+msgid "Arma is our resident fire alarm. Should be a good witness."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/25
+msgctxt "Maggie"
+msgid "Who should we talk to first?"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/6
+msgctxt "Maggie"
+msgid "Who should we talk to next?"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/10/s/0
+msgctxt "Choix"
+msgid "Let's bring in Dorian!"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/11/s/0
+msgctxt "Choix"
+msgid "Let's talk to Arma."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/12/s/0
+msgctxt "Choix"
+msgid "Can we have a moment with Sudsy?"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/13/s/0
+msgctxt "Choix"
+msgid "I think we're ready to move on."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/c-0/10/b/1
+msgctxt "Dorian"
+msgid "You? Not a chance."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/c-0/11/b/1
+msgctxt "Dorian"
+msgid "'Ello loves. What can I do for ya?"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/c-0/11/b/9
+msgctxt "Maggie"
+msgid "We'd like to ask you about Sinclaire."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/c-1/10/b/1
+msgctxt "Arma"
+msgid "<w>BLEEEEEEEEEEE</w>"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/c-1/10/b/15 sinclaire_sink/MartinsPast/0/34/14/c-1/10/b/23
+msgctxt "Arma"
+msgid "<w>EEEEEEEEEEEEEEEEEE</w>"
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/c-1/10/b/34
+msgctxt "Maggie"
+msgid "This clearly won't do."
+msgstr ""
+
+#: sinclaire_sink/MartinsPast/0/34/14/c-1/11/b/1
+msgctxt "Arma"
+msgid "Hey folks! What can I do for ya?"
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/0
+msgctxt "Dorian"
+msgid "I'm open for questioning."
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/8/s/0
+msgctxt "Choix"
+msgid "Was Sinclaire always this way?"
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/9/s/0
+msgctxt "Choix"
+msgid "Does Sinclaire recognize you?"
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/10/s/0
+msgctxt "Choix"
+msgid "Have you noticed anything odd about him?"
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/11/s/0
+msgctxt "Choix"
+msgid "Alright, let's move on."
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/c-0/7
+msgctxt "Dorian"
+msgid "No. Far as I recall, Sinclaire used to be... well, charming."
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/c-0/15
+msgctxt "Dorian"
+msgid "He was always thoughtful, and took great care to have perfect hygiene."
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/c-0/23
+msgctxt "Dorian"
+msgid "Bit of a mess, now, isn't he?"
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/c-1/7
+msgctxt "Dorian"
+msgid "No. He keeps calling me names like 'Wall-bert' and 'Jonald.'"
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/c-1/15
+msgctxt "Dorian"
+msgid "Really rather annoying."
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/c-2/7
+msgctxt "Dorian"
+msgid "You mean aside from... everything?"
+msgstr ""
+
+#: sinclaire_sink/QuestionDorian/0/c-2/15
+msgctxt "Dorian"
+msgid "I guess he does seem to be getting backed up a bit more often than usual."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/0/b/1
+msgctxt "Arma"
+msgid "How can I help?"
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/1/b/1
+msgctxt "Arma"
+msgid "Sorry folks, that's all I've got time for!"
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/4/s/0
+msgctxt "Choix"
+msgid "Can you provide a medical diagnosis of Sinclaire/Martin's condition?"
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/5/s/0
+msgctxt "Choix"
+msgid "Why do you think Sinclaire started that fire?"
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/6/s/0
+msgctxt "Choix"
+msgid "Does Sinclaire remember past interactions?"
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/7/s/0
+msgctxt "Choix"
+msgid "Have you ever come across a transformation before?"
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-0/7
+msgctxt "Arma"
+msgid "Well, I'm not a doctor, but I can speak to it from an emergency responder's point of view."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-0/15
+msgctxt "Arma"
+msgid "Here's what I notice."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-0/23
+msgctxt "Arma"
+msgid "There's definitely an altered state of consciousness."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-0/31
+msgctxt "Arma"
+msgid "His erratic behavior points toward a head injury."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-0/39
+msgctxt "Arma"
+msgid "Or intoxication due to foreign substances."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-0/47
+msgctxt "Arma"
+msgid "Or, I guess, magic? Who's to say..."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-1/7
+msgctxt "Arma"
+msgid "I've been wondering the same thing."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-1/15
+msgctxt "Arma"
+msgid "It's not like him... He used to be so considerate."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-1/23
+msgctxt "Arma"
+msgid "He's acting like he's high."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-2/7
+msgctxt "Arma"
+msgid "Not in the slightest."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-2/15
+msgctxt "Arma"
+msgid "And he's created a bizarre 'memory' of another life."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-3/7
+msgctxt "Arma"
+msgid "I have to say I have not."
+msgstr ""
+
+#: sinclaire_sink/QuestionArma/0/c-3/15
+msgctxt "Arma"
+msgid "But that's not to say it can't be real."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/0
+msgctxt "Sudsy"
+msgid "Werf!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/8/s/0
+msgctxt "Choix"
+msgid "Alright, Suds, give us the straight dope."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/9/s/0
+msgctxt "Choix"
+msgid "Want a treat?"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/10/s/0
+msgctxt "Choix"
+msgid "Guess we oughta let ya go, Suds."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/11/s/0
+msgctxt "Choix"
+msgid "Marvelous."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/12/s/0
+msgctxt "Choix"
+msgid "Best time I ever spent."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/13/s/0
+msgctxt "Choix"
+msgid "Exquisite."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/14/s/0
+msgctxt "Choix"
+msgid "Valuable."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/7
+msgctxt "Sudsy"
+msgid "Raf rorf!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Bark once for yes, and twice for no, ok?"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Froth up if you understand me."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/7
+msgctxt "Sudsy"
+msgid "Rrrrof!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Alright... Is Sinclaire really a sink?"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/7
+msgctxt "Sudsy"
+msgid "... rf."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Do you mean 'yes?!'"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Bark again to confirm!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-0/7
+msgctxt "Sudsy"
+msgid "ruff. ruff."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Wait... so you mean no?"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-0/15/c-0/7
+msgctxt "Sudsy"
+msgid "woof, ruf ruf."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15
+msgctxt "Maggie"
+msgid "Good try..."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-1/7
+msgctxt "Sudsy"
+msgid "ruf ruf. rrrrr."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Are you saying, 'yes he is a sink?'"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-1/15/c-0/7
+msgctxt "Sudsy"
+msgid "rrrrrrr ruf! bwuff."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-0/15/c-0/15/c-1/15/c-0/15
+msgctxt "Maggie"
+msgid "Let's move on..."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-1/7
+msgctxt "Sudsy"
+msgid "Frrrrfffrfrfff."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Ok, great! So... is Sinclaire a sink?"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-1/15/c-0/7
+msgctxt "Sudsy"
+msgid "Bruf. Brf Bruff."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-1/15/c-0/15
+msgctxt "Sudsy"
+msgid "BORK!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-0/15/c-1/15/c-0/23
+msgctxt "Maggie"
+msgid "I don't think this is getting us anywhere..."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-1/7
+msgctxt "Sudsy"
+msgid "BWUFF!!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Here ya go."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-1/15/c-0/7
+msgctxt "Sudsy"
+msgid "ruf ! ruf !"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "One heck of a pupper!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-1/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Sure is one dang great doogler!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-1/15/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Best lil' Sudser I ever sudsed!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-1/15/c-0/15/3/s/0
+msgctxt "Choix"
+msgid "I vote this little biscuit for mayor!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/c-2/10
+msgctxt "Maggie"
+msgid "Well, that was..."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/0
+msgctxt "Maggie"
+msgid "I couldn't agree more."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/8
+msgctxt "Maggie"
+msgid "What do you think it taught us?"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Nothing."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Sinclaire is definitely a man."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "Sinclaire is definitely a sink."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "Sudsy is shaped like a dog!"
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/c-7/7
+msgctxt "Maggie"
+msgid "Yes. That."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/c-8/7 sinclaire_sink/QuestionSudsy/0/g-0/c-9/13
+msgctxt "Maggie"
+msgid "You got that from Sudsy? All right..."
+msgstr ""
+
+#: sinclaire_sink/QuestionSudsy/0/g-0/c-10/7
+msgctxt "Maggie"
+msgid "I knew I could trust your judgement."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/0
+msgctxt "Maggie"
+msgid "Sinclaire, could you give us another moment alone?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/19
+msgctxt "Sinclaire"
+msgid "Here, take it!"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/27
+msgctxt "Maggie"
+msgid "Um..."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/35
+msgctxt "Maggie"
+msgid "All right. Thank you?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/49
+msgctxt "Maggie"
+msgid "I've been thinking."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/57
+msgctxt "Maggie"
+msgid "Whatever is going on, clearly Sinclaire/Martin's mind is..."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/65/s/0
+msgctxt "Choix"
+msgid "Unstable?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/66/s/0
+msgctxt "Choix"
+msgid "Fractured?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/67/s/0
+msgctxt "Choix"
+msgid "A poorly baked souffle?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/c-2/10
+msgctxt "Sinclaire"
+msgid "Did somebody say..."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/0
+msgctxt "Maggie"
+msgid "Exactly. I'm a little concerned that given his fragile state, he's vulnerable."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/8
+msgctxt "Maggie"
+msgid "I'm afraid that if we make the wrong analysis of the situation, he might lose it completely."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "I agree. But we have to make a move some time."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "I think he's less vulnerable than you think."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/21/s/0
+msgctxt "Choix"
+msgid "I'm really confident I know what's going on."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/c-3/7
+msgctxt "Maggie"
+msgid "Ok... Well, if you say so, let's do this."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/c-4/7
+msgctxt "Maggie"
+msgid "Seems dangerous... anything could happen."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-0/c-5/7
+msgctxt "Maggie"
+msgid "I'm glad someone is!"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/0
+msgctxt "Maggie"
+msgid "I've never been so nervous!"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/11
+msgctxt "Maggie"
+msgid "I can't make heads or tails of this."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/19
+msgctxt "Maggie"
+msgid "I... I've never trusted anyone with a case before."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/27
+msgctxt "Maggie"
+msgid "But I'm going to trust you to make this call."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/41
+msgctxt "Sinclaire"
+msgid "So what's what? Have you gotten to the bottom of things?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/49
+msgctxt "Maggie"
+msgid "We have gotten as far as we can."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/57
+msgctxt "Sinclaire"
+msgid "Well, what's your verdict?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/65
+msgctxt "Sinclaire"
+msgid "Am I man? Or am I sink? Or am I walnut brittle?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/73/s/0
+msgctxt "Choix"
+msgid "Sinclaire, you're actually a sink."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/74/s/0
+msgctxt "Choix"
+msgid "Martin, you are, indeed, a man."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/75/s/0
+msgctxt "Choix"
+msgid "The truth is we cannot say for sure."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-6/7
+msgctxt "Sinclaire"
+msgid "Preposterous! I don't believe it for a moment!"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/7
+msgctxt "Maggie"
+msgid "We can't? Why not?"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/15/0/s/0
+msgctxt "Choix"
+msgid "The evidence is contradictory."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/15/1/s/0
+msgctxt "Choix"
+msgid "We couldn't get definitive proof."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/15/2/s/0
+msgctxt "Choix"
+msgid "Actually... Sinclaire you're a sink! Final answer!"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/15/3/s/0
+msgctxt "Choix"
+msgid "Actually... Martin, we know you're a man!"
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/15/c-0/7
+msgctxt "Maggie"
+msgid "It is. And we must err on the side of caution."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/15/c-1/7
+msgctxt "Maggie"
+msgid "I am sad to say that I agree."
+msgstr ""
+
+#: sinclaire_sink/solve_for_sinclaire/0/g-1/c-8/15/c-2/7
+msgctxt "Sinclaire"
+msgid "What!?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/1/b/1
+msgctxt "Sinclaire"
+msgid "That proves nothing!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/2/b/1
+msgctxt "Sinclaire"
+msgid "What evidence do you have!?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/5/s/0
+msgctxt "Choix"
+msgid "Other objects in the house corroborate it."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/6/s/0
+msgctxt "Choix"
+msgid "Something happened on your 'night out.'"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/7/s/0
+msgctxt "Choix"
+msgid "Your encounter with Vagabonda wasn't real."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/8/s/0
+msgctxt "Choix"
+msgid "You've clearly never worked in insurance."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/9/s/0
+msgctxt "Choix"
+msgid "Uh oh... Well, that's all I've got..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-0/7
+msgctxt "Sinclaire"
+msgid "What!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/7
+msgctxt "Sinclaire"
+msgid "Yes, I was cursed!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "No, Sinclaire, you ate a psychedelic weed!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "No, Sinclaire, you ate toxic meds!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "No, Martin. You got drunk."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/3/s/0
+msgctxt "Choix"
+msgid "No, Martin. You imagined it all."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Madness! Jimson weed is perfectly safe!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/c-1/7
+msgctxt "Sinclaire"
+msgid "Exceedrin is legal in the state of Florida!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/c-2/7
+msgctxt "Sinclaire"
+msgid "No I didn't!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-1/15/c-3/7
+msgctxt "Sinclaire"
+msgid "What?! Preposterous!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-2/7
+msgctxt "Sinclaire"
+msgid "How dare you!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "It appears to have been a hallucination."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "The 'punch card' was a disposal warranty."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-2/15/c-0/7
+msgctxt "Sinclaire"
+msgid "A hallucination!?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-2/15/c-1/7
+msgctxt "Sinclaire"
+msgid "It... it was?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms/0/c-3/7
+msgctxt "Sinclaire"
+msgid "Dare you suggest such nonsense? I've adjusted a thousand claims in my day!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/0
+msgctxt "Sinclaire"
+msgid "It can't be... I can't believe it..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/8
+msgctxt "Sinclaire"
+msgid "And yet... And yet..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/16
+msgctxt "Narrator"
+msgid "Sinclaire wobbles, staggering back against the wall."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/27
+msgctxt "Sinclaire"
+msgid "Ugh... Is the room spinning?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/41
+msgctxt "Sudsy"
+msgid "... RUF!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/49
+msgctxt "Sinclaire"
+msgid "Ooooh... I don't feel so good..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/57
+msgctxt "Sudsy"
+msgid "rufruf!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/65
+msgctxt "Narrator"
+msgid "Sinclaire doubles over, holding his sides with a sickly groan."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/73
+msgctxt "Sinclaire"
+msgid "I feel something in my pipes... Something strange..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/84
+msgctxt "Sudsy"
+msgid "BRRRR! BRRRR!!!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/92
+msgctxt "Sinclaire"
+msgid "What are you trying to say, Sudsy?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/103
+msgctxt "Sudsy"
+msgid "BRRRRRRRRRRRRRRRRRRR!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/111/s/0
+msgctxt "Choix"
+msgid "Hit the disposal!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/112/s/0
+msgctxt "Choix"
+msgid "Turn on the faucet!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/c-0/7
+msgctxt "Sinclaire"
+msgid "<w>GRRRRRRRR</w> COUGH COUGH! BLECH!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/c-1/7
+msgctxt "Sinclaire"
+msgid "<w>glug glug glug</w> Phew!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/3
+msgctxt "Sinclaire"
+msgid "My word! That's done it!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/17
+msgctxt "Narrator"
+msgid "He stands up to his full height, one hand resting gently on his belly; approximately."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/25
+msgctxt "Sinclaire"
+msgid "What <i>was</i> that in my system?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/33
+msgctxt "Sinclaire"
+msgid "Why... I feel as if I've just returned from some sort of journey..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/41
+msgctxt "Sinclaire"
+msgid "Have I been dreaming?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "In a way..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/50/s/0
+msgctxt "Choix"
+msgid "Something like that."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/51/s/0
+msgctxt "Choix"
+msgid "Oh no, man. You've been TRIPPING BALLS."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-0/52/s/0
+msgctxt "Choix"
+msgid "Actually you almost OD'd on headache meds."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/0
+msgctxt "Maggie"
+msgid "Now the moment of truth..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/14
+msgctxt "Maggie"
+msgid "We need to ask you one question."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/22
+msgctxt "Maggie"
+msgid "What is your name?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/33
+msgctxt "Sinclaire"
+msgid "I'm... I'm Sinclaire, of course."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/44
+msgctxt "Sudsy"
+msgid "ROF rofrofrofrofrof mmmmmmm ROF ROF ROF!!!!!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/52
+msgctxt "Maggie"
+msgid "We've done it!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/70
+msgctxt "Sinclaire"
+msgid "Done what, Maggie?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/78
+msgctxt "Maggie"
+msgid "Never you mind, Sinclaire. Never you mind."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/86/s/0
+msgctxt "Choix"
+msgid "I think you'd better get some rest, Sinclaire."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/87/s/0
+msgctxt "Choix"
+msgid "Maggie, why don't I wrap things up here?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-6/7
+msgctxt "Sinclaire"
+msgid "Yes... That would be nice. I am quite tired."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-6/15/0/s/0
+msgctxt "Choix"
+msgid "I'll come see you soon."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-6/15/c-0/7
+msgctxt "Maggie"
+msgid "Shall we?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-6/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Indeed."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-6/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "You go ahead, Maggie. I'll catch up."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-6/15/c-0/15/c-0/7
+msgctxt "Maggie"
+msgid "Meet me back at my office."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-6/15/c-0/15/c-1/7
+msgctxt "Maggie"
+msgid "Don't take too long..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-7/7
+msgctxt "Maggie"
+msgid "Of course. You know where to find me..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Transforms2/0/g-1/c-7/15/b/1
+msgctxt "Maggie"
+msgid "Detective."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/0
+msgctxt "Sinclaire"
+msgid "So, all this questioning was for naught?"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/8
+msgctxt "Maggie"
+msgid "I'm sorry."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/16
+msgctxt "Maggie"
+msgid "We only announce the results of investigations when we are 100% confident."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/24
+msgctxt "Maggie"
+msgid "In your case, we just couldn't be certain."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/32
+msgctxt "Sinclaire"
+msgid "What am I to make of my situation?"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/40
+msgctxt "Sinclaire"
+msgid "Neither man nor sink, am I doomed to reside in this middle-world forever?"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/48/s/0
+msgctxt "Choix"
+msgid "I'm sorry Sinclaire, I'm afraid so."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/49/s/0
+msgctxt "Choix"
+msgid "I'll keep trying to figure this out."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/50/s/0
+msgctxt "Choix"
+msgid "Maybe it's ok to be a sink?"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/51/s/0
+msgctxt "Choix"
+msgid "Maybe the curse will wear off some day."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-0/7
+msgctxt "Sinclaire"
+msgid "I'm a monster! A freak!"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "You're not a monster. You're just... different."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "I have to admit, you are pretty weird."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-0/18/c-0/7
+msgctxt "Sinclaire"
+msgid "Different like a fox!"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-0/18/c-1/7
+msgctxt "Sinclaire"
+msgid "Thank you!"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-1/7
+msgctxt "Sinclaire"
+msgid "Don't bother. I've given up hope."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/7
+msgctxt "Sinclaire"
+msgid "Easy for you to say. You get to be a trapezoid."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "A... trapezoid?"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/15/c-0/7
+msgctxt "Sinclaire"
+msgid "With all your uneven, beautiful angles."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/15/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "I just... ok."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/15/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "Why yes, I'm glad you noticed."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/15/c-0/18/2/s/0
+msgctxt "Choix"
+msgid "I'm a human."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/15/c-0/18/c-1/7
+msgctxt "Sinclaire"
+msgid "I'm very perceptive."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-2/15/c-0/18/c-2/7
+msgctxt "Sinclaire"
+msgid "Suuuure you are. And I'm a sink."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-3/7
+msgctxt "Sinclaire"
+msgid "And maybe it'll deepen to the point I'm a talking toilet. God forbid!"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-3/18/b/1
+msgctxt "Jean Loo"
+msgid "Meh."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/c-3/18/b/15
+msgctxt "Sinclaire"
+msgid "And now I'm hearing voices!"
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/g-0/0
+msgctxt "Sinclaire"
+msgid "Well, annnyyyyway. I guess I'll just be here, washing things."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/g-0/11
+msgctxt "Sinclaire"
+msgid "And pining away for my long-lost home in Turkelman City."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/g-0/19
+msgctxt "Sinclaire"
+msgid "Feel free to come by and see me whenever you like."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/g-0/27
+msgctxt "Sinclaire"
+msgid "And thank you for trying to help me."
+msgstr ""
+
+#: sinclaire_sink/WeDontKnow/0/g-0/35
+msgctxt "Sinclaire"
+msgid "I'll always think of you as a friend."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/3
+msgctxt "Sinclaire"
+msgid "I feel as if we are meeting for the first time."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/11/s/0
+msgctxt "Choix"
+msgid "Me too."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/12/s/0
+msgctxt "Choix"
+msgid "Well, hello Sinclaire. It's a pleasure."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/13/s/0
+msgctxt "Choix"
+msgid "You were pretty messed up there for a minute."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/c-1/7
+msgctxt "Sinclaire"
+msgid "I assure you, the pleasure is all mine."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/c-2/7
+msgctxt "Sinclaire"
+msgid "It was a very strange time..."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/c-2/15
+msgctxt "Sinclaire"
+msgid "But you saved me."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/0
+msgctxt "Sinclaire"
+msgid "If it weren't for you, I'd still be a raving lunatic."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/11
+msgctxt "Sinclaire"
+msgid "Now that I'm back to my old self, I'd love to thank you properly."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "I wouldn't say no to a date..."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "Maybe we can just hang out?"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/22
+msgctxt "Sinclaire"
+msgid "And neither would I."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/30
+msgctxt "Sinclaire"
+msgid "May I take your hand?"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/0/s/0
+msgctxt "Choix"
+msgid "Please do..."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/1/s/0
+msgctxt "Choix"
+msgid "You can take more than my hand."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/7
+msgctxt "Narrator"
+msgid "Sinclaire reaches out for your hand, taking it in his with a pronounced tenderness. He brushes his thumb gently across the back of it."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/15
+msgctxt "Sinclaire"
+msgid "So soft... I could caress you all day."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/29/0/s/0
+msgctxt "Choix"
+msgid "Sinclaire, you're so gentle."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/29/1/s/0
+msgctxt "Choix"
+msgid "And all night, if you like..."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/29/c-0/7
+msgctxt "Sinclaire"
+msgid "I can also be firm."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/29/c-0/15
+msgctxt "Narrator"
+msgid "He can indeed."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/29/c-1/7
+msgctxt "Sinclaire"
+msgid "I would like that very much..."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-0/29/c-1/18
+msgctxt "Narrator"
+msgid "Your night becomes full of porcelain and neckties."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-1/7
+msgctxt "Narrator"
+msgid "Sinclaire fans at himself with one hand, tugging at his tie-pipes."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-1/18
+msgctxt "Sinclaire"
+msgid "My, my. Let's at least wait until after dinner..."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-3/38/c-1/26
+msgctxt "Narrator"
+msgid "With fierce abandon, you show him that waiting is not an option. He is soon... drained."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/7
+msgctxt "Sinclaire"
+msgid "That would be marvelous!"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/0/s/0
+msgctxt "Choix"
+msgid "And... maybe we can bring the dog?"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/c-0/7
+msgctxt "Sinclaire"
+msgid "Always."
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/c-0/15
+msgctxt "Sinclaire"
+msgid "Come along, Sudsy!"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/c-0/26
+msgctxt "Sudsy"
+msgid "... bwuff!"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "Good boy!"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/c-0/37/1/s/0
+msgctxt "Choix"
+msgid "Great boy!"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/c-0/37/2/s/0
+msgctxt "Choix"
+msgid "Excellent boy!"
+msgstr ""
+
+#: sinclaire_sink/ASinkOnceMore/0/g-0/c-4/18/c-0/37/3/s/0
+msgctxt "Choix"
+msgid "Best of all possible boys!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: sinclaire_sink/sinclaire_love_return/0/0
+msgctxt "Sinclaire"
+msgid "Why, if it isn’t my darling"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: sinclaire_sink/sinclaire_love_return/0/5
+msgctxt "Narration / joueur"
+msgid "! What an outpouring of joy it brings me to see you again!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/16/s/0
+msgctxt "Choix"
+msgid "I always love seeing you Sinclaire."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/17/s/0
+msgctxt "Choix"
+msgid "Actually, I’m ready to Realize you."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/18/s/0
+msgctxt "Choix"
+msgid "Perhaps Winnifred will send us a little hot water…"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/c-0/7
+msgctxt "Sinclaire"
+msgid "Shall we leave the tap open and while away the hours in delightful conversation?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yes, let’s let it flow!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Then flow it shall!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/c-0/15/c-0/15
+msgctxt "Narrator"
+msgid "The hours pass by so quickly when you are with your lover Sinclaire the Sink."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/c-2/7
+msgctxt "Sinclaire"
+msgid "You’ve read my mind…"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_return/0/c-2/18
+msgctxt "Narrator"
+msgid "Things heat up between you and your lover Sinclaire, but always within responsible temperature limits."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/0
+msgctxt "Sinclaire"
+msgid "My dearest. I love thee almost as much as the streets of my home."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/8
+msgctxt "Sinclaire"
+msgid "Didst thou come to make love?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/16
+msgctxt "Sinclaire"
+msgid "Or to have a claim adjusted?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/24
+msgctxt "Sinclaire"
+msgid "Or to ogle at my hideous form?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/32/s/0
+msgctxt "Choix"
+msgid "Martin, you're a wet, porcelain angel."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/33/s/0
+msgctxt "Choix"
+msgid "Oh, Sinky, I came to make love!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-0/7
+msgctxt "Sinclaire"
+msgid "Hopefully not for long."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Exactly! I've come to Realize you!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Well, for a bit longer..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-0/15/c-1/7
+msgctxt "Sinclaire"
+msgid "Come see me any time."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-0/15/c-1/15
+msgctxt "Sinclaire"
+msgid "You do help the time flow by."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-0/15/c-1/23
+msgctxt "Sinclaire"
+msgid "Damn it. I mean 'go' by."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-1/7
+msgctxt "Sinclaire"
+msgid "Sinky?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I meant Martin."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "It's my new nickname for you."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Ah, yes. I thought you did."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/c-1/15/c-1/7
+msgctxt "Sinclaire"
+msgid "How spicy!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/g-0/0
+msgctxt "Sinclaire"
+msgid "Let's get down to business!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Are you... gonna kiss me or something?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "So... Lovemaking?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/g-1/0
+msgctxt "Sinclaire"
+msgid "Oh no, not lovemaking. Business! Let me adjust whatever claims you've brought me."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "I'll... just go."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_return/0/g-1/12/s/0
+msgctxt "Choix"
+msgid "Right. Lovemaking next time maybe..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_begin/0/12
+msgctxt "Sinclaire"
+msgid "Realize me?! Why... I never thought I would have that luxury!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_begin/0/20
+msgctxt "Sinclaire"
+msgid "Have you washed away all that stands in the way of this?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_begin/0/37/s/0
+msgctxt "Choix"
+msgid "I have! Let’s do it!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_begin/0/38/s/0
+msgctxt "Choix"
+msgid "Actually… I need a little more time."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_begin/0/c-0/13
+msgctxt "Sinclaire"
+msgid "Well, lathe my hands and call me Martin!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_begin/0/c-0/21
+msgctxt "Sinclaire"
+msgid "Well.. please don't. I've already been confused enough"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_begin/0/c-1/10
+msgctxt "Sinclaire"
+msgid "Of course. Return when you’re ready. Sudsy and I will be here."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_return/0/0
+msgctxt "Sinclaire"
+msgid "Ah! Back again? Ready to show me my new form?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "You bet!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_return/0/18/s/0 sinclaire_sink/sinclaire_martin_love_realize_begin/0/30/s/0 sinclaire_sink/sinclaire_martin_love_realize_return/0/18/s/0 sinclaire_sink/sinclaire_realize_join/0/48/s/0
+msgctxt "Choix"
+msgid "I don't think that will be enough..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_realize_return/0/c-1/10
+msgctxt "Sinclaire"
+msgid "Not a problem, dear one. Come on back when ready."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_realize_begin/0/12
+msgctxt "Sinclaire"
+msgid "My savior! Is it time?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_realize_begin/0/29/s/0
+msgctxt "Choix"
+msgid "It is! Everything is ready!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_realize_begin/0/c-1/10
+msgctxt "Sinclaire"
+msgid "Alas, I shall wait here, dreaming of claims left unadjusted."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_realize_return/0/0
+msgctxt "Sinclaire"
+msgid "Are we ready? To bring me back to my true form?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yes! We are!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_martin_love_realize_return/0/c-1/10
+msgctxt "Sinclaire"
+msgid "I shall endure until you have what is needed."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/3
+msgctxt "Narrator"
+msgid "Sinclaire lets out a triumphant laugh."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/11
+msgctxt "Sinclaire"
+msgid "Vindication! Sweet vindication!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/22
+msgctxt "Sinclaire"
+msgid "All those naysayers have now been nay-said!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/30
+msgctxt "Sinclaire"
+msgid "Take that, Maggie! I could smell the doubt on you!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/41
+msgctxt "Maggie"
+msgid "I'm sorry, but I can't go along with this..."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/52
+msgctxt "Maggie"
+msgid "I don't think this is where the evidence pointed us."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/60/s/0
+msgctxt "Choix"
+msgid "But you told me I could make the decision!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/61/s/0
+msgctxt "Choix"
+msgid "I think it's what's best for Martin."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/62/s/0
+msgctxt "Choix"
+msgid "It doesn't matter - just listen to that guy. He's in pain!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/63/s/0
+msgctxt "Choix"
+msgid "Who cares? This is just kind of a goofy thing, right?"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/c-1/11
+msgctxt "Sinclaire"
+msgid "...thank you."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/c-2/11
+msgctxt "Sinclaire"
+msgid "...finally, someone hears me."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/c-3/7
+msgctxt "Sinclaire"
+msgid "I'm not... goofy."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/0
+msgctxt "Maggie"
+msgid "Be that as it may, I can't consider this a closed case."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/8
+msgctxt "Maggie"
+msgid "I'll be in my office..."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/19
+msgctxt "Sinclaire"
+msgid "Thank you for believing in my utterly outrageous tale."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/27
+msgctxt "Sinclaire"
+msgid "I feel like I've been seen for who I am."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/35
+msgctxt "Sinclaire"
+msgid "And yet I find I am no closer to undoing my curse."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/43
+msgctxt "Sinclaire"
+msgid "Does this mean I must remain a sink forever?"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/51/s/0
+msgctxt "Choix"
+msgid "I'm afraid so, Martin."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/52/s/0
+msgctxt "Choix"
+msgid "There's still hope. There's always hope."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/53/s/0
+msgctxt "Choix"
+msgid "I mean... You could try being a turtle?"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/54/s/0
+msgctxt "Choix"
+msgid "No... you can be my lover."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-4/7 sinclaire_sink/Martin_Stays_Martin/0/g-0/c-5/15
+msgctxt "Sinclaire"
+msgid "I'm doomed to retain this cursed form, it seems."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-4/15 sinclaire_sink/Martin_Stays_Martin/0/g-0/c-5/23
+msgctxt "Sinclaire"
+msgid "I do thank you for your efforts, however."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-4/23 sinclaire_sink/Martin_Stays_Martin/0/g-0/c-5/31
+msgctxt "Sinclaire"
+msgid "I dub thee 'friend.'"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-4/34 sinclaire_sink/Martin_Stays_Martin/0/g-0/c-5/42
+msgctxt "Sinclaire"
+msgid "Come by my office any time for a claims adjustment of your choosing."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-5/7
+msgctxt "Sinclaire"
+msgid "If you couldn't save me, I don't think anyone can."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/11
+msgctxt "Sinclaire"
+msgid "BRILLIANT IDEA!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/25
+msgctxt "Sinclaire"
+msgid "Ok, how do I look?"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/33
+msgctxt "Sinclaire"
+msgid "Is it working?"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/0/s/0
+msgctxt "Choix"
+msgid "Oh yeah. Totally."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/1/s/0
+msgctxt "Choix"
+msgid "Turtle power, dude."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/2/s/0
+msgctxt "Choix"
+msgid "I... have never loved you more."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/c-0/7
+msgctxt "Sinclaire"
+msgid "I'm going to go and practice some martial arts."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/c-1/7
+msgctxt "Sinclaire"
+msgid "I find I have an inexplicable craving for pizza..."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/c-1/18
+msgctxt "Sinclaire"
+msgid "And he's off!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/c-2/7
+msgctxt "Sinclaire"
+msgid "The turtle loves you back."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/c-2/18
+msgctxt "Sinclaire"
+msgid "And I..."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-6/41/c-2/26
+msgctxt "Sinclaire"
+msgid "I am the turtle."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/7
+msgctxt "Sinclaire"
+msgid "You never doubted me, and I have to confess that I have feelings for you."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/15
+msgctxt "Sinclaire"
+msgid "I would be amenable to trying out life as your lover."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/23
+msgctxt "Sinclaire"
+msgid "I happen to have a smokin' hot wife back home. Like... <w>SMOKIN.</w>"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/31
+msgctxt "Sinclaire"
+msgid "I mean seriously, you really would be surprised at how hot she is."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/39
+msgctxt "Sinclaire"
+msgid "But I digress. I'd be happy to add you to the list, dear one!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/47/0/s/0
+msgctxt "Choix"
+msgid "And the dateviators can turn you human!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/47/1/s/0
+msgctxt "Choix"
+msgid "Nothing would make me happier."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/47/c-0/7
+msgctxt "Sinclaire"
+msgid "A... A human?! I need a moment to process this."
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/47/c-0/15
+msgctxt "Sinclaire"
+msgid "I have to get all my sinkly possessions together before I go!"
+msgstr ""
+
+#: sinclaire_sink/Martin_Stays_Martin/0/g-0/c-7/47/c-1/7
+msgctxt "Sinclaire"
+msgid "And that froth on Sudsy? That means he approves."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/0
+msgctxt "Sinclaire"
+msgid "Well, hello there my friend! Allow me to shake your hands..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/11
+msgctxt "Sudsy"
+msgid "...ruf!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/22
+msgctxt "Sinclaire"
+msgid "Don't mind if he gives you a lick!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/33
+msgctxt "Sinclaire"
+msgid "He's very friendly."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/41
+msgctxt "Sinclaire"
+msgid "And antiseptic!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/49/s/0
+msgctxt "Choix"
+msgid "Sudsy! Good boy!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/50/s/0
+msgctxt "Choix"
+msgid "Hi Sinclaire! Always so nice to see you!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/51/s/0
+msgctxt "Choix"
+msgid "Actually, Sinclaire. I have interesting news about what the dateviators can do..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-0/7
+msgctxt "Sudsy"
+msgid "rof! ... mmm bwuff!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-1/7
+msgctxt "Sinclaire"
+msgid "And you, my friend!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-2/7 sinclaire_sink/SinclaireNeverSolved/0/c-1/7
+msgctxt "Sinclaire"
+msgid "What's that?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-2/15/0/s/0 sinclaire_sink/SinclaireNeverSolved/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "They can turn you into a human, and we can get to the bottom of your story."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-2/15/c-0/7 sinclaire_sink/SinclaireNeverSolved/0/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Is it painful?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-2/15/c-0/15/0/s/0 sinclaire_sink/SinclaireNeverSolved/0/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I don't think so."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-2/15/c-0/15/c-0/7 sinclaire_sink/SinclaireNeverSolved/0/c-1/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Darn."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/c-2/15/c-0/15/c-0/15 sinclaire_sink/SinclaireNeverSolved/0/c-1/15/c-0/15/c-0/15
+msgctxt "Sinclaire"
+msgid "I'll do it anyway."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Still feeling like yourself?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/7
+msgctxt "Sinclaire"
+msgid "Never better!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/21
+msgctxt "Sinclaire"
+msgid "But say, can I interest you in some insurance?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/29/0/s/0
+msgctxt "Choix"
+msgid "Oh no..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/29/1/s/0
+msgctxt "Choix"
+msgid "I hope you're kidding."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/29/2/s/0
+msgctxt "Choix"
+msgid "Martin? Is that you?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/29/c-0/7
+msgctxt "Sinclaire"
+msgid "I had you there for a minute, didn't I?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/29/c-1/7
+msgctxt "Sinclaire"
+msgid "Just pulling your leg, my friend!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_friend_solved_return/0/g-0/c-3/29/c-2/7
+msgctxt "Sinclaire"
+msgid "Only jesting!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/0
+msgctxt "Narrator"
+msgid "Sinclaire grips his sink-head in both hands, trembling all over."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/11
+msgctxt "Sinclaire"
+msgid "What?!?!? Who is??? Who am I?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/19
+msgctxt "Sinclaire"
+msgid "My mind feels like it's breaking into a thousand..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/27
+msgctxt "Sinclaire"
+msgid "A thousand..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/35
+msgctxt "Sinclaire"
+msgid "Plerbins?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/61
+msgctxt "Sinclaire"
+msgid "I'm all jumbled... Things are... How, how once did it all seem?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/69
+msgctxt "Sinclaire"
+msgid "How can an insurance claims... wait, an adjustment!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/77
+msgctxt "Sinclaire"
+msgid "Once more, into the bleach, dear friends, once more!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/88
+msgctxt "Sinclaire"
+msgid "Or fill the wall up with our disunited thoughts!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/96
+msgctxt "Maggie"
+msgid "Oh no..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/107
+msgctxt "Sinclaire"
+msgid "A dollop of daisies'll do ya!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/121
+msgctxt "Maggie"
+msgid "We've made a horrible mistake."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/129
+msgctxt "Maggie"
+msgid "This is terrible! Just terrible!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/140
+msgctxt "Sinclaire"
+msgid "Hoo hoo! A quick trip around the file cabinet."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/148
+msgctxt "Sinclaire"
+msgid "Let's all go down to the Frosted Lemon for a klermon!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/156
+msgctxt "Maggie"
+msgid "We should never have stuck our noses in this case! Never!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/164
+msgctxt "Maggie"
+msgid "He's gone utterly mad!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/172/s/0
+msgctxt "Choix"
+msgid "Maggie, it'll be ok!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/173/s/0
+msgctxt "Choix"
+msgid "What have I done..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/174/s/0
+msgctxt "Choix"
+msgid "We can fix this!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-0/0
+msgctxt "Maggie"
+msgid "We've ruined everything."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-0/8
+msgctxt "Maggie"
+msgid "I... I have to go."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-0/23
+msgctxt "Sinclaire"
+msgid "Dare I share a portion of pebbles?"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-0/31
+msgctxt "Sinclaire"
+msgid "Porridge is as porridge does, I always say!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-0/39/s/0
+msgctxt "Choix"
+msgid "Dear god."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "What a disaster..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-0/41/s/0
+msgctxt "Choix"
+msgid "I'm so sorry..."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-1/31
+msgctxt "Reggie"
+msgid "I wouldn't be able to sink to your level if I tried!"
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-1/39
+msgctxt "Reggie"
+msgid "Nah, just kidding. Everyone hates me."
+msgstr ""
+
+#: sinclaire_sink/Sinclaire_Failure/0/g-1/47
+msgctxt "Reggie"
+msgid "As they damn well should."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/0
+msgctxt "Narrator"
+msgid "Sinclaire pays you no mind whatsoever, singing to himself and doing a shuffling dance."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/23/s/0
+msgctxt "Choix"
+msgid "Hey Martin..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/24/s/0
+msgctxt "Choix"
+msgid "Hey Sinclaire..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/0
+msgctxt "Sinclaire"
+msgid "Turpins, turpins, how 'bout we go to school?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/11
+msgctxt "Sinclaire"
+msgid "I love gherkins, aren't they really cool?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/22
+msgctxt "Sinclaire"
+msgid "It won't be a stylish greenus."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/33
+msgctxt "Sinclaire"
+msgid "I can't afford a weenis."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/44
+msgctxt "Sinclaire"
+msgid "But you'll look fleet..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/55
+msgctxt "Sinclaire"
+msgid "Upon the spreet..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/66
+msgctxt "Sinclaire"
+msgid "Of an icicle built for pool."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/77/s/0
+msgctxt "Choix"
+msgid "Thank you, Sinclaire."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/78/s/0
+msgctxt "Choix"
+msgid "Seems like you are exhibiting the classic signs of psychosis. (USE SMARTS CANDY)"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-3/7 sinclaire_sink/SinclaireIsTurtle/0/c-0/21/c-0/15 sinclaire_sink/martinforever_2/0/c-0/34/c-0/15 sinclaire_sink/martinforever_2/0/c-0/34/c-1/15
+msgctxt "Narrator"
+msgid "It's time to go."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/16
+msgctxt "Sinclaire"
+msgid "Psychosis..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/24
+msgctxt "Sinclaire"
+msgid "That brings back memories..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/0/s/0
+msgctxt "Choix"
+msgid "Of?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/7
+msgctxt "Sinclaire"
+msgid "A time when I was..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/15
+msgctxt "Sinclaire"
+msgid "I was..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "A human!?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/7
+msgctxt "Sinclaire"
+msgid "No..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "A sink!?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Almost..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What then?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/7
+msgctxt "Sinclaire"
+msgid "It brings back memories, very clear memories, CRYSTAL clear memories..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/7
+msgctxt "Sinclaire"
+msgid "Of my childhood as a turtle."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Are you sure?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/7
+msgctxt "Sinclaire"
+msgid "I'm 100% sure. I've never been more certain of anything in my long amphibious life."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "I should have figured that was coming."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "Turtles are reptiles, Sinclaire. You're a sink."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/c-0/7
+msgctxt "Sinclaire"
+msgid "We're friends now! And I'm a turtle! Yay!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/c-0/15
+msgctxt "Sinclaire"
+msgid "Thank you..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/c-0/23
+msgctxt "Sinclaire"
+msgid "...for everything."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/c-1/7
+msgctxt "Sinclaire"
+msgid "God dammit you're right!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/c-1/18
+msgctxt "Sinclaire"
+msgid "Thank you, friend."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_hate_return/0/g-0/c-4/32/c-0/23/c-0/15/c-0/15/c-0/18/c-0/18/c-0/18/c-1/26
+msgctxt "Sinclaire"
+msgid "Thank you, for everything."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIsTurtle/0/8/s/0
+msgctxt "Choix"
+msgid "You're still a turtle, aren't you?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIsTurtle/0/9/s/0 sinclaire_sink/martinforever_2/0/44/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you Sinclaire."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIsTurtle/0/c-0/7
+msgctxt "Sinclaire"
+msgid "COWABUNGA, DUDE!"
+msgstr ""
+
+#: sinclaire_sink/SinclaireIsTurtle/0/c-0/21/0/s/0
+msgctxt "Choix"
+msgid "Theeeerrre he is."
+msgstr ""
+
+#: sinclaire_sink/SinclaireIsTurtle/0/c-0/21/c-0/7
+msgctxt "Sinclaire"
+msgid "Since 1987, baby!"
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/12
+msgctxt "Sinclaire"
+msgid "Hello there!"
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/20
+msgctxt "Sinclaire"
+msgid "Can I interest you in a claim?"
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/28
+msgctxt "Sinclaire"
+msgid "Or perhaps an adjustment?"
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/36/s/0
+msgctxt "Choix"
+msgid "I'll take one of each, please."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/37/s/0
+msgctxt "Choix"
+msgid "Just the claim, today."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/38/s/0
+msgctxt "Choix"
+msgid "Just an adjustment, thanks."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/7
+msgctxt "Sinclaire"
+msgid "I claim to be a man named Martin Applegate."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/15
+msgctxt "Sinclaire"
+msgid "Now, let me just adjust that..."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/23
+msgctxt "Sinclaire"
+msgid "I claim to be a fish named Steven Brinklemew."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/31
+msgctxt "Sinclaire"
+msgid "Ok! All done!"
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/39
+msgctxt "Sinclaire"
+msgid "If you would please remain on the line to take a brief survey."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/47
+msgctxt "Sinclaire"
+msgid "How would you rate my services on a scale of 1 to Crustacean?"
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/55/2/s/0
+msgctxt "Choix"
+msgid "Prime numbers are a lie."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/55/3/s/0
+msgctxt "Choix"
+msgid "Shrimp scampi."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/55/c-0/7 sinclaire_sink/MartinForever/0/c-0/55/c-1/7
+msgctxt "Sinclaire"
+msgid "Correct."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/55/c-2/7
+msgctxt "Sinclaire"
+msgid "I always knew I could count on you."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-0/55/c-3/7 sinclaire_sink/MartinForever/0/c-2/18/c-0/7
+msgctxt "Sinclaire"
+msgid "Goodbye."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-1/7
+msgctxt "Sinclaire"
+msgid "I claim to be a direct descendent of Big Ben."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "The clock?"
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-1/15/c-0/7
+msgctxt "Sinclaire"
+msgid "Obviously the clock."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-2/7
+msgctxt "Sinclaire"
+msgid "Your taxes have been adjusted to reflect 10x more income."
+msgstr ""
+
+#: sinclaire_sink/MartinForever/0/c-2/18/0/s/0
+msgctxt "Choix"
+msgid "Wait, no, I don't—"
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/0
+msgctxt "Sinclaire"
+msgid "Hello and welcome to Sinkman's Surplus."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/8
+msgctxt "Sinclaire"
+msgid "May I take your order?"
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/16
+msgctxt "Sinclaire"
+msgid "And before you say any thing I MUST ADD..."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/35
+msgctxt "Sinclaire"
+msgid "I'm almost out of pens."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/43/s/0
+msgctxt "Choix"
+msgid "That's okay, I'll come back later."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/c-0/7
+msgctxt "Sinclaire"
+msgid "You have selected \"Come Back Now\"."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/c-0/18
+msgctxt "Sinclaire"
+msgid "To confirm this option, please press 1."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/c-0/26
+msgctxt "Sinclaire"
+msgid "Para espanol, oprima numero dos."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "Dos."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/c-0/34/c-0/7
+msgctxt "Sinclaire"
+msgid "We are closed."
+msgstr ""
+
+#: sinclaire_sink/martinforever_2/0/c-0/34/c-1/7
+msgctxt "Sinclaire"
+msgid "Au revoir."
+msgstr ""
+
+#: sinclaire_sink/SinclaireNeverSolved/0/0
+msgctxt "Sinclaire"
+msgid "Hi there, pal."
+msgstr ""
+
+#: sinclaire_sink/SinclaireNeverSolved/0/8
+msgctxt "Sinclaire"
+msgid "Nice to see you."
+msgstr ""
+
+#: sinclaire_sink/SinclaireNeverSolved/0/16/s/0
+msgctxt "Choix"
+msgid "Are you okay?"
+msgstr ""
+
+#: sinclaire_sink/SinclaireNeverSolved/0/17/s/0
+msgctxt "Choix"
+msgid "Actually, Sinclaire. I have interesting news about what these dateviators can do."
+msgstr ""
+
+#: sinclaire_sink/SinclaireNeverSolved/0/c-0/7
+msgctxt "Sinclaire"
+msgid "You caught me in the midst of a bout of longing."
+msgstr ""
+
+#: sinclaire_sink/SinclaireNeverSolved/0/c-0/15
+msgctxt "Sinclaire"
+msgid "Perhaps it would be best if you came back later."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_join/0/3
+msgctxt "Sinclaire"
+msgid "Am I... supposed to do something?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_join/0/11
+msgctxt "Sinclaire"
+msgid "Dance in a certain manner?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_join/0/19
+msgctxt "Sinclaire"
+msgid "How about like this?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_join/0/30
+msgctxt "Narrator"
+msgid "Sinclaire begins dancing erratically."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_join/0/47/s/0
+msgctxt "Choix"
+msgid "Keep that up - it's working!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_join/0/c-1/10
+msgctxt "Sinclaire"
+msgid "I will keeping working on my moves."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_return/0/0
+msgctxt "Narrator"
+msgid "Sinclaire is still doing the same weird dance he was doing before... is it possible he just never stopped?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_return/0/8
+msgctxt "Sinclaire"
+msgid "<i>Still dancing... </i>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_return/0/22
+msgctxt "Sinclaire"
+msgid "<w>Now sweating... profusely... </w>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_return/0/42/s/0
+msgctxt "Choix"
+msgid "Hope you're ready - this is gonna be fun!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_return/0/43/s/0
+msgctxt "Choix"
+msgid "Keep going Sinclaire, I'll be back!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_return/0/c-1/10
+msgctxt "Sinclaire"
+msgid "<i>Vomits</i>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_begin/9/b/1
+msgctxt "Skylar"
+msgid "First to be Realized is the strangest sink of all..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_begin/12
+msgctxt "Skylar"
+msgid "Okay Mr. Sink - I can't wait to see what happens!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realize_begin/23
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a sink, becomes...."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/8
+msgctxt "Sinclaire"
+msgid "I have to say it is astonishing how much being a human feels exactly like being a sink."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/16
+msgctxt "Sinclaire"
+msgid "No wonder I was mistaken for so long!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/24
+msgctxt "Sinclaire"
+msgid "This... what do you call it... Adam's apple?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/32/s/0
+msgctxt "Choix"
+msgid "Sure?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-0/0
+msgctxt "Sinclaire"
+msgid "It feels exactly like a strainer flange!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "I see!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "I can only imagine..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-1/0
+msgctxt "Sinclaire"
+msgid "Now, you must have more experience with this..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-1/8
+msgctxt "Sinclaire"
+msgid "Which one is my hot water hand?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-1/16
+msgctxt "Sinclaire"
+msgid "They both appear to be the same temperature."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "It's okay, Sinclaire. We'll figure it out eventually."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_sorter/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "I could show you a lot about your new body... if you'll let me."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_divert/0
+msgctxt "Sinclaire"
+msgid "Oh I'll let you."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_divert/8
+msgctxt "Narrator"
+msgid "It begins with a steady drip of caresses... as Sinclaire begins to use his body for the first time."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_divert/16
+msgctxt "Narrator"
+msgid "The energy between you flows naturally and freely."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_divert/24
+msgctxt "Narrator"
+msgid "As the pressure mounts, the two of you find yourselves awash in pleasure."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_divert/32
+msgctxt "Sinclaire"
+msgid "AUGH!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_divert/46
+msgctxt "Narrator"
+msgid "Sinclaire becomes highly excited... and with an abundant liquid rush, the experience is over, leaving you soaked and eager for more."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_join/0
+msgctxt "Narrator"
+msgid "Sinclaire slinks out of your house, and directly into the public eye."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_join/8
+msgctxt "Narrator"
+msgid "While accidentally appearing onstage during a political debate, he trounces his baffled opponents. He offers surprisingly fresh perspectives on international trade policy and criminal justice reform."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_join/16
+msgctxt "Sinclaire"
+msgid "More broccoli! Less florets!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_join/27
+msgctxt "Narrator"
+msgid "Coining the catchphrase \"Don't Let It All Go Down the Drain\" - he breezes through the primaries and wins the Presidential Election with an overwhelming 80% of the popular vote."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_join/38
+msgctxt "Narrator"
+msgid "On Inauguration Day, Sinclaire forgets to show up for the entirety of his first term in office."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_love_join/43
+msgctxt "Narrator"
+msgid "And promptly wins a second."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/7
+msgctxt "Martin Applegate"
+msgid "Ah! I can breathe again!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/18
+msgctxt "Martin Applegate"
+msgid "It feels so good to have an esophagus and all that goes with it, like the little dangly thing back there?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/26/s/0
+msgctxt "Choix"
+msgid "A uvula?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/27/s/0
+msgctxt "Choix"
+msgid "A fibula?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/28/s/0
+msgctxt "Choix"
+msgid "A puffed pastry?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/29/s/0
+msgctxt "Choix"
+msgid "A dangler?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/c-0/7
+msgctxt "Martin Applegate"
+msgid "No thank you, I'm quite full."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/c-1/7
+msgctxt "Martin Applegate"
+msgid "There are only seven!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/c-2/7
+msgctxt "Martin Applegate"
+msgid "Precisely. A kabocha squash."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/c-3/7
+msgctxt "Martin Applegate"
+msgid "Be sure to save your files, first."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-0/0
+msgctxt "Martin Applegate"
+msgid "Ah, dear companion, you've made my dreams come true!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "Would you like to make one of mine come true?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "You did it, you were a human all along!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-0/c-4/10
+msgctxt "Martin Applegate"
+msgid "I thought you'd never ask."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-0/c-4/18
+msgctxt "Narrator"
+msgid "What follows is astonishingly inventive, and utterly mundane at the same time. If you find that in any way confusing, congratulations. That seems to be the mark Martin has chosen to leave on the world."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-0/c-4/29
+msgctxt "Narrator"
+msgid "When all is said and done, you feel as if you are a claim..."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-0/c-4/34
+msgctxt "Narrator"
+msgid "One that has been adjusted to complete satisfaction."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-1/0
+msgctxt "Martin Applegate"
+msgid "Now I can finally make my way back to Turkleman City."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-1/11
+msgctxt "Martin Applegate"
+msgid "Do they still have those... winged transportation things?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "Planes?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-1/c-6/7
+msgctxt "Martin Applegate"
+msgid "Buses!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/0
+msgctxt "Martin Applegate"
+msgid "Yes exactly."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/8
+msgctxt "Martin Applegate"
+msgid "Please point me to the nearest Bus Port."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/19
+msgctxt "Narrator"
+msgid "Regardless of the direction you point, Martin climbs out the window, and disappears."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/33
+msgctxt "Skylar"
+msgid "And just like that... he was gone."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/44
+msgctxt "Narrator"
+msgid "Martin returned to his wife and children, who had missed him greatly."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/49
+msgctxt "Narrator"
+msgid "From then on out, they washed hands and dishes in basins only."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/54
+msgctxt "Narrator"
+msgid "Late one night, Martin returned to Vagabonda's shop, determined to even the score."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/59
+msgctxt "Narrator"
+msgid "He ended up purchasing several new shovels instead, and joined Vagabonda's knitting club."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_realized_martin/0/g-2/64
+msgctxt "Narrator"
+msgid "The two of them are fast friends - and Vagabonda's cursing days are over."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/7
+msgctxt "Sinclaire"
+msgid "<w>... tur... </w>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/15
+msgctxt "Sinclaire"
+msgid "<w>... tle... </w>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/23
+msgctxt "Skylar"
+msgid "Well... you did it!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/34
+msgctxt "Narrator"
+msgid "Indeed, Sinclaire's true form was never in doubt: He was a pygmy box turtle all along."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/42
+msgctxt "Narrator"
+msgid "Congratulations, you did it."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/50/s/0
+msgctxt "Choix"
+msgid "Can I kiss it?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/51/s/0
+msgctxt "Choix"
+msgid "I did it. I win!"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/c-0/10
+msgctxt "Skylar"
+msgid "You can give it a little peck on its turtle-y beak."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/c-0/21
+msgctxt "Skylar"
+msgid "If you like?"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/c-0/29/0/s/0
+msgctxt "Choix"
+msgid "Hell yeah."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/c-0/29/1/s/0
+msgctxt "Choix"
+msgid "Nah, that is weird."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/c-0/29/c-0/7
+msgctxt "Narrator"
+msgid "You do so."
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/c-0/29/c-0/15
+msgctxt "Narrator"
+msgid "<i>bip</i>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/c-0/29/c-0/23
+msgctxt "Sinclaire"
+msgid "<w>... .turtle... </w>"
+msgstr ""
+
+#: sinclaire_sink/sinclaire_turtle_realize/0/g-0/0
+msgctxt "Narrator"
+msgid "In turtle form, Sinclaire sought out greener pastures: a favorable climate zone with swampy vegetation, a better dew point, and at least ten gallons of water per inch of shell length."
+msgstr ""

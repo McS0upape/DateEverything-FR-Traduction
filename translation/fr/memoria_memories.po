@@ -1,0 +1,3674 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: memoria_memories/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "KEEPSAKES"
+msgstr ""
+
+#: memoria_memories/bruno_poster/3
+msgctxt "Lady Memoria"
+msgid "Well hello there. Back to view your poster, I see."
+msgstr ""
+
+#: memoria_memories/tickets/3
+msgctxt "Lady Memoria"
+msgid "Tickets. What a confusing thing to keep."
+msgstr ""
+
+#: memoria_memories/tickets/11
+msgctxt "Lady Memoria"
+msgid "They're so rarely beautiful on their own, aren't they?"
+msgstr ""
+
+#: memoria_memories/chimneyland/3
+msgctxt "Lady Memoria"
+msgid "Ah so you've returned to ChimneyLand!"
+msgstr ""
+
+#: memoria_memories/chimneyland/11
+msgctxt "Lady Memoria"
+msgid "Can't say I blame you. What a gloriously sinister place."
+msgstr ""
+
+#: memoria_memories/graduation/3
+msgctxt "Lady Memoria"
+msgid "You and Teddy do look so happy in this picture."
+msgstr ""
+
+#: memoria_memories/companions/3
+msgctxt "Lady Memoria"
+msgid "The dining room companion pieces are certainly not far outside the realm of 'humorous'."
+msgstr ""
+
+#: memoria_memories/magazines/3
+msgctxt "Lady Memoria"
+msgid "I still cannot understand your reasoning for keeping these."
+msgstr ""
+
+#: memoria_memories/magazines/11
+msgctxt "Lady Memoria"
+msgid "But I suppose that makes them interesting."
+msgstr ""
+
+#: memoria_memories/gym_poster/3
+msgctxt "Lady Memoria"
+msgid "\"Believe in your shelf.\""
+msgstr ""
+
+#: memoria_memories/gym_poster/11
+msgctxt "Lady Memoria"
+msgid "What's next, Teamwork Makes The Steam Work?"
+msgstr ""
+
+#: memoria_memories/gym_poster/19
+msgctxt "Lady Memoria"
+msgid "I'm not a writer."
+msgstr ""
+
+#: memoria_memories/clover/3
+msgctxt "Lady Memoria"
+msgid "Looking for a bit of luck, I take it?"
+msgstr ""
+
+#: memoria_memories/stamps/3
+msgctxt "Lady Memoria"
+msgid "You know they're useless to mail anything, don't you?"
+msgstr ""
+
+#: memoria_memories/coins/3
+msgctxt "Lady Memoria"
+msgid "I think a better use for these might have been as buttons."
+msgstr ""
+
+#: memoria_memories/hero_poster/3
+msgctxt "Lady Memoria"
+msgid "Come back to visit dear Hero-Hime, have you?"
+msgstr ""
+
+#: memoria_memories/hero_poster/11
+msgctxt "Lady Memoria"
+msgid "She certainly is serving up a smile."
+msgstr ""
+
+#: memoria_memories/hero_poster/19
+msgctxt "Lady Memoria"
+msgid "I serve mostly scorn."
+msgstr ""
+
+#: memoria_memories/microwave_manual/3
+msgctxt "Lady Memoria"
+msgid "Don't tell me. You need to heat something up and you've forgotten what the buttons do."
+msgstr ""
+
+#: memoria_memories/diploma/3
+msgctxt "Lady Memoria"
+msgid "Bachelor of Fine Arts in customer service."
+msgstr ""
+
+#: memoria_memories/diploma/11
+msgctxt "Lady Memoria"
+msgid "Dealing with humans is an art."
+msgstr ""
+
+#: memoria_memories/diploma/19
+msgctxt "Lady Memoria"
+msgid "Well done."
+msgstr ""
+
+#: memoria_memories/parents/3
+msgctxt "Lady Memoria"
+msgid "They are darling, aren't they."
+msgstr ""
+
+#: memoria_memories/parents/11
+msgctxt "Lady Memoria"
+msgid "Makes me feel the tiniest bit sick."
+msgstr ""
+
+#: memoria_memories/beach/3
+msgctxt "Lady Memoria"
+msgid "Beaches..."
+msgstr ""
+
+#: memoria_memories/beach/11
+msgctxt "Lady Memoria"
+msgid "Give me a rainy cliffside anyday."
+msgstr ""
+
+#: memoria_memories/baby_pictures/3
+msgctxt "Lady Memoria"
+msgid "Come to remember your infancy, have you?"
+msgstr ""
+
+#: memoria_memories/baby_pictures/11
+msgctxt "Lady Memoria"
+msgid "You could relive this, you know. You just need some cold spaghetti and an irrationally bad attitude."
+msgstr ""
+
+#: memoria_memories/collage/3
+msgctxt "Lady Memoria"
+msgid "Aw. Look at you."
+msgstr ""
+
+#: memoria_memories/collage/11
+msgctxt "Lady Memoria"
+msgid "If only all babies weren't \"adorable\"... these might be unique."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/0
+msgctxt "Lady Memoria"
+msgid "Oh..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/8
+msgctxt "Lady Memoria"
+msgid "You aren't finished with me in the attic, you know."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/16
+msgctxt "Lady Memoria"
+msgid "As soon as you're ready, I'll let Cam and Artt know that we're continuing."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/24/s/0
+msgctxt "Choix"
+msgid "Yeah, I'll be by soon."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/25/s/0
+msgctxt "Choix"
+msgid "I don't wanna do it anymore."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/26/s/0
+msgctxt "Choix"
+msgid "There's more?!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/c-0/7 memoria_memories/memoria_quest_one/0/g-1/c-8/24 memoria_memories/memoria_quest_one/0/g-7/c-24/21 memoria_memories/memoria_quest_two/0/g-3/c-12/21 memoria_memories/memoria_quest_three/0/g-1/c-5/21 memoria_memories/memoria_quest_three/0/g-7/c-21/21
+msgctxt "Lady Memoria"
+msgid "Wonderful."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "Your enthusiasm overwhelms me."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "Oh, I see."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/c-1/15
+msgctxt "Lady Memoria"
+msgid "It's so sweet that you think you get to do only what you want."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/c-1/23 memoria_memories/memoria_quest_on_reminder/0/c-2/15
+msgctxt "Lady Memoria"
+msgid "Come back soon, alright?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/c-1/31
+msgctxt "Lady Memoria"
+msgid "I'm your memories, after all. We both know I can make you."
+msgstr ""
+
+#: memoria_memories/memoria_quest_on_reminder/0/c-2/7
+msgctxt "Lady Memoria"
+msgid "...well, yes."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/6
+msgctxt "Narrator"
+msgid "A grande dame with a gothic vibe regards you with an expression that's hard to read—she holds your forgotten, formerly-trendy robot dog in her arms, petting him idly."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/14
+msgctxt "Lady Memoria"
+msgid "Well well. If it isn't the one who made me."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/25
+msgctxt "Lady Memoria"
+msgid "I don't know... I suppose I'm a bit... disappointed?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/33
+msgctxt "Lady Memoria"
+msgid "For someone who's amassed such a varied and confusing collection of bits... you just look so... normal."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/41
+msgctxt "Lady Memoria"
+msgid "I was hoping for a real Franken-brine to go with all this preservation."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/49/s/0
+msgctxt "Choix"
+msgid "I'm confused. I made you?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/50/s/0
+msgctxt "Choix"
+msgid "Do you hate me already? Kinda feels like you hate me already."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/51/s/0
+msgctxt "Choix"
+msgid "Oh, don't worry. I'm weirder than I seem."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/52/s/0
+msgctxt "Choix"
+msgid "Ok wait. Am I a pickle in this scenario?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "That you did, my darling. Can't you tell?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "I am the animus behind all of this Stuff. Your stuff. All these boxes?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-0/23
+msgctxt "Lady Memoria"
+msgid "All these memories stuffed up here in the attic because you didn't want to get rid of them, but couldn't think of anything else to do?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-0/31
+msgctxt "Lady Memoria"
+msgid "One object, fine. Two objects, fine. But boxes full? You had to know that was all going to add up to something more substantial."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-0/39
+msgctxt "Lady Memoria"
+msgid "To me."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-0/47
+msgctxt "Lady Memoria"
+msgid "You lucky dog."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "Of course not. Why would I hate you?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-1/15
+msgctxt "Lady Memoria"
+msgid "I might hate you, once I've gotten to know you."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-1/23
+msgctxt "Lady Memoria"
+msgid "It's a distinct possibility."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-1/31
+msgctxt "Lady Memoria"
+msgid "But right off the bat... no. That's a boring choice."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-2/7
+msgctxt "Lady Memoria"
+msgid "Oh, excellent."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-2/15
+msgctxt "Lady Memoria"
+msgid "Normalcy can be boring..."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-2/23
+msgctxt "Lady Memoria"
+msgid "...and I do so loathe being bored."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-3/11
+msgctxt "Lady Memoria"
+msgid "...ooh."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-3/19
+msgctxt "Lady Memoria"
+msgid "A pickle."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-3/27
+msgctxt "Lady Memoria"
+msgid "Yes yes, dear, you <i>are</i> a pickle."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/c-3/35
+msgctxt "Lady Memoria"
+msgid "You appear to be just the teensiest bit deranged... I'm delighted."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/0
+msgctxt "Lady Memoria"
+msgid "All this time I've been in your house and this is the first time you have come up to visit me."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/8
+msgctxt "Lady Memoria"
+msgid "I think I'll make use of your presence, long delayed though it is, by holding your feet to the fire."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "My what now?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Ouchies."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "Ooh. That's some spicy talk there, lady."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-4/7
+msgctxt "Lady Memoria"
+msgid "It means I'm going to put the screws to you."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-4/15
+msgctxt "Lady Memoria"
+msgid "Hold you accountable."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-4/23
+msgctxt "Lady Memoria"
+msgid "Isn't it wonderful when the process of something is as agonizing as the result is pleasurable?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-4/31
+msgctxt "Lady Memoria"
+msgid "You should've done this long ago, for yourself, if not for me."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-5/7
+msgctxt "Lady Memoria"
+msgid "Indeed."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-5/15
+msgctxt "Lady Memoria"
+msgid "Though of course we know that an ouchie is not necessarily an unpleasant experience."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-6/7
+msgctxt "Lady Memoria"
+msgid "Is it? Hm. I suppose so."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-6/15/b/1
+msgctxt "Lady Memoria"
+msgid "Spicy talk for my spicy pickle."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-6/18
+msgctxt "Lady Memoria"
+msgid "\"Spicy\" is not generally the first descriptor applied to me."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-6/26
+msgctxt "Lady Memoria"
+msgid "Bitter, cold, dangerous, damaged, deranged, unhinged, mad..."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-6/34
+msgctxt "Lady Memoria"
+msgid "I had a lover once, a ladder who told me I was the black hole she couldn't wait to fall into."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-6/42
+msgctxt "Lady Memoria"
+msgid "She's gone now."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-0/c-6/50
+msgctxt "Lady Memoria"
+msgid "Memories..."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/0
+msgctxt "Lady Memoria"
+msgid "At long last, we are going to go through all of... this. Every, single, piece."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/8
+msgctxt "Lady Memoria"
+msgid "We are going to see, sort and dispose of each object stuffed in the corners up here and finally... order will reign."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/16
+msgctxt "Lady Memoria"
+msgid "I love chaos as much as the next memory... but enough is enough."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/24
+msgctxt "Lady Memoria"
+msgid "I'm starting to look like Jerry."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "But if I get rid of all this old stuff... won't I be getting rid of you, too?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "I am so on board! I've been meaning to do this forever!"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/37/s/0
+msgctxt "Choix"
+msgid "Chaos or bust I always say."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/7
+msgctxt "Lady Memoria"
+msgid "Ha. Oh, no. You are long past the point of no return with me."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/15
+msgctxt "Lady Memoria"
+msgid "I exist now, and I'll go on existing."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/23
+msgctxt "Lady Memoria"
+msgid "The cleansing I'm demanding will simply mean that I can exist with some semblance of dignity."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/31
+msgctxt "Lady Memoria"
+msgid "Though perhaps I shouldn't ask you to do this with me... I know how tantalizing it is to be worried to distraction."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/39
+msgctxt "Lady Memoria"
+msgid "But no. Needs must. We've established I won't die, though another time, that might be fun... let's get on with it."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/47/0/s/0
+msgctxt "Choix"
+msgid "You don't waste time, do you?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/47/1/s/0
+msgctxt "Choix"
+msgid "I'm ready. Let's do it."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-7/47/c-0/7 memoria_memories/post_memoria_all_done/0/c-0/18/b/20
+msgctxt "Lady Memoria"
+msgid "No."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/7
+msgctxt "Lady Memoria"
+msgid "Well then. It appears we're going to get along after all."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/15
+msgctxt "Lady Memoria"
+msgid "I only hope your enthusiasm lasts."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/23
+msgctxt "Lady Memoria"
+msgid "In the past your stamina for this kind of work has been... underwhelming."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/0/s/0
+msgctxt "Choix"
+msgid "Yeah... we'll see. No promises."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/1/s/0
+msgctxt "Choix"
+msgid "Not this time. I'm ready."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/7
+msgctxt "Lady Memoria"
+msgid "Promises."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/15
+msgctxt "Lady Memoria"
+msgid "I do so hope you make me a promise. Then I can watch you break it."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/23
+msgctxt "Lady Memoria"
+msgid "I love a good broken promise."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/31
+msgctxt "Lady Memoria"
+msgid "But we mustn't get side-tracked by pleasure. Are you ready to work?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Totally!"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "Eh... what if it's hard?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/39/c-1/7
+msgctxt "Lady Memoria"
+msgid "...it <i>will</i> be."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/39/c-1/15
+msgctxt "Lady Memoria"
+msgid "Silly me. I thought that was a selling point."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-0/39/c-1/23 memoria_memories/memoria_quest_one/0/g-4/c-17/35
+msgctxt "Lady Memoria"
+msgid "Moving on."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-1/7 memoria_memories/memoria_quest_three/0/g-7/c-22/24
+msgctxt "Lady Memoria"
+msgid "Excellent."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-1/15
+msgctxt "Lady Memoria"
+msgid "Unrealistic, perhaps, but encouraging."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-1/23
+msgctxt "Lady Memoria"
+msgid "Shall we?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "We shall!"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Hey. I've got this. You'll see."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-8/31/c-1/31/c-1/7
+msgctxt "Lady Memoria"
+msgid "Um. Consider me primed to be impressed."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-9/7
+msgctxt "Lady Memoria"
+msgid "Oh dear god."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-9/15
+msgctxt "Lady Memoria"
+msgid "I'm not sure if you can tell... but my eyebrow has such an arch in it, I think a spider could build a web."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-9/23
+msgctxt "Lady Memoria"
+msgid "You are going to do this. We are going to do this."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-9/31
+msgctxt "Lady Memoria"
+msgid "I have had my fill of sitting up here like some deposed empress. Dereliction is one thing. But this is neglect."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-9/39
+msgctxt "Lady Memoria"
+msgid "You can kick and scream all the way through it, if you like, because I happen to have a memory of you at your kicking-and-screaming best and trust me, darling; it's nothing I can't handle."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-1/c-9/47
+msgctxt "Lady Memoria"
+msgid "Now? Shall we? Excellent."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/0
+msgctxt "Lady Memoria"
+msgid "The first of your tasks for me is to gather Cam and Artt so that we might proceed efficiently."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Who is Cam?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Who is Artt?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "Who are they?"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/11/s/0
+msgctxt "Choix"
+msgid "Ah, gotcha. I'll go get them and come back!"
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/c-10/7
+msgctxt "Lady Memoria"
+msgid "Who is Cam? He's... he's your trash can. Perhaps you should go acquaint yourself."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/c-11/7
+msgctxt "Lady Memoria"
+msgid "Artt is art. Oh look, another obvious statement. He's a picture frame right up here with me in the attic, actually."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/c-12/7
+msgctxt "Lady Memoria"
+msgid "Hm. Seems I'm not the only one in this house who's been ignored."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/c-12/15
+msgctxt "Lady Memoria"
+msgid "Cam is your long-suffering trash can. You should definitely go and establish the acquaintance. I'm jealous you're getting to meet him for the first time... surly is his good side."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/c-12/26
+msgctxt "Lady Memoria"
+msgid "And Artt is, like me, an animating spirit of a group of your objects. In his case, your artwork. He can be... energetic, but he's worth knowing."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-2/c-12/34
+msgctxt "Lady Memoria"
+msgid "Check with the picture frame near me here. We work together occasionally."
+msgstr ""
+
+#: memoria_memories/memoria_encounter1/0/g-3/0
+msgctxt "Lady Memoria"
+msgid "These two are both necessary for our project to proceed so... off you go."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/0
+msgctxt "Lady Memoria"
+msgid "And here you are."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/8
+msgctxt "Lady Memoria"
+msgid "Your load looks a tad light, though, wouldn't you say?"
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/16/s/0
+msgctxt "Choix"
+msgid "Sorry?"
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/17/s/0
+msgctxt "Choix"
+msgid "Hey hey. Let's not go talking about loads on the second date."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "I would search for your meaning, but no incentive exists that would make me."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/0
+msgctxt "Lady Memoria"
+msgid "I recall clearly asking you to come back to me with two companions."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/8
+msgctxt "Lady Memoria"
+msgid "Two, as you'll know, isn't one. And two most certainly is not zero."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/16/b/1
+msgctxt "Lady Memoria"
+msgid "Bring me the rubbish bin."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/19/b/1
+msgctxt "Lady Memoria"
+msgid "Bring me the palette."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/22/s/0
+msgctxt "Choix"
+msgid "Ok ok. Geez. You can be kinda bitchy."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/23/s/0
+msgctxt "Choix"
+msgid "Oh... crap. Right. Ok. I'll be back."
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/c-2/7
+msgctxt "Lady Memoria"
+msgid "Oh, I know. Isn't it yummy?"
+msgstr ""
+
+#: memoria_memories/memoria_not_ready/0/g-0/c-3/7
+msgctxt "Lady Memoria"
+msgid "I don't know how I shall bear your absence."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/21
+msgctxt "Lady Memoria"
+msgid "Ah, gentlemen. And here you are. Excellent. How are you, Cam?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/29
+msgctxt "Cam"
+msgid "Oh you know me, Memoria."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/37
+msgctxt "Lady Memoria"
+msgid "Yes, I do... hm. Perhaps better if we answer that question in private, dear."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/45
+msgctxt "Lady Memoria"
+msgid "And Artt?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/53
+msgctxt "Artt"
+msgid "I'm amazing! I saw a bit of green in the sky this morning... I can't even tell you, I almost fell over."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/64
+msgctxt "Artt"
+msgid "I almost LITERALLY fell over. Fabulous day thus far."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/72
+msgctxt "Lady Memoria"
+msgid "Wonderful. I saw that green, too. Reminded me of a chemical spill."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/80
+msgctxt "Lady Memoria"
+msgid "You both know what we're about here?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/88
+msgctxt "Lady Memoria"
+msgid "The long-awaited clean up has at last begun."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/99
+msgctxt "Cam"
+msgid "Ah, sweet. Looks like I'll be scorin' big today, then."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/107
+msgctxt "Artt"
+msgid "Not so fast, Cammy! I'm sure there are some treasures buried up here that would be better suited to my unique talents."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/115
+msgctxt "Lady Memoria"
+msgid "There will be more than enough for both of you, I'm sure. There are years' worth to go through, after all... as long as it doesn't all end up on my plate again when the process is through, I couldn't care less."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/123
+msgctxt "Lady Memoria"
+msgid "I'll keep it simple."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/131
+msgctxt "Lady Memoria"
+msgid "I'll pull something, and you, my human darling, will decide whether it goes to Cam, or to Artt."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/139/s/0
+msgctxt "Choix"
+msgid "Sounds good. I'm grateful for the help!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/140/s/0
+msgctxt "Choix"
+msgid "What if I want you to keep it for a little longer?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/141/s/0
+msgctxt "Choix"
+msgid "Ugh. I'm bored already."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-0/7
+msgctxt "Artt"
+msgid "And we're grateful for the chance to discover a lost masterpiece!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-0/15
+msgctxt "Cam"
+msgid "Or a fossilized shoelace. That would be badass."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-0/23
+msgctxt "Lady Memoria"
+msgid "Yes yes, we're all excited and happy and goody goody whatever."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-0/31
+msgctxt "Lady Memoria"
+msgid "We're starting now. Try to focus."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-1/18
+msgctxt "Lady Memoria"
+msgid "Then I suppose I wouldn't really have a choice, would I."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-1/26
+msgctxt "Lady Memoria"
+msgid "But I would not like that. I hope I've been clear. I would <i>not</i> like that, at all."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-1/34
+msgctxt "Cam"
+msgid "I think she's really funny when she's pissed off."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-1/42
+msgctxt "Cam"
+msgid "Personally."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-1/50
+msgctxt "Artt"
+msgid "Cammy... let's not antagonize anyone for fun. At least not yet. It's early."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-1/61
+msgctxt "Lady Memoria"
+msgid "Right. And we're off."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-2/7
+msgctxt "Artt"
+msgid "Bored? But how?? This is so exciting!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-2/15
+msgctxt "Cam"
+msgid "Yeah. How could you be bored? We might find a doll's head in here or something. With an eye missing."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-2/23
+msgctxt "Cam"
+msgid "That would be awesome."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-2/31
+msgctxt "Lady Memoria"
+msgid "We'll find nothing if we don't start! And SO. We start."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/c-2/39
+msgctxt "Lady Memoria"
+msgid "Let's everyone keep up, alright?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/0
+msgctxt "Lady Memoria"
+msgid "And boys, just sit over there unless we need you."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/8
+msgctxt "Lady Memoria"
+msgid "Your \"zany antics\" are a distraction I can ill afford."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/16
+msgctxt "Artt"
+msgid "Yes, ma'am!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/24
+msgctxt "Cam"
+msgid "Aight."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/38
+msgctxt "Lady Memoria"
+msgid "This poster."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/49
+msgctxt "Lady Memoria"
+msgid "Bruno Jars, The Moonshine Jug Tour."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/57
+msgctxt "Lady Memoria"
+msgid "I remember when you brought this back. I was disturbed."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/65
+msgctxt "Lady Memoria"
+msgid "You were so... happy."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/73
+msgctxt "Lady Memoria"
+msgid "I believe it was this concert where you got that stick-on tattoo in the bathroom."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/81
+msgctxt "Lady Memoria"
+msgid "What was it... a rose? Barbed wire?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/89/s/0
+msgctxt "Choix"
+msgid "A rose."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/90/s/0
+msgctxt "Choix"
+msgid "Barbed wire."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/91/s/0
+msgctxt "Choix"
+msgid "It was Bruno Jars, obviously."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/92/s/0
+msgctxt "Choix"
+msgid "A pickle."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/c-3/7
+msgctxt "Lady Memoria"
+msgid "Dripping blood, one hopes."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/c-4/7
+msgctxt "Lady Memoria"
+msgid "How homey."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/c-5/7
+msgctxt "Lady Memoria"
+msgid "Oh. Yes. I suppose that was topical at the time."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-0/c-6/11
+msgctxt "Lady Memoria"
+msgid "Oh, of course it was. A great big sour one, I hope."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/0
+msgctxt "Lady Memoria"
+msgid "So? What shall we do with it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Toss it. I don't need it anymore."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Oh, keep it, for sure! Hang it up!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Not ready to toss that. Can you hang onto it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/c-7/10
+msgctxt "Cam"
+msgid "Oh sweet. This'll be delicious; om nom nom."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/c-7/26
+msgctxt "Cam"
+msgid "I don't like, eat it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/c-7/34
+msgctxt "Cam"
+msgid "Shut up."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/c-7/45
+msgctxt "Lady Memoria"
+msgid "...wonderful."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/c-8/10
+msgctxt "Artt"
+msgid "Excellent! Pop art with a story. I know just where to put it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-1/c-9/10
+msgctxt "Lady Memoria"
+msgid "I can. I'm scowling. But I can."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/0
+msgctxt "Lady Memoria"
+msgid "Next."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/11
+msgctxt "Lady Memoria"
+msgid "Another Bruno Jars piece. Ah, this is the album itself called \"Moonshine\"; and it looks like you attached your tickets to it, as well."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/19
+msgctxt "Lady Memoria"
+msgid "How sentimental."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/27
+msgctxt "Lady Memoria"
+msgid "Though I suppose if I'd bought scalped tickets at the door from a man in a red-sequined fedora, I'd have kept them, too."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/35/b/1
+msgctxt "Lady Memoria"
+msgid "Don't think you'll be giving me that fantastic red shirt, by the way. Clothing covers no sins with me."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/38
+msgctxt "Lady Memoria"
+msgid "What would you like to do?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/46/s/0
+msgctxt "Choix"
+msgid "I can let go of those. I've got the album digitally, anyway."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/47/s/0
+msgctxt "Choix"
+msgid "I forgot about this. Let's hang it up."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/48/s/0
+msgctxt "Choix"
+msgid "Just leave it in the box for now."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/c-10/10
+msgctxt "Cam"
+msgid "Nice. Digital is bullshit, as far as I'm concerned. Hard copy every time."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/c-10/21
+msgctxt "Lady Memoria"
+msgid "What a perspective he offers."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/c-11/10
+msgctxt "Artt"
+msgid "Great! This is something you constructed, in a way. Lovely."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/c-11/24
+msgctxt "Lady Memoria"
+msgid "We're making good progress. How surprising."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-2/c-12/10
+msgctxt "Lady Memoria"
+msgid "Hm. Not my preference, but alright."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/0
+msgctxt "Lady Memoria"
+msgid "Now, these."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/11
+msgctxt "Lady Memoria"
+msgid "These are stamp and coin collections. I remember when you started making these. I believe your grandfather sent you the first few."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/19
+msgctxt "Lady Memoria"
+msgid "I'd be surprised that you still had them, but <i>you</i> don't. I do."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/27
+msgctxt "Lady Memoria"
+msgid "And we're going to make a decision about them. Now, please."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/35/s/0
+msgctxt "Choix"
+msgid "Wow. Yeah, we can definitely throw those away."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/36/s/0
+msgctxt "Choix"
+msgid "Oh wow. I miss him. Yeah, let's put those up."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/37/s/0
+msgctxt "Choix"
+msgid "You keep those, Memoria."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/c-13/10
+msgctxt "Cam"
+msgid "You're throwing away money? Uh, yeah. I'll take it. No problem."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/c-13/21
+msgctxt "Lady Memoria"
+msgid "Good."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/c-14/10
+msgctxt "Artt"
+msgid "A family heirloom. I'll hang it with honor."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/c-14/24
+msgctxt "Lady Memoria"
+msgid "Family is important."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-3/c-15/10
+msgctxt "Lady Memoria"
+msgid "Yes, Memoria. You keep it. It's no trouble, right? Hmph."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/0
+msgctxt "Lady Memoria"
+msgid "Ah. These next I think should be easy."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/11
+msgctxt "Lady Memoria"
+msgid "You, dear, have a collection of magazines about picture frames. Do you remember?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/19
+msgctxt "Lady Memoria"
+msgid "You had that nosy neighbor who kept stealing your mail, and you wanted to antagonize them with deeply uninteresting booty for their trouble?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/27
+msgctxt "Lady Memoria"
+msgid "I thought it was brilliant, frankly."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/35
+msgctxt "Lady Memoria"
+msgid "But the neighbor moved. And the magazines are a bit dusty now. So maybe they've served their last purpose?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/43/s/0
+msgctxt "Choix"
+msgid "Lol. That was fun. Yeah, they can go."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/44/s/0
+msgctxt "Choix"
+msgid "Are you kidding? Those are art. Hang 'em up!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/45/s/0
+msgctxt "Choix"
+msgid "Nah, let's keep 'em."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-16/10
+msgctxt "Cam"
+msgid "Excellent. Usually the only paper I get has pizza grease on it. Which is also cool."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-16/21
+msgctxt "Lady Memoria"
+msgid "He's so grungy."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-16/29/0/s/0
+msgctxt "Choix"
+msgid "I love how open minded you are, Memoria."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-16/29/1/s/0
+msgctxt "Choix"
+msgid "He's gross. But he's helpful."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-16/29/c-0/7
+msgctxt "Lady Memoria"
+msgid "I am, aren't I."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-16/29/c-0/15
+msgctxt "Lady Memoria"
+msgid "It's nice to be appreciated."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-16/29/c-1/7
+msgctxt "Lady Memoria"
+msgid "Well, as long as you can stand it, let's keep moving."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-17/10
+msgctxt "Artt"
+msgid "The art is the frame. Not even the frame, it's the article about the frame that usually goes around the art."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-17/18
+msgctxt "Artt"
+msgid "META. I love it!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-4/c-18/10 memoria_memories/memoria_quest_three/0/g-1/c-7/10
+msgctxt "Lady Memoria"
+msgid "Fine..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/0
+msgctxt "Lady Memoria"
+msgid "Ah yes. Motivational art."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/11
+msgctxt "Lady Memoria"
+msgid "You got this from that gym you were going to for a while. Apparently they had good classes, a clean locker room. And this penchant for making thing-based puns."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/19
+msgctxt "Lady Memoria"
+msgid "\"Believe In Your Shelf,\" \"Take A Bike Out Of Life,\" \"Rack Your Plates...\""
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/27
+msgctxt "Lady Memoria"
+msgid "I suppose they thought it was funny."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/35/b/1
+msgctxt "Lady Memoria"
+msgid "I would've liked one about pickleball. For my little pickle."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/38
+msgctxt "Lady Memoria"
+msgid "Toss? Keep? Burn into ashes?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/46/s/0
+msgctxt "Choix"
+msgid "Toss it. I definitely do not feel motivated by it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/47/s/0
+msgctxt "Choix"
+msgid "I think it's hilarious. Put it up."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/48/s/0
+msgctxt "Choix"
+msgid "You hold onto that one, Memoria."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/c-19/10
+msgctxt "Cam"
+msgid "Huh. I think I'm gonna use it as a shelf. Why not, right?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/c-19/18
+msgctxt "Lady Memoria"
+msgid "It would seem appropriate."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/c-19/29
+msgctxt "Lady Memoria"
+msgid "Creative."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/c-20/10
+msgctxt "Artt"
+msgid "You've got it! I know just the wall for it!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/c-20/24
+msgctxt "Lady Memoria"
+msgid "Excellent!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-5/c-21/10
+msgctxt "Lady Memoria"
+msgid "Oh god. Why..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-6/0
+msgctxt "Lady Memoria"
+msgid "Last one for now..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-6/11
+msgctxt "Lady Memoria"
+msgid "One of Hero-Hime's posters for some sort of anime. I can't say I understand why this seems to be all the rage nowadays."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-6/19/s/0
+msgctxt "Choix"
+msgid "Hm... I do remember liking that arc though..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-6/20/s/0
+msgctxt "Choix"
+msgid "Who is Hero-Hime?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-6/c-22/7
+msgctxt "Lady Memoria"
+msgid "I always thought it was a phase with you."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-6/c-23/7
+msgctxt "Lady Memoria"
+msgid "She is an anime character who plays tennis. Apparently, this amuses viewers."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/0
+msgctxt "Lady Memoria"
+msgid "What will you do with it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/8/s/0
+msgctxt "Choix"
+msgid "We can let go of that."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/9/s/0
+msgctxt "Choix"
+msgid "Totally hang it! I still support her."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/10/s/0
+msgctxt "Choix"
+msgid "I don't wanna hang it... but I'd feel bad throwing it out. Can you keep it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/c-24/10
+msgctxt "Cam"
+msgid "Nice. She's hot. Thanks."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/c-25/10
+msgctxt "Artt"
+msgid "My goodness, look at that. What an addition that will be to the collection! I think?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/c-25/24
+msgctxt "Lady Memoria"
+msgid "Yes, won't it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-7/c-26/10
+msgctxt "Lady Memoria"
+msgid "I can. I have been, if you recall."
+msgstr ""
+
+#: memoria_memories/memoria_quest_one/0/g-8/0
+msgctxt "Lady Memoria"
+msgid "That will be all for today."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_bad/6/b/1
+msgctxt "Lady Memoria"
+msgid "You redistributed nothing. Every single piece that <i>was</i> clogging me up, clogs me up still. I am deeply unimpressed."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_bad/9/b/1
+msgctxt "Lady Memoria"
+msgid "Well. We have not had a very successful first day, have we? More than half of the things I showed you remain right where they started."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_bad/12
+msgctxt "Lady Memoria"
+msgid "I was very much hoping to be in a better mood right now."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_bad/20
+msgctxt "Lady Memoria"
+msgid "Leave me for now. We will start again another day."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_good/3/b/1
+msgctxt "Lady Memoria"
+msgid "You have a lot more art up on your walls now. I do love some full-fledged self-expression."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_good/6/b/1
+msgctxt "Lady Memoria"
+msgid "Dear Cam has had a very successful day."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_good/9/b/1
+msgctxt "Lady Memoria"
+msgid "Some old art hung, some brand new trash gifted... either way, a very successful day."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_good/12/b/1
+msgctxt "Lady Memoria"
+msgid "You've done a crunchy job so far, pickle."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_one_good/15
+msgctxt "Lady Memoria"
+msgid "Well done. I'm feeling better already. See you next time."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/6
+msgctxt "Lady Memoria"
+msgid "Well well, are we all back?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/17
+msgctxt "Cam"
+msgid "Yup yup. Here. Just had myself a nice cold spaghetti lunch so I'm fueled up and ready to rock."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/25
+msgctxt "Artt"
+msgid "Ooh, delicious... where did you get spaghetti?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/33
+msgctxt "Cam"
+msgid "Seems like the kinda question you don't actually want the answer to, doesn't it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/41
+msgctxt "Lady Memoria"
+msgid "Oh, Cam. you are so... resourceful."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/49
+msgctxt "Lady Memoria"
+msgid "And energized, which I'm glad about. We have another full box to go through."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/57
+msgctxt "Lady Memoria"
+msgid "And we all know how this works by now so boys, go to your corners..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/65
+msgctxt "Cam"
+msgid "I feel like I'm getting punished in school. Dope."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/76
+msgctxt "Lady Memoria"
+msgid "And you, Artt darling, right up here. Front and center."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/87
+msgctxt "Lady Memoria"
+msgid "Don't worry, I won't bite. At least not until you ask me to."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/95/b/1
+msgctxt "Lady Memoria"
+msgid "Truthfully, I'm looking forward to that first bite out of my big sour pickle."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/95/b/9
+msgctxt "Artt"
+msgid "Ah. The art form known as innuendo. One of my favorites!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/98
+msgctxt "Artt"
+msgid "I hope our work this day will be a good one for art!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/109
+msgctxt "Lady Memoria"
+msgid "So. Item One."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/120
+msgctxt "Lady Memoria"
+msgid "ChimneyLand! Oh isn't it macabre? Every time I look at this map I feel like we're back there all over again."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/128
+msgctxt "Lady Memoria"
+msgid "That one Hollyween, where you brought this map back... those memories are so dark, and so twisted and so..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/136
+msgctxt "Lady Memoria"
+msgid "Oh my. I'm losing control. I did not expect this process to be so... invigorating..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/147/s/0
+msgctxt "Choix"
+msgid "Um... glad you like it but I'm ready to let that go..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/148/s/0
+msgctxt "Choix"
+msgid "Hang that one. It's just so cool."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/149/s/0
+msgctxt "Choix"
+msgid "Let's keep it in the attic for now."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-0/10
+msgctxt "Cam"
+msgid "Yeah, I'll totally take it. Anything that gets Lady Memoria worked up has gotta be special."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-0/18
+msgctxt "Lady Memoria"
+msgid "Oh please. I know I'm mysterious and complex and devious... but isn't that part of the fun?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Oh it is for me. You're like a sensual shadow."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "It's not my kinda thing."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-0/26/c-0/7
+msgctxt "Lady Memoria"
+msgid "Well. There goes my conviction that no one understands me."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-0/26/c-1/7
+msgctxt "Lady Memoria"
+msgid "Well you might not need to speak with me much longer then."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-1/10
+msgctxt "Artt"
+msgid "It's quite evocative. Worth a good study!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-1/24
+msgctxt "Lady Memoria"
+msgid "Quite glad I'll get to see that one everyday. Yummmm."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/c-2/10
+msgctxt "Lady Memoria"
+msgid "Well of course I'm displeased. But... for this one... fine."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/0
+msgctxt "Lady Memoria"
+msgid "Oh yes. Funny sayings that people with no personality hang up on the walls."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/11
+msgctxt "Lady Memoria"
+msgid "I think these were your nod to a fad that was going around... I actually admire you for these. They're on the trend while also poking fun at the trend."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/19
+msgctxt "Lady Memoria"
+msgid "And honoring that brief obsession with coffee, of course."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "Not so brief!!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "Yeah. That passed. Yuck."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/29/s/0
+msgctxt "Choix"
+msgid "And what about my obsession with gloves, Memoria? What about that?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/c-3/7
+msgctxt "Lady Memoria"
+msgid "If the obsession wasn't, perhaps at least the art is?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-0/c-5/7
+msgctxt "Lady Memoria"
+msgid "Oh my my, are you getting snippy? Be very careful, darling. Your snarky attitude might have... unintended consequences..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/0
+msgctxt "Lady Memoria"
+msgid "So. What does their future hold?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "They can go."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "No, I like 'em! Hang them up."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Leave them in the boxes."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/c-6/10
+msgctxt "Cam"
+msgid "Awesome. That coffee one will go with all the grounds I've got layin' around."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/c-6/21
+msgctxt "Lady Memoria"
+msgid "That works out nicely, then."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/c-7/10
+msgctxt "Artt"
+msgid "You've got it. If it moves you, it's art!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/c-7/27
+msgctxt "Lady Memoria"
+msgid "Moving on, then."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-1/c-8/10
+msgctxt "Lady Memoria"
+msgid "Really. Really? Ugh, fine."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/0
+msgctxt "Lady Memoria"
+msgid "Ooh, look. Nature."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/11
+msgctxt "Lady Memoria"
+msgid "This is a real four-leaf clover. Dead, preserved, beautiful."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/19
+msgctxt "Lady Memoria"
+msgid "You brought this back from your trip to the botanical gardens. You met a guide there, who took you on an unofficial tour. Alex, I think you said."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/27
+msgctxt "Lady Memoria"
+msgid "And Alex picked this for you, told you to keep it always even though you're not supposed to pick anything at all."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/35
+msgctxt "Lady Memoria"
+msgid "I remember when you walked in with it. You were almost floating. I'll bet you'd forgotten you still had this."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/43 memoria_memories/memoria_quest_two/0/g-5/43
+msgctxt "Lady Memoria"
+msgid "What would you like to do with it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/51/s/0
+msgctxt "Choix"
+msgid "Alex turned out to be an ass. Toss it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/52/s/0
+msgctxt "Choix"
+msgid "I had forgotten. Let's bring that one out and hang it up."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/53/s/0
+msgctxt "Choix"
+msgid "I'm not sure, honestly. Can you keep it for now?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/c-9/10
+msgctxt "Cam"
+msgid "Whoa. A green thing that won't turn brown. I'm in."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/c-9/21
+msgctxt "Lady Memoria"
+msgid "A good place for it, then."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/c-10/10
+msgctxt "Artt"
+msgid "A tribute to a beautiful memory!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/c-10/24
+msgctxt "Lady Memoria"
+msgid "Good. The memories that bring us joy should be seen."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-2/c-11/10
+msgctxt "Lady Memoria"
+msgid "...yes. Fine."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/3
+msgctxt "Lady Memoria"
+msgid "Well, and then there's this."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/14
+msgctxt "Lady Memoria"
+msgid "It's a photograph, you took this, of a beach. Of course a hot and sandy one."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/22
+msgctxt "Lady Memoria"
+msgid "Not of a cold and rainy one, which, if you ask me, is the only time that a beach is not a monumental waste of time."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/30
+msgctxt "Lady Memoria"
+msgid "I will never understand this fascination with beaches."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/38
+msgctxt "Lady Memoria"
+msgid "But this one was special to you. Is still special, perhaps. It was a moment of great stillness for you. You took this photo to remind yourself of that moment when you felt purely happy."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/46
+msgctxt "Lady Memoria"
+msgid "Even if it did happen on a beach."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/54
+msgctxt "Lady Memoria"
+msgid "So. What would you like to do with it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/62/s/0
+msgctxt "Choix"
+msgid "It's pretty. But I don't need it anymore."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/63/s/0
+msgctxt "Choix"
+msgid "I definitely want to keep that. I'm so glad to see it again."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/64/s/0
+msgctxt "Choix"
+msgid "I don't know yet. Just keep it in the boxes."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/c-12/10
+msgctxt "Cam"
+msgid "I'll take care of it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/c-13/10
+msgctxt "Artt"
+msgid "And I can understand why. It's just beautiful. I'll put it up!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/c-13/24
+msgctxt "Lady Memoria"
+msgid "Good, then. Good progress."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-3/c-14/10
+msgctxt "Lady Memoria"
+msgid "...fine. It means nothing to me of course, but fine."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/0
+msgctxt "Lady Memoria"
+msgid "Ah. Time to move into the educational material."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/11
+msgctxt "Lady Memoria"
+msgid "This was the manual for that microwave your parents gave you before you went off to college."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/19
+msgctxt "Lady Memoria"
+msgid "It was in your grandmother's house, then your mother's and then your dorm room and finally your apartment."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/27
+msgctxt "Lady Memoria"
+msgid "I have a memory of it being very reliable, very loud, and very orange."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/35
+msgctxt "Lady Memoria"
+msgid "Apparently, your grandmother taught you how to make cheap brownies in it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/43
+msgctxt "Lady Memoria"
+msgid "What do you think? Light reading before bed, perhaps?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/51/s/0
+msgctxt "Choix"
+msgid "No. I don't have the microwave anymore, so I don't need the manual."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/52/s/0
+msgctxt "Choix"
+msgid "Oh wow. I didn't know I still had that. Let's put it up!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/53/s/0
+msgctxt "Choix"
+msgid "Just keep it in the boxes."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-15/10
+msgctxt "Cam"
+msgid "I'll take it. It's even got stains on it. SCORE."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-15/21
+msgctxt "Lady Memoria"
+msgid "Decisive today."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-15/32/0/s/0
+msgctxt "Choix"
+msgid "Anything to make you happy."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-15/32/1/s/0
+msgctxt "Choix"
+msgid "Trying to get it done!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-15/32/c-0/7
+msgctxt "Lady Memoria"
+msgid "And aren't you good at it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-15/32/c-1/7
+msgctxt "Lady Memoria"
+msgid "Indeed. On we go, then."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-16/10
+msgctxt "Artt"
+msgid "What a broad definition you have of \"art.\" I am inspired!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-16/24
+msgctxt "Lady Memoria"
+msgid "Isn't he encouraging."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-4/c-17/10
+msgctxt "Lady Memoria"
+msgid "Hmph. I could've done that without your help."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/0
+msgctxt "Lady Memoria"
+msgid "Aw. I'm not usually one for \"adorable,\" but..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/11
+msgctxt "Lady Memoria"
+msgid "Look at your parents."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/19
+msgctxt "Lady Memoria"
+msgid "I don't know them, of course. I only know your memories of them."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/27
+msgctxt "Lady Memoria"
+msgid "And when I look at this photo..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/35
+msgctxt "Lady Memoria"
+msgid "My darling. It is a good memory."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/51/s/0
+msgctxt "Choix"
+msgid "Let it go. I don't need it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/52/s/0
+msgctxt "Choix"
+msgid "Yeah, that's a good one. Let's put it up."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/53/s/0
+msgctxt "Choix"
+msgid "Not ready to make a decision on that one. You keep it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/c-18/10
+msgctxt "Cam"
+msgid "Cool. Random photos. I like it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/c-18/21
+msgctxt "Lady Memoria"
+msgid "Sounds like he'll enjoy it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/c-19/10
+msgctxt "Artt"
+msgid "A fine selection. I'll put it somewhere prominent!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/c-19/24
+msgctxt "Lady Memoria"
+msgid "Lovely."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-5/c-20/10
+msgctxt "Lady Memoria"
+msgid "See? I knew it. \"Adorable\" always gets in the way."
+msgstr ""
+
+#: memoria_memories/memoria_quest_two/0/g-6/0
+msgctxt "Lady Memoria"
+msgid "That ends our day's work..."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_two_bad/6/b/1
+msgctxt "Lady Memoria"
+msgid "And we have accomplished nothing! Everything remains in the box."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_two_bad/9/b/1
+msgctxt "Lady Memoria"
+msgid "More than half of me is still stuck in this damned box."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_two_bad/12
+msgctxt "Lady Memoria"
+msgid "Aggravation; a negative emotion that I do <i>not</i> enjoy."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_two_good/3/b/1
+msgctxt "Lady Memoria"
+msgid "It's... \"nice\" to see so much of me up on the walls now."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_two_good/6/b/1
+msgctxt "Lady Memoria"
+msgid "Well! I feel better, and Cam can barely walk out of here, he's so loaded down with new treasure."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_two_good/9/b/1
+msgctxt "Lady Memoria"
+msgid "You've distributed very well. Cam and Artt have the exact same amount of new treasures. Too bad... for a moment there, I thought we were going to get to see them fight."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_two_good/12
+msgctxt "Lady Memoria"
+msgid "A good day. Now shoo. One more day like this, and we'll be done!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/6/b/1 memoria_memories/memoria_hate_return/0/0
+msgctxt "Lady Memoria"
+msgid "Oh. It's you."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/7/b/1
+msgctxt "Lady Memoria"
+msgid "Oh look. A fantastic red shirt. If only you were a toreador."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/10
+msgctxt "Lady Memoria"
+msgid "We have just been discussing whether or not we're excited for the upcoming end of our little project."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/21
+msgctxt "Artt"
+msgid "I for one, cannot decide."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/29
+msgctxt "Artt"
+msgid "On the one hand, it means we will have completed the piece. And there's something wonderful about that."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/37
+msgctxt "Artt"
+msgid "Something wonderful that we've worked on together! What we've created couldn't have been created by anyone else, at any other time than by us, right now."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/45
+msgctxt "Artt"
+msgid "On the other hand, we won't be in the midst of it anymore! And that's... there's so much sadness in that. I think that I'll miss you all. I'll miss this."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/53
+msgctxt "Lady Memoria"
+msgid "Such suffering on either hand. How sweet."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/61
+msgctxt "Lady Memoria"
+msgid "And Cam?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/69
+msgctxt "Lady Memoria"
+msgid "Cam?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/80
+msgctxt "Cam"
+msgid "Yeah?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/88
+msgctxt "Cam"
+msgid "What are we talking about?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/96
+msgctxt "Lady Memoria"
+msgid "About the end of our time together. How we feel about it. I am very ready to have it all finished at last. How about you?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/104
+msgctxt "Cam"
+msgid "Oh."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/112
+msgctxt "Cam"
+msgid "Yeah, I don't care."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/120
+msgctxt "Lady Memoria"
+msgid "Apathy. What a fetching color it is on you, Cameron."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/128
+msgctxt "Lady Memoria"
+msgid "Shall we get started?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/136/s/0
+msgctxt "Choix"
+msgid "Don't I get to have an opinion on this?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/137/s/0
+msgctxt "Choix"
+msgid "Yeah, let's do it. I'm with Cam."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/7 memoria_memories/memoria_quest_three/0/g-2/c-9/32/c-1/7
+msgctxt "Lady Memoria"
+msgid "Of course you do."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "Don't be shy, dear. Stun us."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I hated this process. I'm so ready to be done."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I'm going to miss going through my memories."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "Lady Memoria, you are seriously hot. I'd do anything to hang out with you."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/7
+msgctxt "Cam"
+msgid "Ha!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/15
+msgctxt "Cam"
+msgid "Love it. Let's rock and roll."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/23
+msgctxt "Artt"
+msgid "A true emotion, if a painful one to swallow."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/31
+msgctxt "Lady Memoria"
+msgid "Indeed, Artt. If I'd known there was so much heat simmering beneath the surface... I would've made this last a lot longer."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Let's get on with it before I die of boredom."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "Oh please god no."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/2/s/0
+msgctxt "Choix"
+msgid "The longer the better. I love to suffer."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/c-0/7
+msgctxt "Lady Memoria"
+msgid "On we fly. Dying of boredom would be a terrible way to go."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/c-1/7
+msgctxt "Artt"
+msgid "You know, perhaps we should just jump in."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/c-1/18
+msgctxt "Lady Memoria"
+msgid "Fair enough."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/c-2/7
+msgctxt "Lady Memoria"
+msgid "Ah... so do I, in my way."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/c-2/15
+msgctxt "Lady Memoria"
+msgid "It's been nice to share this suffering with you."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-0/39/c-2/23
+msgctxt "Lady Memoria"
+msgid "Once more, then."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-1/7
+msgctxt "Lady Memoria"
+msgid "Well. I'm just glad you have gone through them. And don't worry. When you make more, you can go through those, too."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-1/15
+msgctxt "Lady Memoria"
+msgid "I am a constantly renewable resource."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-2/7
+msgctxt "Cam"
+msgid "HEY-yo... maybe the sculpture dude and I should take some seats and grab a snack... could be a good show!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-2/15
+msgctxt "Artt"
+msgid "Eros is an art in itself..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-2/23
+msgctxt "Lady Memoria"
+msgid "Now now. It won't do to put off the suffering of work for the ecstasy of... other pursuits."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-2/31
+msgctxt "Lady Memoria"
+msgid "Plus. The suffering can be so ecstatic. Don't you think?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-2/39/0/s/0
+msgctxt "Choix"
+msgid "Whatever you say, Madame."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-2/39/1/s/0
+msgctxt "Choix"
+msgid "I think suffering is suffering, personally. But ok. Work it is."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-0/23/c-2/39/c-1/7
+msgctxt "Lady Memoria"
+msgid "Wonderful. Just a few more bits to go through."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-1/7
+msgctxt "Cam"
+msgid "Aw. Just when I didn't want a friend."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-1/15
+msgctxt "Artt"
+msgid "I'm ready when you are!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/c-1/23
+msgctxt "Lady Memoria"
+msgid "Alright then. On we go."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/6
+msgctxt "Lady Memoria"
+msgid "Oh. I was wondering when we were going to get to this one."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/17
+msgctxt "Lady Memoria"
+msgid "This is a photo. It's a darling photo."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/25
+msgctxt "Lady Memoria"
+msgid "Of you, on the toilet, taking your first all-by-yourself poop."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/33
+msgctxt "Lady Memoria"
+msgid "You kept screaming for her to get the camera and you held that little poopy in until she went and got it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/41
+msgctxt "Lady Memoria"
+msgid "I don't think your father was there."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/49
+msgctxt "Lady Memoria"
+msgid "He heard about it over dinner."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/57
+msgctxt "Lady Memoria"
+msgid "Shall we put this on display?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/65/s/0
+msgctxt "Choix"
+msgid "Don't be ridiculous. Obviously we throw this away."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/66/s/0
+msgctxt "Choix"
+msgid "Everyone who comes over should see this on display."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/67/s/0
+msgctxt "Choix"
+msgid "Um, let's put this one back in the box, ok?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-2/10
+msgctxt "Cam"
+msgid "YEESSS. I need nothing else the rest of the day. I'm good."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-2/21
+msgctxt "Lady Memoria"
+msgid "Easy to please, isn't he?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/10/b/1
+msgctxt "Artt"
+msgid "The artist putting his own shame on display - a true piece of art."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/11/b/1
+msgctxt "Artt"
+msgid "The artist putting her own shame on display - a true piece of art."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/12/b/1
+msgctxt "Artt"
+msgid "The artist putting their own shame on display - a true piece of art."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/15
+msgctxt "Lady Memoria"
+msgid "Just make sure it's got glass, Artt, not just a frame... splatter, and all."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "You think of everything."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/23/1/s/0
+msgctxt "Choix"
+msgid "Eeewwww..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/23/c-0/7
+msgctxt "Lady Memoria"
+msgid "Yes, I do. So nice to be noticed."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/23/c-1/7
+msgctxt "Lady Memoria"
+msgid "Oh don't be so childish. Splatter has been called great art in its own way, you know."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-3/23/g-0/6
+msgctxt "Lady Memoria"
+msgid "So nice to be in agreement."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-0/c-4/10
+msgctxt "Lady Memoria"
+msgid "Well. If you insist."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/0
+msgctxt "Lady Memoria"
+msgid "And it looks like we're on a roll with your childhood..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/11
+msgctxt "Lady Memoria"
+msgid "Spaghetti was just not your favorite as a child, was it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/22
+msgctxt "Cam"
+msgid "Those noodles look really familiar actually..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/33
+msgctxt "Artt"
+msgid "My. What an amazing expression. Look at those tears!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/47
+msgctxt "Lady Memoria"
+msgid "What shall we do with this one?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/55/s/0
+msgctxt "Choix"
+msgid "We can throw this one away."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/56/s/0
+msgctxt "Choix"
+msgid "We hang it. This is exquisite."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/57/s/0
+msgctxt "Choix"
+msgid "Bury it in your boxes, please."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/c-5/10
+msgctxt "Cam"
+msgid "Love me some 'sghetti."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/c-6/10
+msgctxt "Artt"
+msgid "I love a good still life. What a moment to capture!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-1/c-6/24
+msgctxt "Lady Memoria"
+msgid "Riveting."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/0
+msgctxt "Lady Memoria"
+msgid "Next up on the childhood railroad..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/11
+msgctxt "Lady Memoria"
+msgid "You. Doing a lot of childhood-type things."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/19
+msgctxt "Lady Memoria"
+msgid "There are a couple of them that still make me smile. You playing knights with the plunger sword... that evil dragon never stood a chance."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/27
+msgctxt "Lady Memoria"
+msgid "Pretending to do your homework by wearing the book on your head. You thought it was some version of osmosis where if the words touched you, you'd just know them."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/35
+msgctxt "Lady Memoria"
+msgid "It didn't work, of course, but one can dream."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/43
+msgctxt "Lady Memoria"
+msgid "Anyway. It's a lovely little collage."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/51/s/0
+msgctxt "Choix"
+msgid "A collage for the trash can, I think."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/52/s/0
+msgctxt "Choix"
+msgid "This definitely goes on the wall!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/53/s/0
+msgctxt "Choix"
+msgid "Just keep this one up here for now."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-8/10
+msgctxt "Cam"
+msgid "You got it. You know I love it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-8/21
+msgctxt "Lady Memoria"
+msgid "We know you do, darling."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-9/10
+msgctxt "Artt"
+msgid "Oh I agree. What is artistic if not our own life histories?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-9/24
+msgctxt "Lady Memoria"
+msgid "Isn't he sweet."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-9/32/0/s/0
+msgctxt "Choix"
+msgid "Not as sweet as you..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-9/32/1/s/0
+msgctxt "Choix"
+msgid "I like him, too!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-9/32/c-0/7
+msgctxt "Lady Memoria"
+msgid "Oh darling. Keep complimenting my sweetness and I'll show you my salty side..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-2/c-10/10
+msgctxt "Lady Memoria"
+msgid "Oh. Certainly. I'll... hold it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-3/0
+msgctxt "Lady Memoria"
+msgid "Oh look! It's something you made."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-3/11
+msgctxt "Lady Memoria"
+msgid "Your Plenty-o-Pasta Portrait. Your teacher was quite a talented artist."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-3/19/s/0
+msgctxt "Choix"
+msgid "Hey. I made this, not my teacher."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-3/20/s/0
+msgctxt "Choix"
+msgid "Oh yeah. Ms. Fowler was amazing. I miss her."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-3/c-11/7
+msgctxt "Lady Memoria"
+msgid "You randomly glued pasta to a piece of construction paper, and your teacher created this beautiful drawing around it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-3/c-11/15
+msgctxt "Lady Memoria"
+msgid "At best, I'd say the artistic talent was equally distributed."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-3/c-12/7
+msgctxt "Lady Memoria"
+msgid "She must miss you..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/0
+msgctxt "Lady Memoria"
+msgid "So. What shall we do with it?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/8/s/0
+msgctxt "Choix"
+msgid "Let it go."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/9/s/0
+msgctxt "Choix"
+msgid "Hang it up! It's art!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/10/s/0
+msgctxt "Choix"
+msgid "Just keep it in your boxes, I think."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/c-13/10
+msgctxt "Cam"
+msgid "Niiiiice. I almost never get dried pasta. Only the gooey stuff."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/c-13/21
+msgctxt "Lady Memoria"
+msgid "Congratulations, Cam."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/c-14/10
+msgctxt "Artt"
+msgid "I could not agree more."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/c-14/24
+msgctxt "Lady Memoria"
+msgid "Aren't we all broad-minded today."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-4/c-15/10
+msgctxt "Lady Memoria"
+msgid "Oh of course. I've never seen anything I liked more, after all..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/0
+msgctxt "Lady Memoria"
+msgid "Oh. This one is a bit... ironic."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/11
+msgctxt "Lady Memoria"
+msgid "Your diploma. Your Bachelor of Fine Arts in Customer Service."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/19
+msgctxt "Lady Memoria"
+msgid "You know, no matter what happens, you still earned this."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/27
+msgctxt "Lady Memoria"
+msgid "Shall we hang it? A.I. be damned?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/35/s/0
+msgctxt "Choix"
+msgid "Nah. Toss it. I don't need it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/36/s/0
+msgctxt "Choix"
+msgid "Hell yes we hang it up. I earned it!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/37/s/0
+msgctxt "Choix"
+msgid "I might need it one day. Let's keep it up here."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/c-16/10
+msgctxt "Cam"
+msgid "Oh cool I've got a diploma!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/c-16/18
+msgctxt "Cam"
+msgid "What the hell am I gonna do with this..."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/c-16/29
+msgctxt "Lady Memoria"
+msgid "I'm sure he'll figure something out."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/c-17/10
+msgctxt "Artt"
+msgid "That you did! The art of an achievement."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/c-17/24
+msgctxt "Lady Memoria"
+msgid "We are quite near an achievement ourselves!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-5/c-18/10
+msgctxt "Lady Memoria"
+msgid "Yes. I'll hold onto it \"just in case,\" shall I? Hmph."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/0
+msgctxt "Lady Memoria"
+msgid "Oh my goodness... this is our last item!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/11
+msgctxt "Lady Memoria"
+msgid "It's your graduation day! From high school."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/19
+msgctxt "Lady Memoria"
+msgid "We were all so proud of you. And look, look who else was there with you."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/27
+msgctxt "Lady Memoria"
+msgid "It's Teddy."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/35/s/0
+msgctxt "Choix"
+msgid "Hi Teddy! He was so nice that day."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/36/s/0
+msgctxt "Choix"
+msgid "Who's Teddy?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/c-19/7
+msgctxt "Lady Memoria"
+msgid "With you forever and always."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/c-20/7
+msgctxt "Lady Memoria"
+msgid "Who's Teddy. He's your teddy bear. He's the stuffed animal in your arms in this photo."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/c-20/18
+msgctxt "Lady Memoria"
+msgid "You must meet him. Make an effort, and soon."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-6/c-20/26
+msgctxt "Lady Memoria"
+msgid "I generally prefer dark and twisted things and there isn't a single twisted patch of Teddy's fur... but I do love him."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-7/0
+msgctxt "Lady Memoria"
+msgid "What about this one?"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-7/8/s/0
+msgctxt "Choix"
+msgid "That was actually a really tough day. We can throw this out."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-7/9/s/0
+msgctxt "Choix"
+msgid "Yeah. That one can go up on the wall."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-7/10/s/0
+msgctxt "Choix"
+msgid "Not sure about this one yet. Let's leave it in the box."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-7/c-21/10
+msgctxt "Cam"
+msgid "Awesome. I'll take care of it."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-7/c-22/10
+msgctxt "Artt"
+msgid "I know just where it should go!"
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-7/c-23/10
+msgctxt "Lady Memoria"
+msgid "Fine."
+msgstr ""
+
+#: memoria_memories/memoria_quest_three/0/g-8/0
+msgctxt "Lady Memoria"
+msgid "This concludes our last culling..."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_three_bad/6/b/1
+msgctxt "Lady Memoria"
+msgid "Everything is still in the box? Everything?! How could you."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_three_bad/7/b/1
+msgctxt "Lady Memoria"
+msgid "I can't say we've made <i>great</i> progress. More than half of your items are right where they started!"
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_three_bad/10
+msgctxt "Lady Memoria"
+msgid "I am displeased. And not in a pleasing way."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_three_good/3/b/1 memoria_memories/post_memoria_all_done/0/11/b/1
+msgctxt "Lady Memoria"
+msgid "Your walls are absolutely bursting with your memories. So much better than being bursting with them myself."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_three_good/6/b/1 memoria_memories/post_memoria_all_done/0/14/b/1
+msgctxt "Lady Memoria"
+msgid "So Cam has made out like a bandit, and I'm no longer dealing with all these old memories. Excellent."
+msgstr ""
+
+#: memoria_memories/post_memoria_quest_three_good/9/b/1 memoria_memories/post_memoria_all_done/0/17/b/1
+msgctxt "Lady Memoria"
+msgid "I'm so glad we had Cam and Artt here to help us. They both did very well out of your memories. As did I. I don't have to hold them anymore!"
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/3
+msgctxt "Lady Memoria"
+msgid "And you have done what I asked... perfectly."
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/20/s/0
+msgctxt "Choix"
+msgid "What happens to you with no memories left?"
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "Oh I won't be flying away any time soon..."
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/c-0/15/b/1
+msgctxt "Lady Memoria"
+msgid "You can still find me in the halls of this house..."
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/c-0/18/b/1
+msgctxt "Lady Memoria"
+msgid "I will be taking residence with Cam for the time being."
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/c-0/18/b/12
+msgctxt "Cam"
+msgid "Woah. Are we, like, dating now?"
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/c-0/18/b/28
+msgctxt "Cam"
+msgid "Respect."
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/c-0/21
+msgctxt "Lady Memoria"
+msgid "Being gone from the attic - now among the world at last..."
+msgstr ""
+
+#: memoria_memories/post_memoria_all_done/0/c-0/29
+msgctxt "Lady Memoria"
+msgid "I couldn't be more grateful."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/0
+msgctxt "Lady Memoria"
+msgid "Well, my darling."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/8
+msgctxt "Lady Memoria"
+msgid "I'm quite sad to say that it's over."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/16
+msgctxt "Lady Memoria"
+msgid "I did not expect to enjoy getting through all that with you... but you are very pleasant company."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/24
+msgctxt "Lady Memoria"
+msgid "And existing on my own now, unencumbered by 'stuff'... I can't even tell you how good that feels."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/32
+msgctxt "Lady Memoria"
+msgid "Thank you for making it possible."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/40/s/0
+msgctxt "Choix"
+msgid "Thank YOU for your help!"
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/41/s/0
+msgctxt "Choix"
+msgid "Is that all you enjoyed...?"
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/42/s/0
+msgctxt "Choix"
+msgid "Happy to help, friend."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "Oh, of course."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "Needless to say you couldn't have done that without me. Or you wouldn't have, at least."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/23
+msgctxt "Lady Memoria"
+msgid "But I also couldn't have done it without you."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/31
+msgctxt "Lady Memoria"
+msgid "We both enjoyed ourselves, it seems."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "The enjoyment can continue, I think."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "We make a good team."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/c-0/7
+msgctxt "Lady Memoria"
+msgid "Oh, I agree."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/c-0/15
+msgctxt "Lady Memoria"
+msgid "I didn't want to ask if you weren't ready."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/c-0/23
+msgctxt "Lady Memoria"
+msgid "Where we've been is fairly tame compared to where we could go."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Buckle up, twisty lady."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/c-0/31/c-0/7
+msgctxt "Lady Memoria"
+msgid "Mmmmm."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/c-1/7
+msgctxt "Lady Memoria"
+msgid "That we do."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-0/39/c-1/15
+msgctxt "Lady Memoria"
+msgid "Thank you, my friend."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "Well."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/15
+msgctxt "Lady Memoria"
+msgid "I enjoyed you. I enjoyed the flirtation..."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/23/b/1
+msgctxt "Lady Memoria"
+msgid "I enjoyed the ruthlessness with which you axed the unnecessary parts of your past."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/26/b/1
+msgctxt "Lady Memoria"
+msgid "I rather enjoyed being put on display... my beauty does need to be seen to be believed."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/29
+msgctxt "Lady Memoria"
+msgid "There was a lot to enjoy. And I am open to all kinds of pleasure."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/0/s/0
+msgctxt "Choix"
+msgid "Because I enjoyed you quite a bit."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/1/s/0
+msgctxt "Choix"
+msgid "So am I. I think you're the sexiest thing I've ever seen."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-0/7
+msgctxt "Lady Memoria"
+msgid "Of course you did."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-0/15
+msgctxt "Lady Memoria"
+msgid "There is nothing as seductive as darkness."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-0/23
+msgctxt "Lady Memoria"
+msgid "In fact, why don't you scoot a bit closer to me..."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-0/31
+msgctxt "Lady Memoria"
+msgid "I'll show you what I mean..."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-0/39 memoria_memories/memoria_love_path/0/c-1/37/c-1/39
+msgctxt "Narrator"
+msgid "You and Memoria share a kiss that will live in both of your memories for decades to come."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-1/7
+msgctxt "Lady Memoria"
+msgid "What fine eyesight you have."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-1/15
+msgctxt "Lady Memoria"
+msgid "You'd have been a fool to think otherwise."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-1/23
+msgctxt "Lady Memoria"
+msgid "You know, I think you'd better go on ahead and kiss me, don't you?"
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-1/37/c-1/31
+msgctxt "Lady Memoria"
+msgid "Before I'm just a memory..."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-2/7
+msgctxt "Lady Memoria"
+msgid "...generous and efficient."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-2/15
+msgctxt "Lady Memoria"
+msgid "Well then, I suppose you can go."
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-2/23
+msgctxt "Lady Memoria"
+msgid "It's been a pleasure working with you!"
+msgstr ""
+
+#: memoria_memories/memoria_love_path/0/c-2/31
+msgctxt "Lady Memoria"
+msgid "We make an excellent team!"
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/0
+msgctxt "Lady Memoria"
+msgid "Thank you for participating."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/8/s/0
+msgctxt "Choix"
+msgid "No problem! It needed doing, for sure."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/9/s/0
+msgctxt "Choix"
+msgid "I'll try to organize my new memories more efficiently."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "That it did."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "Don't forget me when you are making new memories."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-0/23
+msgctxt "Lady Memoria"
+msgid "What am I saying."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-0/31
+msgctxt "Lady Memoria"
+msgid "You couldn't possibly forget me. You made me."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-0/39
+msgctxt "Lady Memoria"
+msgid "And I'm not going anywhere."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "Oh, would you? Be a doll."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-1/15
+msgctxt "Lady Memoria"
+msgid "Of course when you fail, as we all do with projects as sweeping as that, I'll be here."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-1/23
+msgctxt "Lady Memoria"
+msgid "It actually wouldn't be such a crime if you wound up with more boxes of unfocused history."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-1/31
+msgctxt "Lady Memoria"
+msgid "You're a pleasant work companion,"
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-1/39
+msgctxt "Lady Memoria"
+msgid "And you did look brutally cute on that toilet."
+msgstr ""
+
+#: memoria_memories/memoria_friend_path/0/c-1/47/b/1
+msgctxt "Lady Memoria"
+msgid "Toodle-loo, pickle."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/0
+msgctxt "Lady Memoria"
+msgid "I hope you know how single-minded you had to have been to get me to hate you this much."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/8
+msgctxt "Lady Memoria"
+msgid "As someone who's comfortable with dark emotions, to feel one that is not only overpowering... but unpleasant?"
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/16
+msgctxt "Lady Memoria"
+msgid "My my. If I were you, I think I'd be impressed with myself."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/24/s/0
+msgctxt "Choix"
+msgid "Look, I just don't like throwing things away."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/25/s/0
+msgctxt "Choix"
+msgid "It's not even your stuff!"
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "Oh believe me darling, that message has come through loud and clear."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "How silly of me to have even asked for your help!"
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "But it's ON me. It's IN me. It's all over me and all I asked you to do was give me some breathing room!"
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/g-0/0
+msgctxt "Lady Memoria"
+msgid "I was not asking for much. And you could not even meet me halfway."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/g-0/8
+msgctxt "Lady Memoria"
+msgid "You're no fun at all. You're not even dark fun."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/g-0/19
+msgctxt "Lady Memoria"
+msgid "I think it's time for you to go..."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/g-0/27
+msgctxt "Narrator"
+msgid "A cold look settles over Memoria—it makes you shiver just a bit."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/g-0/35
+msgctxt "Lady Memoria"
+msgid "...before Cam comes back and helps me take out the trash."
+msgstr ""
+
+#: memoria_memories/memoria_hate_path/0/g-0/80
+msgctxt "Reggie"
+msgid "Don't look back - your future is safe in hatred!"
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/0/b/1
+msgctxt "Lady Memoria"
+msgid "I annoy because I care, you chiseled rubbish heap."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/3
+msgctxt "Lady Memoria"
+msgid "So. What a pleasure to see you again, my love."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/11
+msgctxt "Lady Memoria"
+msgid "There are no more memories to go through right now..."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/19
+msgctxt "Lady Memoria"
+msgid "But we can make some new ones, if you'd like."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/27/s/0
+msgctxt "Choix"
+msgid "How about a little kiss?"
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/28/s/0
+msgctxt "Choix"
+msgid "You can make some new ones... I can Realize you!"
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "Little?"
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yep. Just a little one."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Oh hell with it. A great big kiss."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/c-0/7
+msgctxt "Lady Memoria"
+msgid "Of course, my love."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/c-0/15
+msgctxt "Narrator"
+msgid "Memoria gives you a kiss that's both everything you've ever needed and not quite enough. Perhaps you should have asked for a little more..."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/c-0/34
+msgctxt "Lady Memoria"
+msgid "I hope it haunts you..."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/c-1/7
+msgctxt "Lady Memoria"
+msgid "Oh you lovely risk taker."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/c-1/15
+msgctxt "Lady Memoria"
+msgid "Hang onto your hat..."
+msgstr ""
+
+#: memoria_memories/memoria_love_return/0/c-0/15/c-1/23
+msgctxt "Narrator"
+msgid "Memoria gives you a kiss that is sure to land in your own romantic hall of fame—a true all-timer."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/0/b/1
+msgctxt "Lady Memoria"
+msgid "Oh, Cameron. You get so sour when you're annoyed. What a yummy little sucking candy you are."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/11
+msgctxt "Lady Memoria"
+msgid "Anyway. Hello, my friend."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/19
+msgctxt "Lady Memoria"
+msgid "What brings you back to see me?"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/27
+msgctxt "Lady Memoria"
+msgid "Please tell me you've got something dark and unpleasant to deal with and you need a teammate?"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/35/s/0
+msgctxt "Choix"
+msgid "Nothing like that. Just saying hello!"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/36/s/0
+msgctxt "Choix"
+msgid "Could be dark and unpleasant if you want... I'd like to Realize you!"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "Huh. Isn't that... sweet."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "Well, you've done that now, so... goodbye."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/0
+msgctxt "Lady Memoria"
+msgid "So anyhow."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/8
+msgctxt "Lady Memoria"
+msgid "What can I do for you? Or did you come to do something for me?"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/16
+msgctxt "Lady Memoria"
+msgid "Either way, I have a feeling it may involve remembering something."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/24/s/0
+msgctxt "Choix"
+msgid "Maybe remembering how to do a high five? Just came to give you one?"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/25/s/0
+msgctxt "Choix"
+msgid "How about remembering your excitement? I'd like to Realize you!"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "A high what?"
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "High Five. It's... nevermind."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/c-0/15/c-0/7
+msgctxt "Lady Memoria"
+msgid "Yes. I think neverminding is best."
+msgstr ""
+
+#: memoria_memories/memoria_friend_return_candy/0/c-0/15/c-0/15
+msgctxt "Lady Memoria"
+msgid "We're still friends, though. Don't worry."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/8/s/0
+msgctxt "Choix"
+msgid "Yep!"
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/9/s/0
+msgctxt "Choix"
+msgid "Memoria, I keep you up here... because you are precious to me. And I want you to be safe. (USE POISE CANDY)"
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-0/8
+msgctxt "Lady Memoria"
+msgid "You're almost masochistic to show your face here."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-0/16
+msgctxt "Lady Memoria"
+msgid "Normally, I would appreciate that."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-0/24
+msgctxt "Lady Memoria"
+msgid "But in your case... no."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "Oh, I see. I'm too treasured and delicate to be out there in the real world, am I?"
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-1/15
+msgctxt "Lady Memoria"
+msgid "You have sorely misjudged me."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-1/23
+msgctxt "Lady Memoria"
+msgid "I'm much tougher than you think."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-1/31
+msgctxt "Lady Memoria"
+msgid "But frankly, I can't stomach the idea of you coming up here and trying to \"make it up to me\" anymore."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-1/39
+msgctxt "Lady Memoria"
+msgid "So fine. Friend. I'll be precious. And alone. AND overcrowded."
+msgstr ""
+
+#: memoria_memories/memoria_hate_return/0/c-1/47
+msgctxt "Lady Memoria"
+msgid "Now go away."
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/0
+msgctxt "Lady Memoria"
+msgid "Realize me. Me. Really."
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/8
+msgctxt "Lady Memoria"
+msgid "You think that's safe?"
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/16
+msgctxt "Lady Memoria"
+msgid "The embodiment of all your memories running around in the real world, unchecked? Unmonitored?"
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/24
+msgctxt "Lady Memoria"
+msgid "You're braver than I thought."
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/32
+msgctxt "Lady Memoria"
+msgid "Well, I'm not going to give you time to change your mind."
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/40
+msgctxt "Lady Memoria"
+msgid "I'm ready. Now."
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/57/s/0
+msgctxt "Choix"
+msgid "Yes. Right now!"
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/58/s/0
+msgctxt "Choix"
+msgid "Not quite yet. Few more things to gather, but I'll come back!"
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/c-1/10
+msgctxt "Lady Memoria"
+msgid "So you came to me with a promise before you could fulfill it...?"
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/c-1/18
+msgctxt "Lady Memoria"
+msgid "How excellently disappointing."
+msgstr ""
+
+#: memoria_memories/memoria_realize_join/0/c-1/26
+msgctxt "Lady Memoria"
+msgid "You know where I'll be, when you're ready."
+msgstr ""
+
+#: memoria_memories/memoria_realize_return/0/0/b/1
+msgctxt "Lady Memoria"
+msgid "Yes, yes, anyway. Lucky you... I do love when you antagonize me."
+msgstr ""
+
+#: memoria_memories/memoria_realize_return/0/3
+msgctxt "Lady Memoria"
+msgid "Ah, there you are. Are you ready yet?"
+msgstr ""
+
+#: memoria_memories/memoria_realize_return/0/20/s/0
+msgctxt "Choix"
+msgid "Yes, I am. Let's go!"
+msgstr ""
+
+#: memoria_memories/memoria_realize_return/0/21/s/0
+msgctxt "Choix"
+msgid "Almost. So close!"
+msgstr ""
+
+#: memoria_memories/memoria_realize_return/0/c-1/10
+msgctxt "Lady Memoria"
+msgid "Ooh you do keep me on edge, don't you."
+msgstr ""
+
+#: memoria_memories/memoria_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "First up - Realizing your memories... I hope this works!"
+msgstr ""
+
+#: memoria_memories/memoria_realize_begin/9
+msgctxt "Skylar"
+msgid "Lady Memoria, your kingdom awaits."
+msgstr ""
+
+#: memoria_memories/memoria_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a memory, becomes...."
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/3
+msgctxt "Narrator"
+msgid "Memoria's reaction to her transformation is a bit muted, but amazed in her own unique way. She inspects her new body with quiet wonder."
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/11
+msgctxt "Lady Memoria"
+msgid "Well would you look at that."
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/19
+msgctxt "Lady Memoria"
+msgid "I... I'm human."
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/27
+msgctxt "Lady Memoria"
+msgid "I have authority. I have a body. I can do whatever I want!"
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/35
+msgctxt "Lady Memoria"
+msgid "I... oh my god, I think I feel... excited? Is that what this is? It's marvelous!"
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/46
+msgctxt "Lady Memoria"
+msgid "I have all my beautiful twisty darkness... and also this lightness. This bright feeling of... possibility."
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/54
+msgctxt "Lady Memoria"
+msgid "And I can choose. Isn't that something. I can make my own choices now."
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/62/s/0
+msgctxt "Choix"
+msgid "I know you're going to make some great ones."
+msgstr ""
+
+#: memoria_memories/memoria_realized/0/63/s/0
+msgctxt "Choix"
+msgid "But my sexy twisty lady isn't gone forever... I hope..."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/3
+msgctxt "Lady Memoria"
+msgid "My darling. Never fear."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/11
+msgctxt "Lady Memoria"
+msgid "The lightness I can feel now only intensifies the gothic fog we love to live under."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/19
+msgctxt "Lady Memoria"
+msgid "And I am more than a memory now, my love."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/27
+msgctxt "Lady Memoria"
+msgid "Tell me. Can you see me now, here, in front of you."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/35
+msgctxt "Lady Memoria"
+msgid "But do you also remember me? The way I used to be?"
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/43/s/0
+msgctxt "Choix"
+msgid "Of course I can."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/44/s/0
+msgctxt "Choix"
+msgid "Weirdly, not really. I see only you."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/c-0/7
+msgctxt "Lady Memoria"
+msgid "I thought so."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/c-0/15
+msgctxt "Lady Memoria"
+msgid "I really will fill your mind, then, my love... and your heart."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/c-1/7
+msgctxt "Lady Memoria"
+msgid "I think that's perfect."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/c-1/15
+msgctxt "Lady Memoria"
+msgid "It is only us here, after all."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/g-0/0
+msgctxt "Narrator"
+msgid "What followed was an unexpected combination of the gentle and the macabre, the dark and the floating delicious."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/g-0/11
+msgctxt "Narrator"
+msgid "Memoria knew you, you see, better than anyone else. She used her knowledge but didn't abuse it. She used your body, but didn't abuse that, either."
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/g-0/19
+msgctxt "Narrator"
+msgid "And by the end of the night, there had been so much sensation that the most you could muster as Memoria left the house for the last time was a clear-eyed and calm \"Goodbye, my darling.\""
+msgstr ""
+
+#: memoria_memories/memoria_love_divert/0/g-0/27
+msgctxt "Narrator"
+msgid "She looked back at you and smiled. The Dark Sphinx."
+msgstr ""
+
+#: memoria_memories/memoria_love_join/0
+msgctxt "Narrator"
+msgid "Memoria wasted very little time; which was unsurprising."
+msgstr ""
+
+#: memoria_memories/memoria_love_join/8
+msgctxt "Narrator"
+msgid "She took the reins on her new life by becoming what we would know as an organizational expert. She became a clutter-clearer, a digger-down to what was truly meaningful in a person's life and placing it front and center."
+msgstr ""
+
+#: memoria_memories/memoria_love_join/16
+msgctxt "Narrator"
+msgid "Others had come before her, of course, but no one that came after her even approached her caliber. She reinvented the field."
+msgstr ""
+
+#: memoria_memories/memoria_love_join/24
+msgctxt "Narrator"
+msgid "It was something about her darkness, she believed. True organization, the centering of what a person loved and valued the most, could not be a simple process of joyfulness, fulfillment, or esteem."
+msgstr ""
+
+#: memoria_memories/memoria_love_join/32
+msgctxt "Narrator"
+msgid "It had also to encompass fears and psychic twistedness. She believed that a large part of our preferred structure of life came from our darkness."
+msgstr ""
+
+#: memoria_memories/memoria_love_join/40
+msgctxt "Narrator"
+msgid "Judging from her results, and her burgeoning cadre of satisfied clients, she had a point."
+msgstr ""
+
+#: memoria_memories/memoria_love_join/48
+msgctxt "Narrator"
+msgid "She called her company MemoRandom; because it was the most unexpected, and often the most disturbing memories that could lead us into our new futures."
+msgstr ""

@@ -1,0 +1,4404 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: tbc_ui/tbc_debug_mode/4
+msgctxt "Textbox-chan"
+msgid "Let's turn on my debug to make sure that all these return states generate correctly!"
+msgstr ""
+
+#: tbc_ui/tbc_debug_mode/9
+msgctxt "Textbox-chan"
+msgid "All 50 will now play - let's make sure there's no white squares!"
+msgstr ""
+
+#: tbc_ui/tbc_debug_mode/65
+msgctxt "Textbox-chan"
+msgid "Phew! That was a lot of emoting QA-kun!! Hope it went okay!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/6
+msgctxt "???"
+msgid "<w>Hewooo~!</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/11/s/0
+msgctxt "Choix"
+msgid "Where is that coming from..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/c-0/7
+msgctxt "???"
+msgid "<w>Hewo!</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/c-0/12/0/s/0
+msgctxt "Choix"
+msgid "'Hewo'?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/c-0/12/1/s/0
+msgctxt "Choix"
+msgid "Speak normal."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/c-0/12/2/s/0
+msgctxt "Choix"
+msgid "Hewooo out there!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/c-0/12/c-0/7
+msgctxt "???"
+msgid "Hewo! It's me!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/c-0/12/c-1/7
+msgctxt "???"
+msgid "Oh, oh, sorry about that! It's me!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-0/3
+msgctxt "Textbox-Chan"
+msgid "ヽ(ﾟДﾟ)ﾉ┌┛ What's up! I'm Textbox-chan!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-0/17
+msgctxt "Narrator"
+msgid "A stranger that appears to be cuteness personified jump-kicks into your view, striking a pose so adorable it makes you just a little dizzy."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Textbox... -chan?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Yooo it's the text box made into an anime lady!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "Yup! Gee, those dateviators really can transform anything!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/8
+msgctxt "Textbox-chan"
+msgid "Wait, we should use it on THE SUN!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/16
+msgctxt "Textbox-chan"
+msgid "Think that would work?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "The beam thing doesn't go out the windows..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "I don't want to date the sun... if I can date you..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-3/7
+msgctxt "Textbox-chan"
+msgid "That's okay - it'll happen someday. (๑❛ ▿ ◠๑)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-3/15
+msgctxt "Textbox-chan"
+msgid "Maybe DLC or something!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/7
+msgctxt "Textbox-chan"
+msgid "Oh! Well if you want to know the way to my heart. ♡(´ᵕ`✿)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/15
+msgctxt "Textbox-chan"
+msgid "You have to do one thing..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "Flirt?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/1/s/0
+msgctxt "Choix"
+msgid "Fight?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/2/s/0
+msgctxt "Choix"
+msgid "Read?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/3/s/0
+msgctxt "Choix"
+msgid "Click options?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "Ummm... not really. ò_ô"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-0/18
+msgctxt "Textbox-chan"
+msgid "As the UI, I love transforming ideas into words!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-1/7
+msgctxt "Textbox-chan"
+msgid "Ha! As if you could beat me in single combat. ò_ô"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-1/15
+msgctxt "Textbox-chan"
+msgid "I contain all the highest stats. Take a look at these!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-1/26
+msgctxt "Textbox-chan"
+msgid "No matter how many exploits you do - they still have to be shown in UI first! (ง •̀ ω•́)ง"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-1/34/0/s/0
+msgctxt "Choix"
+msgid "Attack?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-1/34/1/s/0 tbc_ui/Textbox_Chan_1/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Makes sense to me."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-1/34/c-0/7
+msgctxt "Textbox-chan"
+msgid "0 damage..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-1/34/c-0/15
+msgctxt "Textbox-chan"
+msgid "Let's move on, okay?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-2/7
+msgctxt "Textbox-chan"
+msgid "Read! I love transforming ideas into words!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-3/7
+msgctxt "Textbox-chan"
+msgid "That's right!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-3/18
+msgctxt "Textbox-chan"
+msgid "Well. Hopefully the right ones. The ones that are making sure you pay attention."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/0
+msgctxt "Textbox-chan"
+msgid "Even though UI is on the surface... the ideas being conveyed are anything but."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "What's UI?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "I don't know... this game seems kinda surface level to me."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/19
+msgctxt "Textbox-chan"
+msgid "User Interface! I help you talk to everyone here! (*^.^*)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/27
+msgctxt "Textbox-chan"
+msgid "If it weren't for me... you'd never be able to talk to anyone..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/35
+msgctxt "Textbox-chan"
+msgid "Or even quit the game...! (◍°o°◍)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/43/0/s/0
+msgctxt "Choix"
+msgid "That's terrifying!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/43/1/s/0
+msgctxt "Choix"
+msgid "Seems kinda useful I guess."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/43/c-0/7
+msgctxt "Textbox-chan"
+msgid "Trapped in here forever..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/43/c-0/15
+msgctxt "Textbox-chan"
+msgid "At least you'd have good company! ( *∵* )"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-5/43/c-1/7
+msgctxt "Textbox-chan"
+msgid "I like to think I am!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-7/7
+msgctxt "Textbox-chan"
+msgid "Then I'm not doing as good a job as I can."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-2/c-7/15
+msgctxt "Textbox-chan"
+msgid "I can always work harder!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/0
+msgctxt "Textbox-chan"
+msgid "Look... I know you've been staring at me this whole time... which is the point!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/8
+msgctxt "Textbox-chan"
+msgid "But remember: my advice is to listen to what I have to say, not just admire my pretty colors. (´｡• ᵕ •｡`)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/16/s/0
+msgctxt "Choix"
+msgid "You got it, Textbox-chan!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/17/s/0
+msgctxt "Choix"
+msgid "Eh, we'll see."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/c-8/7
+msgctxt "Textbox-chan"
+msgid "Yay!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/c-9/13
+msgctxt "Textbox-chan"
+msgid "Hm... now where did I put the..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/c-9/21
+msgctxt "Textbox-chan"
+msgid "Gah, let's see... Oh! Here it is!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/c-9/40/0/s/0
+msgctxt "Choix"
+msgid "A g-gun??"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/c-9/40/1/s/0
+msgctxt "Choix"
+msgid "Do your worst, UI lady."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/c-9/40/g-0/0
+msgctxt "Textbox-chan"
+msgid "Bye bye."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-3/c-9/40/g-0/8 tbc_ui/Textbox_Chan_1/0/g-5/16
+msgctxt "Textbox-chan"
+msgid "Come talk to me again after you've awakened SIXTEEN dateables!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/0
+msgctxt "Textbox-chan"
+msgid "How are your dates going by the way?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/8
+msgctxt "Textbox-chan"
+msgid "I hope I've been helpful so far!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "You've been super helpful!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "You've been doing a standard job."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/18/s/0
+msgctxt "Choix"
+msgid "Not great."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/c-10/13
+msgctxt "Textbox-chan"
+msgid "You're super welcome! (*^.^*)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/c-11/7
+msgctxt "Textbox-chan"
+msgid "Okay! There's always room to improve."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-4/c-12/7
+msgctxt "Textbox-chan"
+msgid "Oh! I'm sorry. I'll try to do my best to make things more readable and accessible for you in future updates."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-5/0
+msgctxt "Textbox-chan"
+msgid "Just know that you can count on me in your romantic quests!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-5/8
+msgctxt "Textbox-chan"
+msgid "Now, I'll leave you to it!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-5/24
+msgctxt "Textbox-chan"
+msgid "Then just put on those specs and tap that phantom word box you've never questioned before!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-5/32/s/0
+msgctxt "Choix"
+msgid "Why sixteen?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-5/33/s/0 tbc_ui/TBInterview/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "I've already done that!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-5/c-14/7
+msgctxt "Textbox-chan"
+msgid "Well then come back later! I can't have you see all my content in one go!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-5/c-14/15
+msgctxt "Textbox-chan"
+msgid "A UI still has to leave something to the imagination... ┬┴┬┴┤ ͜ʖ ͡°) ├┬┴┬┴"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_1/0/g-6/0
+msgctxt "Textbox-chan"
+msgid "Ttyl! ★⌒ Ｙ⌒Ｙ⌒Ｙ⌒Ｙ⌒ ヾ(oﾟДﾟ)ﾉ"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/3/b/1 tbc_ui/Textbox_Chan_3/0/3/b/1 tbc_ui/Textbox_Chan_4/0/3/b/1 tbc_ui/Textbox_Chan_5/0/3/b/1
+msgctxt "Textbox-chan"
+msgid "Hey! You haven't found enough dateables yet. Try me again after!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/12/b/1
+msgctxt "Textbox-chan"
+msgid "Hey, hey! ＼(＾▽＾*) Hi!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/15
+msgctxt "Textbox-chan"
+msgid "Oho~ So you've met fourteen dateables?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/23/s/0
+msgctxt "Choix"
+msgid "I thought you wanted me to find 16 dateables?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/24/s/0
+msgctxt "Choix"
+msgid "Sure have!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Oh!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "Uhhhh..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "The harem continues to grow! (*≧∇◕)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "It sure does!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "That's gross."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/13/s/0
+msgctxt "Choix"
+msgid "I'm here to make friends, not a harem!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/14/s/0
+msgctxt "Choix"
+msgid "I'm talking with everyone here so I can destroy their souls one by one."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/c-3/7
+msgctxt "Textbox-chan"
+msgid "Don't worry! I'm not judging."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/c-3/15
+msgctxt "Textbox-chan"
+msgid "I am always on your side, remember? ✽-( ˘▽˘ ❁)/✽"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/c-4/7
+msgctxt "Textbox-chan"
+msgid "A friend-harem, I meant. ✽-( ˘▽˘ ❁)/✽"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-0/c-5/15
+msgctxt "Textbox-chan"
+msgid "Not my style... but that's your choice I guess."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "Oh... survey time!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/8
+msgctxt "Textbox-chan"
+msgid "How would you rate your textbox user-interface design?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Could look cleaner."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "It's great on the eyes!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "Why do I feel like this is a trick?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "She's gorgeous..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-6/15 tbc_ui/Textbox_Chan_2/0/g-1/c-7/15 tbc_ui/Textbox_Chan_2/0/g-1/c-9/15/c-2/15
+msgctxt "Textbox-chan"
+msgid "Great! Your response has been recorded."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-8/7
+msgctxt "Textbox-chan"
+msgid "Mm-mmm! No tricks, I swear!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-9/7
+msgctxt "Textbox-chan"
+msgid "Oh, thank you! Though I meant accessibility-wise.."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-9/15/0/s/0
+msgctxt "Choix"
+msgid "You're so pretty."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-9/15/1/s/0
+msgctxt "Choix"
+msgid "I can read it okay, thank you!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-9/15/2/s/0
+msgctxt "Choix"
+msgid "Needs work, honestly."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-9/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Ugh. Okay I suppose I can take that as a 'working as intended.' (—_—)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-1/c-9/15/c-1/7
+msgctxt "Textbox-chan"
+msgid "Perfect!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/0
+msgctxt "Textbox-chan"
+msgid "Anyway!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/8
+msgctxt "Textbox-chan"
+msgid "With all the new peeps you've been meeting, your listening (and reading) skills must be off the charts!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/16
+msgctxt "Textbox-chan"
+msgid "So be honest with me..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/24
+msgctxt "Textbox-chan"
+msgid "Are you the type of person to skip text and dialogue?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "No! I read every single word."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "What? Me? I would... never..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/34/s/0 tbc_ui/Textbox_Chan_3/0/g-3/5/s/0
+msgctxt "Choix"
+msgid "<i>Skip</i>."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-10/13
+msgctxt "Textbox-chan"
+msgid "Yes! I know you do!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-10/21
+msgctxt "Textbox-chan"
+msgid "I get an alert every time you click 'next' and they're pretty spaced out."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-10/29
+msgctxt "Textbox-chan"
+msgid "I really... really appreciate a person like you! (^◡^)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/7
+msgctxt "Textbox-chan"
+msgid "Is that so?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/15
+msgctxt "Textbox-chan"
+msgid "Because I get an alert every time you click next and you are button-mashing like crazy!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/26
+msgctxt "Textbox-chan"
+msgid "Love isn't a race, dude."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/34
+msgctxt "Textbox-chan"
+msgid "(-‸ლ) Well, whatever. As long as my texts are still useful to you..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/42/0/s/0
+msgctxt "Choix"
+msgid "They totally are!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/42/1/s/0
+msgctxt "Choix"
+msgid "They aren't."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/42/c-0/7
+msgctxt "Textbox-chan"
+msgid "Oh! Really?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/42/c-0/15
+msgctxt "Textbox-chan"
+msgid "I'm glad to hear that. (^◡^)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-11/42/c-1/7
+msgctxt "Textbox-chan"
+msgid "Very funny. (❁*ᵕ*)︻╦╤─"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-12/7
+msgctxt "Textbox-chan"
+msgid "Oh! Okay!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-12/15
+msgctxt "Textbox-chan"
+msgid "There's nothing wrong with skipping dialogue. (o^ ^o)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-12/23
+msgctxt "Textbox-chan"
+msgid "If the voiceover speed isn't to your liking, or we aren't saying something interesting, then it's fine to move forward faster!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-12/31
+msgctxt "Textbox-chan"
+msgid "That's why I have given you the ultimate power..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_2/0/g-2/c-12/39
+msgctxt "Textbox-chan"
+msgid "To skip!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/0
+msgctxt "Textbox-chan"
+msgid "Alright, your turn!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/8/s/0
+msgctxt "Choix"
+msgid "Turn to do what?"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "To ask me a question, duh!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "It's not fair that I just ask you questions all the time, right?"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/23
+msgctxt "Textbox-chan"
+msgid "So ask away!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "What is your biggest pet peeve?"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "What is your greatest fear?"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/2/s/0
+msgctxt "Choix"
+msgid "What's the most NSFW thing you've had to convert into text?"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/3/s/0
+msgctxt "Choix"
+msgid "I don't have any questions."
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/13
+msgctxt "Textbox-chan"
+msgid "Oh that's easy."
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/21
+msgctxt "Textbox-chan"
+msgid "The way my parser works is dependent on the name of each character followed by two colons."
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/29
+msgctxt "Textbox-chan"
+msgid "If there's a typo anywhere, I won't be able to connect to all the great art and things get all messed up!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/37
+msgctxt "Textbox-chan"
+msgid "Like this!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/48
+msgctxt "Narration / joueur"
+msgid "Textbox-chan: Or this! There's only one colon here and they forgot to record my voiceover line!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/56/0/s/0
+msgctxt "Choix"
+msgid "I'm sorry to hear that!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/56/1/s/0
+msgctxt "Choix"
+msgid "I wish I could help your colons!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/56/c-0/7
+msgctxt "Textbox-chan"
+msgid "It's okay. We even have parsers for the parsers. So hopefully we found every. Single. One."
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-0/56/c-1/18
+msgctxt "Textbox-chan"
+msgid "We're going to move on from that conversation!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-1/13
+msgctxt "Textbox-chan"
+msgid "I can handle almost anything that comes up word-wise!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-1/21
+msgctxt "Textbox-chan"
+msgid "Though I do have my limits..."
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-1/29
+msgctxt "Textbox-chan"
+msgid "If there ever comes up a line that's way too long and I can't divide the thoughts into smaller thoughts, I'll unfortunately have to do my best to convince the writer to reword something or maybe find a less detailed way to put it. But unfortunately, sometimes writers can be really stub (๑•̀ㅂ•́)و✧"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-1/40/0/s/0
+msgctxt "Choix"
+msgid "Oh man. Fortunately I'm always able to put my thoughts succinctly into the box, and there's never a problem communicating what I need to you! No matter my thoughts at a particular time, I always feel that there's an option that works for me, word for word, letter for letter. In fact, it can sometimes be troubling having to choose between two very good options! We certainly make a great team, Textbox-chan!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-1/40/1/s/0
+msgctxt "Choix"
+msgid "Huh."
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-1/40/g-0/0
+msgctxt "Textbox-chan"
+msgid "Fortunately that's never been an issue!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-2/13
+msgctxt "Textbox-chan"
+msgid "That's a great question!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-2/61/0/s/0
+msgctxt "Choix"
+msgid "Are you gonna answer me?"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-3/7
+msgctxt "Textbox-chan"
+msgid "Oh. Okay!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/c-0/31/c-3/15 tbc_ui/Textbox_Chan_3/0/g-5/0
+msgctxt "Textbox-chan"
+msgid "Ttyl~! ★⌒ Ｙ⌒Ｙ⌒Ｙ⌒Ｙ⌒ ヾ(oﾟДﾟ)ﾉ"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "Chatting time is over! Come back after you've awakened FORTY-ONE dateables!!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Okay, see ya!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/g-0/c-2/7
+msgctxt "Textbox-chan"
+msgid "Oh well then come back later - gimme a chance to take a breather!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/g-0/c-2/15
+msgctxt "Textbox-chan"
+msgid "I'm not used to actually speaking from the heart, and not through the others!"
+msgstr ""
+
+#: tbc_ui/TBInterview/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "Ttyl~! See ya!!! ★⌒ Ｙ⌒Ｙ⌒Ｙ⌒Ｙ⌒ ヾ(oﾟДﾟ)ﾉ"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/23/s/0
+msgctxt "Choix"
+msgid "Hey, Textbox-chan! Are you okay?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/24/s/0
+msgctxt "Choix"
+msgid "Uh-oh. I'm just gonna... go."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/c-0/24/0/s/0
+msgctxt "Choix"
+msgid "Oh no - I'm so sorry!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/0 tbc_ui/Textbox_Chan_4/0/g-0/c-3/7
+msgctxt "Textbox-chan"
+msgid "Huh?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/8
+msgctxt "Textbox-chan"
+msgid "Oh... sorry!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/19
+msgctxt "Textbox-chan"
+msgid "I was just doing some of my, ahem, acting practice!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/27
+msgctxt "Textbox-chan"
+msgid "UI is more than just the text - it's the little transitions and animations too!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/35/s/0
+msgctxt "Choix"
+msgid "Yeah, I knew that."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/36/s/0
+msgctxt "Choix"
+msgid "That's really cool!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/c-2/7
+msgctxt "Textbox-chan"
+msgid "Oh, great!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-0/c-3/7
+msgctxt "Textbox-chan"
+msgid "I think so too."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "I love the little animations, and they help the others here show their emotions in a more reactive way than what might be conveyed through art alone..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/8
+msgctxt "Textbox-chan"
+msgid "And practicing can be fun! (♡˙︶˙♡)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Can you show me all your emotions?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Yeah, I can imagine that."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/19
+msgctxt "Textbox-chan"
+msgid "I would love to!! (^◡^) Let's go!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/33
+msgctxt "Textbox-chan"
+msgid "Okay... lights up... and..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/41
+msgctxt "Textbox-chan"
+msgid "Action!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/52
+msgctxt "Textbox-chan"
+msgid "<w>Joy</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/63
+msgctxt "Textbox-chan"
+msgid "<w>Sadness</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/74
+msgctxt "Textbox-chan"
+msgid "<w>Anger</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/85
+msgctxt "Textbox-chan"
+msgid "<w>Fright</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/96
+msgctxt "Textbox-chan"
+msgid "<w>Disappointment</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/107
+msgctxt "Textbox-chan"
+msgid "<w>Love</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/118
+msgctxt "Textbox-chan"
+msgid "<w>Big Love</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/129
+msgctxt "Textbox-chan"
+msgid "<w>VIOLENCE</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/140
+msgctxt "Textbox-chan"
+msgid "And... scene!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/154
+msgctxt "Textbox-chan"
+msgid "What do you think!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/0/s/0
+msgctxt "Choix"
+msgid "That was really fun!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/1/s/0
+msgctxt "Choix"
+msgid "Sorry... I always doze off during plays."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm so happy you liked it! (⌒_⌒;)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/15
+msgctxt "Textbox-chan"
+msgid "I don't show this to everyone..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/26
+msgctxt "Textbox-chan"
+msgid "But I won a UImmy for my versatility!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "So cool!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/37/1/s/0
+msgctxt "Choix"
+msgid "Those things are rigged."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/37/c-0/13
+msgctxt "Textbox-chan"
+msgid "Yayyy!!!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/37/c-1/13
+msgctxt "Textbox-chan"
+msgid "Oh. Okay... (￣ヘ￣)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-1/13
+msgctxt "Textbox-chan"
+msgid "Ha! Ha ha ha."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-1/24
+msgctxt "Textbox-chan"
+msgid "Ha."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/0
+msgctxt "Textbox-chan"
+msgid "So you've been meeting more dateables, huh?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/8
+msgctxt "Textbox-chan"
+msgid "How's that going? Anyone catch your eye? ⃛ヾ(๑❛ ▿ ◠๑)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "Yes. They're so hot."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "No. Not yet."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "Maybe. But I'm not sure."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/c-6/7
+msgctxt "Textbox-chan"
+msgid "Oh ho ho~! Is that so? ┬┴┬┴┤ ͜ʖ ͡°) ├┬┴┬┴"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/c-7/7
+msgctxt "Textbox-chan"
+msgid "Well, there are 101 of us in total. You got options. (*＾-‘) 乃"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-2/c-8/7
+msgctxt "Textbox-chan"
+msgid "Take your time then! Remember, don't settle!（‐＾ ▽ ＾‐）"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/0/b/1
+msgctxt "Textbox-chan"
+msgid "Well, hey since you've been doing a great job of being curious... I'd love to let you know... that you're doing a <w>great job!</w>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/0/b/9
+msgctxt "Textbox-chan"
+msgid "Being inquisitive - asking questions - listening - these are my favorite things!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/0/b/20
+msgctxt "Textbox-chan"
+msgid "Keep up the good work!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/1/b/1
+msgctxt "Textbox-chan"
+msgid "Well, hey since you haven't been doing a good job of being curious about me, I'd love to offer some advice!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/1/b/9
+msgctxt "Textbox-chan"
+msgid "Really listen to us and hear us out if you want to get us to have a good relationship with you. Even when what they're saying may seem trivial."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/1/b/17
+msgctxt "Textbox-chan"
+msgid "Making an effort to understand where they may be coming from will really help the both of you in the long run."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/4/s/0
+msgctxt "Choix"
+msgid "Thanks. I'll do my best."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/c-9/7
+msgctxt "Textbox-chan"
+msgid "Of course! Remember, I'm always on your side!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/c-10/13
+msgctxt "Textbox-chan"
+msgid "(ToT)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-3/c-10/28
+msgctxt "Textbox-chan"
+msgid "Now get out there and date some more! ＾ω＾"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/0
+msgctxt "Textbox-chan"
+msgid "Find me again after you've awakened SIXTY dateables!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/8/s/0
+msgctxt "Choix"
+msgid "You got it!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/9/s/0
+msgctxt "Choix"
+msgid "But I did that already!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/c-12/7
+msgctxt "Textbox-chan"
+msgid "Don't you know by now? Having the rest in between conversations helps the illusion of time passing!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/c-12/15
+msgctxt "Textbox-chan"
+msgid "Which makes it seem like our relationship is progressing!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/c-12/23
+msgctxt "Textbox-chan"
+msgid "Isn't that a fun thing?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/c-12/31/0/s/0
+msgctxt "Choix"
+msgid "No, I just wanna get through this faster."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/c-12/31/1/s/0
+msgctxt "Choix"
+msgid "I guess so..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_3/0/g-4/c-12/31/c-0/24
+msgctxt "Textbox-chan"
+msgid "Fine. Here we go."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/12
+msgctxt "Textbox-chan"
+msgid "Hi hi! Look at that, you've found 60 dateables!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/23
+msgctxt "Narrator"
+msgid "Despite the visible ☆【~0ᴗ0~♡】☆ in her words, you can tell that Textbox-chan's heart is simply not in it today."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/31/s/0
+msgctxt "Choix"
+msgid "Hey, are you okay?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/32/s/0
+msgctxt "Choix"
+msgid "Anything you need to tell me?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/33/s/0
+msgctxt "Choix"
+msgid "Is whatever is going on with you going to affect our work?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm... I'm fine, really. (-‸-)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/c-1/7
+msgctxt "Textbox-chan"
+msgid "No, no... I'm alright."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/c-2/7
+msgctxt "Textbox-chan"
+msgid "Hey, I'm a professional! U.U I'll always put my feelings aside for the sake of the job!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "You've been doing a lot of running around the house dating, huh?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/8
+msgctxt "Textbox-chan"
+msgid "You're really flying through those text screens!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "And boy are my arms tired."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Over 60 dateables now, yeah."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "What's it to you?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/c-3/15
+msgctxt "Narrator"
+msgid "You can see the sweet little gears turning in her mind."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/c-3/23
+msgctxt "Textbox-chan"
+msgid "Oh... it's that old joke..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/c-3/31
+msgctxt "Textbox-chan"
+msgid "That was cute... <_<;;"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/c-4/7
+msgctxt "Textbox-chan"
+msgid "It's impressive honestly! And so much text to transcribe..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-0/c-5/13
+msgctxt "Textbox-chan"
+msgid "I wasn't judging you or anything? More the opposite."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "I was just thinking, you know..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/8
+msgctxt "Textbox-chan"
+msgid "It's very hard work following you around and transcribing all those different conversations."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/16
+msgctxt "Textbox-chan"
+msgid "And it's my job! I do it happily!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/24
+msgctxt "Textbox-chan"
+msgid "But you know it would mean a lot to know I was doing my job properly."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/32
+msgctxt "Narrator"
+msgid "She looks at you hopefully, her yellow eyes shining."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "You're doing great."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "You need to get it together."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/42/s/0
+msgctxt "Choix"
+msgid "You're doing alright."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/c-6/13
+msgctxt "Textbox-chan"
+msgid "Really!? Ahh, I'm so glad you think so. T3T"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/c-7/13
+msgctxt "Textbox-chan"
+msgid "I do?! But I've been doing my best... ;3;"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/c-8/7
+msgctxt "Textbox-chan"
+msgid "Oh... just alright? I understand."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-1/c-8/15
+msgctxt "Textbox-chan"
+msgid "I'll work harder! +3+"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/0
+msgctxt "Textbox-chan"
+msgid "You know it's funny I ended up in this line of work."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/8
+msgctxt "Textbox-chan"
+msgid "I was always really interested in reading and communication."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/16
+msgctxt "Textbox-chan"
+msgid "I was just so in love with the power of the written word bringing people together."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/24
+msgctxt "Textbox-chan"
+msgid "And UI really lets me do that, but..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/32
+msgctxt "Textbox-chan"
+msgid "Everyone is always so concerned with 'does it look cool?'"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/40
+msgctxt "Textbox-chan"
+msgid "Legibility is the most important thing!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/48
+msgctxt "Textbox-chan"
+msgid "But no, all you ever hear people say is 'that UI is so stylish' or 'that UI is ugly as sin'! o3o"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/56/s/0
+msgctxt "Choix"
+msgid "Well what do you expect?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/57/s/0
+msgctxt "Choix"
+msgid "People are all about appearances."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/58/s/0
+msgctxt "Choix"
+msgid "It's so unfair."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-9/13
+msgctxt "Textbox-chan"
+msgid "I mean, hey, I expect this. I get it."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-9/21
+msgctxt "Textbox-chan"
+msgid "I've been around the block, you know... I know nobody has the same appreciation that I do for these things."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-9/29
+msgctxt "Textbox-chan"
+msgid "But a UI can dream... T3T"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-10/7
+msgctxt "Textbox-chan"
+msgid "I know and I wish they weren't."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-10/15
+msgctxt "Textbox-chan"
+msgid "Imagine what we could accomplish if people were half as interested in accessibility and legibility as they were style! +3+"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-10/23
+msgctxt "Textbox-chan"
+msgid "I'd like to live in that world..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-11/13
+msgctxt "Textbox-chan"
+msgid "It is, right!? When I was a young and shiny-eyed UI, I used to have dreams of being the one to change that."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-11/21
+msgctxt "Textbox-chan"
+msgid "But you grow up and you realize some things are bigger than you."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-2/c-11/29
+msgctxt "Textbox-chan"
+msgid "I might not be able to beat most people's opinions on UI, but I can be the best darn UI I can be! └( ＾ω＾ )」"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/0
+msgctxt "Textbox-chan"
+msgid "So look, there's still a bunch more dateables left for you to find."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/8
+msgctxt "Textbox-chan"
+msgid "Why don't you come back once you've found 80?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/16
+msgctxt "Textbox-chan"
+msgid "I'm gonna do the best work I can until then! +3+"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "See you then."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "I don't have much choice, do I..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/26/s/0
+msgctxt "Choix"
+msgid "You're already doing great."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/27/s/0
+msgctxt "Choix"
+msgid "I've done that!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-12/7
+msgctxt "Textbox-chan"
+msgid "See ya! <3"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-13/7
+msgctxt "Textbox-chan"
+msgid "Sure don't! <3 See you later!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-14/7
+msgctxt "Textbox-chan"
+msgid "Aww, thanks! <3 See you later!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-15/7
+msgctxt "Textbox-chan"
+msgid "I can see that..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-15/15/b/1
+msgctxt "Textbox-chan"
+msgid "But it helps when I take breaks in between our little chats! Helps me reset."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-15/15/b/9
+msgctxt "Textbox-chan"
+msgid "See you tomorrow!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-15/16/b/1
+msgctxt "Textbox-chan"
+msgid "And you're the kind who likes to just rush through... huh?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_4/0/g-3/c-15/16/b/9
+msgctxt "Textbox-chan"
+msgid "Okay - here we go! Let's travel through time!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/12
+msgctxt "Textbox-chan"
+msgid "Oh hey! If it isn't the big dater! (/¯–‿･)/¯ Lookitcha!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/20
+msgctxt "Textbox-chan"
+msgid "You've really been testing the limits of UI lately—I've been in overdrive just keeping up. (-｡- ;)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/31
+msgctxt "Textbox-chan"
+msgid "Since you've been staring at my words for quite some time now... I wonder if you could tell me what you think of my font?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/39/s/0
+msgctxt "Choix"
+msgid "Your what?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/40/s/0
+msgctxt "Choix"
+msgid "I don't care about that."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/41/s/0
+msgctxt "Choix"
+msgid "I really love it."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "The font! You know, the way the words look... their aesthetic style!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/c-1/13
+msgctxt "Textbox-chan"
+msgid "What!? You can't say that to a UI!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/c-1/21
+msgctxt "Textbox-chan"
+msgid "Them's fighting words, buddy! (✿❛ω❛)⌐╦╦═─"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/c-2/7
+msgctxt "Textbox-chan"
+msgid "Aaaa I'm so glad you do!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/c-2/18
+msgctxt "Textbox-chan"
+msgid "I put a lot of work into finding just the right one you know! (｡•̀ᴗ-)✧"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "Font selection is such a huge part of communication and it's wild how many players overlook that."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/8
+msgctxt "Textbox-chan"
+msgid "As with a lot of things with UI, most people don't even bother noticing the font when it's good."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/16
+msgctxt "Textbox-chan"
+msgid "But when it's hideous, boy oh boy will people complain about it then!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/24
+msgctxt "Textbox-chan"
+msgid "But nobody says, 'hey Textbox-chan! Love that font!'"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/32
+msgctxt "Textbox-chan"
+msgid "'I can tell you really thought long and hard about what would look best AND be most accessible!'"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "What do you mean by that?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/41/s/0
+msgctxt "Choix"
+msgid "How do you figure out what works best?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/42/s/0
+msgctxt "Choix"
+msgid "I've certainly never thought anything of the sort."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/c-3/7
+msgctxt "Textbox-chan"
+msgid "Accessibility refers to ease of use, obtainability or access really, for people with disabilities."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/c-4/7
+msgctxt "Textbox-chan"
+msgid "There's a few different things to consider, really."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-0/c-5/7
+msgctxt "Textbox-chan"
+msgid "Not cool! You should always be making sure the most people possible can enjoy your work! (๑•̀ㅂ•́)و✧"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "You should be looking at things like font size, how distinct letters are from each other, whether or not there are unnecessary decorative elements..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/8
+msgctxt "Textbox-chan"
+msgid "It doesn't mean you can't make your font look nice, of course, but sometimes people use completely silly or overly ornamental fonts when they don't have to..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/16
+msgctxt "Textbox-chan"
+msgid "...and it really just excludes a whole group of people from whatever it is you're trying to get across!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/24
+msgctxt "Textbox-chan"
+msgid "Even the color you're using can make it harder for some people to read the text... I could go on about this all day, honestly."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/32
+msgctxt "Textbox-chan"
+msgid "The point is there is SO much information that goes into UI and gosh darn it I am trying! (ง •̀ ω•́)ง✧"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "It's really cool hearing this kind of behind the scenes stuff."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "You seem kind of defensive..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/42/s/0
+msgctxt "Choix"
+msgid "Your efforts are seen and appreciated, trust me."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/c-6/13
+msgctxt "Textbox-chan"
+msgid "Aww, thank you. (⪰U⪯) I'm just so glad someone else cares, you know?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/c-7/13
+msgctxt "Textbox-chan"
+msgid "Well heck, wouldn't you be if nobody cared about your work?!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/c-7/21
+msgctxt "Textbox-chan"
+msgid "I never even get to explain this stuff, honestly."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-1/c-8/13
+msgctxt "Textbox-chan"
+msgid "It's so nice to hear you say that... (w^.^w)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-2/0/b/1
+msgctxt "Textbox-chan"
+msgid "Well. I'm getting a little tired from all this unloading on you!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-2/0/b/9
+msgctxt "Textbox-chan"
+msgid "Come back soon, okay?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-2/3
+msgctxt "Textbox-chan"
+msgid "You know I gotta say..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-2/11
+msgctxt "Textbox-chan"
+msgid "It's so nice being able to talk to someone else about this other than Lauren."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-2/19/s/0
+msgctxt "Choix"
+msgid "Who?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-2/c-9/7
+msgctxt "Textbox-chan"
+msgid "Oh sorry, Lauren! My pal Lauren Ipsum."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-3/0/s/0
+msgctxt "Choix"
+msgid "Lauren? Do you mean Lorem Ipsum?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-3/1/s/0
+msgctxt "Choix"
+msgid "I can't believe anyone else would listen to this."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-3/c-10/7
+msgctxt "Textbox-chan"
+msgid "No, I mean LAUREN Ipsum!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-3/c-11/7
+msgctxt "Textbox-chan"
+msgid "Hey! Rude! (｀Д´)ﾉ"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-3/c-11/18
+msgctxt "Textbox-chan"
+msgid "My buddy Lauren Ipsum is always down to talk business."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-3/c-11/26
+msgctxt "Textbox-chan"
+msgid "Goodbye."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/0
+msgctxt "Textbox-chan"
+msgid "Wait, what am I saying? I should just introduce you guys."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/8
+msgctxt "Textbox-chan"
+msgid "Hey, Lauren! Come over here for a minute!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/22
+msgctxt "Narrator"
+msgid "A strange little creature appears from the ether somewhere, settling just above Textbox-chan's hand."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/30
+msgctxt "Lauren"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra magna ut quam varius, pellentesque pulvinar nisi consectetur."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/44
+msgctxt "Lauren"
+msgid "Quisque et lacinia ligula, eu consequat orci. Nulla sed nibh lectus. Proin a interdum enim, sit amet feugiat velit."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/55
+msgctxt "Textbox-chan"
+msgid "Isn't she just the coolest?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/63/s/0
+msgctxt "Choix"
+msgid "What's she saying?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/64/s/0
+msgctxt "Choix"
+msgid "Does she not speak English?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/65/s/0
+msgctxt "Choix"
+msgid "Uhhh..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/66/s/0
+msgctxt "Choix"
+msgid "Can I date her...?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/c-12/7
+msgctxt "Textbox-chan"
+msgid "Nobody knows! I mean, not literally, but..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/c-13/7
+msgctxt "Textbox-chan"
+msgid "Nope! It's sort of latin-y... but not really."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/c-13/15
+msgctxt "Textbox-chan"
+msgid "Her words don't have any literal meaning, but..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/c-14/7
+msgctxt "Textbox-chan"
+msgid "Are you confused by her amazing and iconic words? Don't be!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/c-14/15
+msgctxt "Textbox-chan"
+msgid "The literal meaning isn't important."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-4/c-15/7
+msgctxt "Textbox-chan"
+msgid "Uh... She's not really into all that."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/0
+msgctxt "Textbox-chan"
+msgid "Lauren and I just really kinda communicate with our hearts, you know?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/8
+msgctxt "Textbox-chan"
+msgid "She always knows just what I mean... and I know what she means too."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/16
+msgctxt "Textbox-chan"
+msgid "Her job is to display text so people can make sure their layouts and fonts and all that good stuff look right."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/24
+msgctxt "Textbox-chan"
+msgid "None of the things she says make any actual sense, but nobody tests layout and design quite like she does."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/32
+msgctxt "Textbox-chan"
+msgid "I'm so proud to call her my BFF! （＊＾－＾）人（＾－＾＊）"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/43/s/0
+msgctxt "Choix"
+msgid "I thought I was your BFF..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/44/s/0
+msgctxt "Choix"
+msgid "Should I be jealous?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/45/s/0
+msgctxt "Choix"
+msgid "Well look at that. Even a loser like you has a best friend."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-16/7
+msgctxt "Textbox-chan"
+msgid "Aww, really!? Well hey, I do enjoy talking to you!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-17/7
+msgctxt "Textbox-chan"
+msgid "Of course not! Lauren and I are good friends and that's all."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-17/15
+msgctxt "Textbox-chan"
+msgid "Besides... SHOULD you be jealous? Is there something you need to tell me? ﴾ಠ▾ಠ﴿"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-17/23
+msgctxt "Textbox-chan"
+msgid "Oh, no, no, no, no don't answer that. I won't be able to look at you without blushing... and I got a job to do! (⁄ ⁄-⁄ ▽ ⁄-⁄ ⁄)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-17/34
+msgctxt "Textbox-chan"
+msgid "ANYWAY!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-18/7
+msgctxt "Textbox-chan"
+msgid "Hey, what the heck!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-18/18/b/1
+msgctxt "Textbox-chan"
+msgid "And such a weird comment out of nowhere... I thought we had something going!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-5/c-18/21
+msgctxt "Textbox-chan"
+msgid "For the sake of the job I have to do here I'm just gonna ignore that rude little comment! (｀ε´)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/0
+msgctxt "Textbox-chan"
+msgid "You can go ahead and go Lauren, I'll be right behind you."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/8
+msgctxt "Lauren"
+msgid "Auctor eu augue ut lectus."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/22
+msgctxt "Textbox-chan"
+msgid "It's been nice, but I've gotta get back to work."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/30
+msgctxt "Textbox-chan"
+msgid "Always so much to do when it comes to UI after all... (∩¬ω¬)⊃━☆ﾟ.*"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/38
+msgctxt "Textbox-chan"
+msgid "I think we're really getting to know each other. You can come by anytime. I, uh... might be ready to take our relationship to the next level."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/46/s/0
+msgctxt "Choix"
+msgid "We'll see..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/47/s/0
+msgctxt "Choix"
+msgid "I'm up for it, baby!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/c-19/7
+msgctxt "Textbox-chan"
+msgid "Guess we will, won't we... hehe."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-6/c-20/7
+msgctxt "Textbox-chan"
+msgid "That's the spirit!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_5/0/g-7/0
+msgctxt "Textbox-chan"
+msgid "See you later! ＼(＾▽＾*)"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/3/b/1
+msgctxt "Textbox-chan"
+msgid "Hi hi! I'm so excited to see you!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/4/b/1
+msgctxt "Textbox-chan"
+msgid "Oh, hello! You came back."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/5/b/1
+msgctxt "Textbox-chan"
+msgid "Oh... it's you. The mean one."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/8
+msgctxt "Textbox-chan"
+msgid "Alright, question time! Let's call it a performance review."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/16/s/0
+msgctxt "Choix"
+msgid "Hit me."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/17/s/0
+msgctxt "Choix"
+msgid "A final exam...?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/18/s/0
+msgctxt "Choix"
+msgid "<i>Sigh.</i>"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/c-1/7
+msgctxt "Textbox-chan"
+msgid "Yeah, you could see it that way."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/c-2/7
+msgctxt "Textbox-chan"
+msgid "I'll ignore that...!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "Tell me... what do you really think of me?"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/g-0/9/0
+msgctxt "Textbox-chan"
+msgid "I'm not laughing..."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/g-0/9/11/0/s/0
+msgctxt "Choix"
+msgid "You are so pretty, Textbox-chan. So beautiful and stylish."
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/g-0/9/11/1/s/0
+msgctxt "Choix"
+msgid "I had fun hanging out with you!"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/g-0/9/11/2/s/0
+msgctxt "Choix"
+msgid "I think you have some really great ideas. 【 ﾟ‿ ﾟ 】"
+msgstr ""
+
+#: tbc_ui/Textbox_Chan_6/0/g-0/9/11/3/s/0
+msgctxt "Choix"
+msgid "I don't really like you. Never have. You're annoying."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE_2/0/0
+msgctxt "Textbox-chan"
+msgid "Haha... you're joking, right?"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE_2/0/8/s/0 tbc_ui/textbox_ending_HATE/0/8/s/0
+msgctxt "Choix"
+msgid "Sorry, that was a bad joke."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE_2/0/9/s/0
+msgctxt "Choix"
+msgid "Nope. You suck and you suck to look at and read."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE_2/0/c-1/7/b/1
+msgctxt "Textbox-chan"
+msgid "I thought you were better than that! You were nice to me before..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE_2/0/c-1/18 tbc_ui/textbox_ending_HATE/0/c-1/31
+msgctxt "Textbox-chan"
+msgid "I'm so mad that I could just..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE_2/0/c-1/48
+msgctxt "Textbox-chan"
+msgid "Just leave me alone."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/0
+msgctxt "Textbox-chan"
+msgid "...no. Really?"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/9/s/0
+msgctxt "Choix"
+msgid "I think you're just so hot...? Is that wrong?"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/7
+msgctxt "Textbox-chan"
+msgid "Y... you're not serious, are you!? ( ╬ ಠ 益 ಠ)"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/15
+msgctxt "Textbox-chan"
+msgid "This whole time, I've been helping you and all you care about is how hot I am?"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/23
+msgctxt "Textbox-chan"
+msgid "I thought you were better than that!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/0/s/0
+msgctxt "Choix"
+msgid "You're not actually flipping a table."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/7
+msgctxt "Textbox-chan"
+msgid "I KNOW! This is how I express myself, if you haven't noticed!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/15
+msgctxt "Textbox-chan"
+msgid "I'm leaving. Good luck on your dumb quest."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Does this mean I won't see the UI anymore?"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/23/c-0/18
+msgctxt "Textbox-chan"
+msgid "No matter what, I'm always on your side. Even if you don't feel that way."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/23/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "It doesn't have to be like this!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/23/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "I just wanted to make you feel seen!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/23/c-0/26/c-0/7
+msgctxt "Textbox-chan"
+msgid "I don't care. Just leave me alone."
+msgstr ""
+
+#: tbc_ui/textbox_ending_HATE/0/c-1/53/c-0/23/c-0/26/c-1/7
+msgctxt "Textbox-chan"
+msgid "When all I wanted was to be heard."
+msgstr ""
+
+#: tbc_ui/tbc_hate_joiner/34
+msgctxt "Reggie"
+msgid "I was kinda worried she'd make it so that you can't read what I'm saying anymore."
+msgstr ""
+
+#: tbc_ui/tbc_hate_joiner/42
+msgctxt "Reggie"
+msgid "Glad she left that alone at least."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/0
+msgctxt "Textbox-chan"
+msgid "Hanging out! I like it."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/8
+msgctxt "Textbox-chan"
+msgid "I think we can be really good friends, you and I."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/16/s/0
+msgctxt "Choix"
+msgid "U... and I."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/17/s/0
+msgctxt "Choix"
+msgid "I was hoping for more..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "AHAHAHAHAH! A UI joke... I love it! oAo"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-0/18
+msgctxt "Textbox-chan"
+msgid "Thank you for hearing what I had to say."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-0/26
+msgctxt "Textbox-chan"
+msgid "We textboxes never get to speak our own mind. So you hanging with me means the absolute world."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/7
+msgctxt "Textbox-chan"
+msgid "Aaaa I'm sorry but we're really better as friends, I think. I hope you can be okay with that."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I can't."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I can, yeah. I just need a little time."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Then I guess you and I are just gonna have to be enemies..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "You are SO bad at listening."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I don't care."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "But I'm trying..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "YOU'RE THE WORST!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-0/23/c-1/7
+msgctxt "Textbox-chan"
+msgid "OH WHATEVER!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-1/7
+msgctxt "Textbox-chan"
+msgid "Oh I'm so glad to hear that."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/c-1/15/c-1/15
+msgctxt "Textbox-chan"
+msgid "I really think we're fabulous friends."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/0 tbc_ui/textbox_ending_LOVE/0/g-0/c-2/23
+msgctxt "Textbox-chan"
+msgid "I have to tell you... I've really been enjoying our chats."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/8 tbc_ui/textbox_ending_LOVE/0/g-0/c-1/7
+msgctxt "Textbox-chan"
+msgid "You really make me feel like I can be myself with you."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/16
+msgctxt "Textbox-chan"
+msgid "So from now on when we talk... I promise to be as authentic as I can! (*＞ω＜*)♡!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/27 tbc_ui/textbox_ending_LOVE/0/g-0/c-1/23
+msgctxt "Textbox-chan"
+msgid "I'm gonna tell you just how I feel."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/35/s/0 tbc_ui/textbox_ending_LOVE/0/g-0/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "I'm really glad to hear that."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/36/s/0 tbc_ui/textbox_ending_LOVE/0/g-0/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "It's so important to be able to be yourself."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/c-2/7 tbc_ui/textbox_ending_LOVE/0/g-0/c-1/31/c-0/7
+msgctxt "Textbox-chan"
+msgid "And I'm glad to be able to say it, hehe."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-0/c-3/7 tbc_ui/textbox_ending_LOVE/0/g-0/c-1/31/c-1/7
+msgctxt "Textbox-chan"
+msgid "I agree!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "I gotta get back to work, but I hope you'll come see me again soon!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LIKE/0/g-1/8
+msgctxt "Textbox-chan"
+msgid "Byeee!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/0
+msgctxt "Textbox-chan"
+msgid "(◍°o°◍)"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/8
+msgctxt "Textbox-chan"
+msgid "You really mean that?"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/16
+msgctxt "Textbox-chan"
+msgid "You like me for my ideas?? For what I have to say??"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/24/s/0
+msgctxt "Choix"
+msgid "You know it, Textbox-chan."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "FEEL."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/c-0/23
+msgctxt "Textbox-chan"
+msgid "SEEN!!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "Woah. I feel all sorts of heady right now!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/8
+msgctxt "Narrator"
+msgid "Textbox-chan's cheeks flush prettily—she looks entirely charming."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/24
+msgctxt "Textbox-chan"
+msgid "Phew..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/35
+msgctxt "Textbox-chan"
+msgid "I... love you?"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/43/s/0
+msgctxt "Choix"
+msgid "I'm yours."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/44/s/0
+msgctxt "Choix"
+msgid "I'm sorry, I just want to be friends."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/45/s/0
+msgctxt "Choix"
+msgid "I don't like you like that."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/46/s/0
+msgctxt "Choix"
+msgid "I wish we could be together more too."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-1/15
+msgctxt "Textbox-chan"
+msgid "So from now on when we talk... I promise to be as authentic as I can! (U ω U❁)"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-2/7
+msgctxt "Textbox-chan"
+msgid "That's... that's okay. I'm used to things going like this."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-2/15
+msgctxt "Textbox-chan"
+msgid "I'll be happy if we can be friends! ♡(´ᵕ`✿)"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-2/31
+msgctxt "Textbox-chan"
+msgid "From now on when we see each other... I'm gonna be my fullest self with you!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-2/39
+msgctxt "Textbox-chan"
+msgid "Can't wait to tell you just how I feel..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-3/7
+msgctxt "Textbox-chan"
+msgid "What!? But you just said..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-3/18
+msgctxt "Textbox-chan"
+msgid "Why are you being such a jerk!? I can't handle these mixed messages!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-3/26
+msgctxt "Textbox-chan"
+msgid "Seems like you're leaving me no choice... guess you and I are just gonna have to be enemies???"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-3/34
+msgctxt "Textbox-chan"
+msgid "Argh I hate being so confused!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-0/c-4/7
+msgctxt "Textbox-chan"
+msgid "It's okay. I'll still be with you."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/0
+msgctxt "Textbox-chan"
+msgid "Remember... No matter what, I'm always on your side. ♡(´ᵕ`✿)"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/8
+msgctxt "Textbox-chan"
+msgid "And uh... ummm... if you ever wanted to... sometime..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/16
+msgctxt "Narrator"
+msgid "Somehow, Textbox-chan manages to blush harder."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/24
+msgctxt "Textbox-chan"
+msgid "Under you... on top of you... aaaa it's just so embarrassing to say out loud!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/35
+msgctxt "Textbox-chan"
+msgid "I'm just... not good at this! T3T"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/43/s/0
+msgctxt "Choix"
+msgid "I like you a lot, but I'm not interested in a physical relationship."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/44/s/0
+msgctxt "Choix"
+msgid "I'd like you in all those positions and more."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-5/11
+msgctxt "Textbox-chan"
+msgid "Oh! That's okay with me... I just wanna be with you."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-5/19
+msgctxt "Textbox-chan"
+msgid "I'll be happy as long as we're together."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/7
+msgctxt "Textbox-chan"
+msgid "Oh my god..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/15
+msgctxt "Textbox-chan"
+msgid "I didn't think you were actually going to say yes... I don't even know what to do now."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/23/0/s/0
+msgctxt "Choix"
+msgid "Don't stress it—just do what comes naturally."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/23/1/s/0
+msgctxt "Choix"
+msgid "I'm happy to take the lead."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/23/g-0/0
+msgctxt "Textbox-chan"
+msgid "Hoooo my god. Okay okay okay okay."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/23/g-0/11
+msgctxt "Textbox-chan"
+msgid "I'm just gonna switch topics so I don't burst into flame..."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/0
+msgctxt "Textbox-chan"
+msgid "So listen... I just wanted to thank you."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/8
+msgctxt "Textbox-chan"
+msgid "I've never felt so free to be myself, even when it's super-embarrassing."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/16
+msgctxt "Textbox-chan"
+msgid "So from now on... I'm gonna be my truest self with you!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/24
+msgctxt "Textbox-chan"
+msgid "I'm always gonna tell you how I'm feeling."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "I'd like that."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "It's important to be able to be honest."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/c-7/7
+msgctxt "Textbox-chan"
+msgid "Me too!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-1/c-8/7
+msgctxt "Textbox-chan"
+msgid "I totally agree!"
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-2/0
+msgctxt "Textbox-chan"
+msgid "I'm just so glad I can do that with you."
+msgstr ""
+
+#: tbc_ui/textbox_ending_LOVE/0/g-2/8
+msgctxt "Textbox-chan"
+msgid "I've got to get back to work but... let's hang later, ok? <3"
+msgstr ""
+
+#: tbc_ui/tbc_love_return/0/3
+msgctxt "Textbox-chan"
+msgid "Hey you! (❀≧3≦)♡"
+msgstr ""
+
+#: tbc_ui/tbc_love_return/0/11
+msgctxt "Textbox-chan"
+msgid "Thanks for stopping by."
+msgstr ""
+
+#: tbc_ui/tbc_love_return/0/19/s/0
+msgctxt "Choix"
+msgid "How are you today?"
+msgstr ""
+
+#: tbc_ui/tbc_love_return/0/20/s/0 tbc_ui/tbc_friend_return/0/12/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Textbox-chan!"
+msgstr ""
+
+#: tbc_ui/tbc_love_return/0/21/s/0 tbc_ui/tbc_friend_return/0/13/s/0
+msgctxt "Choix"
+msgid "Just wanted to say thanks for being you!"
+msgstr ""
+
+#: tbc_ui/tbc_love_return/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Hmm... I'm feeling..."
+msgstr ""
+
+#: tbc_ui/tbc_love_return/0/c-2/7 tbc_ui/tbc_friend_return/0/c-2/7
+msgctxt "Textbox-chan"
+msgid "Aww, you're welcome!"
+msgstr ""
+
+#: tbc_ui/tbc_friend_return/0/3
+msgctxt "Textbox-chan"
+msgid "Hewwo!"
+msgstr ""
+
+#: tbc_ui/tbc_friend_return/0/11/s/0
+msgctxt "Choix"
+msgid "How are you feeling today?"
+msgstr ""
+
+#: tbc_ui/tbc_friend_return/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Oooh... let me see how I can display it..."
+msgstr ""
+
+#: tbc_ui/tbc_friend_return/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "I'm feeling...."
+msgstr ""
+
+#: tbc_ui/tbc_hate_return/0/3
+msgctxt "Textbox-chan"
+msgid "Don't talk to me ever again! Go away!"
+msgstr ""
+
+#: tbc_ui/tbc_hate_return/0/14/s/0
+msgctxt "Choix"
+msgid "Fine, I'm out."
+msgstr ""
+
+#: tbc_ui/tbc_hate_return/0/15/s/0
+msgctxt "Choix"
+msgid "Actually, I've done a lot of work on myself, all while staring right at you. (USE SMARTS CANDY)"
+msgstr ""
+
+#: tbc_ui/tbc_hate_return/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "It's bad enough having to be in front of you all the time."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/8
+msgctxt "Textbox-chan"
+msgid "So what? Wanna gloat about everything you've been touching? <(￢0￢)>"
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/16/s/0
+msgctxt "Choix"
+msgid "I wanted to say thanks."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "For what?"
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "For transcribing everyone's words."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "You wouldn't be able to continue without me."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "It's true."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "I'm pretty useful, huh."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Totally."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/15
+msgctxt "Textbox-chan"
+msgid "Look. Maybe I overreacted a bit."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Either way, I'm sorry."
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "Thanks. I really   appreciate that. (*˘︶˘*)"
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/23/c-0/15
+msgctxt "Textbox-chan"
+msgid "Wanna start over?"
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "As friends?"
+msgstr ""
+
+#: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/23/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "As friends.        (｡^‿^｡)"
+msgstr ""
+
+#: tbc_ui/tbc_realize_join/0/0
+msgctxt "Textbox-chan"
+msgid "Wow, a real human? Do you have what it takes?"
+msgstr ""
+
+#: tbc_ui/tbc_realize_join/0/17/s/0 tbc_ui/tbc_realize_return/0/20/s/0
+msgctxt "Choix"
+msgid "Yes, I have what it takes."
+msgstr ""
+
+#: tbc_ui/tbc_realize_join/0/18/s/0 tbc_ui/tbc_realize_return/0/21/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: tbc_ui/tbc_realize_join/0/c-1/10
+msgctxt "Textbox-chan"
+msgid "Okies, no problem! I'll just wait here 'til you're ready. (❀≧3≦)♡"
+msgstr ""
+
+#: tbc_ui/tbc_realize_return/0/3
+msgctxt "Textbox-chan"
+msgid "You're back! You ready now?"
+msgstr ""
+
+#: tbc_ui/tbc_realize_return/0/c-1/10
+msgctxt "Textbox-chan"
+msgid "No worries! (❀≧3≦)♡ I can wait a little longer!"
+msgstr ""
+
+#: tbc_ui/tbc_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Our first Realization is our lovely UI! I hope she leaves behind some of herself so we can still talk..."
+msgstr ""
+
+#: tbc_ui/tbc_realize_begin/9
+msgctxt "Skylar"
+msgid "Let's get you Realized, Textbox-chan! (⌐■_■)"
+msgstr ""
+
+#: tbc_ui/tbc_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely the UI of this game, becomes...."
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/3
+msgctxt "Textbox-chan"
+msgid "Oh my gosh!"
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/14
+msgctxt "Narrator"
+msgid "Textbox-chan gives you a little twirl, looking down at herself in disbelief."
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/22
+msgctxt "Narrator"
+msgid "It's truly mind-blowing to know that what was once your UI is now a living, breathing, human woman—with speech rather than textboxes."
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/30
+msgctxt "Narrator"
+msgid "You can feel your mind unraveling as you try and work out who's transcribing the text you're reading at this very moment, but Textbox-chan's happy laughter stops you from tumbling too far down that rabbit hole."
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/38
+msgctxt "Textbox-chan"
+msgid "I can't believe this! There's so many things I want to try now!"
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/46
+msgctxt "Textbox-chan"
+msgid "I don't need emotes anymore! You can read my facial expressions!"
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/54
+msgctxt "Textbox-chan"
+msgid "You can hear my vocal inflection!"
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/65/s/0
+msgctxt "Choix"
+msgid "I've never needed any of that to know your heart, Textbox-chan."
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/66/s/0
+msgctxt "Choix"
+msgid "Don't forget body language."
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Aww, you!"
+msgstr ""
+
+#: tbc_ui/tbc_realized/0/c-0/15
+msgctxt "Narrator"
+msgid "She gives you a sweet hug, clearly overwhelmed with gratitude."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/0
+msgctxt "Narrator"
+msgid "Your words have an immediate impact on Textbox-chan—she covers her face with her hands."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/8
+msgctxt "Textbox-chan"
+msgid "Kyaaa... it's even more embarrassing when you say things like that now that I actually have a body."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/16
+msgctxt "Narrator"
+msgid "She peeks at you through the cracks of her fingers. You can see that she's blushing."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/24
+msgctxt "Textbox-chan"
+msgid "But, um... now that I do have a body..."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/32
+msgctxt "Textbox-chan"
+msgid "If you wanted to, um, with me..."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/40/s/0
+msgctxt "Choix"
+msgid "I do."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/41/s/0
+msgctxt "Choix"
+msgid "It's alright."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-0/10
+msgctxt "Narrator"
+msgid "Textbox-chan is shy at first, but no less passionate for it. Once she gets over her initial embarrassment she's quite enthusiastic."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-0/21
+msgctxt "Narrator"
+msgid "Sometimes you can practically hear the <3s in her voice as she calls your name; old habits die hard, after all. But her communication is impeccable - even when there are no words exchanged between you at all."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-0/29
+msgctxt "Narrator"
+msgid "By the time you're finished, both of you know just how you feel about each other."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-0/37
+msgctxt "Narrator"
+msgid "Seeing her off in the morning makes your heart ache, but Textbox-chan is her sweet self even when saying goodbye."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-0/45
+msgctxt "Narrator"
+msgid "She assures you you'll be seeing plenty of her even if she's no longer in your home, and you believe her."
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-1/7
+msgctxt "Textbox-chan"
+msgid "Oh god, well, uh... if you change your mind, um... I'd say you know where to find me, but I gotta find myself first!"
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-1/15
+msgctxt "Textbox-chan"
+msgid "I'm gonna make you proud out there, just wait!"
+msgstr ""
+
+#: tbc_ui/tbc_love_divert/0/c-1/23
+msgctxt "Textbox-chan"
+msgid "Get ready for Textbox-chan, world!"
+msgstr ""
+
+#: tbc_ui/tbc_love_join/0
+msgctxt "Narrator"
+msgid "Textbox-chan finds her place in the world within the realm of communications, focusing on localization and accessibility."
+msgstr ""
+
+#: tbc_ui/tbc_love_join/8
+msgctxt "Narrator"
+msgid "Her sweet personality and natural charm make her an excellent public speaker. It's not long before she turns up on the talk circuit, educating some of the world's biggest game studios and aspiring indie developers alike."
+msgstr ""
+
+#: tbc_ui/tbc_love_join/16
+msgctxt "Textbox-chan"
+msgid "Never leave your font selection for last!"
+msgstr ""
+
+#: tbc_ui/tbc_love_join/24
+msgctxt "Textbox-chan"
+msgid "You wouldn't just style your hair five minutes before you leave the house, would you?"
+msgstr ""
+
+#: tbc_ui/tbc_love_join/40
+msgctxt "Textbox-chan"
+msgid "Wait, wait, wait, don't answer that."
+msgstr ""
+
+#: tbc_ui/tbc_love_join/51
+msgctxt "Textbox-chan"
+msgid "But seriously, your font deserves better than a last minute selection from free fonts dot com!"
+msgstr ""
+
+#: tbc_ui/tbc_love_join/59
+msgctxt "Narrator"
+msgid "She stays in constant contact with you, visiting when she can—and as always, her texts are full of adorable emotes."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_1/0/8/s/0
+msgctxt "Choix"
+msgid "Oh boy."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_1/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Fight me!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_1/0/c-0/18
+msgctxt "Textbox-chan"
+msgid "Not you, I mean. Only the figurative you!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_1/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "That's a relief."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_1/0/c-0/26/c-0/7
+msgctxt "Textbox-chan"
+msgid "Of course it is—you don't want any of this, trust me! ( ｡ •̀ ᴖ •́ ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_2/0/8/s/0
+msgctxt "Choix"
+msgid "Aww."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_2/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Feeling blushy today..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_2/0/c-0/15/b/1
+msgctxt "Textbox-chan"
+msgid "Might have thought just a little too hard about you... gahhh! There I go again..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_2/0/c-0/15/b/9
+msgctxt "Textbox-chan"
+msgid "I've been reading this romance novel about a typographer and it's just so spicy!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_2/0/c-0/15/b/17
+msgctxt "Textbox-chan"
+msgid "There's this kerning scene that's just so explicit I..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_2/0/c-0/15/b/25
+msgctxt "Textbox-chan"
+msgid "I can't talk about this anymore I'm gonna melt into a little UI puddle!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_2/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Well we certainly can't have that!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_3/0/8/s/0 tbc_ui/tbc_emoji_42/0/8/s/0
+msgctxt "Choix"
+msgid "Whoah..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_3/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Feeling too cool for school in my sunglasses!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_3/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Sunglasses indoors... you're a real rockstar."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_3/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's right! >ᴗ<"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_4/0/0
+msgctxt "Textbox-chan"
+msgid "VᵔᴥᵔV"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_4/0/8/s/0
+msgctxt "Choix"
+msgid "Oh how cute..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_4/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Like a happy little puppy!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_4/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Don't start barking now..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_4/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Hey, don't make it weird! I'm just feeling adorable. ( ｡ •̀ ᴖ •́ ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_5/0/0
+msgctxt "Textbox-chan"
+msgid "(⌒▽⌒)=b"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_5/0/8/s/0
+msgctxt "Choix"
+msgid "Oh, a thumbs up..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_5/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's right! I'm havin' a good one!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_5/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "So happy to hear that."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_6/0/11/s/0
+msgctxt "Choix"
+msgid "Oh dang! That bad?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_6/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I have HAD IT and this table is going to bear the brunt of my UI RAGE!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_6/0/c-0/18
+msgctxt "Textbox-chan"
+msgid "Just kidding, hehe. But it has been a little frustrating lately! (｡>\\<)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_6/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "I hope it gets better for you..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_6/0/c-0/26/c-0/7
+msgctxt "Textbox-chan"
+msgid "Don't worry, I'll be fine soon enough!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_7/0/8/s/0
+msgctxt "Choix"
+msgid "A... bear?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_7/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "A bear!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_7/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What does that mean?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_7/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "What do you think it means..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_7/0/c-0/15/c-0/15
+msgctxt "Narrator"
+msgid "You and Textbox-chan stare at each other for a few long moments."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_7/0/c-0/15/c-0/23
+msgctxt "Textbox-chan"
+msgid "Exactly. ( •̀ - •́ )"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_8/0/8/s/0
+msgctxt "Choix"
+msgid "Aww.."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_8/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm just feeling happy! I feel great, even!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_8/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Good!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_9/0/8/s/0
+msgctxt "Choix"
+msgid "Wow!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_9/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm feeling SO happy! Fantastic! (*´▽`*)❀."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_9/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Good, you deserve that!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_10/0/8/s/0
+msgctxt "Choix"
+msgid "Oh no, what's wrong?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_10/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "It's just... I finished that romance about the typographer and... it had such a sad ending..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_10/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "Waaa..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_10/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Are you gonna be alright?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_10/0/c-0/26/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm fine, I just need a minute... sniff.."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_11/0/8/s/0
+msgctxt "Choix"
+msgid "Is that... a cat?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_11/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Yeah! I'm feelin' very feline... takin' it all in with my kitty senses! ≽ ^ • ⩊ • ^ ≼"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_11/0/c-0/15/0/s/0 tbc_ui/tbc_emoji_36/0/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Okay..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_11/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Look, just go with it! ( •̀ - •́ )"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_12/0/8/s/0
+msgctxt "Choix"
+msgid "A... cat again?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_12/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "You're getting good at these!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_12/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "Yeah, but this time it's a surprised cat!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_12/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Okay... and the cat part makes a difference in your emotional state?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_12/0/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "Sure it does! After all, it's ADORABLE!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_12/0/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Whatever you say..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_13/0/8/s/0
+msgctxt "Choix"
+msgid "Oh... is everything alright?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_13/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'll be okay! Just feelin' a little shruggy at the moment..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_13/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "A little meh in the deepest reaches of my soul."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_13/0/c-0/23
+msgctxt "Textbox-chan"
+msgid "But I'm ok!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_13/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Alright..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_14/0/8/s/0
+msgctxt "Choix"
+msgid "You're feeling... rectangle mouth?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_14/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Hey! Don't start second-guessing my feelings! ⁽⁽(੭ꐦ •̀Д•́ )੭*⁾⁾"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_14/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "But I'm not-"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_14/0/c-0/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "Sometimes you feel a little rectangle-y! It's a vibe!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_14/0/c-0/18/c-0/15/0/s/0 tbc_ui/tbc_emoji_35/0/c-0/15/c-0/15/0/s/0 tbc_ui/tbc_emoji_44/0/c-0/31/0/s/0 tbc_ui/tbc_pasta/0/c-0/15/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "If you say so..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_15/0/8/s/0
+msgctxt "Choix"
+msgid "Oh... you look like you've seen some things."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_15/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Oh boy have I. Just one of those days."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_15/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "There there..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_15/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'll be alright... eventually."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_16/0/0
+msgctxt "Textbox-chan"
+msgid "o(･ω･o)=з=з"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_16/0/8/s/0
+msgctxt "Choix"
+msgid "Is that... are you farting?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_16/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Omg, ew! Of course not! =з"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_16/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "I'm just feeling, like, emotionally pooty. =з"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_16/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I never knew there were so many different degrees of emotion."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_16/0/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's why I'm the UI and you're not, hehe. ( •◡-)-♡"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_16/0/c-0/23/c-0/15
+msgctxt "Textbox-chan"
+msgid "It takes a lot of knowledge and experience to reduce emotion to a few expressive characters!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_17/0/0
+msgctxt "Textbox-chan"
+msgid "ヽ(DﾟДﾟ)ﾉ┌┛Σ(ノ´~`)ノ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_17/0/11/s/0
+msgctxt "Choix"
+msgid "You wanna kick me!?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_17/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Not you! I'd never do that!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_17/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "But I'm really feeling like that need, you know, to uh, kick somebody square in the booty!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_17/0/c-0/23
+msgctxt "Textbox-chan"
+msgid "I'm all fired up and big-time angy! ᕙ(⇀‸↼‶)ᕗ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_17/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Remind me never to piss you off."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_17/0/c-0/34/c-0/7
+msgctxt "Textbox-chan"
+msgid "Consider this your reminder... hehe. ( ๑‾̀◡‾́)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/8/s/0
+msgctxt "Choix"
+msgid "Oh... you want a hug?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'd love one... a little bear hug!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I'm not really a hugger."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "<i>Give her a hug.</i>"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's okay! I can always get a hug from somebody else. ᵔ ᵕ ᵔ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "Koa gives the best ones..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/15/c-1/7
+msgctxt "Narrator"
+msgid "You envelop Textbox-chan in a sweet hug—you can feel the tension leaving her body as she squeezes you in turn."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/15/c-1/15
+msgctxt "Textbox-chan"
+msgid "Ahh, I feel so much better! Thank you so much! ( ˘ ³˘)♥︎"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_18/0/c-0/15/c-1/26
+msgctxt "Textbox-chan"
+msgid "A good hug can really fix anything!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_19/0/8/s/0
+msgctxt "Choix"
+msgid "Oh are you groovin' today?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_19/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "You better believe it baby! I got my emote headphones on and I am JAMMIN'! (づ ˘͈ ᵕ ˘͈ )づ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_19/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Well that sounds fun."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_19/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "It is!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_20/0/11/s/0
+msgctxt "Choix"
+msgid "You look like you're celebrating?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_20/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's right! It's not my birthday but I'm FEELING the vibes, baby!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_20/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Happy Someone Else's Birthday?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_20/0/c-0/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "Thanks! Happy Someone Else's Birthday to you too! ᵔ ᵕ ᵔ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/0
+msgctxt "Textbox-chan"
+msgid "◥(ºwº)◤"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/8/s/0
+msgctxt "Choix"
+msgid "Whoah... are you a vampire?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's right! Watch out, I might bite you!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Sounds hot."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Please don't."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Oh no... I wasn't prepared for that response."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/c-0/15/c-0/18
+msgctxt "Textbox-chan"
+msgid "Kyaaaa! I'm so embarrassed! Don't look at me! (づ◡﹏◡)づ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/c-0/15/c-0/26
+msgctxt "Textbox-chan"
+msgid "A-anyway, I'm just saying..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/c-0/15/c-1/7
+msgctxt "Textbox-chan"
+msgid "I'm just kidding, I wouldn't do that to you!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_21/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "I'm just in a vampirey kinda mood! Sexy undead vibes! (˶˃ ᵕ ˂˶)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_22/0/8/s/0
+msgctxt "Choix"
+msgid "I see sharp teeth... are you some kind of monster or demon?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_22/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "A star demon!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_22/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "And that means..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_22/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "What do YOU think it means? ᯣ.ᯣ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_22/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I'm asking you..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_22/0/c-0/15/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "All this time we've been talking and you still don't know?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_22/0/c-0/15/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "You just meditate on that one."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_23/0/8/s/0
+msgctxt "Choix"
+msgid "Oh... big yawn."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_23/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's right! I'm just feeling a little sleepy..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_23/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "Yaawnn..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_23/0/c-0/23
+msgctxt "Textbox-chan"
+msgid "Oh my god, I can't get sleepy yet—I've got too much work to do today."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_23/0/c-0/31
+msgctxt "Textbox-chan"
+msgid "I gotta pull it together! Maybe I'll go see Kopi..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_24/0/8/s/0
+msgctxt "Choix"
+msgid "Oh wow... a cheerleader?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_24/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "A bad one! My heart just isn't in it today... ( • ᴖ • ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_24/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That's too bad. I hope you find your cheer."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_24/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "I will, don't worry!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_25/0/8/s/0
+msgctxt "Choix"
+msgid "Okay, still cheerleading... but now we're shady?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_25/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "A little, yeah. This metaphorical game is just a bit boring, you know?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_25/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "I need to see more hustle! More points on the scoreboard! More drama!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_25/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "You think this game is boring?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_25/0/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "Not THIS one! The metaphorical... oh god, you know what..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_25/0/c-0/23/c-0/15
+msgctxt "Textbox-chan"
+msgid "Let's just stop talking before you get me in real trouble! ( • ᴖ • ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_26/0/8/s/0
+msgctxt "Choix"
+msgid "Hey, okay! You found your cheer after all!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_26/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I sure did!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_26/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "THIS IS A GREAT GAME, AND I'M SO HAPPY TO BE HERE AND BE A PART OF IT! (♡ˊ͈ ꒳ ˋ͈)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_26/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Who are you talking to?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_26/0/c-0/26/c-0/7
+msgctxt "Textbox-chan"
+msgid "Nobody! Just saying! (ó﹏ò｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_27/0/8/s/0
+msgctxt "Choix"
+msgid "Like a... is that a cat?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_27/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Exactly! Meow!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_27/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Alright, sure. A cat."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_27/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Are you judging my adorable feline mood?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_27/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "No, no. If your mood is 'meow' then who am I to tell you otherwise?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_27/0/c-0/15/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Good! Sometimes you just feel like a cat! Meow! ㅤ/ᐠ - ˕ -マ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/8/s/0
+msgctxt "Choix"
+msgid "Oh how cute... this must be a good one."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "It really is! I'm feeling like a star!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Bright and full of gas?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Ew, don't ruin it!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/c-0/15/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Just kidding..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/c-0/15/c-0/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "Good. I am feeling POSITIVE and EXCITED."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/c-0/15/c-0/18/c-0/18
+msgctxt "Textbox-chan"
+msgid "NOT gassy. ( ｡ •̀ ᴖ •́ ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_28/0/c-0/15/c-0/18/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Noted."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_29/0/8/s/0
+msgctxt "Choix"
+msgid "Whoah... is that magic? Are you-"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_29/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "A wizard? Literally, no..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_29/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "But emotionally? Yes."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_29/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Wow."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_29/0/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "I contain multitudes. •⩊•"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_30/0/0
+msgctxt "Textbox-chan"
+msgid "ヽ(o⌣oヾ)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_30/0/8/s/0
+msgctxt "Choix"
+msgid "Is that... are you dabbing?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_30/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I sure am!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_30/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "Sometimes you just gotta dab on 'em!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_30/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Who is them?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_30/0/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "Don't worry about that... just know I'm feelin' dabby. ⸜(｡˃ ᵕ ˂ )⸝"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_31/0/8/s/0
+msgctxt "Choix"
+msgid "Is this another cat?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_31/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "It sure is, meow!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_31/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I never imagined you'd feel so catlike so often."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_31/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Sometimes it's just like that, meow. ㅤฅ^._.^ฅ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_32/0/8/s/0
+msgctxt "Choix"
+msgid "Cross-eyed?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_32/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Yeah... I've been staring at so much text today I'm starting to go a little cross-eyed!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_32/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You work so hard. Don't forget to take it easy!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_32/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Don't worry, talking to you makes me feel energized! (๑ᵔ⤙ᵔ๑)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_32/0/c-0/15/c-0/18
+msgctxt "Textbox-chan"
+msgid "I'm feeling better already!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/0
+msgctxt "Textbox-chan"
+msgid "༼ つ ಠ 益 ಠ ༽ つ ─ = ≡ΣO))"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/11/s/0
+msgctxt "Choix"
+msgid "Whoah, a fireball?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's right! Sometimes you just wanna burn it all down!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Please don't burn the house down, I need it to live."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm not gonna burn your house down, silly!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "Just saying... sometimes you wanna burn the metaphorical 'it' all down. (૭ ｡•̀ ᵕ •́｡ )૭"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Right on, I hear that."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_33/0/c-0/15/c-0/23/c-0/7
+msgctxt "Narrator"
+msgid "The fire in Textbox-chan's eyes unnerves you just a little."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_34/0/8/s/0
+msgctxt "Choix"
+msgid "A bear again?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_34/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "A bear SCREAMING! AAAAAA!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_34/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Are you alright?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_34/0/c-0/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'M JUST FINE! SOMETIMES YOU JUST GOTTA LET IT OUT! ( • ᴖ • ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_34/0/c-0/18/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "IF YOU SAY SO!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_35/0/8/s/0
+msgctxt "Choix"
+msgid "Whoah, are you okay? Are you crying?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_35/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm SCREAMING and crying! ( ｡ •̀ ᴖ •́ ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_35/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Are you alright!?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_35/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'M JUST FINE!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_36/0/8/s/0
+msgctxt "Choix"
+msgid "Okay, I see that you're a bear... and there's something wrong with you..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_36/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm a ROBOT bear! You get it?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_36/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "No?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_36/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "We've been talking so long now and you still don't see it? (ᵕ — ᴗ —)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_36/0/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "Just think about it a bit longer... you'll get it!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_37/0/8/s/0
+msgctxt "Choix"
+msgid "Uh oh... that looks painful."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_37/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I've just got a little headache... it's been a long day!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_37/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I hope you feel better soon!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_37/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Thanks... don't worry, I will! >.<"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_37/0/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "I'm just gonna take it easy for a little bit."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_38/0/8/s/0
+msgctxt "Choix"
+msgid "Are you embarrassed?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_38/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Yeah, exactly!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_38/0/c-0/15/0/s/0 tbc_ui/tbc_emoji_45/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "About what?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_38/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "I almost used the wrong font just a little bit ago and even though I fixed it in time..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_38/0/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "It's just SO embarrassing! Ugh! (,,>﹏<,,)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_38/0/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "You gotta give yourself a break. You're doing great."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_38/0/c-0/15/c-0/23/c-0/7
+msgctxt "Textbox-chan"
+msgid "Thank you... I'll try. T3T"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_39/0/11/s/0
+msgctxt "Choix"
+msgid "Oh! That's a nice one, isn't it?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_39/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Yeah! Please take this heart!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_39/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Aww, I'd love to. Thank you!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_39/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Hehe, you're welcome! (๑ > ᴗ < ๑)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_40/0/0
+msgctxt "Textbox-chan"
+msgid "ᕙ(òwó)ᕗ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_40/0/8/s/0
+msgctxt "Choix"
+msgid "Oh wow, look at those muscles!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_40/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I got two tickets to the gun show right here! ᕙ( •̀ ᗜ •́ )ᕗ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_40/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Pew pew!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_40/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Bang bang! Hehe!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/8/s/0
+msgctxt "Choix"
+msgid "Oh, a kissy face..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Sometimes you just gotta pout 'dem lips and show the world what you got!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Well what you got is adorable!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Why don't you show me what you got?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Aww thank you! Ehehe!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/c-1/7
+msgctxt "Textbox-chan"
+msgid "You mean, a kiss?! O-okay... (˶ ˘ ³˘)ˆᵕ ˆ˶)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/c-1/18
+msgctxt "Narrator"
+msgid "Textbox-chan gives you a sweet kiss that warms you to the depths of your soul, but before you can do much in return she turns away from you, blushing profusely."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/c-1/29
+msgctxt "Textbox-chan"
+msgid "I'm gonna die... don't look at me please! (っ- ‸ - ς)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/c-1/37/0/s/0
+msgctxt "Choix"
+msgid "How can I not? You're just so cute..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/c-1/37/c-0/7
+msgctxt "Textbox-chan"
+msgid "T-thank you... but if you do I'm gonna glitch out and then I won't be able to do my work."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_41/0/c-0/15/c-1/37/c-0/15
+msgctxt "Textbox-chan"
+msgid "WHEW! Anyway!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_42/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Sometimes you gotta put two middle fingers up and give life your best mad dog face!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_42/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I see that... I didn't know you could be so intense."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_42/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm a complex UI! I can do it all! (≧ᗜ≦)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_43/0/0
+msgctxt "Textbox-chan"
+msgid "(oᗒДᗕ)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_43/0/8/s/0
+msgctxt "Choix"
+msgid "Are you yelling?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_43/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Just letting the stress out after a long workday!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_43/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Oh... well I've definitely been there."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_43/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Yeah, you get it! I'm okay..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_43/0/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "Just letting off a little steam and then I'm ready to get back to it. ٩(ˊᗜˋ*)و ♡"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_44/0/8/s/0
+msgctxt "Choix"
+msgid "Uh oh. That doesn't seem good."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_44/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Just feeling a little dead-eyed... I've been staring at too much text again."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_44/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "But a little chat with you always perks me right back up! (๑>◡<๑)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_44/0/c-0/23
+msgctxt "Textbox-chan"
+msgid "Don't worry about me!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_45/0/8/s/0
+msgctxt "Choix"
+msgid "Are you dead?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_45/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "No no! Just a little nervous, haha."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_45/0/c-0/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm doing a little presentation at Lyric's book club about fonts and I just wanna make sure it goes alright."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_45/0/c-0/18/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You got this!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_45/0/c-0/18/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Thank you! Your support makes me feel better."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_46/0/8/s/0
+msgctxt "Choix"
+msgid "Uh..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_46/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm feeling a little yucky..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_46/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Are you sick or something?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_46/0/c-0/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "No... but I just saw some typography that made me want to just die a little. ( ꩜ ᯅ ꩜;)⁭ ⁭"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_46/0/c-0/18/c-0/15
+msgctxt "Textbox-chan"
+msgid "I'll be alright in a bit though."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_47/0/8/s/0
+msgctxt "Choix"
+msgid "Huh. This one feels kinda..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_47/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Evil robot-y?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_47/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Oh, uh, yeah. Totally the vibe I'm getting."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_47/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "You're getting better at these! ( ≧ᗜ≦)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/8/s/0
+msgctxt "Choix"
+msgid "Oh, did you want a high five?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "Yeah!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/15
+msgctxt "Textbox-chan"
+msgid "Don't leave me hangin'!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "<i>High-five!</i>"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "<i>Leave her hanging.</i>"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/23/c-0/7
+msgctxt "Narrator"
+msgid "You give Textbox-chan the highest of fives, and she beams at you."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/23/c-0/15
+msgctxt "Textbox-chan"
+msgid "YEAH! That's the stuff! +3+"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/23/c-1/7
+msgctxt "Textbox-chan"
+msgid "UNCOOL!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_48/0/c-0/23/c-1/18
+msgctxt "Textbox-chan"
+msgid "Oh well... back to work for me. u3u"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_49/0/8/s/0
+msgctxt "Choix"
+msgid "You're feeling... bougie? Fancy?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_49/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "I'm feeling a little Sassy Chap, if you know what I mean!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_49/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Like a fun and cool indie game studio?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_49/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "That's right! ( ≧ᗜ≦)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_49/0/c-0/15/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Wow, how nice for you."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_49/0/c-0/15/c-0/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "I know, right?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/0
+msgctxt "Textbox-chan"
+msgid "(✿ ❛<❛)ξ▄︻┻┳═一/╲/╭ºoꍘoº╮/╱"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/8/s/0
+msgctxt "Choix"
+msgid "Is that... a spider? And a... gun?"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "KYAAAA! SPIDER!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/18
+msgctxt "Textbox-chan"
+msgid "Oh yeah, you got it. Well done!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Is there actually a spider or are you messing with me..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "You shouldn't be afraid of spiders."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/7
+msgctxt "Textbox-chan"
+msgid "What answer would you like to hear? ᯣ.ᯣ"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "The truth."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Okay. I did not see a spider in the house."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-0/15
+msgctxt "Textbox-chan"
+msgid "Everything is fine and we are safe and spider-free."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/7
+msgctxt "Textbox-chan"
+msgid "There is a HUGE spider somewhere in the house and I have no idea where it went..."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Oh god oh god-"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/1/s/0
+msgctxt "Choix"
+msgid "Eh. Not a big deal."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-0/7
+msgctxt "Textbox-chan"
+msgid "WE CAN'T BOTH PANIC!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-0/18
+msgctxt "Textbox-chan"
+msgid "BREATHE IN BREATHE OUT!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-0/29
+msgctxt "Textbox-chan"
+msgid "Quick let's just talk about something else!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-0/37
+msgctxt "Textbox-chan"
+msgid "IT'S FINE WE'RE BOTH FINE!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-0/48/0/s/0
+msgctxt "Choix"
+msgid "YEAH!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-0/48/c-0/7
+msgctxt "Textbox-chan"
+msgid "Okay. Well, I feel better!"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-1/7
+msgctxt "Textbox-chan"
+msgid "I wish I could be that brave... (╥﹏╥)"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-1/15
+msgctxt "Textbox-chan"
+msgid "I'll just have to run and find you next time I see a spider."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-0/15/c-1/18/c-1/23
+msgctxt "Textbox-chan"
+msgid "But you being so brave does make me feel a little better."
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-1/7
+msgctxt "Textbox-chan"
+msgid "I wish I were as brave as you, but I'm still working on that... ( ꩜ ᯅ ꩜;)⁭ ⁭"
+msgstr ""
+
+#: tbc_ui/tbc_emoji_50/0/c-0/26/c-1/18
+msgctxt "Textbox-chan"
+msgid "But next time I see a spider I'll just call you to handle it instead of getting my ASCII gun out and blasting. •ᴗ•;;"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/0
+msgctxt "Textbox-chan"
+msgid "Cum-gratulations! :sweatdrops: you've found the horniest :eggplant: content in the game! :lipstickprint: If you've reading this :eyes: then you're in the :bitinglip: top 1% of nastiest :devilemoji: sluts to ever Date :lips: Everything :checkmark: !"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/8
+msgctxt "Textbox-chan"
+msgid "You ran through 100 :100: household :house: objects, abstract :questionmark: concepts, and elements :wind: of nature! :rainbow: You've explored :eyes: new frontiers of nut :acorn: and smashed :pointing finger: :okfinger: the unsmashable :sweatingface:!"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/16
+msgctxt "Textbox-chan"
+msgid "Here's ur 21 dong :eggplant: salute! :eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:eggplant:sweatdrops:"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/24/s/0
+msgctxt "Choix"
+msgid "Wow. That was..."
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/25/s/0
+msgctxt "Choix"
+msgid "Woah... I am NOT comfortable with what I just walked in on!"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/c-0/7
+msgctxt "Textbox-chan"
+msgid "That might be the nastiest thing I ever wrote..."
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You wrote that?"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/c-0/15/c-0/7
+msgctxt "Textbox-chan"
+msgid "Well no, I... I found a bunch of those online and wrote my own. I thought it would be... ( ｡ • ᴖ • ｡)"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/c-0/15/c-0/18
+msgctxt "Textbox-chan"
+msgid "A funny way to... tell you I'm into you..."
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/c-0/15/c-0/26
+msgctxt "Textbox-chan"
+msgid "But I kind of want to disappear now. So maybe let's just pretend I never said that. (— ᴗ —);;"
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/c-0/15/c-0/37/1/s/0
+msgctxt "Choix"
+msgid "I kinda liked it..."
+msgstr ""
+
+#: tbc_ui/tbc_pasta/0/g-0/0
+msgctxt "Textbox-chan"
+msgid "MOVING ON! （ꐦ𝅒_𝅒）"
+msgstr ""
+
+#: tbc_ui/how_are_you_end/0/0
+msgctxt "Textbox-chan"
+msgid "Thanks for asking, hehe. (^◡^)♡"
+msgstr ""
+
+#: tbc_ui/how_are_you_end/0/8/s/0
+msgctxt "Choix"
+msgid "Anytime."
+msgstr ""

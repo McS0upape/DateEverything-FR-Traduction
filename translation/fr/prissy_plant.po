@@ -1,0 +1,4129 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: prissy_plant/1 prissy_plant/bathroom_plant/7 prissy_plant/bedroom_plant/7 prissy_plant/foyer_plant/7 prissy_plant/kitchen_plant/7 prissy_plant/laundry_plant/7 prissy_plant/livingroom_plant/7 prissy_plant/office_plant/7 prissy_plant/upperhall_plant/7 prissy_plant/gym_plant/7 prissy_plant/attic_plant/4
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "FAKE PLANT"
+msgstr ""
+
+#: prissy_plant/bathroom_plant/12
+msgctxt "Prissy"
+msgid "Whoo! Look at me in this bathroom, huh?"
+msgstr ""
+
+#: prissy_plant/bathroom_plant/20
+msgctxt "Prissy"
+msgid "Has a plant ever looked this good over tile? I think not."
+msgstr ""
+
+#: prissy_plant/bedroom_plant/12
+msgctxt "Prissy"
+msgid "Hey hey hey! I'm in the bedroom..."
+msgstr ""
+
+#: prissy_plant/bedroom_plant/20
+msgctxt "Prissy"
+msgid "Gosh I wish I had a cute bedroom dance or something... I'll have to work on that."
+msgstr ""
+
+#: prissy_plant/foyer_plant/12
+msgctxt "Prissy"
+msgid "Check me out! Now you can see me first thing when you come home!"
+msgstr ""
+
+#: prissy_plant/foyer_plant/20
+msgctxt "Prissy"
+msgid "I'll be the most welcoming plant in the history of plants for you."
+msgstr ""
+
+#: prissy_plant/kitchen_plant/12
+msgctxt "Prissy"
+msgid "Oh my goodness, hi! I'm in the kitchen, can you believe it?"
+msgstr ""
+
+#: prissy_plant/kitchen_plant/20
+msgctxt "Prissy"
+msgid "I am learning SO much being here. Did you know you can <i>make</i> pudding? I didn't. I'm dying. I LOVE pudding."
+msgstr ""
+
+#: prissy_plant/laundry_plant/12
+msgctxt "Prissy"
+msgid "Hey! I've made it to the laundry room, isn't that exciting?"
+msgstr ""
+
+#: prissy_plant/laundry_plant/20
+msgctxt "Prissy"
+msgid "By the by, there is some <i>serious</i> love drama going on in here."
+msgstr ""
+
+#: prissy_plant/laundry_plant/28
+msgctxt "Prissy"
+msgid "Ha! I'm watchin' a real soap opera!"
+msgstr ""
+
+#: prissy_plant/livingroom_plant/12
+msgctxt "Prissy"
+msgid "Ah the living room... the room for living..."
+msgstr ""
+
+#: prissy_plant/livingroom_plant/20
+msgctxt "Prissy"
+msgid "Which now includes me! How cool is that!"
+msgstr ""
+
+#: prissy_plant/office_plant/12
+msgctxt "Prissy"
+msgid "Hey there! Boy oh boy, this room is just chock full of productivity tools, huh?"
+msgstr ""
+
+#: prissy_plant/office_plant/20
+msgctxt "Prissy"
+msgid "Very glad that I am finally here to bring a little color and relaxation to the mix."
+msgstr ""
+
+#: prissy_plant/upperhall_plant/12
+msgctxt "Prissy"
+msgid "Oh my gosh. So I used to be in the attic, right? And now I'm here..."
+msgstr ""
+
+#: prissy_plant/upperhall_plant/20
+msgctxt "Prissy"
+msgid "From the attic I couldn't see ANYTHING and from here I can see almost the whole house!! Amazing!"
+msgstr ""
+
+#: prissy_plant/gym_plant/12 prissy_plant/prissy_friend_return/0/16
+msgctxt "Prissy"
+msgid "Glad to have a little break from all this growing."
+msgstr ""
+
+#: prissy_plant/gym_plant/20 prissy_plant/prissy_friend_return/0/c-0/15
+msgctxt "Prissy"
+msgid "Guess I'll jump back into it, then... see you soon!"
+msgstr ""
+
+#: prissy_plant/attic_plant/10/b/4 prissy_plant/attic_plant/11/b/4
+msgctxt "Prissy"
+msgid "Hey! You didn't think I'd leave the attic for good, did you?"
+msgstr ""
+
+#: prissy_plant/attic_plant/10/b/12 prissy_plant/attic_plant/11/b/12
+msgctxt "Prissy"
+msgid "I've got some fond memories of this place!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/6
+msgctxt "Narrator"
+msgid "A flowering beauty waves at you, her radiant smile inviting you closer. Abundant plastic foliage frames her pretty face, and a little inanimate hummingbird rests on her shoulder."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/14
+msgctxt "Narrator"
+msgid "She looks rather like a fairytale princess, and the delicate way she carries herself does nothing to belie that impression."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/22
+msgctxt "Prissy"
+msgid "Oh my gosh. Hi!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/30
+msgctxt "Prissy"
+msgid "I'm Prissy. You probably already know that."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/41
+msgctxt "Prissy"
+msgid "It's polite to introduce yourself though, so hi!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/56
+msgctxt "Prissy"
+msgid "This is so funny that you're standing there!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/64/s/0
+msgctxt "Choix"
+msgid "I know! I'm laughing, too!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/65/s/0
+msgctxt "Choix"
+msgid "Funny haha, or funny weird?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/c-1/7
+msgctxt "Prissy"
+msgid "Wow. Nobody has ever asked me that question before."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/c-1/15
+msgctxt "Prissy"
+msgid "I guess... yeah, it's a little of both!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/0
+msgctxt "Prissy"
+msgid "Because I was sitting here, imagining how wonderful and helpful it would be if someone was suddenly standing there, like exactly where you are..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/8
+msgctxt "Prissy"
+msgid "...and then boom! Here you are! Like magic!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "So my mere presence is the answer to a prayer. Sweet."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Great. Another weird-ass object in my house."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/7
+msgctxt "Prissy"
+msgid "Yeah!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/15
+msgctxt "Prissy"
+msgid "Well, no."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/23
+msgctxt "Prissy"
+msgid "I mean kind of, you're definitely great. Probably."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/31
+msgctxt "Prissy"
+msgid "But in my imagination, the person standing where you're standing also did stuff."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/39/0/s/0
+msgctxt "Choix"
+msgid "Aw man now I've gotta <i>do</i> something?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/39/1/s/0
+msgctxt "Choix"
+msgid "That makes more sense. What kind of stuff?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/39/c-0/7
+msgctxt "Prissy"
+msgid "Don't worry! It's totally easy. For you."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/39/c-0/15
+msgctxt "Prissy"
+msgid "Impossible for me, easy for you."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-2/39/c-0/23
+msgctxt "Prissy"
+msgid "We can get into why <i>that's</i> annoying at a later date."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/7
+msgctxt "Prissy"
+msgid "Actually, now that you brought up my root systems and how to maintain them out of optimal health..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "...um, did I? Bring that up?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "I knew it. You have a mission for me, don't you?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-0/7
+msgctxt "Prissy"
+msgid "Didn't you? I don't think I would've brought that up..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-0/15
+msgctxt "Prissy"
+msgid "Root systems are really personal. So. Yep, must've been you."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-0/23
+msgctxt "Prissy"
+msgid "But it's cool! Because mine actually needs some help!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-1/7
+msgctxt "Prissy"
+msgid "...WOW. How did you know that."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-1/15
+msgctxt "Prissy"
+msgid "Even in my imagination, whoever was standing here wasn't THAT good."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-1/23
+msgctxt "Prissy"
+msgid "This mission is totally gonna work..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-1/0
+msgctxt "Prissy"
+msgid "I need you, please, to Flirtilize me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "I'm sorry, you what?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "I'm in. No idea what that is."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/0
+msgctxt "Prissy"
+msgid "I get your confusion, it's totally understandable. Here's the thing."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/8
+msgctxt "Prissy"
+msgid "I am a plant. Yes."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "...sure?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "You look plant-like. Yes."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/c-6/7
+msgctxt "Prissy"
+msgid "But, if you had to guess, what am I made of?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/c-7/7
+msgctxt "Prissy"
+msgid "Plant-LIKE?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/c-7/15
+msgctxt "Prissy"
+msgid "I mean, what that isn't a plant looks plant-LIKE."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/c-7/23
+msgctxt "Prissy"
+msgid "I suppose paintings of plants look plant-like, or those big plastic hanging privacy curtains that are supposed to look like walls of ferns, that's plant-like."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-2/c-7/31
+msgctxt "Prissy"
+msgid "Oh no. Are you telling me that I look like that? That I look... fake??"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-3/0
+msgctxt "Prissy"
+msgid "You know, actually, now that I've asked, I take it back because I don't want you to answer that."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-3/8
+msgctxt "Prissy"
+msgid "I already know the answer and I don't like it very much."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-3/16
+msgctxt "Prissy"
+msgid "Just in case you hadn't already deduced this... I am made of plastic."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "You?! Noooooo."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "I bought you, so, yes, I knew that."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-3/c-8/7
+msgctxt "Prissy"
+msgid "I know, I know. It is the great, confusing injustice of my young life."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-3/c-9/7
+msgctxt "Prissy"
+msgid "Oh. Well. Then great! Glad we're already on the same page!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/0
+msgctxt "Prissy"
+msgid "But ugh, even saying that word... plastic... ugh... Anyway!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/8
+msgctxt "Prissy"
+msgid "I am made of plastic. I would really rather NOT be made of plastic. I would rather be a real plant."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/16
+msgctxt "Prissy"
+msgid "I want to grow. I want to reach for the sun and I want to feel the photosynthesis in my leaves."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/24
+msgctxt "Prissy"
+msgid "Right now I mostly feel dust and that LeBreeze \"your room is clean now\" smell-good spray."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/32
+msgctxt "Prissy"
+msgid "Which doesn't actually smell that great, if I'm being honest."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/40/s/0
+msgctxt "Choix"
+msgid "I know! It's so perfumey."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/41/s/0
+msgctxt "Choix"
+msgid "How does Flirtilizer fit into all this?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/7
+msgctxt "Prissy"
+msgid "SO perfumey. You spray it and all of a sudden you're like, oh my gosh, why am I in a perfume store?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/15
+msgctxt "Prissy"
+msgid "Which doesn't mean that perfume stores can't also be clean. I'm sure they can."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/0/s/0
+msgctxt "Choix"
+msgid "This is weird. A plastic plant with opinions."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/1/s/0
+msgctxt "Choix"
+msgid "Cool. I feel like we've gotten off track here."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/7
+msgctxt "Prissy"
+msgid "Plastic. I'll bet if I was a <i>real</i> plant it would be socially acceptable for me to have opinions about stuff."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I called you weird. And you're responding to \"plastic\"?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "A plant with opinions at all is weird."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/c-0/7
+msgctxt "Prissy"
+msgid "Of course! I know I'm weird, that's cool. I have no problem with that. But plastic... that one stings."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/c-1/7
+msgctxt "Prissy"
+msgid "Oh, I disagree. Have you never asked an orange tree how it feels about all those orange-scented cleaning products?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/c-1/15
+msgctxt "Prissy"
+msgid "Lemme tell ya. Bring a tissue. It gets emotional."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/g-0/0
+msgctxt "Prissy"
+msgid "I'd give just about anything to be a real plant."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/g-0/8
+msgctxt "Prissy"
+msgid "Ah! But the Flirtilizer! You unintentionally reminded me!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-1/7
+msgctxt "Prissy"
+msgid "Oh my gosh, we have. We started talking about... wait, what were we talking about?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-1/15
+msgctxt "Prissy"
+msgid "Doesn't matter. I'm pretty easy to distract, as you might have noticed!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-1/23
+msgctxt "Prissy"
+msgid "Let's get back to the Flirtilizer. It's... this is really important."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-11/7
+msgctxt "Prissy"
+msgid "Flirtilizer! Right. Yes. Thank you!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-4/c-11/15
+msgctxt "Prissy"
+msgid "See? Keeping me on track... you're already the perfect person to help me!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/0
+msgctxt "Prissy"
+msgid "The Flirtilizer is the result of months of dedicated study on my part to find a substance that will..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/8
+msgctxt "Prissy"
+msgid "...<w>drumroll please</w>..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/19
+msgctxt "Prissy"
+msgid "...make me REAL!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/33
+msgctxt "Narrator"
+msgid "Prissy presents you with a green jug covered in pictures of flowers, aggressively mugging for the camera. This is about what you expected from something called 'Flirtilizer'."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/41/s/0
+msgctxt "Choix"
+msgid "Wait, is this Realization?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/42/s/0
+msgctxt "Choix"
+msgid "Real? Like a real live plant?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/c-12/7
+msgctxt "Prissy"
+msgid "Oh! No, not yet at least."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/c-12/15
+msgctxt "Prissy"
+msgid "If I'm going to be a human, I want to at least be a real plant first."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/c-12/23
+msgctxt "Prissy"
+msgid "You're a human, and you were never a plant, so you don't even know what you missed out on!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-5/c-13/7
+msgctxt "Prissy"
+msgid "Really really! Cells, leaves, the whole nine yards!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/0
+msgctxt "Prissy"
+msgid "I have done. So. Much. Research, I can't even tell you, and this is the answer!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/8
+msgctxt "Prissy"
+msgid "The gold standard for making plastic into chlorophyll!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/16
+msgctxt "Prissy"
+msgid "I just need you to give me a good dousing, right at the roots, and then stand back and watch the magic!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/27/s/0
+msgctxt "Choix"
+msgid "I... really don't think that's going to work."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/28/s/0
+msgctxt "Choix"
+msgid "No way. Really? That is very cool and exciting!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/15
+msgctxt "Prissy"
+msgid "What do you mean? Why wouldn't it?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/0/s/0
+msgctxt "Choix"
+msgid "I don't think you can change plastic into living tissue."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/1/s/0
+msgctxt "Choix"
+msgid "Flirtilizer isn't even a real thing, Prissy."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/7
+msgctxt "Prissy"
+msgid "Well OBVIOUSLY you can't change plastic into living tissue."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/15
+msgctxt "Prissy"
+msgid "Unless you have Flirtilizer. That's why it was invented."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/23
+msgctxt "Prissy"
+msgid "That's what it does. Maybe you're not getting this."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I get that, what you're suggesting is a biological impossibility."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "I think you got swindled."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/7
+msgctxt "Prissy"
+msgid "Oh, oh, oh. I see. Okay, you're saying that from a purely scientific perspective, there's no way scientifically that this could ever actually work."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Correct!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Yeah. Wow, you caught on fast."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/0
+msgctxt "Prissy"
+msgid "Well, you're wrong. No no, not about the science part."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/8
+msgctxt "Prissy"
+msgid "Totally. Based on science alone, or the science we currently know, obviously no."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/16
+msgctxt "Prissy"
+msgid "But there's a certain element of magic in the Flirtilizer, my friend."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "...magic."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "Oh boy."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/c-0/7
+msgctxt "Prissy"
+msgid "Magic! Faith! A leap of oh-boy-why-not into the unknown!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/c-1/7
+msgctxt "Prissy"
+msgid "Come on!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/0
+msgctxt "Prissy"
+msgid "Look at those glasses you're wearing right now, even. You're talking to a freaking fake houseplant."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/8
+msgctxt "Prissy"
+msgid "You're really gonna stand there and tell me there's not some element of magic at work in your life right now? C'mon."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "Maybe. But still... this is nuts."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "Ok, you have a point."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/7
+msgctxt "Prissy"
+msgid "I don't think that you have a right to call me nuts."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/15
+msgctxt "Prissy"
+msgid "For having a dream. For wanting to try something, anything, to achieve it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/23
+msgctxt "Prissy"
+msgid "I actually think that's a pretty cool part of me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/31
+msgctxt "Prissy"
+msgid "But I'll let it go. We're learning about each other."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/39
+msgctxt "Prissy"
+msgid "I really want this. And I really need your help."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-1/7
+msgctxt "Prissy"
+msgid "I totally do! I have <i>a lot</i> of points. And the vast majority of them are really good."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-1/15
+msgctxt "Prissy"
+msgid "So prepare yourself."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-1/23
+msgctxt "Prissy"
+msgid "Now, about this dousing..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/7
+msgctxt "Prissy"
+msgid "Swindled? You think someone took advantage of <i>me</i>??"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/15
+msgctxt "Prissy"
+msgid "Ha! Look at me! I am a steely-eyed, no-nonsense hard case!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "Hahahahahahahahaha!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/c-1/7
+msgctxt "Narrator"
+msgid "Prissy glares at you."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "I'm sorry."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/c-1/26/1/s/0
+msgctxt "Choix"
+msgid "What?! You're hilarious!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/g-0/0
+msgctxt "Prissy"
+msgid "Look. Even if I did get \"swindled,\" which I really don't think I did, I'm here now, you're here now, the Flirtilizer is here now... and it's worth it for me to try."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/g-0/8
+msgctxt "Prissy"
+msgid "I want this so much. What's it going to hurt to try?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/7
+msgctxt "Prissy"
+msgid "An electric light bulb wasn't a real thing until some doofhead dreamt it up and built it, right?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/15
+msgctxt "Prissy"
+msgid "Things aren't real, and they aren't real, and then they are."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/23
+msgctxt "Prissy"
+msgid "Like me!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "I do see your logic there."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "I'm not going to douse a plastic plant! Then I just have to clean it up later!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-0/7
+msgctxt "Prissy"
+msgid "Yes!!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-0/15
+msgctxt "Prissy"
+msgid "I knew that was a solid argument. As it was coming out of my mouth, I said to myself, Prissy, <i>that</i> is a SOLID argument."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-0/23
+msgctxt "Prissy"
+msgid "So!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/7
+msgctxt "Prissy"
+msgid "No no, I'm going to absorb it! I absorb the Flirtilizer, and then I become real."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/15
+msgctxt "Prissy"
+msgid "See, it says right there on the label, \"No Messy No Stressy\"!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/23
+msgctxt "Prissy"
+msgid "And if it says so on the label, you know it's the truth. These companies can't lie."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/31
+msgctxt "Prissy"
+msgid "It's in the rules."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-15/7
+msgctxt "Prissy"
+msgid "That's exactly what I said when I discovered it! I mean, those exact words."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-15/15
+msgctxt "Prissy"
+msgid "We are so in sync, this is awesome!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/g-6/c-15/23
+msgctxt "Prissy"
+msgid "So you'll do it?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/0
+msgctxt "Prissy"
+msgid "Flirtilize me?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/8/s/0
+msgctxt "Choix"
+msgid "Of course I will."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/9/s/0
+msgctxt "Choix"
+msgid "Oh. No, definitely not."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/15
+msgctxt "Prissy"
+msgid "Why?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/0/s/0
+msgctxt "Choix"
+msgid "Because I like you the way you are. I don't wanna have to water anything."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/1/s/0
+msgctxt "Choix"
+msgid "I don't actually think it's going to work and I don't want you to get your feelings hurt."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/7
+msgctxt "Prissy"
+msgid "You don't want to help me achieve the dream of my whole existence because you don't feel like watering me?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/18
+msgctxt "Prissy"
+msgid "...I mean, what if you planted me outside? Then you wouldn't have to think about me at all!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/26
+msgctxt "Prissy"
+msgid "Kind of depressing myself using that as a selling point, but work with what ya got!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Nah. Don't feel like replanting you, either."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "I think you're pretty this way! Don't want you to change."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/2/s/0
+msgctxt "Choix"
+msgid "Hm... good point. Okay let's do it!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/7
+msgctxt "Prissy"
+msgid "Uh huh. Well, then."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/15
+msgctxt "Prissy"
+msgid "Guess I'll just have to figure out another way to get real."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/23
+msgctxt "Prissy"
+msgid "Hopefully one that doesn't require assistance from an outside source."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/31
+msgctxt "Prissy"
+msgid "Especially not an outside source who's acting like a butthead."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/7
+msgctxt "Prissy"
+msgid "I'll still be pretty if I'm real! I'll be even prettier probably!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Don't wanna take the risk. Sorry."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Not gonna happen."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/0
+msgctxt "Prissy"
+msgid "Well there you have it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/8
+msgctxt "Prissy"
+msgid "I'm gonna go. If you're not gonna help me, if you're actively going to discourage me more like, then I have some more research to do."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/16
+msgctxt "Prissy"
+msgid "I don't know what I'm going to find, but there's gotta be something."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/24
+msgctxt "Prissy"
+msgid "Dreams have set backs. Anyway. See ya."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/7
+msgctxt "Prissy"
+msgid "Oh. So... you're kind of trying to protect me, in a way."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/15
+msgctxt "Prissy"
+msgid "I guess that's nice? Or unnecessary and kind of overbearing. Maybe."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/23
+msgctxt "Prissy"
+msgid "My feelings are my own business. If I get hurt, I get hurt, but I'm not going to not try just because I might stumble and fall."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/31
+msgctxt "Prissy"
+msgid "And even if I do fall, it's not like by helping me you've pushed me down or anything. I'm not going to blame you, if that's what you're worried about."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "I think you're being naive, is all."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/1/s/0
+msgctxt "Choix"
+msgid "You can blame me if you need to, but I'm not going to do it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/2/s/0
+msgctxt "Choix"
+msgid "I was worried I'd screw it up... but if you're okay let's do it!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/7
+msgctxt "Prissy"
+msgid "Again. My choice."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/15
+msgctxt "Prissy"
+msgid "You're not going to help me, are you?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Nope."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/7
+msgctxt "Prissy"
+msgid "Ok! Well. Good to know that."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/15
+msgctxt "Prissy"
+msgid "I'll just have to find a way to become a real plant that doesn't involve you doing anything."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/23
+msgctxt "Prissy"
+msgid "And if I can't, maybe I can find another way to pitch it to you that you'll say yes to."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/31
+msgctxt "Prissy"
+msgid "Or maybe when I see you again, you will have stopped being such a butthead and you'll help me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/39
+msgctxt "Prissy"
+msgid "Either way!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/7
+msgctxt "Prissy"
+msgid "Well, then that answers that!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/15
+msgctxt "Prissy"
+msgid "I'm going to become a real plant."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/23
+msgctxt "Prissy"
+msgid "And when I do, I don't think I will blame you for having gotten in my way."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/31
+msgctxt "Prissy"
+msgid "I think I'll look at this as the obstacle that made the prize that much more worth it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/39
+msgctxt "Prissy"
+msgid "I hope I will. I have a pretty great attitude generally. So. We'll see."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/6
+msgctxt "Prissy"
+msgid "Yes!!! Oh my gosh, this is the most exciting day ever!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/20
+msgctxt "Prissy"
+msgid "I'm ready. So it says on the directions..."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/28
+msgctxt "Narrator"
+msgid "Prissy reads off the back of the container of Flirtilizer."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/36
+msgctxt "Prissy"
+msgid "\"Douse liberally and with abandon, no such thing as too much, couple each dose with a body wiggle or the recitation of a favorite herb for added potency.\""
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/44/s/0
+msgctxt "Choix"
+msgid "It'll work without the wiggling, though. Right."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/45/s/0
+msgctxt "Choix"
+msgid "Is it okay if I don't have a favorite herb?"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/46/s/0
+msgctxt "Choix"
+msgid "Oh, a spell! Perfect."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/c-0/7
+msgctxt "Prissy"
+msgid "Oh for sure. Yes. I think so."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/c-0/15
+msgctxt "Prissy"
+msgid "Let's try it and see!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/c-1/7
+msgctxt "Prissy"
+msgid "Oh don't worry about that. I think that's just like an extra little something... it'll be fine. This stuff is plenty strong without the recitations, according to the ads!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/c-1/15
+msgctxt "Prissy"
+msgid "Douse away!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/c-2/7
+msgctxt "Prissy"
+msgid "I know! I love the honoring of all these magical elements. So excited."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/c-2/15
+msgctxt "Prissy"
+msgid "Douse me!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/0/s/0
+msgctxt "Choix"
+msgid "<i>Douse liberally.</i>"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/1/s/0
+msgctxt "Choix"
+msgid "<i>Douse liberally and wiggle.</i>"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/2/s/0
+msgctxt "Choix"
+msgid "<i>Douse, wiggle AND recite.</i>"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/c-3/7
+msgctxt "Narrator"
+msgid "You spray Prissy from head to toe with the Flirtilizer, opting not to wiggle."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/c-3/23 prissy_plant/first_flirtilize/0/dousing/c-4/23 prissy_plant/first_flirtilize/0/dousing/c-5/23
+msgctxt "Prissy"
+msgid "I think I feel it working... !"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/c-4/7
+msgctxt "Narrator"
+msgid "You spray Prissy from head to toe with the Flirtilizer, punctuating each spray with a wiggle of your backside."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/c-4/34 prissy_plant/first_flirtilize/0/dousing/c-5/34
+msgctxt "Prissy"
+msgid "There's this really strong, tingly sensation!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/c-5/7
+msgctxt "Narrator"
+msgid "You spray Prissy from head to toe with the Flirtilizer, punctuating each spray with a wiggle of your backside. When you're done, you cap it all off with a recitation of the most delicious herb you know."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/dousing/c-5/42
+msgctxt "Prissy"
+msgid "The spell you are casting - definitely gets my vines all twisted up!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/0
+msgctxt "Narrator"
+msgid "You take a moment to inspect Prissy—she looks a bit shinier, but otherwise the same as before."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/8
+msgctxt "Prissy"
+msgid "Do I look different?"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/16
+msgctxt "Prissy"
+msgid "I don't feel different... I mean, I feel wetter, but that's probably just from the dousing."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/24
+msgctxt "Prissy"
+msgid "What do you think? Do you see anything?"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "Honestly, no..."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "I don't think it did anything."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/34/s/0
+msgctxt "Choix"
+msgid "Sure! It did everything! You're a real plant now!"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/c-6/7
+msgctxt "Prissy"
+msgid "Oh. Um... well, shoot."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/c-7/7
+msgctxt "Prissy"
+msgid "It's ok. I'm okay."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/c-8/7
+msgctxt "Prissy"
+msgid "Um."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-0/c-8/15
+msgctxt "Prissy"
+msgid "I don't think so. Not yet at least."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/0
+msgctxt "Prissy"
+msgid "This was a result of a lot of research and a lot of investment, like heart investment. But it's okay."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/8
+msgctxt "Prissy"
+msgid "Because it was also my first real attempt. And all great endeavors have failure before they have success. So."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/16
+msgctxt "Prissy"
+msgid "I'll try again."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/27
+msgctxt "Prissy"
+msgid "Hey, would you be willing to help me again? If I need it?"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "Totally. You're fun."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "Eh... let's go on a case-by-case basis, ok?"
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/c-9/7
+msgctxt "Prissy"
+msgid "Thanks. I am fun."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/c-9/15
+msgctxt "Prissy"
+msgid "Well, I better go dry off. Don't want to risk mold and mildew."
+msgstr ""
+
+#: prissy_plant/first_flirtilize/0/g-1/c-10/7
+msgctxt "Prissy"
+msgid "Sounds fair to me. Thanks."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/6/b/1
+msgctxt "Prissy"
+msgid "Hey! You're back! Guess what? The Flirtilizer is totally working!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/6/b/9
+msgctxt "Prissy"
+msgid "Ok, not really, but I've been doing all this research on manifestation and positive self-talk, and I think it's going to be really helpful for me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/6/b/17
+msgctxt "Prissy"
+msgid "Anyway, I'm actually glad you're back because...."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/6/b/25
+msgctxt "Prissy"
+msgid "...<w>drumroll once again, puh-leez</w>..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/9/b/1
+msgctxt "Prissy"
+msgid "Oh, hi! You came back! Kinda surprised... but then again, not really."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/9/b/9
+msgctxt "Prissy"
+msgid "Maybe you've decided to participate in the magic! That would be so cool."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/9/b/17
+msgctxt "Prissy"
+msgid "Actually, if that's what's going on, your timing couldn't be better because..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/9/b/25
+msgctxt "Prissy"
+msgid "...get excited...."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/12
+msgctxt "Prissy"
+msgid "I've got a brand new plan to become a real plant! A Real Plant Plan."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/23
+msgctxt "Prissy"
+msgid "After the Flirtilizer Debacle, I went back to the drawing board. Started my research from scratch."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/31
+msgctxt "Prissy"
+msgid "And it turns out, I was missing a key ingredient in my whole appraisal of the situation!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/39/s/0
+msgctxt "Choix"
+msgid "Oh? Which was?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/40/s/0
+msgctxt "Choix"
+msgid "I think you're missing a couple of key ingredients, lady."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/c-0/7
+msgctxt "Prissy"
+msgid "Are you sure you're ready for this?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/c-1/7
+msgctxt "Prissy"
+msgid "I'm sure you're right. I mean, cumin. C'mon. That's a CRUCIAL ingredient in a LOT of stuff and I don't have any of it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/c-1/15
+msgctxt "Prissy"
+msgid "Do you like to cook? I would love to, but the heat from the stove and the oven and the grill is pretttty dangerous for me right now."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/c-1/23
+msgctxt "Prissy"
+msgid "Oh gosh but here I go getting off track again! The ingredient."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-0/0
+msgctxt "Prissy"
+msgid "It's called \"The Woot.\""
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "My friend, nothing is called The Woot."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Ok, I'll bite. Tell me about Woot!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "Ooooh my god that makes so much sense!!! THE WOOT!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-0/c-2/7
+msgctxt "Prissy"
+msgid "No no, this <i> is </i>! That's the name of this essential thing!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-0/c-3/7
+msgctxt "Prissy"
+msgid "I think you're really going to connect with this."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-0/c-4/7
+msgctxt "Prissy"
+msgid "The Woot. How could I have missed it??"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/0
+msgctxt "Prissy"
+msgid "The Woot, basically, is love."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/8
+msgctxt "Prissy"
+msgid "I know, it sounds cheesy, but hear me out."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/16
+msgctxt "Prissy"
+msgid "It means encouragement. Visibility. Woot is the essence of giving someone support, cheering them on, believing in them."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/24
+msgctxt "Prissy"
+msgid "And you don't even necessarily have to feel those things in order to give them to someone, that's the crazy part."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/32
+msgctxt "Prissy"
+msgid "You can offer someone The Woot before you feel it, and in the offering, and by them receiving it, you actually get it, too."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/40
+msgctxt "Prissy"
+msgid "You know what this sounds like, right?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/48/s/0
+msgctxt "Choix"
+msgid "Magic?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/49/s/0
+msgctxt "Choix"
+msgid "Oh yes. It's bullshit. Tell me you didn't pay for this."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-5/7
+msgctxt "Prissy"
+msgid "TOTAL MAGIC."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-5/18
+msgctxt "Prissy"
+msgid "I am so glad that you get it!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-5/26/0/s/0
+msgctxt "Choix"
+msgid "So how does this factor into your dream to become real?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-5/26/1/s/0
+msgctxt "Choix"
+msgid "I get it. Big fan of The Woot."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-5/26/c-0/7
+msgctxt "Prissy"
+msgid "Yes! So glad you asked."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-5/26/c-0/15
+msgctxt "Prissy"
+msgid "Allow me to introduce to you..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-5/26/c-1/7
+msgctxt "Prissy"
+msgid "Well since you're already a fan... may I present The Can!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-6/7
+msgctxt "Prissy"
+msgid "No no, you don't pay for The Woot, The Woot is free to everyone all the time."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-1/c-6/15
+msgctxt "Prissy"
+msgid "But I did pay for..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/3
+msgctxt "Narrator"
+msgid "Prissy holds up a small green and pink watering can—it seems pretty unremarkable to your eye, but you suppose you'll have to wait and see."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/11
+msgctxt "Prissy"
+msgid "The Wootering Can!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/22
+msgctxt "Prissy"
+msgid "This can, the technology in this humble garden implement is so specialized, that it can literally hold and transfer the pure essence of Woot from the can to me!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/30
+msgctxt "Prissy"
+msgid "And through the power of the Woot, presto! I become real!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/38
+msgctxt "Prissy"
+msgid "The Woot doesn't exist only in this can, of course. But according to the manufacturers, this is the most efficient way to preserve the power of The Woot and transfer it in its purest form."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/46/s/0
+msgctxt "Choix"
+msgid "Woot. I would've thought Woo-tering can? Like, I woo you?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/47/s/0
+msgctxt "Choix"
+msgid "That looks like a totally normal watering can."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/7
+msgctxt "Prissy"
+msgid "Yeah! That totally works, too!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/15
+msgctxt "Prissy"
+msgid "If you were intending to woo me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/23
+msgctxt "Prissy"
+msgid "Which would be interesting."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/31
+msgctxt "Prissy"
+msgid "Are you?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/39/0/s/0
+msgctxt "Choix"
+msgid "Oh absolutely."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/39/1/s/0
+msgctxt "Choix"
+msgid "Not sure yet. Maybe."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/39/c-0/7
+msgctxt "Prissy"
+msgid "Mmm! I have to say I might just take you up on that..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/39/c-0/15
+msgctxt "Prissy"
+msgid "Provided you help make me real first."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-7/39/c-1/7
+msgctxt "Prissy"
+msgid "Oh! You are a tease!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-2/c-8/7
+msgctxt "Prissy"
+msgid "Yes! But looks can be deceiving when it comes to magic."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/0
+msgctxt "Prissy"
+msgid "We can talk about that later."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/8
+msgctxt "Prissy"
+msgid "Anyway."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/19
+msgctxt "Prissy"
+msgid "I'm sure you can imagine how much Woot is lost to evaporation in a traditional transfer procedure."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/0/s/0
+msgctxt "Choix"
+msgid "And what would a traditional transfer procedure be, pray?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/1/s/0
+msgctxt "Choix"
+msgid "Does Woot evaporate?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/7
+msgctxt "Prissy"
+msgid "Ooh, what a great question... um, cheering! At a game or a concert!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/15
+msgctxt "Prissy"
+msgid "That's a pretty recognizable one."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/23
+msgctxt "Prissy"
+msgid "Think about it. Those fans are watching, paying attention, loving, movin' and groovin', producing huge quantities of Woot..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/31
+msgctxt "Prissy"
+msgid "...and by the time it gets to the field or the stage, alllll the way over there, so far away from the source, how much of it has just drifted away?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/39/0/s/0
+msgctxt "Choix"
+msgid "That's a lot of lost Woot!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/39/1/s/0
+msgctxt "Choix"
+msgid "I have not thought about that. EVER."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/39/c-0/7
+msgctxt "Prissy"
+msgid "I KNOW. Hence, the can!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/39/c-1/7
+msgctxt "Prissy"
+msgid "I hadn't either, but now that I have... it makes sense."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/39/c-1/15
+msgctxt "Prissy"
+msgid "So the can is a really logical investment!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-9/39/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "So what do I have to do?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-10/7
+msgctxt "Prissy"
+msgid "Common misconception. Woot is an essence. It's made more of thought and intention than of matter."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-3/27/c-10/15
+msgctxt "Prissy"
+msgid "When I first learned about it, I just assumed it was like peanut butter."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-5/0
+msgctxt "Prissy"
+msgid "But nope."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-5/8/s/0
+msgctxt "Choix"
+msgid "Essence."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-5/9/s/0
+msgctxt "Choix"
+msgid "Almond butter, more like."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-5/c-11/7
+msgctxt "Prissy"
+msgid "Essence."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-5/c-12/15/0/s/0
+msgctxt "Choix"
+msgid "Kidding, kidding."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-5/c-12/15/c-0/7
+msgctxt "Prissy"
+msgid "So here's what I need from you."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/0
+msgctxt "Prissy"
+msgid "I've already filled the can, but the Woot Charging Ceremony as described in the instructions takes two."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/8
+msgctxt "Prissy"
+msgid "So we do the Ceremony, and then you water me, or you Wooter me, I guess and then..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/16
+msgctxt "Prissy"
+msgid "...I don't know! I guess I'm real! Ahhh so exciting!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/27
+msgctxt "Prissy"
+msgid "What do you think? Are you ready?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/35/s/0
+msgctxt "Choix"
+msgid "I am SO into this. Let's do it!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/36/s/0
+msgctxt "Choix"
+msgid "Ok, I guess... if you think it'll help you..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/37/s/0
+msgctxt "Choix"
+msgid "Are you kidding? Obviously I'm not doing this. Because SCIENCE."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-13/7 prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-2/7
+msgctxt "Prissy"
+msgid "Yessss ah you are so cool... !"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-14/7
+msgctxt "Prissy"
+msgid "I KNOW it will! Thank you!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/7
+msgctxt "Prissy"
+msgid "Wait, really?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/0/s/0
+msgctxt "Choix"
+msgid "Yeah, c'mon, this is such snake oil!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/1/s/0
+msgctxt "Choix"
+msgid "The Flirtilizer was pushing it... this is over the line."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/2/s/0
+msgctxt "Choix"
+msgid "Nah jk let's do this shit."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/7
+msgctxt "Prissy"
+msgid "Um, if by snake oil you mean a totally legitimate substance created by indentured Chinese workers on the railroad lines in the 1800's..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/15
+msgctxt "Prissy"
+msgid "...and then co-opted by stupid, unscrupulous profit-seekers, then YEAH. This is snake oil."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/23
+msgctxt "Prissy"
+msgid "Just because you don't understand it, or you refuse to believe in it, doesn't mean it isn't real."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/31
+msgctxt "Prissy"
+msgid "Doesn't mean it isn't important to me!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/39
+msgctxt "Prissy"
+msgid "This is important to me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "I'm sorry, but you're trying to do something that's impossible."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/47/1/s/0
+msgctxt "Choix"
+msgid "I will not participate in you getting taken advantage of over and over again."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/47/c-0/7
+msgctxt "Prissy"
+msgid "Just because it's never been done before doesn't mean it's impossible."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/47/c-0/15
+msgctxt "Prissy"
+msgid "And just because you've never seen it, doesn't mean you can't give me some credit. Or have a little faith. Or a little kindness."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/47/c-0/23
+msgctxt "Prissy"
+msgid "How 'bout a little Woot, ya fartface."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/47/c-1/7
+msgctxt "Prissy"
+msgid "What I choose to do with my resources is my business! You have no right to an opinion about my choices!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-0/47/c-1/18
+msgctxt "Prissy"
+msgid "If you don't wanna help, then fine. But at least you could not be such a blockhead about it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/7
+msgctxt "Prissy"
+msgid "...really?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Yeah. I honor that you want to be real. I do. But this isn't the way."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I think you want this so badly that you're not thinking rationally."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/0
+msgctxt "Prissy"
+msgid "Ok... so it's not that there's something wrong with me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Not at all! I think you're great and you should have what you want."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "No. There are unscrupulous people out there and you're... susceptible."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/0
+msgctxt "Prissy"
+msgid "Oh boy. I'm... all of a sudden I'm quite tired."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/8
+msgctxt "Prissy"
+msgid "Isn't that amazing? You can go from having so much energy and verve and ready to go and then, out of nowhere just feel so drained?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "It means you're passionate."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "Been there. It can be rough."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/0
+msgctxt "Prissy"
+msgid "I think... oh, I don't know. I think maybe you're right."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/8
+msgctxt "Prissy"
+msgid "I do get carried away sometimes, and maybe my dream can't happen of being a real plant. But even if it can, I am hoping so, so hard that it can."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/16
+msgctxt "Prissy"
+msgid "...maybe I just need to find a way that's a little more realistic."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/24
+msgctxt "Prissy"
+msgid "A little more... scientific?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/32/0/s/0
+msgctxt "Choix"
+msgid "Exactly. We can figure it out."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/32/1/s/0
+msgctxt "Choix"
+msgid "Maybe you should get some rest now."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/32/g-0/0
+msgctxt "Prissy"
+msgid "Ok. I think I'll just go and look out the window for a little while."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/32/g-0/8
+msgctxt "Prissy"
+msgid "I watch those trees waving in the breeze... it rests my heart."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/wootering/c-15/15/c-1/15/g-0/8/g-0/16/g-0/32/g-0/16
+msgctxt "Prissy"
+msgid "I just love the green..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/0
+msgctxt "Prissy"
+msgid "Ok, so to start, we both stand next to the can."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/8
+msgctxt "Prissy"
+msgid "Do we hold hands... no. Ok."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/19
+msgctxt "Prissy"
+msgid "And we both deliberately imagine The Woot making its way from the can, across the medium of the water, intertwining with my roots..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/27/s/0
+msgctxt "Choix"
+msgid "You mean the plastic stakes below the dirt in your pot, right?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/28/s/0
+msgctxt "Choix"
+msgid "You're losing me a little here..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/29/s/0
+msgctxt "Choix"
+msgid "Yes, filling you with life and Woot and realness!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/c-16/7
+msgctxt "Prissy"
+msgid "...yes. I think of those as my roots, ok? Just... shush."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/c-17/7
+msgctxt "Prissy"
+msgid "Don't worry, we're almost done!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/c-17/18
+msgctxt "Prissy"
+msgid "I really appreciate that you're helping me with this!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/ceremony/c-18/7
+msgctxt "Prissy"
+msgid "Exactly!!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/0
+msgctxt "Prissy"
+msgid "And when we have this image firmly in our minds' eyes, we say with a big breath..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/8 prissy_plant/prissy_encounter2/0/g-7/8
+msgctxt "Prissy"
+msgid "\"And The Woot Shall Be!\""
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/16
+msgctxt "Prissy"
+msgid "Woot shall be.... yep, woot shall be. Ok."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/24
+msgctxt "Prissy"
+msgid "Imagining... imagining... ok I've got it! Do you have it?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/32/s/0
+msgctxt "Choix"
+msgid "Yep, front and center!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/33/s/0
+msgctxt "Choix"
+msgid "This is ridiculous."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/34/s/0
+msgctxt "Choix"
+msgid "I think I left the stove on, I'd better go check..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/c-19/7
+msgctxt "Prissy"
+msgid "Wonderful!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/c-20/7
+msgctxt "Prissy"
+msgid "Come on, stick with me we're almost there..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-6/c-21/7
+msgctxt "Prissy"
+msgid "Oh, Stefan's fine, trust me! Keep imagining...."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/0
+msgctxt "Prissy"
+msgid "Ok, ready for the words? Here we go...."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/19/s/0
+msgctxt "Choix"
+msgid "\"And The Woot Shall Be!\""
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/20/s/0
+msgctxt "Choix"
+msgid "Nope. I'm out."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-22/7
+msgctxt "Prissy"
+msgid "Great! Quick! Pour the water!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-22/15/0/s/0
+msgctxt "Choix"
+msgid "<i>Pour The Woot.</i>"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-22/15/1/s/0
+msgctxt "Choix"
+msgid "<i>Pour The Woot and secretly think this is all bogus.</i>"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-22/15/c-0/13
+msgctxt "Narrator"
+msgid "You pour The Woot—or the watering can at any rate, doing your best to think positive thoughts for sweet Prissy."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-22/15/c-1/7
+msgctxt "Narrator"
+msgid "You pour The Woot—or the watering can at any rate, but it's all you can do to keep your eyes from rolling. This is stupid. Stupid!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/7
+msgctxt "Prissy"
+msgid "Wait! Why?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/18
+msgctxt "Prissy"
+msgid "It's all charged up and everything... you're not even gonna say the words??"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/26/0/s/0
+msgctxt "Choix"
+msgid "Nope. I'm not. This is so dumb."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/26/1/s/0
+msgctxt "Choix"
+msgid "Love ya! Catch you on the flip!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/26/c-0/15
+msgctxt "Prissy"
+msgid "Dumb. Ok."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/26/c-0/26
+msgctxt "Prissy"
+msgid "I wish... no no, it's fine... it's not fine. I... nevermind."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/26/c-0/34
+msgctxt "Prissy"
+msgid "I'll just save this water in case... oh I don't know. Who cares."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-7/c-23/26/c-1/7
+msgctxt "Prissy"
+msgid "...bye."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/8
+msgctxt "Prissy"
+msgid "Is it working? I feel like it's working!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/19
+msgctxt "Prissy"
+msgid "The Flirtilizer kind of tingled, like pins and needles. This is much more... soft? Warm?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/27
+msgctxt "Prissy"
+msgid "It's like that time someone thought I was real and left me in a greenhouse for a few hours at the Home Warehouse."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/35
+msgctxt "Prissy"
+msgid "Gosh what a fantastic day that was! I got to talk to a hydrangea. A real one!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/43
+msgctxt "Prissy"
+msgid "Can you see a difference?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/51
+msgctxt "Narrator"
+msgid "Prissy looks just as she had before, save for a bit of extra moisture on her leaves."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/59/s/0
+msgctxt "Choix"
+msgid "You know what, now that you mention it... no."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/result2/60/s/0
+msgctxt "Choix"
+msgid "I really can't. You just look a little wetter."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-8/0
+msgctxt "Prissy"
+msgid "Ah!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-8/8
+msgctxt "Prissy"
+msgid "Oh, boy, if I have to stomach one more time that it hasn't worked, that I'm still not real, that I'm just a plastic plant no different from a grocery bag or a bike tire..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-8/16
+msgctxt "Prissy"
+msgid "Oh no."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-8/24
+msgctxt "Prissy"
+msgid "It's amazing what you can take, isn't it? When you don't have a choice?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-8/32/s/0
+msgctxt "Choix"
+msgid "I'm so sorry, Prissy."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-8/33/s/0
+msgctxt "Choix"
+msgid "We'll try again. You'll find something."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-8/c-27/7
+msgctxt "Prissy"
+msgid "I will. I'll try until it works."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-9/0
+msgctxt "Prissy"
+msgid "I think I'd better rest now."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-9/8
+msgctxt "Prissy"
+msgid "Tired but not defeated!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-9/16
+msgctxt "Prissy"
+msgid "Thanks for your help. You're really..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-9/24
+msgctxt "Prissy"
+msgid "You're just the best. I think this would be a lot harder without..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter2/0/g-9/32
+msgctxt "Prissy"
+msgid "...without someone who believes in me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/6
+msgctxt "Prissy"
+msgid "Hey. You... I'm glad you came back."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/14
+msgctxt "Prissy"
+msgid "I've been thinking about some things... and maybe I did get a little carried away before with the Flirtilizer and the Wootering Can."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/22
+msgctxt "Prissy"
+msgid "Although I can feel a little bit of a difference!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/30/b/1
+msgctxt "Prissy"
+msgid "Even though you didn't use anything I gave you... positive thinking can change the world... or so I've heard."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/31/b/1
+msgctxt "Prissy"
+msgid "It's all because you've helped me so much!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/32/b/1
+msgctxt "Prissy"
+msgid "You believing in the magic has helped so much!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/35
+msgctxt "Prissy"
+msgid "I'm not totally real yet, but I really think I'm closer than I was."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/43
+msgctxt "Prissy"
+msgid "Don't you think?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/51/s/0
+msgctxt "Choix"
+msgid "I totally do! No effort is ever wasted."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/52/s/0
+msgctxt "Choix"
+msgid "There is not a single thing different about you at all. No offense."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/c-0/7
+msgctxt "Prissy"
+msgid "I like that. Yeah. Everything matters, if only a little bit."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/c-1/7
+msgctxt "Prissy"
+msgid "Ok... well, thanks for your opinion, I guess."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/0
+msgctxt "Prissy"
+msgid "I don't think I was wrong, per se. About those other products. But I feel like those things weren't addressing the real problem."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Ok. What's the real problem?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Yeah. That you're plastic, and you can't become not plastic."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/7
+msgctxt "Prissy"
+msgid "Look. If you're going to be like that, why did you even come back here."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "To torment you, mostly."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "I'm sorry. I just... I hate seeing you get hurt all the time."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/c-0/7
+msgctxt "Prissy"
+msgid "Question answered."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/c-1/7
+msgctxt "Prissy"
+msgid "I know. I hate it, too. Well not hate, maybe. But it sure hurts a lot."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/c-1/15
+msgctxt "Prissy"
+msgid "I appreciate that you're on my side. Even if you're not so great at expressing it sometimes."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/c-1/23
+msgctxt "Prissy"
+msgid "Can I just tell you... because I have a new thought working through my mind now."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Sure. Go for it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "I am on your side. What's your thought?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-0/c-3/15/c-1/31/2/s/0
+msgctxt "Choix"
+msgid "Shmeh okay."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-1/0
+msgctxt "Prissy"
+msgid "I think maybe I've got bugs."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Bugs."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Prissy... only real plants get bugs."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-1/c-5/7
+msgctxt "Prissy"
+msgid "Don't you think I know that???"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-1/c-5/15
+msgctxt "Prissy"
+msgid "It's embarrassing to even say this because I knew you were gonna say that I was plastic, like I don't know I'm plastic..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-1/c-5/23
+msgctxt "Prissy"
+msgid "Please just hear me out."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/0
+msgctxt "Prissy"
+msgid "Bugs. I think maybe part of the reason I haven't become real yet is that I'm actually afraid to because there are bugs on me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Prissy... you're being paranoid."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Ok. I don't agree. But ok. What's your plan?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "Makes sense. Something in you knows not to become real yet because you're under threat right now."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/c-6/7
+msgctxt "Prissy"
+msgid "I am NOT paranoid. There are bugs everywhere up here. Is it so crazy to think that they're on me, too?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/c-6/15
+msgctxt "Prissy"
+msgid "I just... this is the last thing I'll ask you to do, ok? I promise."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/c-6/23/0/s/0
+msgctxt "Choix"
+msgid "Ok. Last thing. I mean it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/c-6/23/1/s/0
+msgctxt "Choix"
+msgid "I'll always help you, I just... I'm just worried."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/c-6/23/2/s/0
+msgctxt "Choix"
+msgid "Just tell me what the quest is already."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/c-6/23/c-1/7
+msgctxt "Prissy"
+msgid "I know. I am, too. But I think I've got it this time."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-2/c-8/7
+msgctxt "Prissy"
+msgid "Exactly. So here's what I'm thinking."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-3/0
+msgctxt "Prissy"
+msgid "It's vinegar."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-3/11
+msgctxt "Narrator"
+msgid "Prissy hands you a bottle of ordinary, no-frills vinegar—presumably white, but the label isn't even that specific."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-3/16/s/0
+msgctxt "Choix"
+msgid "Vinegar? Like the common pantry staple vinegar?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-3/17/s/0
+msgctxt "Choix"
+msgid "Oh yeah! I've heard that works really well!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-3/c-9/7
+msgctxt "Prissy"
+msgid "Common, basic, household vinegar."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-3/c-9/15
+msgctxt "Prissy"
+msgid "I thought maybe I'd use apple cider vinegar but I couldn't find any up here so... this is what we've got."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-3/c-10/7
+msgctxt "Prissy"
+msgid "It does! At least according to the real plants that I've talked to. But... one day I'll be real so... it applies."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/0
+msgctxt "Prissy"
+msgid "Can you? Just spritz in on my leaves, or brush my leaves with it?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/8
+msgctxt "Prissy"
+msgid "It'll drive out the bugs that are there and it will make sure that no new bugs come."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/16
+msgctxt "Prissy"
+msgid "Even bugs don't like the smell of vinegar. It's like a universal thing."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/24/s/0
+msgctxt "Choix"
+msgid "You've got it, friend."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/25/s/0
+msgctxt "Choix"
+msgid "...you're plastic. This will do nothing."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/13
+msgctxt "Prissy"
+msgid "Yes! Ah, thank you. I..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/21
+msgctxt "Prissy"
+msgid "It's hard to stay hopeful sometimes. It really helps to have someone around who believes in me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/29
+msgctxt "Prissy"
+msgid "Probably wouldn't surprise you to know that there are quite a few other folks around here who think I've spent too long in the sun."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/37
+msgctxt "Prissy"
+msgid "\"Her leaves are a-meltin'!\" That's what they say when they think I can't hear them. Can you believe that?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/0/s/0
+msgctxt "Choix"
+msgid "Sure, I can. Folks get judgmental sometimes of things they don't understand."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/1/s/0
+msgctxt "Choix"
+msgid "Jerks."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/2/s/0
+msgctxt "Choix"
+msgid "Well... this isn't \"balanced\" behavior, per se."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/7
+msgctxt "Prissy"
+msgid "Yeah. I don't think they're trying to hurt me... but it's just..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/15
+msgctxt "Prissy"
+msgid "...thank you. For not being like that."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I've been there. I'm glad I can help."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Of course! Screw those guys."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-0/7
+msgctxt "Prissy"
+msgid "Me too."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-0/15
+msgctxt "Prissy"
+msgid "Alrighty... I'm ready! Vinegar me!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/7
+msgctxt "Prissy"
+msgid "Ha! Well... not necessarily \"screw them.\" That's... ooh I don't know, I don't usually say stuff like that!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Why not? They deserve it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Now might be the time to start!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "You don't have to. I'll do it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/c-0/7
+msgctxt "Prissy"
+msgid "True..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/c-1/7
+msgctxt "Prissy"
+msgid "Just tryin' all kinds of new stuff today, aren't I!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/c-2/7
+msgctxt "Prissy"
+msgid "No, I can. It's me they're mocking, anyway, I should be able to defend myself..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/g-0/0
+msgctxt "Prissy"
+msgid "SCREW those guys!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/g-0/11
+msgctxt "Prissy"
+msgid "Wooooowwww I feel so powerful!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-0/23/c-1/15/g-0/25
+msgctxt "Prissy"
+msgid "I am SO ready to get vinegared right now!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-1/7
+msgctxt "Prissy"
+msgid "I know. I don't think they mean it, though."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-1/15
+msgctxt "Prissy"
+msgid "At least I hope they don't mean it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-1/23
+msgctxt "Prissy"
+msgid "If they mean it... oh soil, I don't even want to <i>think</i> about that."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-1/31
+msgctxt "Prissy"
+msgid "Let's just do our thing, ok? Let's not worry about those guys."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/7
+msgctxt "Prissy"
+msgid "Wait. I'm balanced. I haven't fallen over a single time since we've been talking."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/15
+msgctxt "Prissy"
+msgid "Have I? I'm pretty sure I haven't."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "That's not... yes. True. You've remained upright."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "I mean psychologically."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/2/s/0
+msgctxt "Choix"
+msgid "I take it back. You're nuts."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-0/7
+msgctxt "Prissy"
+msgid "Exactly."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-0/15
+msgctxt "Prissy"
+msgid "So maybe I'm perfectly balanced and you can just help me this one last time and then maybe we don't ever have to talk about my \"balance\" again?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-0/23
+msgctxt "Prissy"
+msgid "Sounds good. Yep, I like my plan."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-1/7
+msgctxt "Prissy"
+msgid "Look. You said you'd help me. So maybe just help me and we can spare the sermon?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-1/15
+msgctxt "Prissy"
+msgid "I won't ask you to do anything else for me. Promise."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Ok ok ok. You ready?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "Sermon on hold for later, though!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-1/23/c-0/7
+msgctxt "Prissy"
+msgid "SO ready. Let's do this!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-1/23/c-1/7
+msgctxt "Prissy"
+msgid "Ugh, whatever, fine!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-2/7 prissy_plant/prissy_encounter3/0/g-4/c-12/18/c-1/7
+msgctxt "Prissy"
+msgid "Wow I am tired of being told I'm nuts!!!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-11/45/c-2/23/c-2/18 prissy_plant/prissy_encounter3/0/g-4/c-12/18/c-1/15
+msgctxt "Prissy"
+msgid "Do you have any idea how old that gets? How would <i>you</i> like it??"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/7
+msgctxt "Prissy"
+msgid "Oh for the love of potting soil... are we really back to this??"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/0/s/0
+msgctxt "Choix"
+msgid "First it's all magic stuff, and now it's basic vinegar? Pick a lane."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/1/s/0
+msgctxt "Choix"
+msgid "This is NUTS!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/2/s/0
+msgctxt "Choix"
+msgid "I thought the other two were borderline. This is just delusional."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/c-0/7
+msgctxt "Prissy"
+msgid "Here's my lane."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/c-0/15
+msgctxt "Narrator"
+msgid "Prissy sticks her tongue out at you, blowing a very classy and mature raspberry."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/c-0/23
+msgctxt "Prissy"
+msgid "<w> PBTHHHH! </w>"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/c-2/7
+msgctxt "Prissy"
+msgid "Delusional? I'm.... wait, I'm delusional now that I'm using a recognizable and <i>scientifically approved</i> useful substance?"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-4/c-12/18/c-2/15
+msgctxt "Prissy"
+msgid "I think I've had just about enough of you!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/0
+msgctxt "Prissy"
+msgid "Vinegar me!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/8/s/0
+msgctxt "Choix"
+msgid "<i>Brush her leaves with vinegar.</i>"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/9/s/0
+msgctxt "Choix"
+msgid "<i>Spray vinegar liberally.</i>"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/10/s/0
+msgctxt "Choix"
+msgid "<i>Smell the vinegar, wax nostalgic about salad dressing, trip and spill the vinegar, hit Prissy's leaves by mistake.</i>"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-13/7
+msgctxt "Narrator"
+msgid "You gently brush her leaves with vinegar, ensuring she gets only as much as she needs to do the work."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-13/15
+msgctxt "Prissy"
+msgid "Mmmm... I've never had a massage but if I ever get one I hope it feels as good as this!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-14/7
+msgctxt "Narrator"
+msgid "You spray Prissy all over with the vinegar, dousing her in the stuff until her leaves shine."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-14/18
+msgctxt "Prissy"
+msgid "Ooh it's like a spa shower!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-15/7
+msgctxt "Narrator"
+msgid "You allow yourself a small sniff of the vinegar and are immediately transported back in time to a lovely salad you had just recently—you ought to order another."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-15/15
+msgctxt "Narrator"
+msgid "You bend down for another sniff, bringing your nose too close to the container, and in an instant your pleasant memory becomes a nightmare. Your nose burns, and you stumble forward from the shock, tripping over your own feet and spilling vinegar all over Prissy."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-15/26
+msgctxt "Narrator"
+msgid "She's positively soaked in the vile-smelling liquid, sputtering and coughing."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-15/37
+msgctxt "Prissy"
+msgid "<w>!!!</w>"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/vinegar/c-15/45
+msgctxt "Prissy"
+msgid "What the heck!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-5/0
+msgctxt "Prissy"
+msgid "Oh good soil what a... what a unique and distinctive smell that is."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-5/11
+msgctxt "Prissy"
+msgid "Even if it doesn't get rid of the bugs, I feel a heck of a lot cleaner!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-5/19
+msgctxt "Prissy"
+msgid "I think I feel it working... Oh boy I hope I feel it working."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-5/27/s/0
+msgctxt "Choix"
+msgid "Fingers crossed!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-5/28/s/0
+msgctxt "Choix"
+msgid "Sorry if I messed that up..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/0
+msgctxt "Prissy"
+msgid "Hey. Thanks for your help. Whether or not this finally does the trick... it's been really nice to have an ally."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/8/s/0
+msgctxt "Choix"
+msgid "You got it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/9/s/0
+msgctxt "Choix"
+msgid "I hope I didn't just enable you..."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/10/s/0
+msgctxt "Choix"
+msgid "You smell bad. I'm gonna take a walk."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-18/7
+msgctxt "Prissy"
+msgid "Don't forget to come back and check on me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-18/15
+msgctxt "Prissy"
+msgid "Who knows? I might just be real by then!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-19/7
+msgctxt "Prissy"
+msgid "Even if you did. We're not hurting anybody. But you didn't. You helped me."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-19/15
+msgctxt "Prissy"
+msgid "And it's not on you anymore anyway. That was it. The last favor - I promised."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-19/23
+msgctxt "Prissy"
+msgid "I'd love to see you again, though. Maybe you'll be my first visitor as a real plant!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-20/7
+msgctxt "Prissy"
+msgid "Yeah, I get that. I think I would take a walk if I could!"
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-20/15
+msgctxt "Prissy"
+msgid "But if I get to be real? It'll all be worth it."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-20/23
+msgctxt "Prissy"
+msgid "I think if I become real, vinegar might turn out to be my favorite smell in all the world."
+msgstr ""
+
+#: prissy_plant/prissy_encounter3/0/g-6/c-20/31
+msgctxt "Prissy"
+msgid "But yeah. Right now you should go for sure. Don't want us turning into dizzy daisies over here!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/0
+msgctxt "Prissy"
+msgid "Hey! You came back."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/8
+msgctxt "Prissy"
+msgid "Gotta be honest, I didn't think you would!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/16
+msgctxt "Prissy"
+msgid "For a while there it seemed like maybe you thought I had lost a clip or something."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/24
+msgctxt "Prissy"
+msgid "Leaves all flyin' around willy-nilly... scary stuff."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/32/s/0
+msgctxt "Choix"
+msgid "Well... yeah, that's exactly what I thought."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/33/s/0
+msgctxt "Choix"
+msgid "Not at all! You're fine. Your requests just didn't sound like fun to me."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/34/s/0
+msgctxt "Choix"
+msgid "Come on, I still care about you!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-0/7 prissy_plant/prissy_love_joiner/0/g-0/c-3/39/c-0/23/c-0/7
+msgctxt "Prissy"
+msgid "Nice."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-0/15
+msgctxt "Prissy"
+msgid "At least you're honest, I guess."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/7
+msgctxt "Prissy"
+msgid "Huh. Does everything have to be fun?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/15
+msgctxt "Prissy"
+msgid "I mean getting sprayed with vinegar wouldn't make my list of hobbies, if you know what I mean, but I still wanted to do it."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Well yeah! If it's not fun, why do it?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "No, I guess not. Maybe your requests just didn't sound interesting?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/23/c-0/7
+msgctxt "Prissy"
+msgid "Because I asked...?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/23/c-0/15
+msgctxt "Prissy"
+msgid "Oh nevermind. Don't worry about it."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/23/c-1/7
+msgctxt "Prissy"
+msgid "Ah. Well. That definitely stung a little more than \"fun.\""
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/23/c-1/15
+msgctxt "Prissy"
+msgid "Hmm, never thought of myself as boring."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-1/23/c-1/23
+msgctxt "Prissy"
+msgid "And I'm sure not gonna start now! Even if I am still... well."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/c-2/7
+msgctxt "Prissy"
+msgid "Aw. I really appreciate that. Maybe I can just be your kooky plastic friend. That you care about."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/0
+msgctxt "Prissy"
+msgid "As you can see... I'm still Prissy Plastique. Plastic me."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/8
+msgctxt "Prissy"
+msgid "None of my grand schemes panned out in the end. Not even the one you were willing to help me with!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/16
+msgctxt "Prissy"
+msgid "But that's not your fault. At least I don't think it is."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/24
+msgctxt "Prissy"
+msgid "It might be, I guess. But why think about that."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/32
+msgctxt "Prissy"
+msgid "I'd rather have a new friend than someone to be mad at."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/40
+msgctxt "Prissy"
+msgid "So... maybe we can be friends?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "Yeah. I'd really like that."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "Oh, no way. You're fully cuckoo-pants."
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/c-4/7
+msgctxt "Prissy"
+msgid "I... what? Why the... why did you even come back here, then??"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/c-4/18/0/s/0
+msgctxt "Choix"
+msgid "To tell you that you're cuckoo-pants...?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_single/0/g-0/c-4/18/1/s/0 prissy_plant/prissy_twice/0/g-1/c-5/26/1/s/0
+msgctxt "Choix"
+msgid "Good point. This was probably a bad move."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/0
+msgctxt "Prissy"
+msgid "Hey! Wow. It's really nice to see you again!"
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/8
+msgctxt "Prissy"
+msgid "Don't worry, I promised... no more crazy schemes."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/16
+msgctxt "Prissy"
+msgid "They didn't work anyway, as you've probably already noticed."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/24
+msgctxt "Prissy"
+msgid "I am still good ol' original Prissy Plastique!"
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/32
+msgctxt "Prissy"
+msgid "I was really hopin' to be the new and improved version but... oh well."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/40/s/0
+msgctxt "Choix"
+msgid "I've always thought you were great this way."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/41/s/0
+msgctxt "Choix"
+msgid "Still depressed about this, huh? I was hoping you'd be over it by now."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-0/7
+msgctxt "Prissy"
+msgid "Aw. Thanks."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-0/15
+msgctxt "Prissy"
+msgid "I guess now that I've tried dang near everything to change..."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-0/23
+msgctxt "Prissy"
+msgid "...I should start learning how to be ok with what I've got."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-0/31
+msgctxt "Prissy"
+msgid "And if you think I'm great... I guess that's a pretty good beginning."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-1/7
+msgctxt "Prissy"
+msgid "Over the final failure to achieve the dream of my whole existence?"
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-1/15
+msgctxt "Prissy"
+msgid "Um... not quite."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-1/23
+msgctxt "Prissy"
+msgid "Ooh. That sounded kind of snarky, didn't it. I didn't mean it that way. I mean, genuinely, not quite."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-1/31
+msgctxt "Prissy"
+msgid "But I will get over it! I'll be alright. I never stay down for long."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/c-1/39
+msgctxt "Prissy"
+msgid "And even though this was the outcome, I am still grateful for all your help."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-0/0
+msgctxt "Prissy"
+msgid "Reminds me of something I wanted to ask you, actually."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Shoot."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "No, I will not re-pot you."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-0/c-3/7
+msgctxt "Prissy"
+msgid "Ha! No... that wouldn't do anything."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-0/c-3/15
+msgctxt "Prissy"
+msgid "I don't think... would it???"
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-0/c-3/23
+msgctxt "Prissy"
+msgid "No. No no no no no. Focus."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/0
+msgctxt "Prissy"
+msgid "I wanted to ask if you'd be my friend. Officially."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/8
+msgctxt "Prissy"
+msgid "There's no, like, tasks or anything associated with this. \"Officially\" just means that when I talk about you, I can call you my friend. And vice versa."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/16
+msgctxt "Prissy"
+msgid "Pretty simple."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/24
+msgctxt "Prissy"
+msgid "What do you think?"
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "I think it's great! We were already friends in my mind, anyway."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "Oh yeah, no. I don't think so. I don't actually like you all that much."
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/c-5/7
+msgctxt "Prissy"
+msgid "You... what???"
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/c-5/15
+msgctxt "Prissy"
+msgid "You just let me say all that stuff and be all vulnerable and bare my roots and you knew you were going to act like a butt-nugget this whole time??"
+msgstr ""
+
+#: prissy_plant/prissy_twice/0/g-1/c-5/26/0/s/0
+msgctxt "Choix"
+msgid "AND WHAT'S SO WRONG ABOUT BEING A BUTT-NUGGET??"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/7
+msgctxt "Narrator"
+msgid "There's something different about Prissy today—she almost seems <i>alive</i>, which is a strange thing to say about a plastic plant. Could it be...?"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/15
+msgctxt "Prissy"
+msgid "Well well well... look who it is!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/23
+msgctxt "Prissy"
+msgid "My genuine, honest-to-backhoe hero!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/31/s/0
+msgctxt "Choix"
+msgid "Prissy... oh my god, what happened??"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/32/s/0
+msgctxt "Choix"
+msgid "Backhoe Hero... good band name."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/c-1/7
+msgctxt "Prissy"
+msgid "Well I'd better start it then... there's more than enough of me to play any instrument I choose!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-0/0
+msgctxt "Prissy"
+msgid "You did it. We did it!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-0/14
+msgctxt "Prissy"
+msgid "I don't know exactly how it happened, if it was one of the things we did, or all of them together..."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-0/22
+msgctxt "Prissy"
+msgid "...or maybe it was just the magic of having someone who believed in me and showed up for me..."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-0/30
+msgctxt "Prissy"
+msgid "...but I am REAL. I am real and I am... everywhere!!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-0/38/s/0
+msgctxt "Choix"
+msgid "Everywhere?"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-0/39/s/0
+msgctxt "Choix"
+msgid "Congratulations!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-0/c-2/7
+msgctxt "Prissy"
+msgid "...everywhere."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/0
+msgctxt "Prissy"
+msgid "I think we can agree that even <i>if</i> there's some sciency mumbo jumbo at work..."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/8
+msgctxt "Prissy"
+msgid "...that there is absolutely magic!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/16
+msgctxt "Prissy"
+msgid "I just cannot, ever, thank you enough. You made my dream come true."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/24
+msgctxt "Prissy"
+msgid "I'd say I could die of happiness... if I wasn't so goshdarned ALIVE!!!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "I'm so happy for you! You look so... beautiful."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "I did have my doubts... but I'd help you any day. I love you!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/34/s/0
+msgctxt "Choix"
+msgid "I'm so proud of you, friend!"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/c-4/7
+msgctxt "Prissy"
+msgid "And I feel beautiful, too... I can't even express to you what this feels like."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/c-4/15
+msgctxt "Prissy"
+msgid "It feels like something has been missing for so long... and now it's home. I'm complete. Everything is alright. And now..."
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/c-5/7
+msgctxt "Prissy"
+msgid "You... love me?"
+msgstr ""
+
+#: prissy_plant/prissy_thrice/0/g-1/c-5/15
+msgctxt "Prissy"
+msgid "I... I love you, too! Wow!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/18
+msgctxt "Prissy"
+msgid "This is just turning out to be the most excellent day I think I have ever had, ever!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/26
+msgctxt "Prissy"
+msgid "I am real, I am filling this whole house with color and lovely smells and now... now I have a friend."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/34
+msgctxt "Prissy"
+msgid "What do friends do with each other? Ha! I don't even know! What do we do now??"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/42/s/0
+msgctxt "Choix"
+msgid "We sit together and look out the window!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/43/s/0
+msgctxt "Choix"
+msgid "We definitely play Stackgammon."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/44/s/0
+msgctxt "Choix"
+msgid "We could read books?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-0/7
+msgctxt "Prissy"
+msgid "Ahhhh. While the sun streams in on us, and the room is all quiet and peaceful and we're just enjoying being together?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That's it."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Add in some hot cocoa, and you nailed it."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-0/15/g-0/0
+msgctxt "Prissy"
+msgid "Sounds absolutely perfect. Friend."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/7
+msgctxt "Prissy"
+msgid "Ooh, what's that?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "We make big stacks of stuff and see whose stack falls over last."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "We make a lot of pancakes, and we stack them, and then we eat them."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-0/7
+msgctxt "Prissy"
+msgid "Sounds fun!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-0/15
+msgctxt "Prissy"
+msgid "I'm probably gonna win, though... I have vines now."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-1/7
+msgctxt "Prissy"
+msgid "Do you know... I have never had a pancake before?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "PRISSY."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Prepare to have your blossoms blown."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-1/15/c-0/7
+msgctxt "Prissy"
+msgid "I know! So glad we're correcting this horrible oversight."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-1/15/c-0/15
+msgctxt "Prissy"
+msgid "Bring on the Stackgammon!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-1/15/c-1/15/c-1/7
+msgctxt "Prissy"
+msgid "I'm ready! Bring on the cakes, baby!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/7
+msgctxt "Prissy"
+msgid "I love books!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/15
+msgctxt "Prissy"
+msgid "I've actually just started one called \"The Backwoods in Your Backyard: What To Do When Your Plants Start To Take Over Your Life\"!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Trying to tell me something there?"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "Love it. I'm reading \"Leafy Love: Being The Most Devoted Plant Parent You Can Be.\""
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/23/c-0/7
+msgctxt "Prissy"
+msgid "No! No. I don't think so."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/23/c-0/15
+msgctxt "Prissy"
+msgid "Oh no... I think now that I'm real... I might have a subconscious with all kinds of hidden intentions and motivations!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/23/c-0/23
+msgctxt "Prissy"
+msgid "That's a scary development."
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/23/c-0/31
+msgctxt "Prissy"
+msgid "Hmph. Anyway, book time, friend!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_joiner/0/c-2/23/c-1/7
+msgctxt "Prissy"
+msgid "Awwwwww. I think our story time is going to be really rewarding."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/15
+msgctxt "Prissy"
+msgid "I have love. Just when I thought my life couldn't possibly get any better... I have love."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/23
+msgctxt "Prissy"
+msgid "You know, it's funny. I guess part of me always thought that if I ever found love, it would be a big splashy thing."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/31
+msgctxt "Prissy"
+msgid "I mean obviously in my fantasies before, I was a real plant. But there was always something else that made it <i>really</i> special."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/39/s/0
+msgctxt "Choix"
+msgid "Like what?"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/40/s/0
+msgctxt "Choix"
+msgid "Being real wouldn't have been special enough?"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/c-0/7
+msgctxt "Prissy"
+msgid "Oh I don't know... like fireworks maybe, or like a big party, or maybe an orchestra playing and everyone dancing and laughing."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/c-1/7
+msgctxt "Prissy"
+msgid "Well, it's like the being real <i>had</i> to happen before love was even an option. It was a prerequisite, but just all by itself, it wasn't enough."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/0
+msgctxt "Prissy"
+msgid "But now I'm here, and I'm real, and I have that thing I've always wanted, and it is enough..."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/8
+msgctxt "Prissy"
+msgid "...because <i>I</i> love me. It turns out to be really... quiet. And simple. Just the realization that I love me. I guess I always did, I just didn't know it."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/16
+msgctxt "Prissy"
+msgid "So you loving me isn't a great big... thing. It's the right thing. It makes sense."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/24
+msgctxt "Prissy"
+msgid "And I wouldn't want it any other way."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "Well good. Because I'm staying right here."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "That's a beautiful thought."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/7
+msgctxt "Prissy"
+msgid "You'd better!"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/15
+msgctxt "Prissy"
+msgid "Gosh, can you imagine if we finally got to say 'I love you' to each other and you just up and boogied?"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/23
+msgctxt "Prissy"
+msgid "That would be a buffoon move, darling."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/31
+msgctxt "Prissy"
+msgid "Don't be a buffoon."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/39
+msgctxt "Prissy"
+msgid "In fact, you'd better kiss me before either of us has anymore silly ideas!"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/47/0/s/0
+msgctxt "Choix"
+msgid "It's the only safe solution!"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/47/1/s/0
+msgctxt "Choix"
+msgid "Hahaha. Maybe later. Hold that thought, though!"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/47/c-0/7
+msgctxt "Prissy"
+msgid "Mwah!"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-2/47/c-1/7
+msgctxt "Prissy"
+msgid "You know I will!"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/7
+msgctxt "Prissy"
+msgid "I know. Such a surprising one, too."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/15
+msgctxt "Prissy"
+msgid "To want something for so long and then get it, only to realize that it's totally wonderful... and you didn't really need it this whole time."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/23
+msgctxt "Prissy"
+msgid "Amazing."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/31
+msgctxt "Prissy"
+msgid "Thank you for that."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/39/0/s/0
+msgctxt "Choix"
+msgid "Not sure I can take credit."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/39/1/s/0
+msgctxt "Choix"
+msgid "You're very welcome, my love!"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/39/c-0/7
+msgctxt "Prissy"
+msgid "Oh go on. Take a little bit."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/39/c-0/15
+msgctxt "Prissy"
+msgid "Little bit?"
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/39/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "...oh ok."
+msgstr ""
+
+#: prissy_plant/prissy_love_joiner/0/g-0/c-3/39/c-1/7
+msgctxt "Prissy"
+msgid "My love! Ooh that sounds nice."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/0
+msgctxt "Prissy"
+msgid "Maybe I’ll end up flowering and maybe I won’t."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/8
+msgctxt "Prissy"
+msgid "And maybe I am a little nutty, and maybe I'm just as sane as anybody else!"
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/16
+msgctxt "Prissy"
+msgid "But whatever the case, it doesn't make me any less valuable or worthy... it doesn't make me any less of a plant than any other tree, or cactus, or flower."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/24/s/0
+msgctxt "Choix"
+msgid "You're just a thing. Not a plant."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/25/s/0
+msgctxt "Choix"
+msgid "I just get embarrassed doing all this woot-y flirt-y stuff!"
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/c-0/7
+msgctxt "Prissy"
+msgid "You seem to think you have final say over my identity, what's ok for me and what's not, but you know what?"
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/g-0/0
+msgctxt "Prissy"
+msgid "I don't give a good loud toot about what you think."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/g-0/8
+msgctxt "Prissy"
+msgid "The only thing that matters is how I feel about myself."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/g-0/16
+msgctxt "Prissy"
+msgid "And despite your best efforts, I feel happy. I couldn't care less whether you like me or not! I LIKE ME."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/g-0/24
+msgctxt "Prissy"
+msgid "I hope that one day you get to feel that. This weird, narrow-minded judgy thing you've got going on might make it harder... but I still hope."
+msgstr ""
+
+#: prissy_plant/prissy_hate_ending/0/g-0/32
+msgctxt "Prissy"
+msgid "I think you may have to do some serious growing to get there."
+msgstr ""
+
+#: prissy_plant/prissy_hate_joiner/34
+msgctxt "Reggie"
+msgid "Never thought this relationship would flower..."
+msgstr ""
+
+#: prissy_plant/prissy_hate_joiner/42
+msgctxt "Reggie"
+msgid "Looks like this relationship's withered on the vine..."
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/0
+msgctxt "Prissy"
+msgid "It is just so goshdarned wonderful that you're back!"
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/8
+msgctxt "Prissy"
+msgid "I'm happy to see you. Don't know if I've been clear about that or not..."
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/16/s/0
+msgctxt "Choix"
+msgid "Yup, I got it!"
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/17/s/0
+msgctxt "Choix"
+msgid "You are so clear - you're lovely!"
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/18/s/0 prissy_plant/prissy_friend_return/0/33/s/0 prissy_plant/prissy_friend_return_single/0/25/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Prissy..."
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/c-0/7
+msgctxt "Prissy"
+msgid "Oh good. I'm a little busy right now, what with the growing and the flowering and all... but come back and visit soon!"
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/c-0/15 prissy_plant/prissy_friend_return/0/c-0/23 prissy_plant/prissy_friend_return_single/0/c-0/23
+msgctxt "Narrator"
+msgid "Prissy gets back to her growing and imagining..."
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/c-1/7
+msgctxt "Prissy"
+msgid "Ahhh I know. Thank you!"
+msgstr ""
+
+#: prissy_plant/prissy_love_return/0/c-1/15
+msgctxt "Narrator"
+msgid "Prissy's adorable face gives you a kiss as you let her continue on her journey of growth."
+msgstr ""
+
+#: prissy_plant/prissy_friend_return/0/8 prissy_plant/prissy_friend_return_single/0/0
+msgctxt "Prissy"
+msgid "Nice to see you, friend!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_return/0/24
+msgctxt "Prissy"
+msgid "I did NOT realize how much energy it would take to be real!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_return/0/32/s/0
+msgctxt "Choix"
+msgid "I hear ya. You're doing great, though!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_return/0/c-0/7
+msgctxt "Prissy"
+msgid "You're kind. Thank you."
+msgstr ""
+
+#: prissy_plant/prissy_friend_return_single/0/8
+msgctxt "Prissy"
+msgid "I used to not like being up here all that much, but now that you visit..."
+msgstr ""
+
+#: prissy_plant/prissy_friend_return_single/0/16
+msgctxt "Prissy"
+msgid "I guess it's not so bad!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_return_single/0/24/s/0
+msgctxt "Choix"
+msgid "Aw! I'm glad to hear that."
+msgstr ""
+
+#: prissy_plant/prissy_friend_return_single/0/c-0/7
+msgctxt "Prissy"
+msgid "And I'm glad to say it!"
+msgstr ""
+
+#: prissy_plant/prissy_friend_return_single/0/c-0/15
+msgctxt "Prissy"
+msgid "Believe it or not, I've got a lot to do up here... but come back and visit soon!"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/0
+msgctxt "Prissy"
+msgid "Well well. You're here."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/8
+msgctxt "Prissy"
+msgid "After last time... well, let's just call a rose a rose, shall we?"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/16
+msgctxt "Prissy"
+msgid "It's weird."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/24
+msgctxt "Prissy"
+msgid "I don't want you here."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/32/s/0
+msgctxt "Choix"
+msgid "Yeah... I figured."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/33/s/0
+msgctxt "Choix"
+msgid "I know it's weird... but I had to apologize. (USE CHARM CANDY)"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-0/7
+msgctxt "Prissy"
+msgid "...good soil. I'm gonna get my vinegar out if you don't leave on your own..."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-0/15
+msgctxt "Narrator"
+msgid "You leave on your own."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/13
+msgctxt "Prissy"
+msgid "Apologize?"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/21
+msgctxt "Prissy"
+msgid "Lemme guess. For being insensitive?"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/0/s/0
+msgctxt "Choix"
+msgid "Yep."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/7
+msgctxt "Prissy"
+msgid "For being judgmental."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "So judgmental."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/7
+msgctxt "Prissy"
+msgid "For being really really mean for no reason and trying to diminish my sense of my right to exist??"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Oh my gosh I did try to diminish."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/7
+msgctxt "Prissy"
+msgid "Yorp."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "But I failed. And I shouldn't have done it in the first place."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/7
+msgctxt "Prissy"
+msgid "Hm."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/15
+msgctxt "Prissy"
+msgid "Well. You know one of the amazing things about plants?"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/23
+msgctxt "Prissy"
+msgid "We keep right on growing and flowering even in the wake of an injury."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/31
+msgctxt "Prissy"
+msgid "And I am willing to let bygones be bygones, and keep on growing with you."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/39
+msgctxt "Prissy"
+msgid "We've got a little seedling friendship now, I guess."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/47
+msgctxt "Prissy"
+msgid "You'd better water it, bub."
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/55/0/s/0
+msgctxt "Choix"
+msgid "Yes ma'am!"
+msgstr ""
+
+#: prissy_plant/prissy_hate_return/0/c-1/29/c-0/15/c-0/15/c-0/15/c-0/55/c-0/7
+msgctxt "Prissy"
+msgid "And that's all I'm saying."
+msgstr ""
+
+#: prissy_plant/prissy_shortcut/0/0
+msgctxt "Prissy"
+msgid "Ha! You silly cricket, you already did! Look how real I am!"
+msgstr ""
+
+#: prissy_plant/prissy_shortcut/0/8
+msgctxt "Prissy"
+msgid "Oh wait."
+msgstr ""
+
+#: prissy_plant/prissy_shortcut/0/16
+msgctxt "Prissy"
+msgid "Oh good soil... you mean... <i>real</i>. As in... human??"
+msgstr ""
+
+#: prissy_plant/prissy_shortcut/0/24/s/0
+msgctxt "Choix"
+msgid "As in human."
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/0
+msgctxt "Prissy"
+msgid "I... I don't know what to say except..."
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/8
+msgctxt "Prissy"
+msgid "YESSSSS!!!!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/19
+msgctxt "Prissy"
+msgid "Now? Are we going right now??"
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/36/s/0
+msgctxt "Choix"
+msgid "Right this moment, Prissy!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/37/s/0
+msgctxt "Choix"
+msgid "Well at least you're excited! I'm not quite ready, but I'll be back!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/c-1/10
+msgctxt "Prissy"
+msgid "Well then I'll be right here!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/c-1/18
+msgctxt "Prissy"
+msgid "I mean maybe not literally right here, I might move around a little bit because I'm so excited I think I'm wiggling!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_join/0/3/c-1/26
+msgctxt "Prissy"
+msgid "But in this general vicinity is where I'll be. Whenever you're ready!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_return/0/0
+msgctxt "Prissy"
+msgid "See? Here I am!! Ready??"
+msgstr ""
+
+#: prissy_plant/prissy_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yes, indeed! Let's go!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "Almost! Few more things to gather."
+msgstr ""
+
+#: prissy_plant/prissy_realize_return/0/c-1/10/b/1
+msgctxt "Prissy"
+msgid "Hokaaayyy... I guess I'll just grow a flower or something while I wait!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_return/0/c-1/11/b/1
+msgctxt "Prissy"
+msgid "Hokaaayyy... I guess I'll just gather some <i>really important dust</i> while I wait!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "We're starting our first Realization with Prissy? What a cool next-level transformation for her!"
+msgstr ""
+
+#: prissy_plant/prissy_realize_begin/9
+msgctxt "Skylar"
+msgid "Prissy... do you believe in magic?"
+msgstr ""
+
+#: prissy_plant/prissy_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a houseplant, becomes..."
+msgstr ""
+
+#: prissy_plant/prissy_realized/0/3
+msgctxt "Prissy"
+msgid "Ha! Wow! Would you look at that??"
+msgstr ""
+
+#: prissy_plant/prissy_realized/0/14
+msgctxt "Prissy"
+msgid "I'm REAL!"
+msgstr ""
+
+#: prissy_plant/prissy_realized/0/22/b/1
+msgctxt "Prissy"
+msgid "Oh my goodness. How many folks do you know who get to become real TWICE in their lives? I... I think I might cry, I'm so lucky."
+msgstr ""
+
+#: prissy_plant/prissy_realized/0/25/s/0
+msgctxt "Choix"
+msgid "You deserve it, my friend. Go enjoy your new life!"
+msgstr ""
+
+#: prissy_plant/prissy_realized/0/26/s/0
+msgctxt "Choix"
+msgid "I'm so proud of you again... and I love you... again!"
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/3
+msgctxt "Prissy"
+msgid "I love you, too. You knew I was real the whole time, didn't you?"
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/11/s/0
+msgctxt "Choix"
+msgid "Of course I did. Never had a doubt."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/12/s/0
+msgctxt "Choix"
+msgid "I wasn't sure at first. But I would've supported you in whatever you believed."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-0/7
+msgctxt "Prissy"
+msgid "Even when I had doubts, you believed. I can't even count the value of someone like that."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-0/15
+msgctxt "Prissy"
+msgid "You are truly beautiful."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-0/23
+msgctxt "Prissy"
+msgid "May I... would you mind... can I kiss you?"
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I thought you'd never ask!"
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "How about a hug instead?"
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-0/31/c-0/7
+msgctxt "Prissy"
+msgid "Well let's not waste another moment then!"
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-0/31/c-1/7
+msgctxt "Prissy"
+msgid "Hug it is. I'd do a backflip if you asked."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-1/7
+msgctxt "Prissy"
+msgid "You... I don't know that I'll ever find a way to truly thank you."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-1/15
+msgctxt "Prissy"
+msgid "But maybe I can start with a kiss? That's something that as a plant I could never have given you."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "I would love that. Come here."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "How about I just hold you?"
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-1/23/c-0/7
+msgctxt "Narrator"
+msgid "Prissy steps forward, curling her arms around you as she blossoms beneath your sweet kiss. If you needed any proof of her being alive it is here now, in the steady, quickening beat of her heart."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/c-1/23/c-1/7
+msgctxt "Prissy"
+msgid "That... yeah. That sounds perfect."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/g-0/0
+msgctxt "Narrator"
+msgid "Prissy, as long as you have known her, has been inquisitive, accepting, and joyous. She is all these things and more now, as she takes you in her arms."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/g-0/8
+msgctxt "Narrator"
+msgid "She is fascinated as you tell her about the other objects you have met, their personalities and their quirks. She strokes your hands and your hair as you talk to her. She smiles, she laughs, she cries when she's sad."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/g-0/16
+msgctxt "Narrator"
+msgid "Her face is like glass; a clear window to her heart. You find that it is a joy uncountable just to share your life with her; to share Life with her."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/g-0/24
+msgctxt "Narrator"
+msgid "After hours of stories and gentle caresses, she finally falls asleep."
+msgstr ""
+
+#: prissy_plant/prissy_love_divert/0/g-0/35
+msgctxt "Narrator"
+msgid "She's had a big day, after all. And it will not be her last."
+msgstr ""
+
+#: prissy_plant/prissy_love_join/0
+msgctxt "Narrator"
+msgid "Prissy took her time leaving the house the next morning. She found she had a strong desire to say goodbye to the objects around her, and most especially to the plants she once embodied."
+msgstr ""
+
+#: prissy_plant/prissy_love_join/8
+msgctxt "Narrator"
+msgid "She was almost reluctant to leave all the life that she discovered here; until you reminded her of all the great Life she was about to discover out there."
+msgstr ""
+
+#: prissy_plant/prissy_love_join/16
+msgctxt "Narrator"
+msgid "Prissy tried several office jobs, working off your example. But she became deeply unenthused about each of them after only a few days."
+msgstr ""
+
+#: prissy_plant/prissy_love_join/24
+msgctxt "Narrator"
+msgid "She realized that given her fascination with Life, her deep connection to growing things, the happiest space for her would be outside, among it all."
+msgstr ""
+
+#: prissy_plant/prissy_love_join/32
+msgctxt "Narrator"
+msgid "She got a job with the Great Nations Park Service as a guide. She learned to give tours and answer questions. She learned about different shrubs, rivers and mountain ranges."
+msgstr ""
+
+#: prissy_plant/prissy_love_join/43
+msgctxt "Narrator"
+msgid "She loved her job so much that she worked weeks at a time outside, even through the winter months, checking on the trees as they awaited spring."
+msgstr ""

@@ -1,0 +1,4084 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: teddy_teddybear/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "TEDDY BEAR"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/6
+msgctxt "Narrator"
+msgid "There's something so intensely familiar about the cuddly stranger standing in your closet."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/14
+msgctxt "Narrator"
+msgid "The combination of his massive stature and the soft materials he wears produces an almost irresistible urge to hug him... and the aura of safety he emanates certainly doesn't help."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/22
+msgctxt "Teddy"
+msgid "Well well well. Aren't you a sight for sore eyes."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/33/s/0
+msgctxt "Choix"
+msgid "Am I?"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/34/s/0
+msgctxt "Choix"
+msgid "Wow, thank you."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/35/s/0
+msgctxt "Choix"
+msgid "I'll bet you say that to everybody."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/7
+msgctxt "Teddy"
+msgid "Sure you are!"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/15
+msgctxt "Teddy"
+msgid "I was just sitting here in this closet thinking how nice it would be to get a visit from my favorite person in the whole world..."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/23
+msgctxt "Teddy"
+msgid "...and here you are!"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/31
+msgctxt "Teddy"
+msgid "Sure is nice to get exactly what you want sometimes, isn't it?"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "I'll say."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "I'm your favorite person?"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/2/s/0
+msgctxt "Choix"
+msgid "I wouldn't know. I don't experience that very much."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-1/7
+msgctxt "Teddy"
+msgid "Hahaha. Of course you are. Didn't you know?"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-1/18
+msgctxt "Teddy"
+msgid "It brightens my day just to know you're in the house."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-1/26
+msgctxt "Teddy"
+msgid "I feel like we haven't talked in a little while, though; feels like I've been alone in the closet for a long time. It sure is nice to see you."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-2/7
+msgctxt "Teddy"
+msgid "Aw, now. I'm sorry to hear that."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-2/15
+msgctxt "Teddy"
+msgid "I guess we all go through times when it feels that way."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-2/23
+msgctxt "Teddy"
+msgid "Maybe I can help, though."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-2/31
+msgctxt "Teddy"
+msgid "I know it's been a little while since we talked... but I hope you remember how much fun we used to have together as kids."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-0/39/c-2/39
+msgctxt "Teddy"
+msgid "I've still got all my stories. And some great advice, too, for whatever ails ya!"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/7
+msgctxt "Teddy"
+msgid "You are very welcome!"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/15
+msgctxt "Teddy"
+msgid "You're so kind to express your gratitude like that. I feel like that's a bit of a lost art these days."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/23
+msgctxt "Teddy"
+msgid "To be honest, it's just so nice that you can really feel your gratitude."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/31
+msgctxt "Teddy"
+msgid "It feels good. It's one of my favorite things. Right behind fresh hot chocolate warming a mug in my hands."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/39
+msgctxt "Teddy"
+msgid "Oh, and munching on a big bowl of popcorn."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/47
+msgctxt "Teddy"
+msgid "Oooh, and going for a beautiful, long, slow meander out in the fresh air and taking deep breaths and listening to the trees."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/55
+msgctxt "Teddy"
+msgid "There's a lot to love around us, huh."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/63
+msgctxt "Teddy"
+msgid "What are some of your favorite things?"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/0/s/0
+msgctxt "Choix"
+msgid "Oh, hot chocolate. No contest."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/1/s/0
+msgctxt "Choix"
+msgid "Don't know. I haven't really thought about it."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/c-0/7
+msgctxt "Teddy"
+msgid "Ha! There ya go!"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/c-0/15
+msgctxt "Teddy"
+msgid "I must've made hot chocolate a hundred different ways in my life, and every time... it's just the best!"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/c-0/23
+msgctxt "Teddy"
+msgid "I think at this point I might be mostly made of hot chocolate. Not that I'm complaining."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/c-0/31
+msgctxt "Teddy"
+msgid "It makes sense that I would be warm and delicious."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/c-1/7
+msgctxt "Teddy"
+msgid "I find that thinking about the things I love makes my whole day that much better."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/c-1/15
+msgctxt "Teddy"
+msgid "I'll bet if you pondered it, you could come up with some real crackerjack stuff."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-1/71/c-1/23
+msgctxt "Teddy"
+msgid "Hey, I'll even help ya. I've got a great big collection of stories and advice to help you out... there must be a reason you came to see me today."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/7
+msgctxt "Teddy"
+msgid "Well. I'm kind to everybody."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/15
+msgctxt "Teddy"
+msgid "Well... almost everybody. I try to be kind as much as I can, but sometimes considerate is the best I can do. Kindness is not a bottomless well, y'know. Some people can't receive it when you offer it."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/23
+msgctxt "Teddy"
+msgid "I think of kindness kinda like reeeeally good peanut butter."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/31
+msgctxt "Teddy"
+msgid "For people who like peanut butter, who savor it, who appreciate and enjoy it, I give 'em a lot of it. Because I get it back and boy, it feels good."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/39
+msgctxt "Teddy"
+msgid "But for people who don't like peanut butter, who scrape it off or who don't even notice when they've gotten a big thick layer of it on their sammie... why give 'em more of what they don't want?"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/47
+msgctxt "Teddy"
+msgid "No hard feelings, y'see. But if you don't like peanut butter, it's ok. I got jelly, too."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/55/0/s/0
+msgctxt "Choix"
+msgid "Well, load me up. I like it."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/55/1/s/0
+msgctxt "Choix"
+msgid "Huh. I think I get that. I might be more of a jelly type of person..."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/55/c-0/7
+msgctxt "Teddy"
+msgid "Ha! Well, that's wonderful."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/55/c-0/18
+msgctxt "Teddy"
+msgid "Y'know, it's been a little while since we talked... there's probably a whole lotta kindness waiting for you around here!"
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/55/c-1/7
+msgctxt "Teddy"
+msgid "And that is absolutely fine. I like jelly too! I've had very satisfying conversations that were mostly considerate and respectful."
+msgstr ""
+
+#: teddy_teddybear/teddy_awakening/0/c-2/55/c-1/15
+msgctxt "Teddy"
+msgid "Speaking of conversations, it's been a little while since we chatted."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/0
+msgctxt "Teddy"
+msgid "Tell me. What brought you around to see me?"
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/8/s/0
+msgctxt "Choix"
+msgid "First, I gotta ask... is it weird that we're talking in a closet?"
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/9/s/0
+msgctxt "Choix"
+msgid "Um... nothing, actually. I didn't know you were in here."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-0/7
+msgctxt "Teddy"
+msgid "Not at all! Not for me, anyway. Closets are some of my favorite rooms in a house."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-0/15
+msgctxt "Teddy"
+msgid "Get a good cozy blanket, a candle and close that door and you've got a perfect little cocoon. A little nest of peace and safety."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-0/23
+msgctxt "Teddy"
+msgid "You're welcome to share mine! Or we can sit on the bed and talk. I'm comfortable in either place. And no matter where I am, I'll always be happy to be with you."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-0/31
+msgctxt "Teddy"
+msgid "I'll leave it up to you. Where should I go?"
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/7
+msgctxt "Teddy"
+msgid "Oh. Well, I can see that."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/15
+msgctxt "Teddy"
+msgid "It has been a long time since we talked! It's easy for old things to get lost when new things keep crowding your world."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/23
+msgctxt "Teddy"
+msgid "And my goodness, how your world must have expanded since we were both young! I've grown up in this closet... you must have had so many adventures, so many stories."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/31
+msgctxt "Teddy"
+msgid "I've got an idea. How about you tell me a story of yours and I'll tell you one of your old favorites? We can trade stories and get reacquainted! Probably have a heck of a lot of fun in the process, too. I might even have some new stories in here somewhere..."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/39
+msgctxt "Teddy"
+msgid "Whaddya say, old friend?"
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/47/0/s/0
+msgctxt "Choix"
+msgid "That sounds so nice... actually, let's go for it."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/47/1/s/0
+msgctxt "Choix"
+msgid "Honestly, doesn't really sound like my scene anymore. I think I'm a little too old to be talking to my teddy bear."
+msgstr ""
+
+#: teddy_teddybear/whatcanidoyafor/0/c-1/47/c-0/7
+msgctxt "Teddy"
+msgid "Before we start - I should ask. Where would be the best location for us to cozy up together?"
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/0
+msgctxt "Teddy"
+msgid "Oh. I... hm."
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/11
+msgctxt "Teddy"
+msgid "Careful, there, you're gonna hurt my feelings!"
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/19
+msgctxt "Teddy"
+msgid "I suppose we were very young when we were close. I was a different bear, then. I wasn't quite as tattered. Not that I mind the tatter. Nothin' wrong with a distinguished bear."
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/35
+msgctxt "Teddy"
+msgid "I can't say I'm not a little hurt, though. In all the time you've been away... we just hardly know each other anymore."
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/43
+msgctxt "Teddy"
+msgid "Sometimes it's nice to think back to when we were young."
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/51
+msgctxt "Teddy"
+msgid "To have a safe place to remember with someone you grew up with!"
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/59/s/0
+msgctxt "Choix"
+msgid "I hear ya. I just... don't agree. So. I'm gonna go."
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/60/s/0
+msgctxt "Choix"
+msgid "That was beautifully put. Wow. I'm talking to my old teddy bear."
+msgstr ""
+
+#: teddy_teddybear/hate_track_beginning/0/c-0/7
+msgctxt "Teddy"
+msgid "So long."
+msgstr ""
+
+#: teddy_teddybear/preamble_sorter/0/0/b/1
+msgctxt "Teddy"
+msgid "So now that we're all comfy, how about a good bit of wisdom?"
+msgstr ""
+
+#: teddy_teddybear/preamble_sorter/0/1/b/1
+msgctxt "Teddy"
+msgid "I've got a terrific story lined up for you tonight; are you ready?"
+msgstr ""
+
+#: teddy_teddybear/preamble_sorter/0/4/s/0
+msgctxt "Choix"
+msgid "Absolutely."
+msgstr ""
+
+#: teddy_teddybear/preamble_sorter/0/5/s/0
+msgctxt "Choix"
+msgid "Oh, I've been looking forward to it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_residence/0/0/s/0
+msgctxt "Choix"
+msgid "You can stay in here, I don't need you out."
+msgstr ""
+
+#: teddy_teddybear/teddy_residence/0/1/s/0
+msgctxt "Choix"
+msgid "I think bringing you into bed with me would be nice."
+msgstr ""
+
+#: teddy_teddybear/teddy_residence/0/2/s/0
+msgctxt "Choix"
+msgid "How about on the dresser?"
+msgstr ""
+
+#: teddy_teddybear/teddy_residence/0/c-0/7
+msgctxt "Teddy"
+msgid "No problemo."
+msgstr ""
+
+#: teddy_teddybear/teddy_residence/0/c-1/10
+msgctxt "Teddy"
+msgid "So comfy!"
+msgstr ""
+
+#: teddy_teddybear/teddy_residence/0/c-2/7
+msgctxt "Teddy"
+msgid "Closer to you? I love it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/0
+msgctxt "Teddy"
+msgid "Oh, hello."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/8
+msgctxt "Teddy"
+msgid "Didn't think you'd be coming back."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/16/s/0
+msgctxt "Choix"
+msgid "Yeah, I didn't either."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/17/s/0
+msgctxt "Choix"
+msgid "I've been thinking... that I was wrong to ignore you."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/18/s/0
+msgctxt "Choix"
+msgid "I'm trying to get you to hate me."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-0/7
+msgctxt "Teddy"
+msgid "Well. Thanks for visiting."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-1/7
+msgctxt "Teddy"
+msgid "I mean I would never be the one to say it..."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-1/15
+msgctxt "Teddy"
+msgid "You here for a story? Some advice?"
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-1/23
+msgctxt "Teddy"
+msgid "At the very least, tell me where I should take up residence."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/7
+msgctxt "Teddy"
+msgid "Oh."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/15
+msgctxt "Teddy"
+msgid "That's not very nice."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Nope, it isn't."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/c-0/7
+msgctxt "Teddy"
+msgid "Well, my purpose here is to help you on your journey."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/c-0/15
+msgctxt "Teddy"
+msgid "If that's where our journey has left us, then I'll be doing my very best."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/c-0/23
+msgctxt "Narrator"
+msgid "Teddy gives you a long, sad, silent look."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/c-0/42
+msgctxt "Teddy"
+msgid "Okay."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/c-0/50
+msgctxt "Teddy"
+msgid "Hate ya now."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/c-0/103
+msgctxt "Reggie"
+msgid "Simple, easy, quick. That's the kind of progress I like to see."
+msgstr ""
+
+#: teddy_teddybear/teddy_nothing_return/0/c-2/23/c-0/111
+msgctxt "Reggie"
+msgid "Cuz trust me, that bear was gonna be real long-winded."
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/0
+msgctxt "Teddy"
+msgid "Being that it's daylight out, I got some advice to give you."
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/8
+msgctxt "Teddy"
+msgid "For me, it's advice in the daytime, stories at night. Wanna hear some advice?"
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/16/s/0 teddy_teddybear/story_preamble/0/24/s/0
+msgctxt "Choix"
+msgid "Yeah, sure!"
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/17/s/0
+msgctxt "Choix"
+msgid "I'll come back later for stories."
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/c-1/7
+msgctxt "Teddy"
+msgid "Sure thing! Though my advice is <i>good</i> advice."
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/c-1/15/0/s/0 teddy_teddybear/story_preamble/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Okay, I'm curious."
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I'm all done with talking for now."
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/c-1/15/c-0/7 teddy_teddybear/story_preamble/0/c-1/15/c-0/7
+msgctxt "Teddy"
+msgid "Yay!"
+msgstr ""
+
+#: teddy_teddybear/advice_preamble/0/c-1/15/c-1/7 teddy_teddybear/story_preamble/0/c-1/15/c-1/7
+msgctxt "Teddy"
+msgid "Gotcha. See you around!"
+msgstr ""
+
+#: teddy_teddybear/story_preamble/0/0
+msgctxt "Teddy"
+msgid "Being that it's getting to be nighty-night, I got a story to help you drift off to sleep."
+msgstr ""
+
+#: teddy_teddybear/story_preamble/0/8
+msgctxt "Teddy"
+msgid "For me, whenever it's daytime, I'll give advice. But at sleepytime, it's storytime."
+msgstr ""
+
+#: teddy_teddybear/story_preamble/0/16
+msgctxt "Teddy"
+msgid "Wanna hear my story?"
+msgstr ""
+
+#: teddy_teddybear/story_preamble/0/25/s/0
+msgctxt "Choix"
+msgid "I'll come back later for some advice. I don't want to hear a whole story."
+msgstr ""
+
+#: teddy_teddybear/story_preamble/0/c-1/7
+msgctxt "Teddy"
+msgid "Sure thing! Though my stories are <i>good</i> stories."
+msgstr ""
+
+#: teddy_teddybear/story_preamble/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I'm all done with listening for now."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/62
+msgctxt "Teddy"
+msgid "You might want to write this one down and keep it in your glove compartment!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/70/s/0
+msgctxt "Choix"
+msgid "Oh boy... I haven't opened that in forever. I think there might be a spider living in it."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/71/s/0
+msgctxt "Choix"
+msgid "You know the only thing I don't keep in there? Gloves."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/c-0/7
+msgctxt "Teddy"
+msgid "Ooooo. Scary!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/c-1/7
+msgctxt "Teddy"
+msgid "Not much need for those these days. But compartments - always useful."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-0/0
+msgctxt "Teddy"
+msgid "I'm gonna teach you about the best things to have with you in your car in case you get stuck."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "In case I get stuck in my car? Like in a storm or something?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-0/9/s/0 teddy_teddybear/teddy_advice_5/0/27/s/0
+msgctxt "Choix"
+msgid "Okay..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "You've got it, buddy. It's very important to be prepared! So I've made you a list."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/0
+msgctxt "Teddy"
+msgid "Number one most important thing..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/8
+msgctxt "Teddy"
+msgid "Big comfy blanket. Now, you'll see a lot of kits advertised all over the place that say something called a \"space blanket\" is the way to go. Light, takes up almost no space, keeps you very warm."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/16
+msgctxt "Teddy"
+msgid "But I ask ya. Does that give you any mental peace of mind? Does it provide the spiritual sense of safety and coziness that will calm you and help you make good choices concerning your rescue? No-siree, it doesn't."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/24
+msgctxt "Teddy"
+msgid "Big. Warm. Comfy. Squishy. Those are all the vital components."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/32
+msgctxt "Teddy"
+msgid "Moving down the list, food and water. Lots of both, and don't forget to include something crunchy, because crunchy things bring joy!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/40
+msgctxt "Teddy"
+msgid "And something made of chocolate to remind you of happiness and assure you that you're going to be ok."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/48
+msgctxt "Teddy"
+msgid "You might need some chains for your tires, or some mud ramps depending on where you're adventuring."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/56
+msgctxt "Teddy"
+msgid "You'll need a nice sharp knife, for cutting things like food, a way to start and maintain a fire, to warm up the food and the cocoa (oh, you have to have cocoa, too),"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/64
+msgctxt "Teddy"
+msgid "an extra battery for your phone, a good sturdy pair of shoes for going for a nice walk around where you've gotten stuck, a good book and of course..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/72
+msgctxt "Teddy"
+msgid "A big deep breath and a smile. Because no matter what, I'll be there. And everything is going to be just fine."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/83/s/0
+msgctxt "Choix"
+msgid "Thanks, Teddy. I'm actually excited to make my emergency kit now."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/84/s/0
+msgctxt "Choix"
+msgid "Don't know how helpful a lot of that really is... but it's a nice sentiment."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/85/s/0
+msgctxt "Choix"
+msgid "Ok. Well that... happened."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/c-4/7
+msgctxt "Teddy"
+msgid "There you go!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/c-5/7
+msgctxt "Teddy"
+msgid "I'm all about the nice sentiments."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-1/c-6/7
+msgctxt "Teddy"
+msgid "It's good advice!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_1/0/g-2/0
+msgctxt "Teddy"
+msgid "See you around!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/18
+msgctxt "Teddy"
+msgid "Got some good advice for you today!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/29
+msgctxt "Teddy"
+msgid "I've dealt with a busted computer many a time... and this trick has helped me more than I can say. Kept me from breaking more than a few computers out of sheer frustration."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/37/s/0
+msgctxt "Choix"
+msgid "Ah, so it's how to fix a computer today?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/7
+msgctxt "Teddy"
+msgid "Indeed it is. And this will work almost regardless of what the problem is with the computer. I've seen it work for all kinds of issues."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/15
+msgctxt "Teddy"
+msgid "Now... Buckle up!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/23
+msgctxt "Teddy"
+msgid "To fix a problem on a computer. Any computer, any problem."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/31
+msgctxt "Teddy"
+msgid "Ya unplug it... eh?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/39
+msgctxt "Teddy"
+msgid "And then ya plug it right back in."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/47
+msgctxt "Teddy"
+msgid "It's foolproof, I tell ya."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/55
+msgctxt "Teddy"
+msgid "Incidentally, it also works with toasters."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/63/0/s/0
+msgctxt "Choix"
+msgid "...thanks, Teddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/63/1/s/0
+msgctxt "Choix"
+msgid "You might be a genius."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/63/c-0/7
+msgctxt "Teddy"
+msgid "You. Are. Welcome."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/63/c-1/7
+msgctxt "Teddy"
+msgid "I'm a humble bear..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/c-0/63/c-1/15
+msgctxt "Teddy"
+msgid "But yes."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_2/0/g-0/0
+msgctxt "Teddy"
+msgid "See you around, buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/18
+msgctxt "Teddy"
+msgid "Y'know, I've seen my fair share of buttons. All kinds of buttons. My eyes are buttons!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/26
+msgctxt "Teddy"
+msgid "And I have figured out the best kind of button in the whole world."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/34/s/0
+msgctxt "Choix"
+msgid "I can't wait."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/35/s/0
+msgctxt "Choix"
+msgid "Bring it on, Teddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/36/s/0
+msgctxt "Choix"
+msgid "This better be good... or else!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/0
+msgctxt "Teddy"
+msgid "The best kind of button is..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/8
+msgctxt "Teddy"
+msgid "The belly button. They are all different, they are all just a little bit ticklish, and they remind us that we all had a mom who loved us when we were too little to love ourselves."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/16
+msgctxt "Teddy"
+msgid "Whenever I feel lonely, I just put a hand on my belly button and I smile."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/24
+msgctxt "Teddy"
+msgid "Give it a try, buddy. I bet it'll help you feel better, too."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "Okay, here goes."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "Sounds lame, honestly."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/c-3/7
+msgctxt "Narrator"
+msgid "You press your hand to your belly button—you're not entirely sure if it works, but Teddy's sweet smile makes you feel a little better anyway."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/c-3/15
+msgctxt "Teddy"
+msgid "Tee hee!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/c-3/26
+msgctxt "Teddy"
+msgid "Hope that serves you well!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-0/c-4/7
+msgctxt "Teddy"
+msgid "It won't be once you try it, I promise ya. But you can take your time."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_3/0/g-1/0
+msgctxt "Teddy"
+msgid "Until then, don't forget to take time to remind yourself you are loved."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/18
+msgctxt "Teddy"
+msgid "There's a lot of conflicting advice out there about how to stay healthy. Don't you think?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/26/s/0
+msgctxt "Choix"
+msgid "I guess so."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/27/s/0
+msgctxt "Choix"
+msgid "No. I think the only clear diet is cookies."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/c-0/7
+msgctxt "Teddy"
+msgid "I can't even tell ya how confused I get sometimes!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/c-1/7
+msgctxt "Teddy"
+msgid "...sometimes I feel that way too."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/0
+msgctxt "Teddy"
+msgid "But I've figured out that a lot of \"health\" is really just how you feel about yourself. It's all perspective. And the best way I've found to feel good and like I'm taking care of myself?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/8
+msgctxt "Teddy"
+msgid "Try to go out for a little walk everyday. Even a short one! Get out there, breathe that fresh air, look up and swing your arms and open your mouth up wide."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/16
+msgctxt "Teddy"
+msgid "Breathe in the world! It's good for ya."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/24
+msgctxt "Teddy"
+msgid "It's good for the world, too. When you open your eyes up nice and wide, and really see whatever is around you, trees or cars or dogs or big buildings or the moon..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/32
+msgctxt "Teddy"
+msgid "It's all alive. It's all available to you. You're part of it and you're wonderful. It can all be wonderful through big eyes."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/40
+msgctxt "Teddy"
+msgid "And sometimes, you're just having a tough day. Even going for a walk like that won't make it  better. But it sure does help. And you deserve that."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "I'm not ready to go for a walk just yet, but I will."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "Hm. Swing my arms, huh? Sounds like fun."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/50/s/0
+msgctxt "Choix"
+msgid "Not a big fan of walking. But it's a nice idea."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "That's the spirit!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/c-3/7
+msgctxt "Teddy"
+msgid "Mmmhm! It's the best!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-0/c-4/7
+msgctxt "Teddy"
+msgid "I'm full of nice ideas."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_4/0/g-1/0
+msgctxt "Teddy"
+msgid "Until next time - stay moving!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/18
+msgctxt "Teddy"
+msgid "Got a nice punchy one for ya today."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/26/s/0
+msgctxt "Choix"
+msgid "Lemme have it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/c-0/7
+msgctxt "Teddy"
+msgid "Here's the windup..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-0/0
+msgctxt "Teddy"
+msgid "Learn how to throw a really good punch."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Okay, take this!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "That's not necessary."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "Now, hang on there. I'm not saying to go around punching everyone right this minute."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-0/c-2/18
+msgctxt "Teddy"
+msgid "Although if you decide to take that boxing class, that's probably pretty good advice."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-0/c-2/26
+msgctxt "Teddy"
+msgid "But ya learn to throw one. A solid one that comes from the hips."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-0/c-3/7
+msgctxt "Teddy"
+msgid "It's not necessary... but it's good advice."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-1/0
+msgctxt "Teddy"
+msgid "It'll make you stronger, make you feel powerful and more confident in yourself."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-1/8
+msgctxt "Teddy"
+msgid "And if you're anything like me, it makes ya feel pretty darn cool, too."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-1/16
+msgctxt "Teddy"
+msgid "When I'm feeling down, sometimes I just stand in the mirror and throw a few really good punches, and all of a sudden, I've got my swagger back."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-1/24
+msgctxt "Teddy"
+msgid "Give it a try. I'll be cheering for ya!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "Thanks, Teddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "Whatever."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_5/0/g-2/0
+msgctxt "Teddy"
+msgid "Stay frosty!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/18
+msgctxt "Teddy"
+msgid "It's popcorn day!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/29/s/0
+msgctxt "Choix"
+msgid "Really?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/30/s/0
+msgctxt "Choix"
+msgid "No, it's"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/c-0/7
+msgctxt "Teddy"
+msgid "Didn't ya know?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/c-1/7
+msgctxt "Teddy"
+msgid "Well, sure."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/c-1/15
+msgctxt "Teddy"
+msgid "But the DAY is POPCORN DAY!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/0
+msgctxt "Teddy"
+msgid "I have been truly amazed by all the advances in modern culinary technology."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/8
+msgctxt "Teddy"
+msgid "I think I've counted at least 5 different ways to make and enjoy popcorn!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/16
+msgctxt "Teddy"
+msgid "But today I'm going to share with you the original way, the best way; it takes a little finesse, but I have all the faith in the world that you can do it."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/24
+msgctxt "Teddy"
+msgid "You take a big deep pot, one with a lid. You put a little bit of oil in the bottom. Not too much or you'll drown the kernels."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/32
+msgctxt "Teddy"
+msgid "And you don't want to drown those kernels or they won't pop. They'll just swim around and around and burn, and then movie night will be ruined."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/40
+msgctxt "Teddy"
+msgid "Let the oil warm up a little bit, and then take a third of a cup of popcorn kernels and set them aside..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/48
+msgctxt "Teddy"
+msgid "Drop into the pot..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/56
+msgctxt "Teddy"
+msgid "Then we put on the lid. And wait. Very soon, if you're patient, you'll hear a little <i>pop</i>."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/64
+msgctxt "Teddy"
+msgid "And you're ready to go! Pour in the rest of the kernels, put the lid back on tightly and move the pot around on the heat."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/72
+msgctxt "Teddy"
+msgid "You'll hear 'em all poppin' and jumpin' around in there, and when there's more than 3 seconds between pops, you're done!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/80
+msgctxt "Teddy"
+msgid "Take the pot off the heat, turn off the stove (very important step, that one!), and get to munchin'!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/88/s/0
+msgctxt "Choix"
+msgid "All right, let's get to it. Thanks Teddy!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/89/s/0
+msgctxt "Choix"
+msgid "All right. I suppose that counts as advice."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "Don't munch'n it."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_6/0/g-0/c-3/7
+msgctxt "Teddy"
+msgid "Never know when you need to invite a special someone over for a special kernel."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/18
+msgctxt "Teddy"
+msgid "How to throw a ball."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/26/s/0
+msgctxt "Choix"
+msgid "Like, any kind of ball?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/c-0/7
+msgctxt "Teddy"
+msgid "Yup! This technique will work on <i>any</i> ball!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-0/0
+msgctxt "Teddy"
+msgid "I know, I know... you probably already know how to do this."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Yeah... but I'd love to hear your strategy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "I don't, actually. Never learned."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-0/c-1/7
+msgctxt "Teddy"
+msgid "It's all about the strategy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "Then where better to learn than from a teddy bear?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/0
+msgctxt "Teddy"
+msgid "Hoove might have told ya, but I used to play in the Laundry Leagues."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "Like where the Hankees play?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/12/s/0
+msgctxt "Choix"
+msgid "The Laundry Leagues?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/c-3/7
+msgctxt "Teddy"
+msgid "Ooohoho!The very same!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "I love the Socks."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "I saw a game - it was fun!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/c-3/15/c-0/7
+msgctxt "Teddy"
+msgid "Oooooooh do NOT say that."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/c-3/15/c-0/15
+msgctxt "Teddy"
+msgid "I will continue on as if I didn't hear that."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-1/c-4/7
+msgctxt "Teddy"
+msgid "It's like human baseball but fluffier."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-2/0
+msgctxt "Teddy"
+msgid "I was a crackerjack Laundry League player. And I loved doing it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-2/8
+msgctxt "Teddy"
+msgid "It didn't last too long, as you might imagine..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-2/16
+msgctxt "Teddy"
+msgid "These little ol' legs couldn't quite keep up with those fast balls."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "You have beautiful legs."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "I guess that makes sense."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-2/c-5/7
+msgctxt "Teddy"
+msgid "Heh thanks. I wasn't fishing but I'll take the bait!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-2/c-6/7
+msgctxt "Teddy"
+msgid "A curveball from a dryer sheet will always keep you swingin'."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/0
+msgctxt "Teddy"
+msgid "But onto the best way to throw a ball!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/8
+msgctxt "Teddy"
+msgid "Have it in your hand."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/16
+msgctxt "Teddy"
+msgid "Look where you want it to go."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/24
+msgctxt "Teddy"
+msgid "Believe in yourself, throw as hard as you can..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/32
+msgctxt "Teddy"
+msgid "And don't forget to let go when it's time."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/40
+msgctxt "Teddy"
+msgid "Believe it or not, this is good advice for a lot of different things in life."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/48/s/0
+msgctxt "Choix"
+msgid "I love that advice!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/49/s/0
+msgctxt "Choix"
+msgid "Hm. Didn't see that coming."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-3/c-7/7
+msgctxt "Teddy"
+msgid "Love most of all."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-4/0
+msgctxt "Teddy"
+msgid "Believe in yourself, go as hard and as full in and as big as you can, and when it's time, let go."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_7/0/g-4/8
+msgctxt "Teddy"
+msgid "Let that sink in, playa'."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/18
+msgctxt "Teddy"
+msgid "It's important to understand the difference between things being clean and things being organized."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/26/s/0
+msgctxt "Choix"
+msgid "Hm... okay."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/27/s/0
+msgctxt "Choix"
+msgid "Explain?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/0
+msgctxt "Teddy"
+msgid "Clean is very important. Just doing a little bit everyday, a little dusting here,"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/8
+msgctxt "Teddy"
+msgid "Keeping the dishes clean, dry and put away."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/16
+msgctxt "Teddy"
+msgid "It does something for your mental state. Somehow by cleaning your space, you can clean out your mind, too."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/24
+msgctxt "Teddy"
+msgid "But organization... that is a totally personal thing."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/32
+msgctxt "Teddy"
+msgid "Different people have different definitions of what organization is like, what it feels like. There's no right way, and there's no wrong way."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/40
+msgctxt "Teddy"
+msgid "The most important thing to remember about organization is this..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/48
+msgctxt "Teddy"
+msgid "Your home, your work, your life, is right... as soon as it feels right to you."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/56
+msgctxt "Teddy"
+msgid "And however it ends up looking, make sure you leave room for your teddy bear in there somewhere."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/64
+msgctxt "Teddy"
+msgid "He does love ya."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/75/s/0
+msgctxt "Choix"
+msgid "You got it, Teddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/76/s/0
+msgctxt "Choix"
+msgid "Pull my heartstrings, why don't you."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-0/c-3/7
+msgctxt "Teddy"
+msgid "I can't help it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_8/0/g-1/0
+msgctxt "Teddy"
+msgid "See you for the next one."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/18
+msgctxt "Teddy"
+msgid "Ok listen up!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/26/s/0
+msgctxt "Choix"
+msgid "I'm listening!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/c-0/7
+msgctxt "Teddy"
+msgid "When you fall, get right back up."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/0
+msgctxt "Teddy"
+msgid "When you get bucked off the horse, get right back on."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/8
+msgctxt "Teddy"
+msgid "If at first you don't succeed, try again!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/16
+msgctxt "Teddy"
+msgid "I mean, if you don't get back up, get back on the horse and try again,"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/24
+msgctxt "Teddy"
+msgid "You go through your whole life on your booty, watching that sassy horse blow raspberries at ya..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/32
+msgctxt "Teddy"
+msgid "...knowing that you can do so much more than you've given yourself credit for."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/40
+msgctxt "Teddy"
+msgid "I know what you're capable of. I know you can do anything you set your mind to."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "I've heard that before."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "I'm on it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-0/c-1/7
+msgctxt "Teddy"
+msgid "Those sayings are cliche as all get-out, I will give ya that. But they come from a true place."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-1/0
+msgctxt "Teddy"
+msgid "Get on out there and give it your best."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_9/0/g-1/8
+msgctxt "Teddy"
+msgid "I'll be here when you get back!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/18
+msgctxt "Teddy"
+msgid "So, you know how you don't like to burp in public."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/26
+msgctxt "Teddy"
+msgid "And NOBODY likes to fart in public."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/34/s/0
+msgctxt "Choix"
+msgid "This is advice?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/35/s/0
+msgctxt "Choix"
+msgid "I mean..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/c-0/7
+msgctxt "Teddy"
+msgid "But sometimes those things happen."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-0/0
+msgctxt "Teddy"
+msgid "The trick is to get everyone who's around you when it happens to be on your side."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-0/8
+msgctxt "Teddy"
+msgid "And one of the best ways to create a good team is through humor!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-0/16
+msgctxt "Teddy"
+msgid "So, you will burp. And when you do, own it, and with a big smile on your face, say..."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-0/24
+msgctxt "Teddy"
+msgid "\"Oh my goodness! Did anyone else see that big barking spider??\""
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-0/35/s/0
+msgctxt "Choix"
+msgid "That's silly."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-0/36/s/0
+msgctxt "Choix"
+msgid "I think I can do that."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "Exactly! The best way to deal with embarrassment."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/0
+msgctxt "Teddy"
+msgid "And now for the big enchilada."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/8
+msgctxt "Teddy"
+msgid "When you fart in public. You gotta own that, too!"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/16
+msgctxt "Teddy"
+msgid "Look up boldly, bravely and say,"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/24
+msgctxt "Teddy"
+msgid "\"The dog did it.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "The dog did it."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "I don't like talking about this stuff."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/c-4/7
+msgctxt "Teddy"
+msgid "Woah! Did you let one out just now?"
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/c-4/15
+msgctxt "Teddy"
+msgid "I'm kiddin, buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_advice_10/0/g-1/c-5/7
+msgctxt "Teddy"
+msgid "That's okay, cuz it's over!"
+msgstr ""
+
+#: teddy_teddybear/olly_continue/0/0
+msgctxt "Teddy"
+msgid "Lessee, Olly... where did I leave off?"
+msgstr ""
+
+#: teddy_teddybear/olly_continue/0/8/s/0
+msgctxt "Choix"
+msgid "Olly decided to compete in the games!"
+msgstr ""
+
+#: teddy_teddybear/olly_continue/0/c-0/7
+msgctxt "Teddy"
+msgid "Ah of course - this is where things get sticky..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/42
+msgctxt "Teddy"
+msgid "Ok, buddy. Get comfy... it's story time."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/50
+msgctxt "Teddy"
+msgid "This is the story of \"The Tiny Octopus and the Underwater Olympics\"."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/61
+msgctxt "Teddy"
+msgid "Her name was Olly, and she was the tiniest octopus in the pod."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/69
+msgctxt "Teddy"
+msgid "Her family loved her, and she had plenty of friends, but there was always a niggling in her mind that they thought she was just too tiny."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/77
+msgctxt "Teddy"
+msgid "\"Cute little Olly! Don't make her lift that big anemone.\" \"Oh look at little Olly, there's no way she can reach that big tall kelp tree!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/88/s/0
+msgctxt "Choix"
+msgid "I bet Olly has it in her to do great things..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/89/s/0
+msgctxt "Choix"
+msgid "Hmm... we'll see, Olly."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/c-0/7
+msgctxt "Teddy"
+msgid "You might just be right..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/0
+msgctxt "Teddy"
+msgid "But when the underwater olympics came to her reef, she knew it was her most important and most joyful way to prove herself."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/11
+msgctxt "Teddy"
+msgid "Olly just knew that if she could enter, and if she could win, they would all see how big and capable she really was."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/19
+msgctxt "Teddy"
+msgid "On the first day of the games, Olly was there. She watched the opening parade with such excitement she could barely breathe. Then the MC swam up to the podium to announce the events that would be taking place and Olly couldn't believe her eyes!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/27
+msgctxt "Teddy"
+msgid "The MC was none other than Click-Clack Caruthers, the bombastic and amiable crab who ran the general mercantile store back at her reef!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/35
+msgctxt "Teddy"
+msgid "This was surely a good sign. When she heard him announce the perfect event for her, she would know it, and she would talk to Click-Clack, and he would help her."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/43
+msgctxt "Teddy"
+msgid "Olly waited and waited. It seemed there were a thousand events at the games, from sand-racing to bubble ballet. But she finally heard it: the rock toss."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/51
+msgctxt "Teddy"
+msgid "Competitors chose rocks, as big as they could find, and heaved them over their heads in a dazzling display of strength."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/59
+msgctxt "Teddy"
+msgid "Whoever heaved the biggest rock the furthest would be declared the winner!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/67/s/0
+msgctxt "Choix"
+msgid "No way Olly is making it out of this alive."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/68/s/0
+msgctxt "Choix"
+msgid "Go Olly - you can do this!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "It might not be that kind of story... but we'll just have to see..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/0
+msgctxt "Teddy"
+msgid "\"It's just perfect!\" thought Olly. \"The perfect way to show my size and strength. And when I win, all my friends and family will cheer for me.\" She nodded her head decisively and spurted off to find Click-Clack."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/8
+msgctxt "Teddy"
+msgid "He wasn't hard to find! Just like at his store, Click-Clack had drawn a crowd with his booming voice, brightly colored claws and humorous tales. Olly secretly suspected the tales were much much taller than Click-Clack himself... but nobody seemed to mind."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/16
+msgctxt "Teddy"
+msgid "\"Click-Clack!\" she called out, edging her tiny body through the crush of listeners gathered for his story, \"Click-Clack, it's me, it's Olly!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/24
+msgctxt "Teddy"
+msgid "\"Olly, you little flutterby! Get your tentacles over here!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/32
+msgctxt "Teddy"
+msgid "She gave him a friendly hug. \"What are you doing here?\" said Click-Clack."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/40
+msgctxt "Teddy"
+msgid "\"Click-Clack,\" she began, \"I need your help. I want to compete in the games. I want to enter the Rock Toss and show my friends and family that I am big, and strong. Can you help me?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/51
+msgctxt "Teddy"
+msgid "Click-Clack considered seriously for a moment. \"Olly,\" he began, \"this is a sincere undertaking. Now, the Rock Toss is very difficult. It is also dangerous. Even seasoned competitors can have trouble with it."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/59
+msgctxt "Teddy"
+msgid "Are you sure you want to enter that event?\" Olly looked deep into his little dark eyes. \"Yes, Click-Clack. I want it more than anything in the world.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/67
+msgctxt "Teddy"
+msgid "Click-Clack snapped his claws together decisively. \"Well, then! More than anything in the world! If that's the case, of course I'll help you. Let's get over there and get you registered!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/78
+msgctxt "Teddy"
+msgid "\"Oh, Click-Clack, thank you! Thank you thank you thank you thank you thank you thank you! I'll make you proud, you'll see! I'm going to win!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/86
+msgctxt "Teddy"
+msgid "\"Olly, I'm proud of you for knowing what you want. That's a feat in and of itself! And you can bet I'll be watching you when you compete. I'll be cheering no matter what!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/0 teddy_teddybear/teddy_story_2/0/g-2/158/0 teddy_teddybear/teddy_story_3/0/g-2/48/0 teddy_teddybear/teddy_story_3/0/g-4/56/0
+msgctxt "Teddy"
+msgid "How you doing, buddy? Need a break?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/8/s/0 teddy_teddybear/teddy_story_3/0/g-4/56/8/s/0
+msgctxt "Choix"
+msgid "Nah, let's keep going!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/9/s/0 teddy_teddybear/teddy_story_2/0/g-2/158/9/s/0 teddy_teddybear/teddy_story_3/0/g-2/48/9/s/0 teddy_teddybear/teddy_story_3/0/g-4/56/9/s/0
+msgctxt "Choix"
+msgid "I'm... so... bored."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/10/s/0
+msgctxt "Choix"
+msgid "Just getting a little sleepy..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/c-5/7 teddy_teddybear/teddy_story_2/0/g-2/158/c-8/7 teddy_teddybear/teddy_story_3/0/g-2/48/c-7/7 teddy_teddybear/teddy_story_3/0/g-4/56/c-12/7
+msgctxt "Teddy"
+msgid "Hey now, no need for that."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/c-5/15 teddy_teddybear/teddy_story_2/0/g-2/158/c-8/15 teddy_teddybear/teddy_story_3/0/g-2/48/c-7/15 teddy_teddybear/teddy_story_3/0/g-4/56/c-12/15
+msgctxt "Teddy"
+msgid "You can leave if you like. And come back at the place we left off."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/c-5/23/0/s/0 teddy_teddybear/teddy_story_2/0/g-2/158/c-8/23/0/s/0 teddy_teddybear/teddy_story_3/0/g-2/48/c-7/23/0/s/0 teddy_teddybear/teddy_story_3/0/g-4/56/c-12/23/0/s/0
+msgctxt "Choix"
+msgid "I'd rather jump off a cliff."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/c-5/23/1/s/0 teddy_teddybear/teddy_story_2/0/g-2/158/c-8/23/1/s/0 teddy_teddybear/teddy_story_3/0/g-2/48/c-7/23/1/s/0 teddy_teddybear/teddy_story_3/0/g-4/56/c-12/23/1/s/0
+msgctxt "Choix"
+msgid "That sounds good actually."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/c-5/23/c-0/15 teddy_teddybear/teddy_story_2/0/g-2/158/c-8/23/c-0/15 teddy_teddybear/teddy_story_3/0/g-2/48/c-7/23/c-0/15 teddy_teddybear/teddy_story_3/0/g-4/56/c-12/23/c-0/15
+msgctxt "Teddy"
+msgid "I think we're done for tonight."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/c-5/23/c-1/7 teddy_teddybear/teddy_story_2/0/g-2/158/c-8/23/c-1/7 teddy_teddybear/teddy_story_2/0/g-2/158/c-9/7 teddy_teddybear/teddy_story_3/0/g-2/48/c-7/23/c-1/7 teddy_teddybear/teddy_story_3/0/g-2/48/c-8/7 teddy_teddybear/teddy_story_3/0/g-4/56/c-12/23/c-1/7 teddy_teddybear/teddy_story_3/0/g-4/56/c-13/7
+msgctxt "Teddy"
+msgid "Okay - see you next time!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-1/94/c-6/7
+msgctxt "Teddy"
+msgid "Don't worry. Rest easy and I'll continue later."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/ollymid2/0
+msgctxt "Teddy"
+msgid "Now the next few days felt like a blur to Olly. She told her friends and family all to come to the games, but she wouldn't tell them why. She trained in secret, all day, everyday. Most nights she dreamt about finally hefting that Great Shell trophy."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/ollymid2/8
+msgctxt "Teddy"
+msgid "But there were some nights when the naggin' thoughts came back. Could she do it? She was small. Maybe she was too small. These dreams unsettled her; but when she awoke, she couldn't remember them."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/ollymid2/16
+msgctxt "Teddy"
+msgid "It was just a vague feeling of doubt, of question. She continued with her training, and the doubt slept in the back of her mind."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/ollymid2/24
+msgctxt "Teddy"
+msgid "Almost before she knew it, the day came. She made her way to the competition grounds, and took her assigned place next to her rock. It was much bigger even than she had imagined it would be... and for a moment she was afraid."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/ollymid2/32
+msgctxt "Teddy"
+msgid "\"I'm afraid,\" she whispered quietly to herself. \"I'm afraid. But I AM going to do this. I am going to lift this rock.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/ollymid2/43
+msgctxt "Teddy"
+msgid "The competitors around her shook their shells, their tentacles, the fish opened their gills wide and the giant prawns flexed their powerful tails."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/ollymid2/51/s/0
+msgctxt "Choix"
+msgid "You got this Olly..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/0
+msgctxt "Teddy"
+msgid "Nervously, Olly scanned the faces of the crowd... there were her friends, her mother and father, and the joyfully bright shell of Click-Clack. He winked at her and waved a claw. He had promised to be there, and there he was. Olly took a deep breath, and began to relax."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/8
+msgctxt "Teddy"
+msgid "Across the field from her, the biggest snail Olly had ever seen was stretching his cabled neck."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/16
+msgctxt "Teddy"
+msgid "Timo the Australian Trumpet... a legend. The winner of the Rock Toss for the last four games! The undefeated champion! Olly began to giggle. She was standing in the same sand as Timo the Trumpet!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/27
+msgctxt "Teddy"
+msgid "The starting song began to whistle through the water... 3... 2... 1... and a great deep note reverberated through the water! \"Lift,\" it cried! \"Lift and toss!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/35
+msgctxt "Teddy"
+msgid "Olly's focus became laser sharp. It was her, her training, and the rock. One tentacle underneath, two tentacles underneath, six tentacles levering behind her... one more tentacle underneath..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/43
+msgctxt "Teddy"
+msgid "She shifted her little body, wiggling her tentacles under the huge stone and pressing as hard as she could down into the shifting sand to leverage the great weight up over her head."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/54
+msgctxt "Teddy"
+msgid "She strained and gritted her beak. She drew on all those moments she had felt too small. And all those moments she knew she was big, she was strong, and she was just right."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/65
+msgctxt "Teddy"
+msgid "And up it went. She knew she was working, but that stone, hooooo, that stone, almost seemed to be floating above her. One more step, just a huge heaving toss, and she would have done it. She began to arch her tentacles back, winding up for the throw..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/73
+msgctxt "Teddy"
+msgid "When suddenly, across from the field came a sickening crack. Oof, and a loud, deep yell of pain. Olly's focus jerked to the source of the sounds."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/81
+msgctxt "Teddy"
+msgid "And found Timo the Trumpet pinned under his gigantic rock! Somehow, the projectile had slipped, cracking his shell and driving his body deep into the sand."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-2/92/s/0 teddy_teddybear/teddy_story_3/0/g-5/0/80/s/0
+msgctxt "Choix"
+msgid "Oh no!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-3/0
+msgctxt "Teddy"
+msgid "Click-Clack was rushing down from the stands, trying to bring order to the mass of creatures that had gathered to try to free Timo from the crush."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-3/8
+msgctxt "Teddy"
+msgid "But they couldn't. The stone was bearing down on his shell and had buried its ends in the sand. Nobody could get a grip on it, and nobody but Timo could have lifted a stone that heavy. He was trapped."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-3/16
+msgctxt "Teddy"
+msgid "Olly could hear his pained yells becoming more frightened. Creatures bustled around him, speaking over each other and ineffectually pushing on the stone. And then she saw it."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-3/24
+msgctxt "Teddy"
+msgid "Between the edge of the stone and the edge of Timo's shell was a gap. A tiny gap. So small, no one else had even noticed it."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-3/32
+msgctxt "Teddy"
+msgid "If she could just get in there, and create even a little bit of space for him, Timo would be able to lift the stone for himself."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-3/43/s/0
+msgctxt "Choix"
+msgid "Can Olly do it?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-3/c-11/7
+msgctxt "Teddy"
+msgid "...we'll see... !"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/0
+msgctxt "Teddy"
+msgid "In a flash, she had made up her mind. She let her hard-lifted rock slip from her grip, and rushed across the field in a little purple blur. She darted around and through the crowd until she found the gap, and inched her way into the dark recess."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/8
+msgctxt "Teddy"
+msgid "\"Timo? Timo! Can you hear me?\" Timo's eyes were frantic, his breathing fast and thready. \"Yes,\" he finally croaked. \"Yes, I can hear you. Who are you? How did you get in here?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/16
+msgctxt "Teddy"
+msgid "\"My name is Olly. I came in through that little gap there... \" she pointed it out and his eyes goggled. \"You got through that?\", he marvelled. \"I... I thought I was alone... \""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/24
+msgctxt "Teddy"
+msgid "\"Well, you aren't. Not anymore. Now listen. We're going to get you out of here. I can't lift that whole stone, but I can lift a little bit. If I give you a little bit of space, can you do the rest?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/32
+msgctxt "Teddy"
+msgid "\"You can lift this at all?!\" Timo the Trumpet, the undefeated champion, stared at little Olly in the dark water with shock on his face. \"Yes, I can. I had already lifted my rock for the competition.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/40
+msgctxt "Teddy"
+msgid "\"You... were in the competition?\" Timo said quietly. \"I didn't even see you. I'm sorry.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/48
+msgctxt "Teddy"
+msgid "Olly smiled. \"It's ok. It happens all the time. But you can see me now, and we have work to do. Are you ready?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/56
+msgctxt "Teddy"
+msgid "Timo took a deep breath, and a swallow. \"Yes, Olly. If you can lift a little bit, I can do the rest.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/64
+msgctxt "Teddy"
+msgid "And so together, the biggest creature and the smallest one began to push. Olly lifting Timo, and Timo lifting the stone. Inch by inch, breath by breath, the massive rock began to shift until finally..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/75
+msgctxt "Teddy"
+msgid "Plop, the big rock dislodged itself and fell heavily down into the sand beside them, off of Timo's shell completely."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/86
+msgctxt "Teddy"
+msgid "The crowd began to cheer wildly. \"Timo! He has done it again! He has rescued himself!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/94
+msgctxt "Teddy"
+msgid "Timo breathed heavily and smiled. \"Thank you all, thank you. But it wasn't just me this time.\" From underneath Timo's shadow swam Olly. The crowd went silent, stared at her, confused."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/102
+msgctxt "Teddy"
+msgid "\"This little Olly helped me. She saw a solution nobody else had and noticed... and she jumped into action. Olly saved my life, when I couldn't have saved it myself. Olly is the hero today.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/110
+msgctxt "Teddy"
+msgid "Olly felt herself turning blush pink, and she gazed out confidently at all the faces of her friends and family. The crowd began to part, and Click-Clack was soon standing in front of her. His face was a picture of joy, and of pride."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/118
+msgctxt "Teddy"
+msgid "\"Folks,\" he began, not taking his eyes from Olly. \"While there is no official winner to this contest, as it was interrupted, I propose that we award the Great Shell to our hero, Olly. She is brave. And though she be but small, she is mighty.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-4/126/s/0
+msgctxt "Choix"
+msgid "Yay! Olly!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-5/0
+msgctxt "Teddy"
+msgid "The ripple of approval and excitement ran through the crowd like a wave. Before long they were clapping, and then they were cheering, and before Olly knew it she was sitting atop Timo's shell, mindful of the crack the stone had made, and the Great Shell was wrapped securely in her tentacles."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-5/11
+msgctxt "Teddy"
+msgid "\"I did it,\" she thought. \"I won.\" It took her only a moment to realize that she had won not by being big. But by being exactly who she had been all along."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-5/29
+msgctxt "Teddy"
+msgid "That's it. Whaddaya think?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-5/37/s/0
+msgctxt "Choix"
+msgid "That was a good story."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-5/38/s/0
+msgctxt "Choix"
+msgid "I'm... I'm sleepy."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-5/c-15/7
+msgctxt "Teddy"
+msgid "That's why I told it."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-5/c-16/7
+msgctxt "Teddy"
+msgid "That's okay."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_1/0/g-6/6 teddy_teddybear/teddy_story_2/0/g-4/0
+msgctxt "Teddy"
+msgid "Good night, buddy."
+msgstr ""
+
+#: teddy_teddybear/star_continue/0/0
+msgctxt "Teddy"
+msgid "Lessee, the Star Brothers... where did I leave off?"
+msgstr ""
+
+#: teddy_teddybear/star_continue/0/8/s/0
+msgctxt "Choix"
+msgid "Aris died... it was sad."
+msgstr ""
+
+#: teddy_teddybear/star_continue/0/c-0/7
+msgctxt "Teddy"
+msgid "It was indeed..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/36
+msgctxt "Teddy"
+msgid "I hope you're ready. I have a great story for you tonight."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/44
+msgctxt "Teddy"
+msgid "This is the story of the Star Brothers."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/58
+msgctxt "Teddy"
+msgid "Aris and Leo were twin brothers born among the stars."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/66
+msgctxt "Teddy"
+msgid "Though born in the same split second, Aris always felt protective of his brother. Leo could be a bit of a hothead and Aris was kept busy keeping him out of trouble."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/74
+msgctxt "Teddy"
+msgid "They were the most rare and beautiful thing, new lives in a race of immortal beings called the Celestials."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/82
+msgctxt "Teddy"
+msgid "The boys were always together. They were as close as two brothers could be. They knew each other's minds."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/90
+msgctxt "Teddy"
+msgid "They trusted each other with every truth and every question."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/98
+msgctxt "Teddy"
+msgid "When Aris grabbed the comet's tail with both hands, Leo knew to stand in front of it and play the comet's head like a friendly dog."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/106
+msgctxt "Teddy"
+msgid "When the boys were old enough, they were brought before the Council of Elders. The time had come for them to receive the greatest gift of their lifetimes."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/114
+msgctxt "Teddy"
+msgid "You see, I know you look up at the stars. I know we all marvel at their beauty and their mystery! But the stars look down at us, too. They treasure us."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/125/s/0
+msgctxt "Choix"
+msgid "You think I could date the stars and planets and stuff?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/126/s/0
+msgctxt "Choix"
+msgid "They do... don't they..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/c-0/7
+msgctxt "Teddy"
+msgid "Um... heheheh, maybe not just yet, buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/0
+msgctxt "Teddy"
+msgid "The chance to live a human life, to be born here, and live here, and experience our world, is their most precious rite of passage."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/8
+msgctxt "Teddy"
+msgid "And for Aris and Leo, the moment had arrived."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/16
+msgctxt "Teddy"
+msgid "They were led slowly into the Abyss of the Council, right up to the throne of the Elder."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/24
+msgctxt "Teddy"
+msgid "\"It is time, my sons,\" he intoned. \"It is time for you to be born again. You will come to me, separately, and chart your course through your human life. You'll decide the things you will see, and things you will experience."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/32
+msgctxt "Teddy"
+msgid "\"And when you leave my chamber, you will forget what we have said. When you are born on Earth, you will forget your life here, and you will be fully and only human.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/40
+msgctxt "Teddy"
+msgid "Leo looked from the Elder to his brother, and bit his lip. \"Sir,\" he began. \"When we get there, when we are born... will I know my brother?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/48
+msgctxt "Teddy"
+msgid "The Elder smiled kindly. \"Yes, Leo. You will know him as your brother. But the closeness you feel here will not necessarily go with you."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/56
+msgctxt "Teddy"
+msgid "\"If you choose to have that closeness as humans, it will be up to you when you are old enough to create it in your lifetime.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/64
+msgctxt "Teddy"
+msgid "Aris smiled and slipped his hand into Leo's. \"Don't worry, Leo,\" he whispered. \"We'll remember each other. I promise.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/72
+msgctxt "Teddy"
+msgid "Each boy went with the Elder and planned his life as a human. And when they were reunited in the Abyss, they smiled at each other with the impish excitement of what they were about to do."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/80
+msgctxt "Teddy"
+msgid "It was the greatest adventure either one of them could have imagined, and they would get to do it together!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/91
+msgctxt "Teddy"
+msgid "\"Are you ready?\" asked the Elder. The boys caught each other's eyes and smiled. \"Yes, sir,\" they said together."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/99
+msgctxt "Teddy"
+msgid "\"Then take a deep breath and close your eyes. When you open your eyes, your journey will have begun!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/107
+msgctxt "Teddy"
+msgid "And so Aris and Leo were born as brothers here, among us."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/118/s/0
+msgctxt "Choix"
+msgid "Hm... kinda like Realizing..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/119/s/0
+msgctxt "Choix"
+msgid "Among us..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "Kinda like that!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-0/c-3/7
+msgctxt "Teddy"
+msgid "Among us, yes."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/0
+msgctxt "Teddy"
+msgid "They chose to be born in a small town outside the city; where it was dark enough that they could still see the stars."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/8
+msgctxt "Teddy"
+msgid "I wish I could tell you that they immediately remembered their love and their closeness... but it took them a while!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/16
+msgctxt "Teddy"
+msgid "While they were always together, they fought constantly. They questioned why they had been born as brothers, they were so unfamiliar to each other."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/24
+msgctxt "Teddy"
+msgid "It felt like whatever one did, perfectly irritated the other."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/32
+msgctxt "Teddy"
+msgid "The boys were eight when they started racing each other through the woods."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/40
+msgctxt "Teddy"
+msgid "One day as they were running, chasing each other and pushing each other to go faster and further,"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/48
+msgctxt "Teddy"
+msgid "Leo realized that he had taken a wrong turn. The trees looked unfamiliar, and the air started to smell strangely open and deep."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/56
+msgctxt "Teddy"
+msgid "But Aris was hot on his heels, and he couldn't stop. He couldn't be caught, pushing himself forward, blinded by the competition."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/64
+msgctxt "Teddy"
+msgid "He didn't notice when the dirt underfoot turned to rock, and when the rock began to thin into a great high cliff."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/72
+msgctxt "Teddy"
+msgid "He pulled himself up short in a panic, but it wasn't quite fast enough, and his momentum carried him bodily over the edge."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/80
+msgctxt "Teddy"
+msgid "Time slowed as Leo fell, and he realized in a flash that he was about to die."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/88/s/0
+msgctxt "Choix"
+msgid "Oh no... is this one of those kinds of stories..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-1/89/s/0
+msgctxt "Choix"
+msgid "Hmm..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/0
+msgctxt "Teddy"
+msgid "And that's when he felt a small, electric hand grip his wrist."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/8
+msgctxt "Teddy"
+msgid "Aris pulled them both out of the air, hurling his little body backwards and tumbling both of them onto the rocky path behind the sheer face."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/16
+msgctxt "Teddy"
+msgid "Leo felt a small rock slice into his hand, felt the blood pouring out over his arm and Aris. But he was alive."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/24
+msgctxt "Teddy"
+msgid "Gulping air, he turned to look back at his brother and they caught each others' eye."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/32
+msgctxt "Teddy"
+msgid "For the first time in their young lives, there was a recognition. What it was, neither one of them could've said. But they knew each other then. On the cliffside, sheened in sweat and blood, they became brothers."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/43
+msgctxt "Teddy"
+msgid "The years that followed saw them growing ever closer, taking each adventure in stride, and together."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/51
+msgctxt "Teddy"
+msgid "They were 22 when they decided to learn how to fly."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/59
+msgctxt "Teddy"
+msgid "They went up together in small planes, learning to take off, to land, and then to do flips and loop-dee-loops."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/67
+msgctxt "Teddy"
+msgid "They would laugh as their plane cavorted through the sky, and smile contentedly as the wheels touched back down to Earth."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/75
+msgctxt "Teddy"
+msgid "The day the plane went down was a flight like any other. Nothing had gone wrong, there was no great conflagration."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/83
+msgctxt "Teddy"
+msgid "But the plane began to fall from the sky. Leo couldn't get the engine to start again, and the landing gear wouldn't respond to Aris' smashing the buttons."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/91
+msgctxt "Teddy"
+msgid "The plane crashed through trees and grass and came to rest on a green hillside under a cloudless sky."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/99
+msgctxt "Teddy"
+msgid "Leo freed himself and tumbled out onto the grass. He dragged his body up the side of the plane to find Aris unconscious in another seat."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/107
+msgctxt "Teddy"
+msgid "\"Aris! Aris, Aris, wake up, get up. Aris, get out of the plane!\" Aris lay still."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/115
+msgctxt "Teddy"
+msgid "\"Aris!\" Leo breathed, his heart rate slowing. \"Aris, open your eyes.\" And still, Aris did not move."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/123
+msgctxt "Teddy"
+msgid "Time slowed again. The realization that Aris would not move came slowly. Like a great wave crashing over him, Leo felt the light go out of the sun."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/131
+msgctxt "Teddy"
+msgid "Leo brushed the scar on his palm, left by the rock at the cliff face. Maybe Aris would feel the old wound, and wake."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/139
+msgctxt "Teddy"
+msgid "\"Aris... don't leave me, brother.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/147
+msgctxt "Teddy"
+msgid "But Aris had already gone."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/158/8/s/0
+msgctxt "Choix"
+msgid "What - right when it gets emotional like this? Let's keep going."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-2/158/10/s/0
+msgctxt "Choix"
+msgid "I would!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/0
+msgctxt "Teddy"
+msgid "It was many years later and Leo still moved in the cloudless fog of that morning. Colors seemed bright and hollow. People spoke to him as though from a long way off, and he jealously guarded his isolation from the world."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/8
+msgctxt "Teddy"
+msgid "He still saw his brother everywhere. The way a certain branch swayed, as though it had been brushed by a young hand."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/16
+msgctxt "Teddy"
+msgid "The way that girl smiled at him, the same mischievous glint in her eye that Aris used to have."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/24
+msgctxt "Teddy"
+msgid "It was that girl who began to bring him back to life."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/32
+msgctxt "Teddy"
+msgid "She had lost her dog in the park. Frantically, she ran back and forth, calling him. \"Comet! Comet, come back!\" Leo raised his head from the scar on his palm at her voice, his back against a tree."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/40
+msgctxt "Teddy"
+msgid "And then there was Comet, streaking across the grass with his tongue lolling happily. He beelined for Leo's tree."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/48
+msgctxt "Teddy"
+msgid "Before he knew it, Leo was on his feet, jumping in front of Comet and playing his head with a laugh and a smile."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/56
+msgctxt "Teddy"
+msgid "The girl arrived breathless, and grabbed Comet's tail with both hands. \"You silly goose, where were you going?\" she laughed. \"Thank you, thank you so much! I'm Celene, by the way.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/67
+msgctxt "Teddy"
+msgid "\"Oh... hi. Hi, Celene. Nice to meet you. I'm Leo.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/75
+msgctxt "Teddy"
+msgid "Celene smiled. \"Hi, Leo.\" And somewhere in his chest, Leo felt something warm break open. A tiny dam on a great river, and his blood began to move again."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/83
+msgctxt "Teddy"
+msgid "Celene and Leo were together from that day. Their love brought them a family, and then more family, and more adventures than they could have remembered."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/94
+msgctxt "Teddy"
+msgid "They grew old together. They grew wiser."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/102
+msgctxt "Teddy"
+msgid "They held each other when Comet died. They cried together when the fire took their house. They smiled when their son built them a new one."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/110
+msgctxt "Teddy"
+msgid "And when Leo died, he died with a smile on his face. Celene was standing next to him, and his finger now unconsciously and methodically stroked the scar on his palm."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/118
+msgctxt "Teddy"
+msgid "In that scar was his holding on to Aris. Not with sadness now, but with fondness. Great love."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/126
+msgctxt "Teddy"
+msgid "Leo's last breath was a gentle exhale up into a cloudless sky."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/134
+msgctxt "Teddy"
+msgid "And when he opened his eyes again, he was home. He was in that sky, up among the stars, young and immortal and standing before the Elder with his hand clasped in his brother's warm grip."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/142
+msgctxt "Teddy"
+msgid "\"Aris? Is it really... it's you! I remember you, I remember this!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/150/s/0
+msgctxt "Choix"
+msgid "Oh wow..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/151/s/0
+msgctxt "Choix"
+msgid "Typical."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/starmid2/c-11/7
+msgctxt "Teddy"
+msgid "C'mon, it's a bedtime story."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/0
+msgctxt "Teddy"
+msgid "Aris laughed out loud and began to jump around excitedly."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/8
+msgctxt "Teddy"
+msgid "\"Oh, Leo, I've been waiting for you! I watched everything, I watched it all, what an adventure you have had!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/16
+msgctxt "Teddy"
+msgid "\"You were there?\" Leo asked, confused. \"But... no, I remember you weren't there. I know you weren't because I missed you.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/24
+msgctxt "Teddy"
+msgid "\"But I was! I was in your scar, I was in the park that day you met Celene. I sent Comet to you! Don't you see? I was always there and I wouldn't have missed it! I'm so proud of you!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/32
+msgctxt "Teddy"
+msgid "As the Elder looked on smiling, Leo began to cry. The well of love for his brother broke open with gratitude that he was here now."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/40
+msgctxt "Teddy"
+msgid "The boys held each other, crying and laughing and patting each other on the back; to make sure the other was real."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/48
+msgctxt "Teddy"
+msgid "Leo pulled away from Aris and looked at him squarely. \"I am so grateful that you saw my life, Aris. But I don't understand. You could've been there with me. We could've done it all together."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/56
+msgctxt "Teddy"
+msgid "Why did you leave me, brother?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/64
+msgctxt "Teddy"
+msgid "Aris grinned. \"I never left you. My journey was to die, Leo."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/72
+msgctxt "Teddy"
+msgid "Yours was to live.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/94/s/0
+msgctxt "Choix"
+msgid "Woah..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/95/s/0
+msgctxt "Choix"
+msgid "I can't believe that is supposed to make me sleep!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/96/s/0
+msgctxt "Choix"
+msgid "That was a long one..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/c-13/7
+msgctxt "Teddy"
+msgid "Yeah... but sticks with me, that one."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_2/0/g-3/c-14/7
+msgctxt "Teddy"
+msgid "Don't worry, it's over."
+msgstr ""
+
+#: teddy_teddybear/beaver_mid_start/0/0
+msgctxt "Teddy"
+msgid "Now, where did we leave off?"
+msgstr ""
+
+#: teddy_teddybear/beaver_mid_start/0/8/s/0
+msgctxt "Choix"
+msgid "Beaver just got a pebble."
+msgstr ""
+
+#: teddy_teddybear/beaver_mid_start/0/9/s/0
+msgctxt "Choix"
+msgid "Beaver promised the machine would be done."
+msgstr ""
+
+#: teddy_teddybear/beaver_mid_start/0/c-0/7
+msgctxt "Teddy"
+msgid "Right right..."
+msgstr ""
+
+#: teddy_teddybear/beaver_mid_start/0/c-1/7
+msgctxt "Teddy"
+msgid "Getting to the good part..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/36
+msgctxt "Teddy"
+msgid "Oh, this one... this is the biggie, buddy! It's a good one."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/44/s/0
+msgctxt "Choix"
+msgid "Is it a long one?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/45/s/0
+msgctxt "Choix"
+msgid "Can't wait!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/c-0/7
+msgctxt "Teddy"
+msgid "Yes, a very long one."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Ugh, I hate long stories."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Okay, just wanted to check."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/c-0/15/c-0/7
+msgctxt "Teddy"
+msgid "Well, feel free to leave."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/c-0/15/c-0/21/0/s/0
+msgctxt "Choix"
+msgid "Seeya."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/c-0/15/c-0/21/1/s/0
+msgctxt "Choix"
+msgid "Nah, I'll stay."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/0
+msgctxt "Teddy"
+msgid "The Great Constructing of Beaver Proudtail."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/14
+msgctxt "Teddy"
+msgid "It was very early in the morning, one cold and foggy day a very long time ago."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/22
+msgctxt "Teddy"
+msgid "Young Beaver Proudtail was walking quietly and efficiently through the dug out tunnels of his den. His trusty stick tucked confidently under one arm."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/30
+msgctxt "Teddy"
+msgid "It was at this time every morning that the young beaver made his rounds; through the whole den where his colony lived and then up and out to the riverbank where the world he knew, the world he vigilantly protected, met the strangeness of Outside."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/38
+msgctxt "Teddy"
+msgid "His large tail balanced him expertly as he climbed the long entrance tunnel to the surface, occasionally using his dignified stick in an undignified manner to scramble up the pathway."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/46
+msgctxt "Teddy"
+msgid "As he heaved himself out onto the bank of the river, Beaver's attentiveness grew even more acute. It was dangerous to be Outside alone. The Great War with the colony across the river had been going on for as long as he could remember, and a fair bit of time beyond that."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/54
+msgctxt "Teddy"
+msgid "It seemed like there had always been 'The War'. He couldn't remember any outright battles, or even any scrappy skirmishes. But they were definitely at war. He was sure of it."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/62
+msgctxt "Teddy"
+msgid "For a moment he almost asked himself what 'The War' was even about... but he forgot to finish the question. He was very young, after all, and what did it matter? The colony was on the other side of the river, and beavers didn't ever cross rivers."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/70
+msgctxt "Teddy"
+msgid "He smartly tucked his stick back under his arm, and began his patrol. So many steps this way, a scrutinizing scan and so many steps back."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/78
+msgctxt "Teddy"
+msgid "But today something was different. On the other bank of the river, through the fog, he heard the distinctive sounds of battle!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/86
+msgctxt "Teddy"
+msgid "\"En garde, ye scum-footed knave!\" The voice cried. \"Defy me at your peril!\" The sounds of the wood clanging against wood echoed through the fog. \"Hyah! Pow! Bing bang BOOM!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/94/s/0
+msgctxt "Choix"
+msgid "Haha - nice voices!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-0/c-2/7
+msgctxt "Teddy"
+msgid "<i>ahem</i> Thank you."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/0
+msgctxt "Teddy"
+msgid "\"Who goes there,\" shouted Beaver, his heart in his little throat. As an answer, he heard a young and high pitched yelp. \"Ah! Um... my... my name is Builder! Hi?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/8
+msgctxt "Teddy"
+msgid "\"Hi.\" It was all Beaver could manage. He was talking to another creature, a stranger, and a stranger from across the river at that! How many times had the colony council, The Denizen, warned him about the dangers of this? It was strictly against the rules!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/16
+msgctxt "Teddy"
+msgid "And Beaver had ALWAYS followed the rules."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/24
+msgctxt "Teddy"
+msgid "\"Hi!\" the voice came careening back across the water. \"What's your name?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/32
+msgctxt "Teddy"
+msgid "Beaver heaved a deep breath. Whoever this Builder was, Beaver was not going to be shown less brave than he. \"I'm Beaver. Beaver Proudtail.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/40
+msgctxt "Teddy"
+msgid "\"Well hello, Beaver Patton. Builder Jumpfoot's my name. I'm playing at war. Want to join me?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/48
+msgctxt "Teddy"
+msgid "\"I most certainly do not!\" cried Beaver. \"Playing at War. War is serious business, not for playing! My colony is in a war right now, and I'm going to be a General when I grow up. I'm going to WIN that war, you'll see!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/56
+msgctxt "Teddy"
+msgid "\"Oh gosh,\" sighed Builder, \"I sure hope you do! My colony is in a war, too, and I'm so tired of it. That's why I made it a game; games are so much less boring than warring all the time!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/64
+msgctxt "Teddy"
+msgid "The pieces began rapidly whirling around in Beaver's mind. Builder's colony... he's at war, too... right across the river... he realized he was talking to a beaver from the colony across the river, his sworn enemy since birth."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/72
+msgctxt "Teddy"
+msgid "Just then the wind blew a gentle clearing in the fog, and the two young beavers saw each other for the first time. They could've been twins. Bright black eyes, thick tails, strong sticks embellished with their colony colors."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/80
+msgctxt "Teddy"
+msgid "Builder's face broke into a broad grin. \"You look just like me!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/88
+msgctxt "Teddy"
+msgid "\"Hmph,\" scoffed Beaver. \"I'd say you look just like me.\" Builder laughed. The two regarded each other in amazement for another moment; it was the first time either of them had seen a denizen from the other colony."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/96
+msgctxt "Teddy"
+msgid "Builder leaned down and hefted up a perfect pebble from the riverside. Not too big, not too small. He tossed it up. With perfect timing, he swung his stick easily and Beaver heard it CRACK as it met the pebble in midair and sent it winging across the water."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/104
+msgctxt "Teddy"
+msgid "Instinctively, Beaver reached out and caught it in his paw. Now he was accepting contraband! What would his parents say?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/112/s/0
+msgctxt "Choix"
+msgid "Hmm... I wonder..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-1/113/s/0
+msgctxt "Choix"
+msgid "Probably that it's not a good idea..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/0
+msgctxt "Teddy"
+msgid "But upon inspection, the pebble was quite beautiful. It had a single bold red stripe around it, and it was wet from the riverside mud. His young mind decided that he would keep it. He would keep it a secret, of course, and that was all right."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/8
+msgctxt "Teddy"
+msgid "The Denizen didn't have to know everything."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/16
+msgctxt "Teddy"
+msgid "The clearing in the fog began to fill with thickened air. He looked up, suddenly anxious to lose his new friend. Friend? Huh. How quickly that had happened."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/24
+msgctxt "Teddy"
+msgid "And there Builder was, smiling and waving. \"Maybe we'll play together again soon,\" he offered."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/32
+msgctxt "Teddy"
+msgid "Beaver gripped the pebble and nodded. \"Yes! Yes, maybe. One day.\" And then Builder was lost."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/40
+msgctxt "Teddy"
+msgid "Beaver finished his patrol and took his new experience, his pebble and his smartly tucked stick back down to the colony."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/48/8/s/0
+msgctxt "Choix"
+msgid "I'm in - this is fun!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-2/48/10/s/0
+msgctxt "Choix"
+msgid "I sure would, thanks for asking."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/0
+msgctxt "Teddy"
+msgid "Many seasons had passed since that morning when Beaver Proudtail, all grown up, marched through the tunnels of his colony toward his audience with The Denizen."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/8
+msgctxt "Teddy"
+msgid "Today was the day he'd been anticipating his whole life; today he would be made an under-general of the colony, and he'd finally have the chance to present his <i>machine</i>."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/16
+msgctxt "Teddy"
+msgid "See, the machine he envisioned was a daring one. He was prepared for pushback and doubt from the council, The Longest in particular."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/24
+msgctxt "Teddy"
+msgid "The Longest had been the leader of the Denizens for most of his life. And she was not always interested in things new or unfamiliar. Beaver's machine was both. But he believed in it, and he was determined to persevere."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/35
+msgctxt "Teddy"
+msgid "He rapped on the Denizen Chamber door... (knock, knock) \"Enter!\" He took a deep breath, and pushed."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/43
+msgctxt "Teddy"
+msgid "\"My goodness, Beaver,\" sighed The Longest, brows knitted. \"This machine is quite an undertaking. And you won't even tell us what it does!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/51
+msgctxt "Teddy"
+msgid "\"Yes, ma'am,\" Beaver nodded. \"It must be kept a secret, for now... but I promise. It will conclusively end this war.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/59
+msgctxt "Teddy"
+msgid "The Longest considered. \"Normally I would say no. Unfamiliar can be dangerous, and outright new... well.\" She stroked her silver gray whiskers. The other council members watched her reverently."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/67
+msgctxt "Teddy"
+msgid "\"But, we have all seen the construction beginning on the other side of the river. We have no way of knowing what they're up to, and it would be irresponsible of us to take no action at all."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/75
+msgctxt "Teddy"
+msgid "They're doing something, we must do something, too.\" Deep murmurs of assent rippled around the small stump table."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/83
+msgctxt "Teddy"
+msgid "\"And we trust Beaver. He is our newest under-general, after all,\" she winked in his direction. \"If he believes his machine will truly and finally tip the balance of The Great War in our favor...\" she paused."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/91
+msgctxt "Teddy"
+msgid "The silence was agonizing. Beaver kept his eyes fixed on the wall just behind her head, patient. His paw unconsciously turned and re-turned a small pebble in his pocket, caressing along the line of a single, great, red stripe."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/99
+msgctxt "Teddy"
+msgid "\"Then permission is granted.\" Beaver let go the breath he had been holding. \"Begin construction as soon as you are able, Under-General. And good luck.\" She smiled warmly."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/110
+msgctxt "Teddy"
+msgid "But the burden of her long years of leadership showed through her sagging cheeks. \"We will be watching.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/118
+msgctxt "Teddy"
+msgid "Beaver smartly untucked and re-tucked his stick, slapped his tail once against the packed ground in assent. \"Yes, ma'am, Longest. I'll begin right away!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/126
+msgctxt "Teddy"
+msgid "He turned on his heel, and marched out of the chamber. It was the first day of summer... it was going to be a long and exciting season."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/134
+msgctxt "Teddy"
+msgid "At first, the build crews The Longest had placed under his command were reticent. \"What are we building,\" they would complain, \"what does it do?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/142
+msgctxt "Teddy"
+msgid "When Beaver said nothing and admonished them to follow instructions, their eyes flickered nervously to the building across the river."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/150
+msgctxt "Teddy"
+msgid "\"Maybe it's something to help us fish the river!\" Corinth Blueeye speculated. \"Did you hear? Denny Strongpaw almost got swept away yesterday. And his whole crew!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/158
+msgctxt "Teddy"
+msgid "\"He did?! But Denny's the strongest fisher we have!\" Shelby Tunneler sighed. \"Ah, this river. It's so fast!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/166
+msgctxt "Teddy"
+msgid "\"Yes, yes,\" retorted Madden Sharptooth. \"But fishing will not win us the war. We must focus on the war!\" And the others agreed, and went back to their building."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/174
+msgctxt "Teddy"
+msgid "Sometimes The Longest would come to check on the machine, casting her critical eye over every joint and pillar. Most often, she went back below with hardly a word to Beaver, appraising, wearing her doubt like a shawl."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/182
+msgctxt "Teddy"
+msgid "But as the summer season progressed, the mood began to shift. Crews would show up to their duties early. They smiled more, they stood up straighter when Beaver came by them, or looked to them for progress."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/190
+msgctxt "Teddy"
+msgid "The machine, whatever it was, was taking shape, and its scale was impressive. It looked angry. It looked like the great weapon they all hoped and prayed it was."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-3/0/198/s/0
+msgctxt "Choix"
+msgid "Oh boy..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/0
+msgctxt "Teddy"
+msgid "The crews began comparing their machine to the thing on the other side of the river. They even began trading barbs and joked with the beavers working on the other side."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/8
+msgctxt "Teddy"
+msgid "They pushed and prodded about who would finish their project first. \"Ours is a ship to go to the sky, and from there we'll drop stars on you and we'll win the war!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/16
+msgctxt "Teddy"
+msgid "\"Ha!\" would come the reply. \"Ours is a wooden dragon who lives under the water, who can take us safely across this speeding river and we'll come upon you unexpectedly and we'll win the war!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/24
+msgctxt "Teddy"
+msgid "Days were marked now by hard work, and the sounds of challenge ricocheting across the water."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/32
+msgctxt "Teddy"
+msgid "\"Beaver,\" said The Longest, as she held onto his arm one day late into the summer sun. \"I don't need to tell you, the whole colony speaks of nothing but your machine. They are all so proud of you.\" Beaver nodded solemnly. \"Thank you, ma'am.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/40
+msgctxt "Teddy"
+msgid "\"But the season draws on. You must finish before the rains come... and then you'll have to finally tell us what this is that you've created.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/48
+msgctxt "Teddy"
+msgid "Beaver's paw found the lucky pebble in his pocket. \"Yes, ma'am. We will be done. And I will test it, and you will watch. You'll see the destruction of our enemy.\" The Longest squeezed his arm affectionately, and together they looked out over the setting sun, and the water."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-4/56/10/s/0
+msgctxt "Choix"
+msgid "Yeah, Teddy. Let's pick up another time."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/0
+msgctxt "Teddy"
+msgid "And then the day came. The crew stood around the great machine, eyeing with wonder the marvel that they had built."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/8
+msgctxt "Teddy"
+msgid "A few beaverfolk noticed how similar theirs looked to the one across the river... but that was ok, they reasoned. They had been built facing each other, after all."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/16
+msgctxt "Teddy"
+msgid "Beaver Proudtail strode up to the front of his machine. With his well-worn stick and his powerful bearing, he cut quite a figure."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/24
+msgctxt "Teddy"
+msgid "Corinth Blueeye and Shelby Tunneler stood just behind him, awaiting their orders. \"Alright, Corinth,\" Beaver turned to face them. \"Do you have the rope?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/32
+msgctxt "Teddy"
+msgid "\"Yes, sir,\" Corinth turned to Shelby who produced the end of a long length of woven rope from a basket in the base of the machine. \"Time to get me up there, then.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/40
+msgctxt "Teddy"
+msgid "With the end of the rope tied around his waist, Beaver climbed up to what looked like a large square of woven netting, pulled tightly back from its center by a thick cable. The cable was held by four whole crews of beaverfolk, straining against the resistance of the net."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/48
+msgctxt "Teddy"
+msgid "The Longest stood back at a safe distance, her shawl wrapped tightly around her shoulders to ward off the early autumn chill."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/56
+msgctxt "Teddy"
+msgid "Beaver settled himself right in the middle of the netting, at the last moment shaking his head in sudden memory. \"Here,\" he said to Shelby and handed her his precious stick. \"I'll be back for this.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/64
+msgctxt "Teddy"
+msgid "\"Back?\" queried Shelby. \"Ready, crews!\" Shouted Beaver. \"Ready, Under-General!\" came the chorused reply. \"And... LOOSE!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/72
+msgctxt "Teddy"
+msgid "At their cue, the crews simultaneously released their hold on the cabling, and the netting rocketed forward, launching Beaver Proudtail out into the air!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-5/0/81/s/0
+msgctxt "Choix"
+msgid "Maybe this is part of his plan..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/0
+msgctxt "Teddy"
+msgid "\"Great River!!\" they cried in consternation and shock. \"What??! Where has he gone! Is he alright? What have we done?!\" The confusion was so great that not even The Longest could restore order!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/8
+msgctxt "Teddy"
+msgid "Minutes passed before another shape came sailing over the river from the other side, to plop safely and squarely into the center of the net."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/16
+msgctxt "Teddy"
+msgid "It was Beaver! He had the same square head, and the same rope wrapped securely around his waist."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/24
+msgctxt "Teddy"
+msgid "\"Good Log, what a ride! That's the most fun I've had in weeks!\" said the shape in the net. He began to disentangle himself and stand up... and it wasn't Beaver after all!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/35
+msgctxt "Teddy"
+msgid "The roil of the crews was instant and a bit frightening. \"Who is this?! Who are you?\" they cried, and The Longest shouted at the top of her lungs, \"Detain the Stranger!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/43
+msgctxt "Teddy"
+msgid "The crews pulled him down from the net, and the stranger never stopped smiling, greeting them warmly, even patting some of the beaverfolk on the back! He looked just like Beaver, but Beaver never smiled like that."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/51
+msgctxt "Teddy"
+msgid "Beaver hardly smiled at all, come to think of it."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/59
+msgctxt "Teddy"
+msgid "\"I can understand your confusion,\" said the stranger genially. \"Beaver and I looked so much alike, even when we were kits! My name is Builder. Builder Jumpfoot!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/67
+msgctxt "Teddy"
+msgid "When no reply or greeting was forthcoming, Builder went on. \"I'm from the colony across the river.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/75
+msgctxt "Teddy"
+msgid "The silence was absolute. Across the river? How was that possible? Was he a weapon? Where was Beaver? How were they ever to get him back?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/83/s/0
+msgctxt "Choix"
+msgid "C'mon Builder - I know he's got the right idea here."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/84/s/0
+msgctxt "Choix"
+msgid "He's probably just dead."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-6/c-17/7
+msgctxt "Teddy"
+msgid "Woah... hey now."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/0
+msgctxt "Teddy"
+msgid "Builder just smiled, absolutely at his ease, seemingly pleased as punch to be among all these new friends."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/8
+msgctxt "Teddy"
+msgid "And into this silence sailed the figure of Beaver, a new rope tied around his waist. There were now three lines of thick rope across the river."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/16
+msgctxt "Teddy"
+msgid "Beaver landed expertly in the center of the net, untied his waist rope and climbed down."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/24
+msgctxt "Teddy"
+msgid "\"You are Builder?\" Beaver reached out his paw to the stranger. \"And you could only be Beaver!\" the stranger exclaimed, gripping that paw warmly with his own."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/35
+msgctxt "Teddy"
+msgid "\"I am Builder indeed. And it has been the dream of my life to finally meet you like this, in the daylight, on the same soil.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/43
+msgctxt "Teddy"
+msgid "\"Mine as well, my friend.\" Beaver, for the first time in his life, allowed himself a great, eye-crinkling smile. \"I almost can't believe it worked!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/51
+msgctxt "Teddy"
+msgid "\"Now wait just a minute!\" trilled The Longest, making her slow path down to the machine. \"What on Riverbank is happening here?? We are at war, Beaver! And Builder, too, you both should know better!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/59
+msgctxt "Teddy"
+msgid "Beaver, you promised us that your machine would win the war! And here you have brought the enemy you promised to destroy right to the mouth of our colony tunnel!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/67
+msgctxt "Teddy"
+msgid "Beaver turned to The Longest with an open face. \"Yes, ma'am, I did. I believe you'll agree, though, that I have won the war. We have all won the war..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/75
+msgctxt "Teddy"
+msgid "because the war is over.\" The Longest stared. \"The machines that we have built will allow us to become not two colonies at war, but a single colony, united.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/86
+msgctxt "Teddy"
+msgid "\"The machines are designed to dam the river, ma'am,\" offered Builder. \"I believe you have the same dangers with fishing and swimming that we do, that you have never crossed it?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/94
+msgctxt "Teddy"
+msgid "The crews cackled at the absurdity of ever crossing this raging river."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/102
+msgctxt "Teddy"
+msgid "\"We have no need to fight the river now, you see,\" Builder continued. \"We sail above it.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/110
+msgctxt "Teddy"
+msgid "\"Just as a single pebble did, long ago,\" whispered Beaver."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-7/118/s/0
+msgctxt "Choix"
+msgid "Ohhh..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/0
+msgctxt "Teddy"
+msgid "Builder smiled. \"We have already carried three great ropes from side to side between us, and it will be short work to have a whole net built across the river."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/8
+msgctxt "Teddy"
+msgid "Once the river is dammed, it will be a still pond, stocked with all the fish we could ever need, calm enough for us and our kits to play in."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/16
+msgctxt "Teddy"
+msgid "We will be a great community, the first colonies to ever cross water, the first ingenious constructors in the history of Us!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/27
+msgctxt "Teddy"
+msgid "The crews were openmouthed. Their paws hung still at their sides as they realized the magnitude of what they had accomplished. But would it truly be good, as they said? Who was really to say how this great feat would be remembered?"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/35
+msgctxt "Teddy"
+msgid "The Longest took a deep rattling breath. \"I can see why you did not tell us at first, Beaver, the true purpose of your machine.\" She glanced at him sidelong. \"I surely would have said no. Nothing this daring has ever even been attempted before, let alone under the mask of subterfuge!\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/43
+msgctxt "Teddy"
+msgid "Beaver looked up at her, suddenly a very young kit again in his heart. \"Yes. That is true. Ma'am, I have won the war. I have won by making it go away. We have all won it, by making friends out of old enemies."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/51
+msgctxt "Teddy"
+msgid "Ma'am... Mother... do you like it?\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/59
+msgctxt "Teddy"
+msgid "The Longest looked fondly on her son, her serious, and guarded, and daring and wonderful son. \"Yes, child. I have never been more proud, of anyone.\""
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/67
+msgctxt "Teddy"
+msgid "Builder guffawed and began to dance around, slapping Beaver brazenly and companionably on his back. Beaver stood solemn, quiet, a gentle smile tickling the corners of his mouth, satisfied."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/78
+msgctxt "Teddy"
+msgid "It was, as they had promised, quick work to dam the river. Beaver and Builder were excellent guides, and the crews from both sides of the river proved naturally adept and joyous in their work."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/86
+msgctxt "Teddy"
+msgid "Before the autumn settled in, a great still pool existed between the two colonies, kits splashing and playing and parents fishing safely."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/94
+msgctxt "Teddy"
+msgid "Denny Strongpaw, the best fisher in the fast water, turned out to be the best fisher in still water, too; much to his delight."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/102
+msgctxt "Teddy"
+msgid "And very early each morning, Beaver Proudtail still crept quietly from the colony and performed his morning rounds. He had never missed a day."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/110
+msgctxt "Teddy"
+msgid "But now, his favorite part of his patrol was seeing Builder Jumpfoot across the water, and batting a very specific, very lucky, red-striped pebble back and forth."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/118/s/0
+msgctxt "Choix"
+msgid "That was a really nice story! Peace and love forever!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/119/s/0
+msgctxt "Choix"
+msgid "Zzzzz..."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/c-20/7
+msgctxt "Teddy"
+msgid "That's just it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/c-20/18
+msgctxt "Teddy"
+msgid "Thanks for listening all the way through. Good night, buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/c-21/7
+msgctxt "Teddy"
+msgid "<i>oh!</i>."
+msgstr ""
+
+#: teddy_teddybear/teddy_story_3/0/g-8/c-21/21
+msgctxt "Teddy"
+msgid "<i>good night, buddy.</i>"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/4
+msgctxt "Teddy"
+msgid "Oh, my goodness. I can't tell you how glad I am!"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/12/s/0
+msgctxt "Choix"
+msgid "Glad about what?"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/13/s/0
+msgctxt "Choix"
+msgid "Wow, you actually say \"Oh my goodness\"..."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/0
+msgctxt "Teddy"
+msgid "We are friends again!"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/11
+msgctxt "Teddy"
+msgid "I gotta tell ya... I was really missing you for a while there."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/19
+msgctxt "Teddy"
+msgid "Of course I know you were out living your life, doing so many amazing and exciting things..."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/27
+msgctxt "Teddy"
+msgid "But it sure is a pleasure to have you back around, and get to watch you live. You're great at it."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/0/s/0
+msgctxt "Choix"
+msgid "What am I great at?"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/1/s/0
+msgctxt "Choix"
+msgid "I've missed you, too."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/c-0/7
+msgctxt "Teddy"
+msgid "You're great at living. Don't ever forget that."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I won't. Thanks for the reminder."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/c-0/15/c-0/7
+msgctxt "Teddy"
+msgid "You've got it. Come back anytime!"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/c-1/7
+msgctxt "Teddy"
+msgid "Well, then we'd best see each other a lot more often!"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/c-1/15
+msgctxt "Teddy"
+msgid "You know where I am, comfy and cozy."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend/0/g-0/35/c-1/23
+msgctxt "Teddy"
+msgid "Come back and visit me!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/0
+msgctxt "Teddy"
+msgid "Well, of all the unexpected things..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/8/s/0
+msgctxt "Choix"
+msgid "What's up?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/9/s/0
+msgctxt "Choix"
+msgid "Ooh, did you remember another story?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/0
+msgctxt "Teddy"
+msgid "You really listened to me. You really listened to one of my stories all the way through, even though we're all grown up now."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/8
+msgctxt "Teddy"
+msgid "I've collected them all over so many years and kept them shiny and safe, waiting for someone..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/16
+msgctxt "Teddy"
+msgid "Well, waiting for you, really, to come back and listen. And you did."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/24
+msgctxt "Teddy"
+msgid "I can't tell you how touched I am."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/32/0/s/0
+msgctxt "Choix"
+msgid "Gosh, Teddy, it's all good."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/32/1/s/0
+msgctxt "Choix"
+msgid "I really enjoyed it."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/0
+msgctxt "Teddy"
+msgid "But the unexpected part is how I feel."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/8
+msgctxt "Teddy"
+msgid "I've always loved you, you know. Even when we were little."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/16
+msgctxt "Teddy"
+msgid "We were so young - and I always wanted to protect you."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/24
+msgctxt "Teddy"
+msgid "But then with all the time we had apart, how much you've changed and turned into such a remarkable and generous person."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/32
+msgctxt "Teddy"
+msgid "I find that I... love, love you."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/40
+msgctxt "Teddy"
+msgid "How would you feel about making some of our own stories, together?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/48
+msgctxt "Teddy"
+msgid "I'll bet we could find some new things to advise each other about, too..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/0/s/0
+msgctxt "Choix"
+msgid "Oh my. I... thought you'd never ask..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/1/s/0
+msgctxt "Choix"
+msgid "I love you, too, Teddy. But I just love our friendship. Let's stay there."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/c-0/7
+msgctxt "Teddy"
+msgid "You feel the same way?!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "You bet I do! I've had a crush on you since I was a kid!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "Absolutely, you fluffy beast. Let's go have a real adventure."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/c-0/18/g-0/0
+msgctxt "Teddy"
+msgid "Buckle up, buddy... There are so many stories I get to tell you now..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/c-1/7
+msgctxt "Teddy"
+msgid "Of course. I understand. Thank you for being honest with me."
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/c-1/15
+msgctxt "Teddy"
+msgid "Isn't it grand? There are so many ways to love someone!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love/0/g-0/33/56/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "It's the best."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/0
+msgctxt "Teddy"
+msgid "Buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/8
+msgctxt "Teddy"
+msgid "Can't say I'm too happy with the way you've been treating me."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/16/s/0
+msgctxt "Choix"
+msgid "I've just been honest. You talk too much."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/c-0/7
+msgctxt "Teddy"
+msgid "Well, it's my way of giving love."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/c-0/15
+msgctxt "Teddy"
+msgid "And though it really steams my seams, I have to take it back."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/c-0/23
+msgctxt "Teddy"
+msgid "You've changed, buddy. You've changed."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/c-0/73
+msgctxt "Reggie"
+msgid "Aww, but he was such a teddy bear!"
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/c-0/81
+msgctxt "Reggie"
+msgid "Not gonna lie, I don’t know how you messed this one up. He's pretty damn forgiving."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_path/0/c-0/89
+msgctxt "Reggie"
+msgid "Great work, Captain Catastrophe."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/0
+msgctxt "Teddy"
+msgid "Hey, you're back! I'll bet you're wanting to hear another story."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/8/s/0
+msgctxt "Choix"
+msgid "You know it! Sleepy time..."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/9/s/0
+msgctxt "Choix"
+msgid "Maybe another time! It's still being written..."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/10/s/0 teddy_teddybear/teddy_friend_return_day/0/10/s/0 teddy_teddybear/teddy_love_return_night/0/26/s/0 teddy_teddybear/teddy_love_return_day/0/26/s/0
+msgctxt "Choix"
+msgid "Teddy. It's time. I'm ready to Realize you."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/c-0/7/b/1 teddy_teddybear/teddy_love_return_night/0/c-0/7/b/1
+msgctxt "Teddy"
+msgid "Sorry to say it... I'm all out of stories."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/c-0/7/b/9 teddy_teddybear/teddy_love_return_night/0/c-0/7/b/9
+msgctxt "Teddy"
+msgid "But you are living your own story right now!"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/c-0/7/b/17 teddy_teddybear/teddy_love_return_night/0/c-0/7/b/17
+msgctxt "Teddy"
+msgid "I'd love it if you shared that one with me sometime... I'll bet it's a doozy!"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_night/0/c-1/7
+msgctxt "Teddy"
+msgid "The best kind of stories..."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_day/0/0
+msgctxt "Teddy"
+msgid "Back for some more great advice, huh?"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_day/0/8/s/0
+msgctxt "Choix"
+msgid "You bet!"
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_day/0/9/s/0
+msgctxt "Choix"
+msgid "Maybe another time, Teddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_friend_return_day/0/c-1/7
+msgctxt "Teddy"
+msgid "I'll be waiting!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_night/0/0 teddy_teddybear/teddy_love_return_day/0/0
+msgctxt "Teddy"
+msgid "Oh, you're back! My goodness, what a sensation..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_night/0/8 teddy_teddybear/teddy_love_return_day/0/8
+msgctxt "Teddy"
+msgid "I missed you more this time than last time. Who would've thought that I could love you more."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_night/0/16
+msgctxt "Teddy"
+msgid "Would you like to hear another story?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_night/0/24/s/0
+msgctxt "Choix"
+msgid "Yes, please!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_night/0/25/s/0
+msgctxt "Choix"
+msgid "Can't right now... maybe later?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_night/0/c-1/7
+msgctxt "Teddy"
+msgid "I'll be right here for you, buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_day/0/16
+msgctxt "Teddy"
+msgid "Got some great advice gems for you, if you want!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_day/0/24/s/0
+msgctxt "Choix"
+msgid "Bring it on!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_day/0/25/s/0
+msgctxt "Choix"
+msgid "No, I'm all good right now. Another time, though!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_return_day/0/c-1/7
+msgctxt "Teddy"
+msgid "You've got it!"
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/0
+msgctxt "Teddy"
+msgid "Oh... Hi there."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/8
+msgctxt "Teddy"
+msgid "Gotta say, didn't think I'd see you again."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/16
+msgctxt "Teddy"
+msgid "Not so sure I'm ready to see you again, either."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/24
+msgctxt "Teddy"
+msgid "I'm going to leave, go back to the stories in my head, if you don't mind. It's a much friendlier place in there."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/32/s/0
+msgctxt "Choix"
+msgid "Wait, I... I made a mistake, before. I'm so sorry. (USE EMPATHY CANDY)"
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/c-0/7
+msgctxt "Teddy"
+msgid "Oh, buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/c-0/15
+msgctxt "Teddy"
+msgid "Isn't it wonderful what real empathy can do?"
+msgstr ""
+
+#: teddy_teddybear/teddy_hate_return/0/c-0/23
+msgctxt "Teddy"
+msgid "That's all I needed to hear!"
+msgstr ""
+
+#: teddy_teddybear/out_of_advice/0
+msgctxt "Teddy"
+msgid "Ooop... That's all the advice I have for now!"
+msgstr ""
+
+#: teddy_teddybear/out_of_advice/8
+msgctxt "Teddy"
+msgid "But hopefully it's already helping you out."
+msgstr ""
+
+#: teddy_teddybear/out_of_stories/0
+msgctxt "Teddy"
+msgid "You've heard my best stories already!"
+msgstr ""
+
+#: teddy_teddybear/out_of_stories/8
+msgctxt "Teddy"
+msgid "And I definitely still need to catch my breath if you want me to repeat one of them..."
+msgstr ""
+
+#: teddy_teddybear/out_of_stories/16
+msgctxt "Teddy"
+msgid "If you come by during the daytime I might have a thing or two to advise you on, but stories? Fresh out."
+msgstr ""
+
+#: teddy_teddybear/out_of_stories/24
+msgctxt "Teddy"
+msgid "You're just as story-hungry now as you were when you were a tyke!"
+msgstr ""
+
+#: teddy_teddybear/out_of_stories/32
+msgctxt "Teddy"
+msgid "But you know, you are living your own story right now!"
+msgstr ""
+
+#: teddy_teddybear/out_of_stories/40
+msgctxt "Teddy"
+msgid "Get out there and enjoy it! I'll be right here whenever you want to tell me all about it."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/0
+msgctxt "Teddy"
+msgid "Really? Oh..."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/8
+msgctxt "Teddy"
+msgid "Oh, my. Well, I have been waiting for this longer than I can even say."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/16
+msgctxt "Teddy"
+msgid "And you're ready? I mean, you have everything you need?"
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/33/s/0
+msgctxt "Choix"
+msgid "Yep, I'm ready to go!"
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/34/s/0
+msgctxt "Choix"
+msgid "Oh shoot, I don't think I do..."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/c-1/10
+msgctxt "Teddy"
+msgid "Don't you worry about it a bit. Go on ahead and collect what you need."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/c-1/18
+msgctxt "Teddy"
+msgid "I'll be right here when you're ready."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_join/0/c-1/26
+msgctxt "Teddy"
+msgid "Just like always, buddy."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_return/0/0
+msgctxt "Teddy"
+msgid "You're back. Are you ready?"
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "I am. Let's do this."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "Not yet. Almost!"
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_return/0/c-1/10
+msgctxt "Teddy"
+msgid "Hmph. Ok! I've got a bear-y big dose of patience but it will run out eventually!"
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "You're choosing to Realize Teddy first? Awww...."
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_begin/9
+msgctxt "Skylar"
+msgid "C'mon, Teddy, let's see how you snuggle in the real world!"
+msgstr ""
+
+#: teddy_teddybear/teddy_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a teddy bear, becomes...."
+msgstr ""
+
+#: teddy_teddybear/teddy_realized/0/3
+msgctxt "Narrator"
+msgid "Teddy holds his hands out in front of him, clearly marveling at the lack of stitches and stuffing in his new body."
+msgstr ""
+
+#: teddy_teddybear/teddy_realized/0/11
+msgctxt "Teddy"
+msgid "My oh my."
+msgstr ""
+
+#: teddy_teddybear/teddy_realized/0/22
+msgctxt "Teddy"
+msgid "Would you look at that."
+msgstr ""
+
+#: teddy_teddybear/teddy_realized/0/30
+msgctxt "Teddy"
+msgid "I'm a flesh and blood human. Being."
+msgstr ""
+
+#: teddy_teddybear/teddy_realized/0/38/s/0
+msgctxt "Choix"
+msgid "Oh, Teddy. I'm so happy for you."
+msgstr ""
+
+#: teddy_teddybear/teddy_realized/0/39/s/0
+msgctxt "Choix"
+msgid "And how. Feels safe to confess my love for a stuffed animal to you now..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/0
+msgctxt "Teddy"
+msgid "Confess?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/8
+msgctxt "Teddy"
+msgid "And why now? You knew you were. You were always safe with me to tell me anything. It's my pleasure just to be here with you."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/16/s/0
+msgctxt "Choix"
+msgid "The confession is... I've always thought you were pretty... well, sexy."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/17/s/0
+msgctxt "Choix"
+msgid "And mine to be with you. But now it's a lot less weird."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/7
+msgctxt "Narrator"
+msgid "You might have expected Teddy to be a bit more taken aback by this confession, but the look he gives you proves that your feelings are no surprise to him... and entirely mutual."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/15
+msgctxt "Teddy"
+msgid "Sexy."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/23
+msgctxt "Teddy"
+msgid "Well, actually..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/31
+msgctxt "Teddy"
+msgid "I can understand why that feeling would've been confusing for you before."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/39
+msgctxt "Teddy"
+msgid "And not to wiggle my own ears here, but I am. I've rather noticed that myself."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/47
+msgctxt "Teddy"
+msgid "What are we going to do about it?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/0/s/0
+msgctxt "Choix"
+msgid "Oh. We're gonna do a LOT of things about it."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/1/s/0
+msgctxt "Choix"
+msgid "I'm not sure... maybe it's enough for now just to say it out loud."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/2/s/0
+msgctxt "Choix"
+msgid "How about this; I'll hold you, and you hold me back. You can now, you know."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-0/7
+msgctxt "Teddy"
+msgid "You mischievous little muffin."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-0/18
+msgctxt "Teddy"
+msgid "Let's not waste another minute."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-0/29
+msgctxt "Narrator"
+msgid "Teddy's warmth and kindness make him just as giving a lover as you could have hoped, but where he truly shines is in the moments after. Lying in his arms might just be the closest thing to true bliss you've ever felt."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-0/40
+msgctxt "Narrator"
+msgid "Even as a human being, Teddy's cuddling is simply unbeatable. It's almost painful to imagine leaving his embrace... but the hug he gives you before he leaves the next morning softens the blow just a little."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-1/7
+msgctxt "Teddy"
+msgid "It's more than enough."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-1/18
+msgctxt "Teddy"
+msgid "I may be a human now... and I can't tell you how excited I am to explore my life, find out what my humanity is going to be like."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-1/26
+msgctxt "Teddy"
+msgid "But for you, I will always have all the time in the world."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-2/7
+msgctxt "Teddy"
+msgid "Oh, my love. Nothing in my brand new life would please me more."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-2/18
+msgctxt "Narrator"
+msgid "Teddy's loving embrace is so warm and comforting, it's transcendent. Lying in his arms might just be the closest thing to true bliss you've ever felt."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-0/55/c-2/29
+msgctxt "Narrator"
+msgid "It's almost painful to imagine leaving his side... but the hug he gives you before he leaves the next morning softens the blow just a little."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/7
+msgctxt "Teddy"
+msgid "Weird?"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/15
+msgctxt "Teddy"
+msgid "Ah... yes, I see."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/23
+msgctxt "Teddy"
+msgid "To have, shall we say, amorous feelings towards a stuffed animal..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/31
+msgctxt "Teddy"
+msgid "Though I don't know. Know that I've said it aloud, I think it's the most natural thing in the world."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/39
+msgctxt "Teddy"
+msgid "Love, in whatever form it presents itself, should always be welcomed."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/47/0/s/0
+msgctxt "Choix"
+msgid "You always know the right thing to say."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/47/1/s/0
+msgctxt "Choix"
+msgid "Well, welcome to you, then, my love!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/47/c-0/7
+msgctxt "Teddy"
+msgid "Aw come on now."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/47/c-0/15
+msgctxt "Teddy"
+msgid "That is my job, you know."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/47/c-0/23
+msgctxt "Teddy"
+msgid "Best job in the world."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_divert/0/c-1/47/c-1/7
+msgctxt "Teddy"
+msgid "Yes! Welcome to humanity!"
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/0
+msgctxt "Narrator"
+msgid "Teddy, as we all know, has been a giver of top-quality advice for most of his life. Armed with this skill, and a love of the act itself, Teddy applied to be the host of a call-in advice show at a local radio station. He was hired on the spot."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/8
+msgctxt "Narrator"
+msgid "He was given a booth, a time slot of his own, and unlimited coffee from the cozy and excellent shop next door to the studio. As you might imagine, he became good friends with all of the employees at both businesses; it wasn't long before he was the go-to help man for the entire neighborhood."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/16
+msgctxt "Narrator"
+msgid "For the first few months Teddy was deliriously happy with his new job. He felt great empathy and fondness for his callers, and always tried his best to help them. Unsurprisingly, he created several new wonderful stories while on air to help illustrate his points."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/24
+msgctxt "Narrator"
+msgid "But after a while, he found himself becoming quite lonely."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/32
+msgctxt "Teddy"
+msgid "I'd found myself right back in another closet."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/40
+msgctxt "Teddy"
+msgid "After getting to know you, and receiving that splendid gift of humanity, I just couldn't spend another minute locked up in a little box all by myself."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/48
+msgctxt "Narrator"
+msgid "Teddy began spending more and more of his time not in his booth, but at the coffee shop next door. It got to the point where he had a regular table, the one in the window alcove, and a regular order, strong black coffee and hazelnut honey cake."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/56
+msgctxt "Narrator"
+msgid "The day he knew he had at last found his place was the day he missed his show. He was sitting at his table with a lovely young woman named Moira."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/64
+msgctxt "Narrator"
+msgid "He listened enraptured to her tale about her dog and a cross country road trip when he realized... his time slot had ended 45 minutes ago."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/72
+msgctxt "Teddy"
+msgid "I hadn't missed it at all though, you see. I was so happy right where I was. I wouldn't have left Moira for all the money in that station."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/80
+msgctxt "Narrator"
+msgid "So Teddy gave his notice at the studio. They were sorry to see him go... he'd become one of their most popular programs."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/88
+msgctxt "Narrator"
+msgid "But the employees knew they would see him again. Many of them had standing appointments with him at his window table; just to check in. Just to say hi."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/96
+msgctxt "Narrator"
+msgid "He's also branched out just a bit..."
+msgstr ""
+
+#: teddy_teddybear/teddy_love_join/104
+msgctxt "Narrator"
+msgid "In addition to the honey cake, he also now enjoys the dark cherry and almond tart."
+msgstr ""

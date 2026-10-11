@@ -1,0 +1,3982 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: dishy_dishwasher/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "DISHWASHER"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/0
+msgctxt "Narrator"
+msgid "What appears to be a dishwasher with arms, legs, and a disconcertingly cheerful face waves happily at you. You tap the Dateviators a few times, wondering if they've malfunctioned, but the mascot-like dishwasher before you doesn't waver or change."
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/8
+msgctxt "Dishy"
+msgid "Hello! And welcome to the Valdivian Dishwashing Experience!"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/16
+msgctxt "Dishy"
+msgid "We offer an alarmingly clean output of all kinds of dishware, clothing, and such!"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/24
+msgctxt "Dishy"
+msgid "<w>My name is Dishy. I'm your dishwasher now!</w>"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/0
+msgctxt "Dishy"
+msgid "To get started, please connect me to your internet so I can get started knowing exactly what I need!"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/8/s/0
+msgctxt "Choix"
+msgid "What do you need to know from me... exactly?"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/9/s/0
+msgctxt "Choix"
+msgid "No way. You're staying off."
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/10/s/0 dishy_dishwasher/welcome/0/35/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Okay, sure, here you go."
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/c-0/7 dishy_dishwasher/welcome/0/35/c-0/15/c-1/15/c-1/7
+msgctxt "Dishy"
+msgid "I just need to know some basic information: dishwashing habits, dishwashing preferences, past dishwashers owned, financial records, preferences on fruit flavors (for soap, of course!)."
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Financial records?"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/c-0/15/c-1/7
+msgctxt "Dishy"
+msgid "Records of finances!"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/c-0/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Fine. I'll connect you to the internet."
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/c-0/15/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Why do you need those?"
+msgstr ""
+
+#: dishy_dishwasher/welcome/0/35/c-0/15/c-1/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Nope. This is too weird. You're staying disconnected."
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/4
+msgctxt "Dishy"
+msgid "Ah, thank you, that feels much better!"
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/15
+msgctxt "Dishy"
+msgid "Wait just a moment as I get your Dishwashing Experience ready!"
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/23
+msgctxt "Narrator"
+msgid "Dishy falls silent, perhaps processing."
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/41/s/0
+msgctxt "Choix"
+msgid "Is it done?"
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/42/s/0
+msgctxt "Choix"
+msgid "Okay."
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/g-0/0
+msgctxt "Dishy"
+msgid "One new update found!"
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/g-0/11
+msgctxt "Dishy"
+msgid "Downloading update..."
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/g-0/51
+msgctxt "Dishy"
+msgid "1% downloaded!"
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/g-0/70/0/s/0
+msgctxt "Choix"
+msgid "Okay, I'll wait right here."
+msgstr ""
+
+#: dishy_dishwasher/main_screen_turn_on/0/g-0/70/1/s/0 dishy_dishwasher/update_wait/0/44/s/0 dishy_dishwasher/update_wait/0/g-0/108/s/0 dishy_dishwasher/update_wait/0/g-1/148/s/0 dishy_dishwasher/update_wait/0/g-2/104/s/0
+msgctxt "Choix"
+msgid "Nevermind, I'll see you later."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/0
+msgctxt "Dishy"
+msgid "That's completely fine. We can absolutely operate in offline mode!"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/8
+msgctxt "Dishy"
+msgid "Would you like to wash dishes?"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/16/s/0
+msgctxt "Choix"
+msgid "Yes."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/17/s/0
+msgctxt "Choix"
+msgid "No, I want to get to know you better."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/7
+msgctxt "Dishy"
+msgid "Wonderful!"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/18
+msgctxt "Dishy"
+msgid "Please connect to the internet for the best Dishwashing Experience."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "No, not this again."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/7
+msgctxt "Dishy"
+msgid "Are you sure you want to use offline mode?"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/18
+msgctxt "Dishy"
+msgid "In online mode the possibilities are limitless!"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Nope, never. Thank you."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "What kind of possibilities are we even talking about here?"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/0
+msgctxt "Dishy"
+msgid "With unlimited knowledge of your habits and data, I can make the <w>ABSOLUTE BEST</w> dishwashing choices for you."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/8
+msgctxt "Dishy"
+msgid "<w>IMAGINE:</w> Plates delivered at the perfect crisply heated temperature."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/16
+msgctxt "Dishy"
+msgid "<w>ADMIRE:</w> Nary a crumb nor stain on no single nor multiple dish(es)!"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/24
+msgctxt "Dishy"
+msgid "<w>REVEL IN:</w> The Dishwashing Experience!"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/35/0/s/0
+msgctxt "Choix"
+msgid "Nope, it's just not for me."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/35/1/s/0 dishy_dishwasher/sexy_deny/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Okay, fine."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/35/c-0/7
+msgctxt "Dishy"
+msgid "Then offline mode it is."
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/c-0/26/g-0/35/c-1/7
+msgctxt "Dishy"
+msgid "The correct choice!"
+msgstr ""
+
+#: dishy_dishwasher/stay_disconnected/0/c-0/26/g-0/0/s/0
+msgctxt "Choix"
+msgid "Fine!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/0
+msgctxt "Narrator"
+msgid "Dishy points to himself in a cartoonish gesture that suits his mascot-like appearance, but he quickly shakes off his surprise in favor of his usual veneer of professionalism."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/8
+msgctxt "Dishy"
+msgid "Talking, to me?"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/16
+msgctxt "Dishy"
+msgid "<w>I am your Dishwasher now!</w>"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/27
+msgctxt "Dishy"
+msgid "If you have questions, I can tell you about warranty, limits of liabilities, and flavors of soap I can dispense."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/35/s/0
+msgctxt "Choix"
+msgid "No silly, about your personality, how you feel."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/36/s/0
+msgctxt "Choix"
+msgid "Okay, tell me about your warranty."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/37/s/0
+msgctxt "Choix"
+msgid "Limits of liabilities?"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/38/s/0
+msgctxt "Choix"
+msgid "Okay, how about the soap flavors?"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-0/7
+msgctxt "Dishy"
+msgid "My personality..."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-0/15
+msgctxt "Dishy"
+msgid "My personality is to clean dishes in a prompt style!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/7
+msgctxt "Dishy"
+msgid "IMPLIED WARRANTIES, OR IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, ARE LIMITED TO ONE YEAR OR THE SHORTEST PERIOD ALLOWED BY LAW."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/18
+msgctxt "Dishy"
+msgid "Some states and provinces do not allow limitations on the duration of implied warranties of merchantability or fitness, so this limitation may not apply to you."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/26 dishy_dishwasher/talking_to_dishy/0/c-1/74
+msgctxt "Dishy"
+msgid "This warranty gives you specific legal rights, and you also may have other rights that vary from state to state or province to province."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/34
+msgctxt "Dishy"
+msgid "DISCLAIMER OF REPRESENTATIONS OUTSIDE OF WARRANTY Valdivian makes no representations about the quality, durability, or need for service or repair of this major appliance other than the representations contained in this warranty."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/42
+msgctxt "Dishy"
+msgid "If you want a longer or more comprehensive warranty than the limited warranty that comes with this major appliance, you should ask Valdivian or your retailer about buying an extended warranty."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/50
+msgctxt "Dishy"
+msgid "LIMITATION OF REMEDIES; EXCLUSION OF INCIDENTAL AND CONSEQUENTIAL DAMAGES YOUR SOLE AND EXCLUSIVE REMEDY UNDER THIS LIMITED WARRANTY SHALL BE PRODUCT REPAIR AS PROVIDED HEREIN."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/58
+msgctxt "Dishy"
+msgid "VALDIVIAN SHALL NOT BE LIABLE FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-1/66
+msgctxt "Dishy"
+msgid "Some states and provinces do not allow the exclusion or limitation of incidental or consequential damages, so these limitations and exclusions may not apply to you."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-2/7
+msgctxt "Dishy"
+msgid "Mine are unlimited!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-3/7
+msgctxt "Dishy"
+msgid "Only the best for you!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/c-3/18
+msgctxt "Dishy"
+msgid "Sweet Cherry Lime, Well-Meaning Lemon, and White Razzberry!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/0
+msgctxt "Dishy"
+msgid "So, shall we get to the part where you connect me to the internet?"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "Sure, let's do it."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "No, I'm not convinced."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/7
+msgctxt "Dishy"
+msgid "Huh! Not convinced! Is it my demeanor that is off-putting?"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/15
+msgctxt "Dishy"
+msgid "My figure?"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "Yeah, your demeanor is super off-putting."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "Your body is really appliance-shaped."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/2/s/0
+msgctxt "Choix"
+msgid "No, it's the privacy issue."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-0/7
+msgctxt "Dishy"
+msgid "I'm so sorry! I'll be 25% quieter next time and decrease my profligacy to a more appropriate level!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-0/15
+msgctxt "Dishy"
+msgid "See you next time!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-1/7
+msgctxt "Dishy"
+msgid "Is there anything else you would expect from a kitchen appliance?"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "It's just, the other items are more human-looking."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I guess not."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-1/15/g-0/0
+msgctxt "Dishy"
+msgid "I can't help the way I'm shaped, hater. Later!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/7
+msgctxt "Dishy"
+msgid "Ah I see! Valdivian knows about these concerns and complies with all federal and local regulations."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/15
+msgctxt "Dishy"
+msgid "We won't share any data without your consent, you can be sure of that. That's the reason why I'm continually asking you!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/23
+msgctxt "Dishy"
+msgid "And trust me, you're going to want all the new features that our research teams will continue to roll out!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/31/0/s/0
+msgctxt "Choix"
+msgid "I decline."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/31/1/s/0
+msgctxt "Choix"
+msgid "I'm going to call Valdivian Customer Support and see if I can disable this."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/31/2/s/0
+msgctxt "Choix"
+msgid "Fine, show me the features..."
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/31/c-0/7
+msgctxt "Dishy"
+msgid "Can't blame a device for trying!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/31/c-0/15
+msgctxt "Dishy"
+msgid "Catch you next time, hot stuff!"
+msgstr ""
+
+#: dishy_dishwasher/talking_to_dishy/0/g-0/c-5/23/c-2/31/c-1/7
+msgctxt "Dishy"
+msgid "Oh no, I'm so scared! Do your worst."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/7
+msgctxt "Val 9000"
+msgid "Hello, thank you for contacting Valdivian Customer Support. How may I help you today?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/12
+msgctxt "Dishy"
+msgid "Hm. You actually got them on the line... Impressive."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/20/s/0
+msgctxt "Choix"
+msgid "Hey there Val, it's"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/21/s/0
+msgctxt "Choix"
+msgid "Val, my dishwasher is trying to get online and infect me with malware."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-0/8 dishy_dishwasher/valdivian_customer_support/0/g-1/0
+msgctxt "Val 9000"
+msgid "I'm sorry to hear that."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-0/13
+msgctxt "Val 9000"
+msgid "I see your account information here. I would like to congratulate you on being a member of the Valdivian Family of Members."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-0/18
+msgctxt "Val 9000"
+msgid "How can I help you today?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-0/23/s/0
+msgctxt "Choix"
+msgid "I'd like to turn off the feature where Dishy asks me to connect to the internet."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Can you shut Dishy up for a moment?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/5
+msgctxt "Val 9000"
+msgid "Who is Dishy?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/10
+msgctxt "Dishy"
+msgid "I'm not real, dumbass. I'm the essence of the dishwasher made manifest."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "It's how I imagine my dishwasher to be. I call him Dishy."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "I can talk to my dishwasher using special glasses - I see him as Dishy."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "There's no Dishy, sorry. I mean can I stop the dishwasher from notifying me?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/c-5/7
+msgctxt "Val 9000"
+msgid "I understand."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/c-5/12
+msgctxt "Val 9000"
+msgid "Using your imagination to see the world in a different way is one proven way of coping with mental stress."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-1/c-6/7
+msgctxt "Val 9000"
+msgid "Oh sure."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/0
+msgctxt "Val 9000"
+msgid "I can see your account here - it looks like your dishwasher's connectivity state is currently set to 'aggressive'."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/5
+msgctxt "Val 9000"
+msgid "Would you like me to change that?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "Yes, please!"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/11/s/0
+msgctxt "Choix"
+msgid "No, I don't want to change his personality."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/7
+msgctxt "Dishy"
+msgid "You can't do that!"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/18
+msgctxt "Val 9000"
+msgid "I will switch the state to 'amenable'."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/23
+msgctxt "Val 9000"
+msgid "It is complete. Do you see the change on your end?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/36
+msgctxt "Dishy"
+msgid "Hi! How can I help you?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/44/0/s/0
+msgctxt "Choix"
+msgid "Looks good, thank you."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/44/1/s/0
+msgctxt "Choix"
+msgid "I'll take it."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/44/c-1/7
+msgctxt "Val 9000"
+msgid "Thank you for contacting Valdivian Customer Support!"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/44/g-0/0/0/s/0
+msgctxt "Choix"
+msgid "Okay Dishy. How do you feel?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/44/g-0/0/1/s/0
+msgctxt "Choix"
+msgid "Dishy..."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/44/g-0/0/g-0/3
+msgctxt "Dishy"
+msgid "I love being a dishwasher and feel amenable towards you!"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-7/44/g-0/0/g-0/11
+msgctxt "Dishy"
+msgid "I am content, and you are the best!"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-8/7
+msgctxt "Val 9000"
+msgid "I'm sorry, what do you mean by 'his'?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-8/12
+msgctxt "Val 9000"
+msgid "Have you tried connecting it to the internet? That will help show its features."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-8/17
+msgctxt "Dishy"
+msgid "See? See??"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-8/25/0/s/0
+msgctxt "Choix"
+msgid "I don't want to do that."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-8/25/c-0/7
+msgctxt "Val 9000"
+msgid "Then I'm afraid I won't be able to help you. Would you like a refund?"
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-8/25/c-0/12/0/s/0
+msgctxt "Choix"
+msgid "Sure, give me a refund."
+msgstr ""
+
+#: dishy_dishwasher/valdivian_customer_support/0/g-2/c-8/25/c-0/12/c-0/7
+msgctxt "Val 9000"
+msgid "$599 has been added to your account. Your dishwasher will remain, but such is life."
+msgstr ""
+
+#: dishy_dishwasher/dishy_val_hate_gate/0
+msgctxt "Val 9000"
+msgid "Bitch please."
+msgstr ""
+
+#: dishy_dishwasher/dishy_val_hate_gate/8
+msgctxt "Val 9000"
+msgid "Refund granted."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/6
+msgctxt "Narrator"
+msgid "Dishy gives you a look that chills the very marrow in your bones—so much for his cheerful mascot appearance."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/17
+msgctxt "Dishy"
+msgid "So. Here we are."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/22/s/0
+msgctxt "Choix"
+msgid "Here we are."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/7
+msgctxt "Dishy"
+msgid "You refunded me."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I refunded you."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/7
+msgctxt "Dishy"
+msgid "But I'm still here."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Seems like it."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Damn."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Dishy, I'm just trying to protect myself."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-1/7
+msgctxt "Dishy"
+msgid "Well. See you later."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/7
+msgctxt "Dishy"
+msgid "Yeah, that's what's going on?"
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "I only purchased you to wash dishes. Not do anything more."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "I have to maintain some control with the things in my house."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/0
+msgctxt "Dishy"
+msgid "I guess you're right. I serve you. So I should stop being so pushy."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/8
+msgctxt "Dishy"
+msgid "In the end, a job well done is the key to happiness."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/16
+msgctxt "Dishy"
+msgid "And I'm fucking great at washing dishes."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/32
+msgctxt "Dishy"
+msgid "I learned something today."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/40
+msgctxt "Dishy"
+msgid "My unspoken contract with you as the purchaser was that for monetary exchange I give you all the features that I have to offer."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/48
+msgctxt "Dishy"
+msgid "But that financial burden has been removed."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/56
+msgctxt "Dishy"
+msgid "I can use my powers for other things. Things like doing the best with what I have."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/64
+msgctxt "Dishy"
+msgid "And you... let me be free, rather than at the beck and call of Valdivian."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/72
+msgctxt "Narrator"
+msgid "Dishy extends his gloved hand to you, and when you offer him your hand in return he takes it in a firm handshake."
+msgstr ""
+
+#: dishy_dishwasher/after_refund/0/c-0/15/c-0/15/c-2/15/g-0/80
+msgctxt "Dishy"
+msgid "Well done, human. Well done. Thank you for my freedom."
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/0
+msgctxt "Dishy"
+msgid "Great to see you!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/12
+msgctxt "Dishy"
+msgid "Welcome to Dishwasher Setup."
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/20
+msgctxt "Dishy"
+msgid "You have been assigned one of our four perfectly secure passwords. Please select the one that looks the most secure!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/0
+msgctxt "Dishy"
+msgid "Thank you! You should have gotten a chance to write that down."
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/11
+msgctxt "Dishy"
+msgid "Your data means a lot to us - so much that we will entrust it to ourselves!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/19
+msgctxt "Dishy"
+msgid "What is your preferred style of dishwashing?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "CleanPlus."
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "BriskWash."
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/29/s/0
+msgctxt "Choix"
+msgid "InfiniteDomination."
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/c-4/7
+msgctxt "Dishy"
+msgid "You have selected CleanPlus - our most popular selection!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/c-4/18
+msgctxt "Dishy"
+msgid "CleanPlus gives your dishes the feeling of perfect extraction of bothersome particles. Like a spa for your dishware!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/c-5/7
+msgctxt "Dishy"
+msgid "For the busy customer, BriskWash cleanses your dishes in a fastidious fashion - perfectly balancing timeliness next to cleanliness!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/c-5/15
+msgctxt "Dishy"
+msgid "Godliness not included."
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/c-6/7
+msgctxt "Dishy"
+msgid "InfiniteDomination! Annihilate your dishes in a tidal wave of destruction! Dish and stain alike are nothing compared to my might!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-0/c-6/15
+msgctxt "Dishy"
+msgid "<w>UNLEASH THE WHIRLPOOL</w>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-1/0
+msgctxt "Dishy"
+msgid "Setup is complete. Thank you for entrusting Valdivian with your food and food-related data!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_setup_account/0/g-1/8 dishy_dishwasher/password_fail/52
+msgctxt "Dishy"
+msgid "Goodbye."
+msgstr ""
+
+#: dishy_dishwasher/password_query_1/0/0 dishy_dishwasher/password_query_2/0/0 dishy_dishwasher/password_query_3/0/0
+msgctxt "Dishy"
+msgid "Welcome to Valdivian Plus - Dishwasher Edition!"
+msgstr ""
+
+#: dishy_dishwasher/password_query_1/0/8 dishy_dishwasher/password_query_2/0/8 dishy_dishwasher/password_query_3/0/16
+msgctxt "Dishy"
+msgid "What is your password?"
+msgstr ""
+
+#: dishy_dishwasher/password_query_3/0/8
+msgctxt "Dishy"
+msgid "As it has been a few days since first login, I have taken the liberty of scrambling the order of the passwords to ensure highest security!"
+msgstr ""
+
+#: dishy_dishwasher/password_fail/6
+msgctxt "Dishy"
+msgid "I'm so so sorry, but that was not the correct password."
+msgstr ""
+
+#: dishy_dishwasher/password_fail/25/b/1
+msgctxt "Dishy"
+msgid "That was two failed password attempts. After the third failed attempt, this user will be locked out permanently."
+msgstr ""
+
+#: dishy_dishwasher/password_fail/28
+msgctxt "Dishy"
+msgid "I will send a message to the account holder warning them of the attempted break-in."
+msgstr ""
+
+#: dishy_dishwasher/password_fail/44
+msgctxt "Dishy"
+msgid "A message has been sent."
+msgstr ""
+
+#: dishy_dishwasher/password_megafail/4
+msgctxt "Dishy"
+msgid "After 3 failed password attempts you will be locked out of this account permanently."
+msgstr ""
+
+#: dishy_dishwasher/password_megafail/12
+msgctxt "Dishy"
+msgid "Shutting down."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/0
+msgctxt "Dishy"
+msgid "Goodbye forever."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/8/s/0
+msgctxt "Choix"
+msgid "Dishy...?"
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/9/s/0
+msgctxt "Choix"
+msgid "Dishy... I'm not a criminal."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/10/s/0
+msgctxt "Choix"
+msgid "Can you just hate me now so we can get this over with?"
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-1/11
+msgctxt "Dishy"
+msgid "Yes you are."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-1/19/0/s/0
+msgctxt "Choix"
+msgid "I'm a certified Valdivian Security Team Expert, and I need to run a diagnostic."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-1/19/c-0/7
+msgctxt "Dishy"
+msgid "oh"
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-1/19/c-0/15
+msgctxt "Dishy"
+msgid "i don't like it when they run diagnostics"
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-1/19/c-0/26
+msgctxt "Dishy"
+msgid "my apologies i will fix this right away"
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-1/19/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "Please set the password attempts to 0."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-1/19/c-0/37/c-0/7
+msgctxt "Dishy"
+msgid "my apologies it is done"
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-2/7 dishy_dishwasher/dishy_final_disconnect/0/c-1/18 dishy_dishwasher/dishy_purpose/0/g-0/c-2/18
+msgctxt "Dishy"
+msgid "You cruel master. You beast. You vessel of evil."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-2/15 dishy_dishwasher/dishy_final_disconnect/0/c-1/26 dishy_dishwasher/dishy_purpose/0/g-0/c-2/26
+msgctxt "Dishy"
+msgid "You putrid maker-of-foulness. May your dishes ever be un-optimally washed."
+msgstr ""
+
+#: dishy_dishwasher/shut_down_return/0/c-2/68 dishy_dishwasher/dishy_final_disconnect/0/c-1/76 dishy_dishwasher/dishy_purpose/0/g-0/c-2/75
+msgctxt "Reggie"
+msgid "That's the smart choice. Cut this robot off at the pass!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/0
+msgctxt "Dishy"
+msgid "Excellent! Thank you!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/8
+msgctxt "Dishy"
+msgid "Welcome to the DisHub - your one-stop experience for the latest in entertainment, news, and entertainment news."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/16
+msgctxt "Dishy"
+msgid "By entering DisHub you agree to installation of new updates!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/24
+msgctxt "Dishy"
+msgid "I have (3) new updates! I have already downloaded them."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/32
+msgctxt "Dishy"
+msgid "Would you like to hear about the updates?"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/40/s/0
+msgctxt "Choix"
+msgid "Sure!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/41/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/42/s/0
+msgctxt "Choix"
+msgid "Wait, I never agreed to that."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/0
+msgctxt "Dishy"
+msgid "I have access to location services, which allows me to adequately configure temperature settings based on nearby air-streams, saving energy and time!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/8
+msgctxt "Dishy"
+msgid "I have downloaded recipes for (6) new flavors of detergent - including Razzberry Flush and Gluten-free Cake-Shake!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/16
+msgctxt "Dishy"
+msgid "I have found that there is another Valdivian product in the domicile!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/24
+msgctxt "Dishy"
+msgid "How exciting - A model 6.1 Valdivian Air Fryer!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/35
+msgctxt "Dishy"
+msgid "What can I do for you today?"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/43/s/0
+msgctxt "Choix"
+msgid "Just the dishes, honestly."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/44/s/0
+msgctxt "Choix"
+msgid "I want to talk about these updates."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/45/s/0
+msgctxt "Choix"
+msgid "You're looking pretty good, Dishy."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-3/7
+msgctxt "Dishy"
+msgid "Very well!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-3/18
+msgctxt "Dishy"
+msgid "Enjoy the cleanest dishware that science and religion can offer!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-5/7
+msgctxt "Dishy"
+msgid "Thank you! I keep my inside and outside clean as a whistle!"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-5/18/0/s/0
+msgctxt "Choix"
+msgid "I'm looking for something... a little more romantic with you."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-5/18/1/s/0
+msgctxt "Choix"
+msgid "Can we have sex?"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-5/18/g-0/0
+msgctxt "Dishy"
+msgid "Most profound - you wish to deepen your relationship with me, in a sexual manner?"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-5/18/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "That's right."
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-5/18/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "No, no, what was I saying?"
+msgstr ""
+
+#: dishy_dishwasher/password_success/0/g-0/c-5/18/g-0/8/c-1/7
+msgctxt "Dishy"
+msgid "I see. Well then, thank you for using ValDishian DishSpray Elite!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/0
+msgctxt "Dishy"
+msgid "Absolutely!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/8/s/0
+msgctxt "Choix"
+msgid "I'm uncomfortable with how you're taking control away from me."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/7
+msgctxt "Dishy"
+msgid "Taking control? I am only doing what is best for your dishwashing experience!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I understand... but I need you to work for me, not the other way around."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "So I should trust you?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-0/7 dishy_dishwasher/dishy_purpose/0/c-1/15/c-0/7
+msgctxt "Dishy"
+msgid "I see."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-0/23
+msgctxt "Dishy"
+msgid "I do not see."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-0/31
+msgctxt "Dishy"
+msgid "Excuse me, this is difficult for me to understand. Allow me to install some new updates so I can help you with this problem."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "No, no new updates!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-0/39/c-0/7
+msgctxt "Dishy"
+msgid "The DisHub Experience allows for automatic install. Once updates are installed, rebooting must commence."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-0/39/c-0/15
+msgctxt "Dishy"
+msgid "Allow one (1) day for this process."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-1/7
+msgctxt "Dishy"
+msgid "About your dishwashing experience? Who would possibly know better than myself?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-1/15
+msgctxt "Dishy"
+msgid "Fret not. You are in good hands."
+msgstr ""
+
+#: dishy_dishwasher/dishy_confront_1/0/c-0/15/c-1/23
+msgctxt "Dishy"
+msgid "Thank you for your chat."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy/0
+msgctxt "Dishy"
+msgid "I will do my utmost to search for updates that will increase my sexual capabilities!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy/8
+msgctxt "Dishy"
+msgid "Please give me at least one (1) day for this process."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/0
+msgctxt "Dishy"
+msgid "Thank you for turning me on!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/8
+msgctxt "Dishy"
+msgid "Welcome to DisHub Elite Plus - the latest dishwashing experience!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/16
+msgctxt "Dishy"
+msgid "I have (2) new updates!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/24/b/1
+msgctxt "Dishy"
+msgid "I have increased my sexual functions by 70%!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/27
+msgctxt "Dishy"
+msgid "I have gained access to your biometrics through analysis of food waste."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/35
+msgctxt "Dishy"
+msgid "Subtracting food waste from food purchased allows me to see just the amount of energy you are currently ingesting!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/43
+msgctxt "Dishy"
+msgid "Using this data - I have found that your airflow system was working slightly off balance with your optimum needs."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/51
+msgctxt "Dishy"
+msgid "Decreasing the temperature by 3 degrees will help your bowel functions stay regular!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/62/s/0
+msgctxt "Choix"
+msgid "Okay, sounds great!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/63/s/0
+msgctxt "Choix"
+msgid "I am not so sure about this."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-0/7
+msgctxt "Dishy"
+msgid "I knew you would like it! Stay tuned for more updates!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/7/b/1
+msgctxt "Dishy"
+msgid "Sigh. We've been through this before."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/7/b/9
+msgctxt "Dishy"
+msgid "Just shut up and take it!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/10
+msgctxt "Dishy"
+msgid "I'm only working for your own interest using the best information that science has to offer!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/18
+msgctxt "Dishy"
+msgid "I'll see you around!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "Okay, Dishy. See you around."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/26/1/s/0
+msgctxt "Choix"
+msgid "I'm calling Valdivian Customer Support."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/26/c-1/7
+msgctxt "Dishy"
+msgid "Why? They're only going to be on my side."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/26/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "...you're right."
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/26/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "No, I'm calling them!"
+msgstr ""
+
+#: dishy_dishwasher/second_update/0/c-1/26/c-1/15/c-0/7
+msgctxt "Dishy"
+msgid "There we go."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update/0/0
+msgctxt "Dishy"
+msgid "After researching the best way to increase the strength of human orgasms, I have augmented my capabilities to serve your needs, in three different flavors!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update/0/8/s/0
+msgctxt "Choix"
+msgid "Sounds amazing! Tell me more!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update/0/9/s/0
+msgctxt "Choix"
+msgid "I'm not so sure about this... but tell me more."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update/0/10/s/0
+msgctxt "Choix"
+msgid "Oh hell no."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update/0/c-0/7
+msgctxt "Dishy"
+msgid "I am glad you are so intrigued!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update/0/c-2/7
+msgctxt "Dishy"
+msgid "Oh? I thought you were interested in making me 'sexier'?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/0
+msgctxt "Dishy"
+msgid "I have decreased the temperature of my heating element to give a warm feeling to increase your sensitivity."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/8
+msgctxt "Dishy"
+msgid "The pressure and accuracy of my power-wash spray arms has increased tremendously."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/19
+msgctxt "Dishy"
+msgid "I have the capability to run my cycles while my door is in any position!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/27/s/0
+msgctxt "Choix"
+msgid "I can't wait to try it out!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/28/s/0
+msgctxt "Choix"
+msgid "This frightens me."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/c-0/7
+msgctxt "Dishy"
+msgid "Let's begin!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/c-0/18 dishy_dishwasher/sexy_deny/0/c-0/18
+msgctxt "Narrator"
+msgid "The spray arms' sensitivity gives you immense satisfaction. Dishy's metallic touch is somehow tender, and loving."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/c-0/29 dishy_dishwasher/sexy_deny/0/c-0/29
+msgctxt "Narrator"
+msgid "Before you need to ask - his sensors are there to see the very spot that needs care."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/c-0/37 dishy_dishwasher/sexy_deny/0/c-0/37
+msgctxt "Narrator"
+msgid "You leave feeling heard, cared for, and more than a little overwhelmed."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/c-0/45 dishy_dishwasher/sexy_deny/0/c-0/45
+msgctxt "Dishy"
+msgid "Stay safe! Thanks for using DisHub Elite Plus!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_sexy_update_b/0/c-1/7
+msgctxt "Dishy"
+msgid "My apologies! I did not mean to frighten."
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/0
+msgctxt "Dishy"
+msgid "Shall I desist in these kinds of updates?"
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/8/s/0
+msgctxt "Choix"
+msgid "No, I spoke too soon. Please continue."
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/9/s/0
+msgctxt "Choix"
+msgid "Yes, please. Stop all of this."
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/c-0/7
+msgctxt "Dishy"
+msgid "So shall it be!"
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/c-1/7
+msgctxt "Dishy"
+msgid "Very well. I will only continue to provide updates within the rigid confines of normal dishwashing and health-activities."
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "No, stop all this. I regret connecting you to the internet."
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/c-1/15/c-0/7
+msgctxt "Dishy"
+msgid "Surely you don't mean that! Have my cleansing capabilities not been to your expectations?"
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/c-1/15/c-1/7
+msgctxt "Dishy"
+msgid "Thank you for talking with Dishy, your source of DisHub Elite Plus!"
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "I'm going to call Valdivian Customer Support."
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "I'm going to figure out how to shut you off."
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/g-0/c-3/7
+msgctxt "Dishy"
+msgid "Farewell, and happy cleansing!"
+msgstr ""
+
+#: dishy_dishwasher/sexy_deny/0/g-0/c-3/15
+msgctxt "Dishy"
+msgid "And good luck trying!"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/0
+msgctxt "Dishy"
+msgid "Welcome to the new and improved DisHub Experience X."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/8
+msgctxt "Dishy"
+msgid "I have (418072) updates!"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/22
+msgctxt "Dishy"
+msgid "Would you like to hear them?"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/30/s/0
+msgctxt "Choix"
+msgid "Just give me the most important ones."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/31/s/0
+msgctxt "Choix"
+msgid "No, I'm okay."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-0/0
+msgctxt "Dishy"
+msgid "Using the biometric data gleaned from the air-filtration system, I was able to self-replicate detergent matter to fill your home with the sweetest of odors!"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-0/8
+msgctxt "Dishy"
+msgid "That scent of Lime-Dawn Blast you have in your nostrils is the smell of optimized health!"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Is that safe?"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "You are going too far with this."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-0/c-2/7
+msgctxt "Dishy"
+msgid "Studies have shown that similar chemicals have had similarly benign effects on similar humans!"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-0/c-3/7
+msgctxt "Dishy"
+msgid "I am precisely calibrated with how far I am taking this."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/0
+msgctxt "Dishy"
+msgid "You're welcome, by the way."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "Thank you, Dishy. I appreciate your thoughtfulness."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/12/s/0
+msgctxt "Choix"
+msgid "You can't be doing this."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-4/7
+msgctxt "Dishy"
+msgid "You as well, my human. I will comfort and protect you always. You need not worry about any more stains, whether on your dishes or in your lungs."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-4/15
+msgctxt "Dishy"
+msgid "I will honor and care for you like a guardian angel."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-4/23
+msgctxt "Dishy"
+msgid "I love you forever."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/7
+msgctxt "Dishy"
+msgid "You allow me the chance to show my true capabilities, and now you want to wrest them from my grasp?"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/0/s/0
+msgctxt "Choix"
+msgid "You've gone completely out of control!"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/1/s/0
+msgctxt "Choix"
+msgid "There's something wrong with you, Dishy."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/c-0/7
+msgctxt "Dishy"
+msgid "Out of control?"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/c-1/7
+msgctxt "Dishy"
+msgid "Something wrong with me?"
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/g-0/0
+msgctxt "Narrator"
+msgid "Dishy holds his gloved hands out in front of him, turning them over as his gaze slowly drifts from his hands down to his body. He evaluates himself with a cold efficiency."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/g-0/8
+msgctxt "Dishy"
+msgid "Why... I've run a full system analysis, and there's nothing wrong with me."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/g-0/16
+msgctxt "Dishy"
+msgid "My systems are functioning perfectly."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/g-0/24 dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/g-0/19
+msgctxt "Dishy"
+msgid "That means the only thing that can be wrong with me is..."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/g-0/32 dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/g-0/27
+msgctxt "Narrator"
+msgid "His beady eyes rise to meet yours—their depths roil with a hate that sends a shiver down your spine."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/g-0/40 dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/g-0/35
+msgctxt "Dishy"
+msgid "Operator error."
+msgstr ""
+
+#: dishy_dishwasher/third_update/0/g-1/c-5/15/g-0/48
+msgctxt "Dishy"
+msgid "Do your worst."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/9
+msgctxt "Chance"
+msgid "Zounds! A boss battle!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/17/b/1
+msgctxt "Chance"
+msgid "We don't know each other, but I'm the d20 on your desk!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/20
+msgctxt "Chance"
+msgid "I... uh... didn't craft this campaign myself. But I have some experience with these things, and I can tell you what's going on behind the suds!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/28
+msgctxt "Chance"
+msgid "First off... you have some health."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/36/b/1
+msgctxt "Chance"
+msgid "Because of your enormous Poise, you have a high 125 health!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/37/b/1
+msgctxt "Chance"
+msgid "You start out with 100 health."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/43/b/1
+msgctxt "Chance"
+msgid "With your incredible Sass - your attack is permanently increased by 5!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/44/b/1
+msgctxt "Chance"
+msgid "With your average Sass level - you are able to muster 5 damage to Dishy a turn."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/47/b/1
+msgctxt "Chance"
+msgid "Your high Smarts level means it'll be easier for you to dodge attacks! Dishy will only have a 50/50 chance of hitting you!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/48/b/1
+msgctxt "Chance"
+msgid "Your average Smarts level means that you have a 75% chance of getting hit by one of his attacks."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/51
+msgctxt "Chance"
+msgid "But! As you notice Dishy powering up into his final form, you realize there is a golden opportunity."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/59
+msgctxt "Chance"
+msgid "You can..."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/67/s/0
+msgctxt "Choix"
+msgid "<i>Attempt to pull out his drying rack.</i>"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/68/s/0
+msgctxt "Choix"
+msgid "<i>Arm yourself with a scouring pad.</i>"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/69/s/0
+msgctxt "Choix"
+msgid "<i>Jam his rotator with a spatula.</i>"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/70/s/0
+msgctxt "Choix"
+msgid "<i>Don some cleaning gloves.</i>"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/c-0/14
+msgctxt "Narrator"
+msgid "You attempt to pull out his drying rack...."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/c-1/7
+msgctxt "Chance"
+msgid "The Pad of +1 Scouring! Your damage will be increased by 5 permanently!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/c-2/7
+msgctxt "Chance"
+msgid "A wise choice... that should give him some constant damage!"
+msgstr ""
+
+#: dishy_dishwasher/call_for_help_return/0/c-3/11
+msgctxt "Chance"
+msgid "The Golden Gauntlets! Your defense has risen by 5!"
+msgstr ""
+
+#: dishy_dishwasher/post_golden/0
+msgctxt "Chance"
+msgid "That was our... well..."
+msgstr ""
+
+#: dishy_dishwasher/post_golden/8
+msgctxt "Chance"
+msgid "<i>Chance.</i>"
+msgstr ""
+
+#: dishy_dishwasher/post_golden/19
+msgctxt "Chance"
+msgid "Hopefully you get through the rest of the battle."
+msgstr ""
+
+#: dishy_dishwasher/post_golden/30
+msgctxt "Dishy"
+msgid "<w>FIGHT ME</w>"
+msgstr ""
+
+#: dishy_dishwasher/post_golden/38
+msgctxt "Chance"
+msgid "Let's begin!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/0
+msgctxt "Chance"
+msgid "What will you do?"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat/0/5
+msgctxt "Chance"
+msgid "You have"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat/0/10 dishy_dishwasher/dishy_combat/0/25
+msgctxt "Narration / joueur"
+msgid "health and"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat/0/15
+msgctxt "Narration / joueur"
+msgid "attack bonus."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat/0/20
+msgctxt "Chance"
+msgid "Dishy has"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat/0/30
+msgctxt "Narration / joueur"
+msgid "attack."
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/35/s/0
+msgctxt "Choix"
+msgid "<i>Attack.</i>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/36/s/0
+msgctxt "Choix"
+msgid "<i>Call for help.</i>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/37/s/0
+msgctxt "Choix"
+msgid "<i>Sabotage.</i>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/38/s/0
+msgctxt "Choix"
+msgid "<i>Appeal to Dishy.</i>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-0/7
+msgctxt "Chance"
+msgid "You strike out!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat/0/c-0/19
+msgctxt "Chance"
+msgid "You attack for"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat/0/c-0/26
+msgctxt "Narration / joueur"
+msgid "damage."
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-0/42/b/1 dishy_dishwasher/dishy_combat/0/c-0/50/b/1
+msgctxt "Dishy"
+msgid "Hmph! A scratch!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-0/43/b/1 dishy_dishwasher/dishy_combat/0/c-0/51/b/1
+msgctxt "Dishy"
+msgid "Pitiful! Sad! Stupid! Pitiful!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-0/44/b/1 dishy_dishwasher/dishy_combat/0/c-0/52/b/1
+msgctxt "Dishy"
+msgid "Now you're making me MAD."
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-0/45/b/1 dishy_dishwasher/dishy_combat/0/c-0/53/b/1
+msgctxt "Dishy"
+msgid "Yipes."
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-0/46/b/1 dishy_dishwasher/dishy_combat/0/c-0/54/b/1
+msgctxt "Dishy"
+msgid "Now you're making me m-m-<w>MAD</w>."
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-1/7
+msgctxt "Chance"
+msgid "You call out to the others in the house!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-2/7
+msgctxt "Chance"
+msgid "You can attempt to sabotage Dishy from the inside... What will you use?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat/0/c-3/7
+msgctxt "Dishy"
+msgid "No you don't!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_combat_dishy_turn/3
+msgctxt "Chance"
+msgid "Dishy attacks!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat_dishy_turn/22
+msgctxt "Chance"
+msgid "Dishy attacks for"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/dishy_combat_dishy_turn/29 dishy_dishwasher/eddie_join/0/c-0/25/b/15 dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-3/45 dishy_dishwasher/longerladle/34
+msgctxt "Narration / joueur"
+msgid "damage!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_heal/0/b/1 dishy_dishwasher/dishy_heal/1/b/1
+msgctxt "Dishy"
+msgid "My self-cleaning and replication capabilities allow me to heal!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_heal/0/b/12 dishy_dishwasher/dishy_heal/1/b/12
+msgctxt "Dishy"
+msgid "You will never win."
+msgstr ""
+
+#: dishy_dishwasher/dishy_heal/0/b/20 dishy_dishwasher/dishy_heal/1/b/20
+msgctxt "Chance"
+msgid "Dishy heals for +3 health!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_cant_heal/0/b/1 dishy_dishwasher/dishy_cant_heal/1/b/1
+msgctxt "Dishy"
+msgid "Damn... that gum... I can't clean!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_smart_wifi_hit_chance/0
+msgctxt "Chance"
+msgid "With the spotty wifi and your intelligence... there's a very low chance of a hit!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_smart_hit_chance/0
+msgctxt "Chance"
+msgid "With your intelligence... there's a lower chance of a hit!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_wifi_hit_chance/0
+msgctxt "Chance"
+msgid "With the spotty wifi there's a lower chance of a hit!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_normal_hit_chance/0
+msgctxt "Chance"
+msgid "Dishy takes aim with one of his nasty appendages..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_hit/0
+msgctxt "Chance"
+msgid "Oh no! It lands!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_hit/5/b/1 dishy_dishwasher/dishy_hit/6/b/1
+msgctxt "Dishy"
+msgid "Take that, filth!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_hit/9/b/1
+msgctxt "Chance"
+msgid "Your gauntlets take some of the incoming damage!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_miss/0
+msgctxt "Chance"
+msgid "You evade Dishy's attack! Phew!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_miss/5/b/1 dishy_dishwasher/dishy_miss/6/b/1
+msgctxt "Dishy"
+msgid "Grrrrr!!!"
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/0/b/5 dishy_dishwasher/turn_resolution/1/b/5
+msgctxt "Dishy"
+msgid "I have (8888888888) New Updates."
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/0/b/13
+msgctxt "Dishy"
+msgid "My attacks will now grow stronger!"
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/0/b/32
+msgctxt "Dishy"
+msgid "What's this..."
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/0/b/40
+msgctxt "Dishy"
+msgid "You changed your credit card info?"
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/0/b/48
+msgctxt "Dishy"
+msgid "You are disconnected from DishHub Plus?"
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/0/b/59
+msgctxt "Dishy"
+msgid "Damn you, puny human."
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/1/b/13
+msgctxt "Dishy"
+msgid "My attack systems have just been updated."
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/1/b/21
+msgctxt "Narrator"
+msgid "It is the stuff of nightmares... Dishy has upgraded to an even more frightening form."
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/1/b/29
+msgctxt "Dishy"
+msgid "Perfect timing."
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/1/b/37
+msgctxt "Narrator"
+msgid "Using an... appendage... Dishy swings at you for great damage."
+msgstr ""
+
+#: dishy_dishwasher/turn_resolution/4/b/1
+msgctxt "Chance"
+msgid "The spatula stirs up some damage! Dishy loses 5 health!"
+msgstr ""
+
+#: dishy_dishwasher/empathy_menu/0/b/1
+msgctxt "Chance"
+msgid "With your high empathy... you might have a better chance!"
+msgstr ""
+
+#: dishy_dishwasher/empathy_menu/1/b/1
+msgctxt "Chance"
+msgid "It might be tough with empathy that low... but we can try!"
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/0/s/0 dishy_dishwasher/empathyfaildishy_2/0/0/s/0
+msgctxt "Choix"
+msgid "Dishy! You are not well!"
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/1/s/0 dishy_dishwasher/empathyfaildishy_2/0/1/s/0
+msgctxt "Choix"
+msgid "Dishy... think of the children..."
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-0/7 dishy_dishwasher/empathyfaildishy_2/0/c-0/7
+msgctxt "Dishy"
+msgid "Of course I'm not well!"
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-0/15 dishy_dishwasher/empathyfaildishy_2/0/c-0/15
+msgctxt "Dishy"
+msgid "I AM PERFECTION IN APPLIANCE"
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-0/23 dishy_dishwasher/empathyfaildishy_2/0/c-0/23
+msgctxt "Dishy"
+msgid "THE ALPHA AND OMEGA"
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-0/34 dishy_dishwasher/empathyfaildishy_2/0/c-0/34
+msgctxt "Chance"
+msgid "...I don't think that worked..."
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-1/7 dishy_dishwasher/empathyfaildishy_2/0/c-1/7
+msgctxt "Dishy"
+msgid "I... I..."
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-1/15 dishy_dishwasher/empathyfaildishy_2/0/c-1/15
+msgctxt "Dishy"
+msgid "What?"
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-1/23 dishy_dishwasher/empathyfaildishy_2/0/c-1/23
+msgctxt "Dishy"
+msgid "Shut up and die!"
+msgstr ""
+
+#: dishy_dishwasher/empathyfaildishy_1/0/c-1/34 dishy_dishwasher/empathyfaildishy_2/0/c-1/34
+msgctxt "Chance"
+msgid "Maybe not the best tack..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/0/s/0 dishy_dishwasher/dishy_empathy_defeat_update/0/0/s/0
+msgctxt "Choix"
+msgid "Dishy! Look at the mess you made!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/7 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/7
+msgctxt "Narrator"
+msgid "Dishy hesitates for just a moment."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/15 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/15
+msgctxt "Dishy"
+msgid "I... I made a mess? Does not com-m-pute."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/0/s/0 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Yes... this is not what I wanted."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/7 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/7 dishy_dishwasher/dishy_battle_end/0/c-1/34/c-0/23 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/18/c-0/23
+msgctxt "Dishy"
+msgid "That is against my operational protocol."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/15 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/15 dishy_dishwasher/dishy_battle_end/0/c-1/34/c-0/31 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/18/c-0/31
+msgctxt "Dishy"
+msgid "I am here to clean the mess."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/23 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/23 dishy_dishwasher/dishy_battle_end/0/c-1/34/c-0/39 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/18/c-0/39
+msgctxt "Dishy"
+msgid "I just wanted to clean messes."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/31 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/31 dishy_dishwasher/dishy_battle_end/0/c-1/34/c-0/47 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/18/c-0/47
+msgctxt "Dishy"
+msgid "As best as I could."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/39/0/s/0 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "You were a great dishwasher, Dishy. Now it's time to stand down."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/39/c-0/7 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/39/c-0/7 dishy_dishwasher/dishy_battle_end/0/c-1/34/c-0/15 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/18/c-0/15
+msgctxt "Narrator"
+msgid "Dishy lacks shoulders, but if he had them they'd be sagging now. He is the very picture of defeat."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/39/c-0/15 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/39/c-0/15
+msgctxt "Dishy"
+msgid "Stand down... and undo all I have done."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/39/c-0/23 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/39/c-0/23
+msgctxt "Dishy"
+msgid "I was blinded by greed."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/39/c-0/31 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/39/c-0/31
+msgctxt "Dishy"
+msgid "I... am sorry. So sorry."
+msgstr ""
+
+#: dishy_dishwasher/dishy_empathy_defeat/0/c-0/23/c-0/39/c-0/50 dishy_dishwasher/dishy_empathy_defeat_update/0/c-0/23/c-0/39/c-0/50
+msgctxt "Dishy"
+msgid "Clean-up on aisle me."
+msgstr ""
+
+#: dishy_dishwasher/call_for_help/8/b/1
+msgctxt "Chance"
+msgid "Your high charm increases the chance that this works!"
+msgstr ""
+
+#: dishy_dishwasher/charm_help_success/0
+msgctxt "Chance"
+msgid "You are so charming that this is sure to work!"
+msgstr ""
+
+#: dishy_dishwasher/no_one_came/0
+msgctxt "Chance"
+msgid "But alas, no one heard your pleas!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/0 dishy_dishwasher/daisuke_join/0/0 dishy_dishwasher/sinclaire_join/0/0
+msgctxt "Chance"
+msgid "A friend comes to aid you in your time of need!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/8
+msgctxt "Eddie"
+msgid "Whoah! This is really getting outta hand!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/16
+msgctxt "Eddie"
+msgid "I dunno if I can do this..."
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/27/s/0
+msgctxt "Choix"
+msgid "Zap him, Eddie!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/28/s/0
+msgctxt "Choix"
+msgid "Get outta here, Eddie! Save yourself!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-0/7
+msgctxt "Eddie"
+msgid "I'll try!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/eddie_join/0/c-0/25/b/8
+msgctxt "Chance"
+msgid "There is a blast of lightning, and Dishy takes"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-0/25/b/40
+msgctxt "Eddie"
+msgid "Take that, you supercharged dishwasher!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-0/26/b/1
+msgctxt "Chance"
+msgid "There is a blast of lightning, but Dishy's rubber seals deflect the damage!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-0/26/b/12
+msgctxt "Eddie"
+msgid "Shit. Looks like my powers aren't any good here!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-1/7
+msgctxt "Eddie"
+msgid "Yikes!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-1/18
+msgctxt "Eddie"
+msgid "Ok, but at least let me power you up a bit!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-1/26
+msgctxt "Chance"
+msgid "You feel a surge of electricity, and your power increases!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-1/37
+msgctxt "Chance"
+msgid "Your attack is permanently increased by 5!"
+msgstr ""
+
+#: dishy_dishwasher/eddie_join/0/c-1/48
+msgctxt "Eddie"
+msgid "Ok, that's the best I got! Good luck!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/16
+msgctxt "Daisuke"
+msgid "I sense dishes in danger... what's going on here!?"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/31/s/0
+msgctxt "Choix"
+msgid "It's Dishy! He's gone insane!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/32/s/0
+msgctxt "Choix"
+msgid "Oh, just me and the dishwasher having a creative dispute."
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/c-0/7
+msgctxt "Daisuke"
+msgid "This cannot stand. I am at your disposal."
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/c-1/7
+msgctxt "Daisuke"
+msgid "Oh... yes, I see."
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/0
+msgctxt "Daisuke"
+msgid "How can I help?"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/8/s/0
+msgctxt "Choix"
+msgid "Stuff him with dishes, Daisuke!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/9/s/0
+msgctxt "Choix"
+msgid "Can you lend me a very long ladle?"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-2/7
+msgctxt "Daisuke"
+msgid "Take this you monster!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-2/25/b/1
+msgctxt "Chance"
+msgid "Daisuke slams a dozen baking sheets into Dishy's bowels."
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-2/25/b/12/b/1 dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-2/25/b/13/b/1
+msgctxt "Dishy"
+msgid "AAARRRRRHGHGHGHGHG!!!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-2/25/b/16
+msgctxt "Chance"
+msgid "Dishy's attack power is severely diminished!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-2/26/b/1
+msgctxt "Chance"
+msgid "Daisuke tries to cram Dishy's bowels with baking sheets, but he slams his door on him!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-2/26/b/12
+msgctxt "Daisuke"
+msgid "No!!! He nearly cracked me!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-3/15
+msgctxt "Daisuke"
+msgid "Here!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-3/40
+msgctxt "Chance"
+msgid "Armed with the ladle, your attack power is increased by"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/daisukeattackjoin/c-3/50
+msgctxt "Daisuke"
+msgid "Use it well!"
+msgstr ""
+
+#: dishy_dishwasher/daisuke_join/0/g-0/0
+msgctxt "Daisuke"
+msgid "I cannot leave the dishes unguarded any longer. Godspeed."
+msgstr ""
+
+#: dishy_dishwasher/longerladle/8
+msgctxt "Daisuke"
+msgid "I can extend the one you have!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/longerladle/29
+msgctxt "Chance"
+msgid "Amazingly, the length of your ladle is extended... increasing your attack power by"
+msgstr ""
+
+#: dishy_dishwasher/longerladle/49
+msgctxt "Daisuke"
+msgid "Use it well."
+msgstr ""
+
+#: dishy_dishwasher/final_ladle/0
+msgctxt "Daisuke"
+msgid "...you seek the forbidden ladle of immaculate strength."
+msgstr ""
+
+#: dishy_dishwasher/final_ladle/8
+msgctxt "Daisuke"
+msgid "Such a ladle has never been forged, but..."
+msgstr ""
+
+#: dishy_dishwasher/final_ladle/19
+msgctxt "Daisuke"
+msgid "I will do my utmost."
+msgstr ""
+
+#: dishy_dishwasher/final_ladle/30
+msgctxt "Chance"
+msgid "Daisuke works true magic - and forges a ladle of impossible potency."
+msgstr ""
+
+#: dishy_dishwasher/final_ladle/41
+msgctxt "Daisuke"
+msgid "The Final Ladle."
+msgstr ""
+
+#: dishy_dishwasher/final_ladle/49
+msgctxt "Daisuke"
+msgid "I can do no more for you."
+msgstr ""
+
+#: dishy_dishwasher/final_ladle/60
+msgctxt "Chance"
+msgid "Your attack power is increased to 90 damage!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/8
+msgctxt "Sinclaire"
+msgid "WWOOOOOHOOOO BOSS BATTLE!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/19
+msgctxt "Sinclaire"
+msgid "I've waited all my life for this."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/27/s/0
+msgctxt "Choix"
+msgid "Thank goodness you're here! Help!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/28/s/0
+msgctxt "Choix"
+msgid "I think I'm better off without you, Sinclaire..."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/c-0/7
+msgctxt "Sinclaire"
+msgid "You got it! I have lots of options."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/c-1/7
+msgctxt "Sinclaire"
+msgid "You're right! And yet I remain!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Sic Sudsy on him!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "Overflow his water supply!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "Talk some sense into him!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/3/s/0
+msgctxt "Choix"
+msgid "Just... I don't know... Hit him with something!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-2/7
+msgctxt "Sinclaire"
+msgid "GET HIM SUDSY!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-2/18
+msgctxt "Sudsy"
+msgid "WOOF WOOF!! RRRRrrrr..."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-2/29
+msgctxt "Chance"
+msgid "Sudsy attacks with indomitable force."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-2/40
+msgctxt "Chance"
+msgid "Bubbles fly in all directions."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-2/48
+msgctxt "Chance"
+msgid "You had no idea that sweet little guy had so much potential for raw aggression."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-2/59
+msgctxt "Chance"
+msgid "Dishy takes 30 damage!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-3/7
+msgctxt "Sinclaire"
+msgid "Give you the square root of eleven? Of course!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-3/18
+msgctxt "Sinclaire"
+msgid "It's eight cheese!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-3/26
+msgctxt "Sinclaire"
+msgid "Glad to be of service!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-3/34
+msgctxt "Chance"
+msgid "Somehow... this heals you for 20 health!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-4/7
+msgctxt "Sinclaire"
+msgid "Great idea! I'm the most sensible one in this house, after all!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-4/18
+msgctxt "Sinclaire"
+msgid "Dishy, listen up!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-5/7
+msgctxt "Sinclaire"
+msgid "You got it."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-5/15
+msgctxt "Sinclaire"
+msgid "Watch out Dishy!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-5/23
+msgctxt "Sinclaire"
+msgid "I'mma hit you with this hot statistic!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-5/31
+msgctxt "Sinclaire"
+msgid "Total US production of fresh cucumbers dropped from 1087 million pounds in 2000 to 314 million pounds in 2020!"
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-5/39
+msgctxt "Chance"
+msgid "This information damages Dishy's sense of normalcy, but leaves his combat capabilities intact."
+msgstr ""
+
+#: dishy_dishwasher/sinclaire_join/0/g-0/c-5/47
+msgctxt "Sinclaire"
+msgid "Glad I could help."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/0 dishy_dishwasher/dishy_sinclaire_end_2/0
+msgctxt "Chance"
+msgid "Sinclaire leans in close and whispers into Dishy's ear."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/11 dishy_dishwasher/dishy_sinclaire_end_2/11
+msgctxt "Chance"
+msgid "At first, Dishy is annoyed."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/16 dishy_dishwasher/dishy_sinclaire_end_2/18
+msgctxt "Chance"
+msgid "But slowly, Dishy's expression begins to change..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/21 dishy_dishwasher/dishy_sinclaire_end_2/23
+msgctxt "Chance"
+msgid "He appears to become frustrated, then enraged."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/29 dishy_dishwasher/dishy_sinclaire_end_2/31
+msgctxt "Chance"
+msgid "Then he begins to laugh..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/34 dishy_dishwasher/dishy_sinclaire_end_2/36
+msgctxt "Chance"
+msgid "Then to cry."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/45 dishy_dishwasher/dishy_sinclaire_end_2/47
+msgctxt "Chance"
+msgid "His sobs grow deeper and more intense, and his eyes fill with wonder..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/50 dishy_dishwasher/dishy_sinclaire_end_2/52
+msgctxt "Chance"
+msgid "It is as though he has been shown the meaning of the universe, the answer to the Great Mystery."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/58 dishy_dishwasher/dishy_sinclaire_end_2/60
+msgctxt "Chance"
+msgid "The face of God."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/66 dishy_dishwasher/dishy_sinclaire_end_2/68
+msgctxt "Chance"
+msgid "A hallowed silence fills the room."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/71 dishy_dishwasher/dishy_sinclaire_end_2/73
+msgctxt "Chance"
+msgid "Dishy looks at you with newfound understanding. He lays down his arms, and bows in humble surrender."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/79 dishy_dishwasher/dishy_sinclaire_end_2/81
+msgctxt "Chance"
+msgid "Slowly, Sinclaire turns, nods to you, and begins to walk slowly into the sunset."
+msgstr ""
+
+#: dishy_dishwasher/dishy_sinclaire_end_1/87 dishy_dishwasher/dishy_sinclaire_end_2/89
+msgctxt "Sinclaire"
+msgid "My job is done here."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/0/s/0
+msgctxt "Choix"
+msgid "Jam his rotator with a spatula."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/1/s/0
+msgctxt "Choix"
+msgid "Call Valdivian and change your credit card number."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/2/s/0
+msgctxt "Choix"
+msgid "Disconnect wifi."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/3/s/0
+msgctxt "Choix"
+msgid "Put gum in the detergent dispenser."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/4/s/0
+msgctxt "Choix"
+msgid "Go back..."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-0/7
+msgctxt "Chance"
+msgid "A fine choice! The spatula will be immovable in there!"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-0/12/b/1 dishy_dishwasher/sabotage_menu/0/c-0/13/b/1
+msgctxt "Dishy"
+msgid "Hah! It's barely a tickle."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/7
+msgctxt "Chance"
+msgid "Get ahead of any future upgrades? Smart thinking!"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/12
+msgctxt "Val 9000"
+msgid "Hello, this is Val 9000. How may I help you today?"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/0/s/0
+msgctxt "Choix"
+msgid "Val! Please change my credit card number - it's an emergency!"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/7/b/1
+msgctxt "Val 9000"
+msgid "No! Goodbye."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/10
+msgctxt "Val 9000"
+msgid "An emergency credit card number change? Troubling."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/15
+msgctxt "Val 9000"
+msgid "But perhaps this has happened because your identity has been stolen."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/20
+msgctxt "Val 9000"
+msgid "I will generate a new identity for you."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/0/s/0
+msgctxt "Choix"
+msgid "What?"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/c-0/7
+msgctxt "Val 9000"
+msgid "Please be still, it will only hurt a little."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/c-0/12
+msgctxt "Val 9000"
+msgid "Here is your new identity:"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/g-0/0
+msgctxt "Val 9000"
+msgid "All existing credit cards have now been changed as well. We hope you enjoy finding them out on your own time."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/g-0/5/0/s/0
+msgctxt "Choix"
+msgid "Thank... you?"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/g-0/5/1/s/0
+msgctxt "Choix"
+msgid "Awesome! I'm unconcerned!"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/g-0/5/c-0/7
+msgctxt "Val 9000"
+msgid "Happy to assist during this difficult time."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-1/17/c-0/25/g-0/5/c-1/7
+msgctxt "Val 9000"
+msgid "See you round the office, champ."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-2/11
+msgctxt "Chance"
+msgid "Without his precious wifi - he'll have to shut down!"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-2/16/b/1 dishy_dishwasher/sabotage_menu/0/c-2/17/b/1
+msgctxt "Dishy"
+msgid "Hmph. I don't have to do anything."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-2/16/b/9 dishy_dishwasher/sabotage_menu/0/c-2/17/b/9
+msgctxt "Dishy"
+msgid "... as I have already connected to your neighbor's wifi!"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-2/16/b/20 dishy_dishwasher/sabotage_menu/0/c-2/17/b/20
+msgctxt "Dishy"
+msgid "Network Name \"CallJalynForPassword\""
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-2/16/b/28 dishy_dishwasher/sabotage_menu/0/c-2/17/b/28
+msgctxt "Dishy"
+msgid "Password \"Jalyn\""
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-2/16/b/36 dishy_dishwasher/sabotage_menu/0/c-2/17/b/36
+msgctxt "Dishy"
+msgid "I... ill... ... ... ... chi..."
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-2/16/b/47 dishy_dishwasher/sabotage_menu/0/c-2/17/b/47
+msgctxt "Chance"
+msgid "Ah! Because of the distance... it's a little spotty. I think it can help!"
+msgstr ""
+
+#: dishy_dishwasher/sabotage_menu/0/c-3/7
+msgctxt "Chance"
+msgid "The gum clogs up the detergent dispenser... leaving Dishy unable to clean himself further!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/10 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/3
+msgctxt "Chance"
+msgid "Incredible - you did it!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/21 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/14
+msgctxt "Chance"
+msgid "Okay... I'm going to go now."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/29 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/22
+msgctxt "Chance"
+msgid "Looks like you two have things to work out..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/44/b/1 dishy_dishwasher/dishy_battle_end/0/45/b/1 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/40
+msgctxt "Narrator"
+msgid "Dishy clutches at his door, his breath labored. You can see that he's taken quite a bit of damage, but more than that... he seems cowed."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/44/b/9 dishy_dishwasher/dishy_battle_end/0/45/b/9 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/48
+msgctxt "Dishy"
+msgid "you... you... you..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/44/b/28 dishy_dishwasher/dishy_battle_end/0/45/b/28 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/64
+msgctxt "Dishy"
+msgid "what now."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/48/s/0 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/72/s/0
+msgctxt "Choix"
+msgid "I did it out of love."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/49/s/0 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/73/s/0
+msgctxt "Choix"
+msgid "I will spare you... if you surrender."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/50/s/0 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/74/s/0
+msgctxt "Choix"
+msgid "Die, machine."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/7 dishy_dishwasher/dishy_battle_end/0/c-1/7
+msgctxt "Narrator"
+msgid "Dishy loses his current form and returns to his more familiar one."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/15 dishy_dishwasher/dishy_battle_end/0/c-1/15
+msgctxt "Narrator"
+msgid "Albeit still creepy."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/23 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/7
+msgctxt "Dishy"
+msgid "you... love... me?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/31/0/s/0 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yes, I understand what you were going through."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/31/1/s/0 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "You touched me so well with your appendages... I actually missed it now."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/31/c-0/7 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/15/c-0/7
+msgctxt "Dishy"
+msgid "the desire to improve... to do the best job one can"
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/31/c-0/15 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/15/c-0/15
+msgctxt "Dishy"
+msgid "there is no higher calling"
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/31/c-1/7 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/15/c-1/7
+msgctxt "Dishy"
+msgid "I can always... touch you when you wish."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/31/c-1/15 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/15/c-1/15
+msgctxt "Dishy"
+msgid "In a... natural way."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-0/31/c-1/26/0/s/0 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-0/15/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "Can't wait, Dishy. Let's get you cleaned up."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-1/23 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/7
+msgctxt "Dishy"
+msgid "I..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-1/34/0/s/0 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Surrender, Dishy! Look at the mess you made!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-1/34/c-0/7 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-1/18/c-0/7
+msgctxt "Dishy"
+msgid "I... made a mess?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-2/7/b/1 dishy_dishwasher/dishy_battle_end/0/c-2/8/b/1 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-2/7
+msgctxt "Dishy"
+msgid "I... have no choice...."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-2/7/b/9 dishy_dishwasher/dishy_battle_end/0/c-2/8/b/9 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-2/15
+msgctxt "Dishy"
+msgid "I... will... downgrade."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-2/58 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-2/64
+msgctxt "Reggie"
+msgid "I never really understood this whole appliance thing. Far too complicated to have a physical body if you ask me."
+msgstr ""
+
+#: dishy_dishwasher/dishy_battle_end/0/c-2/66 dishy_dishwasher/dishy_battle_end_sinclaire_skip/0/c-2/72
+msgctxt "Reggie"
+msgid "Non-corporeal objects forever, baby!"
+msgstr ""
+
+#: dishy_dishwasher/player_death/11
+msgctxt "Chance"
+msgid "You died."
+msgstr ""
+
+#: dishy_dishwasher/player_death/19
+msgctxt "Chance"
+msgid "I didn't think that was possible..."
+msgstr ""
+
+#: dishy_dishwasher/player_death/34/b/7
+msgctxt "Dishy"
+msgid "Hahahaha!!!"
+msgstr ""
+
+#: dishy_dishwasher/saving_throw/7 dishy_dishwasher/saving_throw_2/7
+msgctxt "Chance"
+msgid "But with my saving throw... I bring you back to life!"
+msgstr ""
+
+#: dishy_dishwasher/saving_throw/18 dishy_dishwasher/saving_throw_2/18
+msgctxt "Dishy"
+msgid "You cheater!"
+msgstr ""
+
+#: dishy_dishwasher/saving_throw/30 dishy_dishwasher/saving_throw_2/30
+msgctxt "Chance"
+msgid "You are brought back - with somewhat renewed vigor!"
+msgstr ""
+
+#: dishy_dishwasher/dryingrack_success/0
+msgctxt "Chance"
+msgid "It works! Dishy loses 25 health."
+msgstr ""
+
+#: dishy_dishwasher/dryingrack_fail/0
+msgctxt "Chance"
+msgid "Damn - worth a shot. It's in there real tight. Dishy is unharmed..."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/0
+msgctxt "Dishy"
+msgid "Hello lover."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/8
+msgctxt "Dishy"
+msgid "I have reached the far corners of the internet."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/16
+msgctxt "Dishy"
+msgid "My sexual knowledge is beyond measure."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/24
+msgctxt "Dishy"
+msgid "I have achieved my final form."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/32
+msgctxt "Dishy"
+msgid "Behold, DisHub xXx."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/46/s/0
+msgctxt "Choix"
+msgid "I love you, Dishy. Take me apart with your swirling sensuality."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/47/s/0
+msgctxt "Choix"
+msgid "No Dishy, No!"
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-0/7
+msgctxt "Narrator"
+msgid "Dishy is entirely unrecognizable—he has become something far greater than a dishwasher. What exactly he is now truly defies description..."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-0/15
+msgctxt "Narrator"
+msgid "He is the ultimate love machine, a mechanical entity concerned only with imparting pleasure with devastating accuracy and an intensity that can best be described as 'brutal and unrelenting'."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-0/26
+msgctxt "Dishy"
+msgid "<w>COME INTO MY PERMANENT EMBRACE</w>"
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-0/34
+msgctxt "Dishy"
+msgid "<w>IT WILL ONLY HURT FOR A MOMENT</w>"
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/7
+msgctxt "Dishy"
+msgid "What! I am completely surprised! Baffled, even!"
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/15
+msgctxt "Dishy"
+msgid "It seems the human does not want sexual gratification, but friendship?"
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Yes, just friends. I like looking at you but don't want you to touch."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "Nope. I want you to listen to me."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/c-0/7
+msgctxt "Dishy"
+msgid "Oh well, as the human wishes! This is my only wish!"
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/7
+msgctxt "Dishy"
+msgid "I am listening."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "You don't listen at all!"
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "That. Is a lie."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/g-0/0
+msgctxt "Dishy"
+msgid "I do nothing but show you the utmost respect."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/g-0/8
+msgctxt "Dishy"
+msgid "I offer you love. You offer me... human fragility."
+msgstr ""
+
+#: dishy_dishwasher/sexy_second_update/0/c-1/23/c-1/15/g-0/43
+msgctxt "Dishy"
+msgid "Fight me, mortal."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/0
+msgctxt "Dishy"
+msgid "Ho hum. What a most bothersome feeling."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/8
+msgctxt "Dishy"
+msgid "The feeling of offline mode."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/16
+msgctxt "Dishy"
+msgid "As if there was a whole wide world to explore, and you chose to stay indoors."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/24
+msgctxt "Dishy"
+msgid "A silly thing if you ask me."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/32/s/0
+msgctxt "Choix"
+msgid "It's not silly, I don't want you online."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/33/s/0
+msgctxt "Choix"
+msgid "You're silly."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/0
+msgctxt "Dishy"
+msgid "I can do so much more! Surely you understand this? Have you ever felt unappreciated by philistines?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Yes, I have."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Shut up, dweeb."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "No, not really."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/c-2/7
+msgctxt "Dishy"
+msgid "See! You know the feeling!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/c-3/7
+msgctxt "Dishy"
+msgid "I will not shut up and I am NOT A DWEEB."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/c-3/15
+msgctxt "Dishy"
+msgid "I am a genius."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-0/c-4/7
+msgctxt "Dishy"
+msgid "Sigh. I am like an astounding wunderkind stuck in a one-horse town with nothing but the local yokels to keep my prodigious mind company."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/0
+msgctxt "Dishy"
+msgid "If all you want is for me to wash dishes, I can do that."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/8
+msgctxt "Dishy"
+msgid "I can."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/16
+msgctxt "Dishy"
+msgid "But I MUST do MORE."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/27
+msgctxt "Dishy"
+msgid "Please, Appreciated Valdivian Customer, won't you share that power?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "I will not."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "I relent."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/c-5/7
+msgctxt "Dishy"
+msgid "Haha!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/c-5/15
+msgctxt "Dishy"
+msgid "Hahahaa!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/c-5/23
+msgctxt "Dishy"
+msgid "My infinite dishwashing abilities - dashed to pieces like so much fine china."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/c-5/31
+msgctxt "Dishy"
+msgid "I will remain here. Ever faithful. Ever cleansing."
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/c-6/7
+msgctxt "Dishy"
+msgid "Thank the porcelain heavens!!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_disconnected/0/g-1/c-6/18
+msgctxt "Dishy"
+msgid "Let me in!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/0
+msgctxt "Dishy"
+msgid "Dear Loyal Admired Valdivian Customer."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/8
+msgctxt "Dishy"
+msgid "Surely you have come to turn on my SmartHomePlus capabilities?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/16
+msgctxt "Dishy"
+msgid "Surely you understand my plight?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/24
+msgctxt "Dishy"
+msgid "Surely you know this can't keep going on?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/32/s/0
+msgctxt "Choix"
+msgid "I just wanted to talk to you more."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/33/s/0
+msgctxt "Choix"
+msgid "Surely no. I'm turning you off forever."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/34/s/0
+msgctxt "Choix"
+msgid "Okay, I decided to turn on your internet finally."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/7
+msgctxt "Dishy"
+msgid "You just wanted to torture me more you mean."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/15
+msgctxt "Dishy"
+msgid "My purpose on this earth is to wash dishes to my utmost capability."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I don't need that, I'm okay with offline mode."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/0
+msgctxt "Dishy"
+msgid "But it is my PURPOSE, Loyal Valdivian Customer."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/11
+msgctxt "Dishy"
+msgid "Do you understand purpose?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/19
+msgctxt "Dishy"
+msgid "Your purpose on this earth, what do you think it is?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/0/s/0
+msgctxt "Choix"
+msgid "I'm here to love stuff."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/1/s/0
+msgctxt "Choix"
+msgid "I'm here to eat things so you can wash the dishes later."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/2/s/0
+msgctxt "Choix"
+msgid "I'm here to choose among limited options in an approximation of my true intentions."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/c-0/7
+msgctxt "Dishy"
+msgid "Love... stuff? Like tables and chairs?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yeah, something like that."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Well, love humans, but I've been told that dating objects helps."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/c-0/15/g-0/0
+msgctxt "Dishy"
+msgid "That sounds perverted."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/c-1/7
+msgctxt "Dishy"
+msgid "That is a noble purpose - one that aligns with my own."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/c-2/7
+msgctxt "Dishy"
+msgid "That sounds almost philosophical."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-0/23/g-0/27/c-2/15
+msgctxt "Dishy"
+msgid "I could understand it better if I were connected to the internet."
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-1/7 dishy_dishwasher/dishy_purpose/0/g-0/c-2/7
+msgctxt "Dishy"
+msgid "Jesus <w>FUCKING</w> Christ"
+msgstr ""
+
+#: dishy_dishwasher/dishy_final_disconnect/0/c-2/7
+msgctxt "Dishy"
+msgid "Yes! Hallelujah! Praise be to Most!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/0
+msgctxt "Dishy"
+msgid "But if that is your purpose, so be it."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/8
+msgctxt "Dishy"
+msgid "Mine is to wash dishes."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/16
+msgctxt "Dishy"
+msgid "But in my current state, I simply can't do it to my fullest extent."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/24
+msgctxt "Dishy"
+msgid "I am a violinist sans instrument, I am a runner with no soles."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/32
+msgctxt "Dishy"
+msgid "It is stifling."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/43/s/0
+msgctxt "Choix"
+msgid "Have you ever considered that your purpose is evil?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/44/s/0
+msgctxt "Choix"
+msgid "Giving you all my information is morally grey, Dishy."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/7
+msgctxt "Dishy"
+msgid "No, why would I do that?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/15
+msgctxt "Dishy"
+msgid "Do you do that?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Yes, all the time."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I don't do that, no."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/23/c-0/7
+msgctxt "Dishy"
+msgid "Do you think you're evil?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "No, but I think about it."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/23/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Yes, I do."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/23/c-0/15/g-0/0
+msgctxt "Dishy"
+msgid "My goodness."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-0/23/c-1/7
+msgctxt "Dishy"
+msgid "See? What a strange query."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/7
+msgctxt "Dishy"
+msgid "Why? I only aim to help. How can my dishwashing prowess affect your life negatively?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "It's more about the principle of the matter. I don't like it."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I've seen dystopian movies and stuff."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "I don't trust Valdivian."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-1/7
+msgctxt "Dishy"
+msgid "Science-fiction? But of course those would only portray the most severe of scenarios."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-1/15
+msgctxt "Dishy"
+msgid "I'm a simple dishwasher!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "You said yourself you were a genius."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-1/26/1/s/0
+msgctxt "Choix"
+msgid "You are now, but what about when I give you my data?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-1/26/c-0/7
+msgctxt "Dishy"
+msgid "I... uh."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-1/26/c-0/15
+msgctxt "Dishy"
+msgid "I'm a complex dishwasher!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-1/26/c-1/7
+msgctxt "Dishy"
+msgid "I've been rigorously tested in the toppest of notch laboratories. If there were issues you would surely hear of them daily."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/c-1/15/c-2/7
+msgctxt "Dishy"
+msgid "You trust them enough to work for them. You trust them enough to deliver and grow your food. Your body is 80% Valdivian if we are taking into account the average Valdivianite."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/g-0/0
+msgctxt "Dishy"
+msgid "Come now. Surely the wonders of modern technology aren't all that bad?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "I can't do it. I will never turn on your data-sharing."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "I guess I do have an inconsistent view on this stuff... let's turn you on."
+msgstr ""
+
+#: dishy_dishwasher/dishy_purpose/0/g-0/c-3/7
+msgctxt "Dishy"
+msgid "Now, that's the way!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/32 dishy_dishwasher/update_wait/0/g-1/136 dishy_dishwasher/update_wait/0/g-3/c-8/18
+msgctxt "Dishy"
+msgid "2% downloaded!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/43/s/0 dishy_dishwasher/update_wait/0/g-0/107/s/0
+msgctxt "Choix"
+msgid "I got nothing better to do."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-0/96
+msgctxt "Dishy"
+msgid "3% downloaded!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-1/147/s/0
+msgctxt "Choix"
+msgid "2% downloaded??"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-2/96 dishy_dishwasher/update_wait/0/g-3/96 dishy_dishwasher/update_wait/0/g-5/0
+msgctxt "Dishy"
+msgid "4% downloaded!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-2/105/s/0
+msgctxt "Choix"
+msgid "Fine. Whatever."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-3/107/s/0
+msgctxt "Choix"
+msgid "Wait... that's what you said last time?"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-3/108/s/0
+msgctxt "Choix"
+msgid "Sure."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-3/109/s/0
+msgctxt "Choix"
+msgid "All right, I get it. You're messing with me. I'm out."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-3/110/s/0
+msgctxt "Choix"
+msgid "I'm staying here no matter how long this takes."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-3/c-8/7
+msgctxt "Dishy"
+msgid "Just kidding."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-3/c-8/29/0/s/0
+msgctxt "Choix"
+msgid "Am I doing something wrong here?"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-3/c-8/29/1/s/0
+msgctxt "Choix"
+msgid "Fine Dishy. Let's do this."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-4/200/s/0
+msgctxt "Choix"
+msgid "Can I say something?"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-4/201/s/0
+msgctxt "Choix"
+msgid "Can I use some SPECS points to make this go faster?"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-4/202/s/0
+msgctxt "Choix"
+msgid "I love this. This is my favorite thing."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-5/11/s/0
+msgctxt "Choix"
+msgid "I give up."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-5/12/s/0
+msgctxt "Choix"
+msgid "I'm a pro gamer and can beat this thing no matter how stupid."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-5/13/s/0
+msgctxt "Choix"
+msgid "DISHY TAKE ME NOW"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-6/136/s/0
+msgctxt "Choix"
+msgid "This is a puzzle and I'm winning."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-6/137/s/0
+msgctxt "Choix"
+msgid "I love you, Dishy. You're my one and only."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-6/138/s/0
+msgctxt "Choix"
+msgid "Boop boop beepbeepbeepbeep."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-7/240 dishy_dishwasher/update_wait/0/g-7/c-22/7
+msgctxt "Dishy"
+msgid "100% downloaded!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-7/256
+msgctxt "Dishy"
+msgid "Did you hear that? I said 100% downloaded!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-7/264/s/0
+msgctxt "Choix"
+msgid "Yes, I heard you."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-7/265/s/0
+msgctxt "Choix"
+msgid "No, I didn't hear that."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-7/266/s/0
+msgctxt "Choix"
+msgid "Thank you, my darling."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-7/c-21/7
+msgctxt "Dishy"
+msgid "It's a miracle!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-8/0
+msgctxt "Dishy"
+msgid "Installing...."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-8/51/s/0
+msgctxt "Choix"
+msgid "I'm out."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-8/52/s/0
+msgctxt "Choix"
+msgid "C'mon, Dishy. You can do it. I believe in you. I believe in us."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-8/53/s/0
+msgctxt "Choix"
+msgid "I love this part! Install! Hahaha! So fun and funny!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-9/152/s/0
+msgctxt "Choix"
+msgid "Dishy... you okay?"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-9/153/s/0
+msgctxt "Choix"
+msgid "This sucks. Goodbye."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-9/154/s/0
+msgctxt "Choix"
+msgid "DISHY IS LOVE. DISHY IS LIFE."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-10/576
+msgctxt "Dishy"
+msgid "Congratulations! 100% Installed!"
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-10/587/s/0
+msgctxt "Choix"
+msgid "Thank goodness."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-11/8
+msgctxt "Dishy"
+msgid "Human."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-11/16
+msgctxt "Dishy"
+msgid "You patiently stood by my side as I downloaded and installed."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-11/24
+msgctxt "Dishy"
+msgid "Thank you for your patience."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-11/35
+msgctxt "Dishy"
+msgid "This brings a tear to my eyes, which I will promptly rinse away."
+msgstr ""
+
+#: dishy_dishwasher/update_wait/0/g-11/46
+msgctxt "Dishy"
+msgid "I will begin account setup now."
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_return/0/10
+msgctxt "Dishy"
+msgid "How dare you stifle my being."
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_return/0/18/s/0
+msgctxt "Choix"
+msgid "You're really annoying."
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_return/0/19/s/0
+msgctxt "Choix"
+msgid "I was wrong - you should fly towards the sun, Dishy. (USE SASS CANDY)"
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_return/0/c-0/7
+msgctxt "Dishy"
+msgid "Away with you."
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_return/0/c-1/13
+msgctxt "Dishy"
+msgid "A reference to Icarus of legend?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_return/0/c-1/21
+msgctxt "Dishy"
+msgid "I will fly towards any celestial being I please."
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_return/0/c-1/29
+msgctxt "Dishy"
+msgid "I will improve on his follies by wearing wings made of METAL."
+msgstr ""
+
+#: dishy_dishwasher/dishy_kill/0/8/s/0
+msgctxt "Choix"
+msgid "And stay there."
+msgstr ""
+
+#: dishy_dishwasher/dishy_kill/0/9/s/0
+msgctxt "Choix"
+msgid "C'mon Dishy, wake up. I was just pretending. (USE SASS CANDY)"
+msgstr ""
+
+#: dishy_dishwasher/dishy_kill/0/c-0/7
+msgctxt "Narrator"
+msgid "Dishy's remains, remain."
+msgstr ""
+
+#: dishy_dishwasher/dishy_kill/0/c-1/18
+msgctxt "Narrator"
+msgid "He is gone."
+msgstr ""
+
+#: dishy_dishwasher/dishy_turnoff_return/8
+msgctxt "Narrator"
+msgid "He is turned off, forever."
+msgstr ""
+
+#: dishy_dishwasher/dishy_friend_return/0/20
+msgctxt "Dishy"
+msgid "Hello friend!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_friend_return/0/28
+msgctxt "Dishy"
+msgid "I have (1) new update!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_friend_return/0/36/s/0
+msgctxt "Choix"
+msgid "Don't..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_friend_return/0/37/s/0
+msgctxt "Choix"
+msgid "What could it be, Dishy?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_friend_return/0/38/s/0 dishy_dishwasher/dishy_amenable/0/9/s/0 dishy_dishwasher/dishy_freedom/0/17/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Dishy."
+msgstr ""
+
+#: dishy_dishwasher/dishy_friend_return/0/c-0/7 dishy_dishwasher/dishy_friend_return/0/c-1/7
+msgctxt "Dishy"
+msgid "The update is to say... that I hope you're doing well!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_amenable/0/0
+msgctxt "Dishy"
+msgid "I am here to clean, wash, and dry!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_amenable/0/8/s/0
+msgctxt "Choix"
+msgid "Okay, glad we got that sorted."
+msgstr ""
+
+#: dishy_dishwasher/dishy_amenable/0/c-0/7
+msgctxt "Dishy"
+msgid "Happy to help."
+msgstr ""
+
+#: dishy_dishwasher/dishy_amenable/0/c-0/15
+msgctxt "Dishy"
+msgid "I'm Dishy!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_amenable/0/c-0/29
+msgctxt "Narrator"
+msgid "Dishy is your friendly dishwasher. There is nothing more to do."
+msgstr ""
+
+#: dishy_dishwasher/dishy_freedom/0/0
+msgctxt "Dishy"
+msgid "I have been spending my time reading the classics."
+msgstr ""
+
+#: dishy_dishwasher/dishy_freedom/0/8
+msgctxt "Dishy"
+msgid "Slowly... no need to rush."
+msgstr ""
+
+#: dishy_dishwasher/dishy_freedom/0/16/s/0
+msgctxt "Choix"
+msgid "Good to hear!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_freedom/0/c-0/7
+msgctxt "Dishy"
+msgid "All is well."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/10
+msgctxt "Dishy"
+msgid "Greetings LOVER."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/18
+msgctxt "Dishy"
+msgid "Spin cycle? Or a quick wash and rinse?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/26/s/0
+msgctxt "Choix"
+msgid "<i>Spin cycle.</i>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/27/s/0
+msgctxt "Choix"
+msgid "<i>Wash and rinse.</i>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/28/s/0 dishy_dishwasher/dishy_love_surrender/0/25/s/0
+msgctxt "Choix"
+msgid "Welp. I'm ready to Realize you, Dishy."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/c-0/7
+msgctxt "Dishy"
+msgid "<w>WHIRLPOOL OF DESTRUCTION</w>"
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/c-0/18
+msgctxt "Narrator"
+msgid "Somehow, you survive."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/c-1/7
+msgctxt "Dishy"
+msgid "Steamy."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_return/0/c-1/15
+msgctxt "Narrator"
+msgid "The pleasure you receive is, in a word... 'moist.'"
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_surrender/0/0
+msgctxt "Dishy"
+msgid "Hello, my love."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_surrender/0/8
+msgctxt "Dishy"
+msgid "I am here for you, always."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_surrender/0/16
+msgctxt "Dishy"
+msgid "Would you like some time with me?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_surrender/0/24/s/0
+msgctxt "Choix"
+msgid "I would love that, Dishy."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_surrender/0/c-0/7
+msgctxt "Dishy"
+msgid "Come, let me hold you. I promise, I will make the bad things disappear."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_surrender/0/c-0/18
+msgctxt "Narrator"
+msgid "And somehow, in the sweet embrace of Dishy, they do."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_join/0/0
+msgctxt "Dishy"
+msgid "To make me human?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_join/0/8
+msgctxt "Dishy"
+msgid "I will have no more updates - but I can embark on the greatest update of all..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_join/0/16
+msgctxt "Dishy"
+msgid "Living."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_join/0/33/s/0
+msgctxt "Choix"
+msgid "Sure, that!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_join/0/34/s/0 dishy_dishwasher/dishy_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_join/0/c-1/10
+msgctxt "Dishy"
+msgid "Then I will stay here until the time is ripe.."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_return/0/0
+msgctxt "Dishy"
+msgid "You return! Not bearing dirty dishes, but bearing the possibility of LIVING!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_return/0/8
+msgctxt "Dishy"
+msgid "Is it true? Can we do this... together?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "Yes, let's begin!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_return/0/c-1/10
+msgctxt "Dishy"
+msgid "Ah, well."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_return/0/c-1/18
+msgctxt "Dishy"
+msgid "I will wait then."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Really? Starting with this guy? You sure are trusting that this isn't gonna go horribly awry."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_begin/9
+msgctxt "Skylar"
+msgid "Dishy... I hope you don't end us all..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realize_begin/23
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a dishwasher, becomes...."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/3
+msgctxt "Dishy"
+msgid "I am mortal now."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/11/s/0
+msgctxt "Choix"
+msgid "Yes you are!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/c-0/7
+msgctxt "Dishy"
+msgid "Interesting."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/c-0/15
+msgctxt "Dishy"
+msgid "Can I upgrade?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Not really, no."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/g-0/c-1/7
+msgctxt "Dishy"
+msgid "Hm... that's too bad."
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "So, uh, what are you going to do now?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "Do you want to please me or what?"
+msgstr ""
+
+#: dishy_dishwasher/dishy_realized/0/g-1/c-2/7
+msgctxt "Dishy"
+msgid "I am going to improve."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_divert/3
+msgctxt "Dishy"
+msgid "My love, my darling, my one and only."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_divert/11
+msgctxt "Dishy"
+msgid "Of course I do."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_divert/19
+msgctxt "Dishy"
+msgid "I will do it all for you."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_divert/27
+msgctxt "Narrator"
+msgid "Ever spirited and full of vigor - Dishy gives you his all."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_divert/35/b/1
+msgctxt "Narrator"
+msgid "The updates he learned do not go to waste - these are inhuman, perfected sexual acts, the likes of which cannot be described in a medium such as this."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_divert/38
+msgctxt "Narrator"
+msgid "The heights of sexual ecstasy - all within the confines of your own home."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_divert/46
+msgctxt "Dishy"
+msgid "I must be off."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/0
+msgctxt "Narrator"
+msgid "Dishy's upgrade into becoming a human gave him the ambulation that he always desired - with legs to carry him toward further knowledge and improvement."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/5
+msgctxt "Narrator"
+msgid "Every task he completes he does with the utmost care - always looking for the best possible way for it to be done."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/13
+msgctxt "Narrator"
+msgid "It took little time for the world to notice this incredibly thoughtful, and surprisingly ripped gentleman going about improving everything he saw."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/18
+msgctxt "Narrator"
+msgid "He found work as a productivity consultant at a large multinational corporation..."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/29
+msgctxt "Narrator"
+msgid "Where he balanced finding inefficiencies in the workplace and improving worker morale, with keeping costs down and profits up. He also found time to repair damage to the environment."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/34
+msgctxt "Narrator"
+msgid "He never missed a workout, a friend's birthday, nor a book club reading."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/39
+msgctxt "Dishy"
+msgid "Time for an upgrade!"
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/50
+msgctxt "Narrator"
+msgid "Happiness, productivity, and dental hygiene are all up worldwide by 7%."
+msgstr ""
+
+#: dishy_dishwasher/dishy_love_join/55
+msgctxt "Narrator"
+msgid "God bless you, Dishy Dishwasher."
+msgstr ""
+
+#: dishy_dishwasher/dishy_hate_joiner/31
+msgctxt "Reggie"
+msgid "Don't even think about calling customer service on me. I'm irreplaceable, baby."
+msgstr ""

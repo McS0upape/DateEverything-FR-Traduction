@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Traduction IA – à relire
+#: first_tutorial/1
+msgctxt "Tag Titre écran de chargement"
+msgid "First"
+msgstr "Pour commencer"
+
+# Traduction IA – à relire
+#: first_tutorial/4
+msgctxt "Tag Anecdote écran de chargement"
+msgid "Loading screens are a great distraction to feel like progress is being made while things are shuffled around secretly behind the scenes."
+msgstr "Les écrans de chargement sont une excellente distraction : on a l'impression d'avancer pendant qu'en coulisses, tout est réorganisé en secret."

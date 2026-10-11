@@ -1,0 +1,5054 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: daisuke_dishes/dishes_firstencounter/0/6
+msgctxt "Narrator"
+msgid "A tall, statuesque man stands with his back turned to you, surveying the dishes—your dishes—on the table in front of him."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/14
+msgctxt "Narrator"
+msgid "He's so absorbed in them that he doesn't seem to notice you."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/22/s/0
+msgctxt "Choix"
+msgid "Hello?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/0
+msgctxt "Narrator"
+msgid "The man doesn't move. As you walk around to get a better look, you can see that he's quite handsome—and still entirely uninterested in speaking to you."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Excuse me?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Rude."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "<i>Bang on the table.</i>"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/c-2/7 daisuke_dishes/dishes_firstencounter/0/g-0/c-3/7
+msgctxt "Narrator"
+msgid "The man's head swivels to look at you quite suddenly."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/c-2/15
+msgctxt "Daisuke"
+msgid "Yes?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/c-3/15
+msgctxt "Daisuke"
+msgid "What?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/c-4/7
+msgctxt "Narrator"
+msgid "You raise your fist to bang on the table, but before you can make contact with it you find a hand gripping yours by the wrist—quite tightly."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/c-4/15
+msgctxt "Daisuke"
+msgid "No. Dishes are to be treated with respect."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "I was just trying to get your attention."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-0/c-4/23/c-0/7
+msgctxt "Daisuke"
+msgid "That is what words are for."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/0
+msgctxt "Daisuke"
+msgid "Keep away from the dishes. They are priceless."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "I mean, they're my dishes... I like them too."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Finally, someone who understands the value of dishware."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "They're not exactly fine china."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "I don't even know who you are and you're dismissing me."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-5/13
+msgctxt "Daisuke"
+msgid "Then you understand my concern."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-5/21/0/s/0
+msgctxt "Choix"
+msgid "I guess."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-5/21/1/s/0
+msgctxt "Choix"
+msgid "I do understand... now."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-5/21/2/s/0
+msgctxt "Choix"
+msgid "Always, one hundred percent I am with you."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-5/21/c-0/7
+msgctxt "Daisuke"
+msgid "Perhaps you do not understand my concern."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-5/21/c-2/7
+msgctxt "Daisuke"
+msgid "Hm. You appear to be fawning. It is unnecessary at this point."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-6/13
+msgctxt "Daisuke"
+msgid "Yes. More precious than gold."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-6/21
+msgctxt "Daisuke"
+msgid "More valuable than money."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-6/29 daisuke_dishes/dishes_firstencounter/0/g-1/c-6/37/c-0/7
+msgctxt "Daisuke"
+msgid "More important than world peace."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-6/37/0/s/0
+msgctxt "Choix"
+msgid "Let's not go crazy here."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-6/37/1/s/0
+msgctxt "Choix"
+msgid "Oh... really?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-7/13
+msgctxt "Daisuke"
+msgid "All china is fine china."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-7/21
+msgctxt "Daisuke"
+msgid "Do you understand? All. China."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-7/29/0/s/0
+msgctxt "Choix"
+msgid "I get it, yeesh."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-7/29/1/s/0
+msgctxt "Choix"
+msgid "All. China."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-1/c-7/29/g-0/0
+msgctxt "Daisuke"
+msgid "If you are done now..."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/0
+msgctxt "Daisuke"
+msgid "I am Daisuke. Daisuke Dishware."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/11
+msgctxt "Daisuke"
+msgid "And you are interrupting inventory."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/19/s/0
+msgctxt "Choix"
+msgid "Inventory?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/20/s/0
+msgctxt "Choix"
+msgid "I'm literally walking through my house, dude."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/21/s/0
+msgctxt "Choix"
+msgid "Who asked you to do this?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/c-9/13 daisuke_dishes/daisuke_spicy_pot/0/c-0/31/c-0/7
+msgctxt "Daisuke"
+msgid "Yes."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/c-10/13
+msgctxt "Daisuke"
+msgid "I did not ask what you are doing."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/c-10/21
+msgctxt "Daisuke"
+msgid "Inventory must be done."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/daisukejoin/c-11/13
+msgctxt "Daisuke"
+msgid "No one 'asked' me. It is simply my duty."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/0
+msgctxt "Daisuke"
+msgid "Once a week I take inventory of the dishes."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/8
+msgctxt "Daisuke"
+msgid "If one is cracked or chipped, I repair it."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/16
+msgctxt "Daisuke"
+msgid "If one is beyond repair, I retire it."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/24
+msgctxt "Daisuke"
+msgid "And when new dishes arrive, I add them to the collection."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "Sounds awful."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "Sounds admirable."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/34/s/0
+msgctxt "Choix"
+msgid "Sounds like a job alright."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/c-12/13
+msgctxt "Daisuke"
+msgid "If you cannot understand the joy and value in this work then I pity you."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/c-12/21
+msgctxt "Daisuke"
+msgid "Leave me to my work now."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/c-13/13
+msgctxt "Daisuke"
+msgid "Your praise is not required, but I thank you."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/c-13/21
+msgctxt "Daisuke"
+msgid "Now please, leave me to finish my work."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/c-14/13
+msgctxt "Daisuke"
+msgid "It is a job, yes. The most important one in the house."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-2/c-14/21
+msgctxt "Daisuke"
+msgid "Now please leave me to it."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-3/0
+msgctxt "Narrator"
+msgid "You decide not to bother him any further, but just as you're walking away..."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-3/8
+msgctxt "Daisuke"
+msgid "LOOK OUT!"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-3/19
+msgctxt "Narrator"
+msgid "Your foot catches on a strange bulge in the flooring, and before you know it you're going down, hard."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-3/27
+msgctxt "Narrator"
+msgid "But you don't hit the floor—you hit hard muscle instead."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-3/35
+msgctxt "Narrator"
+msgid "Daisuke has heroically put himself between you and the dishes. You're now face to face—and chest to chest—on the ground."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-3/43/s/0
+msgctxt "Choix"
+msgid "Are you alright?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/0
+msgctxt "Daisuke"
+msgid "Forget about me. Are the dishes alright?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/0/s/0
+msgctxt "Choix"
+msgid "Yes, they're all still on the table."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/1/s/0
+msgctxt "Choix"
+msgid "Tell me you're alright first."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/2/s/0
+msgctxt "Choix"
+msgid "Forget the stupid dishes."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/c-16/13 daisuke_dishes/dishes_firstencounter/0/g-4/11/c-17/21/c-0/7 daisuke_dishes/dishes_firstencounter/0/g-4/11/c-18/21/c-0/7 daisuke_dishes/daisuke_dish_help/0/0
+msgctxt "Daisuke"
+msgid "Good."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/c-17/13
+msgctxt "Daisuke"
+msgid "I will be fine if the dishes are fine."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/c-17/21/0/s/0
+msgctxt "Choix"
+msgid "They're all still there."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/c-18/13
+msgctxt "Daisuke"
+msgid "Simply tell me if the dishes are alright."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-4/11/c-18/21/0/s/0
+msgctxt "Choix"
+msgid "They look fine."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/0
+msgctxt "Narrator"
+msgid "You climb to your feet, surveying the table. No damage that you can see."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/8
+msgctxt "Daisuke"
+msgid "Ah..."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/16/s/0
+msgctxt "Choix"
+msgid "You okay?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/17/s/0
+msgctxt "Choix"
+msgid "Walk it off, you giant baby."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/18/s/0
+msgctxt "Choix"
+msgid "Did a dish break?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/c-19/13
+msgctxt "Daisuke"
+msgid "I think I've chipped..."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/c-20/13
+msgctxt "Daisuke"
+msgid "I cannot walk off a chip."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/c-20/21
+msgctxt "Daisuke"
+msgid "Buffoon."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-6/c-21/13
+msgctxt "Daisuke"
+msgid "Thankfully, no. But it seems I have chipped."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-7/0/s/0
+msgctxt "Choix"
+msgid "What does that mean?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-7/c-22/7
+msgctxt "Daisuke"
+msgid "I must repair myself lest my injuries become worse."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-7/c-22/15
+msgctxt "Daisuke"
+msgid "Please leave now, before you do any more damage."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/0/s/0
+msgctxt "Choix"
+msgid "It was an accident..."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/1/s/0
+msgctxt "Choix"
+msgid "Are you sure I can't help you?"
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/2/s/0
+msgctxt "Choix"
+msgid "Don't be so dramatic."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/c-23/13
+msgctxt "Daisuke"
+msgid "You may not have intended it, but the damage remains."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/c-23/21 daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/c-1/29/c-0/7 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/c-1/29/c-0/7
+msgctxt "Daisuke"
+msgid "Please go."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/c-24/13
+msgctxt "Daisuke"
+msgid "Yes. Your concern is appreciated but ultimately useless."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/c-24/21
+msgctxt "Daisuke"
+msgid "Leave me now."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/c-25/13
+msgctxt "Daisuke"
+msgid "When it comes to dishes I am deadly serious."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/c-25/21
+msgctxt "Daisuke"
+msgid "And you have affected my ability to do my job."
+msgstr ""
+
+#: daisuke_dishes/dishes_firstencounter/0/g-8/c-25/29
+msgctxt "Daisuke"
+msgid "Leave at once."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/6
+msgctxt "Narrator"
+msgid "You find Daisuke where you left him last time, staring intently at dishes on the table."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/14
+msgctxt "Narrator"
+msgid "Unlike the last time, however, he has a list in one hand."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/22/s/0
+msgctxt "Choix"
+msgid "Workin' hard or hardly workin'?"
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/23/s/0
+msgctxt "Choix"
+msgid "What's up, NERD?"
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/24/s/0
+msgctxt "Choix"
+msgid "Hard at work, I see."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/c-0/13
+msgctxt "Daisuke"
+msgid "Hardly working at the moment."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/c-1/13
+msgctxt "Daisuke"
+msgid "Even your insults are half-baked. What a disappointment you are."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/c-1/24
+msgctxt "Daisuke"
+msgid "I do not have time to trade barbs with you."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/c-2/13
+msgctxt "Daisuke"
+msgid "Not hard enough."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/0
+msgctxt "Daisuke"
+msgid "There is much to do, and my injuries have slowed me down."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/8
+msgctxt "Daisuke"
+msgid "In addition to inventory and keeping track of all the dishes, I am also in charge of deliveries throughout the home."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/16
+msgctxt "Daisuke"
+msgid "Unfortunately I am unable to do much in my current condition."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/24
+msgctxt "Daisuke"
+msgid "I prefer to work alone, but an assistant would be invaluable in this moment."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "I'm nobody's assistant."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "I'll do it... for a price."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/34/s/0
+msgctxt "Choix"
+msgid "Let me help you... it's my fault you got hurt to begin with."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/7
+msgctxt "Daisuke"
+msgid "The only reward you'll have is righting the wrong you have created."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/15
+msgctxt "Daisuke"
+msgid "If that is not enough for you then you have no business here."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "My price is a date."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/1/s/0
+msgctxt "Choix"
+msgid "Fair enough... I'll do it anyway."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/2/s/0
+msgctxt "Choix"
+msgid "That's not enough for me."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/c-0/13
+msgctxt "Daisuke"
+msgid "A date? I do not keep fruit on hand."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/c-0/21
+msgctxt "Daisuke"
+msgid "Fruit is Mitchell's job."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/c-0/32
+msgctxt "Daisuke"
+msgid "All you will get here is the knowledge that you have fixed what you have broken."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/c-0/40/0/s/0
+msgctxt "Choix"
+msgid "No thanks, then."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-4/23/c-0/40/1/s/0
+msgctxt "Choix"
+msgid "That's alright, I'll do it anyway."
+msgstr ""
+
+#: daisuke_dishes/dishes_secondencounter/0/g-0/c-5/7
+msgctxt "Daisuke"
+msgid "You wish to right this wrong?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/8
+msgctxt "Daisuke"
+msgid "I have preparations I must first finish, but return to me again and I will give you instructions on delivery."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/16
+msgctxt "Daisuke"
+msgid "In the meantime, perhaps you can help me wash these dishes."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/24/s/0
+msgctxt "Choix"
+msgid "Isn't that what the dishwasher is for?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/c-0/7
+msgctxt "Daisuke"
+msgid "...Dishy?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/c-0/18
+msgctxt "Daisuke"
+msgid "Hmph."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/c-0/26
+msgctxt "Daisuke"
+msgid "I trust no one but myself with such precious items."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/c-0/34
+msgctxt "Daisuke"
+msgid "Unfortunately I must trust you with them for now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/c-0/42
+msgctxt "Daisuke"
+msgid "<i>Do not disappoint me.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Sure thing."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "That was kinda hot..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "Calm down."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-0/c-1/13
+msgctxt "Daisuke"
+msgid "Please begin, then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-0/c-2/13
+msgctxt "Daisuke"
+msgid "I have no idea what you're talking about."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-0/c-3/13
+msgctxt "Daisuke"
+msgid "I am more than calm."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/0
+msgctxt "Narrator"
+msgid "You pick up the dishes and begin to wash. As you work, you feel Daisuke's eyes boring holes into you. It makes you feel..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "<i>...annoyed.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "<i>...flustered.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "<i>...nervous.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-4/13
+msgctxt "Daisuke"
+msgid "Why are you frowning? Is there a problem with the dishes?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-4/21/0/s/0
+msgctxt "Choix"
+msgid "I can feel you staring. Knock it off."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-4/21/c-0/7
+msgctxt "Daisuke"
+msgid "How else will I ensure you are doing it properly?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-4/21/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Maybe try trusting me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-4/21/c-0/15/c-0/7
+msgctxt "Daisuke"
+msgid "Impossible. I hardly know you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-4/21/c-0/15/c-0/15
+msgctxt "Daisuke"
+msgid "But if it angers you to have my eye so closely upon you, I will take a step back."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-5/13
+msgctxt "Daisuke"
+msgid "Your hands are shaking. Take care lest you drop one."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-5/21
+msgctxt "Narrator"
+msgid "Daisuke places a hand on yours, perhaps to steady you, but it has the opposite effect. There's strength and grace in equal measure in his touch, and it makes you wonder how he might touch you under different circumstances."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-5/29
+msgctxt "Daisuke"
+msgid "Are you listening?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-5/37/0/s/0
+msgctxt "Choix"
+msgid "Sorry, yeah. I'll be careful."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-6/13
+msgctxt "Daisuke"
+msgid "You treat the dishes with such care. It is beautiful to see."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-1/c-6/24
+msgctxt "Daisuke"
+msgid "Perhaps trusting you was not the worst decision."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/0
+msgctxt "Narrator"
+msgid "You manage to finish washing the dishes without further incident."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/8
+msgctxt "Daisuke"
+msgid "Well done. This may not be the disaster I assumed."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/16
+msgctxt "Daisuke"
+msgid "When next we meet, you will assist me with deliveries. Be prepared."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "I'll do whatever it takes to make things right."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "My god you're bossy."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/26/s/0
+msgctxt "Choix"
+msgid "You got it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/c-7/13
+msgctxt "Daisuke"
+msgid "Hmm. Complete these deliveries and all will be well once more."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/c-8/13
+msgctxt "Daisuke"
+msgid "And you are disrespectful, but it does us no good to retread old information."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-2/c-9/13 daisuke_dishes/dishes_fourthencounter/0/daisuke_cabrizzio_skip/c-3/7 daisuke_dishes/dishes_fourthencounter/0/daisuke_cabrizzio_skip/c-4/7
+msgctxt "Daisuke"
+msgid "Very good."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-3/0
+msgctxt "Daisuke"
+msgid "Leave me now—I must review orders and inventory."
+msgstr ""
+
+#: daisuke_dishes/daisuke_dish_help/0/g-3/8 daisuke_dishes/daisuke_love_return/0/c-0/15/c-0/34/c-0/15/c-0/7
+msgctxt "Daisuke"
+msgid "Farewell."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/0
+msgctxt "Daisuke"
+msgid "If you cannot clean up the mess you created, what use are you?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/8
+msgctxt "Daisuke"
+msgid "...patience, Daisuke. Do not give up just yet."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/16
+msgctxt "Daisuke"
+msgid "Perhaps you underestimate the value of dishes in the home."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/24
+msgctxt "Daisuke"
+msgid "Perhaps our fall jostled your brain in your skull like a clay pot rolling down a hill."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/32
+msgctxt "Daisuke"
+msgid "If you refuse to help me now you will be drawing a very sharp line between us."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/40
+msgctxt "Daisuke"
+msgid "Is that what you want to do?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/0/s/0
+msgctxt "Choix"
+msgid "No... I'll help."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/1/s/0
+msgctxt "Choix"
+msgid "You heard me, dish dork."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/c-1/7
+msgctxt "Daisuke"
+msgid "Very well. Know that from this day forward, you have declared yourself not only my enemy..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/c-1/15
+msgctxt "Daisuke"
+msgid "But an enemy of all dishes."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/c-1/23
+msgctxt "Daisuke"
+msgid "Your dinners will be on pathetic plastic plates for the rest of your life, lout."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Worth it not to listen to your whining."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/c-1/31/c-0/7
+msgctxt "Daisuke"
+msgid "Leave me to my work before I crack <i>you</i>."
+msgstr ""
+
+#: daisuke_dishes/daisuke_refusal/48/c-1/31/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Don't chip your fingers, dweeb."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/6
+msgctxt "Daisuke"
+msgid "Here you are."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/14
+msgctxt "Daisuke"
+msgid "I hope you are prepared to work."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/22/s/0
+msgctxt "Choix"
+msgid "Absolutely."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/23/s/0
+msgctxt "Choix"
+msgid "Is anyone ever really prepared to work?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/24/s/0
+msgctxt "Choix"
+msgid "Let's get this over with."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/c-1/13
+msgctxt "Daisuke"
+msgid "I am. Every day of my life."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/c-2/13
+msgctxt "Daisuke"
+msgid "Leave your disrespect behind. It will taint your work."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/0
+msgctxt "Daisuke"
+msgid "You are to make deliveries to Mitchell, Beverly, and Kopi."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/17
+msgctxt "Daisuke"
+msgid "Do not return until you have completed your deliveries."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "What will you do while I'm gone?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Please rest and take care of that chip while I'm gone."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "Have fun kicking your feet up while I'm gone."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/c-3/13
+msgctxt "Daisuke"
+msgid "I will stare wordlessly at the horizon until you return, praying for the safety of the dishes."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/c-4/13
+msgctxt "Daisuke"
+msgid "Of course."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-0/c-5/13
+msgctxt "Daisuke"
+msgid "I remind you I would be doing this myself had you not injured me, oaf."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/0 daisuke_dishes/dishes_thirdencounter/0/g-1/9/0
+msgctxt "Daisuke"
+msgid "If you have any questions about the deliveries before you go, now is the time."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/3/s/0
+msgctxt "Choix"
+msgid "Tell me about Kopi's delivery."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/4/s/0
+msgctxt "Choix"
+msgid "Tell me about Mitchell's delivery."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/5/s/0
+msgctxt "Choix"
+msgid "Tell me about Beverly's delivery."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/6/s/0
+msgctxt "Choix"
+msgid "I'm good!"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/7
+msgctxt "Daisuke"
+msgid "You will be delivering coffee mugs to Kopi."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/15
+msgctxt "Daisuke"
+msgid "Coffee mugs are ceramic cups used to drink coffee."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/23
+msgctxt "Daisuke"
+msgid "I am struggling to think of any further pertinent information."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/0/s/0
+msgctxt "Choix"
+msgid "Maybe you could tell me about your relationship with Kopi?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/1/s/0
+msgctxt "Choix"
+msgid "Are you and Kopi banging or what?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/2/s/0
+msgctxt "Choix"
+msgid "Does Kopi treat the mugs well?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/3/s/0
+msgctxt "Choix"
+msgid "I turned Kopi into a human being..."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-0/13
+msgctxt "Daisuke"
+msgid "There is nothing interesting to tell."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-0/21
+msgctxt "Daisuke"
+msgid "She is courteous and makes excellent coffee."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-0/29
+msgctxt "Daisuke"
+msgid "Our relationship is purely professional."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-1/13
+msgctxt "Daisuke"
+msgid "Banging? Banging what?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "Your hips together."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-1/21/c-0/7
+msgctxt "Daisuke"
+msgid "Why would we do that?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-1/21/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Because that's how sex happens."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-1/21/c-0/15/c-0/7
+msgctxt "Daisuke"
+msgid "Why would you not simply say that?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-1/21/c-0/15/c-0/15
+msgctxt "Daisuke"
+msgid "And no. Boor."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-2/13
+msgctxt "Daisuke"
+msgid "Yes, she does. I am always happy to make deliveries to her."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-6/31/c-3/20 daisuke_dishes/dish_mission_on_return/0/21/8/c-2/23
+msgctxt "Daisuke"
+msgid "Ah... no matter."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/7
+msgctxt "Daisuke"
+msgid "You will be delivering plates to Mitchell."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/15
+msgctxt "Daisuke"
+msgid "He uses them to serve food."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/23
+msgctxt "Daisuke"
+msgid "The food is then eaten from the plates."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/31
+msgctxt "Daisuke"
+msgid "I do not know what else to say about the plates, so I will stop speaking now."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/0/s/0
+msgctxt "Choix"
+msgid "Does he ever eat the plates?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/1/s/0
+msgctxt "Choix"
+msgid "Are you two cool?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/2/s/0
+msgctxt "Choix"
+msgid "He must take great care of the plates if you keep delivering them to him."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/3/s/0
+msgctxt "Choix"
+msgid "I turned Mitchell into a human being..."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-0/13
+msgctxt "Daisuke"
+msgid "Does anyone eat plates? What a barbaric notion."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-0/21/0/s/0
+msgctxt "Choix"
+msgid "I'm just messing with you."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-0/21/c-0/7
+msgctxt "Daisuke"
+msgid "How dare you. This is a deeply serious matter."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-1/13
+msgctxt "Daisuke"
+msgid "When Freddy leaves the door open, sometimes."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "No like... do you guys get along."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-1/21/c-0/7
+msgctxt "Daisuke"
+msgid "What? Oh, yes. He has very refined taste in food."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-1/21/c-0/15
+msgctxt "Daisuke"
+msgid "His feedback on my cooking has been invaluable."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-1/21/c-0/23
+msgctxt "Daisuke"
+msgid "I enjoy speaking with him."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-2/13
+msgctxt "Daisuke"
+msgid "He does indeed. Mitchell understands that plating is equally as important as the quality of food when it comes to cooking."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-2/24
+msgctxt "Daisuke"
+msgid "This is what separates professionals and amateurs."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-3/25 daisuke_dishes/dish_mission_on_return/0/21/8/c-1/28
+msgctxt "Daisuke"
+msgid "That is... regrettable, to say the least."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-7/39/c-3/36 daisuke_dishes/dish_mission_on_return/0/21/8/c-1/39
+msgctxt "Daisuke"
+msgid "Very well."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/7
+msgctxt "Daisuke"
+msgid "Beverly will be receiving cups of all shapes and sizes for her drinks, both alcoholic and otherwise."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/15
+msgctxt "Daisuke"
+msgid "The cups will be used to serve drinks."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/23
+msgctxt "Daisuke"
+msgid "Beverly has broken more than a few glasses after imbibing her own drinks, so you must give her a stern warning to be careful with these."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/31
+msgctxt "Daisuke"
+msgid "I can think of nothing further to tell you."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/0/s/0
+msgctxt "Choix"
+msgid "It's kind of you to supply her anyway."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/1/s/0
+msgctxt "Choix"
+msgid "Who hasn't broken a cup or three while drunk? Or sober?"
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/2/s/0
+msgctxt "Choix"
+msgid "She must make very stiff drinks."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/3/s/0
+msgctxt "Choix"
+msgid "I turned Beverly into a human being..."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-0/13
+msgctxt "Daisuke"
+msgid "While I wish everyone had my respect for the dishes, Beverly does provide a very useful service to the house."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-0/21
+msgctxt "Daisuke"
+msgid "And she is appreciative, even if I wish she were a bit less clumsy while drinking."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-1/13
+msgctxt "Daisuke"
+msgid "Disgusting."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-1/24/0/s/0
+msgctxt "Choix"
+msgid "Hell I break dishes sober."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-1/24/c-0/7
+msgctxt "Daisuke"
+msgid "STOP! Just stop."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-2/13
+msgctxt "Daisuke"
+msgid "She does indeed. Too much so, perhaps, but it is none of my business."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-2/21
+msgctxt "Daisuke"
+msgid "I only need her to make sure she does not break any more glasses—nor do her party guests."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-3/25 daisuke_dishes/dish_mission_on_return/0/21/8/c-0/28 daisuke_dishes/daisuke_love_end/0/g-2/0 daisuke_dishes/daisuke_friend_end/0/g-1/c-6/7
+msgctxt "Daisuke"
+msgid "I see."
+msgstr ""
+
+#: daisuke_dishes/dishes_thirdencounter/0/g-1/9/8/c-8/39/c-3/36 daisuke_dishes/dish_mission_on_return/0/21/8/c-0/39
+msgctxt "Daisuke"
+msgid "I will take your word for it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/0
+msgctxt "Daisuke"
+msgid "I have nothing more to tell you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/8 daisuke_dishes/daisuke_post_menu/0/c-1/29
+msgctxt "Daisuke"
+msgid "You may leave now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/16/s/0
+msgctxt "Choix"
+msgid "You could say something sweet..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/17/s/0
+msgctxt "Choix"
+msgid "Would you bless the dishes before I go?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/18/s/0
+msgctxt "Choix"
+msgid "You really need to work on your conversation."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-0/21
+msgctxt "Daisuke"
+msgid "Sugar."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-0/29
+msgctxt "Daisuke"
+msgid "Go now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "Missing the point... but alright."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-1/13
+msgctxt "Daisuke"
+msgid "I am not the spiritual type, but if you like..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-1/21
+msgctxt "Daisuke"
+msgid "Rub a dub dub, thanks for the grub."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-2/13
+msgctxt "Daisuke"
+msgid "Perhaps you have forgotten I cannot work on anything just now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-2/21
+msgctxt "Daisuke"
+msgid "Because you've injured me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_post_menu/0/c-2/29
+msgctxt "Daisuke"
+msgid "Go now, before you insult me further."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/0
+msgctxt "Daisuke"
+msgid "You do not have the satisfied expression of one who has completed their mission."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/8/b/1
+msgctxt "Daisuke"
+msgid "It seems you are close."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/8/b/9/b/1
+msgctxt "Daisuke"
+msgid "Just Beverly's needs remain unmet."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/8/b/12/b/1
+msgctxt "Daisuke"
+msgid "Just Kopi's needs remain unmet."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/8/b/15/b/1
+msgctxt "Daisuke"
+msgid "Just Mitchell's needs remain unmet."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/9/b/1
+msgctxt "Daisuke"
+msgid "Your journey has begun, but still two need their deliveries."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/9/b/9/b/1
+msgctxt "Daisuke"
+msgid "Beverly is still in need!"
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/9/b/12/b/1
+msgctxt "Daisuke"
+msgid "Ah, Kopi needs her delivery!"
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/9/b/15/b/1
+msgctxt "Daisuke"
+msgid "Mitchell is waiting..."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/12
+msgctxt "Daisuke"
+msgid "Good. Steady hands and sturdy legs."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/0
+msgctxt "Daisuke"
+msgid "Steady hands and sturdy legs."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/0/s/0
+msgctxt "Choix"
+msgid "Oh instead of making the delivery, I turned Beverly into a human being..."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/1/s/0
+msgctxt "Choix"
+msgid "Funny thing is I turned Mitchell into a human being..."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/2/s/0
+msgctxt "Choix"
+msgid "Hey actually I turned Kopi into a human being..."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/3/s/0
+msgctxt "Choix"
+msgid "What?"
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/4/s/0
+msgctxt "Choix"
+msgid "Thank you."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/c-3/7
+msgctxt "Daisuke"
+msgid "Rather than wishing you luck, I am wishing you steady hands and sturdy legs to get the job done."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/c-3/15
+msgctxt "Daisuke"
+msgid "So the dishes will not break."
+msgstr ""
+
+#: daisuke_dishes/dish_mission_on_return/0/21/8/c-3/31
+msgctxt "Daisuke"
+msgid "Please just leave."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/15/b/1
+msgctxt "Narrator"
+msgid "You find Cabrizzio and Daisuke mid-discussion."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/16/b/1
+msgctxt "Narrator"
+msgid "You find Daisuke and a lacquered friend mid-discussion."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/19
+msgctxt "Daisuke"
+msgid "Beautiful."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/30
+msgctxt "Daisuke"
+msgid "Like a ceramic sunset over a shining sea of china."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/38
+msgctxt "Cabrizzio"
+msgid "I told you I would help you organize! Just look at you now."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/49
+msgctxt "Cabrizzio"
+msgid "Even an injury cannot slow you down."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/57
+msgctxt "Daisuke"
+msgid "Your assistance has allowed me to catch up on the rest of my work."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/65
+msgctxt "Daisuke"
+msgid "I'm truly grateful."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/73
+msgctxt "Cabrizzio"
+msgid "It's no problem whatsoever, amico mio!"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/81
+msgctxt "Cabrizzio"
+msgid "Oh! Speaking of friends, it seems as though you have a visitor!"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/89
+msgctxt "Daisuke"
+msgid "Ah."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/97
+msgctxt "Daisuke"
+msgid "We will speak again, Cabrizzio. Farewell."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/105
+msgctxt "Cabrizzio"
+msgid "Ciao!"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/123
+msgctxt "Daisuke"
+msgid "You have the air about you of one who has completed their mission."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/131/s/0
+msgctxt "Choix"
+msgid "I hope I wasn't interrupting anything."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/132/s/0
+msgctxt "Choix"
+msgid "You're sharp."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/133/s/0
+msgctxt "Choix"
+msgid "That's just gas."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/c-0/13
+msgctxt "Daisuke"
+msgid "No, no. Cabrizzio was only helping me reorganize inventory."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/c-1/13
+msgctxt "Daisuke"
+msgid "No. I have repaired my injury."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/c-1/21
+msgctxt "Daisuke"
+msgid "I am perfectly safe to handle now."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/c-2/13
+msgctxt "Daisuke"
+msgid "Please keep such revolting information to yourself going forward."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/daisuke_cabrizzio_skip/0
+msgctxt "Daisuke"
+msgid "You've finished your deliveries, then?"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/daisuke_cabrizzio_skip/8/s/0
+msgctxt "Choix"
+msgid "Yes."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/daisuke_cabrizzio_skip/9/s/0
+msgctxt "Choix"
+msgid "Hai."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/0
+msgctxt "Daisuke"
+msgid "It is almost as if our near-tragic accident never happened."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/8
+msgctxt "Daisuke"
+msgid "With your help and Cabrizzio's, I suppose this means my work is finished now."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/16
+msgctxt "Narrator"
+msgid "Daisuke stares up at the dishes in the cabinet with an inscrutable expression."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/24
+msgctxt "Narrator"
+msgid "You wonder if now might be a good opportunity to bring out another side of Daisuke."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/32
+msgctxt "Daisuke"
+msgid "There must be... something else to be done."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/40
+msgctxt "Daisuke"
+msgid "Perhaps I can... rearrange the dishes again..."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/48/0/s/0
+msgctxt "Choix"
+msgid "Seems like a good time to relax to me."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/48/1/s/0
+msgctxt "Choix"
+msgid "Can you chill just once?"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/48/2/s/0
+msgctxt "Choix"
+msgid "Handling the dishes needlessly is a risk."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/48/c-5/13
+msgctxt "Daisuke"
+msgid "Is it ever really a good time to relax?"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/48/c-5/21
+msgctxt "Daisuke"
+msgid "But you are not wrong."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/48/c-6/13
+msgctxt "Daisuke"
+msgid "I dislike the cold, so no. However..."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-0/48/c-7/13
+msgctxt "Daisuke"
+msgid "...you are correct."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/0
+msgctxt "Daisuke"
+msgid "I suppose I could spare a moment to sit."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/8
+msgctxt "Daisuke"
+msgid "Would you care to join me?"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "I'd love to."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "Guess I got nothing better to do."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "I was hoping to get some time with you."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/c-8/13
+msgctxt "Daisuke"
+msgid "Come, sit."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/c-9/13
+msgctxt "Daisuke"
+msgid "We are in the same boat, then."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-2/c-10/7
+msgctxt "Daisuke"
+msgid "Oh? Well I have the time now."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/0
+msgctxt "Narrator"
+msgid "As you sit with Daisuke, both of you gazing up at the majesty of the china cabinet, you turn over the advice you received in your mind."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/8
+msgctxt "Narrator"
+msgid "You could talk to him about coffee... poetry... ceramics..."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/16/s/0
+msgctxt "Choix"
+msgid "So you're into ceramics?"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/17/s/0
+msgctxt "Choix"
+msgid "Kopi told me you're big into coffee."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/18/s/0
+msgctxt "Choix"
+msgid "I heard you write poetry."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/c-11/7
+msgctxt "Daisuke"
+msgid "It seems like a lifetime ago now, but yes."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/c-11/15
+msgctxt "Daisuke"
+msgid "I did spend many years studying ceramics."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/c-12/7
+msgctxt "Daisuke"
+msgid "I was, for a time."
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/c-13/7
+msgctxt "Daisuke"
+msgid "I... who told you that?"
+msgstr ""
+
+#: daisuke_dishes/dishes_fourthencounter/0/g-3/c-13/18/0/s/0
+msgctxt "Choix"
+msgid "Beverly..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/4
+msgctxt "Daisuke"
+msgid "My family has a long, rich tradition."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/12
+msgctxt "Daisuke"
+msgid "And I have always believed in understanding every facet of one's job."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/20
+msgctxt "Daisuke"
+msgid "How could I understand the strength and resilience of a broken vase without learning to repair them myself?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/28
+msgctxt "Daisuke"
+msgid "How could I perceive the true grace and majesty of a plate without knowing the extreme temperatures porcelain must endure to reach our shelves?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/36
+msgctxt "Daisuke"
+msgid "The answer is over 2000 degrees Fahrenheit, if you wish to know."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/44/s/0
+msgctxt "Choix"
+msgid "I didn't."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/45/s/0
+msgctxt "Choix"
+msgid "How many degrees Celsius?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/46/s/0
+msgctxt "Choix"
+msgid "Wow... porcelain truly is forged in some intense heat."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/c-0/13
+msgctxt "Daisuke"
+msgid "Well you know now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/c-1/13
+msgctxt "Daisuke"
+msgid "About 1300 Celsius."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "It really is a lot no matter which way you slice it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/c-2/13
+msgctxt "Daisuke"
+msgid "Indeed. It is inspiring."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/c-2/21
+msgctxt "Daisuke"
+msgid "To be bathed in fire and emerge, beautiful, precious, and dependable..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/c-2/29
+msgctxt "Daisuke"
+msgid "We could all learn something from porcelain."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/8
+msgctxt "Daisuke"
+msgid "I am beginning to realize I have neglected other areas of my life."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/16
+msgctxt "Daisuke"
+msgid "I used to be able to hold a conversation without returning to the topic of work again and again."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Have you considered getting a life?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Why do you bury yourself so deeply in your work? Are you trying to escape something?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "It's alright to talk about your work... but I'd love to hear more about your artistic side."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/13
+msgctxt "Daisuke"
+msgid "Have you considered not saying the stupidest thing that comes to mind without hesitation?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/24
+msgctxt "Daisuke"
+msgid "Clearly not. I suppose it is silly to fight our natures."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/32
+msgctxt "Daisuke"
+msgid "It was a mistake to sit with you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/0/s/0
+msgctxt "Choix"
+msgid "I didn't even want to be here in the first place!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/1/s/0
+msgctxt "Choix"
+msgid "I'm sorry, Daisuke... I meant it to be encouraging."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/c-0/7
+msgctxt "Daisuke"
+msgid "Do not allow me to keep you, then. Leave."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/c-1/7
+msgctxt "Daisuke"
+msgid "I am not encouraged by these words."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/c-1/15
+msgctxt "Daisuke"
+msgid "But I suppose I can forgive you if they were uttered with good intent."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/c-1/23
+msgctxt "Daisuke"
+msgid "Why have I not simply 'gotten a life', as you so carelessly put it?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-5/13
+msgctxt "Daisuke"
+msgid "Hmph. My \"artistic side\"... I have not made use of it in so long, though."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-5/21/0/s/0
+msgctxt "Choix"
+msgid "Why not?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/0 daisuke_dishes/daisuke_coffee_talk/0/g-1/0 daisuke_dishes/daisuke_poetry_talk/0/g-1/0
+msgctxt "Daisuke"
+msgid "It seems like such a simple question."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/8 daisuke_dishes/daisuke_coffee_talk/0/g-1/8 daisuke_dishes/daisuke_poetry_talk/0/g-1/8
+msgctxt "Daisuke"
+msgid "Friends, lovers, hobbies... I dropped them all one by one."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/16 daisuke_dishes/daisuke_coffee_talk/0/g-1/16 daisuke_dishes/daisuke_poetry_talk/0/g-1/16
+msgctxt "Daisuke"
+msgid "They were pleasant to be sure, but a distraction."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/24 daisuke_dishes/daisuke_poetry_talk/0/g-1/24
+msgctxt "Daisuke"
+msgid "When a relationship ended poorly I often thought of how much time I'd wasted trying to please others."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/32 daisuke_dishes/daisuke_coffee_talk/0/g-1/32 daisuke_dishes/daisuke_poetry_talk/0/g-1/32
+msgctxt "Daisuke"
+msgid "When a hobby reached a plateau, I felt as though I let time slip through my fingers... time I could never get back."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/40 daisuke_dishes/daisuke_coffee_talk/0/g-1/40 daisuke_dishes/daisuke_poetry_talk/0/g-1/40
+msgctxt "Daisuke"
+msgid "When I work too much, I do not have similar regrets."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/48 daisuke_dishes/daisuke_coffee_talk/0/g-1/48 daisuke_dishes/daisuke_poetry_talk/0/g-1/48
+msgctxt "Daisuke"
+msgid "...or at least, I used to think so."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/56 daisuke_dishes/daisuke_coffee_talk/0/g-1/56 daisuke_dishes/daisuke_poetry_talk/0/g-1/56
+msgctxt "Daisuke"
+msgid "Being forced to slow down has shown me perhaps my priorities have been incorrect for years."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/64
+msgctxt "Daisuke"
+msgid "Now, faced with a quiet moment and friendly conversation, I find myself woefully inadequate, like a broken plate fused together with hot glue."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/72/s/0 daisuke_dishes/daisuke_coffee_talk/0/g-1/72/s/0 daisuke_dishes/daisuke_poetry_talk/0/g-1/72/s/0
+msgctxt "Choix"
+msgid "It's not something you have to just accept."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/73/s/0 daisuke_dishes/daisuke_coffee_talk/0/g-1/73/s/0 daisuke_dishes/daisuke_poetry_talk/0/g-1/73/s/0
+msgctxt "Choix"
+msgid "I'd love to help you work on reconnecting with yourself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/74/s/0 daisuke_dishes/daisuke_coffee_talk/0/g-1/74/s/0 daisuke_dishes/daisuke_poetry_talk/0/g-1/74/s/0
+msgctxt "Choix"
+msgid "You're more like a crumpled paper plate."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/c-6/13 daisuke_dishes/daisuke_coffee_talk/0/g-1/c-6/13 daisuke_dishes/daisuke_poetry_talk/0/g-1/c-6/13
+msgctxt "Daisuke"
+msgid "Perhaps. Perhaps not."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/c-6/21 daisuke_dishes/daisuke_coffee_talk/0/g-1/c-6/21 daisuke_dishes/daisuke_poetry_talk/0/g-1/c-6/21
+msgctxt "Daisuke"
+msgid "I often feel it is too late for me to be someone else."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/c-7/13 daisuke_dishes/daisuke_coffee_talk/0/g-1/c-7/13 daisuke_dishes/daisuke_poetry_talk/0/g-1/c-7/13
+msgctxt "Daisuke"
+msgid "It is a kind offer, truly... but I am unsure if there's anything left to salvage here."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/c-8/13 daisuke_dishes/daisuke_coffee_talk/0/g-1/c-8/13 daisuke_dishes/daisuke_poetry_talk/0/g-1/c-8/13
+msgctxt "Daisuke"
+msgid "...perhaps I am."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-1/c-8/21 daisuke_dishes/daisuke_coffee_talk/0/g-0/c-5/21 daisuke_dishes/daisuke_coffee_talk/0/g-1/c-8/21 daisuke_dishes/daisuke_poetry_talk/0/g-1/c-8/21
+msgctxt "Narrator"
+msgid "He says nothing more to you. After a certain amount of time you decide perhaps you'd better just leave him alone."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-2/0 daisuke_dishes/daisuke_coffee_talk/0/g-2/0 daisuke_dishes/daisuke_poetry_talk/0/g-2/0
+msgctxt "Daisuke"
+msgid "I have... much on my mind."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-2/8 daisuke_dishes/daisuke_coffee_talk/0/g-2/8 daisuke_dishes/daisuke_poetry_talk/0/g-2/8
+msgctxt "Daisuke"
+msgid "Forgive my rudeness, but I must bid you farewell."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-2/16 daisuke_dishes/daisuke_coffee_talk/0/g-2/16 daisuke_dishes/daisuke_poetry_talk/0/g-2/16
+msgctxt "Daisuke"
+msgid "I am no longer in the mood to chat."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_talk/0/g-2/24/s/0 daisuke_dishes/daisuke_coffee_talk/0/g-2/24/s/0 daisuke_dishes/daisuke_poetry_talk/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "See you later, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/4
+msgctxt "Daisuke"
+msgid "Coffee is a layered, complex experience—similar to ceramics in many ways."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/12/s/0
+msgctxt "Choix"
+msgid "How so?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/13/s/0
+msgctxt "Choix"
+msgid "Are you incapable of talking about anything but ceramics?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/14/s/0
+msgctxt "Choix"
+msgid "I've thought the same thing myself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/c-0/13
+msgctxt "Daisuke"
+msgid "Heat is required to get the most out of your coffee—and like ceramics, the temperature makes a huge difference in the end product."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/c-0/21
+msgctxt "Daisuke"
+msgid "Different subtleties of flavor emerge at different temperatures, and there is a certain amount of work to be done with one's hands."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/c-0/29
+msgctxt "Daisuke"
+msgid "It was satisfying work."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/c-1/13
+msgctxt "Daisuke"
+msgid "...it seems not."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/c-1/21
+msgctxt "Daisuke"
+msgid "But this wasn't always the case."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/c-2/13
+msgctxt "Daisuke"
+msgid "I am not the only one to follow this logic, then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/0
+msgctxt "Daisuke"
+msgid "For some time I was deeply interested in brewing coffee."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/8
+msgctxt "Daisuke"
+msgid "Kopi was most helpful and informative."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/16
+msgctxt "Daisuke"
+msgid "I studied coffee under her tutelage with the same intensity and fervor I applied to my study of ceramics."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "So why did you stop?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "It sounds like you were pretty well-rounded in your interests back then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "With that lazy work ethic you can't have been working all that hard."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/c-3/13
+msgctxt "Daisuke"
+msgid "...why indeed."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/c-4/13
+msgctxt "Daisuke"
+msgid "I was more complete then, I cannot deny."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/c-4/21
+msgctxt "Daisuke"
+msgid "So why did I stop?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-0/c-5/13
+msgctxt "Daisuke"
+msgid "...perhaps not."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-1/24
+msgctxt "Daisuke"
+msgid "When a relationship ended poorly, I often thought of how much time I'd wasted trying to please others."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_talk/0/g-1/64 daisuke_dishes/daisuke_poetry_talk/0/g-1/64
+msgctxt "Daisuke"
+msgid "Now, faced with a quiet moment and friendly conversation I find myself woefully inadequate, like a broken plate fused together with hot glue."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/4
+msgctxt "Daisuke"
+msgid "Beverly's job is to dispense beverages, not secrets."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/12
+msgctxt "Daisuke"
+msgid "I have been betrayed..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/20/s/0
+msgctxt "Choix"
+msgid "Are you embarrassed of your poetry?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/21/s/0
+msgctxt "Choix"
+msgid "You shouldn't hide your art."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/22/s/0
+msgctxt "Choix"
+msgid "What do you expect sharing your secrets with a drunk?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-0/13
+msgctxt "Daisuke"
+msgid "Not embarrassed of my poetry, no."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-0/21
+msgctxt "Daisuke"
+msgid "But I was never encouraged to share it... and I suppose that does something to one's desire to share."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-1/13
+msgctxt "Daisuke"
+msgid "I am not... hiding it, exactly."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-1/21
+msgctxt "Daisuke"
+msgid "But I am not sharing it either, I suppose."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-2/13
+msgctxt "Daisuke"
+msgid "Disrespect Beverly again and this conversation is over."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-2/24
+msgctxt "Daisuke"
+msgid "Beverly is an excellent craftsman and a good listener."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-2/32
+msgctxt "Daisuke"
+msgid "And her taste for poetry is unmatched."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/c-2/40
+msgctxt "Daisuke"
+msgid "I will assume that you do not know her half as well as you should to say such a thing."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/0
+msgctxt "Daisuke"
+msgid "I suppose you must think it strange for a dish as serious as I am to be writing poetry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "I was actually wondering why you stopped."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Not strange. Just hilarious."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "I find it quite romantic, actually."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/c-3/13
+msgctxt "Daisuke"
+msgid "Ah. Why I stopped..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/c-4/13
+msgctxt "Daisuke"
+msgid "What is hilarious about self-expression? Poetry is one of life's most beautiful and noble pursuits."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/c-4/21
+msgctxt "Daisuke"
+msgid "And still, I left it behind me. Perhaps you wonder why."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/c-5/13
+msgctxt "Daisuke"
+msgid "Romantic? My poems were never love poems."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_talk/0/g-0/c-5/21
+msgctxt "Daisuke"
+msgid "But I am glad you seem to be a lover of poetry just the same."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/0
+msgctxt "Narrator"
+msgid "You don't see Daisuke right away—you do, however, smell coffee."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/8 daisuke_dishes/daisuke_ceramics_date/0/c-0/12
+msgctxt "Daisuke"
+msgid "Come in and have a seat."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/16/s/0 daisuke_dishes/daisuke_ceramics_date/0/9/s/0 daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/32/c-0/15/0/s/0 daisuke_dishes/daisuke_poetry_date/0/16/s/0
+msgctxt "Choix"
+msgid "Alright..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/17/s/0 daisuke_dishes/daisuke_ceramics_date/0/10/s/0 daisuke_dishes/daisuke_poetry_date/0/17/s/0 daisuke_dishes/daisuke_friend_end/0/c-0/15/2/s/0 daisuke_dishes/daisuke_hate_end/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "What's going on?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/0 daisuke_dishes/daisuke_ceramics_date/0/g-0/3 daisuke_dishes/daisuke_poetry_date/0/g-0/3
+msgctxt "Daisuke"
+msgid "Our conversation the other day showed me that I have been neglecting myself and my once beloved hobbies."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/8 daisuke_dishes/daisuke_poetry_date/0/g-0/11
+msgctxt "Daisuke"
+msgid "And with my work done for the week I found myself going mad for want of things to keep my hands busy."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/16 daisuke_dishes/daisuke_ceramics_date/0/g-0/19 daisuke_dishes/daisuke_poetry_date/0/g-0/19
+msgctxt "Daisuke"
+msgid "It felt like a good time to remind myself there is more to me than my deep and abiding love for dishware."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/24/s/0 daisuke_dishes/daisuke_ceramics_date/0/g-0/27/s/0 daisuke_dishes/daisuke_poetry_date/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "How is this my business?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/25/s/0 daisuke_dishes/daisuke_ceramics_date/0/g-0/28/s/0 daisuke_dishes/daisuke_poetry_date/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "I'm so happy to hear that."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/26/s/0 daisuke_dishes/daisuke_ceramics_date/0/g-0/29/s/0 daisuke_dishes/daisuke_poetry_date/0/g-0/29/s/0
+msgctxt "Choix"
+msgid "There always has been, Daisuke. Glad you know it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-2/13 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-3/13 daisuke_dishes/daisuke_poetry_date/0/g-0/c-2/13
+msgctxt "Daisuke"
+msgid "You are the reason I was able to have this realization in the first place."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-2/21 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-3/21 daisuke_dishes/daisuke_poetry_date/0/g-0/c-2/21
+msgctxt "Daisuke"
+msgid "Though your rude tone makes me question the wisdom of involving you in a personal moment like this."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-2/29 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-3/29 daisuke_dishes/daisuke_poetry_date/0/g-0/c-2/29
+msgctxt "Daisuke"
+msgid "Still..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-3/13 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-4/13 daisuke_dishes/daisuke_poetry_date/0/g-0/c-3/13
+msgctxt "Daisuke"
+msgid "I'm glad, because you are the reason I came to this realization in the first place."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-3/21/0/s/0 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-4/21/0/s/0 daisuke_dishes/daisuke_poetry_date/0/g-0/c-3/21/0/s/0
+msgctxt "Choix"
+msgid "Me?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-3/21/c-0/7 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-4/21/c-0/7 daisuke_dishes/daisuke_poetry_date/0/g-0/c-3/21/c-0/7
+msgctxt "Daisuke"
+msgid "Indeed."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-4/13 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-5/13 daisuke_dishes/daisuke_poetry_date/0/g-0/c-4/13
+msgctxt "Daisuke"
+msgid "I... have not always known this. Perhaps I still do not."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-0/c-4/21 daisuke_dishes/daisuke_ceramics_date/0/g-0/c-5/21 daisuke_dishes/daisuke_poetry_date/0/g-0/c-4/21
+msgctxt "Daisuke"
+msgid "But I would like to try."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/0
+msgctxt "Daisuke"
+msgid "When you injured me earlier, I was furious."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/8 daisuke_dishes/daisuke_ceramics_date/0/g-1/8 daisuke_dishes/daisuke_poetry_date/0/g-1/8
+msgctxt "Daisuke"
+msgid "I thought my worth lay only in my work, and now someone had taken my work from me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/16 daisuke_dishes/daisuke_ceramics_date/0/g-1/16 daisuke_dishes/daisuke_poetry_date/0/g-1/16
+msgctxt "Daisuke"
+msgid "But being forced to lean on others allowed me to do things differently."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/24 daisuke_dishes/daisuke_ceramics_date/0/g-1/24
+msgctxt "Daisuke"
+msgid "I am embarrassed to admit that you and Cabrizzio have even improved on my process in ways I hadn't imagined. I am far more efficient now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/32
+msgctxt "Daisuke"
+msgid "So if you'll allow me, I would like to make you a cup of coffee to show my gratitude."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "I don't drink coffee..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/41/s/0 daisuke_dishes/daisuke_friend_end/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "I'd love that."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/42/s/0
+msgctxt "Choix"
+msgid "Sure, if you'd like."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/7
+msgctxt "Daisuke"
+msgid "I understand that coffee is not for everyone."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/15
+msgctxt "Daisuke"
+msgid "But if you'd allow me even just the chance to practice my art, you need not drink it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "I said I don't drink coffee, asshole."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "If I don't have to drink it then sure."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/23/c-0/7
+msgctxt "Daisuke"
+msgid "I see. Then I suppose you can leave anytime."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I will, thanks."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/23/c-0/15/c-0/7
+msgctxt "Daisuke"
+msgid "...I almost made a grave mistake. How foolish I have been."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-5/23/c-1/19
+msgctxt "Daisuke"
+msgid "No, it will not be necessary."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-6/13
+msgctxt "Daisuke"
+msgid "I would... thank you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-1/c-7/13
+msgctxt "Daisuke"
+msgid "Thank you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/0
+msgctxt "Narrator"
+msgid "Daisuke turns away from you, working diligently at the kitchen counter. You can't really see what he's doing, but you could almost swear he was... not doing much."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/8
+msgctxt "Narrator"
+msgid "Daisuke hands you a cup of coffee, served in a beautiful ceramic mug."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "Is this one of your own mugs?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "You made that coffee kinda quick, didn't you?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "It looks and smells incredible."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/c-8/13
+msgctxt "Daisuke"
+msgid "Mine? No, no. Mine are in storage."
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/c-9/13
+msgctxt "Daisuke"
+msgid "What difference does the length of time make?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_coffee_date/0/g-2/c-10/13
+msgctxt "Daisuke"
+msgid "Thank you... I have given you my best."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/0
+msgctxt "Narrator"
+msgid "Daisuke smiles pleasantly at you over the mug of coffee. You may not be drinking it, but you can still appreciate the work he put into it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/8
+msgctxt "Narrator"
+msgid "As you lift the coffee to take in its scent, two unpleasant realizations strike you like a thunderbolt:"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/16 daisuke_dishes/daisuke_yes_drink/0/g-0/8
+msgctxt "Narrator"
+msgid "First, this coffee is nearly room temperature."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/24 daisuke_dishes/daisuke_yes_drink/0/g-0/16
+msgctxt "Narrator"
+msgid "Second..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/32/s/0 daisuke_dishes/daisuke_yes_drink/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Is this instant coffee?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/33/s/0 daisuke_dishes/daisuke_yes_drink/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "What kind of coffee is this exactly?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/34/s/0 daisuke_dishes/daisuke_yes_drink/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "What did you do to this coffee?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/c-0/7 daisuke_dishes/daisuke_yes_drink/0/g-0/c-3/7
+msgctxt "Daisuke"
+msgid "Instant coffee is such an ugly name for such a complex flavor."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/c-1/7 daisuke_dishes/daisuke_yes_drink/0/g-0/c-4/7
+msgctxt "Daisuke"
+msgid "Exactly?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/c-2/7 daisuke_dishes/daisuke_yes_drink/0/g-0/c-5/7
+msgctxt "Daisuke"
+msgid "I prepared it in accordance with my years of experience."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/c-2/15 daisuke_dishes/daisuke_yes_drink/0/g-0/c-4/15 daisuke_dishes/daisuke_yes_drink/0/g-0/c-5/15
+msgctxt "Daisuke"
+msgid "This is Folders QuikCafe Hazelnut On the Go Roast."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/c-2/23 daisuke_dishes/daisuke_yes_drink/0/g-0/c-5/23
+msgctxt "Daisuke"
+msgid "The jar has a lovely cup of coffee on it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-0/0/s/0 daisuke_dishes/daisuke_yes_drink/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "You spent years studying coffee only to use Folders coffee crystals?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-0/c-3/7 daisuke_dishes/daisuke_yes_drink/0/g-1/c-6/7
+msgctxt "Daisuke"
+msgid "Naturally. I have tried many different methods and coffee beans."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-0/c-3/15 daisuke_dishes/daisuke_yes_drink/0/g-1/c-6/15
+msgctxt "Daisuke"
+msgid "But in the end, Folders remains unmatched."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-0/c-3/23
+msgctxt "Daisuke"
+msgid "But please... tell me what you think."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "It smells and looks lovely."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "It looks and smells like coffee."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "This is a joke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-4/13 daisuke_dishes/daisuke_yes_drink/0/g-1/c-7/13
+msgctxt "Daisuke"
+msgid "Really? I'm... so glad you think so."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-4/24 daisuke_dishes/daisuke_yes_drink/0/g-1/c-7/24
+msgctxt "Daisuke"
+msgid "Kopi refused to try it. She claimed it was an insult to what she does."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-4/32 daisuke_dishes/daisuke_yes_drink/0/g-1/c-7/32
+msgctxt "Daisuke"
+msgid "But I suppose many visionaries ahead of their time are misunderstood."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-5/13 daisuke_dishes/daisuke_yes_drink/0/g-1/c-8/13
+msgctxt "Daisuke"
+msgid "Thank you... you are kind."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-5/21
+msgctxt "Daisuke"
+msgid "I could not get Kopi to say as much, and she's supposedly an expert on coffee."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/13 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/13
+msgctxt "Daisuke"
+msgid "Pearls before swine. I see now that I was wrong to think you could understand."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/0/s/0 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/0/s/0
+msgctxt "Choix"
+msgid "If this is understanding you I'm good."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/1/s/0 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/1/s/0
+msgctxt "Choix"
+msgid "Look, you're great, but your coffee is not."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/c-0/7 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/c-0/7
+msgctxt "Narrator"
+msgid "Daisuke moves to snatch the coffee from your hand, but the mug handle catches on your knuckles and tumbles to the floor, shattering into pieces."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/c-0/18 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/c-0/18
+msgctxt "Daisuke"
+msgid "Get. Out."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/c-0/29/0/s/0 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/c-0/29/0/s/0
+msgctxt "Choix"
+msgid "Gladly."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/c-1/13 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/c-1/13
+msgctxt "Daisuke"
+msgid "Is that meant to soften your insult somehow?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/c-1/21 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/c-1/21
+msgctxt "Daisuke"
+msgid "If you cannot appreciate my hard work then I'm afraid we are finished here."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-1/c-6/21/c-1/29/0/s/0 daisuke_dishes/daisuke_yes_drink/0/g-1/c-9/21/c-1/29/0/s/0
+msgctxt "Choix"
+msgid "If you say so..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/0
+msgctxt "Daisuke"
+msgid "It pleases me that you appreciated my coffee. To tell you the truth, watching you gaze upon it... I feel..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/8 daisuke_dishes/daisuke_yes_drink/0/g-2/8
+msgctxt "Daisuke"
+msgid "Warm inside."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/16/s/0 daisuke_dishes/daisuke_yes_drink/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "You make me feel warm inside too, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/17/s/0 daisuke_dishes/daisuke_yes_drink/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "I hope it's a friendly warmth."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/18/s/0 daisuke_dishes/daisuke_yes_drink/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "Eww."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/c-7/13 daisuke_dishes/daisuke_yes_drink/0/g-2/c-10/13
+msgctxt "Daisuke"
+msgid "I am truly glad to hear it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/c-8/13 daisuke_dishes/daisuke_yes_drink/0/g-2/c-11/13
+msgctxt "Daisuke"
+msgid "It is certainly not unfriendly."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/c-9/13 daisuke_dishes/daisuke_yes_drink/0/g-2/c-12/13
+msgctxt "Daisuke"
+msgid "'Eww'?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-2/c-9/21 daisuke_dishes/daisuke_yes_drink/0/g-2/c-12/21
+msgctxt "Daisuke"
+msgid "Well... I suppose disgust with me is preferable to disgust with my work."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-3/0 daisuke_dishes/daisuke_yes_drink/0/g-3/0
+msgctxt "Daisuke"
+msgid "I won't soon forget this."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-3/8 daisuke_dishes/daisuke_yes_drink/0/g-3/8 daisuke_dishes/daisuke_sweet_poem/0/g-0/11 daisuke_dishes/daisuke_friend_poem/0/g-1/8
+msgctxt "Daisuke"
+msgid "Thank you for being here with me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-3/16/s/0 daisuke_dishes/daisuke_yes_drink/0/g-3/16/s/0 daisuke_dishes/daisuke_sweet_poem/0/g-0/19/s/0 daisuke_dishes/daisuke_friend_poem/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "You're welcome, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-3/17/s/0 daisuke_dishes/daisuke_yes_drink/0/g-3/17/s/0
+msgctxt "Choix"
+msgid "I wish I could forget it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-3/18/s/0 daisuke_dishes/daisuke_yes_drink/0/g-3/18/s/0 daisuke_dishes/daisuke_sweet_poem/0/g-0/21/s/0
+msgctxt "Choix"
+msgid "It was my pleasure."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-3/c-10/7 daisuke_dishes/daisuke_no_drink/0/g-3/c-12/7 daisuke_dishes/daisuke_yes_drink/0/g-3/c-13/7 daisuke_dishes/daisuke_yes_drink/0/g-3/c-15/7 daisuke_dishes/daisuke_sweet_poem/0/g-0/c-3/7 daisuke_dishes/daisuke_sweet_poem/0/g-0/c-5/7
+msgctxt "Narrator"
+msgid "You and Daisuke sit in a pleasant silence together. When it comes time to part, you know neither of you will forget this moment."
+msgstr ""
+
+#: daisuke_dishes/daisuke_no_drink/0/g-3/c-11/15 daisuke_dishes/daisuke_yes_drink/0/g-3/c-14/15 daisuke_dishes/daisuke_sweet_poem/0/g-0/c-4/15
+msgctxt "Narrator"
+msgid "You and Daisuke sit in awkward silence together. When it comes time to part, you know neither of you will forget this moment."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/0
+msgctxt "Narrator"
+msgid "Daisuke looks at you as stoically as ever, but there's a hopeful glimmer in his gaze."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/8
+msgctxt "Daisuke"
+msgid "Please... try it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/16/s/0
+msgctxt "Choix"
+msgid "Here we go."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/17/s/0
+msgctxt "Choix"
+msgid "Down the hatch."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/18/s/0
+msgctxt "Choix"
+msgid "Thanks again."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/g-0/0
+msgctxt "Narrator"
+msgid "As you bring the coffee to your lips to take a sip, two unpleasant realizations strike you like a thunderbolt:"
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "It's... so delicious."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "It's so... coffee."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/g-1/3/s/0
+msgctxt "Choix"
+msgid "This is vile."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/g-1/c-6/23
+msgctxt "Daisuke"
+msgid "But please, tell me what you think."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/g-1/c-8/21
+msgctxt "Daisuke"
+msgid "I could not get Kopi to say as much, and she is supposedly an expert on coffee."
+msgstr ""
+
+#: daisuke_dishes/daisuke_yes_drink/0/g-2/0
+msgctxt "Daisuke"
+msgid "It pleases me that you appreciated my coffee. To tell you the truth, watching you gaze upon it, I feel..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/0
+msgctxt "Daisuke"
+msgid "I love ceramics."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/8/s/0 daisuke_dishes/daisuke_love_end/0/8/s/0 daisuke_dishes/daisuke_friend_end/0/8/s/0 daisuke_dishes/daisuke_hate_end/0/8/s/0
+msgctxt "Choix"
+msgid "Daisuke?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/c-0/7
+msgctxt "Narrator"
+msgid "You don't see Daisuke right away, but you hear his voice from somewhere in the kitchen."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-0/11
+msgctxt "Daisuke"
+msgid "And with my work done for the week, I found myself going mad for want of things to keep my hands busy."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/0 daisuke_dishes/daisuke_poetry_date/0/g-1/0
+msgctxt "Daisuke"
+msgid "When you injured me earlier I was furious."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/32
+msgctxt "Daisuke"
+msgid "So if you'll allow me, I would like to invite you to indulge in my most beloved pastime... ceramics."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/40
+msgctxt "Narrator"
+msgid "He gestures grandly to a spread on the table, which boasts a few slabs of clay, some assorted tools for shaping and cutting, sponges, and twin bowls of water for keeping the clay moist."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/48/s/0
+msgctxt "Choix"
+msgid "I'm not much of an artist..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/49/s/0
+msgctxt "Choix"
+msgid "Oh."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/50/s/0
+msgctxt "Choix"
+msgid "Oh how fun!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/c-6/13
+msgctxt "Daisuke"
+msgid "We are not here to get your piece into an art gallery."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/c-6/21
+msgctxt "Daisuke"
+msgid "It is about connecting with craftsmen through the ages by engaging in their ancient art form."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/c-7/13
+msgctxt "Daisuke"
+msgid "I will assume the unspoken words after 'oh' are 'what fun', and that you are in fact delighted and not disgusted."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/c-8/13
+msgctxt "Daisuke"
+msgid "Yes, but even more than that... we will be connecting with an ancient tradition larger than either of us."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-1/c-8/21
+msgctxt "Daisuke"
+msgid "In this way you can experience a small piece of immortality."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/0
+msgctxt "Narrator"
+msgid "Daisuke doesn't leave you much choice, so you take a seat and put your hands on the clay, working it into a crude sort of bowl."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/8
+msgctxt "Daisuke"
+msgid "You are a natural."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/16
+msgctxt "Narrator"
+msgid "You don't feel like a natural, but he sounds sincere enough."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/24
+msgctxt "Narrator"
+msgid "You look over at Daisuke to see how he's faring, and what you see shocks you to your very core."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/32
+msgctxt "Narrator"
+msgid "A misshapen lump of clay, presumably intended to be a pot, with walls of varying thicknesses sits in front of him."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/40
+msgctxt "Narrator"
+msgid "It is an eyesore."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/48
+msgctxt "Daisuke"
+msgid "Hoping for some inspiration?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/56/s/0
+msgctxt "Choix"
+msgid "What the hell happened to your clay?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/57/s/0
+msgctxt "Choix"
+msgid "Oh my god, Daisuke, wow."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/58/s/0
+msgctxt "Choix"
+msgid "Yes and I am not disappointed."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/c-9/13
+msgctxt "Daisuke"
+msgid "My skilled hands have shaped it. Why do you look so disgusted?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/c-9/24
+msgctxt "Daisuke"
+msgid "You cannot look upon a work in progress and see it as it will be."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/c-9/32
+msgctxt "Daisuke"
+msgid "But I understand—a novice eye will have trouble seeing the vision."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/c-10/13
+msgctxt "Daisuke"
+msgid "You are kind, but please, do not be hard on yourself if you cannot make anything similar today."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-2/c-11/7
+msgctxt "Daisuke"
+msgid "Your praise humbles me—but please, do not expect the same performance from yourself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/0
+msgctxt "Daisuke"
+msgid "It took me many years of study to reach this skill level."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/8
+msgctxt "Daisuke"
+msgid "But someday, if you apply yourself, you'll be able to create a pot like mine."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/19
+msgctxt "Narrator"
+msgid "The creation Daisuke has generously called a pot lists to one side, a large piece of clay dropping off of it onto the table."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/27
+msgctxt "Daisuke"
+msgid "Now that you have laid your hands upon the clay for yourself, do you understand?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/35
+msgctxt "Daisuke"
+msgid "The deep bond between an artisan and his pottery... the love that goes into creating dishes and pots since humanity first encountered clay."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/43/s/0
+msgctxt "Choix"
+msgid "I think I could understand it better if you helped me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/44/s/0
+msgctxt "Choix"
+msgid "Oh yeah, totally."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/45/s/0
+msgctxt "Choix"
+msgid "All I got from this is that you are history's worst potter."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-12/7
+msgctxt "Daisuke"
+msgid "Oh?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-13/13
+msgctxt "Daisuke"
+msgid "I am glad to hear it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-13/24
+msgctxt "Daisuke"
+msgid "It has meant so much to me to show you this part of my own personal history. Thank you for being open to it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-13/32/0/s/0
+msgctxt "Choix"
+msgid "It was my pleasure, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-13/32/c-0/7
+msgctxt "Daisuke"
+msgid "Leave your pot here please—I will fire it for you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-13/32/c-0/15/0/s/0 daisuke_dishes/daisuke_spicy_pot/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "I didn't think we had a kiln here... I mean, this is my house, right."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-13/32/c-0/15/c-0/7 daisuke_dishes/daisuke_spicy_pot/0/g-0/c-3/7
+msgctxt "Daisuke"
+msgid "This clay is formulated to be baked at home, so do not worry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-13/32/c-0/15/c-0/15 daisuke_dishes/daisuke_spicy_pot/0/g-0/c-3/15
+msgctxt "Narrator"
+msgid "It's hard not to worry just a little, but you do as he asks."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/13
+msgctxt "Daisuke"
+msgid "...I see."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/24
+msgctxt "Daisuke"
+msgid "Leave your pot here, please, and leave me to my clay."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/32/0/s/0
+msgctxt "Choix"
+msgid "Don't be upset..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/32/1/s/0
+msgctxt "Choix"
+msgid "Can't even take a little critique?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/32/c-0/7
+msgctxt "Daisuke"
+msgid "I am not upset."
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/32/c-1/7
+msgctxt "Daisuke"
+msgid "I will not tolerate such disrespect in this hallowed place. Go, <i>now.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_ceramics_date/0/g-3/c-14/32/c-1/18/0/s/0 daisuke_dishes/daisuke_hate_end/0/g-1/c-4/26/1/s/0
+msgctxt "Choix"
+msgid "Whatever."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/6
+msgctxt "Narrator"
+msgid "Daisuke stands, coming around to position himself behind you. You can feel warmth radiating from his muscled body."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/14
+msgctxt "Daisuke"
+msgid "You have a good start here... but you must connect with your clay."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/22
+msgctxt "Narrator"
+msgid "His hands cover yours, curling them over the beginning of your pot and completely destroying the shape you'd painstakingly pulled it into."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/30/s/0
+msgctxt "Choix"
+msgid "Does this remind you of a certain... romantic pottery movie?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/31/s/0
+msgctxt "Choix"
+msgid "Nooo!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/32/s/0
+msgctxt "Choix"
+msgid "It's hard to think when you're this close to me..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-0/7
+msgctxt "Daisuke"
+msgid "I have no idea what that is. But there is a film that was popular some years ago, called Toast..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-0/15
+msgctxt "Daisuke"
+msgid "It contained a scene where a deceased baker's ghost visited his wife in the kitchen, helping her spread butter onto the titular Toast of the film with his hands over hers."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-0/23
+msgctxt "Daisuke"
+msgid "It was... deeply romantic."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Kind of like now, really..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-0/31/c-0/15
+msgctxt "Narrator"
+msgid "You stand together, his hands on yours, his chest to your back, in a sort of horny silence."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-1/7
+msgctxt "Daisuke"
+msgid "Shhhh..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-1/15
+msgctxt "Narrator"
+msgid "A clay-covered finger presses gently against your lips, an earthy scent filling your nose. His finger is coated in a dry clay mud. It makes you want to die just a little."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-1/23
+msgctxt "Daisuke"
+msgid "Do not speak. Simply feel the clay between your fingers..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-2/7
+msgctxt "Daisuke"
+msgid "...I feel it too."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/c-2/15
+msgctxt "Daisuke"
+msgid "Normally my thoughts are of nothing but clay, but... all I can think of is your hands beneath mine."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/g-0/0
+msgctxt "Narrator"
+msgid "Daisuke finally steps away, but his voice sounds a bit lower than you remember when he finally speaks."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/g-0/8
+msgctxt "Daisuke"
+msgid "If I do not leave now I am afraid I will not be able to finish my own work."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/g-0/16
+msgctxt "Daisuke"
+msgid "Thank you for indulging me tonight. It has been an honor to share something so personal of myself with you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_spicy_pot/0/g-0/24
+msgctxt "Daisuke"
+msgid "I will fire your pot for you, simply leave it here."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/0
+msgctxt "Narrator"
+msgid "You don't see Daisuke right away—but as you approach you hear him calling out to you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/8
+msgctxt "Daisuke"
+msgid "Please, come in."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/24
+msgctxt "Daisuke"
+msgid "I am embarrassed to admit that you and Cabrizzio have even improved on my processes in ways I hadn't imagined. I am far more efficient now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/32
+msgctxt "Daisuke"
+msgid "So if you'll allow me, I would like to invite you to indulge in a passion of mine... poetry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/40
+msgctxt "Narrator"
+msgid "He gestures to a table laid out with paper, pens, and a few lit candles. It's all terribly romantic."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/48/s/0
+msgctxt "Choix"
+msgid "I'm not really much of a poet..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/49/s/0
+msgctxt "Choix"
+msgid "Oh how wonderful."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/50/s/0
+msgctxt "Choix"
+msgid "Oh... poetry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/c-5/13
+msgctxt "Daisuke"
+msgid "You needn't be a professional to experience the beauty of poetry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/c-5/21
+msgctxt "Daisuke"
+msgid "Besides, if you get stuck, I am happy to help you. You have only to ask."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/c-6/13
+msgctxt "Daisuke"
+msgid "Your enthusiasm touches me. I am happy we share an appreciation for the arts."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/c-7/13
+msgctxt "Daisuke"
+msgid "I am going to presume you are simply bowled over by the moment, or perhaps intimidated by the enormity of what I have just shared with you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-1/c-7/21
+msgctxt "Daisuke"
+msgid "In any case, do not be. You do not have to be a poet to participate in the beauty of creation."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/0
+msgctxt "Narrator"
+msgid "Daisuke guides you to sit, not leaving you much choice in the matter. You take a seat, and watch as he takes up his pen."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/8
+msgctxt "Daisuke"
+msgid "Let us begin then. Do not overthink it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/16
+msgctxt "Daisuke"
+msgid "Poetry is best when it flows from your mind to the pen with as little interference and delay as possible."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/24
+msgctxt "Daisuke"
+msgid "Do not overwork your words, and do not worry about how it sounds. Simply write with your heart."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "Well that sounds nice."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "Easier said than done."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/34/s/0
+msgctxt "Choix"
+msgid "This is going to be terrible."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/c-8/13
+msgctxt "Daisuke"
+msgid "It is as nice as it sounds."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/c-9/13
+msgctxt "Daisuke"
+msgid "Not at all. Simply cut any thought off at the root before it can blossom into a weed of distraction."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-2/c-10/13
+msgctxt "Daisuke"
+msgid "If you begin with such an attitude anything you do will be terrible and rotted to the core. Clear your mind and leave your negativity behind."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-3/0
+msgctxt "Daisuke"
+msgid "Let us begin."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-3/8
+msgctxt "Narrator"
+msgid "Daisuke's pen begins scratching against the paper immediately—perhaps he's inspired already, or perhaps he's been preparing for this moment. You, on the other hand, simply stare down at the blank paper before you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-3/16/s/0
+msgctxt "Choix"
+msgid "<i>Write a love poem for Daisuke.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-3/17/s/0
+msgctxt "Choix"
+msgid "<i>Write a haiku about friendship.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_poetry_date/0/g-3/18/s/0
+msgctxt "Choix"
+msgid "<i>Write a dirty limerick.</i>"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/0 daisuke_dishes/friend_poem/0/0 daisuke_dishes/dirty_limerick/0/0
+msgctxt "Narrator"
+msgid "You feel inspired by what's been building between you and Daisuke, and you remember that Beverly said Daisuke would love a poem written for him. You begin to write."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/8 daisuke_dishes/friend_poem/0/8 daisuke_dishes/dirty_limerick/0/8
+msgctxt "Daisuke"
+msgid "You are writing away there. I look forward to seeing what you have produced."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/16/s/0 daisuke_dishes/friend_poem/0/16/s/0 daisuke_dishes/dirty_limerick/0/16/s/0
+msgctxt "Choix"
+msgid "I'm ready to share now, actually."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/c-0/7 daisuke_dishes/friend_poem/0/c-0/7 daisuke_dishes/dirty_limerick/0/c-0/7
+msgctxt "Daisuke"
+msgid "Already? Wonderful."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "I call it 'Ode to Dishware'"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "It's called 'Daisuke Lemme Smash'"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "It's called 'untitled'."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-1/7
+msgctxt "Daisuke"
+msgid "Wow, an excellent start."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "'I fell in love with dishware. They say ugly? I'm like bish, where? He's handsome and hot, a loser he's not, and I hope he'll let me kiss... there.'"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-2/7
+msgctxt "Daisuke"
+msgid "Hm. Sounds a bit violent."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "No no, smash means... something else."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-2/15/c-0/7
+msgctxt "Daisuke"
+msgid "I will take your word for it. But go ahead."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-2/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "'Daisuke lemme smash... I knew it was love when I saw your fine ash. You can crack my dishes papi, you're so original, no copy. Let me get in those fine china guts. Anyone who doesn't like you can choke on deez nuts.'"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-3/7
+msgctxt "Daisuke"
+msgid "Oh, I see. Well, a title can take time... but go on."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "'How to sum up my feelings for you, Daisuke? You're very nice, 'k.'"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-3/15/c-0/7
+msgctxt "Daisuke"
+msgid "Done already?"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-0/c-3/15/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "It's a work in progress, you know?"
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-1/0 daisuke_dishes/friend_poem/0/g-1/0
+msgctxt "Narrator"
+msgid "Daisuke stares at you in silence for a few interminable moments."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-1/8 daisuke_dishes/friend_poem/0/g-1/8
+msgctxt "Daisuke"
+msgid "That... was..."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-1/16
+msgctxt "Daisuke"
+msgid "INCREDIBLE."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-1/27
+msgctxt "Daisuke"
+msgid "I have never been given such a personal gift... thank you."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-1/35
+msgctxt "Narrator"
+msgid "You could swear you see tears glimmering at the edges of his eyes."
+msgstr ""
+
+#: daisuke_dishes/love_poem/0/g-1/46
+msgctxt "Daisuke"
+msgid "I am so moved, I barely know how to share my own now. But let me get on with it, before I embarrass myself making a scene."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "It's called 'Let's Bee Friends.' You know, like a bumblebee."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "It's called 'You Are Pretty Cool'."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "It's called 'D A I S U K E'. It's an acrostic."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/c-1/7
+msgctxt "Daisuke"
+msgid "How sweet."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "'Let's bee friends. The buzz around the house is you're pretty neat. Would you bee my honey?' Platonically. That part isn't in the poem, just FYI."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/c-2/7
+msgctxt "Daisuke"
+msgid "To the point."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "'You are pretty cool. If you were a major I'd study you in school. If I was a mafioso you'd be my gabagool. It's time to end this poem before I sound like a tool.'"
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/c-3/7
+msgctxt "Daisuke"
+msgid "Impressive."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "D - Damn. A - Awesome. I - Intelligent. S - Sexy. U - Unique. K - King-like. E - Excellent."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-1/16
+msgctxt "Daisuke"
+msgid "BEAUTIFUL."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-1/27
+msgctxt "Daisuke"
+msgid "I have never received such a personal gift before... I am so touched I hardly know how to carry on."
+msgstr ""
+
+#: daisuke_dishes/friend_poem/0/g-1/35
+msgctxt "Daisuke"
+msgid "Please, let me read you mine before I make a fool of myself."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "It's called 'The man who boned dishes.'"
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "It's called 'There once was a dish in my house.'"
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "It's called 'The dish who cracked.'"
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-1/7
+msgctxt "Daisuke"
+msgid "I... hm. Alright."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-1/15
+msgctxt "Daisuke"
+msgid "As your UI option constraints are rather lacking, I will read it myself. Though I have my doubts already..."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-1/23
+msgctxt "Daisuke"
+msgid "'There once was a man who boned dishes. It went so badly his dick needed stitches. He went to the doctor, got shoved in a locker, and now he's sleeping with the fishes.'"
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-2/7
+msgctxt "Daisuke"
+msgid "Well... that sounds promising."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-2/15
+msgctxt "Daisuke"
+msgid "As your UI option constraints are rather lacking, I will read it myself."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-2/23
+msgctxt "Daisuke"
+msgid "'There once was a dish in my house, he made me write poems, that louse. He sucked really bad, I hope he gets mad, he's going to die alone with no spouse.'"
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-3/7
+msgctxt "Daisuke"
+msgid "I do not like where this is going..."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-3/18
+msgctxt "Daisuke"
+msgid "As your UI option constraints are rather lacking, I will read it myself... though I do not relish the opportunity."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-0/c-3/26
+msgctxt "Daisuke"
+msgid "'There once was a dish who cracked, under the pressure of all that he lacked. He cried all day long, his shit was all wrong, and his friends all prayed he'd be smacked.'"
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/3
+msgctxt "Narrator"
+msgid "Daisuke is silent for a long time, but his normally stoic face is creased into a frown."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/11
+msgctxt "Daisuke"
+msgid "That was... not what I expected."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/19
+msgctxt "Daisuke"
+msgid "Perhaps I have asked too much of you too quickly..."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/27
+msgctxt "Daisuke"
+msgid "I think perhaps we have shared enough with each other."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "You should read yours."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "I'm gonna get out of here, then."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/c-4/7
+msgctxt "Daisuke"
+msgid "No, thank you. This does not feel like a safe environment."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/c-4/15
+msgctxt "Daisuke"
+msgid "Poetry should be shared with those who appreciate it—and it is clear you do not have the soul for poetry."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "Them's fighting words."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/c-4/23/1/s/0
+msgctxt "Choix"
+msgid "You're the one who made me do this..."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/c-4/23/c-0/7
+msgctxt "Daisuke"
+msgid "Perhaps, but I have no wish to fight you. Leave me now."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/c-4/23/c-1/7
+msgctxt "Daisuke"
+msgid "Yes, and I was a fool to do so. Leave me."
+msgstr ""
+
+#: daisuke_dishes/dirty_limerick/0/g-1/c-5/7
+msgctxt "Daisuke"
+msgid "Yes, please do."
+msgstr ""
+
+#: daisuke_dishes/poems_resume/0
+msgctxt "Narrator"
+msgid "Daisuke clears his throat, looking down at his paper with some mix of pride and excitement."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/0
+msgctxt "Daisuke"
+msgid "Since you entered my life, I have been renewed, like a forgotten subscription to a magazine."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/8
+msgctxt "Daisuke"
+msgid "Your beautiful smile bathes me in sweetness, like a jar full of honey that has been knocked over on the shelf."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/16
+msgctxt "Daisuke"
+msgid "The day you fell on top of me was a day of great change, like a pocket filled with quarters."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/24
+msgctxt "Daisuke"
+msgid "I hope we will fall on top of each other in a different setting one day."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/32
+msgctxt "Narrator"
+msgid "He stops there, looking at you expectantly. It seems that is it, and he is deeply proud of himself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/40/s/0
+msgctxt "Choix"
+msgid "I can't believe you wrote that so quickly."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/41/s/0
+msgctxt "Choix"
+msgid "Oh Daisuke, that was so beautiful."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/42/s/0
+msgctxt "Choix"
+msgid "You spent years writing poetry and that was the best you can do?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-0/13
+msgctxt "Narrator"
+msgid "Daisuke beams at you. You've never seen him smile with all his teeth before."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-0/24
+msgctxt "Daisuke"
+msgid "Poetry comes naturally to me. It is nothing."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-0/32
+msgctxt "Daisuke"
+msgid "Just as sweetness it seems comes naturally to you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-1/13
+msgctxt "Daisuke"
+msgid "You are too kind. Thank you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/13
+msgctxt "Daisuke"
+msgid "You... don't like it?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/0/s/0
+msgctxt "Choix"
+msgid "I feel like you can probably do better."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/1/s/0
+msgctxt "Choix"
+msgid "I'm still grateful!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/2/s/0
+msgctxt "Choix"
+msgid "Never pick up a pen again."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/c-0/7
+msgctxt "Daisuke"
+msgid "I see. I was wrong about you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/c-0/15 daisuke_dishes/daisuke_sweet_poem/0/c-2/24/c-1/15
+msgctxt "Daisuke"
+msgid "I thought you had an artist's soul... but there is nothing but cold darkness in your chest."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/c-1/7
+msgctxt "Daisuke"
+msgid "Keep your gratitude."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/c-2/7
+msgctxt "Daisuke"
+msgid "It is not for you to tell me what to do."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/c-2/15
+msgctxt "Daisuke"
+msgid "I will pick up my pen as I please—but not for you. Never again."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/g-0/0
+msgctxt "Narrator"
+msgid "Daisuke balls up the paper in his hands suddenly, crushing it with his fist. He looks angrier than you've ever seen him."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/c-2/24/g-0/8
+msgctxt "Daisuke"
+msgid "I have nothing more to say to you. Go."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/g-0/3 daisuke_dishes/daisuke_friend_poem/0/g-1/0
+msgctxt "Daisuke"
+msgid "It has meant much to me to be able to share this part of myself with you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_sweet_poem/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "Oh yeah, whatever."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/0
+msgctxt "Daisuke"
+msgid "A is for Awesome, that is you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/8
+msgctxt "Daisuke"
+msgid "B is for Bodacious, which you are too."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/16
+msgctxt "Daisuke"
+msgid "C is for Cool, that you knew."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/24
+msgctxt "Daisuke"
+msgid "D is for Dishware, steadfast and true."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/32
+msgctxt "Daisuke"
+msgid "E is for Excellence, in friendship and all that you do..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/40
+msgctxt "Narrator"
+msgid "Daisuke continues in this fashion, going through each letter of the alphabet one by one, each accompanied by a very elementary rhyme and some mildly positive statement."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/48
+msgctxt "Daisuke"
+msgid "...and z is for Zebra, let's go to the Zoo."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/56
+msgctxt "Narrator"
+msgid "When he finishes he beams at you, clearly expecting something. He seems very proud of himself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/64/s/0
+msgctxt "Choix"
+msgid "That was..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/c-0/7
+msgctxt "Daisuke"
+msgid "...yes?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "The greatest thing I've ever heard."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "A joke, right?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "A poem."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-1/16
+msgctxt "Daisuke"
+msgid "Thank you, my friend."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-1/27
+msgctxt "Daisuke"
+msgid "Your friendship of late has truly been a gift, and I only hoped to try and sum up what you've given me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-1/35
+msgctxt "Daisuke"
+msgid "It seemed an impossible thing to put to words, but your appreciation gladdens me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-1/43
+msgctxt "Daisuke"
+msgid "Thank you for being here with me tonight. I'll not soon forget this."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/13
+msgctxt "Narrator"
+msgid "The room feels ten degrees colder. Daisuke narrows his eyes at you, and you realize you've never seen him this angry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/24
+msgctxt "Daisuke"
+msgid "There is nothing more serious than poetry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/32
+msgctxt "Daisuke"
+msgid "If you cannot respect that then there is nothing for us to speak about here."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/40
+msgctxt "Narrator"
+msgid "He crumples the paper in his hand, his nostrils flaring with barely restrained anger."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/48
+msgctxt "Daisuke"
+msgid "Leave. <i>Now.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/59/0/s/0
+msgctxt "Choix"
+msgid "Don't be like that, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/59/1/s/0
+msgctxt "Choix"
+msgid "Alright then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/59/c-0/7 daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/59/c-1/7
+msgctxt "Daisuke"
+msgid "I will 'be like' whatever I desire. I have nothing more to say to you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/59/c-0/15 daisuke_dishes/daisuke_friend_poem/0/g-0/c-2/59/c-1/15
+msgctxt "Narrator"
+msgid "Daisuke turns his back to you, not even waiting for you to get up and leave. You find yourself with little choice left."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-3/16
+msgctxt "Daisuke"
+msgid "Well that is certainly what I had intended. I am glad I achieved this aim."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-3/27
+msgctxt "Daisuke"
+msgid "I had hoped perhaps I might convey what your friendship has meant to me of late."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-0/c-3/35
+msgctxt "Daisuke"
+msgid "But I suppose I will content myself with having achieved 'a poem'."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-1/c-4/7
+msgctxt "Narrator"
+msgid "You and Daisuke sit in a pleasant silence together. There's a real comfort between the two of you, an unspoken friendship that lives in the quiet."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_poem/0/g-1/c-4/15
+msgctxt "Narrator"
+msgid "It's clear tonight has meant quite a bit to Daisuke. You find yourself glad you came."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/0
+msgctxt "Daisuke"
+msgid "I hate your dumb face."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/8
+msgctxt "Daisuke"
+msgid "You are unworthy of art."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/16
+msgctxt "Daisuke"
+msgid "You will die alone."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/24
+msgctxt "Narrator"
+msgid "Daisuke looks at you with a strange expression, some mix of pride in himself and disgust for you, perhaps."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/32/s/0
+msgctxt "Choix"
+msgid "What the hell was that?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/33/s/0 daisuke_dishes/daisuke_hate_end/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Are you mad at me or something?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/34/s/0
+msgctxt "Choix"
+msgid "Your poem wasn't even good..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/c-0/13
+msgctxt "Daisuke"
+msgid "A haiku."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/c-0/21/0/s/0
+msgctxt "Choix"
+msgid "I get that. I meant the content of it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/c-0/21/c-0/7
+msgctxt "Daisuke"
+msgid "It is as I said. You sicken me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/c-1/7
+msgctxt "Daisuke"
+msgid "Mad at you? No."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/c-1/15
+msgctxt "Daisuke"
+msgid "I am only disgusted to the depths of my soul."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/c-2/7
+msgctxt "Daisuke"
+msgid "Your opinion is worthless to me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/0
+msgctxt "Daisuke"
+msgid "You have disrespected me and the dishes at every turn, and have no soul or appreciation for art whatsoever."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/8
+msgctxt "Daisuke"
+msgid "Your assistance with the deliveries merited gratitude of a sort, so I have blessed you with your very own poem."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/16
+msgctxt "Daisuke"
+msgid "But your disrespect deserved nothing more."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/24
+msgctxt "Narrator"
+msgid "Daisuke balls the poem up in his fist and tosses it at you. It bounces harmlessly off your forehead."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/32
+msgctxt "Daisuke"
+msgid "I have nothing more to say to you now. See yourself out."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/40
+msgctxt "Narrator"
+msgid "He turns his back to you before you can even respond."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "Bye then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "I'm not leaving because you told me to, just so you know."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-0/50/s/0
+msgctxt "Choix"
+msgid "I'm sorry Daisuke..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_poem/0/g-1/0
+msgctxt "Narrator"
+msgid "Daisuke says nothing, and does not turn around again. You take your leave."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/0 daisuke_dishes/daisuke_friend_end/0/0
+msgctxt "Narrator"
+msgid "As always, you find Daisuke standing silently, deep in concentration."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/9/s/0
+msgctxt "Choix"
+msgid "I'm always happy to see you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/10/s/0
+msgctxt "Choix"
+msgid "Back to work already?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/11/s/0
+msgctxt "Choix"
+msgid "I just wanted to see how you're doing."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-0/7
+msgctxt "Daisuke"
+msgid "You've come... I'm so glad to see you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-1/7
+msgctxt "Daisuke"
+msgid "And I, you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-1/15
+msgctxt "Daisuke"
+msgid "Your smiling face is a welcome sight, always."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-2/7
+msgctxt "Daisuke"
+msgid "No, actually."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-2/15
+msgctxt "Daisuke"
+msgid "I was just... making plans."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Plans?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-3/7
+msgctxt "Daisuke"
+msgid "I am doing well, thanks to you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/c-3/15
+msgctxt "Daisuke"
+msgid "Better than I have in a very, very long time."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/0
+msgctxt "Daisuke"
+msgid "First, I must thank you. When you first ran into me I admit I was angry."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/8
+msgctxt "Daisuke"
+msgid "I was furious thinking of all the work I would be unable to do as I recovered."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/16
+msgctxt "Daisuke"
+msgid "But when you agreed to help me, I began to see that in my pigheaded stubbornness I was creating more work for myself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/24 daisuke_dishes/daisuke_friend_end/0/g-0/48
+msgctxt "Daisuke"
+msgid "Cabrizzio's reorganization and your taking up my deliveries allowed me to see where I had fallen short."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/32
+msgctxt "Daisuke"
+msgid "Not only in my duties... but in my personal life."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "Your personal life?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/41/s/0
+msgctxt "Choix"
+msgid "Don't beat yourself up."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/42/s/0
+msgctxt "Choix"
+msgid "What are you getting at?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/c-4/7
+msgctxt "Daisuke"
+msgid "Yes..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/c-5/7
+msgctxt "Daisuke"
+msgid "I assure you, I am not."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/c-5/15
+msgctxt "Daisuke"
+msgid "Although if I continued the way I was... I likely would have cracked myself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-0/c-6/7
+msgctxt "Daisuke"
+msgid "Well..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/0
+msgctxt "Narrator"
+msgid "Daisuke reaches out to take your hand in his, lifting it to his lips and pressing a gentle kiss to the back of it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/8
+msgctxt "Daisuke"
+msgid "I told myself I had no time for selfish pursuits, whether it be hobbies or... something more personal."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/16
+msgctxt "Daisuke"
+msgid "But I have found myself setting aside time I hoped I might spend with you speaking of anything but work."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/24
+msgctxt "Daisuke"
+msgid "I care deeply for you. And if you'll allow me... I'd like to take you on a date."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "I feel the same way, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "I just want to be friends."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/34/s/0
+msgctxt "Choix"
+msgid "Oh no, not this."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/7
+msgctxt "Daisuke"
+msgid "I'm pleased to hear it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/15
+msgctxt "Daisuke"
+msgid "If you'd care to leave here with me..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/23
+msgctxt "Daisuke"
+msgid "There are things I wish to say and do that should not be done in front of the dishware."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/31
+msgctxt "Daisuke"
+msgid "I would hate to rattle them."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/0/s/0
+msgctxt "Choix"
+msgid "I'm gonna crack you in ten different places, baby."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/1/s/0
+msgctxt "Choix"
+msgid "Maybe we could just hold hands tonight?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-0/7
+msgctxt "Daisuke"
+msgid "I welcome you to try."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-0/15
+msgctxt "Narrator"
+msgid "Daisuke sweeps you into his strong arms without warning, taking off up the stairs with you in search of privacy."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-0/23
+msgctxt "Narrator"
+msgid "You're pleased to find out that Daisuke is quite good with his hands—he's not nearly as brittle as you'd have imagined."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-0/34 daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-1/31
+msgctxt "Narrator"
+msgid "You would never have guessed you'd end up here after your first meeting, but now there's nowhere you'd rather be."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-1/7
+msgctxt "Daisuke"
+msgid "That sounds wonderful."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-1/15
+msgctxt "Daisuke"
+msgid "I only wish to be near you... however that may be."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-7/39/c-1/23
+msgctxt "Narrator"
+msgid "Daisuke's fingers intertwine with yours, sending a rush of warmth through your chest. Under that serious exterior is a sweetness and a depth you couldn't have imagined."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-8/7
+msgctxt "Daisuke"
+msgid "You do?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-8/15
+msgctxt "Daisuke"
+msgid "Well. It is a surprise, but I can be content with that."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-8/23
+msgctxt "Daisuke"
+msgid "I cannot imagine you not in my life in some way—if it is to be as a friend, I will be happy indeed."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-8/31/0/s/0
+msgctxt "Choix"
+msgid "I'm so glad."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-8/31/c-0/7
+msgctxt "Daisuke"
+msgid "As am I. Thank you for all you have done for me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-8/31/c-0/15
+msgctxt "Daisuke"
+msgid "Your friendship means the world to me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-8/31/c-0/26
+msgctxt "Narrator"
+msgid "Daisuke is true to his word—despite his feelings for you he never treats you any differently. He bears the same sweet smile for you whenever he sees you—you can't help but be glad things have turned out the way they have."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-9/7
+msgctxt "Daisuke"
+msgid "'Not this'?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-9/18/0/s/0
+msgctxt "Choix"
+msgid "Yeah no. This? Me and you? Not happening."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-9/18/c-0/7
+msgctxt "Daisuke"
+msgid "I do not understand. I thought that we..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-9/18/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You were wrong."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-1/c-9/18/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "I like you, but not like that."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-2/11
+msgctxt "Daisuke"
+msgid "Well. I have taken up enough of your time then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-2/19
+msgctxt "Narrator"
+msgid "A change comes over Daisuke, a sudden and intense shift in the temperature between you. Just like that, it's as if all the conversations you've had prior never occurred."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-2/27
+msgctxt "Daisuke"
+msgid "Leave me to my work, then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-2/35/s/0
+msgctxt "Choix"
+msgid "Alright then..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_end/0/g-2/36/s/0
+msgctxt "Choix"
+msgid "Bye."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/7
+msgctxt "Daisuke"
+msgid "There you are, my friend. Please, make yourself comfortable."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You're in a good mood today."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Is everything okay?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/c-0/7
+msgctxt "Daisuke"
+msgid "Am I? I suppose I am whenever I see you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/c-0/15
+msgctxt "Daisuke"
+msgid "You have a way of raising my spirits without even trying."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/c-1/7
+msgctxt "Daisuke"
+msgid "Oh yes, more than okay."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/c-1/15
+msgctxt "Daisuke"
+msgid "I have found myself happy more often than not these days, and it is in no small part thanks to you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/c-2/7
+msgctxt "Daisuke"
+msgid "Oh, nothing, really."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/c-2/15
+msgctxt "Daisuke"
+msgid "I had just been hoping to see you so I can thank you properly."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/c-0/15/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Thank me?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/0
+msgctxt "Daisuke"
+msgid "Ever since you entered my life things have taken a turn for the better."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/8
+msgctxt "Daisuke"
+msgid "I was working myself into an involuntary retirement before you came along."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/16
+msgctxt "Daisuke"
+msgid "I left myself no time for anything personal. I lost touch entirely with the artist within me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/24
+msgctxt "Daisuke"
+msgid "All I could see was a never-ending cycle of work—one that consumed me entirely."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/32
+msgctxt "Daisuke"
+msgid "When you ran into me so thoughtlessly I was furious at first."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/40
+msgctxt "Daisuke"
+msgid "But when you agreed to help me I began to see that in my pigheaded stubbornness I was creating more work for myself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/56
+msgctxt "Daisuke"
+msgid "And as I began to look around myself I realized that I had... very few friends indeed."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/64/s/0
+msgctxt "Choix"
+msgid "It's hard to imagine someone as nice as you without friends."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/65/s/0
+msgctxt "Choix"
+msgid "No surprises there."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/66/s/0
+msgctxt "Choix"
+msgid "I hate to hear that."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-1/7
+msgctxt "Daisuke"
+msgid "Is it? Well, you are kind to say so, but..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-1/15
+msgctxt "Daisuke"
+msgid "It has been my reality for quite some time now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-1/23
+msgctxt "Daisuke"
+msgid "It was intolerable."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-2/7
+msgctxt "Daisuke"
+msgid "Yes... unfortunately."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-2/15
+msgctxt "Daisuke"
+msgid "I have not been the easiest to get to know, or even to be around in recent years."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-2/23
+msgctxt "Daisuke"
+msgid "I am aware, much as I would prefer to think otherwise."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-3/7
+msgctxt "Daisuke"
+msgid "The sentiment is appreciated, but it's alright."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-0/c-3/15
+msgctxt "Daisuke"
+msgid "That was who I was. But it will not be who I remain."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/0
+msgctxt "Daisuke"
+msgid "Thanks to you and your intervention, such as it was, I have had the time to rediscover myself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/8
+msgctxt "Daisuke"
+msgid "My hobbies, my passions... and who I am as a friend."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/16
+msgctxt "Daisuke"
+msgid "You have shown me that there is so much more to life than carrying out your work."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/24
+msgctxt "Daisuke"
+msgid "And so I say to you, with all the gratitude I can muster—thank you, my friend."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/32
+msgctxt "Daisuke"
+msgid "I hope that from now on you will consider me your dear friend."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "Friend? I wanted to be more..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/42/s/0
+msgctxt "Choix"
+msgid "I'm not considering you anything, weirdo."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/7
+msgctxt "Daisuke"
+msgid "More...? Ah."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/15
+msgctxt "Daisuke"
+msgid "Well. Hm."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/23
+msgctxt "Narrator"
+msgid "Daisuke stares at you so intently you can almost see the gears churning in his head. He's silent for an uncomfortably long time."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/31
+msgctxt "Daisuke"
+msgid "I'm afraid I cannot return those feelings."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/39
+msgctxt "Daisuke"
+msgid "Friendship is one thing, but I do not cross such lines so easily."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/47
+msgctxt "Daisuke"
+msgid "I hope you will reconsider my offer of friendship."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/0/s/0
+msgctxt "Choix"
+msgid "I will, thank you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/1/s/0
+msgctxt "Choix"
+msgid "I will not."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-0/7
+msgctxt "Daisuke"
+msgid "Wonderful. I must confess I'm relieved."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-0/15
+msgctxt "Daisuke"
+msgid "I was afraid for a moment I'd lose you entirely, and that would be truly devastating to me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I'm not going anywhere, Daisuke. We're all good."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-0/23/c-0/7
+msgctxt "Daisuke"
+msgid "Excellent. Your friendship is important to me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-0/23/c-0/15 daisuke_dishes/daisuke_friend_end/0/g-1/c-5/39/c-0/7
+msgctxt "Narrator"
+msgid "He gives you a smile that warms you to the depths of your soul—it's clear you've got a dependable friend for life."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-1/7
+msgctxt "Daisuke"
+msgid "I see. That is... regrettable to say the least."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-1/15
+msgctxt "Daisuke"
+msgid "In that case, I am sorry. I cannot give you what you seek."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-1/23 daisuke_dishes/daisuke_friend_end/0/g-1/c-6/26
+msgctxt "Daisuke"
+msgid "And if you will not respect my offer of friendship then we have nothing more to speak about."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-1/31 daisuke_dishes/daisuke_friend_end/0/g-1/c-6/34
+msgctxt "Daisuke"
+msgid "Leave now."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-4/55/c-1/39 daisuke_dishes/daisuke_friend_end/0/g-1/c-6/42
+msgctxt "Narrator"
+msgid "The shift in Daisuke is subtle but swift—it seems you truly hurt his feelings. Oh well."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-5/7
+msgctxt "Daisuke"
+msgid "Ah, wonderful. I'm happy to hear it."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-5/15
+msgctxt "Daisuke"
+msgid "I was not fully prepared to consider the loss of your friendship in my life."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-5/23
+msgctxt "Daisuke"
+msgid "As suddenly as you have come, you have changed everything for the better."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-5/31
+msgctxt "Daisuke"
+msgid "I am glad you are here."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-5/39/0/s/0
+msgctxt "Choix"
+msgid "Me too."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_end/0/g-1/c-6/18
+msgctxt "Daisuke"
+msgid "I don't know what I've done to receive such disrespect from you. I thought we were friends, but I see that I was wrong."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/0
+msgctxt "Narrator"
+msgid "You can sense Daisuke's presence before you see him."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/c-0/10
+msgctxt "Narrator"
+msgid "Daisuke doesn't even respond to you. You find him in the kitchen, busy with work, but he won't even look you in the eye."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/c-0/18
+msgctxt "Daisuke"
+msgid "It's you. What do you need."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "I see you're as unpleasant as ever."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/c-1/7
+msgctxt "Daisuke"
+msgid "'Mad at you'? No."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/c-1/15
+msgctxt "Daisuke"
+msgid "I am however, disgusted by your entire existence."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/c-2/7
+msgctxt "Daisuke"
+msgid "What's 'going on' is that I am extremely busy, and you, as always, are interrupting me with nonsense."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/c-2/15
+msgctxt "Daisuke"
+msgid "You truly cannot stop thinking about yourself, can you?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/c-2/23
+msgctxt "Daisuke"
+msgid "But then, why am I surprised? It's you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/c-3/7
+msgctxt "Daisuke"
+msgid "Rich coming from you, the household blight."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-0/c-3/15
+msgctxt "Daisuke"
+msgid "There is nothing you cannot ruin, no situation you cannot seize to make about yourself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/0
+msgctxt "Daisuke"
+msgid "Your selfishness knows no bounds."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/8
+msgctxt "Daisuke"
+msgid "Bad enough that you injured me and kept me from my work—but you couldn't handle something as simple as a delivery without being deeply unpleasant."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/16
+msgctxt "Daisuke"
+msgid "Now you're here to do what? Taunt me? Distract me?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/24
+msgctxt "Daisuke"
+msgid "Perhaps you're hoping to finish the job and shatter me outright?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "You need to relax, bro."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "Talk about dramatic. Get over yourself!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/34/s/0
+msgctxt "Choix"
+msgid "Where is all this animosity coming from?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-4/7
+msgctxt "Daisuke"
+msgid "No, actually. I need to return to my work."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-4/15
+msgctxt "Daisuke"
+msgid "And you are in my way—so leave now, before I make you leave."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-4/26/0/s/0
+msgctxt "Choix"
+msgid "Yikes. I'm going."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-4/26/c-0/7 daisuke_dishes/daisuke_hate_end/0/g-1/c-4/26/c-1/7 daisuke_dishes/daisuke_hate_end/0/g-1/c-5/15/g-0/0 daisuke_dishes/daisuke_hate_end/0/g-1/c-6/39
+msgctxt "Narrator"
+msgid "Daisuke ignores you, returning to his work without another word. It's clear that whatever hope for friendship or even more you may have had is shattered for now, like delicate porcelain on the kitchen floor."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-5/7
+msgctxt "Daisuke"
+msgid "I will not. But you can get out."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-5/15/0/s/0
+msgctxt "Choix"
+msgid "Yeah, whatever!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-5/15/1/s/0
+msgctxt "Choix"
+msgid "Fine."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-5/15/2/s/0
+msgctxt "Choix"
+msgid "Get over yourself!!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-6/7
+msgctxt "Daisuke"
+msgid "It is not my job to explain to you why I dislike you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-6/15
+msgctxt "Daisuke"
+msgid "But if you must know..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-6/23
+msgctxt "Daisuke"
+msgid "Quite frankly, you suck."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_end/0/g-1/c-6/31
+msgctxt "Daisuke"
+msgid "Now leave me to my work. I have nothing more to say to you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_joiner/31
+msgctxt "Reggie"
+msgid "Careful... that one's fragile."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/0
+msgctxt "Narrator"
+msgid "You can practically feel the chill in the air as you approach Daisuke. He gives you a look that could curdle milk."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/8
+msgctxt "Daisuke"
+msgid "What."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/16/s/0
+msgctxt "Choix"
+msgid "What do you mean, 'what'?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/7
+msgctxt "Daisuke"
+msgid "What. Do you want."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Please, Daisuke... can't we start over? I don't want to be enemies. (USE POISE CANDY)"
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "I'm just passing through."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-0/15
+msgctxt "Narrator"
+msgid "Daisuke looks deeply into your eyes, studying them in silence. After a long time, he finally speaks."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-0/23
+msgctxt "Daisuke"
+msgid "...this is acceptable. I would prefer to be civil myself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-0/31
+msgctxt "Daisuke"
+msgid "Let us begin anew then, in friendship."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Thank you... let's do that."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-0/39/c-0/7
+msgctxt "Daisuke"
+msgid "I truly am busy, but... perhaps we can chat another time, then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-0/39/c-0/15
+msgctxt "Daisuke"
+msgid "...friend."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-0/39/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I'd like that. See you again."
+msgstr ""
+
+#: daisuke_dishes/daisuke_hate_return/0/c-0/15/c-1/7
+msgctxt "Daisuke"
+msgid "Hurry and get out, then. I'm busy, and you're interrupting me."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/0
+msgctxt "Daisuke"
+msgid "Wonderful to see you, my friend. I hope you are well?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/8/s/0
+msgctxt "Choix"
+msgid "I am, thanks. You?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/9/s/0 daisuke_dishes/daisuke_love_return/0/17/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/7
+msgctxt "Daisuke"
+msgid "Excellent now that you've stopped by."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/15
+msgctxt "Daisuke"
+msgid "Your smile never fails to brighten my day."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/23
+msgctxt "Daisuke"
+msgid "It makes me want to write a poem... or even return to my ceramics."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Oh, well, you seem busy... don't let me and my smile distract you from all that work."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/31/c-0/7
+msgctxt "Daisuke"
+msgid "Oh my, you're right about that."
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/31/c-0/15
+msgctxt "Daisuke"
+msgid "Take care of yourself, and perhaps stop by again later?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/31/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I will. See you around!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_friend_return/0/c-0/31/c-0/23/c-0/7
+msgctxt "Daisuke"
+msgid "'Til next time, friend."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/0
+msgctxt "Daisuke"
+msgid "There you are, my love."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/8
+msgctxt "Daisuke"
+msgid "I had hoped you might come by."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/16/s/0
+msgctxt "Choix"
+msgid "Is everything alright?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/7
+msgctxt "Daisuke"
+msgid "It is now that you are here. Come here."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "<i>Go in for a hug</i>."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "<i>Go for a kiss.</i>"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-0/7
+msgctxt "Narrator"
+msgid "Daisuke wraps his strong arms around you, and for a moment you forget where you are. There's only you and him, and all is right in your world."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-0/15
+msgctxt "Daisuke"
+msgid "You are truly the brightest spot in my day whenever I am lucky enough to see you."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-0/26
+msgctxt "Daisuke"
+msgid "I must return to my duties, but please... find me again soon."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "I will."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-0/34/c-0/7
+msgctxt "Daisuke"
+msgid "Go now, before I throw my arms around you once more and keep you here to myself."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-0/34/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Bye Daisuke..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-1/7
+msgctxt "Narrator"
+msgid "Daisuke wraps his strong arms around you, planting a kiss on you that makes you forget why you even came here in the first place. He fills your senses, overwhelming you with a heat that threatens to consume you entirely."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-1/18
+msgctxt "Daisuke"
+msgid "Mmm. Regretfully, I must stop there... otherwise I will have to take you somewhere more private."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-1/26
+msgctxt "Daisuke"
+msgid "And then none of my work will get done... or yours."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-1/34/0/s/0
+msgctxt "Choix"
+msgid "That's fair, yeah."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-1/34/c-0/7
+msgctxt "Daisuke"
+msgid "Come back later, please. I need to see you again."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-1/34/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I'll see you then, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_return/0/c-0/15/c-1/34/c-0/15/c-0/7
+msgctxt "Daisuke"
+msgid "'Til then, my love."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_join/0/0
+msgctxt "Daisuke"
+msgid "Are you quite certain?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_join/0/17/s/0 daisuke_dishes/daisuke_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "Yes, I have what it takes."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_join/0/18/s/0 daisuke_dishes/daisuke_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_join/0/c-1/10
+msgctxt "Daisuke"
+msgid "Ah. No matter."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_join/0/c-1/18
+msgctxt "Daisuke"
+msgid "I will await your return when you are ready, then."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_return/0/0
+msgctxt "Daisuke"
+msgid "You have returned. Have you made your preparations?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_return/0/8
+msgctxt "Daisuke"
+msgid "Are you fully ready?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_return/0/c-1/10
+msgctxt "Daisuke"
+msgid "Then I will stay here til you're ready."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "If there's anyone I can trust with making sure this whole Realization thing works, it's Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_begin/9
+msgctxt "Skylar"
+msgid "Welcome to your new world, Daisuke!"
+msgstr ""
+
+#: daisuke_dishes/daisuke_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely your dishware, becomes...."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/3
+msgctxt "Daisuke"
+msgid "What is this feeling..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/11
+msgctxt "Daisuke"
+msgid "My hands..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/19
+msgctxt "Narrator"
+msgid "Daisuke holds his hands up in front of him, like a stoner who's only just realized the wonder of his own body."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/27
+msgctxt "Daisuke"
+msgid "The power of these hands..."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/35
+msgctxt "Daisuke"
+msgid "They can create so much."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/43/s/0
+msgctxt "Choix"
+msgid "Your creativity is so inspiring, Daisuke."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/44/s/0
+msgctxt "Choix"
+msgid "Can they do anything else...?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/c-0/7
+msgctxt "Daisuke"
+msgid "Thank you, my friend. You will not regret this."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/c-0/15
+msgctxt "Daisuke"
+msgid "I will honor your faith in me by filling this world with beauty."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/c-1/7
+msgctxt "Narrator"
+msgid "He looks up at you suddenly, with a wild gleam in his eye."
+msgstr ""
+
+#: daisuke_dishes/daisuke_realized/0/c-1/15
+msgctxt "Daisuke"
+msgid "I must test them immediately."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_divert/3
+msgctxt "Narrator"
+msgid "Daisuke might be entirely too serious in most circumstances, but you find that you appreciate his single-minded dedication to getting you off."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_divert/14
+msgctxt "Narrator"
+msgid "His passion for the arts is only matched by his passion for making you feel incredible, and by the time you've finished you're both exhausted and a new believer in <i>all</i> his talents."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_divert/22
+msgctxt "Narrator"
+msgid "You never imagined he'd feel comfortable leaving his duties in the house, but he assures you that your love and support have empowered him to make his own way."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/0
+msgctxt "Narrator"
+msgid "Daisuke left your home and immediately went to what he knows—ceramics. He managed to talk his way into a job teaching ceramics at the local community college with only a few well-chosen words, letting his smoldering good looks do the rest."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/8
+msgctxt "Narrator"
+msgid "Unfortunately for Daisuke and the students, it became quite clear that he was in no position to teach anyone anything about ceramics, and so he tried his hand at teaching at a sip n' paint in the city."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/16
+msgctxt "Daisuke"
+msgid "Your paintings should look like this."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/24
+msgctxt "Daisuke"
+msgid "...why do none of your paintings look like mine?"
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/32
+msgctxt "Daisuke"
+msgid "Of course we are painting the same scene."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/40
+msgctxt "Daisuke"
+msgid "...never mind. Let us continue."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/48
+msgctxt "Narrator"
+msgid "But once again, Daisuke's artistic ambitions didn't match up to his technical skill."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/56
+msgctxt "Narrator"
+msgid "One of his customers did, however, realize Daisuke's true potential, and invited him back to the community college—this time as a live nude model."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/64
+msgctxt "Narrator"
+msgid "His statuesque features, arresting good looks, near-supernatural ability to hold still for long periods of time and endless patience all make him an ideal candidate for modeling."
+msgstr ""
+
+#: daisuke_dishes/daisuke_love_join/72
+msgctxt "Narrator"
+msgid "Daisuke finds he is content and fulfilled by helping others bring beauty into the world, even if it is not wrought by his own two hands."
+msgstr ""

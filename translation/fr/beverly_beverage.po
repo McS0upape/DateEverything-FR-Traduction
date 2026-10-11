@@ -1,0 +1,4824 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: beverly_beverage/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "BEVERAGES"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/6/b/1
+msgctxt "Beverly"
+msgid "Oh hi! Welcome to the Tipsy Tumbler!"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/0/b/1
+msgctxt "Beverly"
+msgid "Ah my darling! What can I get for ya?"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/3/b/1
+msgctxt "Beverly"
+msgid "Oh... it's you. What do you want."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/6/b/1 beverly_beverage/dishes_beverage/0/9/9/b/1
+msgctxt "Beverly"
+msgid "What can I get for you?"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/12/s/0
+msgctxt "Choix"
+msgid "I'm actually here for a delivery."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/7
+msgctxt "Beverly"
+msgid "Delivery?"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/15
+msgctxt "Beverly"
+msgid "Oh! You must be talking about the branded rocks glasses I asked Daisuke to get me!"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/26
+msgctxt "Beverly"
+msgid "Thanks so much, I'll take those right off your hands!"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/34
+msgctxt "Narrator"
+msgid "You hand Beverly her package, and she sets to work unpacking and cleaning the glasses right away."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/45
+msgctxt "Beverly"
+msgid "I'm glad Daisuke managed to get these for me."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/53
+msgctxt "Beverly"
+msgid "How is that ol' dishslinger, anyway?"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/0/s/0
+msgctxt "Choix"
+msgid "He's recovering from a chip, but he seems alright."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/7
+msgctxt "Beverly"
+msgid "A chip! Oh, poor guy..."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/15
+msgctxt "Beverly"
+msgid "That's the last thing he needs."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/23
+msgctxt "Beverly"
+msgid "But then again, maybe he'll finally relax a little now that he's forced to."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "So he really just never takes a break, huh?"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/7
+msgctxt "Beverly"
+msgid "Yeah... he's always been into his work, but he used to make time for his hobbies and friends."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/15
+msgctxt "Beverly"
+msgid "Did he tell you he writes poetry?"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "He hasn't told me anything but dishes."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/7
+msgctxt "Beverly"
+msgid "Dear, oh, dear... he's falling right back into his old workaholic pattern."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/15
+msgctxt "Beverly"
+msgid "Someone needs to remind him of who he used to be... who he still is."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/23
+msgctxt "Beverly"
+msgid "He's a real passionate guy, you know, but passion can lead to pain."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/31
+msgctxt "Beverly"
+msgid "It's easier for him."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "So he's into poetry... I'll have to remember that."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/7
+msgctxt "Beverly"
+msgid "Write him a poem, it'll really tickle his teapot."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I'll have to try that. Thanks for the chat."
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/15/c-0/7
+msgctxt "Beverly"
+msgid "Hey, no prob!"
+msgstr ""
+
+#: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/15/c-0/15
+msgctxt "Beverly"
+msgid "Come back to the Tumbler anytime!"
+msgstr ""
+
+#: beverly_beverage/beverly_dish_end/0/0
+msgctxt "Beverly"
+msgid "Was I the last one?"
+msgstr ""
+
+#: beverly_beverage/beverly_dish_end/0/8/s/0
+msgctxt "Choix"
+msgid "Yeah, actually!"
+msgstr ""
+
+#: beverly_beverage/beverly_dish_end/0/c-0/7
+msgctxt "Beverly"
+msgid "Great job. Daisuke's gonna love that."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/0
+msgctxt "Narrator"
+msgid "A bartender drums her fingers on the countertop, clearly bored out of her mind. Her long, red-orange hair is pulled back into a ponytail that flows down her back like the drinks she pours so expertly."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/8
+msgctxt "Narrator"
+msgid "She makes herself a drink, taking a small sip of it and setting it down. Your entrance startles her so badly she nearly knocks it over."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/16
+msgctxt "Beverly"
+msgid "Someone’s here!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/24/b/1
+msgctxt "Beverly"
+msgid "The... glass-eater."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/24/b/9
+msgctxt "Narrator"
+msgid "Beverly shivers."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/27
+msgctxt "Beverly"
+msgid "Welcome to my humble bar, The Tipsy Tumbler!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/35
+msgctxt "Beverly"
+msgid "I’m Beverly, but you can call me Bev. Or Beverly."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/43
+msgctxt "Beverly"
+msgid "Or Madame Proprietress..."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/51
+msgctxt "Beverly"
+msgid "aaa that would be so cool...!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/59/s/0
+msgctxt "Choix"
+msgid "Hi Beverly!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/60/s/0 beverly_beverage/Bev_Drunk_Return/0/8/s/0
+msgctxt "Choix"
+msgid "Hi Bev!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/61/s/0
+msgctxt "Choix"
+msgid "Hi Madame Proprietress!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/c-2/7
+msgctxt "Beverly"
+msgid "<w>aaaaaa</w>"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/0
+msgctxt "Beverly"
+msgid "I’m the owner and bartender and janitor and stockroom attendant! Nice to meetcha!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/11
+msgctxt "Narrator"
+msgid "Beverly squints at you, frowning as she seems to be considering something... and then she snaps, pointing at you."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/19
+msgctxt "Beverly"
+msgid "Wait hold on... oh my gosh it’s you!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/27
+msgctxt "Beverly"
+msgid "My proprietor!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/35
+msgctxt "Beverly"
+msgid "I can’t believe I didn’t recognize you!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/43/s/0
+msgctxt "Choix"
+msgid "Me?"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/44/s/0
+msgctxt "Choix"
+msgid "Well you should - I own this house!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/c-3/7
+msgctxt "Beverly"
+msgid "Yes you!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-0/c-3/15
+msgctxt "Beverly"
+msgid "Who else so charitably bought this adorable minibar for me so I could set up my dream bar?"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/0
+msgctxt "Beverly"
+msgid "I owe you a huge debt! You have free drinks for life here!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/8
+msgctxt "Beverly"
+msgid "Welcome to the re-re-re-re-opening of The Tipsy Tumbler!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/16
+msgctxt "Beverly"
+msgid "And I know what you’re thinking. \"Bev, that’s a lot of openings!\""
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/24
+msgctxt "Beverly"
+msgid "\"Did something happen the first six times you tried to open the bar?\""
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/29
+msgctxt "Beverly"
+msgid "Nope, nothing!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/37/s/0
+msgctxt "Choix"
+msgid "Uhh, well then why <i>have</i> you reopened so many times?"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/38/s/0
+msgctxt "Choix"
+msgid "But how can that be when a babe like yourself is here?"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/c-5/7
+msgctxt "Beverly"
+msgid "It’s because <i>nothing happened!</i> Not a single customer came! Total ghost town! EACH. TIME."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/c-6/7
+msgctxt "Beverly"
+msgid "First, haha aww thank youuu!~"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-1/c-6/15
+msgctxt "Beverly"
+msgid "Second, great question! I wish I knew..."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/0
+msgctxt "Beverly"
+msgid "I’ve lost an alarming amount of sleep trying to figure it out."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/8
+msgctxt "Beverly"
+msgid "So PLEASE DON’T LEAVE. You are literally my first customer in..."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/16
+msgctxt "Beverly"
+msgid "EVER!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/24
+msgctxt "Beverly"
+msgid "Everytime I thought you were finally going to invite people over, I’d polish the place up and prepare to be the best host I can be, but then each time you’d chicken out and spend yet another weekend all alone!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/32
+msgctxt "Beverly"
+msgid "I mean, why did you get a minibar if you weren’t going to invite guests over?!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/40/s/0
+msgctxt "Choix"
+msgid "I thought buying the minibar and all the mixing accessories would motivate me to finally invite someone over..."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/41/s/0
+msgctxt "Choix"
+msgid "I like making drinks for myself because I like drinking alone."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/c-7/7
+msgctxt "Beverly"
+msgid "Hah... hah... but that’s okay! It’s all water under the bridge."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/c-7/15
+msgctxt "Beverly"
+msgid "You’ll have to talk to River if you want that."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/c-7/26
+msgctxt "Beverly"
+msgid "Anyway, that’s enough babbling from me."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/c-8/7
+msgctxt "Beverly"
+msgid "Ahaha that's sad and totally not something I do."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-2/c-8/18
+msgctxt "Beverly"
+msgid "Hey, I got an idea! How about I serve something instead so we could be less pathetic together!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-3/0
+msgctxt "Beverly"
+msgid "So take a seat and let me fix you something already!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-3/8
+msgctxt "Beverly"
+msgid "PLEASE let me fix you something."
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-3/16
+msgctxt "Beverly"
+msgid "First and foremost, am I making you a cocktail or a mocktail?"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-3/24
+msgctxt "Beverly"
+msgid "Mocktails are the non-alcoholic versions of a cocktail. Just as fun and delicious, but without the burn!"
+msgstr ""
+
+#: beverly_beverage/beverly_intro/0/g-3/32
+msgctxt "Beverly"
+msgid "Or the drunk part. Obviously."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/0/s/0
+msgctxt "Choix"
+msgid "Cocktail"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/1/s/0
+msgctxt "Choix"
+msgid "Mocktail"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/7
+msgctxt "Beverly"
+msgid "Excellent! So what’ll it be?"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Martini"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Aperol Spritz"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Mojito"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/3/s/0
+msgctxt "Choix"
+msgid "Ramos Gin Fizz"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-0/13
+msgctxt "Beverly"
+msgid "Ooh, these are just delicious! So many different floral and spirit-forward flavors!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-0/21 beverly_beverage/drink_menu/0/c-0/15/c-1/29 beverly_beverage/drink_menu/0/c-0/15/c-2/29 beverly_beverage/drink_menu/0/c-1/42/c-0/21 beverly_beverage/drink_menu/0/c-1/42/c-1/29 beverly_beverage/drink_menu/0/c-1/42/c-2/21
+msgctxt "Beverly"
+msgid "Coming right up!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-1/13
+msgctxt "Beverly"
+msgid "Aperol is having its heyday right now. Less bitter than the classic Amaros, and less alcoholic, too."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-1/21
+msgctxt "Beverly"
+msgid "Let's be on trend..."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-2/13
+msgctxt "Beverly"
+msgid "Ooh, so minty and fresh! It’s kinda like brushing your teeth at the bar!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-2/21
+msgctxt "Beverly"
+msgid "...that sounded more appealing in my head."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-3/21
+msgctxt "Beverly"
+msgid "You know that drink takes SEVEN MINUTES for me to shake?"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-3/29
+msgctxt "Beverly"
+msgid "I'm charging extra!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-3/40
+msgctxt "Beverly"
+msgid "Anyway, coming right up..."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-3/48
+msgctxt "Narrator"
+msgid "Seven minutes later..."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-0/15/c-3/62
+msgctxt "Beverly"
+msgid "Whew..."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/7
+msgctxt "Beverly"
+msgid "Excellent! Always happy to serve customers that don’t want to get drunk!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/15
+msgctxt "Beverly"
+msgid "They usually don’t yell and hit on me as much."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/23
+msgctxt "Beverly"
+msgid "They also sometimes don’t tip as much though..."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/31/b/1
+msgctxt "Beverly"
+msgid "Oh and also I have no customers."
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/34
+msgctxt "Beverly"
+msgid "Anyway! Which mocktail would you like?"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/42/0/s/0
+msgctxt "Choix"
+msgid "Glass of water"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/42/1/s/0
+msgctxt "Choix"
+msgid "Soda"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/42/2/s/0
+msgctxt "Choix"
+msgid "Virgin Mojito"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/42/c-0/13
+msgctxt "Beverly"
+msgid "Ooh, these are just delicious! So many different tangy and spicy flavors!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/42/c-1/13
+msgctxt "Beverly"
+msgid "Refreshing and bubbly!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/42/c-1/21
+msgctxt "Beverly"
+msgid "Like me!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/c-1/42/c-2/13
+msgctxt "Beverly"
+msgid "Smart! You'll get sugar, mint, and lime flavors all in a nice tall glass!"
+msgstr ""
+
+#: beverly_beverage/drink_menu/0/g-0/0/b/1 beverly_beverage/second_drink/0/c-0/23/c-0/7
+msgctxt "Beverly"
+msgid "Anytime!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/4/s/0
+msgctxt "Choix"
+msgid "<i>Sip your drink.</i>"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/5/s/0 beverly_beverage/third_drink/0/10/s/0 beverly_beverage/fifth_drink/0/2/s/0
+msgctxt "Choix"
+msgid "<i>Pour it out in front of her.</i>"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/7
+msgctxt "Narrator"
+msgid "You lift your glass to your lips, taking an extended sip."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/15
+msgctxt "Beverly"
+msgid "How was it?"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Really good!! Where’d you learn to mix drinks like this?"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "It was okay."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-0/7
+msgctxt "Beverly"
+msgid "Well, after six grand openings I got a lot of practice in."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-0/15
+msgctxt "Beverly"
+msgid "Plus, with a name like mine I should know my beverages pretty well!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/7
+msgctxt "Beverly"
+msgid "There's always room for improvement!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/15/b/1 beverly_beverage/first_drink/0/c-0/23/c-1/18/b/1
+msgctxt "Beverly"
+msgid "I can make sure I 'clap' the mint before serving so the customer gets a burst of herbal scent!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/21/b/1
+msgctxt "Beverly"
+msgid "I can stir the ice cubes slightly longer so that the strong alcohol taste has time to marinate with the vermouth..."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/24/b/1
+msgctxt "Beverly"
+msgid "The orange flower water is the key - I might just make my own rather than sourcing from somewhere else..."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/27/b/1
+msgctxt "Beverly"
+msgid "If the amaro is too bitter - I can serve in a larger glass so I can fit more ice cubes in it!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/30/b/1
+msgctxt "Beverly"
+msgid "It's water... I'm not sure how much better I can do..."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/33/b/1
+msgctxt "Beverly"
+msgid "Maybe I can look into making my own soda with some seltzer and simple syrup rather than pouring from my bar gun..."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/36/0/s/0
+msgctxt "Choix"
+msgid "Am I really your first customer? No one else comes here?"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/36/c-0/7
+msgctxt "Beverly"
+msgid "Well... yeah. I just don't know what I’m doing wrong!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-0/23/c-1/36/c-0/15
+msgctxt "Beverly"
+msgid "Making drinks is all I know! I can’t keep doing reopenings, but I don’t know what I’m going to do if I don’t get more customers soon."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-1/13
+msgctxt "Narrator"
+msgid "You lift the glass and turn it over, pouring it out onto the ground while holding eye contact with Beverly. She looks down at the pool at your feet."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-1/21 beverly_beverage/second_drink/0/c-1/24 beverly_beverage/third_drink/0/c-2/21 beverly_beverage/signature/0/g-9/c-33/32/b/1 beverly_beverage/fifth_drink/0/c-2/21/b/1
+msgctxt "Beverly"
+msgid "...oh."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-1/29
+msgctxt "Beverly"
+msgid "Well... at least that maybe counts as a customer?"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/c-1/37
+msgctxt "Beverly"
+msgid "Yeah! Let's go with that."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/0
+msgctxt "Beverly"
+msgid "I really don’t wanna close this place down. I’ve put my bar and soul into it!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/8
+msgctxt "Beverly"
+msgid "So... will you be my first <i>returning</i> customer?"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "Sure!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "Ehh, maybe. I’ll think about it."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-2/17
+msgctxt "Beverly"
+msgid "Really?!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-2/25
+msgctxt "Beverly"
+msgid "Oh my gosh!! Yes! Yes thank you!!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-2/33
+msgctxt "Beverly"
+msgid "Tell your friends! Tell EVERYONE! Please!!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-2/41
+msgctxt "Beverly"
+msgid "And I’ll be seeing you next time!"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-3/7
+msgctxt "Beverly"
+msgid "O-Oh... okay."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-3/15
+msgctxt "Beverly"
+msgid "Well, please actually think about it okay?"
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-3/23
+msgctxt "Beverly"
+msgid "Not to be dramatic, but my career kinda depends on it."
+msgstr ""
+
+#: beverly_beverage/first_drink/0/g-0/16/c-3/31
+msgctxt "Beverly"
+msgid "...hopefully I’ll see you again then!"
+msgstr ""
+
+#: beverly_beverage/beverly_first_encounter/0/0
+msgctxt "Beverly"
+msgid "You’re back!! You actually came back!!"
+msgstr ""
+
+#: beverly_beverage/beverly_first_encounter/0/8/b/1
+msgctxt "Beverly"
+msgid "I mean, I know you said you would..."
+msgstr ""
+
+#: beverly_beverage/beverly_first_encounter/0/11/b/1
+msgctxt "Beverly"
+msgid "But I figured you were just being polite!! Oh, I’m so happy!"
+msgstr ""
+
+#: beverly_beverage/beverly_first_encounter/0/14/0
+msgctxt "Beverly"
+msgid "Well let me be a good hostess and fix you a drink! What would you like?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/0/s/0
+msgctxt "Choix"
+msgid "<i>Down your drink.</i>"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/1/s/0 beverly_beverage/signature/0/g-9/33/s/0
+msgctxt "Choix"
+msgid "<i>Pour it out in front of her</i>"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-0/7
+msgctxt "Narrator"
+msgid "You drain your glass with impressive speed."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-0/15
+msgctxt "Beverly"
+msgid "That was fast!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Ahh! Thanks Bev."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-0/23/c-0/15
+msgctxt "Beverly"
+msgid "Seriously. ANY. TIME."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-1/7
+msgctxt "Narrator"
+msgid "You take the glass from Beverly and dump it onto the floor."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-1/21/b/1 beverly_beverage/third_drink/0/c-2/29/b/1 beverly_beverage/signature/0/g-9/c-33/35/b/1 beverly_beverage/fifth_drink/0/c-2/24/b/1
+msgctxt "Narrator"
+msgid "It's even more satisfying the second time. Once again, Beverly looks down at the drink pooling at your feet with clear hurt in her eyes."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-1/32/b/1 beverly_beverage/third_drink/0/c-2/32/b/1 beverly_beverage/signature/0/g-9/c-33/41/b/1 beverly_beverage/fifth_drink/0/c-2/30/b/1
+msgctxt "Beverly"
+msgid "Twice now... maybe I shouldn't make you any more drinks..."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/c-1/35 beverly_beverage/third_drink/0/c-2/41
+msgctxt "Beverly"
+msgid "So..."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/0
+msgctxt "Beverly"
+msgid "...I still haven't had any new customers."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/11/b/1
+msgctxt "Beverly"
+msgid "Sure Rainey comes by once or twice a year... but she's a regular. I need more than just a couple regulars!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/14
+msgctxt "Beverly"
+msgid "I don’t know what I’m doing wrong! I make good drinks, I picked a good spot for my bar, and I’m cute and charming to boot!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/22
+msgctxt "Beverly"
+msgid "What else do I need?!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/30/s/0
+msgctxt "Choix"
+msgid "Do you advertise?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/c-2/7
+msgctxt "Beverly"
+msgid "Advertise? You really think that’s necessary?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "No one's gonna come if nobody knows about it..."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/c-2/15/c-0/7
+msgctxt "Beverly"
+msgid "Oh... yeah I guess that’s true."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-0/c-2/15/c-0/15
+msgctxt "Beverly"
+msgid "Damn, that feels so obvious now! I just figured word of mouth would be all I needed, right? I mean, they say that’s the best form of advertising!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-1/0
+msgctxt "Beverly"
+msgid "But I guess if there are no mouths in the first place, then there can’t be any... words."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-1/8
+msgctxt "Beverly"
+msgid "That sentence made more sense in my head, but you know what I mean!!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-1/16
+msgctxt "Beverly"
+msgid "Too bad this house doesn’t have someone like... the concept of graphic design or marketing to help me."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-1/24
+msgctxt "Beverly"
+msgid "So I guess we’re gonna be doing it ourselves."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "\"We?\""
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "I guess so!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-1/c-3/7
+msgctxt "Beverly"
+msgid "Well YEAH! This was your idea, and clearly doing things myself isn’t working, so you’re gonna help me!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/0
+msgctxt "Beverly"
+msgid "Now, we need this ad to be enticing. We need to be eye-catching and strike up curiosity!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/8
+msgctxt "Beverly"
+msgid "But how would we go about that?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/0/s/0
+msgctxt "Choix"
+msgid "Eye-catching buzzwords!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/1/s/0
+msgctxt "Choix"
+msgid "A threat."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/7
+msgctxt "Beverly"
+msgid "Yeah, okay!! Uuuuuhhh, let’s do it!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/15
+msgctxt "Beverly"
+msgid "Which of these words do you feel best describes the atmosphere of The Tipsy Tumbler?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "Fun!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "Cozy!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/7
+msgctxt "Beverly"
+msgid "Hm... a good start but I think we can do better!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/15 beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/15
+msgctxt "Beverly"
+msgid "We gotta bust out the thesaurus, show that we’re SMART too!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/23 beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/23
+msgctxt "Beverly"
+msgid "Now Lyric won't come by anymore after I tricked him into saying some drunk tongue-twisters..."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/34 beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/34
+msgctxt "Beverly"
+msgid "But he left behind some good pages on his way out!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/42
+msgctxt "Beverly"
+msgid "How about one of THESE bad boys? I mean they’re all just different ways of saying fun."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/50
+msgctxt "Beverly"
+msgid "I think. Or at the very least they SOUND like they would."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/0/s/0
+msgctxt "Choix"
+msgid "Merry"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/1/s/0
+msgctxt "Choix"
+msgid "Joyousness"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/2/s/0
+msgctxt "Choix"
+msgid "Vivacity"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/3/s/0
+msgctxt "Choix"
+msgid "Whoopee"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-0/7
+msgctxt "Beverly"
+msgid "Ooh Holly would love that! That's at least one customer!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-1/7
+msgctxt "Beverly"
+msgid "That sounds like one too many suffixes! BUT, the more suffixes the smarterer it sounds!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/7
+msgctxt "Beverly"
+msgid "That's fun to say! VIVACITY!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/15
+msgctxt "Beverly"
+msgid "Vi"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/23
+msgctxt "Beverly"
+msgid "va"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/31
+msgctxt "Beverly"
+msgid "ci"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/39
+msgctxt "Beverly"
+msgid "ty!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-3/7
+msgctxt "Beverly"
+msgid "Now we're just making noises - but drunk people love noises! That sets the tone before you even get here."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-3/15
+msgctxt "Beverly"
+msgid "WHOOPEE!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/g-0/0
+msgctxt "Beverly"
+msgid "YEAHHH, now we’re cooking!!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/7
+msgctxt "Beverly"
+msgid "Hmm... A good start but I think we can do better!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/42
+msgctxt "Beverly"
+msgid "How about one of THESE bad boys? I mean, they’re all just different ways of saying cozy."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/0/s/0
+msgctxt "Choix"
+msgid "Commodious"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/1/s/0
+msgctxt "Choix"
+msgid "Gemütlich"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/2/s/0
+msgctxt "Choix"
+msgid "Congenial"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/3/s/0
+msgctxt "Choix"
+msgid "Felicitous"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-0/7
+msgctxt "Beverly"
+msgid "Sounds like a toilet.. but Jean Loo is pretty popular soo..."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-1/7
+msgctxt "Beverly"
+msgid "Bless you."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-2/7
+msgctxt "Beverly"
+msgid "HELL YEAH! Just looking at the word makes me feel all comfy!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-3/7
+msgctxt "Beverly"
+msgid "Sounds like a cat! Everyone loves cats! Therefore - everyone will love my bar!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/0
+msgctxt "Beverly"
+msgid "Thanks for the help! I’ll draw up some posters and post them around."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/8
+msgctxt "Beverly"
+msgid "I’m so excited to show this off! Do you think Freddy Yeti would let me hang some of the posters on him?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/19
+msgctxt "Beverly"
+msgid "Maybe I could get a TV COMMERCIAL! Or a video ad that you can’t skip! Ehhh?!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/27
+msgctxt "Beverly"
+msgid "Or... maybe I’ll start with the posters and see how that goes. I kinda forgot I was on a budget for a second there."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/35
+msgctxt "Beverly"
+msgid "I’m just so hyped! I’m gonna get to work on this right away!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/43
+msgctxt "Beverly"
+msgid "So shoo! You’re in my creative zone! Git!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/7 beverly_beverage/mocktail_return/0/c-0/7
+msgctxt "Beverly"
+msgid "Whuh...?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/15
+msgctxt "Beverly"
+msgid "I’m sorry, a <i>threat?</i>"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/0/s/0
+msgctxt "Choix"
+msgid "Yeah! We post signs that say something like \"We know your secrets. Come inside or else.\""
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/1/s/0
+msgctxt "Choix"
+msgid "Anyone who doesn't want to come to the Tumbler deserves what's coming to 'em."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/7
+msgctxt "Beverly"
+msgid "Hmmm..."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/15
+msgctxt "Beverly"
+msgid "It <i>would</i> grab people’s attention, plus their curiosity, and thus stay in their memory."
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/23
+msgctxt "Beverly"
+msgid "And, as a fun bonus, it instills just the right amount of fear!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/31
+msgctxt "Beverly"
+msgid "Ooh, I like it! It’s unconventional!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/39
+msgctxt "Beverly"
+msgid "If people believe it, they come in, get drunk, then spill their secrets so we know them FOR REAL!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/47
+msgctxt "Beverly"
+msgid "Oh, everyone else will think it's either funny or so weird that they have to come and see what sort of place this is!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-1/7
+msgctxt "Beverly"
+msgid "I LOVE IT!!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/g-0/0
+msgctxt "Beverly"
+msgid "It’s so crazy it just might work! Let’s do it!"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/g-0/8
+msgctxt "Beverly"
+msgid "I’ll get to work on the ad right away! Do you think Freddy Yeti would let me hang some signs on him?"
+msgstr ""
+
+#: beverly_beverage/second_drink/0/g-2/16/c-6/23/g-0/19
+msgctxt "Beverly"
+msgid "Eh, I’ll figure that out later. For now, shoo! You’re in my creative space!"
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/0
+msgctxt "Beverly"
+msgid "Welcome back!"
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/8/s/0
+msgctxt "Choix"
+msgid "Hi! Any luck bringing in new customers?"
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/c-0/7
+msgctxt "Beverly"
+msgid "Uh... Not exactly."
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/c-0/15/b/1
+msgctxt "Beverly"
+msgid "Who knew threatening people would just drive them even further away?"
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/c-0/15/b/9
+msgctxt "Beverly"
+msgid "I certainly didn’t, I have no shame in admitting that."
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/c-0/15/b/17
+msgctxt "Beverly"
+msgid "...I feel like I probably <i>should</i> have some though."
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/c-0/18/b/1
+msgctxt "Beverly"
+msgid "I guess buzzwords don’t really work if no one knows what they mean..."
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/c-0/18/b/9
+msgctxt "Beverly"
+msgid "You’d think with all the time people spend on social media, they’d be better at READING. But I guess not."
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/g-0/0
+msgctxt "Beverly"
+msgid "But let’s not talk about that! Bringing down the mood won’t help bring in people either!"
+msgstr ""
+
+#: beverly_beverage/beverly_second_encounter/0/g-0/8
+msgctxt "Beverly"
+msgid "A-Anyway. What can I get you?"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/0
+msgctxt "Narrator"
+msgid "Beverly hands you your drink."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/8/s/0
+msgctxt "Choix"
+msgid "Ah! Thanks Bev."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/9/s/0
+msgctxt "Choix"
+msgid "That wasn't very good, actually."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/c-0/7
+msgctxt "Beverly"
+msgid "No problem! It’s not like I have anyone else to tend to right now..."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/c-1/7
+msgctxt "Narrator"
+msgid "Beverly sighs, her shoulders slumping."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/c-1/18
+msgctxt "Beverly"
+msgid "Welp! Clearly we need a different approach!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/c-2/13
+msgctxt "Narrator"
+msgid "The drink is barely in your hands before you tip it over and pour it out onto the floor."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/c-2/35/b/1 beverly_beverage/signature/0/g-9/c-33/38/b/1 beverly_beverage/fifth_drink/0/c-2/27/b/1
+msgctxt "Narrator"
+msgid "Frankly you're not sure why Beverly keeps setting you up like this, but you're not about to stop now."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/c-2/38/b/1
+msgctxt "Beverly"
+msgid "Shoulda seen that one coming, huh? It's kinda your \"thing\"."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/0
+msgctxt "Beverly"
+msgid "It is painfully obvious that I am no wordsmith. So maybe my ads needs to be more... visual!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/8
+msgctxt "Beverly"
+msgid "We need something that makes the others feel like they HAVE to come inside!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/0
+msgctxt "Beverly"
+msgid "What could it be?"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/8/s/0
+msgctxt "Choix"
+msgid "I told you, threaten their lives. Loved ones too, if you have to."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/9/s/0
+msgctxt "Choix"
+msgid "We only chose one word last time - let's choose more!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/10/s/0
+msgctxt "Choix"
+msgid "A cute mascot!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/11/s/0
+msgctxt "Choix"
+msgid "How about a signature drink?"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/12/s/0
+msgctxt "Choix"
+msgid "Sign-spinners. Lots of them."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-3/7
+msgctxt "Beverly"
+msgid "Violence isn't really my brand..."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-3/15
+msgctxt "Beverly"
+msgid "I dunno about that one."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-4/7
+msgctxt "Beverly"
+msgid "The others didn't read that one word - how could more words help!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-4/15
+msgctxt "Beverly"
+msgid "Let's choose something else..."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-5/7
+msgctxt "Beverly"
+msgid "I'm the mascot! And I'm cute!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-5/15
+msgctxt "Beverly"
+msgid "I'm the cute mascot!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-5/23
+msgctxt "Beverly"
+msgid "...right?"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-5/31
+msgctxt "Beverly"
+msgid "No... We need something else..."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/7
+msgctxt "Beverly"
+msgid "Ohh!!!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/18
+msgctxt "Beverly"
+msgid "Mmm, if this were a cartoon, I'd have a lightbulb over my head right now."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/26
+msgctxt "Beverly"
+msgid "A signature drink!!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/34
+msgctxt "Beverly"
+msgid "Yes!! Oh my gosh, again it’s so obvious!!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/42
+msgctxt "Beverly"
+msgid "I need a drink that is so superbly amazing, enticing, and can only be found here!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/50
+msgctxt "Beverly"
+msgid "Why didn’t I think of that before?"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/58/0/s/0
+msgctxt "Choix"
+msgid "You've been focused on other things!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/58/1/s/0
+msgctxt "Choix"
+msgid "It wasn't a dialogue option!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-0/7
+msgctxt "Beverly"
+msgid "That's right! Like ice cube size..."
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-0/15
+msgctxt "Beverly"
+msgid "Did you know that the bigger the ice cube, the more surface area it has, the slower it melts!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-0/23
+msgctxt "Beverly"
+msgid "I want to have the biggest ice cubes this side of the North Pole!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-1/7
+msgctxt "Beverly"
+msgid "Uh, sure. Blame it on that!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-6/58/g-0/0
+msgctxt "Beverly"
+msgid "Will you help me make it? Or at least, be my taste tester?"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-7/7
+msgctxt "Beverly"
+msgid "I can't afford to pay someone, let alone the cost in signage!"
+msgstr ""
+
+#: beverly_beverage/third_drink/0/g-0/16/c-7/15
+msgctxt "Beverly"
+msgid "We need something else..."
+msgstr ""
+
+#: beverly_beverage/signature/0/0/s/0
+msgctxt "Choix"
+msgid "As long as there's a virgin version."
+msgstr ""
+
+#: beverly_beverage/signature/0/1/s/0
+msgctxt "Choix"
+msgid "Tasting, drinking, imbibing, I'm all for it!"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/7
+msgctxt "Beverly"
+msgid "I’ll be sure it’s something we can make a virgin version of if you don’t want alcohol."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/15
+msgctxt "Beverly"
+msgid "Although if anyone here really wanted a virgin, they’d just have to look for you!"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/23
+msgctxt "Narrator"
+msgid "Beverly reacts to her own joke, pointing at you and making a scandalized sort of shout."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/31
+msgctxt "Beverly"
+msgid "Ha ha ha ho!"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/39
+msgctxt "Beverly"
+msgid "I'm sorry. I saw the opportunity and I took it. Please, please, please, please, please don't leave me."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "Jeez Beverly... that was from left field!"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/1/s/0
+msgctxt "Choix"
+msgid "I'm burned... but I'll be okay."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/2/s/0
+msgctxt "Choix"
+msgid "I gotta tell Curt and Rod about that one!"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-0/7
+msgctxt "Beverly"
+msgid "I know that rapport from a bartender is important."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-0/15
+msgctxt "Beverly"
+msgid "Maybe I shouldn't have gotten all my jokes from insult comics..."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-1/7
+msgctxt "Beverly"
+msgid "Ah, it's alright. There's a first time for everything."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-1/15
+msgctxt "Beverly"
+msgid "Maybe you'll get lucky with me...?"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "I'd love that..."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "Mmm... treat me better and we'll see."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-1/23/c-0/13
+msgctxt "Beverly"
+msgid "<i>blush</i>"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-1/23/c-1/7
+msgctxt "Beverly"
+msgid "You got it!"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/c-2/7
+msgctxt "Beverly"
+msgid "Ahh, those two? I can hear them do their act sometimes from the dining room. They're hilarious. Yes, please."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/g-0/0
+msgctxt "Beverly"
+msgid "But still... If even with the flyers and everything... I really need a lot more help to get the others interested."
+msgstr ""
+
+#: beverly_beverage/signature/0/c-0/47/g-0/8
+msgctxt "Beverly"
+msgid "And I do way too many things here to get it done by myself!"
+msgstr ""
+
+#: beverly_beverage/signature/0/c-1/7
+msgctxt "Beverly"
+msgid "Same here!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-0/0
+msgctxt "Beverly"
+msgid "Alright! In mixology, a good cocktail needs four attributes: Strong, sweet, sour, and bitters."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-0/8
+msgctxt "Beverly"
+msgid "In theory, as long as we have at least these four things we can mix and match all sorts of flavors to create a truly unique cocktail!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-0/16
+msgctxt "Beverly"
+msgid "You can also just have the strong and bitter part and stir a nice martini - but I feel like shaking something up using juice!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Sure whatever."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "All right! Let's do this!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-0/c-2/7
+msgctxt "Beverly"
+msgid "Well <i>I</i> think it's cool."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-0/c-3/13
+msgctxt "Beverly"
+msgid "That's the spirits!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/0
+msgctxt "Beverly"
+msgid "First, let’s pick the strong liquor! What do you think?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Vodka"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Rum"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Gin"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "Whiskey"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/c-4/7
+msgctxt "Beverly"
+msgid "Clear as day!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/c-5/7
+msgctxt "Beverly"
+msgid "Oooh, like a pirate!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/c-6/7
+msgctxt "Beverly"
+msgid "Nice and frosty with the aromatic tastes of juniper!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-1/c-7/7
+msgctxt "Beverly"
+msgid "Yes... Let's have all sorts of fun!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-2/0
+msgctxt "Beverly"
+msgid "Good choice!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-2/8
+msgctxt "Beverly"
+msgid "I'm gonna put a liiiitle bit extra just in case."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-2/16
+msgctxt "Beverly"
+msgid "Now we need a liqueur for the sweet portion..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "What is a liqueur?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "Let's do it!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-2/c-8/7
+msgctxt "Beverly"
+msgid "Liqueurs are usually made with a sweetener in addition to a small portion of alcohol!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-2/c-8/15
+msgctxt "Beverly"
+msgid "You can drink them on their own, but they are typically used in small quantity to add a little extra syrupy mouthfeel and some nice body, as well as flavoring!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/0
+msgctxt "Beverly"
+msgid "Which should we use?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "Orange liqueur"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "Simple Syrup"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/10/s/0
+msgctxt "Choix"
+msgid "Elderflower liqueur"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/11/s/0
+msgctxt "Choix"
+msgid "Berry liqueur"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/c-10/7
+msgctxt "Beverly"
+msgid "Mmm, the most commonly used liqueur from the Cosmo to the sidecar."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/c-11/7
+msgctxt "Beverly"
+msgid "Ah - why use more alcohol when we can just have some sugar and water mixed together!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/c-12/7
+msgctxt "Beverly"
+msgid "Mmm, this can sometimes be called the ketchup of the mixology world."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/c-12/15
+msgctxt "Beverly"
+msgid "Not because it tastes like ketchup!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/c-12/23
+msgctxt "Beverly"
+msgid "But because it's <i>so</i> delicious it goes well in everything!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/c-12/31
+msgctxt "Beverly"
+msgid "Interesting - some whiskey, cream... maltodextrin for that extra mouthfeel!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-3/c-13/7
+msgctxt "Beverly"
+msgid "Berry nice!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/0
+msgctxt "Beverly"
+msgid "This is coming along great..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/8
+msgctxt "Beverly"
+msgid "Alright, now we need our something sour."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "Lemon Juice"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "Lime Juice"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/18/s/0
+msgctxt "Choix"
+msgid "Orange Juice"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/19/s/0
+msgctxt "Choix"
+msgid "Sour Cherry Juice"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/c-14/7
+msgctxt "Beverly"
+msgid "The workhorse of cocktails - it's in everything!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/c-15/7
+msgctxt "Beverly"
+msgid "The only problem with lime juice is you gotta cut <i>so</i> many little limes to get enough juice out of 'em..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/c-15/15
+msgctxt "Beverly"
+msgid "But it's worth it!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/c-16/7
+msgctxt "Beverly"
+msgid "Not as sour as the rest - but you can put a whole lotta OJ in something if it needs to taste less boozy!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-4/c-17/7
+msgctxt "Beverly"
+msgid "Mmm now that'll add a real nice kick <i>and</i> dark ruby color!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-5/0
+msgctxt "Beverly"
+msgid "Almost done! Now we need bitters."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-5/8/s/0
+msgctxt "Choix"
+msgid "What are bitters?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-5/9/s/0
+msgctxt "Choix"
+msgid "Sounds good."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-5/c-18/7
+msgctxt "Beverly"
+msgid "These are highly concentrated, highly alcoholic little bottles that pack a huge bitter flavor in a small package."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-5/c-18/15
+msgctxt "Beverly"
+msgid "Just a couple of dashes is good enough for everything you need."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-5/c-18/23
+msgctxt "Beverly"
+msgid "They were first made as medicine - and lemme tell you, if you drink them by themselves... you do feel a <i>little</i> better."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-5/c-18/31
+msgctxt "Beverly"
+msgid "...though it's probably because of the insanely high alcohol content."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/0
+msgctxt "Beverly"
+msgid "Which one should we pick?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/8/s/0
+msgctxt "Choix"
+msgid "The classic one with the trademarked name!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/9/s/0
+msgctxt "Choix"
+msgid "Anise bitters"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/10/s/0
+msgctxt "Choix"
+msgid "Chocolate bitters"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/11/s/0
+msgctxt "Choix"
+msgid "Celery bitters"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/c-20/7
+msgctxt "Beverly"
+msgid "Ah yes - who could forget that one! So popular that when most people think of bitters they only know that little white bottle with the oversized label!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/c-21/7
+msgctxt "Beverly"
+msgid "The second most popular style with another trademarked name! That licorice flavor delights the palate when used responsibly!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/c-22/7
+msgctxt "Beverly"
+msgid "CHOCOLATE."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-6/c-23/7
+msgctxt "Beverly"
+msgid "Yes - vegetation is always unexpected but can create a nice surprise!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/0
+msgctxt "Beverly"
+msgid "Yes! Now, what about a little finishing touch to it?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/8/s/0
+msgctxt "Choix"
+msgid "Set that shit on FIRE!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/9/s/0
+msgctxt "Choix"
+msgid "Sugar around the rim!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/10/s/0
+msgctxt "Choix"
+msgid "Pour in edible glitter!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/11/s/0
+msgctxt "Choix"
+msgid "A simple lemon peel will do it."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/c-24/7
+msgctxt "Beverly"
+msgid "All right! Always impressive - provided the customer is looking at you while you do it."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/c-25/7
+msgctxt "Beverly"
+msgid "Mmm, I'll never say no to more sugar."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/c-26/7
+msgctxt "Beverly"
+msgid "SHINY"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-7/c-27/7
+msgctxt "Beverly"
+msgid "Classic and simple. Plus you get to smell the lemon as you peel it which always helps me wake up!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/0
+msgctxt "Beverly"
+msgid "Our creation is born! What should we call it?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/8/s/0
+msgctxt "Choix"
+msgid "Throat Burner"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/9/s/0
+msgctxt "Choix"
+msgid "Beautiful Bella"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/10/s/0
+msgctxt "Choix"
+msgid "Fruity Cutie"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/11/s/0
+msgctxt "Choix"
+msgid "Sweet Ol’ Jack"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/c-28/7
+msgctxt "Beverly"
+msgid "Yup. Sounds about right with the amount of extra booze I put in this one..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/c-29/7
+msgctxt "Beverly"
+msgid "Mmm, lovely!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/c-30/7
+msgctxt "Beverly"
+msgid "That's gonna fly off the shelves!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-8/c-31/7
+msgctxt "Beverly"
+msgid "Aw... Hi Jack!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/0
+msgctxt "Beverly"
+msgid "I love it! It’s got that <i>dazzle</i> we need!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/8
+msgctxt "Beverly"
+msgid "Alright. Let me mix this baby!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/16
+msgctxt "Narrator"
+msgid "Beverly sets to work shaking up your beverage, pouring it into a glass and pushing it across the counter towards you."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/24
+msgctxt "Beverly"
+msgid "Okay. Moment of truth. Drink it down and tell me what you think. Be honest!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/32/s/0
+msgctxt "Choix"
+msgid "<i>Drink it all in one go.</i>"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/7
+msgctxt "Beverly"
+msgid "Well?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/18
+msgctxt "Narrator"
+msgid "Perhaps that wasn't the best idea. Your vision tunnels, and you feel yourself beginning to wobble."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/32
+msgctxt "Beverly"
+msgid "Woah, woah hold are you okay?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/40
+msgctxt "Beverly"
+msgid "WOAH!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/57
+msgctxt "Narrator"
+msgid "You're not sure how long you've been out, but you wake up to Beverly looking down at you with deep concern. She helps you to your feet."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/65
+msgctxt "Beverly"
+msgid "Heyyyyy buddy... How do you feel?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/73
+msgctxt "Beverly"
+msgid "Ooh, I guess I put in a bit too much liquor... wayyyyy too much."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/81
+msgctxt "Beverly"
+msgid "I’m sorry. I was just so nervous about you not liking it!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/89
+msgctxt "Beverly"
+msgid "Cuz I mean, if this doesn’t work I might as well call it quits for real this time."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/97
+msgctxt "Beverly"
+msgid "I figured if it gets people so drunk they couldn’t tell the difference between good and bad, it would work out."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-32/105
+msgctxt "Beverly"
+msgid "Ungh, that was stupid..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-33/7
+msgctxt "Narrator"
+msgid "You take the glass, lift it up with a flourish..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-33/15
+msgctxt "Narrator"
+msgid "And then dump it out onto the floor."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-33/44/b/1 beverly_beverage/fifth_drink/0/c-2/36/b/1
+msgctxt "Narrator"
+msgid "Beverly no longer looks surprised, but the hurt in her expression is worse than you've ever seen it."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-33/47/b/1 beverly_beverage/fifth_drink/0/c-2/33/b/1
+msgctxt "Beverly"
+msgid "Shoulda seen that one coming, huh? It's kinda <i>your thing</i>."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-9/c-33/50/b/1
+msgctxt "Beverly"
+msgid "Just thought that if we made this together it would be fun to try it together."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/0
+msgctxt "Beverly"
+msgid "So you think I'm stupid, huh?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/8
+msgctxt "Narrator"
+msgid "She laughs bitterly."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/16
+msgctxt "Beverly"
+msgid "I think <i>I’m</i> stupid. A big, stupid failure!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/27
+msgctxt "Narrator"
+msgid "Beverly covers her face with her hands."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/35/s/0
+msgctxt "Choix"
+msgid "You're not big..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/36/s/0
+msgctxt "Choix"
+msgid "You're not dumb..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/37/s/0
+msgctxt "Choix"
+msgid "You're not a failure..."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/38/s/0
+msgctxt "Choix"
+msgid "You are all those three things."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-10/c-37/13
+msgctxt "Beverly"
+msgid "Ugh. I was looking for consolation!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/0
+msgctxt "Beverly"
+msgid "I truly am though! I'm all the bad things and more!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/0
+msgctxt "Beverly"
+msgid "I try to be bubbly and fun like soda! But I just fall flat like... flat... soda."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/8
+msgctxt "Beverly"
+msgid "No one wants to be around me! Ever!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/16
+msgctxt "Beverly"
+msgid "But drinks are literally everything I am! I’m lost without The Tipsy Tumbler!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/0
+msgctxt "Beverly"
+msgid "What do you do when no one likes the thing that makes you YOU?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/8/s/0
+msgctxt "Choix"
+msgid "You find the ones who do."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/9/s/0
+msgctxt "Choix"
+msgid "I thought the <i>customer</i> was supposed to whine to the <i>bartender.</i> Not the other way around."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/7
+msgctxt "Narrator"
+msgid "Beverly sniffles, rubbing at her eyes."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/15
+msgctxt "Beverly"
+msgid "You really think there’s anyone out there that would like a watered down floozy like me?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/0/s/0
+msgctxt "Choix"
+msgid "Sure! I mean, I do."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/1/s/0
+msgctxt "Choix"
+msgid "Only one way to find out! Keep trying!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/c-0/21
+msgctxt "Beverly"
+msgid "Hah... why am <i>I</i> turning red?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/c-0/29/b/1
+msgctxt "Beverly"
+msgid "I'm not the one who drank that monstrosity!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/c-1/7
+msgctxt "Beverly"
+msgid "Yeah. I guess you’re right."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/g-0/0
+msgctxt "Beverly"
+msgid "Okay. I’m gonna spend some more time tinkering with this specialty cocktail thing. It’s not gonna mix itself after all."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/g-0/8 beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/g-0/24
+msgctxt "Beverly"
+msgid "In the meantime, do you think you could do some word-of-mouth advertising for me?"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/g-0/16
+msgctxt "Beverly"
+msgid "I’m sorry to ask, but you’re kinda the only mouth that can help me."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-38/23/g-0/24 beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/g-0/48
+msgctxt "Beverly"
+msgid "Please... this really really might be my last shot."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/10
+msgctxt "Narrator"
+msgid "Hot tears streak down Beverly's cheeks, but she doesn't cry quietly. She grabs a lime from behind the bar, squeezing it until the pulp runs through her fingers."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/26
+msgctxt "Beverly"
+msgid "You are such a JERK!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/0/s/0
+msgctxt "Choix"
+msgid "Not a jerk - I just don't want you to have a bar in my house."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/1/s/0
+msgctxt "Choix"
+msgid "Well, I meant that in a joking way."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/7
+msgctxt "Beverly"
+msgid "You did this on purpose didn’t you?! That stupid ad idea was meant to sabotage me!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/15
+msgctxt "Beverly"
+msgid "You RUINED ME! And for what?!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/26
+msgctxt "Beverly"
+msgid "Are my dreams a JOKE to you?! Why else would you do this?!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/34
+msgctxt "Beverly"
+msgid "You ruined everything! You are... You are...!!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/42
+msgctxt "Beverly"
+msgid "You’re such a... RAT!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/50
+msgctxt "Beverly"
+msgid "You know what? No. Rats are intelligent and often misunderstood creatures. Calling you a rat would be an insult to rats."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/58
+msgctxt "Beverly"
+msgid "You’re just DIRT!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/63
+msgctxt "Beverly"
+msgid "Actually, no! Dirt is infinitely valuable since we grow plants from it and keeps everything from falling into the Earth’s molten core."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/71
+msgctxt "Beverly"
+msgid "You’re SCUM! Yeah, there we go!! Just dirty nasty ugly scum that I just wanna SCRUB AWAY FOREVER!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/82
+msgctxt "Beverly"
+msgid "And the last thing my bar needs is FILTH! Get out of here!"
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-0/130
+msgctxt "Reggie"
+msgid "I dunno... I kinda like scum."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-1/7
+msgctxt "Beverly"
+msgid "Hm. Some joke."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-1/15
+msgctxt "Beverly"
+msgid "Look. Come back if you can find any way to help encourage customers to come in."
+msgstr ""
+
+#: beverly_beverage/signature/0/g-11/8/24/c-39/37/c-1/23
+msgctxt "Beverly"
+msgid "I'm gonna... go take my 5."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/0/b/1
+msgctxt "Beverly"
+msgid "Oh, it's you. Have you decided to help spread the word about The Tipsy Tumbler?"
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/3/b/1
+msgctxt "Beverly"
+msgid "Hey. Any luck spreading the word about The Tipsy Tumbler?"
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/6/s/0
+msgctxt "Choix"
+msgid "Not yet..."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/7
+msgctxt "Beverly"
+msgid "No one has come in yet, but that’s normal so..."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/15
+msgctxt "Narrator"
+msgid "She sighs."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/26
+msgctxt "Beverly"
+msgid "I haven’t had any luck with the specialty cocktail either."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Do you know who might help?"
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/34/c-0/7
+msgctxt "Beverly"
+msgid "Other than my flyers, I'm out of ideas."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/34/c-0/15
+msgctxt "Beverly"
+msgid "But maybe someone with some social media knowhow can help us..."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/34/c-0/23
+msgctxt "Beverly"
+msgid "Maybe... Phoenicia?"
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/c-0/34/c-0/34
+msgctxt "Beverly"
+msgid "Ugh, she's always so busy. She'll never help me out."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/g-0/0
+msgctxt "Beverly"
+msgid "So uh. Let’s get back to work I guess..."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/g-0/8
+msgctxt "Beverly"
+msgid "Oh boy..."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/g-0/24
+msgctxt "Beverly"
+msgid "You wanna drink?"
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/g-0/36/s/0 beverly_beverage/beverly_love_return/0/33/s/0
+msgctxt "Choix"
+msgid "Yeah!"
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/g-0/37/s/0
+msgctxt "Choix"
+msgid "Nah."
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/g-0/c-1/7
+msgctxt "Beverly"
+msgid "Whaddaya want?"
+msgstr ""
+
+#: beverly_beverage/beverly_word_return/0/g-0/c-2/7
+msgctxt "Beverly"
+msgid "Yeah, me neither..."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/9
+msgctxt "Narrator"
+msgid "As you pull away from Beverly, Phoenicia leans in, her voice a conspiratorial murmur."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/20
+msgctxt "Phoenicia"
+msgid "Listen, I'm not usually one to eavesdrop."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/29/s/0
+msgctxt "Choix"
+msgid "Isn't that your favorite hobby?"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Ok rude, hitting me with the bombastic side eye, my gossip is completely different!"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/15
+msgctxt "Phoenicia"
+msgid "Your girl's got standards, ok?"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/23
+msgctxt "Phoenicia"
+msgid "If it gets posted online, it's fair game. It becomes like public domain or whatever."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Pretty sure that's not how it works."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "If you say so."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/31/g-0/0
+msgctxt "Phoenicia"
+msgid "You know what? If you're so against it, I can just keep all those helpful hints to myself from now on."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/31/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "What? No, I'm sorry. You're right, please go ahead."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/31/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Shutting up. What were you saying?"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/31/g-0/8/g-0/0
+msgctxt "Phoenicia"
+msgid "Mmmhmm, that's what I thought."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/c-1/31/g-0/8/g-0/8
+msgctxt "Phoenicia"
+msgid "So, like I was saying."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-0/0
+msgctxt "Phoenicia"
+msgid "I overheard you and Beverly talking about the Tumbler."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-0/8
+msgctxt "Phoenicia"
+msgid "And I think I might be able to help."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-0/16
+msgctxt "Phoenicia"
+msgid "I mean, if there was a cute new spot with Placebook-worthy specialty drinks and good lighting and even <i>I</i> didn't know about it?"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-0/24
+msgctxt "Phoenicia"
+msgid "She definitely needs it."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "What do we need to do?"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-1/0
+msgctxt "Phoenicia"
+msgid "We gotta drag her advertising into the 21st century for starters."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-1/8
+msgctxt "Phoenicia"
+msgid "All it takes is a few well framed shots of the decor, a line up of the best stuff on the menu, and a little voice over from a beloved internet personality."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-1/16
+msgctxt "Phoenicia"
+msgid "Instant FOMO, line out the door, guaranteed. Trust me."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "She did mention something about a new drink."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Maybe we could feature her new specialty drink!"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Ooh, that's perfect! What is it?"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "She said she's struggling to pick one."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Uhh... TBD? Got any ideas?"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Well it’s gotta be something that really pops, it's all about that curated aesthetic."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-3/8
+msgctxt "Phoenicia"
+msgid "Hmmm... ooh... Oh! Okay, I’ve got this."
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-3/16
+msgctxt "Phoenicia"
+msgid "I'd check back with her soon though because this is gunna blow UP!"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "You got it!"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "K"
+msgstr ""
+
+#: beverly_beverage/phoenicia_leans_in/0/g-4/0
+msgctxt "Phoenicia"
+msgid "Baiiiiiiii!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/14
+msgctxt "Beverly"
+msgid "I've put up flyers everywhere, and still nobody's coming here."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/22
+msgctxt "Beverly"
+msgid "I'd be out of money if it weren't for the fact that I don't pay any rent!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/36
+msgctxt "Phoenicia"
+msgid "Move over honey! Move over honey! Help incoming!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/44
+msgctxt "Beverly"
+msgid "Phoenicia? What are you doing here?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/52
+msgctxt "Phoenicia"
+msgid "I heard your bar needs a little TLC, so I brought some friends. <i>All</i> of them actually."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/60
+msgctxt "Beverly"
+msgid "You... you said... all."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/68
+msgctxt "Beverly"
+msgid "You really came to see me?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/76
+msgctxt "Phoenicia"
+msgid "Mmhm!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/87
+msgctxt "Phoenicia"
+msgid "And I also heard you needed some ideas for a new cocktail? Show her what we got y'all!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/98
+msgctxt "Dasha"
+msgid "I brought some vodka!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/106/b/4
+msgctxt "Bodhi"
+msgid "And I brought the cranberry juice to go with that vodka! It’s rad, trust me."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/112
+msgctxt "Cabrizzio"
+msgid "I have some Limoncello, to add a little class."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/129
+msgctxt "Lux"
+msgid "You know what's tres trendy rn is passion fruit juice - good for... antioxidants and bullshit."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/146
+msgctxt "Mitchell"
+msgid "Spicy cocktails have been de rigueur lately! So I have some ancho chili powder, with a little cinnamon mixed in for a soupçon of sweet."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/163/b/1
+msgctxt "Wallace"
+msgid "EGG!!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/166/b/1
+msgctxt "Wallace"
+msgid "I have brought an egg! Without a yolk and shaken dry it creates a mesmerizing foam!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/175
+msgctxt "Stella"
+msgid "I brought my special Powdered Air for some QUALITY foam on the top!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/189/b/4
+msgctxt "Abel"
+msgid "I don’t actually drink, but if you can make a non alcoholic version of this I’ll try it."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/189/b/15/b/1
+msgctxt "Abel"
+msgid "I’m just here to spend time with Dasha... but great seein' the rest of y'all too."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/195
+msgctxt "Scandalabra"
+msgid "I brought my hot <i>talents</i>, in case your cocktail needs a little <i>flare.</i>"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/206/b/1
+msgctxt "Scandalabra"
+msgid "Even though I'm Jon... I still have to have fun sometimes, y'know?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/212
+msgctxt "Phoenicia"
+msgid "And because you’re so passionate about this bar... (and because if this place succeeds it’ll be a great new place for posting pics)... I brought passionfruit juice!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/220
+msgctxt "Phoenicia"
+msgid "All that’s left now is for you to mix all these things together!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/228
+msgctxt "Beverly"
+msgid "I-I don’t know. I’m not sure I can..."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/236/s/0
+msgctxt "Choix"
+msgid "You got this Bev."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/237/s/0
+msgctxt "Choix"
+msgid "It might be a lot now... but you're so talented at mixology you'll come up with something great."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/238/s/0
+msgctxt "Choix"
+msgid "Yeah, you might mess it up."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/c-0/7
+msgctxt "Beverly"
+msgid "Hoo... Okay. You’re right. I got this. I <i>got</i> this!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/c-0/15 beverly_beverage/dining_room_tableau/0/c-1/15
+msgctxt "Narrator"
+msgid "Beverly gathers together each disparate ingredient, slicing, squeezing, shaking, and mixing them into a drink that at least looks decent. How it tastes remains to be seen."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/c-1/7
+msgctxt "Beverly"
+msgid "Whoo... no pressure then, huh?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/c-2/7
+msgctxt "Beverly"
+msgid "Augh! You're right!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/c-2/15
+msgctxt "Narrator"
+msgid "Beverly gathers together each disparate ingredient, slicing, squeezing, shaking, and mixing them into a drink that at least looks decent. She looks a bit nervous throughout... hopefully it tastes as good as it looks."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/0
+msgctxt "Beverly"
+msgid "One final touch. Scandalabra, would you please toast a little heart shape on the top?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/11
+msgctxt "Scandalabra"
+msgid "But of course!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/22
+msgctxt "Narrator"
+msgid "Scandalabra lights a thin flame at the end of his fingertip, drawing a little heart into the drink."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/30
+msgctxt "Beverly"
+msgid "Okay. I think... I think it’s done!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/44
+msgctxt "Beverly"
+msgid "Everyone, drink up!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/55
+msgctxt "Narrator"
+msgid "The gathered company all lift their glasses in a silent toast to Beverly, then one by one they drink. Beverly looks from face to face, desperately trying to glean a reaction."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/63
+msgctxt "Beverly"
+msgid "So? What do you all think?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/71/b/4
+msgctxt "Bodhi"
+msgid "It’s totally TUBULICIOUS! That’s a mix of tubular and delicious. I came up with that just now. Impressive, I know."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/77
+msgctxt "Dasha"
+msgid "Hoo!! That’s got a kick to it! I like it though!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/91
+msgctxt "Cabrizzio"
+msgid "Delicious, and what complex flavor!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/105
+msgctxt "Lux"
+msgid "I can FEEL the antioxidants working their magic! The free radicals in my body do not stand a chance! Goodbye!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/119
+msgctxt "Stella"
+msgid "Mmmmm.... y'know the top quality air in the foam truly ties it all together. You’re welcome!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/133
+msgctxt "Scandalabra"
+msgid "Pish posh, it’s my precise handiwork that’s the cherry on top!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/144/b/4
+msgctxt "Abel"
+msgid "Heck even without alcohol that packs a wallop!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/150/b/1
+msgctxt "Wallace"
+msgid "<i>EGG!!</i>"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/153/b/1
+msgctxt "Wallace"
+msgid "Absolutely delightful concoction, Beverly. My compliments to the mixer."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/0
+msgctxt "Beverly"
+msgid "And you?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/8/s/0
+msgctxt "Choix"
+msgid "It’s delicious!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/9/s/0
+msgctxt "Choix"
+msgid "Mid."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/10/s/0
+msgctxt "Choix"
+msgid "Honestly, I think that when everyone works together like this, it creates a worse product."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/c-3/7
+msgctxt "Beverly"
+msgid "Really?! Thank God!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/c-4/7
+msgctxt "Beverly"
+msgid "Augh! No!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/c-5/7
+msgctxt "Phoenicia"
+msgid "Have you even been paying attention to the moral of <i>any</i> story written in the last 500 years??"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-0/159/c-5/15
+msgctxt "Beverly"
+msgid "It's okay Phoenicia! I can take the criticism."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Hold on, I need to take a picture of it first. My followers are gunna FLIP when they see this!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/8
+msgctxt "Beverly"
+msgid "Did you hear that? Word of mouth advertising, right there!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/16
+msgctxt "Beverly"
+msgid "Woah, is this what hope feels like?! It’s nice!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/27
+msgctxt "Lux"
+msgid "So what are you going to call my new creation?"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/38
+msgctxt "Dasha"
+msgid "Not yours, lamp. Beverly's."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/52
+msgctxt "Beverly"
+msgid "Well, if I want to make this exclusive here, I need to give it a name!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/60
+msgctxt "Beverly"
+msgid "Hmm. I think I’m gonna call it..."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/68
+msgctxt "Beverly"
+msgid "<w>The Dateviator!</w>"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/79
+msgctxt "Beverly"
+msgid "In your honor, and those funky glasses of yours that made all this possible!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/87
+msgctxt "Phoenicia"
+msgid "Wooo! Cheers!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/95
+msgctxt "Beverly"
+msgid "Oh my gosh, you guys. Oh, I'm gonna cry."
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/106
+msgctxt "Beverly"
+msgid "I actually have a crowd of customers who want my drinks!!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/114
+msgctxt "Beverly"
+msgid "And as a thank you to everyone here who helped me when I needed it the most, drinks will NOT be on the house because I really REALLY need the money!!"
+msgstr ""
+
+#: beverly_beverage/dining_room_tableau/0/g-2/122
+msgctxt "Narrator"
+msgid "And everyone was happy to pay."
+msgstr ""
+
+#: beverly_beverage/beverly_fourth_encounter/0
+msgctxt "Beverly"
+msgid "Eyyyy!! Welcome back!"
+msgstr ""
+
+#: beverly_beverage/beverly_fourth_encounter/8
+msgctxt "Beverly"
+msgid "Good news! I’ve had even more visitors since you came along!!"
+msgstr ""
+
+#: beverly_beverage/beverly_fourth_encounter/16
+msgctxt "Beverly"
+msgid "Apparently one of the reasons I didn’t get more in the first place is because everyone was confused on whether I was open or not."
+msgstr ""
+
+#: beverly_beverage/beverly_fourth_encounter/24
+msgctxt "Beverly"
+msgid "I guess having so many openings and closings will do that..."
+msgstr ""
+
+#: beverly_beverage/beverly_fourth_encounter/32
+msgctxt "Beverly"
+msgid "But once word started getting around about our special cocktail, I started getting more business!"
+msgstr ""
+
+#: beverly_beverage/beverly_fourth_encounter/40
+msgctxt "Beverly"
+msgid "And I have you to thank! So let me pour you a thank you drink! What can I get you?"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/0
+msgctxt "Narrator"
+msgid "Beverly hands you your drink, smiling fondly at you."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/8/s/0
+msgctxt "Choix"
+msgid "Thank you Bev."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/c-0/7
+msgctxt "Beverly"
+msgid "Of course! Thank YOU for keeping your word about coming back!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/c-0/15
+msgctxt "Beverly"
+msgid "How about we celebrate... with more drinks!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Let's go!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "Actually, I should stop here."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/7
+msgctxt "Beverly"
+msgid "Oh, uh, okay."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/15
+msgctxt "Beverly"
+msgid "A-Are you sure? Next one is on the house!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/0/s/0
+msgctxt "Choix"
+msgid "Well... okay!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/1/s/0
+msgctxt "Choix"
+msgid "That’s not a good business practice."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/2/s/0
+msgctxt "Choix"
+msgid "Yeah, I'll pass on it!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-0/7
+msgctxt "Beverly"
+msgid "YEAH! That’s the spirit!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-0/15
+msgctxt "Beverly"
+msgid "Why not, right? Another round couldn’t hurt!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/7
+msgctxt "Beverly"
+msgid "Oh, uh, yeah. I guess I can't really keep doing that."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/18
+msgctxt "Beverly"
+msgid "Though I already promised you free drinks for life... ugh what am I doing?"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/26
+msgctxt "Beverly"
+msgid "I-I’m sorry. I just. I just don’t want you to get bored of me, or think I won’t have time for you now that business has picked up!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/34
+msgctxt "Beverly"
+msgid "This thing about actually having customers WANTING to see me? That’s NEW to me!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/42
+msgctxt "Beverly"
+msgid "And it wasn’t for lack of trying."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/50
+msgctxt "Beverly"
+msgid "I once tried to host a New Years party but SURPRISE no one came."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/58
+msgctxt "Beverly"
+msgid "So I had no one to kiss at the stroke of midnight!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/0/s/0
+msgctxt "Choix"
+msgid "What happened...?"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/1/s/0
+msgctxt "Choix"
+msgid "Don't tell me."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/g-0/0
+msgctxt "Beverly"
+msgid "I smooched my own reflection in one of the empty vodka bottles!!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/g-0/8
+msgctxt "Beverly"
+msgid "UGHHHH I’M SO PATHETIC!!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/g-0/16
+msgctxt "Beverly"
+msgid "I’m just SO scared of being abandoned and alone again!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/g-0/24
+msgctxt "Beverly"
+msgid "So. Even if you don’t drink more with me, will you still keep me around?"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/g-0/32
+msgctxt "Beverly"
+msgid "Y-You know, a lot of these bottles are nice even as decoration!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-0/c-2/26/c-1/66/g-0/40
+msgctxt "Beverly"
+msgid "You can keep everything on display and give your place a real classy look!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/0
+msgctxt "Beverly"
+msgid "Just-just don’t leave. Not now, not when things are finally looking up for me!"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "I won’t."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/12/s/0
+msgctxt "Choix"
+msgid "You’re scaring me a little."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/c-3/7
+msgctxt "Beverly"
+msgid "Phew... thank you. Sorry for getting a little hysterical, I just really needed that reassurance."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/c-4/7
+msgctxt "Beverly"
+msgid "I’M scared!! I literally just said \"I’m so scared of being abandoned and alone.\" I mean, how much more clear do I need to be?"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/c-4/15
+msgctxt "Beverly"
+msgid "But... I’m sorry. Maybe this is a sign I need to work on myself. If I’m gonna be a good and welcoming hostess, and I can’t dump all these insecurities on my customers."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/c-4/23
+msgctxt "Beverly"
+msgid "It’s not gonna be easy though, I’m scared of sober me and what she’s gonna think."
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/c-4/31
+msgctxt "Beverly"
+msgid "But if being good at anything was so easy, why would we need to practice?"
+msgstr ""
+
+#: beverly_beverage/fourth_drink/0/g-1/c-4/47
+msgctxt "Beverly"
+msgid "Ugh, this is gonna be a hard night."
+msgstr ""
+
+#: beverly_beverage/toast/0/0/s/0
+msgctxt "Choix"
+msgid "Yeah! Let’s have a toast!"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/0
+msgctxt "Beverly"
+msgid "Yess!!! Now the next question is, how hard are we celebrating tonight? Are we getting boozy?"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/8/s/0
+msgctxt "Choix"
+msgid "I wanna get <i>messed up</i> tonight."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/9/s/0
+msgctxt "Choix"
+msgid "Just a mocktail please."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/7
+msgctxt "Narrator"
+msgid "Date Everything would like to remind you to please drink responsibly."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/15
+msgctxt "Beverly"
+msgid "Allllright! Let’s get IRRESPONSIBLE IN HERE!! Brr-brr-brr-brr-brr-brr!"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/35
+msgctxt "Narrator"
+msgid "Beverly sways on her feet, her eyelids drooping. She throws her arm around you—is she steadying herself, or just that happy to be near you?"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/43
+msgctxt "Beverly"
+msgid "You need to know that i love you okay? <w>Like. yuou’re the bEST</w>."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/54
+msgctxt "Beverly"
+msgid "<w>I can’t say that NNOUGH. you and me?</w> We’re SOULMATES. You’re the BEST."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/62
+msgctxt "Beverly"
+msgid "YOU DESEVE SO MUCH BETTER. I MEAN WHY CANT EVERYONE SEE HOW AMAZING YOU ARE?"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/70
+msgctxt "Beverly"
+msgid "but you know what else?? Why cantt people see how amazing I AM??"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/78
+msgctxt "Beverly"
+msgid "i men IMM HOT and CUTE and SEXY and SO SMART. I THINK. <w>Maybe not that lasto ne </w>."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/86
+msgctxt "Beverly"
+msgid "But im allthe other things right? RIGHT."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/94
+msgctxt "Beverly"
+msgid "soo why does NO ONE LOVE ME? wHY IS THAT??"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/102
+msgctxt "Beverly"
+msgid "<w>THEY WONT EVEN COME DIRNK WITH EM.</w>"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/110
+msgctxt "Beverly"
+msgid "I mean ME. WHo is EM? Maybe someone that people actually LIKE. Oohoooo...."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/118
+msgctxt "Beverly"
+msgid "Oh my god how i just wasted my life?"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/126
+msgctxt "Beverly"
+msgid "Oh nononoonono...."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/134
+msgctxt "Beverly"
+msgid "oh my gosh i HAVE. i have... no wonder no one comes here!! Why WOULD THY???"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/142
+msgctxt "Narrator"
+msgid "Beverly bursts into tears, ugly, heaving sobs wracking her body."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/150
+msgctxt "Beverly"
+msgid "<i>Wahhhhahaha!</i>"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/0/s/0
+msgctxt "Choix"
+msgid "Awwww bevvy nononono ouyou’re gonna be okay"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/7
+msgctxt "Beverly"
+msgid "you’re always there for meeeeeeeeeeeeeeeeeeeeee"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/15
+msgctxt "Beverly"
+msgid "<w>hic</w> thank you so much <w>aaaaaaaaaaaaaaaaa </w> why are you so good."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/23
+msgctxt "Beverly"
+msgid "I KNOWWW YOU ARE SO DONT EVEN ARGUE WIT ME"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/34
+msgctxt "Beverly"
+msgid "you just gotta. Just gtta FGIHT for what you want. You know? Show that you CARE. show that you’re gonna be your BEST SELF no matter WHAT. and then you WILL BE."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/42
+msgctxt "Beverly"
+msgid "wait oh my god maybe that’s what i need to do for MYSEL."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/50
+msgctxt "Beverly"
+msgid "If no one else will lift me up i just gotta lift MYSELF UP"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/58
+msgctxt "Beverly"
+msgid "YEAH!! THAT’S IS."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/66
+msgctxt "Beverly"
+msgid "I GOTTA GET STRONG SO I CAN LIFT MYSELF!!!"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/74
+msgctxt "Beverly"
+msgid "MAYBE I ALREADY AM!!"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/82
+msgctxt "Beverly"
+msgid "YEAHHHHHHHHH!!"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/93
+msgctxt "Beverly"
+msgid "Urp! Oh no..."
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/101
+msgctxt "Beverly"
+msgid "Nope. Tha wasn't a good noise, ws it?"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-1/161/c-0/112
+msgctxt "Beverly"
+msgid "aww crap. Fade to black before it gets messy!!"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-2/7
+msgctxt "Beverly"
+msgid "I think I’ll pour myself a drink too!"
+msgstr ""
+
+#: beverly_beverage/toast/0/toastjoin/c-2/15
+msgctxt "Beverly"
+msgid "Do you mind if I mix a cocktail?"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/0/s/0
+msgctxt "Choix"
+msgid "Yes actually. Sorry."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/1/s/0
+msgctxt "Choix"
+msgid "No, go right ahead!"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/7
+msgctxt "Beverly"
+msgid "No need to be sorry! I’ll just have a mocktail like you then!"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/15 beverly_beverage/mocktail_choice/0/c-1/15 beverly_beverage/beverly_friendship_return/0/c-0/31
+msgctxt "Beverly"
+msgid "Cheers!"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Cheers!"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/7
+msgctxt "Beverly"
+msgid "You know, I really appreciate your honesty with me."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/15
+msgctxt "Beverly"
+msgid "I feel like some people would have taken a cocktail just to be polite, but you know what you want and you stick with it! That’s admirable!"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/23
+msgctxt "Beverly"
+msgid "Do you mind if I ask why though?"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I don’t enjoy being drunk or being around drunks."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "I just don’t see the point or the fun in getting drunk until I’m sick."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/2/s/0
+msgctxt "Choix"
+msgid "I just don’t like the taste."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/3/s/0
+msgctxt "Choix"
+msgid "I have a complicated history with alcohol."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-0/7
+msgctxt "Beverly"
+msgid "Ah, I getcha. It can be pretty overwhelming. And disorienting. Not to mention embarrassing."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-0/15
+msgctxt "Beverly"
+msgid "People get loud and say things they wouldn’t say otherwise."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-1/7
+msgctxt "Beverly"
+msgid "Hey! Getting sick at a party can be a great bonding experience."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-1/15
+msgctxt "Beverly"
+msgid "The person that holds your hair out of the toilet and pats your back is someone you can trust!"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-1/23
+msgctxt "Beverly"
+msgid "As long as the toilet isn’t Jean Loo. UGH. The less said about him the better."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-2/7
+msgctxt "Beverly"
+msgid "Mn, I understand. It’s certainly not for everyone."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-2/15
+msgctxt "Beverly"
+msgid "But hey, if you ever change your mind I can recommend some drinks where you can barely taste the alcohol."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-3/7
+msgctxt "Beverly"
+msgid "Say no more, I read you loud and clear."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-3/15
+msgctxt "Beverly"
+msgid "Knowing that though, I’m surprised you came back to see me."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-3/23
+msgctxt "Beverly"
+msgid "I must make a damn good mocktail! That actually makes me kinda proud."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-3/31
+msgctxt "Beverly"
+msgid "Oh, shucks. You got me blushing now."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/c-3/39
+msgctxt "Beverly"
+msgid "Well, have as many as you want. I’ll be here all night. <3"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/0
+msgctxt "Beverly"
+msgid "I’m just glad you came back."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/8
+msgctxt "Beverly"
+msgid "I was worried that once you helped me, you’d move on and I’d never see you again."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/16
+msgctxt "Beverly"
+msgid "Having everyone over was so fun, but once they all left I was so lonely."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/24
+msgctxt "Beverly"
+msgid "And I’m stressing over if any of them will actually come back or not."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/32
+msgctxt "Beverly"
+msgid "I feel like I’ve always chased people away just by being myself."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/40
+msgctxt "Beverly"
+msgid "If I want The Tipsy Tumbler to survive I can’t let that happen anymore."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/48
+msgctxt "Beverly"
+msgid "So... thanks for being a returning customer."
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-0/23/c-0/31/g-0/56
+msgctxt "Beverly"
+msgid "Let’s have a good time! Responsibly!"
+msgstr ""
+
+#: beverly_beverage/mocktail_choice/0/c-1/7
+msgctxt "Beverly"
+msgid "Great, thanks! We gotta get rid of this booze somehow right?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/0
+msgctxt "Narrator"
+msgid "Several drinks later..."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/8
+msgctxt "Beverly"
+msgid "Whyyyy doesn’t anyeone <w>LOVE ME?</w>"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/19/s/0
+msgctxt "Choix"
+msgid "Oh boy... Maybe we should stop."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/20/s/0
+msgctxt "Choix"
+msgid "<i>Comfort her.</i>"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/7
+msgctxt "Beverly"
+msgid "NO, no I dont wanna stop!"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/15
+msgctxt "Beverly"
+msgid "if I STOP then you LEAV. AND I’LL BE all alone again. <w>FOREVER.</w>"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "What do you mean?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "<i>Let her talk</i>"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/0
+msgctxt "Beverly"
+msgid "Becasue <w>THA \"S we hAT EVERYBODY Does </w>"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/8
+msgctxt "Beverly"
+msgid "<w>SLIKE I think the PROBEL MIS N\" T eth BAr</w>"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/16
+msgctxt "Beverly"
+msgid "...'sme."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "Sme?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "What?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/g-0/0
+msgctxt "Beverly"
+msgid "It's always been me..."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/g-0/8
+msgctxt "Beverly"
+msgid "We coulad HEVA the be st adevirtISNG EVERY but I'm still the problem."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "You're not a problem..."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "Well, you may have a point there."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/g-0/16/c-0/7
+msgctxt "Beverly"
+msgid "<w>Yes I\" AM! I'm LAud I'm OBNOXIUS...</w>"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/g-0/16/g-0/0
+msgctxt "Beverly"
+msgid "Thank you... fer lissening..."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-0/23/g-0/24/g-0/16/g-0/14
+msgctxt "Narrator"
+msgid "Beverly appears to have fallen asleep. You take your leave, tiptoeing away."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/7
+msgctxt "Beverly"
+msgid "I'm sorry. Ahhh I'm horrible."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I think you need to go lie down. I’ll close the bar for the night. Okay?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/c-0/7
+msgctxt "Beverly"
+msgid "Okay..."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/c-0/15
+msgctxt "Beverly"
+msgid "Will you stay wth me later? Just until I fall asleep?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Of course."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I don’t think that’s a good idea."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/c-0/23/c-0/7
+msgctxt "Beverly"
+msgid "Thank you..."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/c-0/23/c-0/21/0/s/0
+msgctxt "Choix"
+msgid "Okay. Beverly’s asleep. Now’s a good time to leave."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/c-1/15/c-0/23/c-1/7
+msgctxt "Beverly"
+msgid "Aw come onnnnn! Pleassssssseeeeeeeeeeeeeee!!"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "No Bev. You need to get some rest, and I do too."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/7
+msgctxt "Beverly"
+msgid "Nooo! But then you’ll leaveee!"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/15
+msgctxt "Beverly"
+msgid "I don’t want you to gooo! I like you!"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Oh! Wow. Um. Well I-"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "I like you, but I don't like this."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-0/7
+msgctxt "Narrator"
+msgid "Beverly knocks out before you can even respond, snoring loudly."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-0/15
+msgctxt "Beverly"
+msgid "Zzzz...."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-0/26
+msgctxt "Narrator"
+msgid "You do your best to make her comfortable before you leave, tiptoeing away."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/7
+msgctxt "Beverly"
+msgid "Where are you going?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/15
+msgctxt "Beverly"
+msgid "Do you hate me?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "No, of course not!"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/23/c-1/7
+msgctxt "Beverly"
+msgid "Thank you... I’m sorry..."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/23/c-1/15
+msgctxt "Beverly"
+msgid "I’ll go lie down. Can you close up the bar for me, please?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/23/c-1/23
+msgctxt "Beverly"
+msgid "And... will you stay with me afterwards?"
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/23/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Yes, of course."
+msgstr ""
+
+#: beverly_beverage/mocktail_bev_drinks/0/g-0/c-2/23/c-1/23/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Sure..."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/3
+msgctxt "Beverly"
+msgid "Hey... you’re alive!"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/11/s/0
+msgctxt "Choix"
+msgid "Yeah... are you?"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/c-0/7
+msgctxt "Beverly"
+msgid "I think so, well... not alive. I've never been that..."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/c-0/15
+msgctxt "Beverly"
+msgid "But awake..and in one piece... yeah."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/c-0/23
+msgctxt "Beverly"
+msgid "Everything is agony, but I’m still here I guess."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/c-0/34
+msgctxt "Beverly"
+msgid "How are you doing?"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "My head is full of pain and regret."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "<i>Please</i> keep your voice down."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "Totally worth it."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-1/7
+msgctxt "Beverly"
+msgid "Aw... I’m sorry."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-1/18
+msgctxt "Beverly"
+msgid "Surely it wasn’t all bad though, right?"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-1/26
+msgctxt "Beverly"
+msgid "At least I hope it wasn’t, I can’t remember."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-1/34
+msgctxt "Beverly"
+msgid "It feels like my brain is trying to claw its way out of my skull."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-1/42
+msgctxt "Beverly"
+msgid "I mean... I had fun!"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-1/50
+msgctxt "Beverly"
+msgid "Next time will be better! I promise!"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-2/7 beverly_beverage/mocktail_return/0/c-0/18
+msgctxt "Beverly"
+msgid "Gotcha, sorry..."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-3/7
+msgctxt "Beverly"
+msgid "Aww! <i>Urp</i> You mean it?"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-3/15
+msgctxt "Beverly"
+msgid "I’m sure you’ll mean it more when the hangover goes away haha..."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-3/23
+msgctxt "Beverly"
+msgid "That may be the nicest thing anyone has ever said to me!"
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-0/c-3/31
+msgctxt "Beverly"
+msgid "I’m so happy you didn’t leave. I love... having you around."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-1/0
+msgctxt "Beverly"
+msgid "Don’t move, I’ll make us a couple hangover cures."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Thank you..."
+msgstr ""
+
+#: beverly_beverage/player_drunk_awaken/0/g-1/c-4/7
+msgctxt "Beverly"
+msgid "I’m just gonna make it slowly... moving too much makes the lights hurt."
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/0
+msgctxt "Beverly"
+msgid "Good morning!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/8/s/0
+msgctxt "Choix"
+msgid "It's not morning..."
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/9/s/0
+msgctxt "Choix"
+msgid "Morning Bev! You seem chipper today."
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/0
+msgctxt "Beverly"
+msgid "I just feel good! After our mocktail party I went out and put up more flyers! Then I talked to Phoenicia for advice on buying Placebook ads."
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/11
+msgctxt "Beverly"
+msgid "All in all, a very productive night. I just feel like I’m on the edge of good things now!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/19
+msgctxt "Beverly"
+msgid "And I have you to thank! You really gave me the push that I needed."
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/27
+msgctxt "Beverly"
+msgid "I’ve learned so many things that I know I’m gonna put to use everyday!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/35
+msgctxt "Beverly"
+msgid "I’m really gonna put in the work to make THIS work!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/43
+msgctxt "Beverly"
+msgid "I can’t stop just because I invented one good drink! The Tipsy Tumbler is gonna succeed, and I want you to see it when it does!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/51
+msgctxt "Beverly"
+msgid "Well, I’m going to roll up my sleeves and get this place looking more presentable. So no drinks today."
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/59/0
+msgctxt "Beverly"
+msgid "But... please come back some time. I’d love to see my favorite drinking buddy!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/59/8/s/0
+msgctxt "Choix"
+msgid "You got it, buddy!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/59/9/s/0
+msgctxt "Choix"
+msgid "Aren't we more than buddies?"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/59/c-3/7
+msgctxt "Beverly"
+msgid "Uh yeah, we totally are!"
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/59/c-3/15
+msgctxt "Beverly"
+msgid "Sorry I'm just so not used to saying this but...."
+msgstr ""
+
+#: beverly_beverage/mocktail_return/0/g-0/59/c-3/23
+msgctxt "Beverly"
+msgid "Ahhh I love you!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/0
+msgctxt "Beverly"
+msgid "Oh! You... you actually came back??"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/0
+msgctxt "Beverly"
+msgid "Ugh, God I’m so embarrassed. You really saw me at my worst."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/11/b/1
+msgctxt "Beverly"
+msgid "But you stayed... which means so much to me."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/14/b/1
+msgctxt "Beverly"
+msgid "I didn’t think you’d want to see me after the mess I was in last time. I'm so sorry you had to see that..."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Actually, I wanted to talk about that."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "It’s no problem!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/7
+msgctxt "Beverly"
+msgid "What? Why?"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/15
+msgctxt "Beverly"
+msgid "Look, I’m fine! There’s no problem! I just drink for fun!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/23
+msgctxt "Beverly"
+msgid "It’s not like I’m secretly trying to cope with my crippling fears and anxieties or anything."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/31
+msgctxt "Beverly"
+msgid "I mean. I don’t know! I’m stressed!!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/39
+msgctxt "Beverly"
+msgid "And when I’m sober all I do is think about the things I’m stressed about more!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/47
+msgctxt "Beverly"
+msgid "I just. Um. Look, can we talk about this later?"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/55/0/s/0
+msgctxt "Choix"
+msgid "Sure thing."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-2/55/1/s/0
+msgctxt "Choix"
+msgid "No, I want to get to the bottom of this."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-3/7
+msgctxt "Beverly"
+msgid "I’m so relieved to hear that."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-3/15
+msgctxt "Beverly"
+msgid "Seriously, I’m glad you’re cool with it. I mean, everyone who drinks has at least one embarrassing experience, right? So it’s really no big deal, right?"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-3/23
+msgctxt "Beverly"
+msgid "At least this one didn’t end with me waking up with my face on the bathroom floor beside Jean Loo."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-3/37
+msgctxt "Beverly"
+msgid "The last thing you wanna hear when you’re hung over is him <i>rapping</i> in your ear."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-3/45
+msgctxt "Beverly"
+msgid "\"Bev's drunk again, slumped in a pile, / Ain't got friends and ain't got style / Ran out of wine, all that's left are the lines / Pressed into her face from the bathroom tile!\""
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-0/c-3/53
+msgctxt "Beverly"
+msgid "I hate him. I hate him so much."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/0
+msgctxt "Beverly"
+msgid "I just wish I had been a better host for you. I’m sorry."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/8/s/0
+msgctxt "Choix"
+msgid "We’ll have more fun next time!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/9/s/0
+msgctxt "Choix"
+msgid "All the more reason to be more careful with your drinking?"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/c-4/7
+msgctxt "Beverly"
+msgid "Hey yeah!! Next time we’ll throw a REAL rager! One that doesn’t end with one of us in the bathroom."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/c-4/15
+msgctxt "Beverly"
+msgid "Hell yeah, I’m excited for it!!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/c-5/7
+msgctxt "Beverly"
+msgid "Hmm... I don’t quite follow..."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/c-5/15
+msgctxt "Beverly"
+msgid "Of course I’m careful! I didn’t spill anything, or drop any glasses, or get sick outside the toilet!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/drinknow/c-5/23
+msgctxt "Beverly"
+msgid "I’m surprisingly coordinated when I’m wasted. Years of practice pays off!"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-1/0
+msgctxt "Beverly"
+msgid "So... why did you come back?"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "I just wanted to make sure you were okay."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "I think you're hot."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-1/c-6/7
+msgctxt "Beverly"
+msgid "Really? You care that much about little ol’ me?"
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-1/c-7/7
+msgctxt "Beverly"
+msgid "Aww... that’s sweet. Thank you."
+msgstr ""
+
+#: beverly_beverage/Bev_Drunk_Return/0/g-2/0
+msgctxt "Beverly"
+msgid "Well, I need to get a hangover cure. Do you want something while I’m at the bar?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/0/s/0
+msgctxt "Choix"
+msgid "Ahh, that’s good."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/1/s/0
+msgctxt "Choix"
+msgid "That one was made a little rough I think..."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/c-0/7
+msgctxt "Beverly"
+msgid "Phew, glad you like it."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/c-1/7
+msgctxt "Beverly"
+msgid "I feel a little rough I think..."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/c-2/7
+msgctxt "Narrator"
+msgid "You move almost in slow motion, taking the cup from Beverly and turning it over to dump it out at her feet."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/c-2/39/b/1
+msgctxt "Beverly"
+msgid "Yup. There's always that option."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/c-2/42/b/1
+msgctxt "Narrator"
+msgid "Beverly stares down at the drink pooling on the ground. She doesn't even seem hurt anymore... more numb."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/c-2/45/b/1
+msgctxt "Beverly"
+msgid "Every. Frickin. Time."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-0/0/12/s/0
+msgctxt "Choix"
+msgid "How are you feeling now Bev?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-0/0/13/s/0
+msgctxt "Choix"
+msgid "You okay?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-0/0/c-3/7
+msgctxt "Beverly"
+msgid "Mmmf... I’ll let you know when my brain and I are on speaking terms again."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-1/0
+msgctxt "Beverly"
+msgid "Ughhh why do I do this."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-1/8
+msgctxt "Beverly"
+msgid "I mean. I know WHY but whyyyyyyyyyyy."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Why <i>do</i> you drink?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-1/c-6/21
+msgctxt "Beverly"
+msgid "Because I’m so afraid of failure and being alone."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-1/c-6/29
+msgctxt "Beverly"
+msgid "I drink to deal with the stress, and so my customers will have more fun with me and won’t leave."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-1/c-6/37
+msgctxt "Beverly"
+msgid "My whole purpose is to serve and entertain. If I can’t do that, then what am I?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "You’re my friend!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "You’re someone who is funny. And smart. Not to mention cute."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-7/15
+msgctxt "Beverly"
+msgid "Really? You mean it?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-7/23
+msgctxt "Beverly"
+msgid "So you won’t leave me?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-7/31
+msgctxt "Beverly"
+msgid "Awww!! You big softie!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-7/39
+msgctxt "Beverly"
+msgid "You’re right, we ARE friends! And I’m so happy about it! You’ve been a true friend this past week!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-7/47
+msgctxt "Beverly"
+msgid "Thank you for saying that. Really."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-7/55
+msgctxt "Beverly"
+msgid "I know I’m kind of a mess, and a lot to be around... but drunk or sober I’m gonna appreciate you 'til the last call for alcohol!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/15
+msgctxt "Beverly"
+msgid "Y-You really think I’m those things?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/23
+msgctxt "Beverly"
+msgid "Cuz... I think you’re all those things too!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/31
+msgctxt "Beverly"
+msgid "Not to mention... you’ve done soooooo much for me."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/39
+msgctxt "Beverly"
+msgid "You literally made my dream a reality."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/47
+msgctxt "Beverly"
+msgid "No one has ever cared so much about me before. You really touched my little glass heart."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/55
+msgctxt "Beverly"
+msgid "Ha! Wow! I must still be drunk, my face is all flushed!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/0/s/0
+msgctxt "Choix"
+msgid "Can’t relate..."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/1/s/0
+msgctxt "Choix"
+msgid "Mine too!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/2/s/0
+msgctxt "Choix"
+msgid "My face is flushed for a different reason."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-0/7
+msgctxt "Beverly"
+msgid "O-Oh! Well... you must have a higher tolerance than I do! Hahahaha!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-0/15
+msgctxt "Beverly"
+msgid "I just. Really really appreciate our... friendship."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-0/23
+msgctxt "Beverly"
+msgid "Because you’re a good friend... Come by any time."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/7
+msgctxt "Beverly"
+msgid "!! Oh wow, you’re not lying. You’re redder than a Bloody Mary!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/15
+msgctxt "Beverly"
+msgid "Maybe we should have another drink?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/23
+msgctxt "Beverly"
+msgid "And then... maybe kiss a little?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/34/0/s/0
+msgctxt "Choix"
+msgid "I think we could definitely do that..."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/34/1/s/0
+msgctxt "Choix"
+msgid "N-nnooo. Just friends please?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/34/c-0/7
+msgctxt "Beverly"
+msgid "Yes!!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/34/c-0/15
+msgctxt "Beverly"
+msgid "Come here, I wanna taste your drink off your lips and get drunk off of <i>you.</i> <3"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-1/34/c-1/7
+msgctxt "Beverly"
+msgid "Ooooohhh okiedokie. Yeah. We're friends for sure!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/7
+msgctxt "Beverly"
+msgid "You think I'm cute even when you're sober!!"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/15
+msgctxt "Beverly"
+msgid "Wow..."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/26
+msgctxt "Beverly"
+msgid "Imeanithinksotoo"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/34
+msgctxt "Beverly"
+msgid "You're- you're cute, I mean."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/42
+msgctxt "Beverly"
+msgid "You'll love me even though I'm a lush?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/50/0/s/0
+msgctxt "Choix"
+msgid "That's okay with me."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/50/1/s/0
+msgctxt "Choix"
+msgid "You being a lush makes me blush."
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/50/c-0/7
+msgctxt "Beverly"
+msgid "I'll pour another drink! Champagne, anyone?"
+msgstr ""
+
+#: beverly_beverage/fifth_drink/0/g-2/c-8/63/c-2/50/c-1/7
+msgctxt "Beverly"
+msgid "Oh we're rhyming now?? Hell yeah!"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/0
+msgctxt "Narrator"
+msgid "Beverly is hanging a sign across the bar when you walk up on her. She gives you the briefest of glances over her shoulder."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/8
+msgctxt "Beverly"
+msgid "You see that sign?"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/16
+msgctxt "Beverly"
+msgid "It says - \"Closing Down. Thank you for your business.\""
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/24/s/0
+msgctxt "Choix"
+msgid "Good."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/25/s/0
+msgctxt "Choix"
+msgid "Look, I’m sorry."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/26/s/0
+msgctxt "Choix"
+msgid "I learned how to make something just for you. (USE CHARM CANDY)"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-0/7
+msgctxt "Beverly"
+msgid "Go away."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/7
+msgctxt "Beverly"
+msgid "OH WOW! Well that just solves EVERYTHING doesn’t it?"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/15
+msgctxt "Beverly"
+msgid "I mean, how could I possibly be sad after such a heartfelt apology?"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/23
+msgctxt "Beverly"
+msgid "Sorry is such a MAGICAL word! I can’t believe anyone doesn't say it more, it’s SO convenient!"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/31
+msgctxt "Beverly"
+msgid "Here let me try it. I’m sorry! POOF! <i>GASP</i> Oh my gosh! My broken dreams are fixed!"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/42
+msgctxt "Beverly"
+msgid "And that feeling that I’m a huge failure that led me to an endless downward spiral? All gone! WOW!"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/50/0/s/0
+msgctxt "Choix"
+msgid "Sigh... Look, I’ll go. I am sorry. Good luck Beverly..."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/50/c-0/7
+msgctxt "Beverly"
+msgid "Hmph!!"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/50/c-0/15
+msgctxt "Beverly"
+msgid "I’d advertise that you’re a JERK so everyone else would be on the lookout, but apparently NO ONE CARES ENOUGH TO LISTEN TO ME!"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-1/50/c-0/26
+msgctxt "Beverly"
+msgid "If I never see you again, it’ll be too soon!"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/17
+msgctxt "Beverly"
+msgid "...what."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/0/s/0
+msgctxt "Choix"
+msgid "It's called a Sorry Drink."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/1/s/0
+msgctxt "Choix"
+msgid "It's called I'm an Idiot, served on the rocks."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/8
+msgctxt "Beverly"
+msgid "That's cute."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/16
+msgctxt "Beverly"
+msgid "What's in it?"
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "Two parts apology, one part humility."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "Grenadine, whiskey, coconut... and a hug.."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/g-0/0
+msgctxt "Beverly"
+msgid "That's a good drink."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/g-0/8
+msgctxt "Beverly"
+msgid "All right, you. You're forgiven."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/g-0/16
+msgctxt "Narrator"
+msgid "Beverly grabs the sign and tosses it to the floor."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/g-0/32
+msgctxt "Beverly"
+msgid "You’re kinda the only mouth that can help me."
+msgstr ""
+
+#: beverly_beverage/beverly_hate_return/0/c-2/25/g-0/24/g-0/40
+msgctxt "Beverly"
+msgid "If you happen to see anyone or think of anyone good in advertising, let me know."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/8
+msgctxt "Beverly"
+msgid "Hey you! <3"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/16 beverly_beverage/beverly_love_return_talk/0/8
+msgctxt "Beverly"
+msgid "I missed you! Come in, I always have a seat saved just for you!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/24
+msgctxt "Beverly"
+msgid "You ready to get so drunk we end up passed out on the floor while holding hands?"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/32/s/0
+msgctxt "Choix"
+msgid "Actually Beverly, I'm ready to Realize you."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/34/s/0
+msgctxt "Choix"
+msgid "I feel like we only really connect when you're drunk."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/35/s/0
+msgctxt "Choix"
+msgid "...yeah I’m ready."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/c-1/7
+msgctxt "Beverly"
+msgid "If I remember what my name is in the morning, we’re not partying right!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/c-1/15
+msgctxt "Beverly"
+msgid "You know, I’m so happy to have found you."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/c-1/23
+msgctxt "Beverly"
+msgid "My special someone who will always hold my hair out of the toilet. <3"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/c-1/31
+msgctxt "Beverly"
+msgid "Now this time whenever I wake up in the bathroom, I can rub my success in Jean Loo’s stupid face!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/c-2/7
+msgctxt "Beverly"
+msgid "Haha what?"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/c-2/18/0/s/0
+msgctxt "Choix"
+msgid "When we’re sober we don’t have anything to talk about."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/c-2/18/1/s/0
+msgctxt "Choix"
+msgid "I don’t think this is healthy."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/g-0/0
+msgctxt "Beverly"
+msgid "Bottoms up!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return/0/g-0/11
+msgctxt "Beverly"
+msgid "Let’s get MESSED UP!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return_talk/0/0
+msgctxt "Beverly"
+msgid "Hey you!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return_talk/0/16
+msgctxt "Beverly"
+msgid "Tell. Me. EVERYTHING!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return_talk/0/24/s/0 beverly_beverage/beverly_friendship_return_talk/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Everything!"
+msgstr ""
+
+#: beverly_beverage/beverly_love_return_talk/0/25/s/0
+msgctxt "Choix"
+msgid "Beverly, I'm ready to Realize you."
+msgstr ""
+
+#: beverly_beverage/beverly_love_return_talk/0/c-0/7 beverly_beverage/beverly_friendship_return_talk/0/c-0/23/c-0/7
+msgctxt "Beverly"
+msgid "Haha - I love it!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/8 beverly_beverage/beverly_friendship_return_talk/0/0
+msgctxt "Beverly"
+msgid "Hey!! Welcome back!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/16/s/0
+msgctxt "Choix"
+msgid "Hi Bev! It’s starting to look lively here!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/17/s/0 beverly_beverage/beverly_friendship_return_talk/0/9/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Beverly."
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/7
+msgctxt "Beverly"
+msgid "More customers are coming in everyday! And it’s all thanks to you!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/15
+msgctxt "Beverly"
+msgid "Here, let me pour you our specialty cocktail!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/23
+msgctxt "Beverly"
+msgid "Aw what the hell, I’ll have one too!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "To our good health!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "To successful advertising!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/2/s/0
+msgctxt "Choix"
+msgid "To The Tipsy Tumbler!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/c-0/7
+msgctxt "Beverly"
+msgid "PFFF! Screw that, let’s RUIN our livers tonight!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/c-1/7
+msgctxt "Beverly"
+msgid "HELL YEAH!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/c-2/7
+msgctxt "Beverly"
+msgid "To a good friend!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/g-0/0
+msgctxt "Beverly"
+msgid "Now let’s get MESSED UP!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return/0/c-0/39/g-0/8
+msgctxt "Beverly"
+msgid "CHUG CHUG CHUG CHUG!!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return_talk/0/8/s/0
+msgctxt "Choix"
+msgid "Always great to pop in and see how things are going."
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return_talk/0/c-0/7
+msgctxt "Beverly"
+msgid "They're going great!"
+msgstr ""
+
+#: beverly_beverage/beverly_friendship_return_talk/0/c-0/15
+msgctxt "Beverly"
+msgid "Now pull up a seat and... Tell. Me. EVERYTHING!"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/0
+msgctxt "Beverly"
+msgid "I could serve drinks to real people?"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/8
+msgctxt "Beverly"
+msgid "Not that there's anything wrong with my customers here..."
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/16
+msgctxt "Beverly"
+msgid "But there's a lot more people out there than things in here!"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/24
+msgctxt "Beverly"
+msgid "You sure you can do it?"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/41/s/0 beverly_beverage/beverly_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "Yes, I have what it takes."
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/42/s/0 beverly_beverage/beverly_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/c-1/10
+msgctxt "Beverly"
+msgid "Oh! That's fine. Probably for the best."
+msgstr ""
+
+#: beverly_beverage/beverly_realize_join/0/c-1/18
+msgctxt "Beverly"
+msgid "But I'll be here when you are ready."
+msgstr ""
+
+#: beverly_beverage/beverly_realize_return/0/0
+msgctxt "Beverly"
+msgid "Oh! Are you ready now? With the making me human and stuff?"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_return/0/8
+msgctxt "Beverly"
+msgid "No rush! But I am excited..."
+msgstr ""
+
+#: beverly_beverage/beverly_realize_return/0/c-1/10
+msgctxt "Beverly"
+msgid "...you really love teasing, huh?"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_return/0/c-1/18
+msgctxt "Beverly"
+msgid "So do I!"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Starting with Beverly, huh? She should be great fun in the real world."
+msgstr ""
+
+#: beverly_beverage/beverly_realize_begin/9
+msgctxt "Skylar"
+msgid "Cheers to you, Bev!"
+msgstr ""
+
+#: beverly_beverage/beverly_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a mini-bar, becomes...."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/3
+msgctxt "Beverly"
+msgid "Woah!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/11
+msgctxt "Beverly"
+msgid "This used to be me? All those little bottles and stuff?"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/19
+msgctxt "Beverly"
+msgid "Mm... I looked good."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/27
+msgctxt "Narrator"
+msgid "Beverly takes a swig."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/35
+msgctxt "Beverly"
+msgid "Ooooh I burnnnn... I burnnn!!!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/43
+msgctxt "Beverly"
+msgid "That does not go down smooth!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/51
+msgctxt "Beverly"
+msgid "Phew, maybe my drinking days are behind me."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/59
+msgctxt "Beverly"
+msgid "But my entrepreneurial days are just beginning!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/67/s/0
+msgctxt "Choix"
+msgid "How about our sexy days?"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/68/s/0
+msgctxt "Choix"
+msgid "You go girl!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/c-0/7
+msgctxt "Beverly"
+msgid "Well... that alcohol sure did burn going down... and I do feel pretty hot..."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/c-0/15
+msgctxt "Beverly"
+msgid "Let's fade to black!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/c-0/23
+msgctxt "Narrator"
+msgid "We do indeed fade to black, but this scene is far from over. Beverly's party-girl days have left her with lots of interesting tricks she shows you with her signature flair."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/c-0/37
+msgctxt "Beverly"
+msgid "Woohoo! Let's have another round... on me!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/c-0/45/b/1
+msgctxt "Narrator"
+msgid "And when things cool down... she's a great cuddler."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/0
+msgctxt "Narrator"
+msgid "Beverly got her start at a local bar as a bar-back to learn what the human drinking scene was like."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/8
+msgctxt "Narrator"
+msgid "But with her supreme knowledge of beverages and bubbling personality - she was quickly promoted to head bartender."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/16
+msgctxt "Narrator"
+msgid "By saving up some cash, she purchased a foreclosed property that she put her blood, sweat, and vodka into."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/24
+msgctxt "Beverly"
+msgid "I'll call it..."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/32
+msgctxt "Beverly"
+msgid "Uh..."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/40
+msgctxt "Beverly"
+msgid "The Tipsy Tumbler!"
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/48
+msgctxt "Narrator"
+msgid "...to no one's surprise."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/56
+msgctxt "Narrator"
+msgid "The Tipsy Tumbler became a local favorite, packing the pub with crowds every night."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/64
+msgctxt "Narrator"
+msgid "It attracts the attention of franchisers, but offers to expand are all declined."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/72
+msgctxt "Narrator"
+msgid "Because each evening, Beverly's bar is full of smiling faces, and friends everywhere."
+msgstr ""
+
+#: beverly_beverage/beverly_realized/0/beverlyjoin/80
+msgctxt "Narrator"
+msgid "What more could she want?"
+msgstr ""

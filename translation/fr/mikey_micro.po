@@ -1,0 +1,3280 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: mikey_micro/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "MICROTRANSACTION"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/6
+msgctxt "Narrator"
+msgid "An armored warrior of some kind stands before you, a massive sack of loot slung over his shoulder. He greets you cheerfully, something about his smile and tone reminding you of your own customer service voice at work."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/14
+msgctxt "Mikey"
+msgid "Hey there! I'm Michael Transaction!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/22
+msgctxt "Mikey"
+msgid "But you can call me... Mikey!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/33
+msgctxt "Mikey"
+msgid "Thanks for your purchase of the <w>DATE EVERYTHING LUXURIOUS EDITION!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/41
+msgctxt "Mikey"
+msgid "Your purchase gives you <w>EXCLUSIVE ACCESS</w> to new features never seen in the game before!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/49/s/0
+msgctxt "Choix"
+msgid "What are the features?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/50/s/0
+msgctxt "Choix"
+msgid "Can I get a refund?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/51/s/0
+msgctxt "Choix"
+msgid "Microtransactions are evil!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-0/7
+msgctxt "Mikey"
+msgid "<w>Exclusive access</w> to the Fantastic Red Shirt!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-0/18
+msgctxt "Mikey"
+msgid "<w>Exclusive access</w> to the Art Book!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-0/29
+msgctxt "Mikey"
+msgid "<w>Exclusive access</w> to the Soundtrack!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-0/40
+msgctxt "Mikey"
+msgid "<w>Exclusive access</w> to Phone Backgrounds!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-0/51
+msgctxt "Mikey"
+msgid "<w>Exclusive access</w> to Lucinda Lavish!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-0/62
+msgctxt "Mikey"
+msgid "And most importantly... <w>Exclusive access</w> to me and my store, baby!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-1/7
+msgctxt "Narrator"
+msgid "Mikey's pleasant smile falters for just a moment."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-1/15
+msgctxt "Mikey"
+msgid "...yeah?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-1/23
+msgctxt "Mikey"
+msgid "You could."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-1/31
+msgctxt "Mikey"
+msgid "Please don't."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-1/39
+msgctxt "Mikey"
+msgid "You might just fall in love with me, baby!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/7
+msgctxt "Mikey"
+msgid "But I'm not!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/15
+msgctxt "Narrator"
+msgid "Despite having no visible eyelashes, Mikey manages to bat his at you all the same."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/23
+msgctxt "Mikey"
+msgid "I'm cute!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/0/s/0
+msgctxt "Choix"
+msgid "You prey upon humanity's worst tendencies."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/1/s/0
+msgctxt "Choix"
+msgid "You teach gambling to children!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/2/s/0
+msgctxt "Choix"
+msgid "You take away profits from game developers!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/3/s/0
+msgctxt "Choix"
+msgid "You're right, you are cute."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/7
+msgctxt "Mikey"
+msgid "So does the candy industry!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/15
+msgctxt "Mikey"
+msgid "Do you hate candy?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "This is a false equivalence."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Yeah! Candy is evil too!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "Eh, you're right I guess."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-0/7
+msgctxt "Mikey"
+msgid "Candy is something you pay money and get an unknown reward for!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-0/15
+msgctxt "Mikey"
+msgid "And if kids get rotten teeth, that's their own fault."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-0/23
+msgctxt "Mikey"
+msgid "They should have better parents!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-1/7
+msgctxt "Mikey"
+msgid "Uh, all right."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-1/15
+msgctxt "Mikey"
+msgid "Guess no candy for you..."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-1/23
+msgctxt "Mikey"
+msgid "Unless you ever get a sweet tooth... !"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-1/31
+msgctxt "Mikey"
+msgid "I'll be here by your bedside."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-0/23/c-2/7 mikey_micro/mikey_start/0/c-2/34/c-2/15/c-0/16/c-0/7 mikey_micro/mikey_start/0/c-2/34/c-3/7 mikey_micro/seeevil/0/c-0/39/c-1/7
+msgctxt "Mikey"
+msgid "Yay! Awkwardness averted!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-1/7
+msgctxt "Mikey"
+msgid "It's not gambling if there's no chance of winning any money!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-1/15
+msgctxt "Mikey"
+msgid "And I bring <w>joy</w> to kids with my thrill of <w>random chance!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-2/7
+msgctxt "Mikey"
+msgid "I can assure you that the creators of this game get a certain percentage of my profits!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "What percentage?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-2/15/c-0/7
+msgctxt "Mikey"
+msgid "I'm not certain."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/c-2/34/c-2/15/c-0/16/0/s/0
+msgctxt "Choix"
+msgid "Ugh, whatever."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/0/s/0
+msgctxt "Choix"
+msgid "I think I <i>might</i> just fall in love with you..."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/1/s/0
+msgctxt "Choix"
+msgid "I think we'll be good friends, Mikey."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/2/s/0
+msgctxt "Choix"
+msgid "I'm looking forward to getting you to hate me."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/c-3/7
+msgctxt "Mikey"
+msgid "Hey, you wouldn't be the first!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/c-3/15
+msgctxt "Mikey"
+msgid "I mean..."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/c-3/23
+msgctxt "Narrator"
+msgid "Mikey hefts his sack of loot onto his other shoulder, shifting uncomfortably."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/c-3/31
+msgctxt "Mikey"
+msgid "Stacy and I separated a little while ago... but we were in love, for a time."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/c-3/47
+msgctxt "Mikey"
+msgid "Ah hell, shouldn't bring that up so soon!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/c-4/7
+msgctxt "Mikey"
+msgid "Mikey likey!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/averted/c-5/7
+msgctxt "Mikey"
+msgid "Mikey no likey!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/0
+msgctxt "Mikey"
+msgid "Unlocking access to me means that you gain access to the <w>DATE EVERYTHING LOOT BOX!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/11
+msgctxt "Mikey"
+msgid "Each day you can pull me up to 5 times for my <w>EXTREME BONUS ARMOR!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/19/s/0
+msgctxt "Choix"
+msgid "Do I need armor in a dating sim?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/20/s/0
+msgctxt "Choix"
+msgid "Okay, sure."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/21/s/0
+msgctxt "Choix"
+msgid "Okay, I get it, let's go back to the menu."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/c-6/7
+msgctxt "Mikey"
+msgid "This armor is so powerful that it can raise your SPECS stats - meaning that you can blaze past huge portions of this game on your path to 100% completion!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/c-6/15/0/s/0
+msgctxt "Choix"
+msgid "What if I like taking my time?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/c-6/15/1/s/0
+msgctxt "Choix"
+msgid "Sounds great, I'm in!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/c-6/15/c-0/7
+msgctxt "Mikey"
+msgid "Then you'll love pulling for my armor regardless - it's fun!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/c-6/15/c-1/7
+msgctxt "Mikey"
+msgid "It's a blast, baby!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/explainwhatthisis/c-8/7
+msgctxt "Mikey"
+msgid "Yokay!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/7
+msgctxt "Mikey"
+msgid "You can pull for my Common Boots of True Presence."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/15
+msgctxt "Mikey"
+msgid "They have a high chance of being pulled!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/26 mikey_micro/mikey_start/0/g-0/56
+msgctxt "Mikey"
+msgid "Or..."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/37
+msgctxt "Mikey"
+msgid "You can pull for my Epic Gauntlets of Stardom!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/45
+msgctxt "Mikey"
+msgid "They have a small chance of being pulled!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/67
+msgctxt "Mikey"
+msgid "You can pull for my Legendary Cuirass of Unwavering Magnetism!!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/81
+msgctxt "Mikey"
+msgid "This extremely rare piece of cosmetics has a tiny chance of being pulled..."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/92
+msgctxt "Mikey"
+msgid "But it does exist! Trust me... I'm regulated by several gaming boards!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/100/s/0
+msgctxt "Choix"
+msgid "Ooohh... I'm looking forward to getting these!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/101/s/0
+msgctxt "Choix"
+msgid "I don't trust you."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-0/c-10/7
+msgctxt "Mikey"
+msgid "You don't have to - I'll do all the trusting for both of us!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-1/3
+msgctxt "Mikey"
+msgid "It costs a mere 8 Brundles for each pull!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-1/11
+msgctxt "Mikey"
+msgid "Brundles are a special kind of currency that you have <w>EXCLUSIVE ACCESS TO!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "How do I get Brundles?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "What do Brundles look like?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-1/c-11/7
+msgctxt "Mikey"
+msgid "Good question!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-1/c-12/7
+msgctxt "Mikey"
+msgid "I... don't know."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-1/c-12/15
+msgctxt "Mikey"
+msgid "But they taste <w>amazing</w>!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/0
+msgctxt "Mikey"
+msgid "In order to get your hands on some Brundles - you have to spend <w>Money</w>!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/8
+msgctxt "Mikey"
+msgid "You get 5 <w>Money</w> per day! Save up for <w>big pulls</w>!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "How do I get money if I don't have a job?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/17/s/0 mikey_micro/boots_fuse/0/40/s/0
+msgctxt "Choix"
+msgid "Awesome!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/7
+msgctxt "Mikey"
+msgid "Ah you're asking those <w>thinker</w> type questions!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/15
+msgctxt "Mikey"
+msgid "I love it - and I always have a <w>great explanation</w>!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/0/s/0
+msgctxt "Choix"
+msgid "So...?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/7 mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-4/7
+msgctxt "Mikey"
+msgid "Oh!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/15
+msgctxt "Mikey"
+msgid "Well!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/23
+msgctxt "Mikey"
+msgid "You said 'money' with no capitalization. That's totally different from 'Money' with the capitalization!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/31
+msgctxt "Mikey"
+msgid "You have very little money."
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/39
+msgctxt "Mikey"
+msgid "But just by being at your home, Valdivian pays out its employees 5 <w>Money</w> per day as a way of saying 'Thank!'"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "Do you mean... 'Thanks'?"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/47/1/s/0
+msgctxt "Choix"
+msgid "Makes perfect sense to me!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-2/c-13/23/c-0/47/c-0/7
+msgctxt "Mikey"
+msgid "Yeah, that!"
+msgstr ""
+
+#: mikey_micro/mikey_start/0/g-3/0
+msgctxt "Mikey"
+msgid "Come by when you've saved up enough <w>Money</w> and pull me, baby!"
+msgstr ""
+
+#: mikey_micro/seeevil/0/0/s/0
+msgctxt "Choix"
+msgid "See? Evil!"
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/7
+msgctxt "Mikey"
+msgid "...I'm not evil."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/15
+msgctxt "Mikey"
+msgid "I'm doing this to support my kids, if you really gotta know."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/23
+msgctxt "Mikey"
+msgid "Blame it on the economic climate, housing market, whatever you want."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/31
+msgctxt "Mikey"
+msgid "But a transaction's gotta transact to survive out there..."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "I'd rather you die."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "I guess I see where you're coming from..."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/c-0/7
+msgctxt "Mikey"
+msgid "All right, I've got thick skin."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/c-0/15
+msgctxt "Mikey"
+msgid "But enough is enough."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/c-0/23
+msgctxt "Mikey"
+msgid "I'll still let ya pull me, but we're gonna cool it for today."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/c-0/31
+msgctxt "Mikey"
+msgid "Goodbye."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/c-0/70
+msgctxt "Reggie"
+msgid "I don't get a single Money from all the microtransactions in this game."
+msgstr ""
+
+#: mikey_micro/seeevil/0/c-0/39/c-0/78
+msgctxt "Reggie"
+msgid "It's bullshit!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/3
+msgctxt "Mikey"
+msgid "What would you like to do?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/11/s/0
+msgctxt "Choix"
+msgid "Who was that on the phone?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/12/s/0
+msgctxt "Choix"
+msgid "Was that your wife on the phone?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/13/s/0
+msgctxt "Choix"
+msgid "Is everything okay at work?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/14/s/0
+msgctxt "Choix"
+msgid "Pull for armor!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/15/s/0
+msgctxt "Choix"
+msgid "Can you open the shop again?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/16/s/0
+msgctxt "Choix"
+msgid "Can you put your kids on?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/17/s/0
+msgctxt "Choix"
+msgid "Explain what this is..."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/18/s/0
+msgctxt "Choix"
+msgid "Let's go to the Brundle Merchant."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/19/s/0
+msgctxt "Choix"
+msgid "Can we try this Realization experiment and get you out of here?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/20/s/0
+msgctxt "Choix"
+msgid "Just saying hi!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/21/s/0
+msgctxt "Choix"
+msgid "Can we fix our relationship?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-9/7
+msgctxt "Mikey"
+msgid "I always love saying hello!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-9/15
+msgctxt "Mikey"
+msgid "Hello!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-9/26
+msgctxt "Mikey"
+msgid "I love saying that!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/7
+msgctxt "Mikey"
+msgid "Nope!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/0/s/0
+msgctxt "Choix"
+msgid "Okay..."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/1/s/0
+msgctxt "Choix"
+msgid "What if I used this candy...?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/2/s/0
+msgctxt "Choix"
+msgid "What if I gave you my legendary fused armor?"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-1/7
+msgctxt "Mikey"
+msgid "I'm the 101st character in this game."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-1/15
+msgctxt "Mikey"
+msgid "Meaning that if you used one of those candies on me, it would mess up the balance of the other candies!"
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-1/23
+msgctxt "Mikey"
+msgid "The math would be completely thrown off... and the balance, destroyed."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-1/31
+msgctxt "Mikey"
+msgid "I love balancing."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-1/39
+msgctxt "Mikey"
+msgid "And I still hate you."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-1/47
+msgctxt "Mikey"
+msgid "Always will."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-2/7 mikey_micro/mikey_love_ending/0/c-0/37 mikey_micro/mikey_love_ending/0/c-1/15/c-0/37 mikey_micro/mikey_friend_ending/0/32
+msgctxt "Mikey"
+msgid "Well."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-2/15
+msgctxt "Mikey"
+msgid "I suppose if you got that, it meant that you pulled me enough to enjoy my company a little bit at the very least..."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-2/31
+msgctxt "Mikey"
+msgid "Sure."
+msgstr ""
+
+#: mikey_micro/mikey_day_start/0/c-10/18/c-2/39
+msgctxt "Mikey"
+msgid "Friends it is, pally."
+msgstr ""
+
+#: mikey_micro/shop_closed_for_good/0
+msgctxt "Mikey"
+msgid "Ah sorry..."
+msgstr ""
+
+#: mikey_micro/shop_closed_for_good/8
+msgctxt "Mikey"
+msgid "By pulling 100 Legendary Armors I'm getting the feeling that either my balance is off, or somehow some kind of cheating is involved."
+msgstr ""
+
+#: mikey_micro/shop_closed_for_good/16/b/1
+msgctxt "Mikey"
+msgid "I love you, and I don't want to even <i>think</i> about you doing anything untoward."
+msgstr ""
+
+#: mikey_micro/shop_closed_for_good/19/b/1 mikey_micro/shop_closed_for_good/22/b/1
+msgctxt "Mikey"
+msgid "I like you, so I don't want to cast any aspersions."
+msgstr ""
+
+#: mikey_micro/shop_closed_for_good/25/b/1
+msgctxt "Mikey"
+msgid "Even though I hate you, I don't want to cast any aspersions."
+msgstr ""
+
+#: mikey_micro/shop_closed_for_good/25/b/9
+msgctxt "Mikey"
+msgid "Better just to close the shop for now until we get this all figured out."
+msgstr ""
+
+#: mikey_micro/pull_me_baby/23
+msgctxt "Mikey"
+msgid "I'll take those Brundles..."
+msgstr ""
+
+#: mikey_micro/pull_me_baby/31
+msgctxt "Mikey"
+msgid "Pull me, baby!"
+msgstr ""
+
+#: mikey_micro/out_of_dailies/0
+msgctxt "Mikey"
+msgid "Oh sorry... you've already pulled me five times today!"
+msgstr ""
+
+#: mikey_micro/out_of_dailies/8
+msgctxt "Mikey"
+msgid "I always have parental controls turned on. Trust me, it's for your own good."
+msgstr ""
+
+#: mikey_micro/out_of_dailies/16
+msgctxt "Mikey"
+msgid "Don't want you getting addicted to my charms too much, baby!"
+msgstr ""
+
+#: mikey_micro/out_of_dailies/24
+msgctxt "Mikey"
+msgid "Come back tomorrow!"
+msgstr ""
+
+#: mikey_micro/brundle_police/0/0
+msgctxt "Mikey"
+msgid "Oooh... you don't have enough Brundles."
+msgstr ""
+
+#: mikey_micro/brundle_police/0/8
+msgctxt "Mikey"
+msgid "Would you like to exchange <w>Money</w> for Brundles?"
+msgstr ""
+
+#: mikey_micro/brundle_police/0/16/s/0
+msgctxt "Choix"
+msgid "Sure..."
+msgstr ""
+
+#: mikey_micro/brundle_police/0/17/s/0
+msgctxt "Choix"
+msgid "Absolutely!"
+msgstr ""
+
+#: mikey_micro/brundle_police/0/18/s/0
+msgctxt "Choix"
+msgid "No, not now."
+msgstr ""
+
+#: mikey_micro/brundle_police/0/c-0/7 mikey_micro/brundle_police/0/c-1/7
+msgctxt "Mikey"
+msgid "Let's get you over to the Brundle Exchange!"
+msgstr ""
+
+#: mikey_micro/brundle_police/0/c-2/7
+msgctxt "Mikey"
+msgid "Your remaining Brundles have been returned!"
+msgstr ""
+
+#: mikey_micro/brundle_police/0/c-2/18
+msgctxt "Mikey"
+msgid "See you when you have more <w>Money</w>!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/3/b/1
+msgctxt "Narrator"
+msgid "Mikey turns around for a moment, and though nothing appears to have changed with him, when he speaks to you it's with an entirely new voice."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/6
+msgctxt "Mikey"
+msgid "Oi, 'ello."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/14
+msgctxt "Mikey"
+msgid "Oim the Brundle merchant."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/0
+msgctxt "Mikey"
+msgid "Would you loike to exchange cash for Brundles?"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/8/s/0 mikey_micro/mikey_love_ending/0/24/s/0
+msgctxt "Choix"
+msgid "Yes!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/9/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/10/s/0
+msgctxt "Choix"
+msgid "How much Money do I have?"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/11/s/0
+msgctxt "Choix"
+msgid "How many Brundles do I have?"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/7
+msgctxt "Mikey"
+msgid "'ow much? It's 10 Money for 6 Brundles."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "10 Money for 6 Brundles, please."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "20 Money for 12 Brundles, please."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "50 Money for 30 Brundles, please."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/3/s/0
+msgctxt "Choix"
+msgid "100 Money for 60 Brundles, please."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-0/22 mikey_micro/brundle_exchange/0/22/c-0/15/c-1/22 mikey_micro/brundle_exchange/0/22/c-0/15/c-2/22
+msgctxt "Narrator"
+msgid "Mikey hands you your brundles. They shine appealingly in your hands."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-0/33
+msgctxt "Mikey"
+msgid "'Ere you are - 6 Golden Brundles!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-1/33
+msgctxt "Mikey"
+msgid "Blimey! 'Ere you are then - 12 Golden Brundles!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-2/33
+msgctxt "Mikey"
+msgid "Cor! 30 Golden Brundles for you - take care not to sneeze or they'll go flyin'!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/29
+msgctxt "Mikey"
+msgid "Bloody 'ell! I'll 'ave to go to the back of me shop for that amount."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/40
+msgctxt "Narrator"
+msgid "Mikey walks out of sight, talking rather loudly to himself."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/45 mikey_micro/brundle_exchange/0/22/c-0/15/c-3/110 mikey_micro/brundle_exchange/0/22/c-0/15/c-3/180
+msgctxt "Mikey"
+msgid "clomp clomp clomp"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/50
+msgctxt "Mikey"
+msgid "Oi! Where's me Brundles?"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/55
+msgctxt "Mikey"
+msgid "'ow many do they want then?"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/65
+msgctxt "Mikey"
+msgid "Dearie me dearie me!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/70
+msgctxt "Mikey"
+msgid "We'll be out soon oi fear! It's been a tough winter..."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/75
+msgctxt "Mikey"
+msgid "Well wot are we to do?"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/80
+msgctxt "Mikey"
+msgid "Can they not give us a day? Some time at least... some time will get us through this winter's discontent..."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/85
+msgctxt "Mikey"
+msgid "Moi love... if I have to steal for them... I shall."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/90
+msgctxt "Mikey"
+msgid "Your thievin' ways! Don't do it, Reginald!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/95
+msgctxt "Mikey"
+msgid "Oi must!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/100
+msgctxt "Mikey"
+msgid "Reginald!!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/105
+msgctxt "Mikey"
+msgid "crash boom"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/115
+msgctxt "Mikey"
+msgid "Noi! It's the Brumble thief back again!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/120
+msgctxt "Mikey"
+msgid "'ide your Brumbles!! 'ide them all!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/125
+msgctxt "Mikey"
+msgid "OI JUST NEED 60 - that's ALL!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/130
+msgctxt "Mikey"
+msgid "Stop! By order of Sheriff Tabatha you are to—"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/135
+msgctxt "Mikey"
+msgid "Euuuuugrrrknn my neck!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/145
+msgctxt "Mikey"
+msgid "...it'll 'ave to do..."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/150
+msgctxt "Mikey"
+msgid "'e's taken precisely 60 Brumbles from the knight's purse!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/155
+msgctxt "Mikey"
+msgid "Let that be a lesson to Tabatha and 'er iron rule!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/160
+msgctxt "Mikey"
+msgid "Oi noi 'e's inciting us to riot based on our oppressive ruling class!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/165
+msgctxt "Mikey"
+msgid "Oi loive rioting!!"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/170
+msgctxt "Mikey"
+msgid "<w>crowd noises</w>"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/175
+msgctxt "Mikey"
+msgid "<i>Now to make moi escape.</i>"
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/188
+msgctxt "Narrator"
+msgid "He returns, handing you a sack of brundles with a completely casual expression, like nothing just happened at all."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-0/15/c-3/196
+msgctxt "Mikey"
+msgid "There you are. 60 Brundles."
+msgstr ""
+
+#: mikey_micro/brundle_exchange/0/22/c-1/7
+msgctxt "Mikey"
+msgid "Awright."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/0
+msgctxt "Mikey"
+msgid "Oh, terribly sorry then."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/8
+msgctxt "Mikey"
+msgid "You seem to be out of coin."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/16
+msgctxt "Mikey"
+msgid "It's dangerous to spend all your coin on pulling, trust me."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/24/s/0
+msgctxt "Choix"
+msgid "Can I get a loan?"
+msgstr ""
+
+#: mikey_micro/out_of_money/0/25/s/0
+msgctxt "Choix"
+msgid "How do I get more money?"
+msgstr ""
+
+#: mikey_micro/out_of_money/0/26/s/0
+msgctxt "Choix"
+msgid "How do I get more Money?"
+msgstr ""
+
+#: mikey_micro/out_of_money/0/c-0/7
+msgctxt "Mikey"
+msgid "Don't do that."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/c-0/15
+msgctxt "Mikey"
+msgid "For god sakes no."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/c-0/23
+msgctxt "Mikey"
+msgid "This conversation is over."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/c-1/7
+msgctxt "Mikey"
+msgid "The labor dispute with Valdivian enti'les you to a small living stipend that is paid out weekly."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/c-1/15
+msgctxt "Mikey"
+msgid "Plus, you can pull interest from your IRA as well for a small tax pen'lty."
+msgstr ""
+
+#: mikey_micro/out_of_money/0/c-2/7
+msgctxt "Mikey"
+msgid "Just wait it out - you earn 5 <w>Money</w> each day."
+msgstr ""
+
+#: mikey_micro/big_brundle_skip/0
+msgctxt "Mikey"
+msgid "Good grief! 'Ere's your 60 Brundles then you big spendah."
+msgstr ""
+
+#: mikey_micro/money_tally/0 mikey_micro/brundle_tally/0
+msgctxt "Mikey"
+msgid "Moi mother always told me to never say a customer's bank account out loud."
+msgstr ""
+
+#: mikey_micro/money_tally/11 mikey_micro/brundle_tally/11
+msgctxt "Mikey"
+msgid "So oil simply say..."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/money_tally/19 mikey_micro/brundle_tally/19
+msgctxt "Mikey"
+msgid "You have"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/money_tally/24
+msgctxt "Narration / joueur"
+msgid "Money."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/brundle_tally/24
+msgctxt "Narration / joueur"
+msgid "Brundles."
+msgstr ""
+
+#: mikey_micro/test_fuse_please_ignore/0/0
+msgctxt "Mikey"
+msgid "Whaddaya want?"
+msgstr ""
+
+#: mikey_micro/test_fuse_please_ignore/0/2/s/0
+msgctxt "Choix"
+msgid "Test boots"
+msgstr ""
+
+#: mikey_micro/test_fuse_please_ignore/0/3/s/0
+msgctxt "Choix"
+msgid "Test gauntlets"
+msgstr ""
+
+#: mikey_micro/test_fuse_please_ignore/0/4/s/0
+msgctxt "Choix"
+msgid "Test cuirass"
+msgstr ""
+
+#: mikey_micro/test_fuse_please_ignore/0/5/s/0
+msgctxt "Choix"
+msgid "Go back home"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/boots_test/0/3 mikey_micro/gauntlets_test/0/3 mikey_micro/cuirass_test/0/3
+msgctxt "Narrator"
+msgid "You have"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/boots_test/0/8
+msgctxt "Narration / joueur"
+msgid "boots."
+msgstr ""
+
+#: mikey_micro/boots_test/0/10
+msgctxt "Mikey"
+msgid "How many boots you want?"
+msgstr ""
+
+#: mikey_micro/boots_test/0/12/s/0 mikey_micro/gauntlets_test/0/12/s/0 mikey_micro/cuirass_test/0/12/s/0
+msgctxt "Choix"
+msgid "Ninety!"
+msgstr ""
+
+#: mikey_micro/boots_test/0/13/s/0 mikey_micro/gauntlets_test/0/13/s/0 mikey_micro/cuirass_test/0/13/s/0
+msgctxt "Choix"
+msgid "Nine!"
+msgstr ""
+
+#: mikey_micro/boots_test/0/14/s/0 mikey_micro/gauntlets_test/0/14/s/0 mikey_micro/cuirass_test/0/14/s/0
+msgctxt "Choix"
+msgid "One!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/gauntlets_test/0/8
+msgctxt "Narration / joueur"
+msgid "gauntlets."
+msgstr ""
+
+#: mikey_micro/gauntlets_test/0/10
+msgctxt "Mikey"
+msgid "How many gauntlets you want?"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/cuirass_test/0/8
+msgctxt "Narration / joueur"
+msgid "armors."
+msgstr ""
+
+#: mikey_micro/cuirass_test/0/10
+msgctxt "Mikey"
+msgid "How many armors you want?"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/34
+msgctxt "Mikey"
+msgid "...oh!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/68
+msgctxt "Mikey"
+msgid "<w>YOU GOT THE LEGENDARY CUIRASS OF UNWAVERING MAGNETISM!</w>"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/79/b/1
+msgctxt "Mikey"
+msgid "...again!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/82/s/0
+msgctxt "Choix"
+msgid "Woohoo!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/83/s/0
+msgctxt "Choix"
+msgid "Yawn."
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/84/s/0
+msgctxt "Choix"
+msgid "Can't wait to try it on!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/c-0/7
+msgctxt "Mikey"
+msgid "Congratulations!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/c-1/7
+msgctxt "Mikey"
+msgid "UH YAWN?"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/c-1/15
+msgctxt "Mikey"
+msgid "<w>WHAT THE HELL KINDA REACTION IS THAT!</w>"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/c-1/26/b/1
+msgctxt "Mikey"
+msgid "Eh, I guess we have been here quite a few times before."
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/c-2/7
+msgctxt "Mikey"
+msgid "You're looking great!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/g-0/0/b/1 mikey_micro/gauntlets_fuse/0/g-0/22/6/b/1
+msgctxt "Mikey"
+msgid "With this, all of your SPECS stats have increased by 10!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/legendary_armor/0/g-0/11/b/1 mikey_micro/gauntlets_get/0/g-0/3/b/1 mikey_micro/multiboots/0/0
+msgctxt "Narrator"
+msgid "<i>You now possess"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/legendary_armor/0/g-0/11/b/6
+msgctxt "Narration / joueur"
+msgid "Legendary Armors.</i>"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/g-0/11/b/8
+msgctxt "Mikey"
+msgid "If you collect 100 Legendary Armors, you can fuse them to set all your SPECS stats to 1000!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/g-0/14/b/1 mikey_micro/gauntlets_get/0/g-0/17/b/1 mikey_micro/multiboots/0/c-0/7
+msgctxt "Mikey"
+msgid "Good luck, Pulling Pal!"
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/g-0/17
+msgctxt "Mikey"
+msgid "Ah... I always get a little emotional when this happens."
+msgstr ""
+
+#: mikey_micro/legendary_armor/0/g-0/25
+msgctxt "Mikey"
+msgid "You know how to pull me just right!"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/0
+msgctxt "Mikey"
+msgid "What the actual fuck."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/8
+msgctxt "Mikey"
+msgid "<w>100 Legendary Armors???</w>"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/20
+msgctxt "Mikey"
+msgid "Okay..."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/28
+msgctxt "Mikey"
+msgid "I will fuse these into the <w>MOST INCREDIBLE FUSED LEGENDARY ARMOR EVER!!!!</w>"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/87
+msgctxt "Mikey"
+msgid "Your SPECS points are now unconscionably high!"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/95/s/0
+msgctxt "Choix"
+msgid "Hell yes!! I beat the game!"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/96/s/0
+msgctxt "Choix"
+msgid "Darn, I was only looking for more boots..."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/97/s/0
+msgctxt "Choix"
+msgid "Ah man, Mikey, you're the best!"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/c-0/7
+msgctxt "Mikey"
+msgid "I... guess you did?"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/c-1/7
+msgctxt "Mikey"
+msgid "Yeah... sure you were."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/c-1/15
+msgctxt "Mikey"
+msgid "weirdo"
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/c-2/7
+msgctxt "Mikey"
+msgid "Yep."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/c-2/15
+msgctxt "Mikey"
+msgid "I sure am..."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/g-0/0
+msgctxt "Mikey"
+msgid "I'm..."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/g-0/8
+msgctxt "Mikey"
+msgid "I'm going to turn off the shop."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/g-0/16
+msgctxt "Mikey"
+msgid "We're..."
+msgstr ""
+
+#: mikey_micro/legendary_fuse/0/g-0/24
+msgctxt "Mikey"
+msgid "We're done now."
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/54
+msgctxt "Mikey"
+msgid "<w>YOU GOT THE EPIC GAUNTLETS OF STARDOM!</w>"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/65/s/0
+msgctxt "Choix"
+msgid "Pretty good!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/66/s/0
+msgctxt "Choix"
+msgid "All right... I guess that's okay."
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/67/s/0
+msgctxt "Choix"
+msgid "I'm on my way to a new cuirass..."
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/c-0/7
+msgctxt "Mikey"
+msgid "Damn straight it is!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/c-1/7
+msgctxt "Mikey"
+msgid "It's more than okay! They are <w>so heavy</w>!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/c-2/7
+msgctxt "Mikey"
+msgid "Glad you're keeping at it!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/c-2/15/b/1
+msgctxt "Mikey"
+msgid "Even though you've already got one!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/0/b/4
+msgctxt "Mikey"
+msgid "Now these are of a much rarer quality than the stupid boots."
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/0/b/12 mikey_micro/boots_fuse/0/g-0/0/b/1
+msgctxt "Mikey"
+msgid "Your SPECS points have all increased by 1!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/0/b/68
+msgctxt "Mikey"
+msgid "Feel the energy! Feel the time you would normally spend talking with dateable objects <w>melt away!</w>"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/0/b/76
+msgctxt "Mikey"
+msgid "See you for the next one, Pulling Pal!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/gauntlets_get/0/g-0/3/b/6
+msgctxt "Narration / joueur"
+msgid "Gauntlets.</i>"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/3/b/8
+msgctxt "Mikey"
+msgid "You already have them, so your SPECS points don't raise just yet."
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/3/b/16
+msgctxt "Mikey"
+msgid "I'm sure that extra 1 SPECS Point has come in handy though!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/3/b/24
+msgctxt "Mikey"
+msgid "Keep working at it - once you have 100 - you can fuse them into 1 Legendary Cuirass of Unwavering Magnetism!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/6/b/1 mikey_micro/boots_get/76/b/1
+msgctxt "Mikey"
+msgid "The collection begins anew! That's one!"
+msgstr ""
+
+#: mikey_micro/gauntlets_get/0/g-0/6/b/9
+msgctxt "Mikey"
+msgid "99 more to achieve a new cuirass!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/4
+msgctxt "Mikey"
+msgid "WOAH NELLY!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/12
+msgctxt "Mikey"
+msgid "<w>100 EPIC GAUNTLETS OF STARDOM??</w>"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/26
+msgctxt "Mikey"
+msgid "It's time to forge them into something magnificent!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/34/s/0
+msgctxt "Choix"
+msgid "Let's gooooo!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/35/s/0
+msgctxt "Choix"
+msgid "Forge away, dude!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/36/s/0
+msgctxt "Choix"
+msgid "I already got an armor. Yawn."
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/c-0/7
+msgctxt "Mikey"
+msgid "I love the enthusiasm!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/c-1/7
+msgctxt "Mikey"
+msgid "Witness my might!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/c-2/7
+msgctxt "Mikey"
+msgid "Uh, sure..."
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/g-0/0
+msgctxt "Mikey"
+msgid "The recipe is complete - I will now fuse them into..."
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/g-0/11
+msgctxt "Mikey"
+msgid "THE LEGENDARY CUIRASS OF UNWAVERING MAGNETISM!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/g-0/22/6/b/54
+msgctxt "Mikey"
+msgid "Well done! I hope these SPECS points help you on your journey to avoid difficult conversations with dateable objects!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/g-0/22/6/b/62
+msgctxt "Mikey"
+msgid "They're the worst!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/g-0/22/9/b/1
+msgctxt "Mikey"
+msgid "...which you already have!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/g-0/22/9/b/9
+msgctxt "Mikey"
+msgid "Good work using crafting and fusion to give yourself more of something better!"
+msgstr ""
+
+#: mikey_micro/gauntlets_fuse/0/g-0/22/9/b/25
+msgctxt "Mikey"
+msgid "Okay bye!"
+msgstr ""
+
+#: mikey_micro/boots_get/54
+msgctxt "Mikey"
+msgid "You got the Common Boots of True Presence!"
+msgstr ""
+
+#: mikey_micro/boots_get/65
+msgctxt "Mikey"
+msgid "With this, all of your SPECS stats have increased by 0.01!"
+msgstr ""
+
+#: mikey_micro/boots_get/76/b/9
+msgctxt "Mikey"
+msgid "99 more to achieve a new pair of gauntlets!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/0
+msgctxt "Mikey"
+msgid "It may not have been what you hoped, but no set of <w>Legendary Armor</w> would be complete without boots."
+msgstr ""
+
+#: mikey_micro/first_boots/0/8
+msgctxt "Mikey"
+msgid "It's a great start!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/16/s/0
+msgctxt "Choix"
+msgid "Okay, I guess."
+msgstr ""
+
+#: mikey_micro/first_boots/0/17/s/0
+msgctxt "Choix"
+msgid "Thanks Mikey! I think it's great!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/18/s/0
+msgctxt "Choix"
+msgid "Ugh, this sucks."
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-0/7
+msgctxt "Mikey"
+msgid "You guessed right!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-0/15
+msgctxt "Mikey"
+msgid "It's all right. You'll get it on your next pull... I can feel it!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-0/23 mikey_micro/first_boots/0/c-1/23 mikey_micro/first_boots/0/c-2/31
+msgctxt "Mikey"
+msgid "Plus - once you get 100 of them, you can fuse them into <w>Epic Gauntlets of Stardom!</w>"
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-0/31 mikey_micro/first_boots/0/c-1/31 mikey_micro/first_boots/0/c-2/39
+msgctxt "Mikey"
+msgid "Pull it, baby!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-1/7
+msgctxt "Mikey"
+msgid "Heyyyyy!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-1/15
+msgctxt "Mikey"
+msgid "With that attitude... you'll get it on your next pull... I can feel it!"
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-2/7
+msgctxt "Mikey"
+msgid "Never say that about boots."
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-2/15
+msgctxt "Mikey"
+msgid "They may be common, but without them you would never be able to walk over decorative rocks."
+msgstr ""
+
+#: mikey_micro/first_boots/0/c-2/23
+msgctxt "Mikey"
+msgid "You'll get it on your next pull... I can feel it!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mikey_micro/multiboots/0/5
+msgctxt "Narration / joueur"
+msgid "Boots.</i>"
+msgstr ""
+
+#: mikey_micro/multiboots/0/7
+msgctxt "Mikey"
+msgid "If you collect 100 Common Boots of True Presence, you can fuse them into a pair of <w>Epic Gauntlets of Stardom!</w>"
+msgstr ""
+
+#: mikey_micro/multiboots/0/15/s/0
+msgctxt "Choix"
+msgid "All right - I'm on the quest!"
+msgstr ""
+
+#: mikey_micro/multiboots/0/16/s/0
+msgctxt "Choix"
+msgid "Yawn. Add 'em to the pile."
+msgstr ""
+
+#: mikey_micro/multiboots/0/17/s/0
+msgctxt "Choix"
+msgid "It's all part of the grind."
+msgstr ""
+
+#: mikey_micro/multiboots/0/c-1/7
+msgctxt "Mikey"
+msgid "Sure..."
+msgstr ""
+
+#: mikey_micro/multiboots/0/c-2/7
+msgctxt "Mikey"
+msgid "I just like to be there for the process!"
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/10
+msgctxt "Mikey"
+msgid "Your hard work pulling paid off!"
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/18
+msgctxt "Mikey"
+msgid "100 Common Boots equals..."
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/26
+msgctxt "Mikey"
+msgid "1 <w>Epic Gauntlet of Stardom!</w>"
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/41/s/0
+msgctxt "Choix"
+msgid "They're just gloves, dude."
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/42/s/0
+msgctxt "Choix"
+msgid "Sure, whatever."
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/c-0/7
+msgctxt "Mikey"
+msgid "I think so too!"
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/c-1/7
+msgctxt "Mikey"
+msgid "Do gloves have titles and <w>wavy text</w>?"
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/c-1/15
+msgctxt "Mikey"
+msgid "I think not!"
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/c-2/7
+msgctxt "Mikey"
+msgid "Okay!"
+msgstr ""
+
+#: mikey_micro/boots_fuse/0/g-0/3
+msgctxt "Mikey"
+msgid "I'm sure with this power brimming through you, you will make those darn dateables swoon for you with your exceptional skill!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/0
+msgctxt "Mikey"
+msgid "Oh, haha, you know what, sure!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/8
+msgctxt "Mikey"
+msgid "<i>Just don't tell the bosses, yeah?</i>"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/16
+msgctxt "Narrator"
+msgid "Mikey pulls out his phone, dialing some number and putting the kids on speakerphone. He beams, positively radiating paternal pride."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/24/b/1
+msgctxt "Mikey"
+msgid "Hey there kids! Daddy and his friend are here!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/27/b/1
+msgctxt "Mikey"
+msgid "Hey there kids! Daddy and his special friend are here!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/33
+msgctxt "Narrator"
+msgid "Three distinct and very, very young voices come through the phone, all speaking over each other."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/41
+msgctxt "Makayla"
+msgid "Hello!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/46
+msgctxt "Marco"
+msgid "Are we talking"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/51
+msgctxt "Mickey"
+msgid "Hiiiiiiiiii"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/56/s/0
+msgctxt "Choix"
+msgid "Hey kids!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/57/s/0
+msgctxt "Choix"
+msgid "Am I on?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/58/s/0
+msgctxt "Choix"
+msgid "Yo yo yo who's my favorite little beans?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/0
+msgctxt "Makayla"
+msgid "Daddy that sounds like a human!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/5
+msgctxt "Marco"
+msgid "That sounds so weiiirrdd"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/10
+msgctxt "Mickey"
+msgid "I like grapes"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/15/b/1
+msgctxt "Mikey"
+msgid "Yep, it's my human friend!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/18/b/1
+msgctxt "Mikey"
+msgid "Yep, it's my special human friend! Maybe one day he will come over and meet you!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/21/b/1
+msgctxt "Mikey"
+msgid "Yep, it's my special human friend! Maybe one day she will come over and meet you!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/24/b/1
+msgctxt "Mikey"
+msgid "Yep, it's my special human friend! Maybe one day they will come over and meet you!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/27/b/1
+msgctxt "Marco"
+msgid "What's a special friend"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/30/b/1
+msgctxt "Makayla"
+msgid "It's when one object loves another very very much"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/33/b/1
+msgctxt "Mickey"
+msgid "I like gra pes"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/0
+msgctxt "Mikey"
+msgid "Wanna ask them something?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/6/b/1
+msgctxt "Mikey"
+msgid "Okay, I can tell they're getting tired."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/6/b/9
+msgctxt "Mikey"
+msgid "I'm hanging up now! Ok, see you kids soon!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/6/b/17
+msgctxt "Kids"
+msgid "Bye!!!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/9/b/1 mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/0
+msgctxt "Mikey"
+msgid "Anything else?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/12/s/0
+msgctxt "Choix"
+msgid "What do you think you'll be when you grow up?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/13/s/0
+msgctxt "Choix"
+msgid "What do you like most about your dad?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/14/s/0
+msgctxt "Choix"
+msgid "What do you like most about your mom?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/15/s/0
+msgctxt "Choix"
+msgid "What do you think about humans?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-3/7
+msgctxt "Makayla"
+msgid "I'm going to be a new kind of vacuum that takes away all the bad pollution."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-3/12
+msgctxt "Marco"
+msgid "I'm gonna be a big type of building that flies!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-3/17
+msgctxt "Mickey"
+msgid "I wanna be a baseball"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-3/22
+msgctxt "Mikey"
+msgid "I think baseballs are already a thing, Mickey."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-3/30
+msgctxt "Mickey"
+msgid "Then I'll be a yellow baseball"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-3/35
+msgctxt "Mickey"
+msgid "Big yellow baseball with stickers"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-3/40
+msgctxt "Mikey"
+msgid "Makes sense to me!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-4/7
+msgctxt "Makayla"
+msgid "Dad sacrifices everything for us. Every weekend we get to spend with him is the best."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-4/12
+msgctxt "Marco"
+msgid "He's so good at playing hide-and-go-seek!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-4/17
+msgctxt "Mickey"
+msgid "I don't like my daddy"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-4/22
+msgctxt "Mikey"
+msgid "Oh dear..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-4/33
+msgctxt "Mickey"
+msgid "<w>I LOVE MY DADDY</w>"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-4/41
+msgctxt "Makayla"
+msgid "haha nice one mickey"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-4/46
+msgctxt "Narrator"
+msgid "Mikey's face turns a delightful shade of crimson. You wonder if he's beginning to regret letting you speak to his children."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/7
+msgctxt "Makayla"
+msgid "Ummm...."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/12
+msgctxt "Makayla"
+msgid "Mommy is a good leader and has good moral standards."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/17
+msgctxt "Marco"
+msgid "It takes forever to get to her house after visiting daddy though..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/22
+msgctxt "Mickey"
+msgid "Mommy makes great words but Mommy makes bad singing."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/27
+msgctxt "Marco"
+msgid "Aw, yeah! Sing, daddy, sing!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/32
+msgctxt "Mikey"
+msgid "Oh..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/40
+msgctxt "Mikey"
+msgid "<w>♪ Just a sweet little lullaby... ♪</w>"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/48
+msgctxt "Mikey"
+msgid "<w>♪ For my sweet little lady... ♪</w>"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/56
+msgctxt "Mikey"
+msgid "<w>♪ And two little babies... ♪</w>"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/64
+msgctxt "Mikey"
+msgid "<w>♪ Who sail through the magical skies... ♪</w>"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/72
+msgctxt "Kids"
+msgid "Yay!!!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-5/80
+msgctxt "Marco"
+msgid "Wait I'm not a baby!!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/7
+msgctxt "Makayla"
+msgid "Humans and objects are both necessary parts of the universe."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/12
+msgctxt "Makayla"
+msgid "Without objects, humans couldn't exist."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/17
+msgctxt "Makayla"
+msgid "And without humans, there would be no one to bring meaning to objects."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/22
+msgctxt "Makayla"
+msgid "We would all just be one and the same."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/27
+msgctxt "Mikey"
+msgid "Good job, Makayla!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/35
+msgctxt "Mikey"
+msgid "She's been studying."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/0/s/0
+msgctxt "Choix"
+msgid "Do you like that you have your own separate identity from the other objects?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/1/s/0
+msgctxt "Choix"
+msgid "Mickey, wanna weigh in?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/c-0/7
+msgctxt "Makayla"
+msgid "Umm..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/c-0/12
+msgctxt "Makayla"
+msgid "Yeah! I do!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/c-0/17
+msgctxt "Marco"
+msgid "Of course she does, she's so full of herself"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/c-0/22
+msgctxt "Makayla"
+msgid "Shut up Marco!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/c-0/27
+msgctxt "Mikey"
+msgid "C'mon kids, settle down."
+msgstr ""
+
+#: mikey_micro/mikey_kids_hello/0/g-0/36/8/c-6/43/c-1/7
+msgctxt "Mickey"
+msgid "no"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/6
+msgctxt "Narrator"
+msgid "You're surprised to see Mikey busy with a phone call—he's turned away from you, talking into a cell phone. You can hear the warmth in his voice as he speaks."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/14
+msgctxt "Mikey"
+msgid "Yeah?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/24
+msgctxt "Mikey"
+msgid "Aw, Makayla that's great! I'm so happy to hear that!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/32
+msgctxt "Mikey"
+msgid "Uh huh."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/37
+msgctxt "Mikey"
+msgid "Oh, now, Mickey, that doesn't mean I love her more!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/45
+msgctxt "Mikey"
+msgid "Hahaha!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/55
+msgctxt "Mikey"
+msgid "Yeah, Daddy's working. I'll be back soon for ya."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/60
+msgctxt "Mikey"
+msgid "Love- love you, too. Bye bye."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/70
+msgctxt "Narrator"
+msgid "Mikey spends a small moment looking at the phone, then notices your presence. His demeanor changes to his usual self."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_1/78
+msgctxt "Mikey"
+msgid "Oh, sorry!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_2/12
+msgctxt "Narrator"
+msgid "Mikey is once again occupied with his phone—he doesn't seem very happy with whoever is on the other end."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_2/20
+msgctxt "Mikey"
+msgid "I told you, Stacy, I can't come home tonight. They have me staying late. You'll have to arrange for someone—"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_2/30
+msgctxt "Mikey"
+msgid "Yes, we use the shared calendar, remember?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_2/35
+msgctxt "Mikey"
+msgid "I told you to write down the password! C'mon Stace, we can't—"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_2/43
+msgctxt "Narrator"
+msgid "Mikey removes the phone from his ear, looking down at it with a blank expression. It appears the other caller hung up."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_2/51
+msgctxt "Narrator"
+msgid "When he sees you standing there, he immediately begins pressing buttons on his phone, laughing nervously."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_2/59
+msgctxt "Mikey"
+msgid "Uh, whoops! Sorry, I had to fiddle with some buttons and knobs before your gacha was ready."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/12
+msgctxt "Narrator"
+msgid "Once again, Mikey is on his phone when you see him, but he seems even more upset than the last time. The call does not appear to be going his way."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/20
+msgctxt "Mikey"
+msgid "I've already been doing my best! You're adjusting the drop rates again?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/25
+msgctxt "Mikey"
+msgid "Just because of some whales who think they own the—"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/30
+msgctxt "Mikey"
+msgid "No, you listen to m—"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/35
+msgctxt "Mikey"
+msgid "YOU LISTEN TO ME!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/43
+msgctxt "Narrator"
+msgid "The moment Mikey notices you his energy changes—that air of boyish charm comes right back up."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/51
+msgctxt "Mikey"
+msgid "Haha! We've got a customer here... !"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/70
+msgctxt "Mikey"
+msgid "Yes, I'll call you back later! Have a nice Valdivian day, and keep your—"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/86
+msgctxt "Narrator"
+msgid "Just like the last time, he stares down at his phone with a numb expression... it seems he's been hung up on again."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/94
+msgctxt "Mikey"
+msgid "Hello. Apologies. Again."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_3/102
+msgctxt "Mikey"
+msgid "Phew! Getting tough these days to keep my energy up, but..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/6
+msgctxt "Narrator"
+msgid "Mikey fidgets with his sack of loot, not quite meeting your gaze."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/14
+msgctxt "Mikey"
+msgid "Oh! Those were my kids."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/22
+msgctxt "Mikey"
+msgid "I apologize for having them on the call while on duty."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/30
+msgctxt "Mikey"
+msgid "That is unprofessional."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/38/s/0
+msgctxt "Choix"
+msgid "Yes, it's unprofessional."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/39/s/0
+msgctxt "Choix"
+msgid "It's okay, Mikey. I was just curious."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/c-0/7
+msgctxt "Mikey"
+msgid "Indeed."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/c-0/15
+msgctxt "Mikey"
+msgid "Let's get back to the game, shall we?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/c-1/13
+msgctxt "Mikey"
+msgid "Huh."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/c-1/21
+msgctxt "Mikey"
+msgid "Well I guess I could file this under 'unspecified break-time'."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/c-1/29
+msgctxt "Mikey"
+msgid "What do you want to know?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/0/b/1
+msgctxt "Mikey"
+msgid "Okay, enough of all this."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/0/b/9
+msgctxt "Mikey"
+msgid "I gotta get back to work!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/9/s/0
+msgctxt "Choix"
+msgid "How many kids do you have?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/10/s/0
+msgctxt "Choix"
+msgid "How can things have children?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/11/s/0
+msgctxt "Choix"
+msgid "Who is your wife?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/12/s/0
+msgctxt "Choix"
+msgid "What kinds of things do you like to do with your kids together?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-2/7
+msgctxt "Mikey"
+msgid "I have three kids: Makayla, Marco, and Mickey."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "That's so cute!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Sounds like a good grouping of names."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-2/15/c-0/7
+msgctxt "Mikey"
+msgid "They are!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-2/15/c-1/7
+msgctxt "Mikey"
+msgid "I came up with all of them!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/7
+msgctxt "Mikey"
+msgid "Ah well, there's some science stuff and \"Thing Theory\" I'm not up to date on..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/15
+msgctxt "Mikey"
+msgid "But just like how each of us represents one thing in existence... kids in the object world become new things that haven't been invented or discovered yet!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "So they can become like spaceships and stuff?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/1/s/0
+msgctxt "Choix"
+msgid "You must be fairly young yourself then as a microtransaction."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/c-0/7
+msgctxt "Mikey"
+msgid "Yeah, or selfie sticks!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/c-1/7
+msgctxt "Mikey"
+msgid "Fairly young and robust I might say!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/c-1/15
+msgctxt "Mikey"
+msgid "I was born from my parents - Roland the Roulette Wheel and Addie Addiction."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/c-1/23
+msgctxt "Mikey"
+msgid "My mom... has a ton of offspring..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Can we talk about her?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "I can imagine."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-3/23/c-1/31/c-0/7
+msgctxt "Mikey"
+msgid "No."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-4/15
+msgctxt "Mikey"
+msgid "She's great."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-5/7
+msgctxt "Mikey"
+msgid "When we're together we get into all kinds of trouble!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-5/15
+msgctxt "Mikey"
+msgid "Fingerpainting, bird-watching, and talking about what kinds of concepts they want to be when they grow up!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "Are you a good dad?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "Who is your favorite kid?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-5/23/c-0/7
+msgctxt "Mikey"
+msgid "I like to think I am..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-5/23/c-1/7
+msgctxt "Mikey"
+msgid "Ha! I've got no favorites."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_1/0/kidsmenu1return/8/c-5/23/c-1/15
+msgctxt "Mikey"
+msgid "They are all equally <w>Legendary</w> in my book."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/10
+msgctxt "Mikey"
+msgid "...ex-wife."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/18
+msgctxt "Mikey"
+msgid "Stacy."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/26/s/0
+msgctxt "Choix"
+msgid "Does that mean that you're looking for love?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/27/s/0
+msgctxt "Choix"
+msgid "You couldn't keep a wife? Kinda pathetic."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/c-0/7
+msgctxt "Mikey"
+msgid "Hmm... maybe. But first I have to make sure that my kids are taken care of."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/c-0/15
+msgctxt "Mikey"
+msgid "The way the settlement happened is we share them 50/50... but with work keeping me overtime it's been hard."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/c-1/7
+msgctxt "Narrator"
+msgid "Mikey doesn't seem to know how to respond. He shrugs, but he looks a bit hurt."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/c-1/15
+msgctxt "Mikey"
+msgid "Tch."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/c-1/23
+msgctxt "Mikey"
+msgid "Thanks?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/c-1/31
+msgctxt "Mikey"
+msgid "Let's get back to work."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Stacy... she's a Stapler?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/7
+msgctxt "Mikey"
+msgid "Star."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Oh wow, that's wild! How cool!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Sounds gaseous and highly volatile."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/15/2/s/0
+msgctxt "Choix"
+msgid "She must be hot."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/15/c-0/7
+msgctxt "Mikey"
+msgid "I thought so at first, she blew me away with her brightness."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/15/c-1/7
+msgctxt "Mikey"
+msgid "Hah!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/15/c-1/15
+msgctxt "Mikey"
+msgid "Bang on the money there."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-0/c-2/15/c-2/7
+msgctxt "Mikey"
+msgid "30000 Kelvin."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/0
+msgctxt "Mikey"
+msgid "She's just... distant."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/8
+msgctxt "Mikey"
+msgid "In more ways than one."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/16
+msgctxt "Mikey"
+msgid "I'm sorry to let my personal matters get in the way of our own relationship here."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/24
+msgctxt "Mikey"
+msgid "Let's pull it, baby!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "Okay, let's get back to it!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "Well, I think you have more dimensions than you give yourself credit for."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/34/s/0
+msgctxt "Choix"
+msgid "Just try to keep your phone use to a minimum, okay?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "I love the way you say that, Mikey!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/13
+msgctxt "Mikey"
+msgid "I'm just a simple guy."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/21
+msgctxt "Mikey"
+msgid "I make people happy with some Delayed Variable Rewards and give them something to aspire towards."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/29
+msgctxt "Mikey"
+msgid "But... thanks."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/45
+msgctxt "Mikey"
+msgid "You still wanna play?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/53/0/s/0
+msgctxt "Choix"
+msgid "Sure!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/53/1/s/0
+msgctxt "Choix"
+msgid "Nah, take a break, Mikey."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/53/c-0/7
+msgctxt "Mikey"
+msgid "That's the spirit! Yippee!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-4/53/c-1/7
+msgctxt "Mikey"
+msgid "...okay."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-5/7
+msgctxt "Mikey"
+msgid "You got it! Words of wisdom!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_2/0/g-1/c-6/7
+msgctxt "Mikey"
+msgid "Works like a charm, baby!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/6
+msgctxt "Mikey"
+msgid "Okay? Yeah."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/14
+msgctxt "Mikey"
+msgid "Profits are up... higher than ever."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/22
+msgctxt "Mikey"
+msgid "But it doesn't seem to trickle down to the little guy... does it."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/30/s/0
+msgctxt "Choix"
+msgid "That's because you aren't working hard enough."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/31/s/0
+msgctxt "Choix"
+msgid "What Valdivian has been doing, it's criminal."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/c-0/7
+msgctxt "Mikey"
+msgid "...yeah, you're right."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/c-0/15
+msgctxt "Mikey"
+msgid "Thanks for the pep talk."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/c-1/7
+msgctxt "Mikey"
+msgid "Seems that way..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/c-1/15
+msgctxt "Mikey"
+msgid "I get just barely enough to keep going and support my family."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "You should just quit."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "Can you talk to HR?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "Can you pull your way out of this?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/c-2/7
+msgctxt "Mikey"
+msgid "If I did that, I would cease to exist."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/c-2/15
+msgctxt "Mikey"
+msgid "That would be the worst fate of all."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/c-3/7
+msgctxt "Mikey"
+msgid "'Human' Resources? We don't have that."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/c-3/15
+msgctxt "Mikey"
+msgid "Yet somehow we still have property tax."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-0/c-4/7
+msgctxt "Mikey"
+msgid "I wish... but I don't even make as much Money as you do!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/0
+msgctxt "Mikey"
+msgid "Look, I didn't ask to be a microtransaction. Just like you didn't ask to be born a human."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/8
+msgctxt "Mikey"
+msgid "But it's what I am, and it's what I do well. If it keeps my kids safe and happy then I'll do it."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/16
+msgctxt "Mikey"
+msgid "I appreciate the check-ins, I really do, but I gotta get back to work."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "I'll find a way to support you, I swear it."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "You're gonna get through this, Mikey, all you need is to be yourself."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/26/s/0
+msgctxt "Choix"
+msgid "What if we Realized you?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "What if we made out, right here?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-5/13
+msgctxt "Mikey"
+msgid "Aw, I love you for it. Truly."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-5/24
+msgctxt "Mikey"
+msgid "Now then..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-6/13
+msgctxt "Mikey"
+msgid "Thanks for the vote of confidence."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-6/21
+msgctxt "Mikey"
+msgid "Maybe that will help you in your pulls!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/13
+msgctxt "Mikey"
+msgid "Oh shit."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/21
+msgctxt "Mikey"
+msgid "I mean."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/29
+msgctxt "Mikey"
+msgid "Probably, huh?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/37
+msgctxt "Mikey"
+msgid "I could quit my job here... as long as my kids could come of course."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/45/0/s/0
+msgctxt "Choix"
+msgid "Only one way to find out..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/45/1/s/0
+msgctxt "Choix"
+msgid "What about Stacy?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/45/c-0/7
+msgctxt "Mikey"
+msgid "What a wild idea..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/45/c-0/15
+msgctxt "Mikey"
+msgid "I'm going to have to think about this. Come back later."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/45/c-1/7
+msgctxt "Mikey"
+msgid "Fuck Stacy."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-7/45/c-1/18
+msgctxt "Mikey"
+msgid "Look, I need to think about this some more. Come back later."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-8/7
+msgctxt "Mikey"
+msgid "What?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-8/15
+msgctxt "Mikey"
+msgid "No..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-8/23
+msgctxt "Mikey"
+msgid "No thank you."
+msgstr ""
+
+#: mikey_micro/mikey_kids_followup_3/0/g-1/c-8/31
+msgctxt "Mikey"
+msgid "Let's keep this professional, okay?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/0
+msgctxt "Mikey"
+msgid "Hey there..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/8
+msgctxt "Mikey"
+msgid "You keep coming back, don't you."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/16/s/0
+msgctxt "Choix"
+msgid "What's wrong with that?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/17/s/0
+msgctxt "Choix"
+msgid "I love you is all."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/18/s/0
+msgctxt "Choix"
+msgid "I got nothing better to do."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/c-0/7
+msgctxt "Mikey"
+msgid "Nothing at all."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/c-1/7
+msgctxt "Mikey"
+msgid "Oh baby!"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/c-2/7
+msgctxt "Mikey"
+msgid "Playing it coy, huh?"
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/c-2/15
+msgctxt "Mikey"
+msgid "Look..."
+msgstr ""
+
+#: mikey_micro/mikey_kids_talk_4/0/g-0/0
+msgctxt "Mikey"
+msgid "I've been thinking..."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/0
+msgctxt "Mikey"
+msgid "I think we'd make a great pair."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/8
+msgctxt "Mikey"
+msgid "Your curiosity and positivity give me hope that one day we can work this stuff out."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/16
+msgctxt "Mikey"
+msgid "Do you want to... pull me every night, and be my lover, baby?"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/25/s/0
+msgctxt "Choix"
+msgid "Sorry... I just think we're better as friends!"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/7 mikey_micro/mikey_love_ending/0/c-1/15/c-0/7
+msgctxt "Mikey"
+msgid "I'm the happiest dad in the world!"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/21 mikey_micro/mikey_love_ending/0/c-1/15/c-0/21
+msgctxt "Mikey"
+msgid "Also..."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/29 mikey_micro/mikey_love_ending/0/c-1/15/c-0/29
+msgctxt "Mikey"
+msgid "I can..."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/45 mikey_micro/mikey_love_ending/0/c-1/15/c-0/45 mikey_micro/mikey_friend_ending/0/40
+msgctxt "Narrator"
+msgid "Mikey leans in, placing his hand just to the side of his mouth and speaking to you in a low whisper."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/53 mikey_micro/mikey_love_ending/0/c-1/15/c-0/53 mikey_micro/mikey_friend_ending/0/48
+msgctxt "Mikey"
+msgid "<i>I can help get you some better rolls.</i>"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/0/s/0 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/0/s/0 mikey_micro/mikey_friend_ending/0/56/s/0
+msgctxt "Choix"
+msgid "That sounds great!"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/1/s/0 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/1/s/0 mikey_micro/mikey_friend_ending/0/57/s/0
+msgctxt "Choix"
+msgid "No... I couldn't do that..."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/c-0/7 mikey_micro/mikey_love_ending/0/c-0/61/c-1/15/c-0/7 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-0/7 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-1/15/c-0/7 mikey_micro/mikey_friend_ending/0/c-0/7 mikey_micro/mikey_friend_ending/0/c-1/15/c-0/7
+msgctxt "Mikey"
+msgid "<i>Okay. Just don't tell the Gaming Control Board.</i>"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/c-0/15 mikey_micro/mikey_love_ending/0/c-0/61/c-1/15/c-0/15 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-0/15 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-1/15/c-0/15 mikey_micro/mikey_friend_ending/0/c-0/15 mikey_micro/mikey_friend_ending/0/c-1/15/c-0/15
+msgctxt "Mikey"
+msgid "<i>Your pulls will be 20% luckier!</i>"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/c-1/7 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-1/7 mikey_micro/mikey_friend_ending/0/c-1/7
+msgctxt "Mikey"
+msgid "<i>Are you sure? I'm the one on the hook for this, not you.</i>"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/c-1/15/0/s/0 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-1/15/0/s/0 mikey_micro/mikey_friend_ending/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Okay, let's do it!"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/c-1/15/1/s/0 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-1/15/1/s/0 mikey_micro/mikey_friend_ending/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Nope. I want to pull honorably."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/c-1/15/c-1/7 mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-1/15/c-1/7 mikey_micro/mikey_friend_ending/0/c-1/15/c-1/7
+msgctxt "Mikey"
+msgid "<i>The Honorable Puller.</i>"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-0/61/c-1/15/c-1/15
+msgctxt "Mikey"
+msgid "<i>Thanks for being my lover.</i>"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/7
+msgctxt "Mikey"
+msgid "Ah that's okay. You can help me with my kids anyway, yeah?"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Absolutely."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Oh no. Definitely not. I hate kids."
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/15/c-0/61/c-1/15/c-1/15 mikey_micro/mikey_friend_ending/0/c-1/15/c-1/15
+msgctxt "Mikey"
+msgid "<i>Thanks for being my friend.</i>"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/15/c-1/7
+msgctxt "Mikey"
+msgid "Well then what the <i>fuck</i> were you doing this whole time!"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/15/c-1/18/b/1
+msgctxt "Mikey"
+msgid "I knew I hated you, I KNEW I hated you!"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/15/c-1/55
+msgctxt "Reggie"
+msgid "You had him hanging onto your every word... then <i>BAM</i> insta-hate!"
+msgstr ""
+
+#: mikey_micro/mikey_love_ending/0/c-1/15/c-1/63
+msgctxt "Reggie"
+msgid "You pulled my <w>Legendary Appearance!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_friend_ending/0/0
+msgctxt "Mikey"
+msgid "You came by all these times and listened to me gab on about my kids."
+msgstr ""
+
+#: mikey_micro/mikey_friend_ending/0/8
+msgctxt "Mikey"
+msgid "I know it's a little unprofessional but..."
+msgstr ""
+
+#: mikey_micro/mikey_friend_ending/0/16
+msgctxt "Mikey"
+msgid "You wanna be friends?"
+msgstr ""
+
+#: mikey_micro/mikey_friend_ending/0/24
+msgctxt "Mikey"
+msgid "If we're friends... I can..."
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/0
+msgctxt "Mikey"
+msgid "Oh boy! To become a human?"
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/8
+msgctxt "Mikey"
+msgid "To get out of this existence working for Valdivian...?"
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/16
+msgctxt "Mikey"
+msgid "I couldn't possibly be more excited!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/27
+msgctxt "Mikey"
+msgid "Oh wait!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/46
+msgctxt "Mikey"
+msgid "I just DID become more excited!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/57
+msgctxt "Mikey"
+msgid "Do you have the right stats to make me a human?"
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/74/b/1
+msgctxt "Mikey"
+msgid "With that armor... I <i>bet</i> you do."
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/77/s/0
+msgctxt "Choix"
+msgid "I do have the right stats!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/78/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: mikey_micro/mikey_realize_join/0/c-1/10
+msgctxt "Mikey"
+msgid "Ah that's all right. I'll be patient!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_return/0/0
+msgctxt "Mikey"
+msgid "This time... surely you have achieved the right stats?"
+msgstr ""
+
+#: mikey_micro/mikey_realize_return/0/8
+msgctxt "Mikey"
+msgid "Otherwise what the <i>fuck</i> are we doing here?"
+msgstr ""
+
+#: mikey_micro/mikey_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "This time - I've achieved it!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "No, I don't have them yet."
+msgstr ""
+
+#: mikey_micro/mikey_realize_return/0/c-1/10
+msgctxt "Mikey"
+msgid "I have a question."
+msgstr ""
+
+#: mikey_micro/mikey_realize_return/0/c-1/18
+msgctxt "Mikey"
+msgid "What the <i>fuck</i> are we doing here?"
+msgstr ""
+
+#: mikey_micro/mikey_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Let's do our first Realization with the real <i>premium</i> content!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_begin/9
+msgctxt "Skylar"
+msgid "Mikey, let's give you... your family back!"
+msgstr ""
+
+#: mikey_micro/mikey_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a mechanism for providing microtransactions, becomes...."
+msgstr ""
+
+#: mikey_micro/mikey_realized/0/3
+msgctxt "Narrator"
+msgid "Mikey flexes his substantial muscles, speaking in a booming voice that nearly rattles the walls. You've never seen him looking so... powerful."
+msgstr ""
+
+#: mikey_micro/mikey_realized/0/11
+msgctxt "Mikey"
+msgid "<w>THE ULTIMATE PULL!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_realized/0/22
+msgctxt "Mikey"
+msgid "<w>FREEDOM, UNSHACKLED BY THE BONDS OF FATE AND DROP RATES!</w>"
+msgstr ""
+
+#: mikey_micro/mikey_realized/0/33
+msgctxt "Mikey"
+msgid "Thank you."
+msgstr ""
+
+#: mikey_micro/mikey_realized/0/41
+msgctxt "Mikey"
+msgid "So much."
+msgstr ""
+
+#: mikey_micro/mikey_realized/0/49/s/0
+msgctxt "Choix"
+msgid "It was my pleasure, Mikey. Welcome to your retirement!"
+msgstr ""
+
+#: mikey_micro/mikey_realized/0/50/s/0
+msgctxt "Choix"
+msgid "One last pull for the road, lover?"
+msgstr ""
+
+#: mikey_micro/mikey_love_divert/3
+msgctxt "Narrator"
+msgid "Mikey steps closer, and without his usual armor and sack to distract you, you can finally see just how much man he is."
+msgstr ""
+
+#: mikey_micro/mikey_love_divert/11
+msgctxt "Mikey"
+msgid "Only one? I may not be a microtransaction any longer... but it's going to take more than one pull to bring me home."
+msgstr ""
+
+#: mikey_micro/mikey_love_divert/19
+msgctxt "Narrator"
+msgid "No mobile game could ever compare to the high of being with Mikey—every touch feels like a five-star pull, and with no microtransactions to stand in your way the two of you simply can't keep your hands off each other."
+msgstr ""
+
+#: mikey_micro/mikey_love_divert/27
+msgctxt "Narrator"
+msgid "You make love well into the early hours of the morning, each of you feeling as though you've obtained an SSR pull on the first try."
+msgstr ""
+
+#: mikey_micro/mikey_love_divert/38
+msgctxt "Mikey"
+msgid "Now look... I might be human now, but it doesn't mean you can stop doing your dailies."
+msgstr ""
+
+#: mikey_micro/mikey_love_divert/46
+msgctxt "Mikey"
+msgid "By which I mean don't forget to keep in touch, alright?"
+msgstr ""
+
+#: mikey_micro/mikey_love_divert/54
+msgctxt "Mikey"
+msgid "God, being human feels great. Every minute feels like it's just raining free, guaranteed pulls!"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/0
+msgctxt "Mikey"
+msgid "But even so... I can't be happy until I have what I really need out here..."
+msgstr ""
+
+#: mikey_micro/mikey_love_join/8
+msgctxt "Narrator"
+msgid "It didn't take long until Skylar was able to execute some complicated dateviator maneuvers..."
+msgstr ""
+
+#: mikey_micro/mikey_love_join/16
+msgctxt "Narrator"
+msgid "And bring Mikey's kids to life as well."
+msgstr ""
+
+#: mikey_micro/mikey_love_join/30
+msgctxt "Makayla"
+msgid "Hey daddy!"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/41
+msgctxt "Marco"
+msgid "Dad whats up"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/46
+msgctxt "Mickey"
+msgid "Daddy's here!"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/51
+msgctxt "Mickey"
+msgid "It smells funny"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/56
+msgctxt "Mikey"
+msgid "Kids! Come here you three!"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/64
+msgctxt "Narrator"
+msgid "Mikey gives his children their first real-life hug. The smiles emanating from the four of them will live in your heart forever, a reminder of just how beautiful life can be."
+msgstr ""
+
+#: mikey_micro/mikey_love_join/84
+msgctxt "Skylar"
+msgid "It just required a little twist of the uppermost flange in my Quantum Catalyst Activator!"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/92
+msgctxt "Mikey"
+msgid "Thank you, Skylar. Thanks for everything."
+msgstr ""
+
+#: mikey_micro/mikey_love_join/103
+msgctxt "Narrator"
+msgid "Mikey used his savings from Valdivian to buy a modest home nearby, where he was able to raise his kids full-time."
+msgstr ""
+
+#: mikey_micro/mikey_love_join/114
+msgctxt "Mikey"
+msgid "Being there for you three made the long hours so worth it."
+msgstr ""
+
+#: mikey_micro/mikey_love_join/122
+msgctxt "Mikey"
+msgid "And now you can grow up to be anything you like!"
+msgstr ""
+
+#: mikey_micro/mikey_love_join/133
+msgctxt "Mikey"
+msgid "Now... last one in the pool is common fodder!"
+msgstr ""

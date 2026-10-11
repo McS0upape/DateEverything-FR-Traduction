@@ -1,0 +1,627 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/0
+msgctxt "Narrator"
+msgid "The outside world beckons you."
+msgstr "Le monde extérieur vous appelle."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/5
+msgctxt "Narrator"
+msgid "Is this the way out of this game entirely?"
+msgstr "Serait-ce la sortie de ce jeu, purement et simplement ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/10
+msgctxt "Narrator"
+msgid "Surely once you leave everything will end immediately."
+msgstr "Nul doute qu'une fois dehors, tout prendra fin sur-le-champ."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/15
+msgctxt "Narrator"
+msgid "But perhaps the dialogue will at least be humorous...?"
+msgstr "Mais peut-être que les dialogues seront au moins drôles... ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/20
+msgctxt "Narrator"
+msgid "The choice is yours..."
+msgstr "À vous de choisir..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/25/s/0 fpn_tutorial/fpn_front_door_1/0/10/s/0 fpn_tutorial/fpn_front_door_2/0/15/s/0 fpn_tutorial/fpn_front_door_3/0/40/s/0 fpn_tutorial/fpn_front_door_4/0/10/s/0 fpn_tutorial/nothing_left/0/15/s/0
+msgctxt "Choix"
+msgid "Stay"
+msgstr "Rester"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/26/s/0 fpn_tutorial/fpn_front_door_1/0/11/s/0 fpn_tutorial/fpn_front_door_2/0/16/s/0 fpn_tutorial/fpn_front_door_3/0/41/s/0 fpn_tutorial/fpn_front_door_4/0/11/s/0 fpn_tutorial/nothing_left/0/16/s/0
+msgctxt "Choix"
+msgid "Leave"
+msgstr "Partir"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/c-1/7 fpn_tutorial/fpn_front_door_1/0/c-1/7 fpn_tutorial/fpn_front_door_2/0/c-1/7 fpn_tutorial/fpn_front_door_3/0/c-1/7 fpn_tutorial/fpn_front_door_4/0/c-1/7 fpn_tutorial/nothing_left/0/c-1/7
+msgctxt "Narrator"
+msgid "Without a second glance, you open the door, and leave this tiny tiny overworld."
+msgstr "Sans un regard en arrière, vous ouvrez la porte et quittez ce tout petit petit monde."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/c-1/12
+msgctxt "Narrator"
+msgid "For there is a greater world out there to explore... perhaps in another game."
+msgstr "Car il existe un monde plus vaste à explorer, là-dehors... peut-être dans un autre jeu."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_tutorial_door/0/c-1/17
+msgctxt "Narrator"
+msgid "One with a much higher budget."
+msgstr "Un jeu avec un budget nettement plus conséquent."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_1/0/0
+msgctxt "Narrator"
+msgid "Are you thinking of leaving?"
+msgstr "Vous songez à partir ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_1/0/5
+msgctxt "Narrator"
+msgid "It isn't anything to be ashamed of - it can be quite stifling in here."
+msgstr "Il n'y a aucune honte à cela : on étouffe un peu, ici."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_2/0/0 fpn_tutorial/fpn_front_door_3/0/0 fpn_tutorial/fpn_front_door_4/0/0
+msgctxt "Narrator"
+msgid "The outside world... it beckons."
+msgstr "Le monde extérieur... il vous appelle."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_2/0/5
+msgctxt "Narrator"
+msgid "There could be any number of more exciting things out there to touch, taste, smell, and click on."
+msgstr "Il y a peut-être là-dehors une infinité de choses plus palpitantes à toucher, goûter, sentir et cliquer."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_2/0/10 fpn_tutorial/fpn_front_door_3/0/35 fpn_tutorial/fpn_front_door_4/0/5
+msgctxt "Narrator"
+msgid "Do you stay, or leave?"
+msgstr "Restez-vous, ou partez-vous ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_3/0/5
+msgctxt "Narrator"
+msgid "When is the right time to leave, you may wonder? To get one of those 'good' endings."
+msgstr "Quand faut-il partir, vous demandez-vous ? Pour obtenir l'une de ces « bonnes » fins."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_3/0/10
+msgctxt "Narrator"
+msgid "The answer, written in the words of the Ancients is:"
+msgstr "La réponse, dans les mots des Anciens, est la suivante :"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_3/0/15
+msgctxt "Narrator"
+msgid "'When you have 100 SPECS points of one type, that's a pretty good time to go.'"
+msgstr "« Quand tu as 100 points de SPECS d'un même type, c'est un assez bon moment pour y aller. »"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_3/0/20
+msgctxt "Narrator"
+msgid "But the Ancients also wondered..."
+msgstr "Mais les Anciens se demandaient aussi..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_3/0/25
+msgctxt "Narrator"
+msgid "'There can perhaps be more content after even that...'"
+msgstr "« Peut-être y a-t-il encore du contenu après ça... »"
+
+# Traduction IA – à relire
+#: fpn_tutorial/fpn_front_door_3/0/30
+msgctxt "Narrator"
+msgid "Those ancients. Always wondering."
+msgstr "Ah, ces Anciens. Toujours à se poser des questions."
+
+# Traduction IA – à relire
+#: fpn_tutorial/hate_everything_door/4
+msgctxt "Narrator"
+msgid "Your journey is complete. You have taken the power of the dateviators, and used it to keep things as they always have been - inanimate objects."
+msgstr "Votre voyage est terminé. Vous avez pris le pouvoir des Dateviators et vous en êtes servi{{|e|·e}} pour que les choses restent ce qu'elles ont toujours été : des objets inanimés."
+
+# Traduction IA – à relire
+#: fpn_tutorial/hate_everything_door/9
+msgctxt "Narrator"
+msgid "No one must use the forbidden power. It must be put away, shut down, never to be seen again."
+msgstr "Nul ne doit utiliser ce pouvoir interdit. Il doit être rangé, éteint, et ne plus jamais revoir la lumière du jour."
+
+# Traduction IA – à relire
+#: fpn_tutorial/hate_everything_door/14
+msgctxt "Narrator"
+msgid "Humans only! Rise human, and take your reward!"
+msgstr "Les humains d'abord ! {{Lève-toi, humain|Lève-toi, humaine|Lève-toi, humain·e}}, et reçois ta récompense !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/nothing_left/0/0
+msgctxt "Narrator"
+msgid "There's nothing left to do."
+msgstr "Il n'y a plus rien à faire."
+
+# Traduction IA – à relire
+#: fpn_tutorial/nothing_left/0/5
+msgctxt "Narrator"
+msgid "Though it can be nice to stand in a quiet lonely place for a time."
+msgstr "Encore qu'il peut être agréable de rester un moment dans un endroit calme et solitaire."
+
+# Traduction IA – à relire
+#: fpn_tutorial/nothing_left/0/10
+msgctxt "Narrator"
+msgid "Do you stay and stand more? Or do you leave?"
+msgstr "Restez-vous encore un peu {{planté|plantée|planté·e}} là ? Ou partez-vous ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/0
+msgctxt "Narrator"
+msgid "You've returned. What would you like to do?"
+msgstr "Vous voilà de retour. Que souhaitez-vous faire ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/5/s/0
+msgctxt "Choix"
+msgid "I want to hear you say sweet nothings in my earholes..."
+msgstr "Je veux que tu me susurres des mots doux dans les esgourdes..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/6/s/0
+msgctxt "Choix"
+msgid "Just saying hello."
+msgstr "Je passais juste dire bonjour."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/7/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Narrator!"
+msgstr "Je suis {{prêt|prête|prêt·e}} à te Réaliser, Narrateur !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/c-0/7 fpn_tutorial/narrator_bridge/0/c-0/7
+msgctxt "Narrator"
+msgid "Tell me, how would you like those sweet nothings served?"
+msgstr "Dites-moi, comment aimeriez-vous qu'on vous les serve, ces mots doux ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/c-1/7
+msgctxt "Narrator"
+msgid "Hello."
+msgstr "Bonjour."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/c-1/12
+msgctxt "Narrator"
+msgid "Goodbye."
+msgstr "Au revoir."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/c-2/7
+msgctxt "Narrator"
+msgid "I'm already 'Realized' you twat."
+msgstr "Je suis déjà « Réalisé », {{abruti|abrutie|abruti·e}}."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/c-2/12
+msgctxt "Narrator"
+msgid "I'm an actor working in Los Angeles named JB Blanc!"
+msgstr "Je suis un acteur qui travaille à Los Angeles et je m'appelle JB Blanc !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/c-2/17
+msgctxt "Narrator"
+msgid "I'm not an object!"
+msgstr "Je ne suis pas un objet !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_return/0/c-2/22
+msgctxt "Narrator"
+msgid "Good bye!"
+msgstr "Au revoir !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/4
+msgctxt "Narrator"
+msgid "Oh. You wish to speak with me? To date me?"
+msgstr "Oh. Vous souhaitez me parler ? Sortir avec moi ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/9/s/0
+msgctxt "Choix"
+msgid "Yes! I love your voice."
+msgstr "Oui ! J'adore ta voix."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/10/s/0
+msgctxt "Choix"
+msgid "No... I just was messing around."
+msgstr "Non... je faisais juste l'{{idiot|idiote|andouille}}."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/c-1/7
+msgctxt "Narrator"
+msgid "Ah, then carry on."
+msgstr "Ah. Alors poursuivez."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/c-1/12/0/s/0
+msgctxt "Choix"
+msgid "Okay, see you around, Narrator."
+msgstr "D'accord, à plus tard, Narrateur."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/c-1/12/1/s/0
+msgctxt "Choix"
+msgid "No wait, I'm interested..."
+msgstr "Non, attends, ça m'intéresse..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/c-1/12/c-1/7
+msgctxt "Narrator"
+msgid "Hm. Very well."
+msgstr "Hm. Fort bien."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-0/0
+msgctxt "Narrator"
+msgid "My name is JB Blanc. I'm an actor living in California."
+msgstr "Je m'appelle JB Blanc. Je suis un acteur qui vit en Californie."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-0/5
+msgctxt "Narrator"
+msgid "I've done on-camera work, voice over, and voice directed quite a few of your favorite games, perhaps."
+msgstr "J'ai joué devant la caméra, fait du doublage et dirigé les voix de pas mal de vos jeux préférés, qui sait."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-0/10
+msgctxt "Narrator"
+msgid "I was hired for this job based on my audition. When I auditioned the game was called Project Miranda and I had no idea what I was in for."
+msgstr "J'ai été engagé sur ce projet après une audition. À l'époque, le jeu s'appelait Project Miranda et je n'avais aucune idée de ce qui m'attendait."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-0/15
+msgctxt "Narrator"
+msgid "Now, I very much know the scope of this game, and have somehow spoken all 5,000 Narrator lines aloud."
+msgstr "Aujourd'hui, je connais très bien l'ampleur de ce jeu, et j'ai je ne sais comment enregistré à voix haute les 5 000 répliques du Narrateur."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "That's cool! Let's date!"
+msgstr "Trop cool ! Sortons ensemble !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-0/21/s/0
+msgctxt "Choix"
+msgid "Wow. Are you tired?"
+msgstr "Waouh. T'es pas trop fatigué ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-0/c-3/7
+msgctxt "Narrator"
+msgid "Very."
+msgstr "Si. Très."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/0
+msgctxt "Narrator"
+msgid "I'm not particularly interested in dating. I'm kinda single by choice."
+msgstr "Je ne suis pas spécialement intéressé par les rencards. Je suis un peu célibataire par choix."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/5
+msgctxt "Narrator"
+msgid "Finding love in Los Angeles is not recommended. This fucking city is nuts."
+msgstr "Trouver l'amour à Los Angeles est fortement déconseillé. Cette putain de ville est complètement folle."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/10
+msgctxt "Narrator"
+msgid "And you're fucking nuts for playing this game."
+msgstr "Et vous êtes complètement {{taré|tarée|taré·e}} de jouer à ce jeu."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/15
+msgctxt "Narrator"
+msgid "I won't date you."
+msgstr "Je ne sortirai pas avec vous."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "Aw man..."
+msgstr "Oh, non..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/21/s/0
+msgctxt "Choix"
+msgid "You have to date me. I have the dateviators!"
+msgstr "Tu es obligé de sortir avec moi. J'ai les Dateviators !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/c-4/7
+msgctxt "Narrator"
+msgid "Well."
+msgstr "Eh bien."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/c-5/7
+msgctxt "Narrator"
+msgid "You are merely Directly Acknowledging My Existence! I do not have to do what you wish."
+msgstr "Vous ne faites que Reconnaître Directement Mon Existence ! Je n'ai pas à faire ce que vous voulez."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/c-5/12
+msgctxt "Narrator"
+msgid "I am merely a passive observer."
+msgstr "Je ne suis qu'un simple observateur passif."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/c-5/17/0/s/0
+msgctxt "Choix"
+msgid "Fine. See you around."
+msgstr "Bon. À plus tard."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/c-5/17/1/s/0
+msgctxt "Choix"
+msgid "There's gotta be secret content..."
+msgstr "Il y a forcément du contenu secret..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/c-5/17/c-0/7
+msgctxt "Narrator"
+msgid "Goodbye for now."
+msgstr "Au revoir, pour l'instant."
+
+# Traduction IA – à relire
+#: fpn_tutorial/first_narrator/0/g-1/c-5/17/c-1/7
+msgctxt "Narrator"
+msgid "Yes, there's always secret content..."
+msgstr "Oui, il y a toujours du contenu secret..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_bridge/0/0
+msgctxt "Narrator"
+msgid "I might not date. But I could describe what that would be like."
+msgstr "Je ne sors peut-être avec personne. Mais je pourrais vous décrire à quoi cela ressemblerait."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_bridge/0/5
+msgctxt "Narrator"
+msgid "Would you like that?"
+msgstr "Cela vous plairait ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_bridge/0/10/s/0
+msgctxt "Choix"
+msgid "Yes! Gimme!"
+msgstr "Oui ! Envoie !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_bridge/0/11/s/0
+msgctxt "Choix"
+msgid "No, that's okay."
+msgstr "Non, ça ira."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_bridge/0/c-1/7
+msgctxt "Narrator"
+msgid "Alright. If you ever change your mind, you can always come back."
+msgstr "Très bien. Si jamais vous changez d'avis, vous pouvez toujours revenir."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_bridge/0/c-1/12
+msgctxt "Narrator"
+msgid "...and you'll hear me around this house regardless..."
+msgstr "... et de toute façon, vous m'entendrez un peu partout dans cette maison..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_date_2/0/0/s/0
+msgctxt "Choix"
+msgid "Can we keep this non-physical? I'd just like to get to know you."
+msgstr "On peut garder ça platonique ? J'aimerais juste apprendre à te connaître."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_date_2/0/1/s/0
+msgctxt "Choix"
+msgid "I'm kinda in a hurry, could we just... do it real quick?"
+msgstr "Je suis un peu {{pressé|pressée|pressé·e}}, on pourrait... faire ça vite fait ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_date_2/0/2/s/0
+msgctxt "Choix"
+msgid "I hope you're ready to go all night, Narrator."
+msgstr "J'espère que tu es prêt à y passer la nuit, Narrateur."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_date_2/0/c-0/7
+msgctxt "Narrator"
+msgid "Yes, of course."
+msgstr "Oui, bien sûr."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_date_2/0/c-1/7
+msgctxt "Narrator"
+msgid "Oh."
+msgstr "Oh."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_date_2/0/c-1/12
+msgctxt "Narrator"
+msgid "Well... I suppose, yes."
+msgstr "Eh bien... soit, je suppose."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_date_2/0/c-2/7
+msgctxt "Narrator"
+msgid "Oh I am."
+msgstr "Oh, je le suis."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/0
+msgctxt "Narrator"
+msgid "And so, you and I finally got the chance to get to know each other without all the distractions."
+msgstr "Et ainsi, vous et moi avons enfin eu l'occasion d'apprendre à nous connaître, loin de toute distraction."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/5
+msgctxt "Narrator"
+msgid "We spend the night looking deeply into each other's eyes, talking about the things we love and finding out what makes each other tick."
+msgstr "Nous passons la nuit à nous regarder au fond des yeux, à parler de ce que nous aimons et à découvrir ce qui nous anime."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/10
+msgctxt "Narrator"
+msgid "When our hands meet we each feel a tingle, a spark that makes us feel <i>alive</i>. We've never felt a connection so pure, so real."
+msgstr "Quand nos mains se rencontrent, nous ressentons tous deux un frisson, une étincelle qui nous fait nous sentir <i>vivants</i>. Jamais nous n'avons connu un lien si pur, si vrai."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/15/s/0 fpn_tutorial/narrator_quick_bang/0/25/s/0 fpn_tutorial/narrator_all_night/0/g-0/5/s/0
+msgctxt "Choix"
+msgid "That's beautiful..."
+msgstr "C'est magnifique..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/16/s/0
+msgctxt "Choix"
+msgid "That's not really how I remember our date..."
+msgstr "C'est pas vraiment comme ça que je me souviens de notre rencard..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/c-0/7 fpn_tutorial/narrator_quick_bang/0/c-0/7 fpn_tutorial/narrator_all_night/0/g-0/c-2/7
+msgctxt "Narrator"
+msgid "As are you, darling."
+msgstr "Tout comme vous, {{très cher|très chère|mon trésor}}."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/c-1/7
+msgctxt "Narrator"
+msgid "No no, that's exactly how it went down. Perfect and 1000% mutual."
+msgstr "Non, non, ça s'est passé exactement comme ça. Parfait et réciproque à 1000 %."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/c-1/12
+msgctxt "Narrator"
+msgid "A narrator would <i>never</i> lie!"
+msgstr "Un narrateur ne mentirait <i>jamais</i> !"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/g-0/0
+msgctxt "Narrator"
+msgid "It's unfair that it's taken us this long to find each other, but we vow not to let it be the last time."
+msgstr "Il est injuste qu'il nous ait fallu si longtemps pour nous trouver, mais nous nous jurons que ce ne sera pas la dernière fois."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_ace_date/0/g-0/5 fpn_tutorial/narrator_quick_bang/0/g-0/0 fpn_tutorial/narrator_all_night/0/g-1/0
+msgctxt "Narrator"
+msgid "As I watch you enter back into the overworld it feels as though my heart may shatter, but I remind myself how lucky I was to have had you at all, even for just an evening."
+msgstr "Tandis que je vous regarde retourner dans le monde du jeu, j'ai l'impression que mon cœur va se briser, mais je me rappelle la chance que j'ai eue de vous avoir, ne serait-ce que pour une soirée."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_quick_bang/0/0
+msgctxt "Narrator"
+msgid "We waste no time falling all over each other, a tangle of bodies and grasping hands. What do I look like? Do I even have a body? Do you?"
+msgstr "Nous ne perdons pas une seconde et nous jetons l'un sur l'autre, enchevêtrement de corps et de mains avides. À quoi est-ce que je ressemble ? Ai-je seulement un corps ? Et vous ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_quick_bang/0/5 fpn_tutorial/narrator_all_night/0/10
+msgctxt "Narrator"
+msgid "Such questions are unimportant."
+msgstr "Ces questions sont sans importance."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_quick_bang/0/10
+msgctxt "Narrator"
+msgid "All that needs to be said is the love we make may be quick, but it is no less passionate, no less fulfilling than any all-nighter."
+msgstr "Qu'il suffise de dire que l'amour que nous faisons est peut-être rapide, mais pas moins passionné, ni moins comblant qu'une nuit blanche entière."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_quick_bang/0/15
+msgctxt "Narrator"
+msgid "I leave you breathless and wanting, and you tell me you've never felt anything like this before."
+msgstr "Je vous laisse {{haletant et en redemandant|haletante et en redemandant|à bout de souffle et en redemandant}}, et vous me dites n'avoir jamais rien ressenti de tel."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_quick_bang/0/20
+msgctxt "Narrator"
+msgid "I tell you it's a shame it took us this long to get together, but that perhaps we'll do it again sometime."
+msgstr "Je vous dis qu'il est dommage qu'il nous ait fallu si longtemps pour nous retrouver, mais que nous remettrons peut-être ça un de ces jours."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_quick_bang/0/26/s/0 fpn_tutorial/narrator_all_night/0/g-0/6/s/0
+msgctxt "Choix"
+msgid "I don't remember saying that..."
+msgstr "Je me souviens pas d'avoir dit ça..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_quick_bang/0/c-1/7 fpn_tutorial/narrator_all_night/0/g-0/c-3/7
+msgctxt "Narrator"
+msgid "No no, you definitely said it. And many other lovely and true things."
+msgstr "Non, non, vous l'avez dit, c'est certain. Et bien d'autres choses charmantes et parfaitement vraies."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/0
+msgctxt "Narrator"
+msgid "We retire to your bedroom, all thoughts of leaving the house a million miles away now. There's only you and I, and hours upon hours of love to make."
+msgstr "Nous nous retirons dans votre chambre, toute idée de quitter la maison désormais à des années-lumière. Il n'y a plus que vous et moi, et des heures et des heures d'amour à faire."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/5
+msgctxt "Narrator"
+msgid "What do I look like? Do I even have a body? Do you?"
+msgstr "À quoi est-ce que je ressemble ? Ai-je seulement un corps ? Et vous ?"
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/15
+msgctxt "Narrator"
+msgid "All you know is you've never felt so good, so <i>fulfilled</i>. I anticipate your every need and leave you satisfied on a level you've never experienced."
+msgstr "Tout ce que vous savez, c'est que vous ne vous êtes jamais senti{{|e|·e}} aussi bien, aussi <i>comblé{{|e|·e}}</i>. J'anticipe chacun de vos besoins et vous laisse {{satisfait|satisfaite|satisfait·e}} à un niveau que vous n'aviez jamais connu."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/20/s/0
+msgctxt "Choix"
+msgid "Well now hold on a minute..."
+msgstr "Alors là, attends une minute..."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/21/s/0
+msgctxt "Choix"
+msgid "Oh yeah that's exactly how it went down."
+msgstr "Oh oui, ça s'est passé exactement comme ça."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/c-0/7
+msgctxt "Narrator"
+msgid "Yes, it was the most incredible sexual experience of your life."
+msgstr "Oui, ce fut l'expérience sexuelle la plus incroyable de votre vie."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/c-1/7
+msgctxt "Narrator"
+msgid "Of course it is."
+msgstr "Bien sûr que oui."
+
+# Traduction IA – à relire
+#: fpn_tutorial/narrator_all_night/0/g-0/0
+msgctxt "Narrator"
+msgid "When the dawn comes, both of us are devastated that we have to part, but we both know it's for the best. We vow that this won't be our last time, and that we'll never let the sun set on our love."
+msgstr "Quand l'aube se lève, nous sommes tous deux dévastés de devoir nous séparer, mais nous savons que c'est pour le mieux. Nous jurons que ce ne sera pas la dernière fois, et que jamais le soleil ne se couchera sur notre amour."

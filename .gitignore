@@ -1,0 +1,13 @@
+# Fichiers du jeu extraits / décompilés : ne jamais publier
+extracted/
+decompiled/
+decompiled_ink/
+decompiled_tmp/
+# Téléchargements, sorties de compilation, temporaire
+downloads/
+dist/
+tmp/
+plugin/bin/
+plugin/obj/
+__pycache__/
+*.pyc

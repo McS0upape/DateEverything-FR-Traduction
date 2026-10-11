@@ -1,0 +1,4477 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: mitchell_food/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "FOOD"
+msgstr ""
+
+#: mitchell_food/dishes_food/0/8
+msgctxt "Mitchell"
+msgid "Pitiful. Utterly mismatched flavor profiles, textures a mess..."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/19
+msgctxt "Mitchell"
+msgid "Hm?"
+msgstr ""
+
+#: mitchell_food/dishes_food/0/27/b/1
+msgctxt "Mitchell"
+msgid "My friend - you return?"
+msgstr ""
+
+#: mitchell_food/dishes_food/0/28/b/1
+msgctxt "Mitchell"
+msgid "Yes? What is it, love?"
+msgstr ""
+
+#: mitchell_food/dishes_food/0/29/b/1
+msgctxt "Mitchell"
+msgid "Ugh. You? Speak."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/32/s/0
+msgctxt "Choix"
+msgid "I've got a delivery from Daisuke."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/7
+msgctxt "Narrator"
+msgid "Mitchell waves a hand at you."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/15
+msgctxt "Mitchell"
+msgid "Ah, yes. Unpack them for me, won't you?"
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Uhh, sure."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/15
+msgctxt "Narrator"
+msgid "Mitchell looks over your deliveries, nodding his approval."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/23
+msgctxt "Mitchell"
+msgid "Brilliant. These are perfect for what I need. They should look spectacular in the dining room."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Does it really matter that much? These are just plates."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/7
+msgctxt "Mitchell"
+msgid "Just plates? JUST plates?"
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/18
+msgctxt "Mitchell"
+msgid "Food is an artform, and the plate is the canvas. The presentation is a non-negotiable part of the deal."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/26
+msgctxt "Mitchell"
+msgid "Plating is as vital to a dish as the seasoning. It elevates the entire experience!"
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/37
+msgctxt "Mitchell"
+msgid "Without Daisuke's hard work keeping me supplied, my dishes would be nowhere near Michelin-level."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/0/s/0
+msgctxt "Choix"
+msgid "I guess I should be more appreciative of my dishware."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/7
+msgctxt "Mitchell"
+msgid "Damn right you should."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/15
+msgctxt "Mitchell"
+msgid "Daisuke spent years refining his craft creating his own ceramics."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/23
+msgctxt "Mitchell"
+msgid "He has a respect for the work you simply can't be taught otherwise. You'd do well to model yourself after him."
+msgstr ""
+
+#: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/31
+msgctxt "Mitchell"
+msgid "Now, if you'll excuse me, I have reviews to complete."
+msgstr ""
+
+#: mitchell_food/mitchell_dish_end/0/0
+msgctxt "Mitchell"
+msgid "You delivered to me last?"
+msgstr ""
+
+#: mitchell_food/mitchell_dish_end/0/8/s/0
+msgctxt "Choix"
+msgid "Yeah. Is that an issue?"
+msgstr ""
+
+#: mitchell_food/mitchell_dish_end/0/c-0/7
+msgctxt "Mitchell"
+msgid "Hm."
+msgstr ""
+
+#: mitchell_food/mitchell_dish_end/0/c-0/15
+msgctxt "Mitchell"
+msgid "Well. Carry on, then."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/0
+msgctxt "Narrator"
+msgid "The first word that comes to mind as you evaluate the strange figure standing before you is 'delicious'—you don't even intend to be salacious, it's just... he looks... edible."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/8
+msgctxt "Narrator"
+msgid "His long blonde hair calls to mind ramen noodles, but his entire outfit is a culinary journey around the globe. He looks downright mouth-watering, but you're not sure the feeling is mutual. His expression suggests he's less than impressed with you."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/16
+msgctxt "Mitchell"
+msgid "Good evening."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/24
+msgctxt "Mitchell"
+msgid "Do have a seat. I'll be with you in just a minute."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/32/s/0
+msgctxt "Choix"
+msgid "Looks like you're really enjoying that glass of wine."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/c-0/7
+msgctxt "Mitchell"
+msgid "Glass of wine? Surely you can do better than that..."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/c-0/15
+msgctxt "Mitchell"
+msgid "This fine white has a light body, and is rather dry."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/c-0/23
+msgctxt "Mitchell"
+msgid "It's quite acidic."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/c-0/31
+msgctxt "Mitchell"
+msgid "I can virtually taste its origins in the Eastern Loire Valley. Dare I guess just outside Chavignol?"
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/c-0/39
+msgctxt "Mitchell"
+msgid "And as its taste matures on my tongue..."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/c-0/47
+msgctxt "Mitchell"
+msgid "I detect notes of honeydew, grapefruit, and peach."
+msgstr ""
+
+#: mitchell_food/mitchell_preintro/0/c-0/55
+msgctxt "Mitchell"
+msgid "And a certain minerality. Flint, gray salt."
+msgstr ""
+
+#: mitchell_food/wine_test/0/0/s/0
+msgctxt "Choix"
+msgid "Definitely a Chardonnay."
+msgstr ""
+
+#: mitchell_food/wine_test/0/1/s/0
+msgctxt "Choix"
+msgid "It's a Sauvignon Blanc."
+msgstr ""
+
+#: mitchell_food/wine_test/0/2/s/0
+msgctxt "Choix"
+msgid "Riesling, then?"
+msgstr ""
+
+#: mitchell_food/wine_test/0/3/s/0
+msgctxt "Choix"
+msgid "That's not a white at all. It's a rosé."
+msgstr ""
+
+#: mitchell_food/wine_test/0/c-0/7
+msgctxt "Mitchell"
+msgid "Close... But Chardonnay is from Burgundy. I'll give you one more try."
+msgstr ""
+
+#: mitchell_food/wine_test/0/c-1/10
+msgctxt "Mitchell"
+msgid "Well done!"
+msgstr ""
+
+#: mitchell_food/wine_test/0/c-2/7
+msgctxt "Mitchell"
+msgid "Pathetic. Just pathetic."
+msgstr ""
+
+#: mitchell_food/wine_test/0/c-3/7
+msgctxt "Mitchell"
+msgid "A rosé? Do I look like I'm eating barbecued prawns?"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/0
+msgctxt "Mitchell"
+msgid "Now, can you do even better?"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/8/s/0
+msgctxt "Choix"
+msgid "It probably pairs nicely with goat cheese."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/9/s/0
+msgctxt "Choix"
+msgid "I'm going to say... Chablis?"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/10/s/0
+msgctxt "Choix"
+msgid "I'd guess it's a Sancerre."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/11/s/0
+msgctxt "Choix"
+msgid "I know my limits."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-0/13
+msgctxt "Mitchell"
+msgid "Indeed! An excellent idea."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-0/24/0/s/0
+msgctxt "Choix"
+msgid "And maybe some chive crackers?"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-0/24/c-0/7
+msgctxt "Mitchell"
+msgid "Well now you're just showing off. And I'm very much here for it."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-1/13
+msgctxt "Mitchell"
+msgid "Well. That's a disappointment."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-1/24
+msgctxt "Mitchell"
+msgid "You do know that Chablis is an entirely different wine, don't you?"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-1/32/0/s/0
+msgctxt "Choix"
+msgid "Guess I just got lucky the first time..."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-1/32/c-0/7
+msgctxt "Mitchell"
+msgid "I guess so."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/13
+msgctxt "Mitchell"
+msgid "You've hit it spot on. I did not realize I was in the presence of a master sommelier!"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/24
+msgctxt "Mitchell"
+msgid "How did you know?"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/0/s/0
+msgctxt "Choix"
+msgid "Lucky guess?"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/1/s/0
+msgctxt "Choix"
+msgid "You said Eastern Loire. But it was Chavignol that really gave it away."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/2/s/0
+msgctxt "Choix"
+msgid "Though with the taste of flint, it could've been a Pouilly Fume, I suppose..."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/c-0/7
+msgctxt "Mitchell"
+msgid "You and I both know luck had nothing to do with it."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/c-1/7 mitchell_food/MitchellTableauxIntro/0/c-0/7
+msgctxt "Mitchell"
+msgid "Marvelous!"
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/c-2/7
+msgctxt "Mitchell"
+msgid "My word. You are astonishing."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/g-0/0/0/s/0
+msgctxt "Choix"
+msgid "Sometimes you just get lucky."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-2/32/g-0/0/1/s/0
+msgctxt "Choix"
+msgid "I know my stuff."
+msgstr ""
+
+#: mitchell_food/wine_test2/0/c-3/7
+msgctxt "Mitchell"
+msgid "Wisdom always does! There's nothing wrong with humility whatsoever."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/3
+msgctxt "Mitchell"
+msgid "But where are my manners? Allow me to introduce myself."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/11
+msgctxt "Mitchell"
+msgid "I'm Mitchell Linn, food critic extraordinaire."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/19
+msgctxt "Mitchell"
+msgid "Paragon of the perfect, advocate of the adventurous, and bane of the banal."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/33/s/0
+msgctxt "Choix"
+msgid "You must really like food then, huh?"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/34/s/0
+msgctxt "Choix"
+msgid "I consider myself something of a foodie, actually."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/35/s/0
+msgctxt "Choix"
+msgid "Food! Can't live with it. Can't live without it."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/36/s/0
+msgctxt "Choix"
+msgid "Have you heard of Soylint? I'm really into Soylint lately."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-0/7
+msgctxt "Mitchell"
+msgid "Like it? I LIVE for it. And not just food, but the whole of the experience."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-0/15
+msgctxt "Mitchell"
+msgid "The ambiance! That interplay of sound, sight, and scent that whets the appetite and inspires the mind."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-0/23
+msgctxt "Mitchell"
+msgid "The art of service, be it subtle theater, delightful formality, or downright brutish charm."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-0/31
+msgctxt "Mitchell"
+msgid "And of course the meal itself."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-0/39
+msgctxt "Mitchell"
+msgid "From the minutiae of the menu, to the presentation on the plate, and the very titillation of the tongue."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-0/47
+msgctxt "Mitchell"
+msgid "Dining, in all its forms, is the blood that flows in my veins."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-1/7/b/1
+msgctxt "Mitchell"
+msgid "I have to say I already find your taste QUITE impressive."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-1/8/b/1
+msgctxt "Mitchell"
+msgid "You've already begun to prove that!"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-1/9/b/1
+msgctxt "Mitchell"
+msgid "Oh really? Could have fooled me..."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-2/7
+msgctxt "Mitchell"
+msgid "What, pray tell, does that mean?"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Honestly, I'm not even sure what I meant by that. Sometimes I just say things."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "You're really hot."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-2/15/c-0/7
+msgctxt "Mitchell"
+msgid "Right..."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-2/15/c-1/7
+msgctxt "Mitchell"
+msgid "I, uh, thank you?"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/c-3/7
+msgctxt "Mitchell"
+msgid "I'm going to pretend I didn't hear that."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/0
+msgctxt "Mitchell"
+msgid "Listen, I'm afraid you've caught me in a bit of a hurry."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/8
+msgctxt "Mitchell"
+msgid "Three new spots have just opened up around the house."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/16
+msgctxt "Mitchell"
+msgid "I'm eager to give them a try, and see if they measure up to my exacting standards."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/24
+msgctxt "Mitchell"
+msgid "Say... How would you like to accompany me?"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "That would be great!"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "I'm not really hungry right now."
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/c-4/11
+msgctxt "Mitchell"
+msgid "Brilliant!"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/c-5/11
+msgctxt "Mitchell"
+msgid "Then I'm afraid this is goodbye for now!"
+msgstr ""
+
+#: mitchell_food/mitchell_intro/0/g-0/c-5/19
+msgctxt "Mitchell"
+msgid "Come back and see me whenever you'd like to go out for a bite."
+msgstr ""
+
+#: mitchell_food/HungryYet/0/0
+msgctxt "Mitchell"
+msgid "Hello again. I'm just about to head out to a review. Care to join me?"
+msgstr ""
+
+#: mitchell_food/HungryYet/0/8/s/0 mitchell_food/MeetingAgain/0/19/s/0
+msgctxt "Choix"
+msgid "I'd love to!"
+msgstr ""
+
+#: mitchell_food/HungryYet/0/9/s/0 mitchell_food/MeetingAgain/0/20/s/0
+msgctxt "Choix"
+msgid "Too bad. I just ate."
+msgstr ""
+
+#: mitchell_food/HungryYet/0/10/s/0 mitchell_food/MeetingAgain/0/21/s/0
+msgctxt "Choix"
+msgid "I was thinking maybe we could just talk..."
+msgstr ""
+
+#: mitchell_food/HungryYet/0/c-1/7 mitchell_food/MeetingAgain/0/c-1/7
+msgctxt "Mitchell"
+msgid "Pity, that. See you later!"
+msgstr ""
+
+#: mitchell_food/HungryYet/0/c-2/7 mitchell_food/MeetingAgain/0/c-2/7
+msgctxt "Mitchell"
+msgid "I'd love to, really."
+msgstr ""
+
+#: mitchell_food/HungryYet/0/c-2/15 mitchell_food/MeetingAgain/0/c-2/15
+msgctxt "Mitchell"
+msgid "But I'm afraid without my reviews, the culinary prospects of this house would be dire indeed."
+msgstr ""
+
+#: mitchell_food/HungryYet/0/c-2/23/0/s/0 mitchell_food/MeetingAgain/0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "I'll come along, then."
+msgstr ""
+
+#: mitchell_food/HungryYet/0/c-2/23/1/s/0 mitchell_food/MeetingAgain/0/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "Ok. I'll see you another time, then."
+msgstr ""
+
+#: mitchell_food/HungryYet/0/c-2/23/c-0/11 mitchell_food/MeetingAgain/0/c-2/23/c-0/7
+msgctxt "Mitchell"
+msgid "Excellent!"
+msgstr ""
+
+#: mitchell_food/MeetingAgain/0/3
+msgctxt "Mitchell"
+msgid "Ah! My faithful companion!"
+msgstr ""
+
+#: mitchell_food/MeetingAgain/0/11
+msgctxt "Mitchell"
+msgid "Care to join me for another review?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/4
+msgctxt "Narrator"
+msgid "You find Mitchell looking more pensive than usual. He sits staring off into the distance, absently swirling a glass of red."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/12
+msgctxt "Narrator"
+msgid "He notices you when you approach, and you catch a glint of something in his eyes."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/20
+msgctxt "Mitchell"
+msgid "Bon soir, mon... ami?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/28
+msgctxt "Mitchell"
+msgid "Mon... cheri?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/36
+msgctxt "Mitchell"
+msgid "Sometimes I get so wrapped up in what I'm doing that I forget the most essential things."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/44/s/0
+msgctxt "Choix"
+msgid "Such as?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/45/s/0
+msgctxt "Choix"
+msgid "Mon cheri? I like the sound of that..."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/46/s/0
+msgctxt "Choix"
+msgid "Is something wrong, Mitchell?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/c-0/7
+msgctxt "Mitchell"
+msgid "Such as questioning what's really at the heart of it all."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/c-0/15
+msgctxt "Mitchell"
+msgid "There's something I'd very much like to ask you."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/c-1/7
+msgctxt "Mitchell"
+msgid "Yes, well... You've been on my mind."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/c-1/15
+msgctxt "Mitchell"
+msgid "I've wanted to ask your opinion about something."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/c-2/7
+msgctxt "Mitchell"
+msgid "Not at all, not at all. In fact, something has never been more right."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/c-2/15
+msgctxt "Mitchell"
+msgid "May I ask you something?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Ask away!"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "Anything."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "I'm... already spoken for, Mitchell."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-0/c-5/7
+msgctxt "Mitchell"
+msgid "Ah! Of course. I should have known..."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-0/c-5/15
+msgctxt "Mitchell"
+msgid "And while this disappoints me, I must say that wasn't going to be my question."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/0
+msgctxt "Mitchell"
+msgid "Do you think there is a connection between food and love?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/8
+msgctxt "Mitchell"
+msgid "Specifically, do you think that by eating with another, delighting in delicacies..."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/16
+msgctxt "Mitchell"
+msgid "Appreciating the ambiance of a fine establishment..."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/24
+msgctxt "Mitchell"
+msgid "Engaging in pleasant conversation and the elegant dance of table manners..."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/32
+msgctxt "Mitchell"
+msgid "Can these things make love?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "They can actually get in love's way."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "They cannot make it, but they can reveal it."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/42/s/0
+msgctxt "Choix"
+msgid "They are themselves an act of love."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-6/7
+msgctxt "Mitchell"
+msgid "How can this be?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-6/15
+msgctxt "Mitchell"
+msgid "I've spent my whole life believing that the path to my heart lay directly through my stomach."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-6/23
+msgctxt "Mitchell"
+msgid "But perhaps there's more to life than food. Perhaps I ought to expand my horizons."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-6/31
+msgctxt "Mitchell"
+msgid "Hm. I fear this has put me in a rather sour mood."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-6/42
+msgctxt "Mitchell"
+msgid "Return another time, and we can 'get in love's way' together, no?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-7/7
+msgctxt "Mitchell"
+msgid "These are wise words, and I must ponder them..."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-7/15 mitchell_food/FoodOfLove/0/g-1/c-8/26
+msgctxt "Mitchell"
+msgid "Do return soon, yes?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-7/23 mitchell_food/FoodOfLove/0/g-1/c-8/34
+msgctxt "Mitchell"
+msgid "I must say I am eagerly awaiting our next rendezvous."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-7/31 mitchell_food/FoodOfLove/0/g-1/c-8/42
+msgctxt "Mitchell"
+msgid "I have begun to find you rather... entrancing."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-7/39 mitchell_food/FoodOfLove/0/g-1/c-8/50
+msgctxt "Mitchell"
+msgid "But tonight, I need some time with this glass of wine."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-7/47 mitchell_food/FoodOfLove/0/g-1/c-8/58
+msgctxt "Mitchell"
+msgid "That is to say, time to be with myself."
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-8/7
+msgctxt "Mitchell"
+msgid "An act of love... Do you mean to say that love is created by what we do?"
+msgstr ""
+
+#: mitchell_food/FoodOfLove/0/g-1/c-8/15
+msgctxt "Mitchell"
+msgid "This is a beautiful sentiment, and one that goes straight to my heart."
+msgstr ""
+
+#: mitchell_food/WhereShouldWeEat/0/0
+msgctxt "Mitchell"
+msgid "So, where should we go?"
+msgstr ""
+
+#: mitchell_food/WhereShouldWeEat/0/8/b/1
+msgctxt "Mitchell"
+msgid "There's a new hawaiian-fusion place in the living room."
+msgstr ""
+
+#: mitchell_food/WhereShouldWeEat/0/11/b/1
+msgctxt "Mitchell"
+msgid "Daisuke's sushi spot in the dining room is supposed to be pretty swanky."
+msgstr ""
+
+#: mitchell_food/WhereShouldWeEat/0/14/b/1
+msgctxt "Mitchell"
+msgid "Freddy Yeti has an ice cream joint in the kitchen that's worth checking out."
+msgstr ""
+
+#: mitchell_food/WhereShouldWeEat/0/17/s/0
+msgctxt "Choix"
+msgid "Let's do sushi!"
+msgstr ""
+
+#: mitchell_food/WhereShouldWeEat/0/18/s/0
+msgctxt "Choix"
+msgid "Hawaiian-fusion? I'm in!"
+msgstr ""
+
+#: mitchell_food/WhereShouldWeEat/0/19/s/0
+msgctxt "Choix"
+msgid "You had me at 'ice cream.'"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/19
+msgctxt "Narrator"
+msgid "Mitchell leads you to the dining room—he seems excited, or about as excited as a critic like Mitchell can be about a new place."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/24
+msgctxt "Mitchell"
+msgid "I've heard only good things about Daisuke's place so far."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/32
+msgctxt "Mitchell"
+msgid "Let's hope it lives up to expectation."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/37
+msgctxt "Narrator"
+msgid "You walk into a rather austere space, every element seemingly selected for its clean and unpretentious elegance."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/42
+msgctxt "Narrator"
+msgid "The counters are of raw pine, finished to a glossy luster."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/47
+msgctxt "Narrator"
+msgid "The walls are shoji-style screens, and the doors slide open with a soft hiss that seems engineered to bring you entirely into your sophisticated surroundings."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/52
+msgctxt "Narrator"
+msgid "A water feature drips delightfully in the background."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/57
+msgctxt "Narrator"
+msgid "You feel instantaneously relaxed and intrigued."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/65
+msgctxt "Mitchell"
+msgid "Ah, here comes the owner now."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/76
+msgctxt "Daisuke"
+msgid "Irasshaimase!"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/90
+msgctxt "Narrator"
+msgid "Daisuke greets you both with a warm smile."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/101
+msgctxt "Daisuke"
+msgid "Welcome to Omakase Daisuke. I am pleased to see you both."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/109
+msgctxt "Mitchell"
+msgid "Always nice to see you, Daisuke."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/117
+msgctxt "Mitchell"
+msgid "It's obvious you've put a lot of work into this endeavor."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/125
+msgctxt "Daisuke"
+msgid "Thank you, Mitchell. I have only done what anyone would in my place."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/133
+msgctxt "Daisuke"
+msgid "The dishware deserves no less than maximum effort."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/141
+msgctxt "Daisuke"
+msgid "I hope the decor and ambiance please you."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/149
+msgctxt "Mitchell"
+msgid "My mind isn't quite made up yet..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/157/s/0
+msgctxt "Choix"
+msgid "I think it's exquisite, Daisuke."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/158/s/0
+msgctxt "Choix"
+msgid "Eh. Feels a little too stuffy to me..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/159/s/0
+msgctxt "Choix"
+msgid "The slightly 'run down' quality... It's..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/7
+msgctxt "Mitchell"
+msgid "You do? Seems rather dull to me."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Look more closely. It's intentional. Not dull, but understated."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Hmm. Now that you mention it, there's not really much going on here."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/7
+msgctxt "Mitchell"
+msgid "Understated, you say? Let me take a closer look..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Everything has been selected and arranged in order to draw one's full attention to the sushi."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/7
+msgctxt "Mitchell"
+msgid "Why, you're absolutely right. I thought at first it was lazy and weak decor..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/15
+msgctxt "Daisuke"
+msgid "Lazy and weak?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/26
+msgctxt "Narrator"
+msgid "Mitchell continues on, as though he's not heard Daisuke."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/37
+msgctxt "Mitchell"
+msgid "But look around you."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/45
+msgctxt "Mitchell"
+msgid "Perfectly clean. Lighting muted but warm."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/53
+msgctxt "Mitchell"
+msgid "This wood shows the signs of a master carpenter."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/61
+msgctxt "Mitchell"
+msgid "These chairs have been selected with painstaking care."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/69
+msgctxt "Mitchell"
+msgid "And as I listen, I detect the subtle dripping of water from a waterfall pond."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/77
+msgctxt "Daisuke"
+msgid "That is only Sinclaire's chronic drip, but I thank you all the same."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/85
+msgctxt "Mitchell"
+msgid "I feel almost as if I've been transported to the Sukibayashi Jiro!"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/96
+msgctxt "Mitchell"
+msgid "Delightful! Simply delightful."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-1/7
+msgctxt "Mitchell"
+msgid "No. Where is the zing? The pizazz?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-1/15
+msgctxt "Mitchell"
+msgid "Where is the originality?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-1/23
+msgctxt "Mitchell"
+msgid "I'm afraid it's a bit too conservative for my bold taste."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-1/31
+msgctxt "Daisuke"
+msgid "Sushi is a simple yet elegant food, and should be presented as such."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-0/15/c-1/39
+msgctxt "Daisuke"
+msgid "If you wish for bold presentation look elsewhere."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/7
+msgctxt "Mitchell"
+msgid "Hmm. Can you explain that a bit?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Not a thing out of place. Overly pristine. Makes me feel like I'm not supposed to be here!"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/c-0/7
+msgctxt "Mitchell"
+msgid "I'm rather inclined to agree."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/c-0/15
+msgctxt "Mitchell"
+msgid "I don't mind luxury, but this? It's a bit much."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/c-0/23
+msgctxt "Daisuke"
+msgid "Luxury?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/c-0/31
+msgctxt "Narrator"
+msgid "Daisuke gestures around you."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/c-0/39
+msgctxt "Daisuke"
+msgid "I selected these pieces for their simplicity."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/c-0/47
+msgctxt "Mitchell"
+msgid "I'm sorry Daisuke but I don't think I'm a fan."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-1/15/c-0/55
+msgctxt "Daisuke"
+msgid "I see. That is a shame."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/7
+msgctxt "Mitchell"
+msgid "It's what?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Rather offputting, I must say."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "Absolutely masterful."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-0/7
+msgctxt "Mitchell"
+msgid "Unfortunately I think you're right. Not exactly inviting, is it?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-0/18
+msgctxt "Daisuke"
+msgid "I am sorry you find my restaurant uninviting."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/7
+msgctxt "Mitchell"
+msgid "Run down? Masterful? Please explain."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "A flawless example of the Japanese concept known as wabi-sabi."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "A flawless example of the concept of shabby-chic."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "A flawless example of brutalist decor."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/3/s/0
+msgctxt "Choix"
+msgid "A flawless example of Bohemian decor."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/7
+msgctxt "Daisuke"
+msgid "That is... not what I intended, but I am glad you are familiar with the concept."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/15
+msgctxt "Daisuke"
+msgid "Its meaning is quite profound."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/23
+msgctxt "Daisuke"
+msgid "It is the embrace of transience and the impermanence of all things."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/31
+msgctxt "Mitchell"
+msgid "My goodness... You're right."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/39
+msgctxt "Mitchell"
+msgid "Think of a cracked bowl glued back together with gold: Used for who knows how many years before being placed reverently on a shelf?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/47
+msgctxt "Mitchell"
+msgid "Some day, that will be all of us."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/55
+msgctxt "Mitchell"
+msgid "Used with love until finished."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/63
+msgctxt "Mitchell"
+msgid "And then honored in retirement."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/71
+msgctxt "Mitchell"
+msgid "I'm... I'm moved to tears."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/82
+msgctxt "Mitchell"
+msgid "And to think that without you pointing it out to me, I would have missed it."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/90
+msgctxt "Mitchell"
+msgid "How can I thank you enough?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-1/7
+msgctxt "Daisuke"
+msgid "Shabby-chic? You think my restaurant is shabby?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-1/15
+msgctxt "Mitchell"
+msgid "Shabby, yes. Chic? No."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-1/23
+msgctxt "Daisuke"
+msgid "How unfortunate."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/7
+msgctxt "Daisuke"
+msgid "Brutal???"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/18
+msgctxt "Mitchell"
+msgid "If you understood brutalism you would never say that about this place."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/29
+msgctxt "Daisuke"
+msgid "I do not know what you mean, but I feel I am being insulted just the same."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/37
+msgctxt "Daisuke"
+msgid "You are lucky I do not eject you from your seat here and now."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-3/7
+msgctxt "Mitchell"
+msgid "Bohemian? Are you joking?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-3/18
+msgctxt "Daisuke"
+msgid "Are you simply guessing at style terms?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-3/26
+msgctxt "Daisuke"
+msgid "Your reckless words are undeserving of a place at this table."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/0
+msgctxt "Mitchell"
+msgid "Let's move on to your specialty, Daisuke... What are we to make of the settings?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/8
+msgctxt "Daisuke"
+msgid "Before we begin I am obligated to tell you that Scandalabra's stories about the silver are damaging lies and not to be believed."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/22
+msgctxt "Mitchell"
+msgid "Believe the Scandalabra? I'd sooner let Sinclaire process an insurance claim for me..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/33
+msgctxt "Daisuke"
+msgid "I am glad we are all in agreement there."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/41
+msgctxt "Mitchell"
+msgid "Now let's have a look."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/49
+msgctxt "Mitchell"
+msgid "We appear to be missing chopsticks."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/57/s/0
+msgctxt "Choix"
+msgid "Why's that, Daisuke?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/58/s/0
+msgctxt "Choix"
+msgid "Chopsticks are properly only offered in Chinese restaurants."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/59/s/0
+msgctxt "Choix"
+msgid "Chopsticks are brought out after the first course."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/60/s/0
+msgctxt "Choix"
+msgid "Traditionally, sushi is eaten with the hands."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/c-3/7 mitchell_food/UpscaleSushi/0/g-0/c-4/32 mitchell_food/UpscaleSushi/0/g-0/c-5/15
+msgctxt "Daisuke"
+msgid "Traditionally, sushi is eaten with the hands."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/c-4/7
+msgctxt "Mitchell"
+msgid "Oh dear."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/c-4/24 mitchell_food/UpscaleSushi/0/g-0/c-5/7
+msgctxt "Daisuke"
+msgid "This is untrue. The answer is much simpler."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/c-4/40 mitchell_food/UpscaleSushi/0/g-0/c-5/23 mitchell_food/UpscaleSushi/0/g-0/c-6/30
+msgctxt "Daisuke"
+msgid "But if you wish I can bring you some."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/c-6/19
+msgctxt "Daisuke"
+msgid "Yes."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/c-6/38
+msgctxt "Mitchell"
+msgid "No need! I'll eat in the traditional way."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-0/c-6/46
+msgctxt "Mitchell"
+msgid "And I must say, marvelous attention to detail, Daisuke."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/0
+msgctxt "Mitchell"
+msgid "Alright... Let's get down to business! I'm starving."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/8
+msgctxt "Daisuke"
+msgid "As the name suggests, we offer only omakase."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Great! No need to order."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Ooh, perfect. I love shellfish!"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "Hmm. I don't like not having a selection."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "Seaweed only is an odd choice, I have to say."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/c-7/19
+msgctxt "Mitchell"
+msgid "I can't wait to see what's in store for us!"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/c-8/13 mitchell_food/UpscaleSushi/0/g-1/c-10/13
+msgctxt "Mitchell"
+msgid "I don't think that means what you think it does..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-1/c-9/19
+msgctxt "Mitchell"
+msgid "Me neither."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/0
+msgctxt "Mitchell"
+msgid "Ok, now when the first course comes, let's..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Give ourselves a minute or so to appreciate its beauty."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Pretend to refuse it once before accepting."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "Eat it right away, as soon as it is delivered!"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/c-11/13
+msgctxt "Mitchell"
+msgid "Sushi must be eaten right away! Within the first ten seconds."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/c-12/13
+msgctxt "Mitchell"
+msgid "Now that's an odd notion."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/c-13/13
+msgctxt "Mitchell"
+msgid "Yes! You really know your sushi etiquette."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-2/c-13/24
+msgctxt "Mitchell"
+msgid "Which I find very appealing, by the way..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/0
+msgctxt "Daisuke"
+msgid "Here you are. Please enjoy."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/8
+msgctxt "Narrator"
+msgid "Daisuke places a dish before you containing what must be the most hideous, clumsy nigiri you've ever seen in your life."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/19
+msgctxt "Narrator"
+msgid "The fish is misshapen, and the rice seems to be falling apart."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/30
+msgctxt "Mitchell"
+msgid "What... what are we looking at, Daisuke?"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/41
+msgctxt "Daisuke"
+msgid "Is it not obvious? This is eel."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/49
+msgctxt "Mitchell"
+msgid "...I see."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/60/s/0
+msgctxt "Choix"
+msgid "No complaints from me!"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/61/s/0
+msgctxt "Choix"
+msgid "Thank you for trying your best, Daisuke."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/62/s/0
+msgctxt "Choix"
+msgid "<i>Sip water and look away.</i>"
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-3/c-14/13 mitchell_food/UpscaleSushi/0/g-3/c-15/13
+msgctxt "Mitchell"
+msgid "Glad to know your take. I'll present my own opinions in the review..."
+msgstr ""
+
+#: mitchell_food/UpscaleSushi/0/g-4/0
+msgctxt "Mitchell"
+msgid "Now that we've eaten, I think it's time to go!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/19
+msgctxt "Narrator"
+msgid "You find yourself in a large and comfy, side-of-the-street style stand."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/24
+msgctxt "Narrator"
+msgid "Koa has blended traditional Hawaiian vibes with Korean elements."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/29/b/1
+msgctxt "Narrator"
+msgid "He has somehow convinced Lux to don a red and blue outfit, in order to tastefully represent a traditional Korean lantern."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/32
+msgctxt "Narrator"
+msgid "Koa has managed to bend himself around a grill in the center of the establishment, in classic Korean BBQ style."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/37/b/1
+msgctxt "Narrator"
+msgid "But the Hawaiian vibe is very much in full swing, and the scent of Kahlua pork is drifting on the breeze (he's asked Wyndolyn to kindly crack herself a bit for the occasion!)."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/49
+msgctxt "Koa"
+msgid "Aloha friends!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/60
+msgctxt "Koa"
+msgid "Welcome to Two Currents! A Hawaiian-fusion experience!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/71
+msgctxt "Mitchell"
+msgid "My, my, mon ami! You've worked hard to create the atmosphere."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/79
+msgctxt "Koa"
+msgid "Oh, not too hard!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/87
+msgctxt "Mitchell"
+msgid "Well... What do we think?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/95/s/0
+msgctxt "Choix"
+msgid "You've achieved a true fusion!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/96/s/0
+msgctxt "Choix"
+msgid "Awesome shoji lantern!!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/97/s/0
+msgctxt "Choix"
+msgid "Love the cheongsachorong. Nice touch."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/98/s/0
+msgctxt "Choix"
+msgid "Shouldn't we be eating on Abel's back?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-0/7
+msgctxt "Koa"
+msgid "I'm humbled that you think so!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-0/15
+msgctxt "Mitchell"
+msgid "I agree, Koa. This is, so far, quite delightful!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-1/7
+msgctxt "Koa"
+msgid "Shoji?? That's Japanese..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-1/18
+msgctxt "Koa"
+msgid "This traditional Korean lantern is called a cheongsachorong."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-1/26
+msgctxt "Mitchell"
+msgid "Oh goodness. How embarrassing!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-1/37
+msgctxt "Mitchell"
+msgid "You'll have to excuse my date for lack of refinement."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-1/45
+msgctxt "Mitchell"
+msgid "All the same, Koa, the cheongsachorong is a thoughtful addition."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-2/7
+msgctxt "Koa"
+msgid "You knew what it was? I'm impressed!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-2/15
+msgctxt "Narrator"
+msgid "Mitchell beams, pride radiating from him."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-2/26
+msgctxt "Mitchell"
+msgid "My date is quite worldly, Koa."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-3/7
+msgctxt "Koa"
+msgid "Aw, it's all good! You can just relax for a minute and chill here!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/c-3/15
+msgctxt "Mitchell"
+msgid "Hmm. I agree. It does seem a tad bit unsanitary."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/0
+msgctxt "Koa"
+msgid "Please, take a seat."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/8
+msgctxt "Narrator"
+msgid "Koa pats his lap."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/16
+msgctxt "Mitchell"
+msgid "Don't mind if we do."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/24
+msgctxt "Mitchell"
+msgid "Hmm..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/32
+msgctxt "Koa"
+msgid "Is something the matter?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/40
+msgctxt "Mitchell"
+msgid "How do we feel about these seats?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "Pretty stable! Can't complain."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "I feel like I'm on \"two currents\" alright..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/50/s/0
+msgctxt "Choix"
+msgid "Koa's lap is pretty comfy!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-4/7
+msgctxt "Mitchell"
+msgid "Yes, I suppose this is a suitable arrangement."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-5/7
+msgctxt "Mitchell"
+msgid "I can barely stay upright! And the back rest is too far back from the food."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-5/18
+msgctxt "Mitchell"
+msgid "I'd far prefer an arrangement like Chairemi and Abel have."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/7
+msgctxt "Koa"
+msgid "I'm glad to have you on it."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/15
+msgctxt "Mitchell"
+msgid "And me at the same time! How scandalous."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/23/b/7
+msgctxt "Scandalabra"
+msgid "Did someone say 'SCANDAL?'"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/23/b/18
+msgctxt "Mitchell"
+msgid "Out!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/23/b/29
+msgctxt "Scandalabra"
+msgid "But..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/23/b/37
+msgctxt "Koa"
+msgid "Out!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/23/b/48
+msgctxt "Scandalabra"
+msgid "I just..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/23/b/56
+msgctxt "Mitchell"
+msgid "OUT!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-0/c-6/23/b/67
+msgctxt "Scandalabra"
+msgid "Oh, phooey!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/0
+msgctxt "Koa"
+msgid "If there's anything I can do to make things more comfy, just ask!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/8
+msgctxt "Mitchell"
+msgid "Noted."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/16
+msgctxt "Mitchell"
+msgid "Now... what do you recommend?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/24
+msgctxt "Koa"
+msgid "Here's a dish that's also of Korean origin: meat jun!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/35
+msgctxt "Koa"
+msgid "Thinly sliced beef dipped in egg batter and fried!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/43
+msgctxt "Koa"
+msgid "And of course, some kalua pork, rice, and cucumber slices to go with it."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/59
+msgctxt "Mitchell"
+msgid "Intriguing. What do you think?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/67/s/0
+msgctxt "Choix"
+msgid "Um... I don't eat meat. Remember?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/68/s/0
+msgctxt "Choix"
+msgid "Let's get that!!!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/69/s/0
+msgctxt "Choix"
+msgid "I thought this was fusion. Where's the Hawaiian influence?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/70/s/0
+msgctxt "Choix"
+msgid "Might I substitute the kalua pork for a side of, say, oi muchin?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/7
+msgctxt "Koa"
+msgid "Oh shoot! Well, no matter. I've got veggie options! Take a look at this menu..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/0/s/0
+msgctxt "Choix"
+msgid "Do you happen to have oi muchin?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/1/s/0
+msgctxt "Choix"
+msgid "How about the lau lau instead?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/2/s/0
+msgctxt "Choix"
+msgid "I'll just have the mac salad."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/3/s/0
+msgctxt "Choix"
+msgid "I don't actually know which of these is veggies..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-0/7
+msgctxt "Koa"
+msgid "I can whip some up for you!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-0/15
+msgctxt "Mitchell"
+msgid "I am impressed! That wasn't even on the menu!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-1/7
+msgctxt "Koa"
+msgid "Huh? But that is made with pork and butterfish..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-1/15
+msgctxt "Mitchell"
+msgid "Why not just bring our guest some grilled veggies."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-1/23
+msgctxt "Mitchell"
+msgid "Clearly my date didn't know what it was."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-1/31
+msgctxt "Koa"
+msgid "Right away."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-1/39
+msgctxt "Mitchell"
+msgid "That was awkward..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-2/7
+msgctxt "Koa"
+msgid "Of course."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-3/7
+msgctxt "Koa"
+msgid "Oh! No problem. Here... I'll help you order."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-3/15
+msgctxt "Mitchell"
+msgid "I'm impressed that you had the courage to just ask."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-7/22/c-3/23
+msgctxt "Mitchell"
+msgid "I find that attractive, I'll have you know.."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-8/7
+msgctxt "Mitchell"
+msgid "Make that two orders, and consider me intrigued!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-8/15
+msgctxt "Koa"
+msgid "Comin' right up!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-9/7
+msgctxt "Koa"
+msgid "Kalua pork is as Hawaiian as it gets!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/DyinForHawaiian/0/g-1/c-9/20
+msgctxt "Narration / joueur"
+msgid ", do try to keep up."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-10/7
+msgctxt "Koa"
+msgid "Of course! We have some in back for special requests!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-10/15
+msgctxt "Mitchell"
+msgid "Well, well, look at you!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-10/26
+msgctxt "Mitchell"
+msgid "Asking for exactly what you want... and oi muchin wasn't even on the menu!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-1/c-10/34
+msgctxt "Mitchell"
+msgid "I find your confidence ravishing."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/0
+msgctxt "Koa"
+msgid "I'll be right back with your food."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/8
+msgctxt "Koa"
+msgid "In the meantime, how about some of our special soju?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "No alcohol for me right now, thanks."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "How about something alcoholic instead?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "Geonbae!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/c-11/7
+msgctxt "Koa"
+msgid "No problem! Just water, then."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/c-12/7
+msgctxt "Koa"
+msgid "Soju is actually alcoholic!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/c-12/15
+msgctxt "Mitchell"
+msgid "And you can bring me a glass, thank you."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/DyinForHawaiian/0/g-2/c-12/23
+msgctxt "Mitchell"
+msgid "Looks like you missed that one in your culinary education,"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-2/c-13/7
+msgctxt "Koa"
+msgid "Geonbae!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/DyinForHawaiian/0/g-2/c-13/15
+msgctxt "Mitchell"
+msgid "Nice one,"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/0
+msgctxt "Koa"
+msgid "Ok, here's your order! Dig in!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/8
+msgctxt "Mitchell"
+msgid "Let's try this..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/16
+msgctxt "Narrator"
+msgid "Koa's dishes are sumptuous, abundant, and full of bold, contrasting flavors."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/24
+msgctxt "Narrator"
+msgid "This is definitely comfort food, and the gloves are off when it comes to spices, sauces, and carbs."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/32
+msgctxt "Narrator"
+msgid "The combination of Hawaiian and Korean flavors contrasts and compliments, ultimately fusing into something utterly unique."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/40/b/1
+msgctxt "Narrator"
+msgid "Fermented vegetables, meats dripping with sugary pineapple sauce, and rice, lots of rice."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/41/b/1
+msgctxt "Narrator"
+msgid "Fresh-roasted tubers, and rice, lots of rice."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/44
+msgctxt "Mitchell"
+msgid "Interesting... what do you think?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/52/s/0
+msgctxt "Choix"
+msgid "This is unlike anything I've ever had before..."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/53/s/0
+msgctxt "Choix"
+msgid "THIS SLAPS!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/54/s/0
+msgctxt "Choix"
+msgid "Not bad. Might be too much for me though."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/55/s/0
+msgctxt "Choix"
+msgid "<i>whispering</i> Can we get moving?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/7
+msgctxt "Koa"
+msgid "So...?"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/0/s/0
+msgctxt "Choix"
+msgid "So I LOVE IT!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/1/s/0
+msgctxt "Choix"
+msgid "So it might be a bit too experimental for me."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-0/7
+msgctxt "Mitchell"
+msgid "I agree!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-0/18
+msgctxt "Mitchell"
+msgid "To have made something so original and yet so delicious is a real win."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-0/26
+msgctxt "Mitchell"
+msgid "Koa, you've outdone yourself."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-0/34
+msgctxt "Mitchell"
+msgid "And"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-0/39
+msgctxt "Narration / joueur"
+msgid ", I must applaud your open mind!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-0/47
+msgctxt "Mitchell"
+msgid "I find that to be quite sexy."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-1/7
+msgctxt "Mitchell"
+msgid "Agreed. Alas, it's a bit... out there."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-14/15/c-1/15
+msgctxt "Mitchell"
+msgid "It was a noble exploration but it doesn't quite work."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-15/7
+msgctxt "Mitchell"
+msgid "Quite! I'll be including your win in my review."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-16/7
+msgctxt "Mitchell"
+msgid "It's all a bit too heavy."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-16/15
+msgctxt "Mitchell"
+msgid "Can't say it's for me, either."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-17/7
+msgctxt "Mitchell"
+msgid "I think we'll pass on seconds."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-17/18
+msgctxt "Mitchell"
+msgid "You'll be seeing my review shortly, Koa."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-3/c-17/26
+msgctxt "Mitchell"
+msgid "...brace yourself."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-4/0
+msgctxt "Mitchell"
+msgid "My friend and I are about finished here."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-4/8
+msgctxt "Mitchell"
+msgid "Koa. Thank you for having us."
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-4/16
+msgctxt "Koa"
+msgid "You two are welcome back anytime!"
+msgstr ""
+
+#: mitchell_food/DyinForHawaiian/0/g-4/24
+msgctxt "Koa"
+msgid "Thanks for stopping by!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/19
+msgctxt "Narrator"
+msgid "You arrive at Freddy Yeti's new ice cream joint: \"The Yummy Yeti.\""
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/27
+msgctxt "Narrator"
+msgid "It's a herky-jerky establishment, to say the least. The ice trays are slipping and sliding everywhere."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/32
+msgctxt "Narrator"
+msgid "The frozen peas and fruit have not yet been moved totally out of the way."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/37
+msgctxt "Narrator"
+msgid "And Freddy himself is hard at work trying to put together the last touches on his icy creations."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/48
+msgctxt "Mitchell"
+msgid "We have arrived!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/59
+msgctxt "Freddy"
+msgid "Hey guys! Great to see ya!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/70
+msgctxt "Freddy"
+msgid "I'll be right with you, as soon as I finish mixing this... Dang strawberries won't blend..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/84
+msgctxt "Mitchell"
+msgid "Hmmm... What do you think?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/92/s/0
+msgctxt "Choix"
+msgid "Rustic. In the best way. Feels like home!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/93/s/0
+msgctxt "Choix"
+msgid "I expected it to be a bit more... inviting?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/c-0/7
+msgctxt "Mitchell"
+msgid "I agree. Rather charming! The sort of place I'd love to bring a date..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/c-0/18
+msgctxt "Mitchell"
+msgid "I'll note this down."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/c-1/7
+msgctxt "Mitchell"
+msgid "Yes, yes... rather cold. And a bit of a mess."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/c-1/15
+msgctxt "Mitchell"
+msgid "Freddy, you knew we were coming, did you not?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/c-1/23
+msgctxt "Freddy"
+msgid "To be honest with you the pages in the reservation book got totally frozen shut."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/c-1/31
+msgctxt "Mitchell"
+msgid "How... unfortunate. For you..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/0
+msgctxt "Freddy"
+msgid "Grab a seat, guys! Pop yourselves down on that there box of Hogan Doe's bars."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/8
+msgctxt "Mitchell"
+msgid "I hope we won't be eating pre-packaged foods!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/16
+msgctxt "Freddy"
+msgid "Haha! Not at all! Just part of the aesthetic."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "That's so creative! I love it!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Old boxes of off-brand ice cream for stools? Hmm."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/c-2/7
+msgctxt "Mitchell"
+msgid "I'm so glad you approve. I want you to enjoy yourself while we are out together!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/c-2/15
+msgctxt "Mitchell"
+msgid "And I must say, Freddy, it really is a good idea!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/c-2/23
+msgctxt "Freddy"
+msgid "Ah shucks! You're makin' me feel all nice and cold inside!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/c-3/7
+msgctxt "Mitchell"
+msgid "How crude. I can't help but note that down."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/c-3/15
+msgctxt "Mitchell"
+msgid "I can see what you were going for, Freddy, but it's not working."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/c-3/23
+msgctxt "Freddy"
+msgid "Yeesh. Loosen up..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-0/c-3/31
+msgctxt "Mitchell"
+msgid "If we all loosened up as much as you have here, we'd be falling apart like old sweaters."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/0
+msgctxt "Mitchell"
+msgid "Have you got menus?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/8
+msgctxt "Freddy"
+msgid "Nope! But look at this!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/16
+msgctxt "Narrator"
+msgid "Freddy points at a long bar of ice, into which he's frozen the various flavor combinations."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/24
+msgctxt "Narrator"
+msgid "Strawberries, bananas, pieces of chocolate, vanilla beans..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/32
+msgctxt "Narrator"
+msgid "And beside each he has painstakingly (if a bit sloppily) carved the names in ice."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "Those names are pretty much illegible..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "Freddy that's so COOL! Pun intended."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/c-4/7
+msgctxt "Freddy"
+msgid "But can't you see what the flavors are?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/c-4/18
+msgctxt "Mitchell"
+msgid "I don't think we came here to play a guessing game, Freddy."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/c-5/7
+msgctxt "Freddy"
+msgid "Thanks guys!!! Mitchell, you inspired the idea."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-1/c-5/18
+msgctxt "Mitchell"
+msgid "I'm touched!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/0
+msgctxt "Freddy"
+msgid "Anyhow, we've got strawberry-vanilla swirl, chocolate chill, coffee with cream, and classic vanilla."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/8
+msgctxt "Freddy"
+msgid "What'll it be?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/16
+msgctxt "Mitchell"
+msgid "You first, mon ami."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/24
+msgctxt "Mitchell"
+msgid "So much about a person can be determined by their choice in ice cream flavors..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/32
+msgctxt "Mitchell"
+msgid "Don't you think?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/40/s/0
+msgctxt "Choix"
+msgid "Wanna swirl things up with that luscious strawberry?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/41/s/0
+msgctxt "Choix"
+msgid "Let's chill with that chocolate!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/42/s/0
+msgctxt "Choix"
+msgid "Shall we caffeinate while we refrigerate?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/43/s/0
+msgctxt "Choix"
+msgid "Vanilla."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-6/7
+msgctxt "Mitchell"
+msgid "OOh! I dare say let's get a bit mixed up!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-6/18
+msgctxt "Mitchell"
+msgid "I love a good dance of flavors..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-7/7
+msgctxt "Mitchell"
+msgid "One does not simply \"Chill\" with chocolate!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-7/15
+msgctxt "Mitchell"
+msgid "One INDULGES in her. One LUXURIATES in the devouring of her decadence!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-7/23
+msgctxt "Mitchell"
+msgid "Your lack of respect for the consecration of cacao..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-7/31
+msgctxt "Mitchell"
+msgid "Has been NOTED."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-8/7
+msgctxt "Mitchell"
+msgid "Getting energized for the evening, I see..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-8/15
+msgctxt "Mitchell"
+msgid "I approve of high-energy hedonism!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-9/7
+msgctxt "Mitchell"
+msgid "How drab and uninteresting."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-2/c-9/18
+msgctxt "Mitchell"
+msgid "I am not at all impressed."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/0
+msgctxt "Freddy"
+msgid "Well!? Don't just leave me hangin! How is it!?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "FREDERICK. Can I call you Frederick? It's absolutely sublime."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "Oh, Freddy, it's absolutely divin- You know what? I suck at lying. It's terrible."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/10/s/0
+msgctxt "Choix"
+msgid "Sorta kinda meh, if I'm being honest."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-10/7
+msgctxt "Freddy"
+msgid "Oh that makes me so happy!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-10/18
+msgctxt "Mitchell"
+msgid "Freddy. Dare I say it, this is the most voluptuously iced cream I've ever had the pleasure..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-10/26
+msgctxt "Mitchell"
+msgid "Nay, the HONOR, of tasting!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-10/37
+msgctxt "Mitchell"
+msgid "BraVO my friend. Bravissimo!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-11/7
+msgctxt "Freddy"
+msgid "Oh boy... Ok... Well, I guess it is what it is."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-11/15
+msgctxt "Freddy"
+msgid "I'm sorry it was so disappointing."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-11/26
+msgctxt "Mitchell"
+msgid "I. Am. Saddened."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-11/34
+msgctxt "Mitchell"
+msgid "By your lack of concern for the delicacy that is a creamed ice."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-11/42
+msgctxt "Mitchell"
+msgid "This barely qualifies as edible."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-12/7
+msgctxt "Freddy"
+msgid "Yikes... That hurts."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/IceCreamDream/0/g-3/c-12/15
+msgctxt "Mitchell"
+msgid "I have to say I agree with our friend,"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-12/28
+msgctxt "Mitchell"
+msgid "This is a 'C' at best."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-3/c-12/36
+msgctxt "Mitchell"
+msgid "Which in my book, is not a passing grade."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/0
+msgctxt "Freddy"
+msgid "Well guys, I've only got one more thing to offer."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/8
+msgctxt "Freddy"
+msgid "And that's my Every-Day-Is-Sundae."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/16
+msgctxt "Mitchell"
+msgid "That sounds interesting..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/24/s/0
+msgctxt "Choix"
+msgid "I'm full."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/25/s/0
+msgctxt "Choix"
+msgid "Lay it on me, baby!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-13/7
+msgctxt "Freddy"
+msgid "Ah crumbs! I should've started with it."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/7
+msgctxt "Freddy"
+msgid "First we've got the ice cream... Vanilla and brown-butter caramel."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/0/s/0
+msgctxt "Choix"
+msgid "Just take me now, why don't you?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/1/s/0
+msgctxt "Choix"
+msgid "Not a fan of caramel, actually."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/c-0/7
+msgctxt "Mitchell"
+msgid "Consider me titillated."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/c-1/7
+msgctxt "Mitchell"
+msgid "Neither am I."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/0
+msgctxt "Freddy"
+msgid "Then comes the chocolate syrup, which has been heated."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/8
+msgctxt "Freddy"
+msgid "Next we have a subtle glaze of butterscotch."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "Oh, you SLUT."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "You're a naughty, naughty boy..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/2/s/0
+msgctxt "Choix"
+msgid "Bit much, don't you think?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/c-0/7
+msgctxt "Mitchell"
+msgid "Mon dieu!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/c-1/7
+msgctxt "Mitchell"
+msgid "But we <i>like</i> it!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/c-2/7
+msgctxt "Mitchell"
+msgid "And after we've already had a first cone?"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/0
+msgctxt "Freddy"
+msgid "Some ground roasted almonds for a crunch..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/8
+msgctxt "Freddy"
+msgid "A bit of whipped cream..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/16
+msgctxt "Freddy"
+msgid "And last but not least"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "Give it to me, Freddy."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "TAKE ME YOU NASTY ANIMAL!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/24/2/s/0
+msgctxt "Choix"
+msgid "I think I just got full looking at all this."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/24/c-0/7
+msgctxt "Mitchell"
+msgid "Enough with the foreplay!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/24/c-1/7
+msgctxt "Mitchell"
+msgid "YES! YES!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-4/c-14/15/g-0/16/g-0/24/c-2/7
+msgctxt "Mitchell"
+msgid "I think perhaps we'll pass afterall."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/0
+msgctxt "Freddy"
+msgid "Well, my friends, that's everything I had for you!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/8
+msgctxt "Freddy"
+msgid "I know it's a bit rough still, but I hope you had a good time."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/16
+msgctxt "Freddy"
+msgid "I'm not exactly a trained waiter..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/24/s/0
+msgctxt "Choix"
+msgid "We could kinda tell..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/25/s/0
+msgctxt "Choix"
+msgid "Au contraire! I thought the service was great!"
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/26/s/0
+msgctxt "Choix"
+msgid "Your service was good."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/c-15/7
+msgctxt "Mitchell"
+msgid "Some training might help you in the future."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/c-15/15
+msgctxt "Mitchell"
+msgid "Let me know me if you'd like a few pointers."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/c-16/7
+msgctxt "Mitchell"
+msgid "Je suis d'accord!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/IceCreamDream/0/g-5/c-16/15
+msgctxt "Mitchell"
+msgid "And might I say,"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: mitchell_food/IceCreamDream/0/g-5/c-16/20
+msgctxt "Narration / joueur"
+msgid ", that your grasp of French grasps at my heart..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-5/c-17/7
+msgctxt "Mitchell"
+msgid "Indeed. Perfectly suitable, Freddy."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-6/0
+msgctxt "Mitchell"
+msgid "Thank you again for having us on such short notice."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-6/8
+msgctxt "Mitchell"
+msgid "Keep an eye out for my review..."
+msgstr ""
+
+#: mitchell_food/IceCreamDream/0/g-6/16
+msgctxt "Mitchell"
+msgid "Very well now, human, we must be going!"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/3
+msgctxt "Narrator"
+msgid "As you make your way back to the kitchen, there's a reflective silence. Your hand grazes Mitchell, and he looks at you. It's hard to read his gaze."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/14
+msgctxt "Mitchell"
+msgid "I... Ahem..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/22/s/0
+msgctxt "Choix"
+msgid "I felt it, too..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/23/s/0
+msgctxt "Choix"
+msgid "Yes Mitchell?"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/24/s/0
+msgctxt "Choix"
+msgid "Let's just get back to the kitchen, ok?"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-0/7
+msgctxt "Mitchell"
+msgid "Felt what?"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Felt that heat, that electricity..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Felt our bodies bump together. My mistake."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-0/15/c-0/13
+msgctxt "Mitchell"
+msgid "I... well... Yes. I suppose there's no use denying it."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-0/15/c-0/24
+msgctxt "Mitchell"
+msgid "I think there is something between us."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-0/15/c-0/32
+msgctxt "Mitchell"
+msgid "Perhaps we can continue to meet like this, and see where it leads us?"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-0/15/c-1/13
+msgctxt "Mitchell"
+msgid "Yes. A mistake, obviously."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/7
+msgctxt "Mitchell"
+msgid "I was just wondering..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/15
+msgctxt "Mitchell"
+msgid "What would you rate our evening, overall?"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "10/10. Your company was wonderful, but our meal was the real delight."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "10/10. The food was delicious, but your company was perfection."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/2/s/0
+msgctxt "Choix"
+msgid "5/10. The food flagged... but with you any night is a dream..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/3/s/0
+msgctxt "Choix"
+msgid "1/10. I'mma level with you. Wasn't the best date."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/c-0/7
+msgctxt "Mitchell"
+msgid "I couldn't agree more. The meal made my heart sing."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/c-1/7
+msgctxt "Mitchell"
+msgid "You are too kind..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/c-2/13
+msgctxt "Mitchell"
+msgid "To have had a wonderful night in spite of sub-par food?"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/c-2/21
+msgctxt "Mitchell"
+msgid "That compliment lands on my heart like an arrow from cupid's bow..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-1/23/c-3/7
+msgctxt "Mitchell"
+msgid "Well! You're entitled to your own review, I suppose."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/c-2/7
+msgctxt "Mitchell"
+msgid "Of course. My apologies."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/3
+msgctxt "Mitchell"
+msgid "Ah. We've arrived. This is the end of our night, I suppose."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "It doesn't have to be..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "Almost. <i>Kiss him.</i>"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/13/s/0
+msgctxt "Choix"
+msgid "Yes, alas! I'll be back soon!"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/14/s/0
+msgctxt "Choix"
+msgid "Later, Mitch."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/7/b/1
+msgctxt "Mitchell"
+msgid "Let us help ourselves to a second feast... a feast of pleasure."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/7/b/12
+msgctxt "Narrator"
+msgid "Making love to Mitchell is like eating at the most extraordinary restaurant you can imagine."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/7/b/23
+msgctxt "Narrator"
+msgid "He has style, elegance, and great poise. His attention to every detail of your desire is impeccable."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/7/b/31
+msgctxt "Narrator"
+msgid "He teases you in with appetizers of foreplay, and builds up to the entree of your pleasure with the utmost skill."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/7/b/39
+msgctxt "Narrator"
+msgid "By the time you are cuddling in the sensual aftermath of dessert, you are utterly, completely sated."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/7/b/47
+msgctxt "Mitchell"
+msgid "And now, I must bid you adieu..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/7/b/55
+msgctxt "Mitchell"
+msgid "Until we meet again."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-3/8/b/1
+msgctxt "Mitchell"
+msgid "I'm afraid it does. Goodnight my friend... Perhaps another time."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/1
+msgctxt "Narrator"
+msgid "You lean in and kiss Mitchell, delicately on the lips."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/9
+msgctxt "Narrator"
+msgid "He is at first surprised, but then returns your kiss with redoubled passion."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/20
+msgctxt "Narrator"
+msgid "He tastes of the most glorious and unexpected combination of flavors imaginable."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/28
+msgctxt "Narrator"
+msgid "In fact, it's quite beyond your imagination. Quite beyond words."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/36
+msgctxt "Narrator"
+msgid "I, the narrator, am having trouble knowing how to describe it. All I can say is that it's... delicious."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/44
+msgctxt "Narrator"
+msgid "And then, before you know it, it's done, and he's pulled away... Leaving you desperate for more."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/52
+msgctxt "Mitchell"
+msgid "Ahem... Before we get carried away... I must bid you adieu."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/7/b/60
+msgctxt "Mitchell"
+msgid "I hope to see you soon, my dear."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/8/b/1
+msgctxt "Narrator"
+msgid "Just as you are leaning in to kiss him, Mitchell holds up a hand."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/8/b/9
+msgctxt "Mitchell"
+msgid "I'm afraid we mustn't put the main course before the appetizer..."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-4/8/b/17
+msgctxt "Mitchell"
+msgid "So while I'm flattered, let us bid one another adieu for now."
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-5/7
+msgctxt "Mitchell"
+msgid "Bonsoir!"
+msgstr ""
+
+#: mitchell_food/MitchellMakesAMove/0/g-0/c-6/7
+msgctxt "Mitchell"
+msgid "It's 'Mitchell,' you cad."
+msgstr ""
+
+#: mitchell_food/Reviews/1/b/1/b/1
+msgctxt "Mitchell"
+msgid "Hi there! I'm just finishing up my latest round of reviews! Care to have a read?"
+msgstr ""
+
+#: mitchell_food/Reviews/1/b/2/b/1
+msgctxt "Mitchell"
+msgid "Which review next?"
+msgstr ""
+
+#: mitchell_food/Reviews/1/b/5/s/0
+msgctxt "Choix"
+msgid "Let's hear Koa's Fusion BBQ joint."
+msgstr ""
+
+#: mitchell_food/Reviews/1/b/6/s/0
+msgctxt "Choix"
+msgid "How about Freddy's ice cream place?"
+msgstr ""
+
+#: mitchell_food/Reviews/1/b/7/s/0
+msgctxt "Choix"
+msgid "Let's read Daisuke's sushi shop review."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/10
+msgctxt "Mitchell"
+msgid "Koa's 'Two Currents.'"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/18
+msgctxt "Mitchell"
+msgid "Let us see..."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/29/b/1
+msgctxt "Mitchell"
+msgid "When we walked into the living room for our lunch rendezvous, there was a lot to take in."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/29/b/9
+msgctxt "Mitchell"
+msgid "Hawaiian and Korean themes blended seamlessly in this laid-back BBQ joint."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/29/b/17
+msgctxt "Mitchell"
+msgid "Palm-shack decor, as if we were transported to Maui..."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/29/b/25
+msgctxt "Mitchell"
+msgid "But with traditional Korean furnishings reminiscent of Seoul's best restaurants..."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/29/b/33
+msgctxt "Mitchell"
+msgid "Not to mention the comfiest couch seats you could imagine."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/29/b/41
+msgctxt "Mitchell"
+msgid "Bravo!"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/30/b/1
+msgctxt "Mitchell"
+msgid "As we approached, I already had a sense that Koa's approach to ambiance was a 'miss.'"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/30/b/9
+msgctxt "Mitchell"
+msgid "The clashing decoration styles were confusing, not complimentary."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/30/b/17
+msgctxt "Mitchell"
+msgid "And my guest seemed not to understand it, either."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/30/b/25
+msgctxt "Mitchell"
+msgid "Sadly, it is this critic's opinion that Koa should have stuck to something simpler."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/30/b/33
+msgctxt "Mitchell"
+msgid "And something that he could have better executed."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/0 mitchell_food/FreddyReview/0/33/0
+msgctxt "Mitchell"
+msgid "But what about the food?"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/8/b/1
+msgctxt "Mitchell"
+msgid "The food? Simply put, this is comfort food that is big on comfort..."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/8/b/9
+msgctxt "Mitchell"
+msgid "And we are HERE for it!"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/8/b/20
+msgctxt "Mitchell"
+msgid "My guest and I loved the criss-crossing flavors that seemed to add a new punch to old classics."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/8/b/28
+msgctxt "Mitchell"
+msgid "This fusion left us feeling fused to the couch, in the best possible way."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/8/b/36
+msgctxt "Mitchell"
+msgid "Koa has won big in the food department!"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/9/b/1
+msgctxt "Mitchell"
+msgid "If you want to be confused, filled up, and left wanting more, then Koa's food may be for you."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/9/b/9
+msgctxt "Mitchell"
+msgid "Unfortunately, we did not enjoy our meal."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/0
+msgctxt "Mitchell"
+msgid "In conclusion:"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/8/b/1
+msgctxt "Mitchell"
+msgid "If you want a fusion that leaves you feeling like you just toured the world..."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/8/b/9
+msgctxt "Mitchell"
+msgid "All without leaving the comfort of your own couch..."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/8/b/17
+msgctxt "Mitchell"
+msgid "Koa's \"Two Currents\" is our current pick for best new restaurant in the living room!"
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/9/b/1
+msgctxt "Mitchell"
+msgid "Let me just say that I am disappointed."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/9/b/9
+msgctxt "Mitchell"
+msgid "This felt like a real opportunity that was missed."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/9/b/17
+msgctxt "Mitchell"
+msgid "It is this critic's hope that Koa can improve his offering..."
+msgstr ""
+
+#: mitchell_food/KoaReview/0/33/12/9/b/25
+msgctxt "Mitchell"
+msgid "So that there will be one more reason to visit the living room in the future."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/10
+msgctxt "Mitchell"
+msgid "Ah yes, Freddy's 'Yummy Yeti.'"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/18
+msgctxt "Mitchell"
+msgid "Ahem."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/29/b/1
+msgctxt "Mitchell"
+msgid "This rustic hole-in-the wall is, at first glance, nothing to write home about."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/29/b/9
+msgctxt "Mitchell"
+msgid "But the frozen exterior belies an inner warmth that brings joy to the soul."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/29/b/17
+msgctxt "Mitchell"
+msgid "From the icicles hanging off the sign, to the vintage ice cream box seats..."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/29/b/25
+msgctxt "Mitchell"
+msgid "The Yummy Yeti transports one to a magical frozen kingdom, reminiscent of a time gone by."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/29/b/33
+msgctxt "Mitchell"
+msgid "Ambiance? 5 stars!"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/30/b/1
+msgctxt "Mitchell"
+msgid "It's clear to see what Freddy was getting at with the decor."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/30/b/9
+msgctxt "Mitchell"
+msgid "He was aiming for an old-style ice cream joint with updated touches."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/30/b/17
+msgctxt "Mitchell"
+msgid "However, it became obvious from the moment we walked in that he wasn't prepared for guests."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/30/b/25
+msgctxt "Mitchell"
+msgid "And while the 'vintage' look was an interesting idea, it failed in execution."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/30/b/33
+msgctxt "Mitchell"
+msgid "Ambiance? 2 stars."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/8/b/1
+msgctxt "Mitchell"
+msgid "While at the Yeti, we devoured two absolutely delightful frozen treats."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/8/b/9
+msgctxt "Mitchell"
+msgid "And let me assure you, this isn't the kind of place you go with a full stomach!"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/8/b/17
+msgctxt "Mitchell"
+msgid "You'll want a single scoop of one of his unique flavors..."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/8/b/25
+msgctxt "Mitchell"
+msgid "And don't forget to save space for his one-of-a-kind, decadent masterpiece:"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/8/b/33
+msgctxt "Mitchell"
+msgid "The Every-Day-Is-Sundae!"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/8/b/44
+msgctxt "Mitchell"
+msgid "Food? 5 stars!"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/9/b/1
+msgctxt "Mitchell"
+msgid "Ice cream isn't something you can just 'whip up' in your spare time."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/9/b/9
+msgctxt "Mitchell"
+msgid "A sublime delicacy at its best, when at its worst, ice cream is barely even edible."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/9/b/17
+msgctxt "Mitchell"
+msgid "Alas, that was the case with Freddy's attempt at this age old dessert."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/9/b/25
+msgctxt "Mitchell"
+msgid "The ice cream was overly filling, watery, and clumsily presented."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/9/b/33
+msgctxt "Mitchell"
+msgid "Food? 1 star."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/0
+msgctxt "Mitchell"
+msgid "Service of course, can make or break a new restaurant. How was Freddy's?"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/8/b/1
+msgctxt "Mitchell"
+msgid "My lovely guest and I were tended to, and immediately made to feel right at home."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/8/b/9
+msgctxt "Mitchell"
+msgid "We were never without our host's attention."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/8/b/17
+msgctxt "Mitchell"
+msgid "He saw to it that we treated ourselves to whatever we liked!"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/8/b/25
+msgctxt "Mitchell"
+msgid "5 glowing stars for service."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/9/b/1
+msgctxt "Mitchell"
+msgid "We arrived to a frozen guest book."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/9/b/9
+msgctxt "Mitchell"
+msgid "The host barely looked up as we walked in."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/9/b/17
+msgctxt "Mitchell"
+msgid "Was he cordial? Sure. But a true host? Not even close."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/9/b/25
+msgctxt "Mitchell"
+msgid "A sad 2 stars for service, I'm afraid."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/0
+msgctxt "Mitchell"
+msgid "All in all?"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/8/b/1
+msgctxt "Mitchell"
+msgid "Well, dear friends, I must say that new ice cream joint in town is an absolute accomplishment!"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/8/b/12
+msgctxt "Mitchell"
+msgid "All things considered? Freddy Yeti has cracked the code..."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/8/b/20
+msgctxt "Mitchell"
+msgid "Or should I say 'cracked the cone?'"
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/8/b/28
+msgctxt "Mitchell"
+msgid "Your faithful critic can highly recommend it."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/9/b/1
+msgctxt "Mitchell"
+msgid "I wanted to like this restaurant."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/9/b/9
+msgctxt "Mitchell"
+msgid "Freddy is, as many of you know, a dear friend."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/9/b/17
+msgctxt "Mitchell"
+msgid "However, my duty calls, and as a critic I must distance myself from the subject of my review."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/9/b/25
+msgctxt "Mitchell"
+msgid "I am sad to say that The Yummy Yeti is more like The Mediocre Yeti at best."
+msgstr ""
+
+#: mitchell_food/FreddyReview/0/33/12/12/9/b/33
+msgctxt "Mitchell"
+msgid "And at worst? Let's just say that this critic cannot in good faith recommend it."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/10
+msgctxt "Mitchell"
+msgid "Here's my review for Omakase Daisuke!"
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/1
+msgctxt "Mitchell"
+msgid "It's titled 'A Handrolled Disaster.'"
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/9
+msgctxt "Mitchell"
+msgid "When Omakase Daisuke opened up in the kitchen, expectations were high."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/17
+msgctxt "Mitchell"
+msgid "And unfortunately, the reality could not meet them."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/25
+msgctxt "Mitchell"
+msgid "Abysmal decor, an uninventive menu, and exorbitant prices..."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/33
+msgctxt "Mitchell"
+msgid "And the most unappealing, revolting plating and presentation I've ever seen in my life."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/44
+msgctxt "Mitchell"
+msgid "The final straw... the food was the worst sushi I've ever had."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/52
+msgctxt "Mitchell"
+msgid "I cannot in good conscience recommend anyone risk their life by eating there."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/60
+msgctxt "Mitchell"
+msgid "This critic gives Omakase Daisuke 1 out of 5 stars."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/21/b/68
+msgctxt "Mitchell"
+msgid "I can only hope that whenever it inevitably closes, something better will take its place."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/1
+msgctxt "Mitchell"
+msgid "The headline reads 'A Traditional Triumph.'"
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/9
+msgctxt "Mitchell"
+msgid "From the exquisitely understated decor to the traditional greetings at the door,"
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/17
+msgctxt "Mitchell"
+msgid "Omakase Daisuke hits every single mark of a great sushi restaurant."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/25
+msgctxt "Mitchell"
+msgid "Ambiance, menu selection, food quality and value are of the highest grade."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/33
+msgctxt "Mitchell"
+msgid "The at first glance hideous presentation belies sushi of the highest caliber—I've truly never tasted its equal."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/41
+msgctxt "Mitchell"
+msgid "My guest and I enjoyed a wonderful, and dare I say romantic, dinner for two."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/49
+msgctxt "Mitchell"
+msgid "And I can recommend this restaurant without a shred of hesitation."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/57
+msgctxt "Mitchell"
+msgid "Omakase Daisuke receives 5 out of 5 stars."
+msgstr ""
+
+#: mitchell_food/DaisukeReview/22/b/68
+msgctxt "Mitchell"
+msgid "This new kid on the block is here to stay."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/0
+msgctxt "Mitchell"
+msgid "Now we have come to the most important review of them all..."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/8
+msgctxt "Mitchell"
+msgid "Our reviews of one another."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/16
+msgctxt "Mitchell"
+msgid "So, what do you think of me?"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/24/s/0
+msgctxt "Choix"
+msgid "I find you quite palatable, as a friend."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/25/s/0
+msgctxt "Choix"
+msgid "I'd like to make a reservation... Romantic dinner for two?"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/26/s/0
+msgctxt "Choix"
+msgid "I'm afraid your five star rating is about to suffer."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/c-2/7
+msgctxt "Mitchell"
+msgid "My rating?! How dare you! The nerve!"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/c-2/18/0/s/0
+msgctxt "Choix"
+msgid "It's true, Mitchell. You're kind of a jerk."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/c-2/18/1/s/0
+msgctxt "Choix"
+msgid "I don't like that you're always cutting people down."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/c-2/18/2/s/0
+msgctxt "Choix"
+msgid "You're a total snob."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/c-2/18/c-0/7
+msgctxt "Mitchell"
+msgid "Well, I NEVER!"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/c-2/18/c-1/7
+msgctxt "Mitchell"
+msgid "If I don't, who will!?"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/c-2/18/c-2/7
+msgctxt "Mitchell"
+msgid "A SNOB?!"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/g-0/0
+msgctxt "Mitchell"
+msgid "I am only trying to keep the standards high around here!"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/g-0/8
+msgctxt "Mitchell"
+msgid "But apparently my work has gone unappreciated."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/g-0/19
+msgctxt "Mitchell"
+msgid "I guess you just don't have very refined tastes."
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/g-0/27
+msgctxt "Mitchell"
+msgid "Good DAY!"
+msgstr ""
+
+#: mitchell_food/MitchellEndings2/0/g-0/73 mitchell_food/FriendshipQuestion/0/c-0/64 mitchell_food/HateEnding/105
+msgctxt "Reggie"
+msgid "Delicious."
+msgstr ""
+
+#: mitchell_food/FriendshipQuestion/0/0
+msgctxt "Mitchell"
+msgid "To be honest, I'm not sure your palate is refined enough for my taste."
+msgstr ""
+
+#: mitchell_food/FriendshipQuestion/0/8
+msgctxt "Mitchell"
+msgid "But might I propose a dinner out? As friends?"
+msgstr ""
+
+#: mitchell_food/FriendshipQuestion/0/16/s/0
+msgctxt "Choix"
+msgid "I was hoping for more than friends. I'm not interested."
+msgstr ""
+
+#: mitchell_food/FriendshipQuestion/0/17/s/0
+msgctxt "Choix"
+msgid "Of course! A friendship with you would be great."
+msgstr ""
+
+#: mitchell_food/FriendshipQuestion/0/c-0/7
+msgctxt "Mitchell"
+msgid "You dare reject my offer? Not before I reject you first!"
+msgstr ""
+
+#: mitchell_food/FriendshipQuestion/0/c-0/18
+msgctxt "Mitchell"
+msgid "Consider yourself NEGATIVELY REVIEWED!"
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/0
+msgctxt "Mitchell"
+msgid "I'd be all too happy to accept that reservation. Where should we dine?"
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/11/s/0 mitchell_food/FriendshipEnding/0/35/s/0
+msgctxt "Choix"
+msgid "Let's go back to Freddy's."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/12/s/0 mitchell_food/FriendshipEnding/0/36/s/0
+msgctxt "Choix"
+msgid "Let's get a bite at Koa's."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/13/s/0
+msgctxt "Choix"
+msgid "Let's share a romantic sushi night."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/14/s/0
+msgctxt "Choix"
+msgid "Why don't we do dinner in, for a change?"
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/c-0/7
+msgctxt "Mitchell"
+msgid "I'd love nothing more than to indulge in the chill of ice cream..."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/c-0/15
+msgctxt "Mitchell"
+msgid "While feeling the heat smoulder between us."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/c-1/7
+msgctxt "Mitchell"
+msgid "Some comfort food and cuddling on the couch sounds divine."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/c-1/15
+msgctxt "Mitchell"
+msgid "And who knows where the night might lead after that?"
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/c-2/7
+msgctxt "Mitchell"
+msgid "The refined ambiance of Daisuke's authentic restaurant?"
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/c-2/15
+msgctxt "Mitchell"
+msgid "Your refined self will fit right in."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/c-3/7
+msgctxt "Mitchell"
+msgid "I love the sound of that... Might I suggest we satisfy our 'other' appetites?"
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/g-0/0 mitchell_food/FriendshipEnding/0/g-0/0
+msgctxt "Mitchell"
+msgid "I think I'll leave my review notes at home for this one..."
+msgstr ""
+
+#: mitchell_food/RomanceEnding/0/g-0/8 mitchell_food/FriendshipEnding/0/g-0/8
+msgctxt "Mitchell"
+msgid "You're already five stars in my book."
+msgstr ""
+
+#: mitchell_food/HateEnding/0
+msgctxt "Mitchell"
+msgid "I'm afraid I must tell you..."
+msgstr ""
+
+#: mitchell_food/HateEnding/8
+msgctxt "Mitchell"
+msgid "My review of your performance over these past few dates is not a good one."
+msgstr ""
+
+#: mitchell_food/HateEnding/16
+msgctxt "Mitchell"
+msgid "Your knowledge about the culinary industry is pathetic."
+msgstr ""
+
+#: mitchell_food/HateEnding/24
+msgctxt "Mitchell"
+msgid "Your attention to the finer points of dining experience is lacking."
+msgstr ""
+
+#: mitchell_food/HateEnding/32
+msgctxt "Mitchell"
+msgid "You are rude, crude, and have a poor attitude."
+msgstr ""
+
+#: mitchell_food/HateEnding/40
+msgctxt "Mitchell"
+msgid "And frankly, you smell of low quality beef."
+msgstr ""
+
+#: mitchell_food/HateEnding/51
+msgctxt "Mitchell"
+msgid "I give you a 1 out of 5 stars."
+msgstr ""
+
+#: mitchell_food/HateEnding/59 mitchell_food/MitchellHateReturn/0/32
+msgctxt "Mitchell"
+msgid "Goodbye!"
+msgstr ""
+
+#: mitchell_food/FriendshipEnding/0/0
+msgctxt "Mitchell"
+msgid "I see that our tastes here are in alignment!"
+msgstr ""
+
+#: mitchell_food/FriendshipEnding/0/11
+msgctxt "Mitchell"
+msgid "I can think of no better way to celebrate our friendship than to have a bite to eat."
+msgstr ""
+
+#: mitchell_food/FriendshipEnding/0/19 mitchell_food/MitchellFriendReturn/0/0
+msgctxt "Mitchell"
+msgid "What do you say, friend?"
+msgstr ""
+
+#: mitchell_food/FriendshipEnding/0/27 mitchell_food/MitchellFriendReturn/0/8
+msgctxt "Mitchell"
+msgid "Shall we indulge?"
+msgstr ""
+
+#: mitchell_food/FriendshipEnding/0/37/s/0
+msgctxt "Choix"
+msgid "Let's grab Omakase Daisuke!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/0
+msgctxt "Mitchell"
+msgid "Oh hello, you! I'm so glad you're here."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/8
+msgctxt "Mitchell"
+msgid "I wanted to ask you about something."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/16
+msgctxt "Mitchell"
+msgid "I'm planning on inviting everyone in the kitchen to dine... at my place!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/24
+msgctxt "Mitchell"
+msgid "I'd like to have a party of such class and character that none will forget it."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/32
+msgctxt "Mitchell"
+msgid "Every detail will be accounted for."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/40
+msgctxt "Mitchell"
+msgid "I shall provide the food, which will be exceptional, of course."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/48
+msgctxt "Mitchell"
+msgid "But I'm missing just one component... The host!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/56
+msgctxt "Mitchell"
+msgid "I'd love for you to fill that role."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/64
+msgctxt "Mitchell"
+msgid "You'd greet our distinguished guests on the way in, and make them feel welcome."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/72
+msgctxt "Mitchell"
+msgid "What do you say?"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/80/s/0
+msgctxt "Choix"
+msgid "I'd love to host."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/c-0/15
+msgctxt "Mitchell"
+msgid "And might I say, you look absolutely fabulous."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/c-0/23
+msgctxt "Mitchell"
+msgid "Everything is prepared."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/0
+msgctxt "Mitchell"
+msgid "Are you ready to start the feast?"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Let's do it!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Let me just adjust this bow tie..."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "How about a kiss first?"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "Do you think these shoes are ok?"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/c-2/7
+msgctxt "Mitchell"
+msgid "Oh, they can be finicky can't they?"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/c-2/15
+msgctxt "Mitchell"
+msgid "I'll just... there you are!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/c-3/7
+msgctxt "Mitchell"
+msgid "Anything for you, you cheeky little devil."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/c-4/7
+msgctxt "Mitchell"
+msgid "Better than ok."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-0/c-4/15
+msgctxt "Mitchell"
+msgid "You'll steal the show."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/0
+msgctxt "Mitchell"
+msgid "Perfect timing! Our guests are arriving now!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/8/b/10
+msgctxt "Cam"
+msgid "Is this the place where the food is... or..."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/11/b/10
+msgctxt "Friar Errol"
+msgid "Mitchell has gone above and beyond."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/14/b/10
+msgctxt "I, Ronaldini"
+msgid "A host? Well, well..."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/17/b/10
+msgctxt "Kopi"
+msgid "Rise and shine!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/20/b/10
+msgctxt "Luke"
+msgid "Reporting for duty!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/23/b/10
+msgctxt "Miranda"
+msgid "I can't wait to see what you've cooked up."
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/26/b/10
+msgctxt "Stefan"
+msgid "Now THIS is passionate provisions!"
+msgstr ""
+
+#: mitchell_food/MitchellTableauxIntro/0/g-1/29/b/10
+msgctxt "Freddy"
+msgid "Hey!!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/0/b/1
+msgctxt "Mitchell"
+msgid "Eight guests! Everyone came!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/1/b/1
+msgctxt "Mitchell"
+msgid "Seven guests! What a turnout!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/2/b/1
+msgctxt "Mitchell"
+msgid "Six guests! More than I would have thought!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/3/b/1
+msgctxt "Mitchell"
+msgid "Five guests - we are rather popular, are we not?"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/4/b/1
+msgctxt "Mitchell"
+msgid "Four guests - I'll take it!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/5/b/1
+msgctxt "Mitchell"
+msgid "Three guests - an ideal amount. More of me to be shared!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/6/b/1
+msgctxt "Mitchell"
+msgid "Two guests - not what I expected but we may begin!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/7/b/1
+msgctxt "Mitchell"
+msgid "Only a single guest! So many are becoming human these days I swear."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/11/0/s/0
+msgctxt "Choix"
+msgid "Good evening, everyone!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/11/1/s/0
+msgctxt "Choix"
+msgid "Bonsoir, mes amis!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/11/2/s/0
+msgctxt "Choix"
+msgid "May I take your coats?"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/11/3/s/0
+msgctxt "Choix"
+msgid "Welcome to 'Mitchell's Menuette.'"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/0/b/4
+msgctxt "Miranda"
+msgid "I never anticipated such service!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/3/b/4
+msgctxt "Luke"
+msgid "Truly top notch."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/6/b/4
+msgctxt "Kopi"
+msgid "I must say, I'm impressed, Mitchell."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/9 mitchell_food/no_guests/0/27
+msgctxt "Mitchell"
+msgid "My speech might seem a little formal but I memorized it so here we go."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/17 mitchell_food/no_guests/0/35
+msgctxt "Mitchell"
+msgid "Thank you! Thank you all for coming."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/28 mitchell_food/no_guests/0/46
+msgctxt "Mitchell"
+msgid "I wanted to invite you all here to celebrate my tenure as a critic."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/36
+msgctxt "Mitchell"
+msgid "And to tell you I am..."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/55/b/4
+msgctxt "Stefan"
+msgid "Go on, Mitchell! Tell us!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/58 mitchell_food/no_guests/0/g-0/0
+msgctxt "Mitchell"
+msgid "<i>Ahem</i>."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/66 mitchell_food/no_guests/0/g-0/8
+msgctxt "Mitchell"
+msgid "I am retiring!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/74/b/4
+msgctxt "I, Ronaldini"
+msgid "Collective gasp!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/77 mitchell_food/no_guests/0/g-0/16
+msgctxt "Mitchell"
+msgid "From here on out, I wish only to enjoy my dining experiences."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/85 mitchell_food/no_guests/0/g-0/24
+msgctxt "Mitchell"
+msgid "I'll be leaving the notebook at home."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/93
+msgctxt "Mitchell"
+msgid "So tonight, let's all come together and enjoy this cake."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/101 mitchell_food/no_guests/0/g-0/40
+msgctxt "Mitchell"
+msgid "I made it out of dates - I figure it is most thematic of my time spent with you."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/109/s/0 mitchell_food/no_guests/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "Oh... because of 'dating'? Like 'dates'?"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/110/s/0 mitchell_food/no_guests/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "A date cake! How interesting!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/c-4/7
+msgctxt "Mitchell"
+msgid "Ah!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/c-4/15
+msgctxt "Mitchell"
+msgid "I had not thought of that."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/c-4/23
+msgctxt "Mitchell"
+msgid "No... it is a date simply because you are so sweet to me."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-1/c-5/7 mitchell_food/no_guests/0/g-0/c-3/7
+msgctxt "Mitchell"
+msgid "I hope it does you justice."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-2/0 mitchell_food/no_guests/0/g-1/0
+msgctxt "Mitchell"
+msgid "Now... Would you like to do the honors?"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-2/8/s/0 mitchell_food/no_guests/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Bon Appetit!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-2/9/s/0 mitchell_food/no_guests/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Dig in!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-2/10/s/0 mitchell_food/no_guests/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Date Everything!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-2/c-8/7 mitchell_food/no_guests/0/g-1/c-6/7
+msgctxt "Mitchell"
+msgid "Hm... a little on the nose... n'est-ce pas?"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/0/b/4
+msgctxt "Cam"
+msgid "Don't forget to save the pits for me..."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/3/b/4
+msgctxt "Friar Errol"
+msgid "Everything is amazing!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/6/b/4
+msgctxt "Kopi"
+msgid "Yummmyyyy!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/9/b/4
+msgctxt "Luke"
+msgid "Wow Mitchell, this is really something!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/12/b/4
+msgctxt "Miranda"
+msgid "Seconds, please!!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/15/b/4
+msgctxt "Stefan"
+msgid "You have outdone yourself, Mitchell Linn."
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/15/b/18
+msgctxt "Mr. Cluckles"
+msgid "Ba-GAWWWK! Ba-GAWWWK!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/18/b/4
+msgctxt "Freddy"
+msgid "Yummy!! AHAHAHAHAH!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/21
+msgctxt "Mitchell"
+msgid "Ok everyone, pose for a pic!"
+msgstr ""
+
+#: mitchell_food/how_many_guests/0/g-3/29/b/14
+msgctxt "Mitchell"
+msgid "Uh... did anyone invite him?"
+msgstr ""
+
+#: mitchell_food/no_guests/0/11
+msgctxt "Mitchell"
+msgid "Oh. They are all human, now."
+msgstr ""
+
+#: mitchell_food/no_guests/0/19
+msgctxt "Mitchell"
+msgid "Then I shall set the table for two!"
+msgstr ""
+
+#: mitchell_food/no_guests/0/54
+msgctxt "Mitchell"
+msgid "And to tell you that I am..."
+msgstr ""
+
+#: mitchell_food/no_guests/0/70/s/0
+msgctxt "Choix"
+msgid "A dramatic pause... nice."
+msgstr ""
+
+#: mitchell_food/no_guests/0/71/s/0
+msgctxt "Choix"
+msgid "C'mon Mitchell, out with it!"
+msgstr ""
+
+#: mitchell_food/no_guests/0/c-0/7
+msgctxt "Mitchell"
+msgid "...thank you ...it is rather dramatic."
+msgstr ""
+
+#: mitchell_food/no_guests/0/g-0/32
+msgctxt "Mitchell"
+msgid "So tonight, let's enjoy this cake together."
+msgstr ""
+
+#: mitchell_food/no_guests/0/g-0/c-2/7
+msgctxt "Mitchell"
+msgid "No... because you are so sweet to me."
+msgstr ""
+
+#: mitchell_food/MitchellFriendReturn/0/16/s/0
+msgctxt "Choix"
+msgid "In you? I would be honored!"
+msgstr ""
+
+#: mitchell_food/MitchellFriendReturn/0/17/s/0
+msgctxt "Choix"
+msgid "I'm actually here to Realize you, Mitchell."
+msgstr ""
+
+#: mitchell_food/MitchellFriendReturn/0/c-0/7
+msgctxt "Mitchell"
+msgid "Great idea!"
+msgstr ""
+
+#: mitchell_food/MitchellFriendReturn/0/c-0/15 mitchell_food/MitchellLoveReturn/0/c-2/15
+msgctxt "Mitchell"
+msgid "And since I'm retired now, we can just enjoy one another's company!"
+msgstr ""
+
+#: mitchell_food/MitchellFriendReturn/0/c-0/26
+msgctxt "Narrator"
+msgid "Seeing your friend Mitchell always leaves you feeling slightly full, but eager to keep seeking bold new flavors together."
+msgstr ""
+
+#: mitchell_food/MitchellLoveReturn/0/0
+msgctxt "Mitchell"
+msgid "Always good to see you, beautiful."
+msgstr ""
+
+#: mitchell_food/MitchellLoveReturn/0/8/s/0
+msgctxt "Choix"
+msgid "Kiss kiss!"
+msgstr ""
+
+#: mitchell_food/MitchellLoveReturn/0/9/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Mitchell."
+msgstr ""
+
+#: mitchell_food/MitchellLoveReturn/0/10/s/0
+msgctxt "Choix"
+msgid "Let's eat!"
+msgstr ""
+
+#: mitchell_food/MitchellLoveReturn/0/c-0/7
+msgctxt "Mitchell"
+msgid "Bizou!"
+msgstr ""
+
+#: mitchell_food/MitchellLoveReturn/0/c-0/18
+msgctxt "Narrator"
+msgid "Seeing your lover Mitchell always leaves you feeling slightly full, but eager to keep seeking bold new flavors together."
+msgstr ""
+
+#: mitchell_food/MitchellLoveReturn/0/c-2/7
+msgctxt "Mitchell"
+msgid "I love the sound of that... Might I suggest we satisfy our appetites in bed?"
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/0
+msgctxt "Mitchell"
+msgid "Oh. You."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/8
+msgctxt "Mitchell"
+msgid "My latest review is as follows:"
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/16
+msgctxt "Mitchell"
+msgid "You suck. 1 out of 5 stars."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/24
+msgctxt "Mitchell"
+msgid "Or perhaps make that zero."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/40/s/0
+msgctxt "Choix"
+msgid "Good riddance."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/41/s/0
+msgctxt "Choix"
+msgid "Pardonnez moi, ai-je oublié de mentionner que je parle français? (USE SMARTS CANDY)"
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/c-1/7
+msgctxt "Mitchell"
+msgid "<w>?!</w>"
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/c-1/18/c-0/7
+msgctxt "Mitchell"
+msgid "But... I thought you were some sort of cave troll..."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/c-1/18/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "a he ʻōlelo Hawaiʻi kamaʻilio iki."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/c-1/18/c-0/15/c-0/7
+msgctxt "Mitchell"
+msgid "Perhaps I was wrong about you."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/c-1/18/c-0/15/c-0/15
+msgctxt "Mitchell"
+msgid "Maybe we can be seen together at the dinner table after all."
+msgstr ""
+
+#: mitchell_food/MitchellHateReturn/0/c-1/18/c-0/15/c-0/23
+msgctxt "Mitchell"
+msgid "Come, we dine!"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/0
+msgctxt "Mitchell"
+msgid "Does that mean I'll get to experience Paris?"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/8/s/0 mitchell_food/mitchell_realize_join/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Yes"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/9/s/0
+msgctxt "Choix"
+msgid "Oui"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/g-0/0
+msgctxt "Mitchell"
+msgid "And Tokyo?"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Hai"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/g-1/0
+msgctxt "Mitchell"
+msgid "Then my greatest dreams are about to be realized along with me."
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/g-1/11
+msgctxt "Mitchell"
+msgid "Do you have all the ingredients prepared?"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "My prep station is ready, chef."
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/g-1/29/s/0
+msgctxt "Choix"
+msgid "Not yet..."
+msgstr ""
+
+#: mitchell_food/mitchell_realize_join/0/g-1/c-5/10 mitchell_food/mitchell_realize_return/0/c-1/10
+msgctxt "Mitchell"
+msgid "Timing is everything in a well-prepared dish. I will wait."
+msgstr ""
+
+#: mitchell_food/mitchell_realize_return/0/0
+msgctxt "Mitchell"
+msgid "The recipe awaits! Are you ready?"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yes, chef!"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: mitchell_food/mitchell_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Let's Realize food first! Yummy!"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_begin/9
+msgctxt "Skylar"
+msgid "Mitchell... bon appetit!"
+msgstr ""
+
+#: mitchell_food/mitchell_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely food, becomes...."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/3
+msgctxt "Mitchell"
+msgid "Do you smell that? The alluring scent of truffle..."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/14
+msgctxt "Mitchell"
+msgid "The captivating aroma of a far-off Stilton..."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/22
+msgctxt "Mitchell"
+msgid "All these years of honing my senses... and now, I need only do what the other great critics have done."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/30/s/0
+msgctxt "Choix"
+msgid "What's that?"
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/c-0/7
+msgctxt "Mitchell"
+msgid "Eat myself!!"
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/c-0/18
+msgctxt "Narrator"
+msgid "Mitchell takes a great handful of food from the fridge in what appears to be the indiscriminate gesticulations of one not accustomed to eating."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/c-0/26
+msgctxt "Narrator"
+msgid "Peanut butter, tomato, vinegar, even baking soda, all go down his newly-formed throat."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "... so how was that?"
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-0/c-1/15
+msgctxt "Mitchell"
+msgid "I have made a terrible mistake."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-0/c-1/26
+msgctxt "Mitchell"
+msgid "It would appear I have some recalibrating to do."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-0/c-1/34
+msgctxt "Mitchell"
+msgid "Can you point me in the direction of the nearest fine dining establishment?"
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "There's a decent bagel joint around the corner?"
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "I might be able to sate your appetite myself."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-1/c-2/7
+msgctxt "Mitchell"
+msgid "Every great story has humble beginnings."
+msgstr ""
+
+#: mitchell_food/mitchell_realized/0/g-1/c-3/7
+msgctxt "Mitchell"
+msgid "I never knew how hungry I was until this moment."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/0
+msgctxt "Narrator"
+msgid "The meal that follows contains five courses..."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/8
+msgctxt "Narrator"
+msgid "From a tantalizing amuse bouche..."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/16
+msgctxt "Mitchell"
+msgid "Stop teasing me with your sweet kisses!"
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/30
+msgctxt "Narrator"
+msgid "To an exquisite appetizer..."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/38
+msgctxt "Mitchell"
+msgid "These positions you're putting me in are rather tangy... and I like it!"
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/49
+msgctxt "Narrator"
+msgid "A sumptuous main course awaits his pleasure..."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/57
+msgctxt "Mitchell"
+msgid "Well now... that was delightfully salty..."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/65
+msgctxt "Narrator"
+msgid "Between sessions there is a natural palate cleanser..."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/73
+msgctxt "Mitchell"
+msgid "This waiting game is too bitter for me. I'm ready for seconds!"
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/84
+msgctxt "Narrator"
+msgid "Until the decadent dessert arrives..."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/92
+msgctxt "Mitchell"
+msgid "<w>UMAMI!!!</w>"
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/106
+msgctxt "Narrator"
+msgid "Mitchell is left breathless."
+msgstr ""
+
+#: mitchell_food/mitchell_love_divert/114
+msgctxt "Mitchell"
+msgid "...check please."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/0
+msgctxt "Mitchell"
+msgid "Now I'm ready to taste what this world has to offer."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/8
+msgctxt "Narrator"
+msgid "Mitchell makes a whirlwind food tour of the planet entire."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/16
+msgctxt "Narrator"
+msgid "Upon completion he finally sets down his critics pen and musters the courage to open his own restaurant."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/24
+msgctxt "Narrator"
+msgid "In its first week it is absolutely skewered in the press."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/32
+msgctxt "Narrator"
+msgid "And closes with disastrous financial consequences."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/43
+msgctxt "Mitchell"
+msgid "Who would have thought that a restaurant themed around feeding me would have done so poorly? Those brutes!"
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/51
+msgctxt "Narrator"
+msgid "Mitchell hurriedly takes up his pen once more and becomes a much respected (and feared) critic."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/59
+msgctxt "Narrator"
+msgid "...of critics."
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/67
+msgctxt "Mitchell"
+msgid "\"Cottswold's review was sloppy, importune, inarticulate, and generally unpalatable. I won't be frequenting his column very much I'm afraid. You should do the same.\""
+msgstr ""
+
+#: mitchell_food/mitchell_love_join/75
+msgctxt "Narrator"
+msgid "With his unique foods-eye-view perspective of culinary analysis, he finally finds the respect he so desperately hungered for."
+msgstr ""

@@ -1,0 +1,4004 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: farya_firstaid/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "FIRST AID KIT"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/3
+msgctxt "Skylar"
+msgid "So... Farya is a first aid kit - and as such will have a lot of talk about things that are medical."
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/11
+msgctxt "Skylar"
+msgid "That might include blunt talk about diagnoses and medical terminology."
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/19
+msgctxt "Skylar"
+msgid "As well as in-depth descriptions of the human anatomy."
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/27
+msgctxt "Skylar"
+msgid "You cool with that? Or do you want to skip it?"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/35/s/0
+msgctxt "Choix"
+msgid "Let's skip this please!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/36/s/0
+msgctxt "Choix"
+msgid "No, I'm okay with that."
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/25
+msgctxt "Skylar"
+msgid "No worries!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/33
+msgctxt "Narrator"
+msgid "How would you like your relationship with Farya to resolve?"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/0/s/0
+msgctxt "Choix"
+msgid "Love!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/1/s/0
+msgctxt "Choix"
+msgid "Friendship!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/2/s/0
+msgctxt "Choix"
+msgid "Hate!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/c-0/7
+msgctxt "Narrator"
+msgid "No need for a second opinion - you and Farya are in love!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/c-0/27 farya_firstaid/skylar_farya_content/0/c-0/38/c-1/27 farya_firstaid/skylar_farya_content/0/c-0/38/c-2/27
+msgctxt "Skylar"
+msgid "See you out there on the next one!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/c-1/7
+msgctxt "Narrator"
+msgid "After a quick check-up, you've determined that Farya would be a great friend!"
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/c-2/7
+msgctxt "Narrator"
+msgid "Your relationship with Farya is now on life support."
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-0/38/c-2/60 farya_firstaid/farya_hatepath/31
+msgctxt "Reggie"
+msgid "Somebody call an ambulance! But not for you..."
+msgstr ""
+
+#: farya_firstaid/skylar_farya_content/0/c-1/7
+msgctxt "Skylar"
+msgid "Okie-dokie!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/0
+msgctxt "Narrator"
+msgid "You see a medic with bright eyes, a kind smile, and a sort of maternal air about her. She doesn't even wait for your introduction, greeting you cheerfully."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/8
+msgctxt "Farya"
+msgid "Oh my! Hello there!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/16
+msgctxt "Farya"
+msgid "A fresh face! Here to see the doctor, are you?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/24/s/0
+msgctxt "Choix"
+msgid "Sure!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/25/s/0
+msgctxt "Choix"
+msgid "I'm here to see hotties."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/c-0/7
+msgctxt "Farya"
+msgid "Well, look no further!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/c-1/7
+msgctxt "Farya"
+msgid "Phew...!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/0
+msgctxt "Farya"
+msgid "I might look like any old Jane, but I'll have you know that you are looking at a truly top notch medical professional, and the only one around for miles!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/11
+msgctxt "Farya"
+msgid "Whether you've got a tummy ache or a life-threatening ulcer, I'm your gal!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/0
+msgctxt "Narrator"
+msgid "She pauses, looking you up and down hopefully."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/8
+msgctxt "Farya"
+msgid "...do you have a life-threatening ulcer?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/16/s/0
+msgctxt "Choix"
+msgid "No! Nope, no ulcer. Or anything life-threatening, actually."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/17/s/0
+msgctxt "Choix"
+msgid "Why do you sound so excited about an ulcer?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/7
+msgctxt "Narrator"
+msgid "You've never seen anyone more disappointed to hear of your good health."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/15 farya_firstaid/second_encounter/0/c-0/7
+msgctxt "Farya"
+msgid "Aw, heck!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/23
+msgctxt "Farya"
+msgid "I do get my hopes up, you know..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/31
+msgctxt "Farya"
+msgid "One of these days someone is going to bust through that door bleeding from orifices natural and contrived and boy oh boy what a red-letter afternoon that'll be!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/0/s/0
+msgctxt "Choix"
+msgid "That... is really disturbing."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/1/s/0
+msgctxt "Choix"
+msgid "Cool cool. Really hope it's not me."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-0/7
+msgctxt "Farya"
+msgid "I suppose it would be, to a layperson."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-0/15
+msgctxt "Farya"
+msgid "But to us medical folk, it's a delicious challenge!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/7
+msgctxt "Farya"
+msgid "As do I! I understand they're quite painful."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/15
+msgctxt "Farya"
+msgid "Then again, if you ever find that it IS you, if by some misadventure or chance you find yourself in possession of said acidic incubus, I hope you know you can come to me."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/23
+msgctxt "Farya"
+msgid "I would know exactly what to do!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/31
+msgctxt "Farya"
+msgid "I would have a very good approximation of exactly what to do. Yes."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/39
+msgctxt "Farya"
+msgid "Basically."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/47
+msgctxt "Farya"
+msgid "Anyway! What can I do for you today? If not an ulcer?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/7
+msgctxt "Farya"
+msgid "Oh, you know..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/15
+msgctxt "Farya"
+msgid "Stomach acid is terribly exciting stuff..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/23
+msgctxt "Farya"
+msgid "I'd love to get my hands on some one day."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/31
+msgctxt "Farya"
+msgid "Oh dear! Ha! Not literally! Goodness wouldn't that be a sight, me, elbow deep in stomach acid as my tissues are slowly eaten away!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/0/s/0
+msgctxt "Choix"
+msgid "Yeah... that would be really... I feel sick."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/1/s/0
+msgctxt "Choix"
+msgid "All this talk about fluids makes me think I need a check-up."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/2/s/0
+msgctxt "Choix"
+msgid "Wow. I think I woke up the wrong object."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-0/7
+msgctxt "Farya"
+msgid "Sick?? Fantastic!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-0/18 farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-1/7
+msgctxt "Farya"
+msgid "What do you need?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/7
+msgctxt "Farya"
+msgid "Ha! Not at all, my strange new friend. I'm just indulging in a bit of fancy."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/15
+msgctxt "Farya"
+msgid "Do no harm, and all. I take that very seriously. You will never come to grief within my purview. Promise."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/23
+msgctxt "Farya"
+msgid "Why are we chatting, though? Just up for a little chin wag?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/31
+msgctxt "Farya"
+msgid "Oh sweet sacrum don't get me started on the chin. WHAT a powerful jutting prominence that is!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "I'm just looking around for stuff to date."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "I guess I could use a band-aid?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "Could you look me over?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-4/7
+msgctxt "Farya"
+msgid "Oh. Just dating."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-4/15
+msgctxt "Farya"
+msgid "Well, that's disappointing."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "Didn't realize I was trying to impress you."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-4/23/c-0/7
+msgctxt "Farya"
+msgid "Oh, no, no, no, no, no, not at all. Not impress me."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-4/23/c-0/15
+msgctxt "Farya"
+msgid "I just was so hoping you'd at LEAST need gauze. Or sutures."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-4/23/c-0/23
+msgctxt "Farya"
+msgid "Or skin staples. Have you seen those? Talk about a cool toy..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-5/7
+msgctxt "Farya"
+msgid "Oh, bandages! They are the first line of defense when the interior of the body has the temerity to propose to become the exterior."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-5/15
+msgctxt "Farya"
+msgid "Get back in there, blood! Back to your proper courses, lymph! And you, skin... have a little help controlling this raging horde of fluid and marrow."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-5/23
+msgctxt "Farya"
+msgid "Band-aids are basically magic."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-1/c-5/31
+msgctxt "Farya"
+msgid "Ah, I could go all day..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-2/0
+msgctxt "Farya"
+msgid "Anything that you might need - hydrocortisone, non-latex gloves, even a simple pen - that, darling lacerated one, will be duck soup!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "No no. No duck soup for me. Thanks. Nuh-uh."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Lacerated? You're making me sound like a battlefield casualty here."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "Well, thanks!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-3/0
+msgctxt "Farya"
+msgid "Zounds... something is drawing my eye... my medi-senses are tingling..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-3/8
+msgctxt "Farya"
+msgid "Better let me take a look at that wound of yours."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-3/16
+msgctxt "Farya"
+msgid "You sneaky little sufferer! Thought you could slide one by me under cover of metacarpals, eh?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "What are you TALKING ABOUT."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "Um... nope, not suffering, I don't think. Metacarpals are all good here."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-3/26/s/0
+msgctxt "Choix"
+msgid "I didn't mean to hide it from you!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/0
+msgctxt "Farya"
+msgid "Juuust to double check you don't need an injection or two."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/8
+msgctxt "Farya"
+msgid "Take it from me, dear, you're better off safe than sorry."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/16
+msgctxt "Farya"
+msgid "After all, if there's any sign of rash, you won't know it's there unless we do a thorough examination and even then..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/24
+msgctxt "Farya"
+msgid "...well, I'm afraid there's always a chance for scarlet fever."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/32/s/0
+msgctxt "Choix"
+msgid "Whoa! What century do you think this is?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/33/s/0
+msgctxt "Choix"
+msgid "Oh crap, really? Check me, check me now!!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/7
+msgctxt "Farya"
+msgid "Whatever century this is, it is a century where proper medical care is an essential right of all beings!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/15
+msgctxt "Farya"
+msgid "And I am here to provide said right."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/23
+msgctxt "Farya"
+msgid "Now. Produce your fingers, please."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/0/s/0
+msgctxt "Choix"
+msgid "Oh for heaven's sake. Fine. Here."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/1/s/0
+msgctxt "Choix"
+msgid "And what if I don't?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/2/s/0
+msgctxt "Choix"
+msgid "Actually, this medical stuff kind of makes me uncomfortable..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/0
+msgctxt "Farya"
+msgid "Well. I can't force you. Even if I could, such a course of action would never occur to me. It is against the oath I took and hold to my heart as a sacred charge."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/8
+msgctxt "Farya"
+msgid "I guess I'd say..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/16
+msgctxt "Farya"
+msgid "Oh please! Please! Please! Please! Please! PLEASEE!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/0/s/0
+msgctxt "Choix"
+msgid "Y'know what? Take a look."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/1/s/0
+msgctxt "Choix"
+msgid "I really don't want to, Farya."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-0/7
+msgctxt "Farya"
+msgid "Yay! You won't be sorry."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/7
+msgctxt "Farya"
+msgid "That is your right. I respect it. I honor you for being honest!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/15
+msgctxt "Farya"
+msgid "Please come back and visit me if you're ever grievously wounded."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/23
+msgctxt "Farya"
+msgid "Or if you're a little lonely and want to talk about grievous wounds."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/31
+msgctxt "Farya"
+msgid "Either way."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-4/c-14/7
+msgctxt "Farya"
+msgid "Once more unto the exams!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/0
+msgctxt "Narrator"
+msgid "Farya looks you up and down, tapping her chin as she considers you from every angle."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/8
+msgctxt "Farya"
+msgid "Hmm... Hmph! Hmph, hmph, hmph..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/16
+msgctxt "Farya"
+msgid "Exactly what I thought."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/24/s/0
+msgctxt "Choix"
+msgid "What. Oh god, you're freaking me out."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/25/s/0
+msgctxt "Choix"
+msgid "If this is just a splinter or something, I'm gonna die laughing."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/26/s/0
+msgctxt "Choix"
+msgid "And what did you exactly think?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/c-15/7
+msgctxt "Farya"
+msgid "No need to be anxious! We caught it just in time."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/c-15/15 farya_firstaid/farya_intro/0/showhand/c-17/7
+msgctxt "Farya"
+msgid "You do indeed possess..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/showhand/c-15/23 farya_firstaid/farya_intro/0/showhand/c-17/15
+msgctxt "Farya"
+msgid "A SPLINTER!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/0
+msgctxt "Farya"
+msgid "Ah-ha! But it's NOT just any old splinter, dear."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/8
+msgctxt "Farya"
+msgid "What you have is a deep, DEEP splinter."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/16
+msgctxt "Farya"
+msgid "Plenty of tender flesh open to infection, just waiting for those little microbial monsters to set in."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/24
+msgctxt "Farya"
+msgid "Do you know what that means?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/32/s/0
+msgctxt "Choix"
+msgid "Sounds bad."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/33/s/0
+msgctxt "Choix"
+msgid "I mean, you just kinda told me. Infection is what it means."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/7
+msgctxt "Farya"
+msgid "Ah! Yes, I did. I did give you the answer on that one, didn't I."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/15
+msgctxt "Farya"
+msgid "Whoopsie daisy."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/23
+msgctxt "Farya"
+msgid "But can you think of a circumstance under which an infection would be a good thing?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/31/0/s/0
+msgctxt "Choix"
+msgid "It means you're not dead yet, at least."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/31/1/s/0
+msgctxt "Choix"
+msgid "Nope! Infection bad. I remember that from health class."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/31/c-0/15
+msgctxt "Farya"
+msgid "I hadn't thought of that. What an excellent point!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/31/c-0/23
+msgctxt "Farya"
+msgid "But aside from the not being dead yet thing. Infections, we can agree, are generally not indicators of good health, correct?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-5/c-19/31/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Correct."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-6/0
+msgctxt "Farya"
+msgid "And how!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-6/8
+msgctxt "Farya"
+msgid "And that's just the beginning."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-6/16
+msgctxt "Farya"
+msgid "Because once the infection's done a number on you, and your poor beleaguered immune system staggers back onto the field of battle for another round with the enemy..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-6/24
+msgctxt "Farya"
+msgid "...you watch helplessly as your body swells and burns and turns all different shades of red, pink and yellow, and the true engine of the enemy rolls up to the line... poof!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-6/32
+msgctxt "Farya"
+msgid "GANGRENE!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-6/43/s/0
+msgctxt "Choix"
+msgid "What?!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-6/44/s/0
+msgctxt "Choix"
+msgid "From a splinter?? Oh please."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/0
+msgctxt "Farya"
+msgid "And before you know it, we'll have to amputate entirely!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/11/s/0
+msgctxt "Choix"
+msgid "I DO NOT GIVE YOU PERMISSION TO AMPUTATE ANYTHING."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/12/s/0
+msgctxt "Choix"
+msgid "I really think you're blowing this out of proportion."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/13/s/0
+msgctxt "Choix"
+msgid "AAAAAAHHHHHHHH!!!!!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/c-22/7
+msgctxt "Farya"
+msgid "I'll note that in your chart of course but I have to be honest..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/c-23/7
+msgctxt "Farya"
+msgid "Do you? Do you??"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/c-23/15
+msgctxt "Farya"
+msgid "Ah, I see, so you would rather wait and see, allow the infection to spread under its epidermal shield until the enemy has a non-dislodgeable foothold in your precious body and you can no longer ignore the signs and symptoms."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/c-23/23
+msgctxt "Farya"
+msgid "We'll just let it progress, then."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/c-23/31
+msgctxt "Farya"
+msgid "HOWEVER."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-7/c-24/13
+msgctxt "Farya"
+msgid "I KNOW! This stuff is not for the faint of heart."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/0
+msgctxt "Farya"
+msgid "Once it's bad enough, my poor new friend, I'm afraid the whole appendage'll have to come off."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/8
+msgctxt "Farya"
+msgid "Preventing spread, and all."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/16
+msgctxt "Farya"
+msgid "I'm sad to say we lose many a good limb to splinters every year."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/24/s/0
+msgctxt "Choix"
+msgid "Is that true? Like, statistically?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/25/s/0
+msgctxt "Choix"
+msgid "You live in a very dramatic world, Farya."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/c-25/7
+msgctxt "Farya"
+msgid "Statistics is not really my field, I have to say. But I know how many amputations I've had to perform because someone got careless moving the milk crate!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/c-25/15
+msgctxt "Farya"
+msgid "Ah yes. I do know about the body."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/c-26/7
+msgctxt "Farya"
+msgid "The world is dramatic! Drama isn't necessarily a bad thing, you know."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-8/c-26/15
+msgctxt "Farya"
+msgid "Drama can be the spice of life! Like cinnamon, or penicillin."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/0
+msgctxt "Farya"
+msgid "The bottom line is, you have got to stay vigilant!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/8
+msgctxt "Farya"
+msgid "The world's a scary place, and your body is a fragile, fragile thing."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/16
+msgctxt "Farya"
+msgid "One wrong move, and you can throw it into total and utter chaos!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/24
+msgctxt "Farya"
+msgid "A veritable breeding ground for every Balm, Dick, & Harry's slate of diseases ready to eat you whole!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/32
+msgctxt "Farya"
+msgid "You never know what the seemingly tiniest, laughable symptom can mean."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/40
+msgctxt "Farya"
+msgid "For example... Got a case of bad breath?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/48
+msgctxt "Farya"
+msgid "Maybe you just ate a sandwich with too many onions..."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/56
+msgctxt "Farya"
+msgid "OR, your breath stinks like a dead fish on a hot Sunday because you’ve managed to develop halitosis as a result of the toxic substances in your body not being filtered out properly because your LIVER IS FAILING."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/67/s/0
+msgctxt "Choix"
+msgid "Or, it’s just that sandwich."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/68/s/0
+msgctxt "Choix"
+msgid "Pretty sure my liver is ok. Love the concern, though."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/c-27/7 farya_firstaid/farya_intro/0/g-13/c-35/18
+msgctxt "Farya"
+msgid "Maybe."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-9/c-27/15
+msgctxt "Farya"
+msgid "A totally legitimate possibility."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-10/0
+msgctxt "Farya"
+msgid "You can never be too careful."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-10/8
+msgctxt "Farya"
+msgid "And when something does go wrong?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-10/16
+msgctxt "Farya"
+msgid "Well, it's my job to make sure you're all fixed up."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-10/24
+msgctxt "Farya"
+msgid "And I'll have you know, I take my job very, very seriously."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-10/32/s/0
+msgctxt "Choix"
+msgid "No, I got that."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-10/33/s/0
+msgctxt "Choix"
+msgid "Gasp. Really? I'd never have known."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/0
+msgctxt "Farya"
+msgid "A doctor's duty is to keep their patients alive and kicking!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/8
+msgctxt "Farya"
+msgid "That's a big responsibility."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/16
+msgctxt "Farya"
+msgid "So you can bet your behind I make sure to cross all my Ts and dot all my Is - sometimes even twice!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/24/s/0
+msgctxt "Choix"
+msgid "Two dots? Two crosses? When will the madness end??"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/25/s/0
+msgctxt "Choix"
+msgid "I'll bet your handwriting is hard to read."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/c-31/7
+msgctxt "Farya"
+msgid "When there is no more sickness!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/c-31/15/0/s/0
+msgctxt "Choix"
+msgid "That is a totally unrealistic goal."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/c-31/15/1/s/0
+msgctxt "Choix"
+msgid "Awesome. I'll wait for that!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/c-32/7
+msgctxt "Farya"
+msgid "Ha! Never met a doctor who had good handwriting!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/c-32/15/0/s/0
+msgctxt "Choix"
+msgid "Yeah but that's not a goal to strive for!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-11/c-32/15/1/s/0
+msgctxt "Choix"
+msgid "I don't think they're proud of that, though."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-12/0
+msgctxt "Farya"
+msgid "Horsefeathers!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-12/8/s/0
+msgctxt "Choix"
+msgid "Oh boy."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-12/9/s/0
+msgctxt "Choix"
+msgid "Horse-what?"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-12/c-33/7
+msgctxt "Farya"
+msgid "Girl. Female. Not boy."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-12/c-33/15
+msgctxt "Farya"
+msgid "Oh! You were expressing consternation. Frustration."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-12/c-33/23
+msgctxt "Farya"
+msgid "Got it."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-12/c-34/7
+msgctxt "Farya"
+msgid "Feathers. Horse... oh nevermind."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/0
+msgctxt "Farya"
+msgid "Anywho."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/8
+msgctxt "Farya"
+msgid "It doesn't look like you've got any type of rash after all."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/16
+msgctxt "Farya"
+msgid "Just that splinter looking awful uncomfortable there."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/24
+msgctxt "Farya"
+msgid "Let's get that taken care of."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/32
+msgctxt "Farya"
+msgid "And then, presto, you're all patched up."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/48
+msgctxt "Farya"
+msgid "There you go!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/59
+msgctxt "Farya"
+msgid "Good as new - and if you do develop any plague-like symptoms, well, that's what I'm here for!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/67/s/0
+msgctxt "Choix"
+msgid "Do you secretly want me to have plague? Just checking."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/68/s/0
+msgctxt "Choix"
+msgid "I'll come back at the first sign of a sniffle, I promise!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/c-35/7
+msgctxt "Farya"
+msgid "NO!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/c-35/26
+msgctxt "Farya"
+msgid "A little bit."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/c-35/34
+msgctxt "Farya"
+msgid "Dear syringes what am I saying. No, I do not secretly want you to have plague."
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-13/c-36/7
+msgctxt "Farya"
+msgid "You'd better! I'll keep the tissues ready!"
+msgstr ""
+
+#: farya_firstaid/farya_intro/0/g-14/0
+msgctxt "Farya"
+msgid "Medical Professional Farya's always just a sniff, sneeze and groan of discomfort away!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/0
+msgctxt "Farya"
+msgid "Hello, hello!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/8
+msgctxt "Farya"
+msgid "How nice to see you again! I do hope that wound is healing up nicely!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/16
+msgctxt "Farya"
+msgid "You've interrupted me in media res, so to speak."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/24
+msgctxt "Farya"
+msgid "I just got in a brand new shipment of bandages, so I'm taking a study break to organize everything!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/32/s/0
+msgctxt "Choix"
+msgid "Wound is doing great, thanks!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/33/s/0
+msgctxt "Choix"
+msgid "Study break?"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-0/7
+msgctxt "Farya"
+msgid "Thrilled to hear it."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-0/15
+msgctxt "Farya"
+msgid "Remember to keep it clean and dry and change the dressing once every 24 hours."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-0/23
+msgctxt "Farya"
+msgid "Or it is 36 hours..."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-0/31
+msgctxt "Farya"
+msgid "Oh heck, for some reason I always forget that. Let me just check in my textbook and I'll give you the correct information!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-1/7
+msgctxt "Farya"
+msgid "Yes!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-1/15
+msgctxt "Farya"
+msgid "I believe I mentioned to you that I am currently a top notch medical professional?"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "You may have brought it up once or twice, yes."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "YOU? No way."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-1/23/c-1/7
+msgctxt "Farya"
+msgid "Way! I am. Right here in the house. Top notch. And professional."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/c-1/23/c-1/15
+msgctxt "Farya"
+msgid "But there is something to which I aspire that I have not yet achieved."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-0/0
+msgctxt "Farya"
+msgid "I am studying with great earnestness to become..."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-0/8
+msgctxt "Farya"
+msgid "...a <w>Doctor</w>."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "Wow, that's so cool!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "Sounds like a lot of work."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-0/c-2/7
+msgctxt "Farya"
+msgid "It is cool. It is the coolest thing I have ever done."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/0
+msgctxt "Farya"
+msgid "It is a lot of work!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/8
+msgctxt "Farya"
+msgid "In fact... let me show you my textbook!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/16
+msgctxt "Farya"
+msgid "I might ask for your help with studying!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Whoa, bandages. That sounds exciting!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/7
+msgctxt "Farya"
+msgid "Oh my goodness, is it ever!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/15
+msgctxt "Farya"
+msgid "I've got over a hundred varieties here, you know!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/23
+msgctxt "Farya"
+msgid "I've got gauze bandages, and crepe bandages, and snake bite bandages, and cravat bandages, oh, and liquid bandages, and- ehhh..."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/31
+msgctxt "Farya"
+msgid "I'm getting carried away, aren't I."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/39
+msgctxt "Farya"
+msgid "Ah well. I do tend to ramble when I talk about bandages."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/47
+msgctxt "Farya"
+msgid "I also haven't spoken in a while so my words are all so anxious to be expressed!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/55
+msgctxt "Farya"
+msgid "I've been studying all day."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/0/s/0
+msgctxt "Choix"
+msgid "Studying? For what?"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/1/s/0
+msgctxt "Choix"
+msgid "When I study too much I just get really hungry."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/7
+msgctxt "Farya"
+msgid "For the single greatest pursuit of my life."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/15
+msgctxt "Farya"
+msgid "I, already a top notch medical professional, am studying to become..."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/23
+msgctxt "Farya"
+msgid "...a <w>Doctor.</w>"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/34
+msgctxt "Farya"
+msgid "Here! Let me show you my textbook!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/42
+msgctxt "Farya"
+msgid "It's marvelously impressive, if I do say so."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/7
+msgctxt "Farya"
+msgid "Oh that happens to me too!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/15
+msgctxt "Farya"
+msgid "Unfortunately, one cannot eat bandages, and that seems to be the primary feature of my environment at this moment."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/23
+msgctxt "Farya"
+msgid "But such sacrifices are necessary in the pursuit of my goal!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/31
+msgctxt "Farya"
+msgid "I, Farya, a crack first aid kit, am studying to become..."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/39
+msgctxt "Farya"
+msgid "...a <w>Doctor!</w>"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/50
+msgctxt "Farya"
+msgid "And this. This tome of knowledge. Is my guide on the path."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/0
+msgctxt "Farya"
+msgid "This, this beautiful and weighted thing, is my textbook!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/11
+msgctxt "Farya"
+msgid "I'm not sure if you can tell, but I love it very much."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/19
+msgctxt "Farya"
+msgid "I study every single day, and I have my big test coming up soon!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/27
+msgctxt "Farya"
+msgid "In fact, might I ask you a favor?"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/35/s/0
+msgctxt "Choix"
+msgid "Go for it."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/36/s/0
+msgctxt "Choix"
+msgid "No, you can't dissect me."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/c-6/7
+msgctxt "Farya"
+msgid "Ha! Oh you are so funny."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/textbook/c-6/15
+msgctxt "Farya"
+msgid "No, it isn't that. Although dissection is a very useful instructional tool."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-2/0
+msgctxt "Farya"
+msgid "Would you be willing to help me study?"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-2/8
+msgctxt "Farya"
+msgid "Perhaps despite appearances, I'm a bit nervous... I could really use some support."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "For sure! I'm a great study buddy."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "What do I have to do? I know nothing about this stuff."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-2/c-8/7
+msgctxt "Farya"
+msgid "Just quiz me! And you get to hold the answers so it's absolutely no pressure on you at all."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-2/c-8/15
+msgctxt "Farya"
+msgid "And it won't even be now. I need to study some more before I'm ready for a mock quiz, so just hold onto it and I'll let you know when we can get to it!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/0
+msgctxt "Farya"
+msgid "I really appreciate this. So so very much."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/11
+msgctxt "Farya"
+msgid "You're helping me realize my greatest dream!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/25
+msgctxt "Narrator"
+msgid "Farya hands you a piece of paper with an anatomical drawing of a skeleton on it."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/33
+msgctxt "Farya"
+msgid "Here, take this page from my book. You can get familiar with the answers you'll need to quiz me on!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/41
+msgctxt "Farya"
+msgid "(If you need help reading - they will appear in that newfangled date-a-dex Phoenicia has been telling me about)."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/56
+msgctxt "Farya"
+msgid "I'm very much looking forward to seeing you again soon!"
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/64
+msgctxt "Farya"
+msgid "Huh..."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/72
+msgctxt "Farya"
+msgid "Oddly, I don't even care if you're injured when you come back. How interesting."
+msgstr ""
+
+#: farya_firstaid/first_encounter/0/g-3/80
+msgctxt "Farya"
+msgid "Until later, friend!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/0
+msgctxt "Farya"
+msgid "Oh, hi there!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/8
+msgctxt "Farya"
+msgid "Welcome back!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/16
+msgctxt "Farya"
+msgid "Wounds? Injuries? In addition to bandages I now have..."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/24
+msgctxt "Farya"
+msgid "Ointments!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/35/s/0
+msgctxt "Choix"
+msgid "All bones intact, no active bleeding."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/36/s/0
+msgctxt "Choix"
+msgid "Ointments. Wow. You're moving up in the world."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/37/s/0
+msgctxt "Choix"
+msgid "You know you're a little ridiculous. Right?"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-0/15
+msgctxt "Farya"
+msgid "I mean, well, I suppose it's good you're not expiring."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-0/23
+msgctxt "Farya"
+msgid "Finding that I would miss you, weirdly."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-0/31
+msgctxt "Farya"
+msgid "Not weird! Ooooh whoopsies, not weirdly. You're excellent and fully missable."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-0/42
+msgctxt "Farya"
+msgid "I just usually don't... miss anyone. Except for this one armoire I knew who managed to take an honest-to-goodness axe through one of his doors..."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-0/50
+msgctxt "Farya"
+msgid "That was a fun surgery..."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/7
+msgctxt "Farya"
+msgid "Yes, yes indeed I am."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/15
+msgctxt "Farya"
+msgid "From ointments, it's a hop to tinctures, from tinctures a mere skip to injectable local anaesthetics and after that, the sky truly is the limit."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/23
+msgctxt "Farya"
+msgid "I may even be the proud owner of a pill press one day."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "I'm very excited for you."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Pill Press. GET IT."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/c-0/7
+msgctxt "Farya"
+msgid "I'm excited for me, too!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/c-0/15
+msgctxt "Farya"
+msgid "How fun to have a friend to be excited for me."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/c-1/7
+msgctxt "Farya"
+msgid "One day, dear compatriot, one day. They are surprisingly hard to find! They aren't really manufactured for individuals anymore."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/c-1/15
+msgctxt "Farya"
+msgid "I suppose I could get one of the big industrial ones, but do I really need to produce 1000 pills at one time? No."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/c-1/23
+msgctxt "Farya"
+msgid "No."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/c-1/31
+msgctxt "Farya"
+msgid "Hm. Actually now that I've...."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-1/31/c-1/42
+msgctxt "Farya"
+msgid "No, no. Self-control, Farya. Self-control."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/7
+msgctxt "Farya"
+msgid "Fully and completely!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/15
+msgctxt "Farya"
+msgid "I learned long ago and in painful fashion that I would much rather be ridiculous and be myself than be non-ridiculous and be somebody else."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/23
+msgctxt "Farya"
+msgid "For the love of all things dermal, have you an INKLING of the work involved in trying to be someone else."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/31
+msgctxt "Farya"
+msgid "And fool those around you into believing you're someone else."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/39
+msgctxt "Farya"
+msgid "And fool yourself into believing you're someone else because otherwise it is so confusing and upsetting to try to be two things!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/50
+msgctxt "Farya"
+msgid "No no no, not me, not anymore."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/58
+msgctxt "Farya"
+msgid "If there was a flag for The Ridiculous Ones, I would wave it."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/66
+msgctxt "Farya"
+msgid "And I would probably add something to it."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/74
+msgctxt "Farya"
+msgid "Like a little caduceus in the corner. Or perhaps a scalpel with a drop of blood suspended from the cutting edge."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/82/0/s/0
+msgctxt "Choix"
+msgid "Eeek. I like your first idea."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/82/1/s/0
+msgctxt "Choix"
+msgid "Scalpel. No question."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/82/c-0/7
+msgctxt "Farya"
+msgid "Hm. So do I."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/82/c-0/15
+msgctxt "Farya"
+msgid "Bears thinking about, though!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/c-2/82/c-1/7
+msgctxt "Farya"
+msgid "Yes. Cut to the point, as it were."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/0
+msgctxt "Farya"
+msgid "So then, how are we feeling today?"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/8
+msgctxt "Farya"
+msgid "This is the traditional question that doctors ask, you know."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/16
+msgctxt "Farya"
+msgid "I'm practicing."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/24/s/0
+msgctxt "Choix"
+msgid "I'm feeling good."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/25/s/0
+msgctxt "Choix"
+msgid "I am pretty tired, actually."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/7
+msgctxt "Farya"
+msgid "Good? How good?"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/15
+msgctxt "Farya"
+msgid "Good, as in good enough that you could run a marathon?"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/23
+msgctxt "Farya"
+msgid "Or good, as in you're putting on a brave face but shriveling up on the inside, good?"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/31/0/s/0
+msgctxt "Choix"
+msgid "No, I feel great!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/31/1/s/0
+msgctxt "Choix"
+msgid "Shriveling? What am I, a raisin?"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/31/c-1/7
+msgctxt "Farya"
+msgid "Technically, raisins are shrivelled, not shriveling. You, if you were putting on a brave face would be actively in the process of shriveling from the draining of all the energy needed to maintain said brave face."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/31/c-1/15
+msgctxt "Farya"
+msgid "So from a technical perspective, in no way are you a raisin."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/31/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Well that is good news."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/howareyou/c-3/31/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "I am fine. A little tired, but that's all."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/0
+msgctxt "Farya"
+msgid "I thought so. My medi-senses were going absolutely bananas, looking at you, and expertly reading all the signs and symptoms and I just knew it..."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/8
+msgctxt "Farya"
+msgid "...this person is tired."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/16/s/0
+msgctxt "Choix"
+msgid "Yeah. Who would have thought being unemployed could be so exhausting? I'm slowly descending to zombie status."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/17/s/0
+msgctxt "Choix"
+msgid "It'll be alright. I'll get a good night's sleep and be ready to go!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/7
+msgctxt "Farya"
+msgid "Zombie?"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/15
+msgctxt "Farya"
+msgid "Oh my. My textbook has definitely not covered what to do in the event of Zombie."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/26
+msgctxt "Farya"
+msgid "I imagine I'll have to impale you with some kind of stick, wood or maybe a fireplace poker..."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/34
+msgctxt "Farya"
+msgid "This is all hypothetical, of course, because you're not a zombie..."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/0/s/0
+msgctxt "Choix"
+msgid "You're kinda wishing I was a zombie right now, aren't you."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/1/s/0
+msgctxt "Choix"
+msgid "Right. Not a zombie. No need to impale."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-0/18
+msgctxt "Farya"
+msgid "No. NO, of course not."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-0/26
+msgctxt "Farya"
+msgid "If you were a zombie, you'd be dead, so there wouldn't really be any need for me as my primary function is the treatment and management of the living."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-0/34
+msgctxt "Farya"
+msgid "My desire to see a zombie would be more a personal rather than a professional curiosity."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-0/42
+msgctxt "Farya"
+msgid "And I don't have time for personal curiosities right now! Too much studying to do!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-0/50
+msgctxt "Farya"
+msgid "So we will get you some rest, and some good nutrition, and presto."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-1/7
+msgctxt "Farya"
+msgid "Of course."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-1/15
+msgctxt "Farya"
+msgid "No need."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-1/23
+msgctxt "Farya"
+msgid "My oh my, imagining what I would do in the event of a zombie attack is very fun and distracting..."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/tired/c-5/42/c-1/31
+msgctxt "Farya"
+msgid "Anyway!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/0
+msgctxt "Farya"
+msgid "You will be A-OK, I have no doubt!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/8
+msgctxt "Farya"
+msgid "And it will be, in some small part, because of the excellent medical care you have received with Medical Professional Soon To Be Doctor Farya."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/16
+msgctxt "Farya"
+msgid "On that note, I've got my page ready for you!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/0
+msgctxt "Farya"
+msgid "Fantastic!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/11
+msgctxt "Farya"
+msgid "If you're well and healthy, no reason to keep you hanging around here!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/19
+msgctxt "Farya"
+msgid "My studying has been going wonderfully... I'm ready to give you a second page for my upcoming quiz, if you're ready to receive it."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/27/s/0
+msgctxt "Choix"
+msgid "Bring it on!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/28/s/0
+msgctxt "Choix"
+msgid "You love your textbook and yet you're tearing pages out of it to give to me."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/c-8/7
+msgctxt "Farya"
+msgid "I treasure the information and the usefulness of the book. Neither of those things exist to me if the book itself is inviolate!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/c-8/15
+msgctxt "Farya"
+msgid "Live! Learn! Make a mess! That's my motto."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/aok/25/c-8/26
+msgctxt "Farya"
+msgid "Or it might be. Don't know. Haven't thought about having a motto before!"
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/page/3
+msgctxt "Narrator"
+msgid "Farya hands you another page from her textbook."
+msgstr ""
+
+#: farya_firstaid/second_encounter/0/page/11
+msgctxt "Farya"
+msgid "Thanks for your help!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/0
+msgctxt "Farya"
+msgid "Well, if it isn't my favorite patient!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/8
+msgctxt "Farya"
+msgid "And no, I don't say that to everyone."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/16
+msgctxt "Farya"
+msgid "It is the absolute eel's ankles that you're here. I have a confession to make."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/24/s/0
+msgctxt "Choix"
+msgid "Uh oh."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/25/s/0
+msgctxt "Choix"
+msgid "Go for it. What's up?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-0/0
+msgctxt "Farya"
+msgid "I have spent the time in between the last time I saw you and right this precise moment worried down to my very bones about your health."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Down to your bones, huh?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-0/9/s/0 farya_firstaid/farya_test_bad/0/24/s/0
+msgctxt "Choix"
+msgid "Oh no, why?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-0/c-2/7
+msgctxt "Farya"
+msgid "Yep, right down to the little tiny ones in my ears!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-0/c-3/7
+msgctxt "Farya"
+msgid "I'll tell you soon, I promise."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-1/0
+msgctxt "Farya"
+msgid "Just answer this question for me. Do you have any of the following symptoms?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Loss of appetite."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Dry skin."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Fatigue."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "Farya, I do not have whatever disease you're trying to diagnose. What is going on?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/0
+msgctxt "Farya"
+msgid "Oh my goodness."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/8
+msgctxt "Farya"
+msgid "This is absolutely the worst news you could've given me."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/16
+msgctxt "Farya"
+msgid "I don't mean to alarm you..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/24/s/0
+msgctxt "Choix"
+msgid "Yeah, because what you've said up until now isn't alarming at all."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/25/s/0
+msgctxt "Choix"
+msgid "Well, I am alarmed so get to it!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/26/s/0
+msgctxt "Choix"
+msgid "Not alarmed. A little charmed, honestly."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-8/7
+msgctxt "Farya"
+msgid "Yes yes, I know, I know I have to work on my bedside manner. I never mean to frighten my patients but then I start listing all the things that could go wrong with their injury or their procedure, just so that they have all the information, you understand..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-8/15
+msgctxt "Farya"
+msgid "You'd be shocked at how many of them just clamber off the table and run screaming from my exam room!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-8/23/0/s/0
+msgctxt "Choix"
+msgid "Probably wouldn't be shocked, Farya."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-8/23/1/s/0
+msgctxt "Choix"
+msgid "You'll get the hang of it! But back to me...?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-9/7
+msgctxt "Farya"
+msgid "Right right, profound apologies..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-9/15
+msgctxt "Farya"
+msgid "Oh, giving back news is always so difficult!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/7
+msgctxt "Farya"
+msgid "Charmed. What could you possibly find charming?? My nervousness? My zealousness? My deep concern for your well-being??"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/18/0/s/0
+msgctxt "Choix"
+msgid "Yup, all of that."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/18/1/s/0
+msgctxt "Choix"
+msgid "Let's stay on track here. Am I dying?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/18/c-0/7 farya_firstaid/farya_test_bad/0/g-2/c-6/18 farya_firstaid/farya_hate_return/0/c-1/39
+msgctxt "Farya"
+msgid "Well."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/18/c-0/15
+msgctxt "Farya"
+msgid "I suppose that's very nice of you to say."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/18/c-0/26
+msgctxt "Farya"
+msgid "I'm...."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/18/c-0/34
+msgctxt "Farya"
+msgid "Oh fiddlesticks where was I..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/typhoid/c-10/18/c-0/42/0/s/0
+msgctxt "Choix"
+msgid "I'm dying of something, probably?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-2/0
+msgctxt "Farya"
+msgid "A loss of appetite, I'm afraid to say, is just one symptom among a spread that are indicative of the highly contagious and incredibly deadly disease - typhoid fever!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "...typhoid."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Oh. Yeah, that does make sense I guess."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/0
+msgctxt "Farya"
+msgid "I know. This must come as a shock."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "Out of curiosity, what are the other symptoms?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "Oh yeah. Big one. Are you sure?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-13/7
+msgctxt "Farya"
+msgid "Well, patients can exhibit a cough, diarrhea or constipation, headaches and nausea, stomach pains —"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-13/15/0/s/0
+msgctxt "Choix"
+msgid "I don't have any of those."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-13/15/1/s/0
+msgctxt "Choix"
+msgid "Where did you get this information?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-13/15/c-0/15
+msgctxt "Farya"
+msgid "None of them? You're sure?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-13/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Pretty sure."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-14/7
+msgctxt "Farya"
+msgid "Beyond a shadow of a doubt!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-14/15/0/s/0
+msgctxt "Choix"
+msgid "How can you be so sure?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-3/c-14/15/1/s/0
+msgctxt "Choix"
+msgid "That's hot."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/0
+msgctxt "Farya"
+msgid "I am so sorry to have to tell you this... but dry skin, thick or numb patches of dry skin are one of the first signs of the deadly, terrifying and irreversible disease..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/8
+msgctxt "Farya"
+msgid "...of leprosy!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/19/s/0
+msgctxt "Choix"
+msgid "Leprosy."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/20/s/0
+msgctxt "Choix"
+msgid "Where on earth are you getting this??"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/7
+msgctxt "Farya"
+msgid "Leprosy. Scourge of the ancient world, source of fear, pain and disfigurement for untold millions!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/0/s/0
+msgctxt "Choix"
+msgid "Farya, I do not have leprosy."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/1/s/0
+msgctxt "Choix"
+msgid "This wasn't in your textbook, was it?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/7
+msgctxt "Farya"
+msgid "I think you do!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/15
+msgctxt "Farya"
+msgid "Or there's a very good chance that you do."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/23
+msgctxt "Farya"
+msgid "There's at least a passing chance!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "What are the other symptoms of leprosy?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/7
+msgctxt "Farya"
+msgid "Lumps on the face and earlobes, loss of eyebrows and eyelashes, big ulcers on the soles of the feet that don't hurt."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I don't have those."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Why are you so concerned about this?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "Are you sure?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/15/c-0/15
+msgctxt "Farya"
+msgid "I can do an exam and check and make triple sure, if you'd like!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/15/c-0/23
+msgctxt "Farya"
+msgid "It would completely break my heart to lose you to a disease, any disease but especially one like this!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Why don't you show me where you learned about leprosy in the first place."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/leprosy/c-15/15/c-0/31/c-0/15/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "No exam. I'm good. Trust me. I think your textbook is freaking you out."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/0
+msgctxt "Farya"
+msgid "Oh no. The worst news in the world. I would've preferred hearing any of the other symptoms over this one!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/8
+msgctxt "Farya"
+msgid "My dear friend... fatigue is but one symptom in an arithmetic of terror that adds up to the inescapable conclusion..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/16
+msgctxt "Farya"
+msgid "You have polio."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/24/s/0
+msgctxt "Choix"
+msgid "No, I don't."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/c-17/15 farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/7
+msgctxt "Farya"
+msgid "You don't?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/c-17/23/0/s/0
+msgctxt "Choix"
+msgid "Nope."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/c-17/23/1/s/0
+msgctxt "Choix"
+msgid "I love how concerned you are about me."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/c-17/23/c-0/7
+msgctxt "Farya"
+msgid "Oh thank Hippocrates!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/polio/c-17/23/c-1/13
+msgctxt "Farya"
+msgid "Oh I was. Oh, I am! I... I want you to be healthy and happy."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-4/0
+msgctxt "Farya"
+msgid "I have been so worried about this, I can't even tell you!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-4/8/s/0
+msgctxt "Choix"
+msgid "Where did you learn about polio? I know it exists but it's pretty rare now."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-4/9/s/0
+msgctxt "Choix"
+msgid "Do you need to know how to diagnose polio for your test or something?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-4/c-19/7
+msgctxt "Farya"
+msgid "No, no, this didn't come from my textbook."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/1/s/0
+msgctxt "Choix"
+msgid "Oh shit. Really?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/7
+msgctxt "Farya"
+msgid "Yes! You're probably also experiencing the other symptoms, fever, headache, vomiting, pain in the neck and stiffness of the limbs?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/15
+msgctxt "Farya"
+msgid "Oh, I'm so sorry to be the one to tell you this but I am so glad we're catching it in time to do something and restore you to full vigor and vitality!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/0/s/0
+msgctxt "Choix"
+msgid "Wait. I don't have any of those other symptoms."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/1/s/0
+msgctxt "Choix"
+msgid "Farya, I'm messing with you. I promise I don't have polio."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/15
+msgctxt "Farya"
+msgid "You're sure? When's the last time you had a headache?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I'm developing one right now!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I am fine! I'm totally healthy, at least polio-wise."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/7
+msgctxt "Farya"
+msgid "Oh! Just from me?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/15
+msgctxt "Farya"
+msgid "Oh thank goodness."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/23
+msgctxt "Farya"
+msgid "I would probably be the pain in your neck right now, too, right?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/31
+msgctxt "Farya"
+msgid "Ah that's such good news! I've never been so glad to be a nuisance before!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/42
+msgctxt "Farya"
+msgid "Better safe than sorry, I always say... at least we know now that I practice what I preach!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/50/0/s/0
+msgctxt "Choix"
+msgid "Indeed. Where are you even reading about polio?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/50/1/s/0
+msgctxt "Choix"
+msgid "You're a great nuisance. The best."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/50/c-1/7
+msgctxt "Farya"
+msgid "Shucks. What a- an individualized compliment."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/50/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "If you have to know polio for your test, you're ready."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-0/50/c-1/15/c-0/7
+msgctxt "Farya"
+msgid "Oh, this isn't for my test!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-1/7
+msgctxt "Farya"
+msgid "Oh that is such a relief!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-1/15
+msgctxt "Farya"
+msgid "I started reading about it, and then I started thinking about you and how tired you've been from work..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-1/23
+msgctxt "Farya"
+msgid "...and then I just started to worry and do all this other research and try to find the most cutting-edge and effective ways to help you and save you and I've been going like a freight train of health, I tell ya!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-0/23/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Where are you reading about polio?"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-1/7
+msgctxt "Farya"
+msgid "Messing..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-1/15
+msgctxt "Farya"
+msgid "and you don't have polio. You're 100% sure."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "I mean, yeah. It's a really rare disease nowadays."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "I'm surprised your textbook even mentioned it."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-1/23/c-0/7
+msgctxt "Farya"
+msgid "Rare doesn't mean not worth knowing about!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-1/23/c-0/15
+msgctxt "Farya"
+msgid "Although I suppose it wouldn't be the most pertinent information for a budding medical student..."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-5/c-20/23/c-1/23/c-1/7
+msgctxt "Farya"
+msgid "Oh, this frantic search was not inspired by my textbook!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/readingtoomuch/0
+msgctxt "Farya"
+msgid "I've read all about it in this book!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/readingtoomuch/8
+msgctxt "Farya"
+msgid "\"It's So Passe: Diseases That Are Out Of Vogue.\""
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/readingtoomuch/16
+msgctxt "Farya"
+msgid "I've been so enjoying my studying for my test, and I'm just so ready and excited to be a real doctor that I decided to do a little extracurricular work."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/readingtoomuch/24
+msgctxt "Farya"
+msgid "As you might imagine, I don't have a library card or anything so when I saw this book, and saw \"diseases\" in the title, I thought well, Bee's Knees, That's for Me!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/readingtoomuch/32
+msgctxt "Farya"
+msgid "It's been giving me the heebie jeebies for the longest time now... but I have to know what I'm talking about if I'm going to be a true healer!"
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/readingtoomuch/43/s/0
+msgctxt "Choix"
+msgid "I admire your enthusiasm."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/readingtoomuch/44/s/0
+msgctxt "Choix"
+msgid "I think you should just stick to your textbook from now on."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-6/0
+msgctxt "Farya"
+msgid "Oh my. I'm... I'm quite tired actually."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-6/8
+msgctxt "Farya"
+msgid "I do have another page for you, but I think I'll maybe give it to you and then I'll just go and rest."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-6/16
+msgctxt "Farya"
+msgid "It is exhausting, caring this much."
+msgstr ""
+
+#: farya_firstaid/farya_third_encounter/0/g-6/27
+msgctxt "Narrator"
+msgid "Farya hands you another page, one hand held delicately to her brow as she wanders away."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/0
+msgctxt "Farya"
+msgid "You're here!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/8
+msgctxt "Farya"
+msgid "Oh good. Well. After the fiasco I put us through last time, I have buckled down and I've been studying like a squirrel!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/16/s/0
+msgctxt "Choix"
+msgid "And how do squirrels study?"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/17/s/0
+msgctxt "Choix"
+msgid "Don't explain that. Please."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/c-0/7
+msgctxt "Farya"
+msgid "Diligently, of course! Ever seen a squirrel tucking away nuts for the winter? Imagine that level of industry applied to the medical school admissions test and wham-o, there's me!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/c-1/7
+msgctxt "Farya"
+msgid "Oh, I know I don't have to."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/c-1/15
+msgctxt "Farya"
+msgid "You just get me."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/0
+msgctxt "Farya"
+msgid "The long and short of it is, that I simply don't have time to chat today. A bit more brushing up to do and then I'll be ready for our crackerjack quiz night!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/8
+msgctxt "Narrator"
+msgid "Farya pulls out a small stack of textbook pages, waving them at you as she speaks."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/16
+msgctxt "Farya"
+msgid "I know it's a lot, but here. And if you think these three pages are heavy, imagine how much all the knowledge I've crammed into my lid weighs! I'd bet I weigh as much as a tool chest right now with all this information!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/27
+msgctxt "Narrator"
+msgid "Farya hands you each page, one after the other, handling them as carefully as though they were ancient, sacred texts."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/41
+msgctxt "Farya"
+msgid "And this one..."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/55
+msgctxt "Farya"
+msgid "And last..."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/66
+msgctxt "Farya"
+msgid "Phew!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/77
+msgctxt "Farya"
+msgid "I really appreciate your help with this."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/85
+msgctxt "Farya"
+msgid "The next time I see you, I'll be ready to be grilled!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/96
+msgctxt "Farya"
+msgid "Not literally grilled, of course. That would be very painful. Oh, and definitely not helpful either. I can't imagine grilling would help me do better on the test..."
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/104
+msgctxt "Farya"
+msgid "...or maybe it would! Oh dearie me, do you think it would? Should we try that?"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/112/s/0
+msgctxt "Choix"
+msgid "No, you had it right; a regular old quizzing will work best!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-0/113/s/0
+msgctxt "Choix"
+msgid "Try to relax. You're going to do great!"
+msgstr ""
+
+#: farya_firstaid/farya_fourth_encounter/0/g-1/0
+msgctxt "Farya"
+msgid "Phew. Ok. Back to it. Onwards and upwards!"
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/8
+msgctxt "Farya"
+msgid "It's time! Oh my goodness. I am so ready."
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/19
+msgctxt "Farya"
+msgid "If we were in a hospital, I'd be the surgeon with my hands all washed and gloved and my scrubs on and the patient comfortably unconscious before me!"
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/27
+msgctxt "Farya"
+msgid "I guess in this scenario, you'd be the patient?"
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/35
+msgctxt "Farya"
+msgid "Except you're conscious, so maybe not."
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/43
+msgctxt "Farya"
+msgid "Oh, ooh! And on the subject of consciousness... you're going to ask me questions, from the pages that I gave you, and I'm going to give you the answers."
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/51
+msgctxt "Farya"
+msgid "Your job will be to tell me whether my answer is right or wrong... Of course, I hope I get them all right but you know how nerves and excitement can play with one's mind!"
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/59
+msgctxt "Farya"
+msgid "I'm sure I'll make mistakes. Please tell me when I do! That's the only way I can get better and I have to always be getting better if I want to be..."
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/67
+msgctxt "Farya"
+msgid "...Doctor Farya."
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/78
+msgctxt "Farya"
+msgid "Ah, even saying that brings a smile to my face and a song to my heart!"
+msgstr ""
+
+#: farya_firstaid/farya_weighty_encounter/89
+msgctxt "Farya"
+msgid "Ok. Enough romanticizing. Onto the work. Oh goodness I'm so excited I can hardly sit still...!"
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/0
+msgctxt "Farya"
+msgid "Let's begin - quiz me!"
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/8/s/0
+msgctxt "Choix"
+msgid "How many bones are in the human body?"
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/7
+msgctxt "Farya"
+msgid "Oh, elementary."
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/0/s/0 farya_firstaid/SecondQuestion/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That's correct!"
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Actually, I think there are 202..."
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "You're so pretty when you think."
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/3/s/0
+msgctxt "Choix"
+msgid "No, there are infinite bones in the human body."
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/c-0/7
+msgctxt "Farya"
+msgid "Excellent!"
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/c-1/13
+msgctxt "Farya"
+msgid "Oh dear, I thought I had it..."
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/c-2/7
+msgctxt "Farya"
+msgid "Aha! Gracious!"
+msgstr ""
+
+#: farya_firstaid/FirstQuestion/0/c-0/23/c-3/7
+msgctxt "Farya"
+msgid "Come on, take this seriously."
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/0
+msgctxt "Farya"
+msgid "Next question!"
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/8/s/0
+msgctxt "Choix"
+msgid "Where should you splint a fracture?"
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/c-0/7
+msgctxt "Farya"
+msgid "That's obvious... you splint at the site of the fracture."
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Not quite - it's above and below the site of the fracture."
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "That's not it - you don't splint a fracture, you set it."
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "Easy as pie. Mmm. Pie."
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/c-0/15/c-1/7
+msgctxt "Farya"
+msgid "Oh no. Oh no."
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/c-0/15/c-1/18
+msgctxt "Farya"
+msgid "This is all going horribly wrong."
+msgstr ""
+
+#: farya_firstaid/SecondQuestion/0/c-0/15/c-2/7
+msgctxt "Farya"
+msgid "What! Unbelievable."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/0
+msgctxt "Farya"
+msgid "I hope the next question is simple..."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/8/s/0
+msgctxt "Choix"
+msgid "What do the ABCs stand for?"
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/7
+msgctxt "Farya"
+msgid "Ah! This one sounds simple. It's Amputate, Bind, Compress."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Close - it's Amputate, Bind, Coagulate."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "You're correct!"
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Sorry, that's not the one."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "So close indeed!"
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-1/7
+msgctxt "Farya"
+msgid "I am? So I am!"
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-2/7
+msgctxt "Farya"
+msgid "Well, which one is it..."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Airway, Breathing, Circulation."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Anabolic, Bivalent, Catabolic."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-2/15/2/s/0
+msgctxt "Choix"
+msgid "You tell me, pretty doctor."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-2/15/c-0/13
+msgctxt "Farya"
+msgid "That... sounds familiar."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-2/15/c-1/7
+msgctxt "Farya"
+msgid "Yes... you can remember that as the two -lics and a -lent."
+msgstr ""
+
+#: farya_firstaid/ThirdQuestion/0/c-0/15/c-2/15/c-2/7
+msgctxt "Farya"
+msgid "Oh! How rude."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/0/b/1
+msgctxt "Farya"
+msgid "Are these the real answers? I'm beginning to have doubts..."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/3
+msgctxt "Farya"
+msgid "Next next, always next!"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/11/s/0
+msgctxt "Choix"
+msgid "What are the main ways to arrive at a diagnosis?"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/7
+msgctxt "Farya"
+msgid "Symptoms of course!"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Correct!"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Not quite..."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "Score one for me!"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/13
+msgctxt "Farya"
+msgid "Not quite? What would the other ways be?"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "Diet and exercise."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/1/s/0
+msgctxt "Choix"
+msgid "Finding signs through physical examination."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/2/s/0
+msgctxt "Choix"
+msgid "Imagine yourself as the patient and use empathy to help diagnose."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/3/s/0
+msgctxt "Choix"
+msgid "Finding a doctor and asking for help."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/c-0/7
+msgctxt "Farya"
+msgid "That... makes no sense?"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/c-0/15/b/1
+msgctxt "Farya"
+msgid "It does seem like you're taking the piss. Which is usually what urinalysis is for."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/c-1/7
+msgctxt "Farya"
+msgid "Signs and symptoms - of course!"
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/c-2/7
+msgctxt "Farya"
+msgid "Ooooh - sounds very 'new age'."
+msgstr ""
+
+#: farya_firstaid/FourthQuestion/0/c-0/15/c-1/21/c-3/7
+msgctxt "Farya"
+msgid "I don't believe you. Rrgh."
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/0
+msgctxt "Farya"
+msgid "Almost done here - what do you have left?"
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/8/s/0
+msgctxt "Choix"
+msgid "True or false - you can take skin from a corpse and give it to a human."
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/c-0/7
+msgctxt "Farya"
+msgid "Gods alive! Do I remember this one?"
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/c-0/18
+msgctxt "Farya"
+msgid "I believe...."
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/c-0/26
+msgctxt "Farya"
+msgid "That it is true."
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Correct! Well done."
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "Sorry, I don't think so."
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/c-0/34/c-0/7
+msgctxt "Farya"
+msgid "The world of medicine is full of surprises."
+msgstr ""
+
+#: farya_firstaid/FifthQuestion/0/c-0/34/c-1/7
+msgctxt "Farya"
+msgid "Drat drat! Double drat!"
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/0/b/1
+msgctxt "Farya"
+msgid "Feeling good now! I think I've got this on lock."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/3
+msgctxt "Farya"
+msgid "What is the last question?"
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/11/s/0
+msgctxt "Choix"
+msgid "You are about to perform brain surgery."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/c-0/7
+msgctxt "Farya"
+msgid "Excellent."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "The anesthesiologist tells you that he doesn't want to put the patient under."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "For brain surgery? Hm..."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What do you do?"
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/c-0/15/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "Well. I suppose, I would have to agree."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Why?"
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/g-0/c-1/7
+msgctxt "Farya"
+msgid "It is perfectly natural to perform brain surgery on an awake patient."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/g-0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "That's correct."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/g-0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I'm sorry, but that's not valid."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/g-0/c-1/15/c-0/7
+msgctxt "Farya"
+msgid "Of course it is! My studying was not for naught."
+msgstr ""
+
+#: farya_firstaid/SixthQuestion/0/g-0/c-1/15/c-1/7
+msgctxt "Farya"
+msgid "You aren't valid!"
+msgstr ""
+
+#: farya_firstaid/after_test/0/0
+msgctxt "Farya"
+msgid "Phew! Those were all the questions, no?"
+msgstr ""
+
+#: farya_firstaid/after_test/0/8
+msgctxt "Farya"
+msgid "Thank you for helping me to study."
+msgstr ""
+
+#: farya_firstaid/after_test/0/16/b/1
+msgctxt "Farya"
+msgid "I'm confident I will do well."
+msgstr ""
+
+#: farya_firstaid/after_test/0/17/b/1
+msgctxt "Farya"
+msgid "I have my doubts, but perhaps I will do all right."
+msgstr ""
+
+#: farya_firstaid/after_test/0/18/b/1
+msgctxt "Farya"
+msgid "I'm not sure I will do very well, but a kit can hope."
+msgstr ""
+
+#: farya_firstaid/after_test/0/21
+msgctxt "Farya"
+msgid "Come by next time and hopefully I'll have news to share."
+msgstr ""
+
+#: farya_firstaid/after_test/0/29/s/0
+msgctxt "Choix"
+msgid "Bye Farya!"
+msgstr ""
+
+#: farya_firstaid/after_test/0/30/s/0
+msgctxt "Choix"
+msgid "Will do."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/0
+msgctxt "Farya"
+msgid "You're here."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/8
+msgctxt "Farya"
+msgid "I would be excited to see you... but truthfully..."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/16
+msgctxt "Farya"
+msgid "...I'm embarrassed."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/25/s/0
+msgctxt "Choix"
+msgid "I'm sure there's no reason to be embarrassed. What happened?"
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-0/0
+msgctxt "Farya"
+msgid "Well, I got my results back on my test."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "That's exciting!"
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "And?"
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-0/c-2/7
+msgctxt "Farya"
+msgid "I was sure excited when I opened that envelope, let me tell you."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-0/c-2/15
+msgctxt "Farya"
+msgid "But it was a short-lived sensation. Even shorter than when a numb extremity receives blood flow again and the pins and needles start."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-1/0
+msgctxt "Farya"
+msgid "I did not do very well."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-1/11
+msgctxt "Farya"
+msgid "In fact, I did quite poorly. There were so many answers that you told me I'd gotten right when we did our quiz together, but then on the test, giving the same answers that I did with you, they were wrong."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "Oh. Um... yeah..."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "Don't know how that could've happened."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/0
+msgctxt "Farya"
+msgid "The only conclusion I have come to, and as you might imagine I've been thinking of almost nothing but this since I got the results..."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/8
+msgctxt "Farya"
+msgid "...is that you lied to me."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/16
+msgctxt "Farya"
+msgid "Did you lie? In the quiz? Did you tell me I'd gotten things right when I'd actually gotten them wrong?"
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "I... may have. I'm sorry. I didn't want to hurt your feelings."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "I did. I... I'm sorry. I didn't think it would be that big of a deal."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/7
+msgctxt "Farya"
+msgid "I see."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/26
+msgctxt "Farya"
+msgid "It has hurt my feelings that I can't go to school and become a doctor. It's hurt me far more to know that I can't trust you the way I thought I could."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/34
+msgctxt "Farya"
+msgid "I suppose your intentions were good... maybe I just need some time."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/0/s/0
+msgctxt "Choix"
+msgid "I'm sorry, Farya."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/1/s/0
+msgctxt "Choix"
+msgid "Still dramatic, I see."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-0/7
+msgctxt "Farya"
+msgid "Me too."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-0/18
+msgctxt "Farya"
+msgid "I'll see you another time, ok?"
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-0/26
+msgctxt "Farya"
+msgid "I'm going to go now."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-1/7
+msgctxt "Farya"
+msgid "Maybe I am dramatic."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-1/15
+msgctxt "Farya"
+msgid "I'm also sincere."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-1/23
+msgctxt "Farya"
+msgid "And sincerely saddened by this turn of events."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-1/31
+msgctxt "Farya"
+msgid "Goodbye, my friend..."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-6/42/c-1/39 farya_firstaid/farya_test_bad/0/g-2/c-7/55
+msgctxt "Farya"
+msgid "Goodbye."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-7/15
+msgctxt "Farya"
+msgid "...well it is."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-7/23
+msgctxt "Farya"
+msgid "I have to go now."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-7/31
+msgctxt "Farya"
+msgid "I'm expecting a shipment of linen and plaster for making casts and everything has to be stored correctly or it all gets ruined."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-7/39
+msgctxt "Farya"
+msgid "I don't imagine now that you care much about that, though."
+msgstr ""
+
+#: farya_firstaid/farya_test_bad/0/g-2/c-7/47
+msgctxt "Farya"
+msgid "I..."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/0
+msgctxt "Farya"
+msgid "Oh, hi!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/8
+msgctxt "Farya"
+msgid "It's a tickle to see you. I..."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/16
+msgctxt "Farya"
+msgid "I have news."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/24/s/0
+msgctxt "Choix"
+msgid "I thought you might!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/25/s/0
+msgctxt "Choix"
+msgid "Yeah? Something new and exciting to diagnose me with?"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/c-1/7
+msgctxt "Farya"
+msgid "Not today... but you never know what the future might hold because..."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/0
+msgctxt "Farya"
+msgid "I got my results back from my test!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/11
+msgctxt "Farya"
+msgid "It is not the most impressive score I've ever received on a test in my life."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/19
+msgctxt "Farya"
+msgid "That honor belongs to myself and my old friend Frederika when we competed together in the three-hinged race. We were even faster than Cristof and Columbo, the reigning champion cigar boxes!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/27
+msgctxt "Farya"
+msgid "Trounced them, truth be told; Columbo was leaking tobacco all the way to the medical tent! Where of course I treated him with respect and efficiency."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/35
+msgctxt "Farya"
+msgid "Anywho. I did well! It looks like I'm going to be able to go to medical school and fulfill the dream of my life to become a doctor!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/46/s/0
+msgctxt "Choix"
+msgid "I am so proud of you!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/47/s/0
+msgctxt "Choix"
+msgid "Hell yeah."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "You'll be able to give out a lot more than band-aids now."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-1/0
+msgctxt "Farya"
+msgid "I cannot wait. And I want to say a heartfelt thank you to you for your help."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-1/8
+msgctxt "Farya"
+msgid "There were some questions that I got wrong on the test that I got right during our quiz... at least you told me that I'd gotten them right, so I've been wondering about that quite a bit..."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Uhhh yeah... mystery, I guess."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "I might have not been honest on every question. Sorry."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-1/c-5/7
+msgctxt "Farya"
+msgid "It is indeed!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-1/c-6/7
+msgctxt "Farya"
+msgid "Well, luckily I still passed. If your gamesmanship had caused me to fail... I don't think I'd be nearly so civil!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-2/0
+msgctxt "Farya"
+msgid "In any event, though, thank you for helping me study."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-2/8
+msgctxt "Farya"
+msgid "I hope you'll still come to me for aid, first and ongoing, when I'm a real doc!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "If I need you, I promise I will."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "We'll see. Kinda hoping I just stay healthy."
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-2/c-8/7
+msgctxt "Farya"
+msgid "Ah yes. Don't we all!"
+msgstr ""
+
+#: farya_firstaid/farya_test_middle/0/g-3/0
+msgctxt "Farya"
+msgid "Toodle pip and cheerio, my friend!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/0
+msgctxt "Farya"
+msgid "You're here you're here you're here!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/11/s/0
+msgctxt "Choix"
+msgid "I am! Oh wow, what's going on?"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/12/s/0
+msgctxt "Choix"
+msgid "You are so damned excited all the damn time!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-0/0
+msgctxt "Farya"
+msgid "I passed!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-0/11
+msgctxt "Farya"
+msgid "My test, I got the results back!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-0/19
+msgctxt "Farya"
+msgid "In fact, I more than passed. I aced it! I got every single question right! I got a special letter from the examiners that they've rarely been so impressed with a candidate or excited about one's future as a physician!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-0/27
+msgctxt "Farya"
+msgid "Can you believe that??"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-0/35/s/0
+msgctxt "Choix"
+msgid "Of course I can! You worked so hard!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-0/36/s/0
+msgctxt "Choix"
+msgid "Ok ok ok. Good reasons to be as hyped as you are, I guess."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/0
+msgctxt "Farya"
+msgid "You helped me, you know. I couldn't have done this without you. I couldn't ever ask for a better study partner than you... or even a better friend."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/8
+msgctxt "Farya"
+msgid "I am so, so splendiferously grateful to you."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "It was my pleasure. Let's be friends!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "Well, hey. If you want to return the favor..."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/c-4/7
+msgctxt "Farya"
+msgid "It was mine, too. I really enjoyed the studying... and I enjoyed it even more being with you. Thank you."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/c-5/7
+msgctxt "Farya"
+msgid "Name it! Anything!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/c-5/15/0/s/0
+msgctxt "Choix"
+msgid "How about a date?"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-1/c-5/15/1/s/0
+msgctxt "Choix"
+msgid "I didn't want to distract you while you were studying, but you're a cutie patootie."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/0
+msgctxt "Farya"
+msgid "...you want to take me on a date?"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Yes, I do."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Or you can take me, or we can go together, whatever you like."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/7
+msgctxt "Farya"
+msgid "Oh. Oh my. I... I'd love that."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/15
+msgctxt "Farya"
+msgid "There's a wonderful new type of wound closure system that uses spider silk... maybe we could open a bottle of hydrogen peroxide... just for that intoxicating scent and I can show it to you?"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/23/0/s/0
+msgctxt "Choix"
+msgid "Does that mean you have to wound me first?"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/23/c-0/7
+msgctxt "Farya"
+msgid "Don't worry. I would never hurt you."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/23/c-0/15
+msgctxt "Farya"
+msgid "Hippocratic Oath."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/23/c-0/23
+msgctxt "Farya"
+msgid "Oh, also because I like you!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/23/c-0/31
+msgctxt "Farya"
+msgid "Also that."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-6/23/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Sounds wonderful."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/7
+msgctxt "Farya"
+msgid "Sounds fun!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/15
+msgctxt "Farya"
+msgid "There's this new arterial bleed control technique I've been dying to try..."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/23/0/s/0
+msgctxt "Choix"
+msgid "I'm not going to be your guinea pig for an arterial bleed, Farya."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/23/1/s/0
+msgctxt "Choix"
+msgid "Slice me up, baby. Let's go."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/23/c-0/7
+msgctxt "Farya"
+msgid "No no no no! I wasn't suggesting..."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/23/c-0/15
+msgctxt "Farya"
+msgid "Ok, I was a little bit."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/23/c-0/23
+msgctxt "Farya"
+msgid "I'll come up with something else."
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/23/c-1/7
+msgctxt "Farya"
+msgid "So adventurous!"
+msgstr ""
+
+#: farya_firstaid/farya_test_good/0/g-2/c-7/23/c-1/18
+msgctxt "Farya"
+msgid "This is going to be fun."
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/0
+msgctxt "Farya"
+msgid "Oh! My favorite patient!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/8
+msgctxt "Farya"
+msgid "Whether it's a patch-up or a study session you're in for, I am still your gal."
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/16/s/0
+msgctxt "Choix"
+msgid "Just wanted to say hi!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/17/s/0
+msgctxt "Choix"
+msgid "I am healthy. Hoping to stay that way!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/18/s/0
+msgctxt "Choix"
+msgid "Oof too much studying for me. I'll catch ya on the next one!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/19/s/0 farya_firstaid/farya_love_return/0/26/s/0
+msgctxt "Choix"
+msgid "I'm here to Realize you, actually!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/c-0/7
+msgctxt "Farya"
+msgid "Capital! Hi back to you, now and always!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/c-1/7
+msgctxt "Farya"
+msgid "Me, too! I had a big scratch on my lid the other day but as you can see I've taken care of that!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/c-1/15
+msgctxt "Farya"
+msgid "Here's to both of us staying healthy and happy."
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/c-2/7
+msgctxt "Farya"
+msgid "You've got it. Me, I'll study until the proverbial cows come home!"
+msgstr ""
+
+#: farya_firstaid/farya_friendship_return/0/c-2/15
+msgctxt "Farya"
+msgid "Catch you later, O Boon Companion!"
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/0
+msgctxt "Farya"
+msgid "Oh... well hello there."
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/8
+msgctxt "Farya"
+msgid "Are you back for another date?"
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/16
+msgctxt "Farya"
+msgid "I sure hope so! I trust we've both recovered from our last one... and I have some new things I'd like to try!"
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/24/s/0
+msgctxt "Choix"
+msgid "I am definitely recovered... and ready to go again!"
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/25/s/0
+msgctxt "Choix"
+msgid "Oh no, I need some more time. Just wanted to say hi to you, lover."
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/c-0/7
+msgctxt "Farya"
+msgid "Wonderful! Maybe we can study a little bit first... to set the mood?"
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Wouldn't have it any other way!"
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "Great! Lemme just go get my stethoscope! Be right back!"
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/c-1/7
+msgctxt "Farya"
+msgid "Well, then. Hi right back to you."
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/c-1/15
+msgctxt "Farya"
+msgid "I'll be here whenever you feel ready... and I'll miss you until then."
+msgstr ""
+
+#: farya_firstaid/farya_love_return/0/c-1/23
+msgctxt "Farya"
+msgid "You're wonderful."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/0
+msgctxt "Farya"
+msgid "Oh."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/8
+msgctxt "Farya"
+msgid "Hello."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/16
+msgctxt "Farya"
+msgid "I... I don't want to see you."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/24
+msgctxt "Farya"
+msgid "I don't know that I ever will. It's possible... but definitely not right now."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/32/s/0
+msgctxt "Choix"
+msgid "Fine. Didn't really want to see you, either."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/33/s/0
+msgctxt "Choix"
+msgid "What if I were a patient, though?"
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/34/s/0
+msgctxt "Choix"
+msgid "I am a patient... (USE SMARTS CANDY)"
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-1/7
+msgctxt "Farya"
+msgid "But you're not."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-1/15
+msgctxt "Farya"
+msgid "You're fit as a fiddle."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-1/23
+msgctxt "Farya"
+msgid "Healthy as a horse."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-1/31
+msgctxt "Farya"
+msgid "Not a single, miniscule thing wrong with you."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-1/47
+msgctxt "Farya"
+msgid "Nothing wrong with you a doc... medical professional could fix."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-1/55
+msgctxt "Farya"
+msgid "Please go."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/13
+msgctxt "Farya"
+msgid "Really? What are your symptoms?"
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/0/s/0
+msgctxt "Choix"
+msgid "Chest pain."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/7
+msgctxt "Farya"
+msgid "I see... what else."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Shortness of breath..."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "Hm..."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Weakening of the left ventricle."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/7
+msgctxt "Farya"
+msgid "Interesting..."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/15
+msgctxt "Farya"
+msgid "These are all symptoms of..."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/23
+msgctxt "Farya"
+msgid "Stress cardiomyopathy..."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/31
+msgctxt "Farya"
+msgid "Otherwise known as a broken heart."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/39
+msgctxt "Farya"
+msgid "Hm."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/47
+msgctxt "Farya"
+msgid "Is that really how you feel?"
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/55/0/s/0
+msgctxt "Choix"
+msgid "From the bottom of my ticker."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/55/c-0/7
+msgctxt "Farya"
+msgid "Well. If you can come to me with a broken heart, maybe I can come back to you with something to help it feel better."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/55/c-0/15
+msgctxt "Farya"
+msgid "How about a friendship?"
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/55/c-0/23
+msgctxt "Farya"
+msgid "On tentative terms, anyway. For now."
+msgstr ""
+
+#: farya_firstaid/farya_hate_return/0/c-2/21/c-0/15/c-0/15/c-0/55/c-0/31
+msgctxt "Farya"
+msgid "That I can do."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/0
+msgctxt "Farya"
+msgid "Really?"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/8
+msgctxt "Farya"
+msgid "Well, ain't that the moose's amusement!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/16/s/0
+msgctxt "Choix"
+msgid "The moose's amusement?? What on Earth..."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/17/s/0
+msgctxt "Choix"
+msgid "Y'know, I am having an amused moose kinda day. Thanks."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-0/7
+msgctxt "Farya"
+msgid "Yes! Oh come now, picture it!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-0/15
+msgctxt "Farya"
+msgid "A great big moose with his great big antlers, cavorting and gamboling about with grass and flowers sticking out all over his fur while the bugs buzz and tease him."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-0/23
+msgctxt "Farya"
+msgid "Tell me that doesn't stretch that smile!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "It does. Yep."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "You... are a language unto yourself."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-0/31/c-0/7
+msgctxt "Farya"
+msgid "I knew it would. A smile a day keeps the doctor at play!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-0/31/c-1/7
+msgctxt "Farya"
+msgid "Indeed I am, indeed I am."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/c-1/7
+msgctxt "Farya"
+msgid "It's a pip and a doodle, my friend."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/0
+msgctxt "Farya"
+msgid "So I'm truly getting Realized..."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/8
+msgctxt "Farya"
+msgid "You'd like to take this humble (ok not so humble) doctor-to-be and transform her into a human being?"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/16
+msgctxt "Farya"
+msgid "Like the great Dr. Frankfurterstein and his miraculous Living Bun??"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/24
+msgctxt "Farya"
+msgid "Wonderful! Splendiferous! Dum-diggity Delightful!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/35
+msgctxt "Farya"
+msgid "I'm in. We can do this now, yes? I'm always ready for a life-altering procedure."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/52/s/0
+msgctxt "Choix"
+msgid "Yep, I'm ready to go!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/53/s/0
+msgctxt "Choix"
+msgid "Almost... got a few more things to gather, but I'll come back soon!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/c-3/10
+msgctxt "Farya"
+msgid "Well. Excellent."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/c-3/18
+msgctxt "Farya"
+msgid "I will nervously organize and disorganize and reorganize my stock of suture needles, silk and closure bandages until then."
+msgstr ""
+
+#: farya_firstaid/farya_realize_joiner/0/g-0/c-3/26
+msgctxt "Farya"
+msgid "Yep. Juuussst gonna make a mess and clean it up again. Totally valid."
+msgstr ""
+
+#: farya_firstaid/farya_realize_return/0/0
+msgctxt "Farya"
+msgid "You're back! I reorganized my splinting tools and arterial bleed kits, too. So. Ho hummmmm."
+msgstr ""
+
+#: farya_firstaid/farya_realize_return/0/8
+msgctxt "Farya"
+msgid "Are you ready?"
+msgstr ""
+
+#: farya_firstaid/farya_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "Yes, I am!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "Ah, still not yet... almost!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_return/0/c-1/10
+msgctxt "Farya"
+msgid "Oh gosh. Welp, back to the laboratory in the meantime!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "If something goes wrong on our first one, at least we'll have a medical professional on standby!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_begin/9
+msgctxt "Skylar"
+msgid "Bring Farya to life... Clear!"
+msgstr ""
+
+#: farya_firstaid/farya_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a first aid kit, becomes...."
+msgstr ""
+
+#: farya_firstaid/farya_realized/0/3
+msgctxt "Farya"
+msgid "Great Gallivanting Geese, look at me!"
+msgstr ""
+
+#: farya_firstaid/farya_realized/0/14
+msgctxt "Farya"
+msgid "I'm going to cure so many diseases with this spectacular skin-and-bones set-up!"
+msgstr ""
+
+#: farya_firstaid/farya_realized/0/22/s/0
+msgctxt "Choix"
+msgid "I believe that about you, and I can't wait!"
+msgstr ""
+
+#: farya_firstaid/farya_realized/0/23/s/0
+msgctxt "Choix"
+msgid "Y'know, this skin-and-bones has some other exciting functions I can show you..."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/3
+msgctxt "Farya"
+msgid "Oh, really? Well you know me, I am always on board for learning!"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/11
+msgctxt "Farya"
+msgid "Especially if the experimentation involves bodily fluids. There is just something so illuminating about fluid function, don't you think?"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/19/s/0
+msgctxt "Choix"
+msgid "Yes, I do. And funny you should mention fluid!"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/20/s/0
+msgctxt "Choix"
+msgid "Oh, Farya. I just love that can-do attitude of yours!"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/7
+msgctxt "Farya"
+msgid "Oh goodie. Fluids are involved!"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/15
+msgctxt "Farya"
+msgid "Is it too much to hope this can be a team activity? A group study session?"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "That is precisely what's on the lesson plan."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I do love a precocious student."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/c-0/7
+msgctxt "Farya"
+msgid "Well, then. School is in session. Let me go slip into something a little more scholastic..."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/c-1/7
+msgctxt "Farya"
+msgid "I am precocious, aren't I?"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/c-1/18
+msgctxt "Farya"
+msgid "For example, I've already divined that you think I'm a cutie patootie and this study session ruse we've got going is something in the nature of foreplay."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "Wow. You're good."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/c-1/26/1/s/0
+msgctxt "Choix"
+msgid "Oh yeah. This is gonna be fun."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/c-1/26/c-0/7
+msgctxt "Farya"
+msgid "You ain't seen nothin' yet!"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-0/23/c-1/26/c-1/7
+msgctxt "Farya"
+msgid "You have no idea."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-1/7
+msgctxt "Farya"
+msgid "Well, I hope you're prepared because now that I'm human, I can do a whole lot more..."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-1/15
+msgctxt "Farya"
+msgid "I am so ready to learn about all the new skills available to me!"
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/c-1/23
+msgctxt "Farya"
+msgid "You do make a delicious lab partner..."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/g-0/0
+msgctxt "Narrator"
+msgid "Farya's exuberance proved to be the perfect lubricant, speaking of fluid, for a pleasurable, lengthy and... educational evening."
+msgstr ""
+
+#: farya_firstaid/farya_love_divert/0/g-0/11
+msgctxt "Narrator"
+msgid "The next morning, she jetted off to begin her brand new life."
+msgstr ""
+
+#: farya_firstaid/farya_love_join/0
+msgctxt "Narrator"
+msgid "In an event that will come as a surprise to no one, Farya marched right up to the recruitment officer of the local medical center and sat in the recruitment office until they gave her a job."
+msgstr ""
+
+#: farya_firstaid/farya_love_join/8
+msgctxt "Farya"
+msgid "None of us really know just how amazing I will turn out to be, so let's get me into scrubs and see!"
+msgstr ""
+
+#: farya_firstaid/farya_love_join/16
+msgctxt "Narrator"
+msgid "Also unsurprisingly, although it took 6 full days for the human resources staff to relent and hire this fresh graduate with no experience, Farya was smiling, studying and ebulliently greeting everyone within arm's reach the entire time."
+msgstr ""
+
+#: farya_firstaid/farya_love_join/24
+msgctxt "Narrator"
+msgid "She was just tickled pink to be, at last, in the \"human\" resources department."
+msgstr ""

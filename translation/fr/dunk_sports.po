@@ -1,0 +1,4811 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: dunk_sports/dunk_weights_sorter/10 dunk_sports/yoga_sorter/10 dunk_sports/sports_sorter/10 dunk_sports/racquets_sorter/10 dunk_sports/bosu_sorter/10 dunk_sports/box_sorter/10
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "SPORTING GOODS"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/0
+msgctxt "Narrator"
+msgid "One moment you're looking at your old sports equipment, and the next you're looking at a gorgeous, muscled man dressed in various pieces of sports equipment that once belonged to a far more optimistic version of yourself."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/8
+msgctxt "Narrator"
+msgid "As you watch this guy go through an entire squat routine it's more than clear that—unlike you—this guy has never struggled to maintain an athletic routine."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/16
+msgctxt "Narrator"
+msgid "Mid-squat he stops suddenly, bending down to peer at you through his legs—a handsome, smiling face boxed in by thighs so thick and developed you're rendered speechless for a few minutes."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/24
+msgctxt "Dunk"
+msgid "Oh hey!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/32
+msgctxt "Narrator"
+msgid "He sets his weights down, standing up and beaming at you like you've just told him he's won the lottery."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/40
+msgctxt "Dunk"
+msgid "It's about time you made your way over here! I was starting to think you forgot about me?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/48/s/0
+msgctxt "Choix"
+msgid "Forgot? Do I even know you?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/49/s/0
+msgctxt "Choix"
+msgid "Well, what had happened was..."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/50/s/0
+msgctxt "Choix"
+msgid "Don't judge me..."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/c-0/7
+msgctxt "Dunk"
+msgid "'Course you do!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/c-0/15
+msgctxt "Dunk"
+msgid "But I'll never turn down a chance to introduce myself, heh."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/c-1/7
+msgctxt "Dunk"
+msgid "Hey hey, you don't gotta explain yourself to me!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/c-1/15
+msgctxt "Dunk"
+msgid "But since it's been so long let's just start over."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/c-2/7
+msgctxt "Dunk"
+msgid "Hey hey, no judging here pal!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/c-2/15
+msgctxt "Dunk"
+msgid "Look, why don't we just start over?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/3
+msgctxt "Narrator"
+msgid "The lights dim, and a spotlight appears from... you're not quite sure where, really."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/11
+msgctxt "Dunk"
+msgid "<w>LLLLADIES AND GENTLEMEN...</w>"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/22
+msgctxt "Dunk"
+msgid "<w>NOW ENTERING THE STADIUM... THE KING OF THE RING... THE DUKE OF DUNK... THE JACK OF ALL TRADES, MASTER OF FUN... MR... DUNCAN... \"DUNK\"... SHUTTLECOOOOCK!</w>"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/36
+msgctxt "Dunk"
+msgid "Hey, thank you, thank you, thank you!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/47
+msgctxt "Narrator"
+msgid "He goes through a few poses that really make his abundant muscles pop, looking at you with the grin of a confident athlete."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/55/s/0
+msgctxt "Choix"
+msgid "<i>Cheer for him.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/56/s/0
+msgctxt "Choix"
+msgid "Just your name would have been fine."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/57/s/0
+msgctxt "Choix"
+msgid "<i>Smile politely.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/c-3/7
+msgctxt "Narrator"
+msgid "Dunk is delighted by your cheering, and he spends a few more moments basking in your attention."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/c-3/15
+msgctxt "Dunk"
+msgid "Ah man... it's been a while since I actually had an audience. Feels good."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/c-4/7
+msgctxt "Dunk"
+msgid "Well yeah, but where's the fun in that? There's no hype!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-0/c-5/7
+msgctxt "Dunk"
+msgid "Thank you, thank you..."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/0
+msgctxt "Dunk"
+msgid "Don't worry about remembering all those names, that's just stuff that makes me sound cool when I hit the court... or the field... or wherever I'm playin'!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/8
+msgctxt "Dunk"
+msgid "Dunk is just fine for pals."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Are we pals?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Dunk better be just fine—I'm not here to be your groupie."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "What about more than pals?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-6/7
+msgctxt "Dunk"
+msgid "Totally!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-6/15
+msgctxt "Dunk"
+msgid "We might have just met, but strangers are all just friends you haven't met yet!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-7/7
+msgctxt "Dunk"
+msgid "Whoah whoah, hey! It's all chill, man."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-7/15
+msgctxt "Dunk"
+msgid "I don't need a groupie!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/7
+msgctxt "Dunk"
+msgid "More than pals?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/15
+msgctxt "Narrator"
+msgid "He cocks his head to the side, thinking—you can almost see the gears turning."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/23
+msgctxt "Dunk"
+msgid "So like... best friends?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/0/s/0
+msgctxt "Choix"
+msgid "I was thinking lovers."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/1/s/0
+msgctxt "Choix"
+msgid "Best friends who have sex, sure."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/2/s/0
+msgctxt "Choix"
+msgid "God you're dense."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/c-0/7
+msgctxt "Dunk"
+msgid "Ohhhh. Well..."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/c-0/15
+msgctxt "Dunk"
+msgid "Dunk is fine for lovers too!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/c-0/23
+msgctxt "Dunk"
+msgid "But if you say it hot you can call me just about anything."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/c-1/7
+msgctxt "Dunk"
+msgid "Oh man, well... my best friend I also have sex with could call me Dunk too."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/c-1/15
+msgctxt "Dunk"
+msgid "Shit, you could call me just about anything if you say it hot."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-1/c-8/31/c-2/7
+msgctxt "Dunk"
+msgid "Thanks! I eat a lot of protein!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/3
+msgctxt "Dunk"
+msgid "Anyway it's great to see ya here finally."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/11
+msgctxt "Narrator"
+msgid "He grows very serious, placing a strong but gentle hand on your shoulder."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/19
+msgctxt "Dunk"
+msgid "What happened, man? How come you stayed away so long?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/27
+msgctxt "Dunk"
+msgid "Did someone ruin the joy of sports for ya?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/35/s/0
+msgctxt "Choix"
+msgid "I just... got busy."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/36/s/0
+msgctxt "Choix"
+msgid "Sports have never been joyful for me."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/37/s/0
+msgctxt "Choix"
+msgid "None of your business."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/38/s/0
+msgctxt "Choix"
+msgid "I'm an athlete but I just get hard on myself."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-9/7
+msgctxt "Dunk"
+msgid "Ahh man, I get that."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-9/15
+msgctxt "Dunk"
+msgid "Life is so much sometimes... but you gotta make time for yourself too."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-10/7
+msgctxt "Narrator"
+msgid "There's genuine sadness in Dunk's eyes, and... are those tears? He grasps your shoulder tighter, his expression growing mournful."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-10/18
+msgctxt "Dunk"
+msgid "That's the saddest thing I've ever heard..."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-10/26
+msgctxt "Dunk"
+msgid "Sports should be happy for everybody!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-10/34
+msgctxt "Dunk"
+msgid "We gotta fix that!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-11/7
+msgctxt "Dunk"
+msgid "Hey, that's okay. I won't pry!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-11/15
+msgctxt "Dunk"
+msgid "Real pals respect each other's privacy and boundaries!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-2/c-11/23
+msgctxt "Dunk"
+msgid "You don't have to share shit you don't wanna share!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/0
+msgctxt "Narrator"
+msgid "Dunk gives your shoulder one final little squeeze, and then he's slapping you on the back so enthusiastically you nearly collapse—this fine hunk clearly does not know his own strength."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/8
+msgctxt "Dunk"
+msgid "Well hey, no matter what happened before... you're here now!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/16
+msgctxt "Dunk"
+msgid "Your inner athlete said 'let's GET IT baby!'"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/24
+msgctxt "Dunk"
+msgid "And who are we to say no to your inner athlete?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/32/s/0
+msgctxt "Choix"
+msgid "I don't have an inner athlete."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/33/s/0
+msgctxt "Choix"
+msgid "You're so right."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/34/s/0
+msgctxt "Choix"
+msgid "I feel like this is all moving so fast..."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-13/7
+msgctxt "Dunk"
+msgid "What? 'Course you do! We all do!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-13/15
+msgctxt "Dunk"
+msgid "Yours might be like... sleepy right now."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-13/23
+msgctxt "Dunk"
+msgid "But that's okay! We'll wake 'em up."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-14/7
+msgctxt "Dunk"
+msgid "Hell yeah! Love that positive attitude!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-14/18
+msgctxt "Dunk"
+msgid "We're gonna have a great time together."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-15/7
+msgctxt "Dunk"
+msgid "Sometimes it be like that, buddy."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-15/15
+msgctxt "Dunk"
+msgid "When the ball's in your court you don't have time to waste thinking about what you're gonna do!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-15/23
+msgctxt "Dunk"
+msgid "You gotta assess the situation and pass the ball or take the shot, baby!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-3/c-15/31
+msgctxt "Dunk"
+msgid "You gotta MOVE!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-4/0
+msgctxt "Dunk"
+msgid "We just gotta get you into the flow... but I wanna make sure you're ready for it."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-4/8
+msgctxt "Dunk"
+msgid "After all, workin' out without a proper warmup is a great way to get a nasty injury!"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-4/16
+msgctxt "Dunk"
+msgid "So you come back here when you're ready to get into it."
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-4/24
+msgctxt "Dunk"
+msgid "Meet me by the weight rack, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_intro/0/g-4/32
+msgctxt "Dunk"
+msgid "And bring your positive attitude! We're gonna have FUN!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/0
+msgctxt "Narrator"
+msgid "You find Dunk stretching idly by the weights—when he sees you, his handsome face breaks into a cheerful grin."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/11
+msgctxt "Narrator"
+msgid "He's so excited he can't seem to contain his energy, bouncing back and forth on the balls of his feet like an overexcited puppy."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/19
+msgctxt "Dunk"
+msgid "You made it! Oh man, oh man, I'm so excited."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/30
+msgctxt "Dunk"
+msgid "It's been so long since I got to work out with somebody else... and a newbie too!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/38
+msgctxt "Dunk"
+msgid "There's nothin' like a good lift with someone who's just starting out."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/46
+msgctxt "Dunk"
+msgid "Everything is so new... no bad habits to break, less competitive talk..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/54
+msgctxt "Dunk"
+msgid "It's just gonna be you, me, and the weights! Good vibes and a great lift!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/62
+msgctxt "Narrator"
+msgid "A shadow falls over the two of you—a massive, blonde, and bearded figure looms over you."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/79/b/1
+msgctxt "Narrator"
+msgid "He's larger than Dunk somehow, just as muscled but spread over a much taller frame. But more than that..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/79/b/9
+msgctxt "Narrator"
+msgid "Where Dunk is cheerful and inviting, this man's gaze is cold and intimidating. There's something positively viking-like about him."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/82
+msgctxt "Kristof"
+msgid "Do not infect them with your weakness, Duncan."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/93
+msgctxt "Dunk"
+msgid "I keep telling you it's not weakness, bro."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/101
+msgctxt "Dunk"
+msgid "And Duncan was my dad, man! Call me Dunk!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/109
+msgctxt "Kristof"
+msgid "Nonsense. Exercise is VIOLENCE."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/117
+msgctxt "Kristof"
+msgid "It is driving the weakness out of your body by force."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/125
+msgctxt "Kristof"
+msgid "And I will call you by your name, DUNCAN FULL-NELSON FARTLEK LOVE SHUTTLECOCK III."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/133/b/1
+msgctxt "Kristof"
+msgid "Oh. And, greetings lover."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/136
+msgctxt "Dunk"
+msgid "Come on, Kris... you're really bringing the mood down."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/144
+msgctxt "Narrator"
+msgid "Kristof glares at Dunk, then turns his exacting gaze on you."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/152
+msgctxt "Kristof"
+msgid "You. Tell him what you need."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/160/s/0
+msgctxt "Choix"
+msgid "What I need?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/161/s/0
+msgctxt "Choix"
+msgid "Why are you even talking to us right now?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/162/s/0
+msgctxt "Choix"
+msgid "Why do you care so much?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/c-0/7
+msgctxt "Kristof"
+msgid "Yes. You NEED to have the weakness beaten out of your soft body."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/c-0/15
+msgctxt "Narrator"
+msgid "He pauses for a few long moments, before finally adding..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/c-0/23
+msgctxt "Kristof"
+msgid "With exercise."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/c-1/7
+msgctxt "Kristof"
+msgid "Someone must intervene when harmful ideas are being propagated this way."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/c-2/7
+msgctxt "Kristof"
+msgid "I have listened to this <i>child</i> spread his harmful ideas about 'effort' and 'positivity' for too long."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/c-2/15
+msgctxt "Kristof"
+msgid "It was one thing when he had no audience, but with you here now... it is unacceptable."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/0
+msgctxt "Kristof"
+msgid "You have neglected yourself for far too long."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/8
+msgctxt "Kristof"
+msgid "When you set foot in MY domain you will do so with INTENTION and STRENGTH."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/19
+msgctxt "Kristof"
+msgid "None of this 'real winners do their best and know their limits!' sentiment and foolishness!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/27
+msgctxt "Dunk"
+msgid "You really gotta relax, man... all of us share this room."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/35/b/1
+msgctxt "Dunk"
+msgid "And it's <i>their</i> house..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/38/s/0
+msgctxt "Choix"
+msgid "No no, he's right. Exercise should be unpleasant."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/39/s/0
+msgctxt "Choix"
+msgid "Go conquer a village or whatever it is guys like you do for fun."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "Are you done yet? I'd really like to work out now."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-3/13
+msgctxt "Dunk"
+msgid "No no! It's supposed to be nice!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-3/21
+msgctxt "Kristof"
+msgid "Yes. Unpleasant... miserable... there is no gain without SUFFERING."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-3/29
+msgctxt "Dunk"
+msgid "It's 'no pain no gain', and that ain't true!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-3/37
+msgctxt "Dunk"
+msgid "It doesn't need to be painful!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-3/45
+msgctxt "Kristof"
+msgid "I am pleased you understand. Make sure you explain it to him."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-3/53
+msgctxt "Kristof"
+msgid "Happy suffering, peasant."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-4/7
+msgctxt "Kristof"
+msgid "Do you think I'd be here wasting my time speaking with you if I could be out conquering a village, buffoon?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-4/15
+msgctxt "Kristof"
+msgid "What a perfect match the two of you make—soft-bodied and soft-hearted weaklings."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-4/26
+msgctxt "Kristof"
+msgid "When your muscles droop like deflated balloons you will remember my words."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-5/7
+msgctxt "Dunk"
+msgid "Yeah! I mean, thanks buddy, but I think we got it from here."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-5/15
+msgctxt "Kristof"
+msgid "You do not 'got' anything but sentiment and foolishness."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-5/23
+msgctxt "Kristof"
+msgid "But so be it! You have thrown your lot in with <i>him</i>, and now you will reap the baby-soft consequences."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-0/c-5/31
+msgctxt "Kristof"
+msgid "Do not come crying to me when you are so weak you cannot even lift a bag of chips!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/0
+msgctxt "Dunk"
+msgid "Goddamn, that crosstrainer is intense."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/8
+msgctxt "Dunk"
+msgid "If bringing the mood down was a sport, he'd be a gold medalist for sure."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "You could learn a lot from him."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Right? Good vibes only!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "I don't even wanna waste time talking about him."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/c-6/13
+msgctxt "Dunk"
+msgid "Whaaat? No way!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/c-6/24
+msgctxt "Dunk"
+msgid "I'm always open to learning but all that guy knows is 'VIOLENCE'!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/c-6/32
+msgctxt "Dunk"
+msgid "I've tried talking him out of it so many times... I don't like giving up on people but he's just kinda like that."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/c-6/40
+msgctxt "Dunk"
+msgid "Maybe he'll snap out of it one of these days... but not today."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/c-7/7
+msgctxt "Dunk"
+msgid "Hell yeah man! Back to the program!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-1/c-8/7
+msgctxt "Dunk"
+msgid "Yeah, yeah! We got our own stuff to get back to!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/3
+msgctxt "Dunk"
+msgid "Anyway... today's activity is WEIGHTS!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/11
+msgctxt "Narrator"
+msgid "He gestures to the weights you've long since abandoned—they're still in decent condition, if a little dusty in places."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/19
+msgctxt "Dunk"
+msgid "Nothin' like a good lift. You can work your whole body out!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/27
+msgctxt "Dunk"
+msgid "Anybody can get a good burn goin' with weights, even if you're only liftin' a couple pounds to start."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/35
+msgctxt "Dunk"
+msgid "It's a great place to start your fitness journey—there ain't no rules, no competition... all you need is yourself and a good attitude!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/43
+msgctxt "Dunk"
+msgid "So? Ready to get started?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/51
+msgctxt "Narrator"
+msgid "Dunk is so cheerful and confident, it's probably more work than it's worth to turn him down. You could, but... do you really want to hurt his feelings?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/59/s/0
+msgctxt "Choix"
+msgid "I am not lifting weights with you, weirdo."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/60/s/0
+msgctxt "Choix"
+msgid "Alright, let's do this."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/61/s/0
+msgctxt "Choix"
+msgid "LET'S GET IT BABY!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/13
+msgctxt "Dunk"
+msgid "Aww..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/21
+msgctxt "Dunk"
+msgid "Well... maybe weights aren't your thing."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/29
+msgctxt "Dunk"
+msgid "And that's okay, not everything is everyone's favorite!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/37
+msgctxt "Dunk"
+msgid "We'll just have to try something else for ya next time."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/45
+msgctxt "Dunk"
+msgid "Yeah, maybe yoga... meet me by the yoga mat."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/0/s/0
+msgctxt "Choix"
+msgid "Stop trying to make me like sports."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/1/s/0 dunk_sports/dunk_yoga_experience/0/33/s/0 dunk_sports/dunk_yoga_end/0/34/s/0
+msgctxt "Choix"
+msgid "I guess..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-0/13
+msgctxt "Dunk"
+msgid "Hey! Take that negative talk somewhere else, buddy!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-0/24
+msgctxt "Dunk"
+msgid "We'll try again another day, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-0/32
+msgctxt "Dunk"
+msgid "Go hit the showers and take a load off."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/7
+msgctxt "Dunk"
+msgid "Don't worry. There's something out there for everybody."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/15
+msgctxt "Dunk"
+msgid "We'll get you movin' and shakin' in no time, pal."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/23
+msgctxt "Dunk"
+msgid "But in the meantime hit the showers and take a load off!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/31
+msgctxt "Dunk"
+msgid "We'll try again another day!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-10/7
+msgctxt "Dunk"
+msgid "Let's DO THIS!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-2/c-11/7
+msgctxt "Dunk"
+msgid "HELL YEAH LET'S GET IT!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/0
+msgctxt "Narrator"
+msgid "You lift weights for a while under Dunk's supervision—he ensures your form is always correct, and that you're not lifting more than you can handle."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/8
+msgctxt "Narrator"
+msgid "He never pushes you too much—he only kindly encourages you when he sees you growing tired, or if he knows you have just a bit more left in you."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/16
+msgctxt "Narrator"
+msgid "When he calls time, you sit down, sweatier and more exhausted than you've been in a while."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/24
+msgctxt "Dunk"
+msgid "Yo! That was amazing, especially for a first session!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/32
+msgctxt "Dunk"
+msgid "You doin' ok, buddy?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/40/s/0
+msgctxt "Choix"
+msgid "Oh yeah, this is nothing."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/41/s/0
+msgctxt "Choix"
+msgid "I'm tired... but I feel good."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/42/s/0
+msgctxt "Choix"
+msgid "Do I look like I'm doing okay, dummy?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-12/7
+msgctxt "Dunk"
+msgid "It's not nothin'! It's definitely somethin'!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-12/15
+msgctxt "Dunk"
+msgid "Make sure you don't push yourself too hard, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-12/23
+msgctxt "Dunk"
+msgid "Everybody's always tryin' to make it a race... but there's always gonna be somebody stronger than you."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-12/31
+msgctxt "Dunk"
+msgid "You just gotta do your best."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-13/7
+msgctxt "Dunk"
+msgid "That's great! Make sure you take it easy the rest of the day, okay?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-13/15
+msgctxt "Dunk"
+msgid "Restin' up after hittin' it hard is just as important!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/13
+msgctxt "Dunk"
+msgid "Well yeah, you look alright... but you can't always tell by lookin', so I gotta ask!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/21
+msgctxt "Dunk"
+msgid "You don't gotta be mean..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/32
+msgctxt "Dunk"
+msgid "I'm just checkin' up on ya. If you're hurting take it easy, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/40
+msgctxt "Dunk"
+msgid "Try soaking in the tub with some epsom salts, and make sure you stretch real good."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/48
+msgctxt "Dunk"
+msgid "And look, speaking of stretching... next time we'll try yoga."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/56
+msgctxt "Dunk"
+msgid "Which might also make you sore, but it'll help ya deal with any future sore muscles too."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/64
+msgctxt "Dunk"
+msgid "See you at the yoga mat, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-3/c-14/72
+msgctxt "Dunk"
+msgid "Hit the showers and take it easy!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/0
+msgctxt "Dunk"
+msgid "If you're sore tomorrow—which you probably will be—make sure you take care of yourself."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/8
+msgctxt "Dunk"
+msgid "Try soaking in a bath with epsom salts, or use a heating pad... you can even try a massage if you got a massager or anything like that."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/16
+msgctxt "Dunk"
+msgid "And it might sound like the exact opposite of what you need, but trust me... keeping that body moving when you're sore only helps."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/24
+msgctxt "Dunk"
+msgid "You lay around and feel sorry for yourself it just gets worse!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/32
+msgctxt "Dunk"
+msgid "But I got something that'll help. Next time we'll do some yoga."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/40
+msgctxt "Dunk"
+msgid "I mean, it'll make you sore too at first... but it'll help you with the rest of the stuff we do."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/48/s/0
+msgctxt "Choix"
+msgid "Don't assume there's gonna be a next time."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/49/s/0
+msgctxt "Choix"
+msgid "Sounds great."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/50/s/0
+msgctxt "Choix"
+msgid "Alright..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/c-15/13
+msgctxt "Dunk"
+msgid "Nooo, don't say that! That's bummer talk!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/c-15/24
+msgctxt "Dunk"
+msgid "You gotta stay positive. Maybe just go and rest for now..."
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/c-15/32
+msgctxt "Dunk"
+msgid "And I'll see you at the yoga mat!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/c-16/7
+msgctxt "Dunk"
+msgid "Hell yeah! Love that attitude!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/c-16/15 dunk_sports/dunk_weights_experience/0/g-4/c-17/15
+msgctxt "Dunk"
+msgid "See you at the yoga mat!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_experience/0/g-4/c-17/7
+msgctxt "Dunk"
+msgid "You're gonna love it, just wait."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/0
+msgctxt "Narrator"
+msgid "Dunk is in the middle of a downward dog pose, showing off surprising flexibility for someone with a physique as rugged as his."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/8
+msgctxt "Narrator"
+msgid "When he sees you he straightens up and waves, but not before you've gotten a good long look at him in a rather compromising position."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/16
+msgctxt "Dunk"
+msgid "Hey hey! There's my favorite new workout buddy!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/24
+msgctxt "Dunk"
+msgid "Ready to try some yoga?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/32/s/0
+msgctxt "Choix"
+msgid "I love yoga!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/34/s/0
+msgctxt "Choix"
+msgid "Why do I feel like you don't care what my answer is?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/c-0/7
+msgctxt "Dunk"
+msgid "Ahh man, yes! I love to hear that!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/c-1/7 dunk_sports/dunk_yoga_experience/0/c-2/7
+msgctxt "Dunk"
+msgid "Hey hey, cheer up buddy! Yoga rules!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/c-2/15
+msgctxt "Dunk"
+msgid "...is what I would say if I wasn't paying attention!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/c-2/23
+msgctxt "Dunk"
+msgid "Of course I care what your answer is!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/c-2/31
+msgctxt "Dunk"
+msgid "But if you're feeling scared, don't be."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/0
+msgctxt "Dunk"
+msgid "Yoga is popular these days, but when I first started doin' it you wouldn't believe how many of my fellow athletes wouldn't take it seriously."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/8
+msgctxt "Dunk"
+msgid "Even now you still got equipment like Kris who thinks it's soft stuff for babies and nothin' could be further from the truth!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/16
+msgctxt "Dunk"
+msgid "But also like, who cares if it's soft or not? Real strength comes from not carin' about other people's opinions!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/24
+msgctxt "Dunk"
+msgid "We're gonna get our yoga on and nobody's gonna tell us we can't!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/32
+msgctxt "Narrator"
+msgid "As if on cue, another household object appears in your periphery, perhaps, to tell you you can't."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/49
+msgctxt "Shelley"
+msgid "Whattup whattup whattup!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/60
+msgctxt "Narrator"
+msgid "Dunk's normally unflappable smile grows slightly rigid."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/68
+msgctxt "Dunk"
+msgid "Ahh, Shelley, hey... we were just about to-"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/76
+msgctxt "Shelley"
+msgid "Do some yoga? Yeah I heard."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/84
+msgctxt "Narrator"
+msgid "Shelley throws her muscled arms around the two of you, bringing you in for an uncomfortable group hug."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/95
+msgctxt "Narrator"
+msgid "She's squeezing far too tight, evidently unaware of just how strong she is."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/106
+msgctxt "Shelley"
+msgid "But like, why do yoga when you could LIFT?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/114
+msgctxt "Shelley"
+msgid "Do you know how good at huggin' you can be when you LIFT?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/122
+msgctxt "Narrator"
+msgid "Dunk manages to free himself from Shelley's death grip—you feel his strong fingertips wedging between Shelley's arm and your shoulder."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/130
+msgctxt "Dunk"
+msgid "Lifting IS good for your hug muscles, there's no doubt about that—but you gotta have a balance, dude."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/138
+msgctxt "Dunk"
+msgid "Besides, yoga builds strength too."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/146
+msgctxt "Narrator"
+msgid "Dunk finally manages to pop you out of Shelley's grasp, but she seems entirely unbothered by your escape."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/154
+msgctxt "Shelley"
+msgid "Balance? Nah bro. You gotta GRAB LIFE BY THE SCREWS!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/162
+msgctxt "Shelley"
+msgid "You don't want our good pal here to miss out on the best in life because they were too busy bendin' over and staring at the floor!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/170
+msgctxt "Dunk"
+msgid "Shelley, my dude, respectfully... life ain't all about lifting."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/178
+msgctxt "Narrator"
+msgid "Shelley's mouth drops open, as though Dunk has just said something absolutely unthinkable. It might be a good time to intervene."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/186/s/0
+msgctxt "Choix"
+msgid "Lifting sucks."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/187/s/0
+msgctxt "Choix"
+msgid "Lifting is great, but it can't be all you do."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/188/s/0
+msgctxt "Choix"
+msgid "Why are you here?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/c-3/7
+msgctxt "Narrator"
+msgid "Shelley gasps so long and so loud you start to wonder if you've said something worse than you remembered."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/c-3/18
+msgctxt "Narrator"
+msgid "Dunk attempts to intervene, waving his hands frantically."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/c-3/32
+msgctxt "Dunk"
+msgid "Ahhh no no, that's not what I'm sayin' at all!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/c-4/7
+msgctxt "Dunk"
+msgid "Exactly!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/c-5/7
+msgctxt "Shelley"
+msgid "I told ya! I gotta make sure you're committing yourself to being the best you you can be!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/c-5/15
+msgctxt "Shelley"
+msgid "For everybody else! You gotta get strong for everyone else in your life!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-0/c-5/23
+msgctxt "Dunk"
+msgid "Shelley... come on."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/0
+msgctxt "Dunk"
+msgid "Lifting is great! But it's just part of the routine!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/8
+msgctxt "Shelley"
+msgid "How can you say that!?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/16
+msgctxt "Shelley"
+msgid "How else are you gonna lift your friends up and carry all their burdens and make them a part of you until you push them away or you collapse under the strain of it all?!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/24
+msgctxt "Shelley"
+msgid "Why that's no way to live at all!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/32
+msgctxt "Dunk"
+msgid "Look, we all got our priorities... it's great that you wanna do that to- I mean, for your friends."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/40
+msgctxt "Dunk"
+msgid "But what kind of world would this be if we all did Shelley's job?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/48
+msgctxt "Shelley"
+msgid "...I'm not... sure..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/56
+msgctxt "Narrator"
+msgid "This seems to break something in Shelley. She wanders away, muttering to herself."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/64
+msgctxt "Shelley"
+msgid "...what if everyone did Shelley's job... so many muscles..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/78
+msgctxt "Narrator"
+msgid "Dunk exhales, placing his hands on his hips as he takes a moment to recenter himself."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/86
+msgctxt "Dunk"
+msgid "Calm... calm."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/97
+msgctxt "Dunk"
+msgid "Okay. Yoga time!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/105
+msgctxt "Dunk"
+msgid "So first of all, how'd you feel about yoga? You ever do it before?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/113/s/0
+msgctxt "Choix"
+msgid "I'm not much for yoga."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/114/s/0
+msgctxt "Choix"
+msgid "I LOVE yoga."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/115/s/0
+msgctxt "Choix"
+msgid "I'm not buying whatever you're selling, dude."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-6/7
+msgctxt "Dunk"
+msgid "Uh uh uh, that was the old you. The NEW you might love it!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-6/15
+msgctxt "Dunk"
+msgid "Let's just try it and see."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-7/7
+msgctxt "Dunk"
+msgid "Yessss. Love to hear that."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-8/17
+msgctxt "Narrator"
+msgid "Dunk looks truly pained."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-8/25
+msgctxt "Dunk"
+msgid "Oh... I'm not <i>selling</i> anything, buddy... I don't even make any money off this!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-8/33
+msgctxt "Dunk"
+msgid "I'm just trying to show you the joy of sports..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-8/41
+msgctxt "Dunk"
+msgid "But okay, I hear you. Maybe yoga ain't your thing."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-8/49
+msgctxt "Dunk"
+msgid "Maybe what you really need is the traditional sports experience."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-8/57
+msgctxt "Dunk"
+msgid "Next time you come here just meet me by the sports equipment and we'll pick something nice for ya."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-1/c-8/71
+msgctxt "Dunk"
+msgid "See you next time—tomorrow's another day!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/0
+msgctxt "Dunk"
+msgid "Alright alright, let's get into it."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/8
+msgctxt "Dunk"
+msgid "How about we start with a nice down dog pose?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "I need you to show me."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "Here goes, I guess..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "You mean like this?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/c-9/7
+msgctxt "Dunk"
+msgid "Can do!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/c-9/18
+msgctxt "Dunk"
+msgid "Okay, just go ahead and put your hands down in front of you, like this..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/c-9/26
+msgctxt "Narrator"
+msgid "Dunk demonstrates the move for you, placing his hands on the floor and bending down in a V-shape. His movements are fluid and easy, and when he's done he turns to look over at you with a bright smile."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/c-9/34
+msgctxt "Dunk"
+msgid "Make sense? Your turn!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-2/c-10/7
+msgctxt "Dunk"
+msgid "You got this!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/0
+msgctxt "Narrator"
+msgid "You bend down into a decent downward-facing dog pose, keeping your feet shoulder-width apart and placing your hands palms down on the mat ahead of you. Your body forms a graceful triangle shape."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/8
+msgctxt "Narrator"
+msgid "Dunk is elated to see your excellent posture."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/16
+msgctxt "Dunk"
+msgid "Yeah, yeah! That's it! You're killing it!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/27
+msgctxt "Dunk"
+msgid "Now see if you can lift your leg up behind you so you're in a kinda standing split."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/35
+msgctxt "Narrator"
+msgid "Dunk lifts one leg from the ground until it's parallel with his arms, continuing even beyond that until he's in a proper split."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/43
+msgctxt "Narrator"
+msgid "He's surprisingly flexible for such a big guy."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/51/s/0
+msgctxt "Choix"
+msgid "<i>Do your best.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/52/s/0
+msgctxt "Choix"
+msgid "I'm not doing that."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/53/s/0
+msgctxt "Choix"
+msgid "<i>Pull a perfect split.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/c-12/7
+msgctxt "Narrator"
+msgid "You lift your leg as far up as you can, and while you don't get anywhere close to Dunk's level of flexibility, he seems just as excited as if you had."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/c-12/15
+msgctxt "Dunk"
+msgid "Hey yeah, that's it! You got this!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/c-12/26
+msgctxt "Dunk"
+msgid "You're giving it your all!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/c-13/7
+msgctxt "Dunk"
+msgid "Aww... I think you might surprise yourself if you tried."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/c-13/15
+msgctxt "Dunk"
+msgid "But that's okay, maybe it's just not your thing."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/c-14/7
+msgctxt "Dunk"
+msgid "Whoooah yeah! That's it!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-3/c-14/18
+msgctxt "Dunk"
+msgid "See? You've already got such a solid base!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/4
+msgctxt "Narrator"
+msgid "Dunk leads you through several poses, encouraging you and guiding you wherever you may need."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/12
+msgctxt "Narrator"
+msgid "He's an excellent instructor, always considering your body's limitations as he takes you into your next position."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/20
+msgctxt "Narrator"
+msgid "By the time you're done, the two of you have worked up a good sweat. There's almost a sort of intimacy to the whole thing—you can't really remember the last time you did something like this with someone else."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/28
+msgctxt "Dunk"
+msgid "This is great. You're doing real good."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/36
+msgctxt "Dunk"
+msgid "Why don't we cool down with a nice cross-legged sit here?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/44
+msgctxt "Narrator"
+msgid "Dunk motions to you to take a seat across from him on the mat. As you take your place on the floor you find that for once his boundless energy has simmered down just a bit."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/52/s/0
+msgctxt "Choix"
+msgid "You're awfully flexible for such a big dude."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/53/s/0
+msgctxt "Choix"
+msgid "How do you keep your energy up all the time?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/54/s/0
+msgctxt "Choix"
+msgid "You ever do any of those poses in... other situations?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-15/7
+msgctxt "Dunk"
+msgid "Thank you! A lotta big guys like to focus on getting big and staying big."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-15/15
+msgctxt "Dunk"
+msgid "They don't think about how connected everything is."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-15/23
+msgctxt "Dunk"
+msgid "Like if you're squatting... being flexible makes your squats deeper!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-15/31
+msgctxt "Dunk"
+msgid "And yoga is way more than flexibility—it builds strength and centers you."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-15/39
+msgctxt "Dunk"
+msgid "I don't like feeling confined to one thing. Dunk means sports, baby!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-15/47
+msgctxt "Dunk"
+msgid "If that's football, basketball, weights, chess... it's all good!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-16/7
+msgctxt "Dunk"
+msgid "I don't! I get tired just like everybody else!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-16/15
+msgctxt "Narrator"
+msgid "Dunk grins at you, doing absolutely nothing to sell the point that he does run out of energy every now and again."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-16/23
+msgctxt "Dunk"
+msgid "We all gotta have rest days, even me!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-16/31
+msgctxt "Dunk"
+msgid "You never take a rest day... you end up like Shelley."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-16/39
+msgctxt "Narrator"
+msgid "Dunk looks quickly over at Shelley, who is still puzzling over what it might mean for everyone to do Shelley's job."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-16/47
+msgctxt "Dunk"
+msgid "...just take your rest days, man."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-17/7
+msgctxt "Dunk"
+msgid "Other situations?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-17/15
+msgctxt "Narrator"
+msgid "His eyebrows raise."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_experience/0/g-4/c-17/23
+msgctxt "Dunk"
+msgid "You mean like... at breakfast? Or in the shower?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/0
+msgctxt "Narrator"
+msgid "Dunk breathes in deeply, in and out, seeming to relax further for just a moment—and then he's clapping his hands together and back to his usual energetic self."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/8
+msgctxt "Dunk"
+msgid "Great workout today man, really. You killed it."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/16
+msgctxt "Dunk"
+msgid "Next time we're gonna do some good old-fashioned sports!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/24
+msgctxt "Dunk"
+msgid "I'll even let you choose the ball!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/32/s/0
+msgctxt "Choix"
+msgid "I don't want to play sports..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/33/s/0
+msgctxt "Choix"
+msgid "Sounds fun!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/c-0/13
+msgctxt "Dunk"
+msgid "Uh uh! Save that quitter talk for somebody else, champ!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/c-1/7
+msgctxt "Dunk"
+msgid "Hell yeah, that's the attitude!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_end/0/c-2/7
+msgctxt "Dunk"
+msgid "Aw, don't sound so down! We're gonna have a great time."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/0/s/0
+msgctxt "Choix"
+msgid "I think you know what I mean."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/1/s/0
+msgctxt "Choix"
+msgid "<i>Make lewd hand gestures.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/2/s/0
+msgctxt "Choix"
+msgid "You know..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/c-0/7
+msgctxt "Dunk"
+msgid "Uh, I do?"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/c-0/15
+msgctxt "Narrator"
+msgid "He looks at you for a very, very long time. Neither of you speak as he tries to make sense of this."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/c-0/23
+msgctxt "Narrator"
+msgid "Eventually he nods very slowly."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/c-0/31
+msgctxt "Dunk"
+msgid "I totally know what you mean. Yeah, 100% got you. All over it."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/c-0/39
+msgctxt "Dunk"
+msgid "But like, pretend I didn't know what you meant..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/c-1/7
+msgctxt "Narrator"
+msgid "This does not narrow things down for Dunk. He tries to mimic your motions, but nothing is clicking."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/c-2/7
+msgctxt "Narrator"
+msgid "Dunk's eyebrows only raise further."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "I'm talking about sex."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-0/c-3/7
+msgctxt "Dunk"
+msgid "Oh, OH! Yeah, yeah, I know what that is."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-0/c-3/15
+msgctxt "Narrator"
+msgid "He waggles his eyebrows at you, giving you a grin so broad you can practically hear a cartoon sparkle sound effect as he reveals rows of perfect teeth."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-0/c-3/23
+msgctxt "Dunk"
+msgid "Yeah, yeah. I mean, I respect the yoga, you know..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-0/c-3/31
+msgctxt "Dunk"
+msgid "But some of 'em definitely have their uses in the bedroom... or in the locker room... under the bleachers..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-0/c-3/39
+msgctxt "Dunk"
+msgid "Maybe when we're done with our little circuit here I'll show you."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "I'd like that."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "Eww."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "We'll see..."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-1/c-4/7
+msgctxt "Dunk"
+msgid "Me too. Sex rules."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-1/c-5/7
+msgctxt "Dunk"
+msgid "Ah shit, sorry!"
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-1/c-5/15
+msgctxt "Dunk"
+msgid "I won't show you then. You can just let me know if you're up for it."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_flirting/0/g-1/c-6/7
+msgctxt "Dunk"
+msgid "Guess we will..."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/0
+msgctxt "Narrator"
+msgid "Dunk is dribbling a basketball when you find him today—he handles it with a practiced ease, bouncing it between his legs and twirling it on the end of one finger."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/8
+msgctxt "Dunk"
+msgid "Hey hey, you made it!"
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/16
+msgctxt "Narrator"
+msgid "He passes you the ball. You..."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/24/s/0
+msgctxt "Choix"
+msgid "<i>Duck and cover.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/25/s/0
+msgctxt "Choix"
+msgid "<i>Catch it easily.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/26/s/0
+msgctxt "Choix"
+msgid "<i>Kick it across the room.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-0/7
+msgctxt "Narrator"
+msgid "The ball sails straight past your head, smashing into the wall and knocking some ancient trophies down from the shelf."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-0/15
+msgctxt "Narrator"
+msgid "You hear Shelley cry out, but her yelling is drowned out by a much louder crash and a high-pitched shriek."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-1/7
+msgctxt "Narrator"
+msgid "Dunk is delighted by even this small display of bare-minimum athleticism."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-1/15
+msgctxt "Dunk"
+msgid "Hell yeah! Great catch!"
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-1/26
+msgctxt "Narrator"
+msgid "He takes the ball from you, setting it aside."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-2/7
+msgctxt "Narrator"
+msgid "Your foot connects with the ball and sends it launching across the room kickball-style."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-2/15/b/1
+msgctxt "Narrator"
+msgid "It flies out of Dunk's reach, smashing into the wall and bouncing back past your head. When you turn to see what's happened, there's a pile of ancient trophies on the floor... and one very, very upset Stepford."
+msgstr ""
+
+#: dunk_sports/dunk_sports_experience/0/c-2/16/b/1
+msgctxt "Narrator"
+msgid "It flies out of Dunk's reach, smashing into the wall and bouncing back past your head. When you turn to see what's happened, there's a pile of ancient trophies on the floor... and one very, very upset..."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/3
+msgctxt "Stepford"
+msgid "<w>BY DOOOOOOSE!</w>"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/17
+msgctxt "Narrator"
+msgid "A glittering, golden beauty clutches his nose, running at you and Dunk with an absolute river of tears streaming down his cheeks."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/25
+msgctxt "Stepford"
+msgid "HOW COULD YOU! DO YOU KNOW WHAT YOU'VE DONE?!"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/36
+msgctxt "Dunk"
+msgid "Sorry, buddy! That's our bad. I thought they were gonna catch it..."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/44
+msgctxt "Dunk"
+msgid "Can we see?"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/55
+msgctxt "Narrator"
+msgid "Stepford removes his hands from his nose, gingerly feeling it to assess the damage. His nose looks oddly squashed—you can safely assume one of those many dusty trophies is now dented."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/63
+msgctxt "Stepford"
+msgid "How bad is it?"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/71/s/0
+msgctxt "Choix"
+msgid "I wouldn't look in the mirror if I were you."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/72/s/0
+msgctxt "Choix"
+msgid "You look great."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/73/s/0
+msgctxt "Choix"
+msgid "Damn Dunk, I can't believe you ruined this dude's face."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-0/7
+msgctxt "Stepford"
+msgid "NO!"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-0/18 dunk_sports/stepford_hit/0/c-1/18
+msgctxt "Narrator"
+msgid "He runs past you, crying pitifully."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-0/26
+msgctxt "Dunk"
+msgid "Oh man... what a bummer. Poor Stepford."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-1/7
+msgctxt "Stepford"
+msgid "NO I DON'T!"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-2/13
+msgctxt "Narrator"
+msgid "Stepford turns to look at Dunk, rage and sadness radiating from his formerly pretty face."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-2/21
+msgctxt "Stepford"
+msgid "YOU! YOU DID THIS TO ME!"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-2/29
+msgctxt "Dunk"
+msgid "N-no, no, no I didn't mean to! I-I was just-"
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/c-2/40
+msgctxt "Stepford"
+msgid "I'm just gonna... go..."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/g-0/6
+msgctxt "Narrator"
+msgid "Dunk gives you an awkward smile in the silence that follows."
+msgstr ""
+
+#: dunk_sports/stepford_hit/0/g-0/14
+msgctxt "Dunk"
+msgid "So uh... sports, huh?"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/4
+msgctxt "Narrator"
+msgid "Dunk claps his hands together, as though he's psyching himself up."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/12
+msgctxt "Dunk"
+msgid "SPORTS, BABY!"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/23
+msgctxt "Narrator"
+msgid "He turns to pick up the baseball and football from behind him, holding one in each hand."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/31
+msgctxt "Dunk"
+msgid "We already had a little taste of basketball, so let's just stick with these two."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/39
+msgctxt "Dunk"
+msgid "What'd you think? Baseball? Football?"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/47
+msgctxt "Narrator"
+msgid "He holds them both out to you, alternately raising one up, then the other."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/55/s/0
+msgctxt "Choix"
+msgid "Football."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/56/s/0
+msgctxt "Choix"
+msgid "Baseball."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/57/s/0
+msgctxt "Choix"
+msgid "Neither, ew."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/13
+msgctxt "Narrator"
+msgid "Dunk sighs, his muscled shoulders sagging."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/21
+msgctxt "Dunk"
+msgid "Ahhh c'mon... is it really that bad?"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/0/s/0
+msgctxt "Choix"
+msgid "Some of us have had bad experiences with sports."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/1/s/0
+msgctxt "Choix"
+msgid "Stop bullying me, jock."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/2/s/0
+msgctxt "Choix"
+msgid "Yeah, it sucks!"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-0/7
+msgctxt "Dunk"
+msgid "I thought it would be nice for us to throw the ball around... do some bonding..."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-0/15
+msgctxt "Dunk"
+msgid "But I guess if you hate it that much I can't make you... maybe ball-based sports just ain't your thing."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-1/13
+msgctxt "Narrator"
+msgid "Dunk clutches his chest, wincing in actual pain."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-1/21
+msgctxt "Dunk"
+msgid "I'm not! I'd never... please... don't say that."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-1/32
+msgctxt "Dunk"
+msgid "I just want you to have fun... to give sports a chance..."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-1/40
+msgctxt "Dunk"
+msgid "Maybe ball-based sports are too painful for you... I understand."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-2/13
+msgctxt "Dunk"
+msgid "Why do you have to say it so mean... what did sports ever do to you?"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-2/24
+msgctxt "Dunk"
+msgid "No, no, no, don't tell me. Don't tell me. It's too painful."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/c-2/32
+msgctxt "Dunk"
+msgid "Alright. Maybe you just don't like ball-based sports... and that's fine. Just fine."
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_1/0/c-2/29/g-0/0
+msgctxt "Dunk"
+msgid "Okay, yeah, yeah. We'll just do something totally different!"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/0
+msgctxt "Narrator"
+msgid "Dunk sets the baseball down, a look of genuine excitement on his handsome face."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/8
+msgctxt "Dunk"
+msgid "Ahh man. You know, there's nothing like goin' back to basics. Just tossin' the ball back and forth..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/16
+msgctxt "Narrator"
+msgid "He passes the ball to you—a gentle but graceful throw that seems to find your hands with hardly any effort of your own."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/24
+msgctxt "Dunk"
+msgid "Just takes me right back to bein' on the field, you know?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/32/s/0 dunk_sports/dunk_baseball/0/44/s/0
+msgctxt "Choix"
+msgid "You played football?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/33/s/0
+msgctxt "Choix"
+msgid "Spare me the flashbacks to your glory days, has-been."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/34/s/0
+msgctxt "Choix"
+msgid "I've always liked football."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-0/7
+msgctxt "Dunk"
+msgid "Sure did! Most of my existence, really."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-0/15
+msgctxt "Dunk"
+msgid "I haven't really done this since I turned down gettin' drafted."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-0/23
+msgctxt "Dunk"
+msgid "Everyone wanted me to do it, but it just felt like getting paid would ruin everything..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-1/13
+msgctxt "Dunk"
+msgid "Damn... why you gotta throw that dig in there?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-1/21
+msgctxt "Dunk"
+msgid "Not like I had any real glory days anyway... I turned down goin' pro."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-1/29
+msgctxt "Dunk"
+msgid "Everyone said even meaner stuff than you back then. But even still..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-1/37
+msgctxt "Dunk"
+msgid "I played for the sheer joy of it. Felt like getting paid woulda ruined everything."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-2/7
+msgctxt "Dunk"
+msgid "Oh yeah! I was good enough to go pro, actually."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/c-2/15
+msgctxt "Dunk"
+msgid "But I never wanted that. I kinda felt like... if I started getting paid to do it..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/0
+msgctxt "Dunk"
+msgid "It wasn't about the love of the game at that point."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/8
+msgctxt "Dunk"
+msgid "My dad was real mad at me when he found out I turned down the big leagues..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/16
+msgctxt "Dunk"
+msgid "It was his dream and he just couldn't understand why it wasn't mine too."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "I'm sorry your dad put so much pressure on you."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "What an asshole."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "What is your dream, Dunk?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/c-3/7
+msgctxt "Dunk"
+msgid "Thanks, man. I wish he was as understanding as you."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/c-3/15
+msgctxt "Dunk"
+msgid "We're mostly cool now, but I know it still bums him out."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/c-4/13
+msgctxt "Dunk"
+msgid "Hey man, I appreciate the support but don't talk about my pops like that."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/c-4/21
+msgctxt "Dunk"
+msgid "He just wanted what he thought was the best for me."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/c-4/29
+msgctxt "Dunk"
+msgid "Even if he wasn't real good at expressing that."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-0/c-5/7
+msgctxt "Dunk"
+msgid "My dream? Well..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/0
+msgctxt "Narrator"
+msgid "You throw the ball to Dunk, and though your toss is much clumsier than his he catches it easily."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/8
+msgctxt "Dunk"
+msgid "You know... I don't have a big glorious dream like everybody else."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/16
+msgctxt "Dunk"
+msgid "My dream is just bein' happy. Is that weird?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/24
+msgctxt "Dunk"
+msgid "I just wanna enjoy life and keep my body strong."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/32
+msgctxt "Dunk"
+msgid "I don't want money or fame or glory or whatever... I just wanna be happy."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "I feel the same way."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "It's not weird at all."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/42/s/0
+msgctxt "Choix"
+msgid "That's so lame."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-6/7 dunk_sports/dunk_baseball/0/g-1/c-7/7
+msgctxt "Dunk"
+msgid "...yeah?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-6/15 dunk_sports/dunk_baseball/0/g-1/c-7/15
+msgctxt "Narrator"
+msgid "He gives you a soft smile, his usual high-energy cheer replaced by a surprising sweetness."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-6/23 dunk_sports/dunk_baseball/0/g-1/c-7/23
+msgctxt "Narrator"
+msgid "It's quite charming."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-7/7
+msgctxt "Dunk"
+msgid "Hey, thanks for sayin' so."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-7/15
+msgctxt "Dunk"
+msgid "I don't feel like a lot of people agree with us... but I'm glad you do."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-8/13
+msgctxt "Narrator"
+msgid "Dunk is in the middle of winding up for another pass, but when he hears your response he only sighs, keeping a hold of the ball."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-8/21
+msgctxt "Dunk"
+msgid "Alright. Guess that's enough throwin' the ball around for today."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-1/c-8/29 dunk_sports/dunk_football/0/g-2/c-11/37 dunk_sports/dunk_baseball/0/g-1/c-8/37 dunk_sports/dunk_baseball/0/g-2/c-10/40
+msgctxt "Dunk"
+msgid "Maybe we should just try something totally different..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/0
+msgctxt "Dunk"
+msgid "I honestly thought I was alone on all this."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/8
+msgctxt "Dunk"
+msgid "Athletes are real intense, you know?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/16
+msgctxt "Dunk"
+msgid "Every single sport I've played, there was always a bunch of people around me makin' it way less fun than it could be."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/24
+msgctxt "Dunk"
+msgid "Everybody just wants to win or be the best!"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/32
+msgctxt "Dunk"
+msgid "What happened to just having fun?"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/40/s/0
+msgctxt "Choix"
+msgid "Maybe I'd have played more sports if more people thought like you."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/41/s/0
+msgctxt "Choix"
+msgid "It's not even just sports... nobody's okay with just being bad at something."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/42/s/0
+msgctxt "Choix"
+msgid "The point of sports is to win, so..."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/c-9/7
+msgctxt "Dunk"
+msgid "...damn. You know all the right things to say."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/c-9/15
+msgctxt "Dunk"
+msgid "That's all I wanna hear. I just want people to be happy."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/c-10/7
+msgctxt "Dunk"
+msgid "Right? People think if you ain't goin' to the Olympics you're wasting your time!"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/c-10/15
+msgctxt "Dunk"
+msgid "Fuck that! Having fun is just as important."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/c-11/13 dunk_sports/dunk_baseball/0/g-1/c-8/13
+msgctxt "Dunk"
+msgid "No it isn't, man... it isn't at all!"
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/c-11/21 dunk_sports/dunk_baseball/0/g-1/c-8/21
+msgctxt "Narrator"
+msgid "He puts the ball down, clearly disappointed."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-2/c-11/29 dunk_sports/dunk_baseball/0/g-1/c-8/29 dunk_sports/dunk_baseball/0/g-2/c-10/32
+msgctxt "Dunk"
+msgid "Alright, alright. We've done enough for today."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-3/0
+msgctxt "Narrator"
+msgid "Dunk tosses the ball back to you one last time, giving you a sweet grin when you catch it handily."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-3/8
+msgctxt "Narrator"
+msgid "Something about his passes just <i>feel</i> better in your hands—perhaps he just knows how to be a team player."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-3/16
+msgctxt "Dunk"
+msgid "Great hustle today. Seriously."
+msgstr ""
+
+#: dunk_sports/dunk_football/0/g-3/24
+msgctxt "Dunk"
+msgid "I'm proud of you."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/0
+msgctxt "Dunk"
+msgid "Oh hell yeah, baseball!"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/11
+msgctxt "Dunk"
+msgid "It really takes me back, you know."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/19
+msgctxt "Narrator"
+msgid "He tosses the baseball to you, and to your pleasant surprise you catch it easily."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/27
+msgctxt "Narrator"
+msgid "You'd been expecting some sort of fastball, but Dunk seems uninterested in styling on you."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/35
+msgctxt "Dunk"
+msgid "I had a little stint playin' baseball for a while... football was more my thing."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/43/s/0
+msgctxt "Choix"
+msgid "Why's your nickname Dunk then?"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/45/s/0
+msgctxt "Choix"
+msgid "You don't really seem like a baseball kinda guy."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-0/7
+msgctxt "Dunk"
+msgid "Well... cause Duncan. And I LOVE basketball!"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-0/15
+msgctxt "Dunk"
+msgid "I mean listen, I play just about everything."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-0/23
+msgctxt "Dunk"
+msgid "But I was real into football most of my life."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-1/7
+msgctxt "Dunk"
+msgid "Oh yeah! I was real good at it, too."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-2/7
+msgctxt "Dunk"
+msgid "What's a baseball kinda guy... seem like..."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-2/15
+msgctxt "Narrator"
+msgid "He narrows his eyes, squinting at you as he tries to parse what this could mean."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-2/23
+msgctxt "Dunk"
+msgid "You think I'm the kinda equipment who likes gettin' hit by a bat?"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/c-2/31
+msgctxt "Dunk"
+msgid "I mean hey, no judgment or anything. But that's not how I like to get down."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/0
+msgctxt "Narrator"
+msgid "You throw the ball back to him, and while your pass is clumsier than his, he still catches it with ease."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/8
+msgctxt "Dunk"
+msgid "I took up baseball after I turned down pro football."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/16
+msgctxt "Dunk"
+msgid "I used to play it for fun before, but... I kinda needed a break."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/24
+msgctxt "Dunk"
+msgid "Everyone around me was so mad at me for 'turning down the chance of a lifetime', my dad especially."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/32
+msgctxt "Dunk"
+msgid "He just couldn't get that playin' competitively at that level was his dream, not mine."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/40
+msgctxt "Dunk"
+msgid "I just couldn't even pick up a football for a while."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/48
+msgctxt "Dunk"
+msgid "I'd always get too sad."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/56/s/0
+msgctxt "Choix"
+msgid "Aww, Dunk..."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/57/s/0
+msgctxt "Choix"
+msgid "I'm sorry your dad couldn't be more supportive."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/58/s/0
+msgctxt "Choix"
+msgid "Oh please. What a hard life you've lead."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-3/7
+msgctxt "Dunk"
+msgid "Hey, don't be sad for me. I'm okay now."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-3/15
+msgctxt "Dunk"
+msgid "But thanks for carin'..."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-4/7
+msgctxt "Dunk"
+msgid "...me too. But thanks for sayin' so."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-4/15
+msgctxt "Dunk"
+msgid "We're okay now, but I don't know if he ever really let that go."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-5/13
+msgctxt "Dunk"
+msgid "...I wasn't sayin' all that."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-5/21
+msgctxt "Narrator"
+msgid "Dunk puts the baseball down, clearly disappointed."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-5/29
+msgctxt "Dunk"
+msgid "Alright. That's enough tossin' the ball around for today."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-5/37
+msgctxt "Dunk"
+msgid "Maybe we'll do somethin' different next... something that ain't ball-based."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-0/c-5/45
+msgctxt "Dunk"
+msgid "Wait, yeah!"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/0
+msgctxt "Dunk"
+msgid "Just seems like everybody wants to be the best at everything all the time."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/8
+msgctxt "Dunk"
+msgid "Nobody just plays to have fun anymore, you know?"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Yeah I hate that."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "I wish more people thought like you."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "The point of sports is to WIN."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/c-6/7
+msgctxt "Dunk"
+msgid "Me too man, and I'm not a hater!"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/c-6/15
+msgctxt "Dunk"
+msgid "But sometimes... sometimes I get close."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/c-7/31
+msgctxt "Dunk"
+msgid "Well... I'm glad you feel like I do."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-1/c-7/39
+msgctxt "Dunk"
+msgid "I don't get why everyone else has to make it so hard."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/0
+msgctxt "Dunk"
+msgid "Sports and exercise should feel good!"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/8
+msgctxt "Dunk"
+msgid "Winning is fun, but if you play a good, clean game..."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/16
+msgctxt "Dunk"
+msgid "You should feel just as good walkin' off that field."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/24
+msgctxt "Dunk"
+msgid "I hope as we do what we're doin' here you can feel that too."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "Oh I do."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "I'm just bored and sweaty."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/34/s/0
+msgctxt "Choix"
+msgid "Don't worry about me, I'm having a great time."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/c-9/7
+msgctxt "Dunk"
+msgid "Good! That's all I wanna hear."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/c-9/15
+msgctxt "Dunk"
+msgid "At least we can keep shit fun here on our own."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/c-10/13
+msgctxt "Dunk"
+msgid "Sweaty is fine, but... bored?"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/c-10/24
+msgctxt "Narrator"
+msgid "He sets the ball down, clearly disappointed."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/c-11/7
+msgctxt "Dunk"
+msgid "Yes! That's just what I wanna hear!"
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-2/c-11/18
+msgctxt "Dunk"
+msgid "I'm so glad."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-3/0
+msgctxt "Narrator"
+msgid "Dunk tosses the ball up in the air, catching it handily."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-3/8
+msgctxt "Dunk"
+msgid "Great hustle today. Real good."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-3/16
+msgctxt "Dunk"
+msgid "We should keep up that positivity... change it up a bit and try something new."
+msgstr ""
+
+#: dunk_sports/dunk_baseball/0/g-3/24
+msgctxt "Dunk"
+msgid "Hmm... okay, yeah!"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_2/0
+msgctxt "Dunk"
+msgid "Next time we'll hit the racquets!"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_2/8
+msgctxt "Dunk"
+msgid "Knock the birdie around... get those arms swingin'!"
+msgstr ""
+
+#: dunk_sports/dunk_sports_join_2/16
+msgctxt "Dunk"
+msgid "Yeah, that'll be great. Meet me at the racquets, pal!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/6
+msgctxt "Narrator"
+msgid "Dunk is swinging a badminton racquet when you see him—his muscles bulge with every powerful stroke of his arms."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/14
+msgctxt "Dunk"
+msgid "Hey hey! Welcome to racquet day!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/25
+msgctxt "Narrator"
+msgid "He hands you a racquet before you can voice any objection."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/33/s/0
+msgctxt "Choix"
+msgid "What am I supposed to do with this..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/34/s/0
+msgctxt "Choix"
+msgid "What a racket! HEYOOOO!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/35/s/0
+msgctxt "Choix"
+msgid "Ooh, badminton?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-0/7
+msgctxt "Dunk"
+msgid "Uh, hit shit with it!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-0/15
+msgctxt "Dunk"
+msgid "Not just anything obviously, but you know. Certain shit."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-0/23
+msgctxt "Dunk"
+msgid "And today... and I guess all the time..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-0/31
+msgctxt "Dunk"
+msgid "Certain shit is the birdie! We're playin' badminton!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-0/39
+msgctxt "Dunk"
+msgid "After all..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/7
+msgctxt "Dunk"
+msgid "Yeah? That's what I said?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "It's spelled differently..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "It was just a dumb joke, forget it."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/c-0/7
+msgctxt "Dunk"
+msgid "There's only one way to spell racquet..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/c-0/15
+msgctxt "Dunk"
+msgid "R-A-K-K-I-T."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/c-0/23
+msgctxt "Dunk"
+msgid "Man... it's a good thing I'm here. Imagine if you said that to somebody else!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/c-0/31
+msgctxt "Dunk"
+msgid "They'd be WAY meaner about it than me, man. But I know you're tryin' your best."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/c-1/7
+msgctxt "Dunk"
+msgid "No, no such thing as a dumb joke, buddy! All jokes rule!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-1/15/c-1/15
+msgctxt "Dunk"
+msgid "Anyway we're gonna be doin' some badminton today! After all..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-2/7
+msgctxt "Dunk"
+msgid "That's right! I do have some tennis racquets here, but..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/c-2/15
+msgctxt "Dunk"
+msgid "We've done a lotta ball-based stuff already. Besides!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/0
+msgctxt "Dunk"
+msgid "Shuttlecock's in the name, baby!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/8
+msgctxt "Dunk"
+msgid "What kinda sports guide would I be if I didn't let you bat the ol' shuttlecock around for a little while?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "I can think of something else I'd like to bat around..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Are there rules for sports guides?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "Don't ask me, you put this on yourself."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/7
+msgctxt "Dunk"
+msgid "Oh yeah?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/15
+msgctxt "Narrator"
+msgid "He stares at you, full of genuine curiosity. It's almost a shame to ruin the moment..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "I'm talking about your dick."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/1/s/0
+msgctxt "Choix"
+msgid "A baseball, obviously."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/2/s/0
+msgctxt "Choix"
+msgid "You really don't do much flirting, do you?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-0/15
+msgctxt "Narrator"
+msgid "Dunk seems caught between flirting and asking for clarification. Eventually he leans in close, lowering his voice."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-0/23
+msgctxt "Dunk"
+msgid "You don't have to bat it around... there's a lot of better things you can do with it."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-0/31
+msgctxt "Narrator"
+msgid "Dunk claps you on the shoulder, his usual cheerful grin in place."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-0/39
+msgctxt "Dunk"
+msgid "But that's a lesson for another day."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-1/7
+msgctxt "Dunk"
+msgid "With a badminton racquet? Ha!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-1/15
+msgctxt "Dunk"
+msgid "You got a lot to learn about sports, buddy..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-2/7
+msgctxt "Dunk"
+msgid "Don't get to do as much as I'd like these days... I don't really get around the house..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-2/15
+msgctxt "Dunk"
+msgid "And everyone in here is uh... well, they're hot and all..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-3/23/c-2/23
+msgctxt "Dunk"
+msgid "But they're real intense."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-4/7
+msgctxt "Dunk"
+msgid "There's rules for everything!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-4/15
+msgctxt "Dunk"
+msgid "That's what makes the game fun—knowin' what to do and what not to do."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/13
+msgctxt "Dunk"
+msgid "Okay, fair. I mighta done that to myself."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/21
+msgctxt "Dunk"
+msgid "But it's uh, what'd you call it? A ruh-ruh, re-ratro, retro..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/0/s/0
+msgctxt "Choix"
+msgid "A rhetorical question?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/1/s/0
+msgctxt "Choix"
+msgid "A retro question?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/2/s/0
+msgctxt "Choix"
+msgid "Just forget it, I don't want your brain to overheat."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/c-0/7
+msgctxt "Narrator"
+msgid "Dunk snaps, pointing."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/c-0/15
+msgctxt "Dunk"
+msgid "YEAH! THAT!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/c-0/23
+msgctxt "Dunk"
+msgid "A question that you don't gotta answer! One of those."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/c-1/7
+msgctxt "Dunk"
+msgid "Yeah, yeah, totally! A retro question!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/c-1/15
+msgctxt "Dunk"
+msgid "You know, like, when you're askin' a question that's so old it doesn't need an answer... you can just move on."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/c-1/23
+msgctxt "Dunk"
+msgid "It's one of those!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-0/c-5/29/c-2/7
+msgctxt "Dunk"
+msgid "Thanks buddy!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/0
+msgctxt "Dunk"
+msgid "Alright alright. So badminton!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/8
+msgctxt "Dunk"
+msgid "You might be thinkin' to yourself, what's so bad about it?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/16
+msgctxt "Dunk"
+msgid "But that's the thing! NOTHING'S bad about it!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/24
+msgctxt "Dunk"
+msgid "It rules. You just gotta get past the funny name."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/32
+msgctxt "Dunk"
+msgid "It's a great sport for beginners 'cause it doesn't take too much strength or balance to get started."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/40
+msgctxt "Dunk"
+msgid "You just gotta have a little hand-eye coordination."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/48/s/0
+msgctxt "Choix"
+msgid "I've got plenty of that."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/49/s/0
+msgctxt "Choix"
+msgid "I don't know how much I've got... but I'll try."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/50/s/0
+msgctxt "Choix"
+msgid "I really don't want to do this."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/c-6/7
+msgctxt "Dunk"
+msgid "Rad, rad, rad, rad. You'll do great then!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/c-7/7
+msgctxt "Dunk"
+msgid "That's the spirit, buddy! Just give it a shot."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/c-7/15
+msgctxt "Dunk"
+msgid "You might surprise yourself!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/c-8/13
+msgctxt "Dunk"
+msgid "Ahh come on... I know it might seem like a lot."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/c-8/24
+msgctxt "Dunk"
+msgid "But I promise ya it's really fun!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/c-8/32
+msgctxt "Dunk"
+msgid "Just one swing. If you don't like it after that we'll quit, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-1/c-8/40
+msgctxt "Dunk"
+msgid "Let's get started."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/0
+msgctxt "Dunk"
+msgid "Great thing about badminton is you don't need much to get started."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/8
+msgctxt "Dunk"
+msgid "You got your racquet, your shuttlecock—or your birdie—or hell, your shuttle if you wanna call it that."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/16
+msgctxt "Dunk"
+msgid "Just don't call it a cock... nobody appreciates that."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "I would appreciate it."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "Literally no one would try to shorten it that way."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/26/s/0
+msgctxt "Choix"
+msgid "Noted."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/c-9/7
+msgctxt "Dunk"
+msgid "Haha! Well... at least you got a good sense of humor."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/c-9/15 dunk_sports/dunk_racquets_experience/0/g-2/c-10/23
+msgctxt "Dunk"
+msgid "Badminton people are real serious..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/c-10/7
+msgctxt "Dunk"
+msgid "I did it once..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/c-10/15
+msgctxt "Dunk"
+msgid "Won't be doin' THAT again."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-2/c-11/7
+msgctxt "Dunk"
+msgid "Take it from me... you don't wanna get badminton people riled up."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/0
+msgctxt "Dunk"
+msgid "But all that aside... that's it! That's all you need to get started."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/8
+msgctxt "Dunk"
+msgid "Sure if you wanna play proper you need a net, but if you just wanna play a friendly game at home you can hit the birdie back and forth together."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/16
+msgctxt "Dunk"
+msgid "It's nice and light."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "Let's do this then!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "Let's get this over with."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/26/s/0
+msgctxt "Choix"
+msgid "Guess we might as well start."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/c-12/7
+msgctxt "Dunk"
+msgid "Hell yeah!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/c-13/13
+msgctxt "Dunk"
+msgid "Don't see it as a chore, I'm beggin' you... it's fun!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-3/c-14/7
+msgctxt "Dunk"
+msgid "Let's do it!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/0
+msgctxt "Narrator"
+msgid "Dunk hands you the shuttlecock."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/8
+msgctxt "Dunk"
+msgid "You should start—it's easier to serve than it is to return one off the bat."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/16
+msgctxt "Dunk"
+msgid "So go ahead!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/24/s/0
+msgctxt "Choix"
+msgid "<i>Aim at his head.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/25/s/0
+msgctxt "Choix"
+msgid "<i>Give him your clumsy best shot.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/26/s/0
+msgctxt "Choix"
+msgid "<i>Pull out a proper serve.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/13
+msgctxt "Narrator"
+msgid "You wind up and smash the shuttlecock with your racquet, aiming straight for his face."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/21
+msgctxt "Narrator"
+msgid "To both of your surprise, your aim is dead on—he swats it away fairly easily, but the look on his face suggests he doesn't think much of your sportsmanship."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/29
+msgctxt "Dunk"
+msgid "I appreciate the hustle but it's not cool to aim right for your opponent's face."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/0/s/0
+msgctxt "Choix"
+msgid "How else to get you to leave me alone?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/1/s/0
+msgctxt "Choix"
+msgid "Oh, okay."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/2/s/0
+msgctxt "Choix"
+msgid "Sorry! I'll do better next time."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-0/13
+msgctxt "Dunk"
+msgid "I can take a hint..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-0/24
+msgctxt "Dunk"
+msgid "Okay. Maybe no more racquets for you."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-0/32
+msgctxt "Dunk"
+msgid "Maybe what you need is something that's just focused on you and your form..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-0/40
+msgctxt "Narrator"
+msgid "He makes a fist, the very thought getting him all fired up."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-0/48
+msgctxt "Dunk"
+msgid "Yeah! That's what we'll do."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-0/56
+msgctxt "Dunk"
+msgid "Meet me at the exercise ball and we'll do something REALLY different."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-0/64
+msgctxt "Dunk"
+msgid "You're definitely gonna love that one! I know it!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-1/7 dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-2/21
+msgctxt "Dunk"
+msgid "Here, I'll show ya how to do it."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-1/15
+msgctxt "Narrator"
+msgid "Dunk serves the shuttlecock to you so powerfully and gracefully he might as well be the star of his own sports anime."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-1/23 dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-2/37
+msgctxt "Narrator"
+msgid "It sails past you before you can even try for it, but Dunk doesn't seem concerned that you've missed it."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-1/31 dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-2/45
+msgctxt "Dunk"
+msgid "See? More sportsmanly to aim it AWAY from your face."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-2/13
+msgctxt "Dunk"
+msgid "Hey, no harm done pal. Appreciate the positive vibes! You got this."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-15/37/c-2/29
+msgctxt "Narrator"
+msgid "Dunk serves the shuttlecock to you so powerfully and gracefully that he might as well be the star of his own sports anime."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-16/7
+msgctxt "Narrator"
+msgid "Dunk returns your serve effortlessly, but he seems so excited about it you'd think you'd pulled off some truly amazing feat of athleticism."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-16/15
+msgctxt "Narrator"
+msgid "The shuttlecock sails past you, but Dunk doesn't seem to care about that."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-4/c-17/7
+msgctxt "Narrator"
+msgid "Dunk returns your graceful serve with a swing that puts yours to shame, but he doesn't gloat when the shuttlecock sails past you."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/0
+msgctxt "Dunk"
+msgid "You know my old man is a shuttlecock? It's where the family name comes from."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/8
+msgctxt "Dunk"
+msgid "You'd think he'd have wanted me to follow in his footsteps, but..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/16
+msgctxt "Dunk"
+msgid "I guess he always wished he could play football instead."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/24
+msgctxt "Dunk"
+msgid "I always thought badminton was cool, you know..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/32
+msgctxt "Dunk"
+msgid "But he never felt like it was enough glory, I guess."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/40/s/0
+msgctxt "Choix"
+msgid "Badminton is a loser sport for babies."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/41/s/0
+msgctxt "Choix"
+msgid "It makes me sad to hear that."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/42/s/0
+msgctxt "Choix"
+msgid "I wish your dad could have learned to value who he was."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-18/13
+msgctxt "Narrator"
+msgid "Dunk grows deadly serious here—you've never seen him look like this."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-18/21
+msgctxt "Dunk"
+msgid "Badminton is a family sport."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-18/29
+msgctxt "Dunk"
+msgid "I'm gonna have to ask you to never say that shit again."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-18/40
+msgctxt "Dunk"
+msgid "You can have your own opinions and that's fine but I'm gonna need you to be respectful of my family."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-18/48
+msgctxt "Narrator"
+msgid "He doesn't even give you the chance to apologize, gathering up the equipment and turning away from you."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-18/56
+msgctxt "Dunk"
+msgid "I'm just gonna work on forgetting you ever said that—but next time you come we're gonna do something different."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-18/64
+msgctxt "Dunk"
+msgid "Meet me at the exercise ball."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-19/7
+msgctxt "Dunk"
+msgid "Sorry to be a bummer. But let me tell ya, it was hard to see it too."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-19/15
+msgctxt "Dunk"
+msgid "I always told myself I'd never let anyone take the fun outta sports for me."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-19/23
+msgctxt "Dunk"
+msgid "Not even my pops. I wasn't gonna go through life wishing for more like he was."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-19/31
+msgctxt "Dunk"
+msgid "I don't even get how he can be as old as he is and still so unhappy."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-5/c-20/7
+msgctxt "Dunk"
+msgid "Me too, man. He still talks about his regrets and how he shoulda done something else with his life."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/0
+msgctxt "Dunk"
+msgid "It's like yo, you did so much cool shit with your life!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/8
+msgctxt "Dunk"
+msgid "You went to championships! You traveled the world!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/16
+msgctxt "Dunk"
+msgid "And you had a family... dude, don't we count?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/24
+msgctxt "Dunk"
+msgid "You're not happy about that?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/32/s/0
+msgctxt "Choix"
+msgid "I'd be so proud if I had a kid that turned out like you."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/33/s/0
+msgctxt "Choix"
+msgid "I'd be depressed about my life if I were him too."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/34/s/0
+msgctxt "Choix"
+msgid "Some people just can never seem to get away from the past."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/c-21/7
+msgctxt "Dunk"
+msgid "...thanks."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/c-21/15
+msgctxt "Dunk"
+msgid "I wish my pops felt the same way, but..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/c-22/13
+msgctxt "Dunk"
+msgid "Damn. Well... I don't really know what to say to that."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/c-22/21
+msgctxt "Dunk"
+msgid "I feel like he did some real cool things in his time."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/c-22/29
+msgctxt "Dunk"
+msgid "And he's got a family that loves him. But..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-6/c-23/7
+msgctxt "Dunk"
+msgid "You're right about that."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/0
+msgctxt "Dunk"
+msgid "I can't really make him be happy about how his life went."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/8
+msgctxt "Dunk"
+msgid "But I can't make his burdens mine either."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/16
+msgctxt "Dunk"
+msgid "...damn. I didn't even mean to start goin' on about my dad."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/24
+msgctxt "Dunk"
+msgid "I guess badminton brings up a lot more feelings than I realized."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/32
+msgctxt "Narrator"
+msgid "He rubs at the back of his neck, embarrassed."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/40
+msgctxt "Dunk"
+msgid "Well look. Next time we'll do somethin' fun that DOESN'T make me get all deep into my family history 'n whatnot, okay?"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/48
+msgctxt "Dunk"
+msgid "EXERCISE BALL TIME, BABY! WOO!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/56
+msgctxt "Dunk"
+msgid "We're gonna BOUNCE!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/64/s/0
+msgctxt "Choix"
+msgid "You really are just gonna make me do all these things, aren't you..."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/65/s/0
+msgctxt "Choix"
+msgid "I don't know what that is and I'm afraid."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/66/s/0
+msgctxt "Choix"
+msgid "HELL YEAH!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/c-24/7
+msgctxt "Dunk"
+msgid "Trust me, you're gonna love at LEAST one of 'em!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/c-24/15
+msgctxt "Dunk"
+msgid "But yeah. Meet me at the exercise ball!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/c-25/7
+msgctxt "Dunk"
+msgid "Don't be afraid! It's just a big bouncy ball."
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/c-25/15
+msgctxt "Dunk"
+msgid "Just meet me over there next time!"
+msgstr ""
+
+#: dunk_sports/dunk_racquets_experience/0/g-7/c-26/7
+msgctxt "Dunk"
+msgid "HELL YEAH EXERCISE BALL! LET'S BOUNCE!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/0
+msgctxt "Narrator"
+msgid "Dunk is balanced on the exercise ball when you walk up on him, sinking into a deep squat."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/8
+msgctxt "Narrator"
+msgid "This is the kind of thing you've seen people do online—it looks so easy when he does it, but you know somebody else would fall and break their neck if they tried."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/16/s/0
+msgctxt "Choix"
+msgid "Holy shit, dude."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/17/s/0
+msgctxt "Choix"
+msgid "That looks dangerous..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/18/s/0
+msgctxt "Choix"
+msgid "<i>Try to scare him.</i>"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/c-0/7
+msgctxt "Narrator"
+msgid "Dunk doesn't even flinch, turning to give you a cheery wave mid-squat."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/c-0/15
+msgctxt "Dunk"
+msgid "Hey hey!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/c-1/7
+msgctxt "Dunk"
+msgid "Oh it is! But not for me."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/c-2/13
+msgctxt "Dunk"
+msgid "Are you tryin' to startle me so I'll fall? That ain't cool, man!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/c-2/24
+msgctxt "Dunk"
+msgid "That can get somebody hurt!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/c-2/32
+msgctxt "Dunk"
+msgid "Not me, though."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/0
+msgctxt "Narrator"
+msgid "Dunk doesn't just dismount from the ball—he backflips off of it, striking a ridiculous pose and giving you a cheeky grin."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/8
+msgctxt "Dunk"
+msgid "I'm so glad you're here. The exercise ball is one of my favorite pieces of equipment!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/16
+msgctxt "Dunk"
+msgid "We've done a lotta stuff together you and I, but this one is really gonna be one of the coolest."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "What's so great about that ball?"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "You keep saying, that, but..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "If you think it's cool it's guaranteed to suck."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/c-3/7
+msgctxt "Dunk"
+msgid "What ISN'T great about it?"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/c-4/7
+msgctxt "Dunk"
+msgid "Trust me, this one is gonna be the one for you."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/c-5/13
+msgctxt "Dunk"
+msgid "I'm gonna pretend you didn't just say that 'cause it's time for BOUNCE!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-0/c-5/21
+msgctxt "Dunk"
+msgid "Trust me, it's amazing."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/0
+msgctxt "Dunk"
+msgid "It's like bein' a kid again! You get to bounce bounce bounce AND work out at the same damn time!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/8
+msgctxt "Dunk"
+msgid "Now I know standing up on that thing is... not a beginner move."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/16
+msgctxt "Dunk"
+msgid "But if you wanna try it like me, I can help you out."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/24
+msgctxt "Dunk"
+msgid "I'll spot ya and hold you if you need it."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/32/s/0 dunk_sports/dunk_hate_return/0/c-1/29/0/s/0
+msgctxt "Choix"
+msgid "I'd love that."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "I'd rather not be touched."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/34/s/0
+msgctxt "Choix"
+msgid "I'm not doing all that foolishness."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/c-6/7
+msgctxt "Dunk"
+msgid "Oh hell yeah! Here, I got you."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/c-6/15
+msgctxt "Narrator"
+msgid "Dunk helps you climb up onto the ball—it's hard to keep your balance, but he's got such a firm grip on your hand and your hip, you manage to stay upright."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/c-6/23
+msgctxt "Dunk"
+msgid "Easy, easy. Alright, if you wanna try sinking into a squat here..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/c-7/7
+msgctxt "Dunk"
+msgid "I respect that! In that case, why don't we try using the ball in a slightly easier way..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/c-8/13
+msgctxt "Dunk"
+msgid "Ouch..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-1/c-8/24
+msgctxt "Dunk"
+msgid "Okay, well... we can just try something simpler."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/0
+msgctxt "Dunk"
+msgid "Let's try a squat with the ball behind your back."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/8
+msgctxt "Dunk"
+msgid "It ain't as bouncy as bein' ON the ball but I'd rather not risk you gettin' hurt."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/16
+msgctxt "Dunk"
+msgid "And it's still plenty of fun!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "Do I have any choice?"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "Fine."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/26/s/0
+msgctxt "Choix"
+msgid "Fun seems like a strong word, but alright..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/c-9/7
+msgctxt "Dunk"
+msgid "Totally! You can always say no!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/c-9/15
+msgctxt "Dunk"
+msgid "But I hope you won't... you could just try one..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/c-9/23
+msgctxt "Narrator"
+msgid "Fighting this seems like more trouble than it's worth. One squat can't hurt that much, right?"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/c-10/7
+msgctxt "Dunk"
+msgid "Hell yeah! You got this."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-2/c-11/7
+msgctxt "Dunk"
+msgid "No no, it really is fun, I promise!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/0
+msgctxt "Narrator"
+msgid "Dunk helps you position yourself with the ball behind your back."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/8
+msgctxt "Dunk"
+msgid "Alright, now just ease on down into a good squat..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/16
+msgctxt "Narrator"
+msgid "You comply—it doesn't seem like you're doing anything all that impressive, but Dunk looks absolutely delighted."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/24
+msgctxt "Dunk"
+msgid "HELL YEAH! SQUATS, BABY!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/35
+msgctxt "Dunk"
+msgid "Just look at that form! You keep that up and your lower body is gonna be thankin' you for bein' a friend, baby!"
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/43/s/0
+msgctxt "Choix"
+msgid "I think I'm all squatted out."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/44/s/0
+msgctxt "Choix"
+msgid "Maybe just a few more..."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/45/s/0
+msgctxt "Choix"
+msgid "I'm done."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/c-12/7
+msgctxt "Dunk"
+msgid "Hey that's fair! You've always gotta listen to your body."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/c-13/7
+msgctxt "Dunk"
+msgid "Oh hell yeah! Just make sure you don't push yourself too hard."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/c-13/15
+msgctxt "Narrator"
+msgid "You do a few more good, deep squats, but when you feel your thighs beginning to scream for a break, you decide it's time to stop."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/c-13/23
+msgctxt "Dunk"
+msgid "You always gotta listen to your body."
+msgstr ""
+
+#: dunk_sports/dunk_bosu_experience/0/g-3/c-14/7
+msgctxt "Dunk"
+msgid "Okay, sure! You did great! Real nice, real nice."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/6
+msgctxt "Dunk"
+msgid "You did amazing! And hey, you can squat now!"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dunk_sports/dunk_ball_join/0/14
+msgctxt "Dunk"
+msgid "Press"
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: dunk_sports/dunk_ball_join/0/19
+msgctxt "Narration / joueur"
+msgid "anytime to get down like a clown."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/27
+msgctxt "Dunk"
+msgid "You can try it out when you're just doin' random stuff around the house. It's fun!"
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/3
+msgctxt "Narrator"
+msgid "Dunk eases the ball away from you, rolling it to a place where it can stand on its own. He looks suddenly serious."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/11
+msgctxt "Dunk"
+msgid "Man... we're runnin' outta sports to try together."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/19
+msgctxt "Dunk"
+msgid "It feels weird to realize we're gettin' close to the end of the road."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/27
+msgctxt "Dunk"
+msgid "I kinda thought you'd click with at least one of these things... I mean, it's all your equipment, after all."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/35
+msgctxt "Dunk"
+msgid "But we got one more thing to try... well, <i>things</i> I guess."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/43
+msgctxt "Dunk"
+msgid "I'm sure one of 'em's gotta be your new obsession!"
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/51
+msgctxt "Dunk"
+msgid "Alright. Next time... we're doin' misc day."
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/59
+msgctxt "Dunk"
+msgid "We're gonna try it all, baby!"
+msgstr ""
+
+#: dunk_sports/dunk_ball_join/0/35/67
+msgctxt "Dunk"
+msgid "You just meet me at that little box of odds and ends. I KNOW your thing's gonna be in there."
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/0
+msgctxt "Narrator"
+msgid "With Dunk's help, you sink into a squat, fully aware that you are nowhere near strong enough to do this on your own—but where your body trembles, Dunk steadies you."
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/8
+msgctxt "Narrator"
+msgid "His hands are always wherever they need to be to help you, gentle in their touch despite the callouses on his palms."
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/16
+msgctxt "Narrator"
+msgid "He stands so close to you, an intimate position without even the slightest hint of anything untoward—a true gentleman committed to nothing but ensuring your safety."
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/24
+msgctxt "Narrator"
+msgid "It's quite sweet, really."
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/32
+msgctxt "Dunk"
+msgid "That's it... just like that..."
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/40
+msgctxt "Dunk"
+msgid "Amazing. You're a natural."
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/48
+msgctxt "Dunk"
+msgid "Alright, that's enough... let's get you down. Careful now!"
+msgstr ""
+
+#: dunk_sports/dunk_squat_help/56
+msgctxt "Narrator"
+msgid "Dunk helps you climb down from the ball, not letting go of your hand until you've settled yourself with both feet firmly on the ground."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/6
+msgctxt "Narrator"
+msgid "There's an almost manic energy to Dunk today that you've never seen—he seems less cheerful and more desperate."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/14
+msgctxt "Dunk"
+msgid "HEY HEY HEY, BUDDY!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/22
+msgctxt "Dunk"
+msgid "I HOPE YOU'RE PREPARED FOR DUNK'S RANDOM SPORTS EQUIPMENT EXTRAVAGANZA!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/33
+msgctxt "Dunk"
+msgid "WE GOT ALL KINDS OF SHIT FOR YOU TO TRY AND LOVE!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/41
+msgctxt "Narrator"
+msgid "He reaches into the depths of the box, pulling out items as he speaks."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/49
+msgctxt "Dunk"
+msgid "WE GOT ROLLER BLADES! WE GOT ANKLE WEIGHTS! WE GOT RESISTANCE BANDS!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/57
+msgctxt "Dunk"
+msgid "SO MANY THINGS TO TRY! SO MANY AMAZING THINGS TO LOVE!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/65/s/0
+msgctxt "Choix"
+msgid "Oh my god, I've been looking for those roller blades..."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/66/s/0
+msgctxt "Choix"
+msgid "Let's see the resistance bands."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/67/s/0
+msgctxt "Choix"
+msgid "Ankle weights!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/c-0/7
+msgctxt "Dunk"
+msgid "AND THEY'VE BEEN LOOKIN' FOR YOU, BUDDY!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/c-0/18
+msgctxt "Narrator"
+msgid "Dunk drops the rollerblades at your feet with bruising force, very nearly missing you."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/c-1/7
+msgctxt "Dunk"
+msgid "HERE YOU GO!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/c-1/18
+msgctxt "Narrator"
+msgid "Dunk slingshots the resistance bands towards you—you only just manage to dodge."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/c-2/7
+msgctxt "Dunk"
+msgid "ANKLE WEIGHTS IT IS!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/c-2/18
+msgctxt "Narrator"
+msgid "He tosses them towards you—they land heavily near your feet."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "You alright today, man?"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "What's with the weird energy?"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "Dude this is getting weird. I'm not doing this."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-0/c-3/7
+msgctxt "Dunk"
+msgid "OH I'M GREAT!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-0/c-4/7
+msgctxt "Dunk"
+msgid "WHAT WEIRD ENERGY?"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-0/c-5/7
+msgctxt "Dunk"
+msgid "WHAT'S SO WEIRD ABOUT WANTING YOUR PAL TO ENJOY A SPORT?"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-1/0
+msgctxt "Narrator"
+msgid "Something is just not quite right here. Dunk's normally sweet smile is stretched and pointed. It's creeping you out."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Listen, buddy... you've done your best."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Are you afraid I'm gonna stop coming back when we're done?"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "I'm outta here."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-1/c-6/7 dunk_sports/dunk_critical_experience/0/g-1/c-7/7
+msgctxt "Narrator"
+msgid "Your kind words seem to penetrate Dunk's mania—his expression softens."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-1/c-6/15
+msgctxt "Dunk"
+msgid "...you think so?"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-1/c-8/7
+msgctxt "Dunk"
+msgid "Wait! Please!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/0
+msgctxt "Narrator"
+msgid "Dunk's face falls, his shoulders sagging."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/8
+msgctxt "Dunk"
+msgid "Ahhh man. I'm so sorry."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/16
+msgctxt "Dunk"
+msgid "I just got so caught up in wanting you to love sports like I do..."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/24
+msgctxt "Dunk"
+msgid "Knowing we got to the end and you weren't like, in love with any of 'em like I am..."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/32
+msgctxt "Dunk"
+msgid "I just got scared this is it, y'know."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/40/s/0
+msgctxt "Choix"
+msgid "I love working out with you."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/41/s/0
+msgctxt "Choix"
+msgid "Sounds like a you problem."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/42/s/0
+msgctxt "Choix"
+msgid "You know we can still be pals even if I'm not an athlete..."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/c-9/7
+msgctxt "Dunk"
+msgid "Really? I'm so glad to hear that."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/c-9/15
+msgctxt "Dunk"
+msgid "You shouldn't have to tell me that. You should just do it if you want to!"
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/c-10/13
+msgctxt "Dunk"
+msgid "...it is. I know that now."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/c-11/7
+msgctxt "Dunk"
+msgid "...really? I'm so glad to hear that."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-2/c-11/15
+msgctxt "Dunk"
+msgid "Even if I don't feel like I deserve it right now."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-3/0
+msgctxt "Dunk"
+msgid "I know I've been pushin' ya hard to try this stuff... and that's my bad."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-3/8
+msgctxt "Dunk"
+msgid "I think everyone around me just makes sports so intense."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-3/16
+msgctxt "Dunk"
+msgid "I just want everyone to like it like I do..."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-3/24
+msgctxt "Dunk"
+msgid "But I did what everyone else does... I made it too intense."
+msgstr ""
+
+#: dunk_sports/dunk_critical_experience/0/g-3/32
+msgctxt "Dunk"
+msgid "I put all my hopes on you wantin' to be just like me."
+msgstr ""
+
+#: dunk_sports/dunk_weights_fail/0 dunk_sports/dunk_yoga_fail/0 dunk_sports/dunk_sports_fail/0 dunk_sports/dunk_racquets_fail/0 dunk_sports/dunk_bosu_fail/0 dunk_sports/dunk_box_fail/0
+msgctxt "Dunk"
+msgid "Ah man this isn't where the experience is for today!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_fail/8/b/1 dunk_sports/dunk_sports_fail/11/b/1 dunk_sports/dunk_racquets_fail/11/b/1 dunk_sports/dunk_bosu_fail/11/b/1 dunk_sports/dunk_box_fail/11/b/1
+msgctxt "Dunk"
+msgid "Yoga time."
+msgstr ""
+
+#: dunk_sports/dunk_weights_fail/11/b/1 dunk_sports/dunk_yoga_fail/11/b/1 dunk_sports/dunk_racquets_fail/14/b/1 dunk_sports/dunk_bosu_fail/14/b/1 dunk_sports/dunk_box_fail/14/b/1
+msgctxt "Dunk"
+msgid "Pick a ball - any ball."
+msgstr ""
+
+#: dunk_sports/dunk_weights_fail/14/b/1 dunk_sports/dunk_yoga_fail/14/b/1 dunk_sports/dunk_sports_fail/14/b/1 dunk_sports/dunk_bosu_fail/17/b/1 dunk_sports/dunk_box_fail/17/b/1
+msgctxt "Dunk"
+msgid "Wanna do some rackets next?"
+msgstr ""
+
+#: dunk_sports/dunk_weights_fail/17/b/1 dunk_sports/dunk_yoga_fail/17/b/1 dunk_sports/dunk_sports_fail/17/b/1 dunk_sports/dunk_racquets_fail/17/b/1 dunk_sports/dunk_box_fail/20/b/1
+msgctxt "Dunk"
+msgid "Gotta bounce - get on that ball!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_fail/20/b/1 dunk_sports/dunk_yoga_fail/20/b/1 dunk_sports/dunk_sports_fail/20/b/1 dunk_sports/dunk_racquets_fail/20/b/1 dunk_sports/dunk_bosu_fail/20/b/1
+msgctxt "Dunk"
+msgid "The box of random stuff!"
+msgstr ""
+
+#: dunk_sports/dunk_weights_fail/23 dunk_sports/dunk_yoga_fail/23 dunk_sports/dunk_sports_fail/23 dunk_sports/dunk_racquets_fail/23 dunk_sports/dunk_bosu_fail/23 dunk_sports/dunk_box_fail/23
+msgctxt "Dunk"
+msgid "See ya tomorrow."
+msgstr ""
+
+#: dunk_sports/dunk_yoga_fail/8/b/1 dunk_sports/dunk_sports_fail/8/b/1 dunk_sports/dunk_racquets_fail/8/b/1 dunk_sports/dunk_bosu_fail/8/b/1 dunk_sports/dunk_box_fail/8/b/1
+msgctxt "Dunk"
+msgid "We're meeting at the weight rack!"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/0
+msgctxt "Dunk"
+msgid "And that was the wrong thing to do. Why'd you need to be like me?"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/8
+msgctxt "Dunk"
+msgid "You're so cool, man... so what if you're not obsessed with sports like me?"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/16
+msgctxt "Dunk"
+msgid "You're open-minded, you've got a positive attitude. You tried everything I threw at ya."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/24
+msgctxt "Dunk"
+msgid "And you kept smilin' even when it was hard."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/32
+msgctxt "Dunk"
+msgid "I respect that more than anything else."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/40
+msgctxt "Dunk"
+msgid "And to be honest with ya... I find that kinda attitude real attractive."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/48
+msgctxt "Dunk"
+msgid "I'm not ready to stop seein' you. Sports or no sports... I wanna keep this going."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/56/s/0
+msgctxt "Choix"
+msgid "I just want to be friends..."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/57/s/0
+msgctxt "Choix"
+msgid "I feel the same way..."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/58/s/0
+msgctxt "Choix"
+msgid "I agree... but also I'm still trying to get sweaty with you."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-1/7
+msgctxt "Dunk"
+msgid "You do?"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-1/15
+msgctxt "Narrator"
+msgid "He beams at you, a smile sweeter and purer than any you've seen since the two of you met. There's real tenderness here."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-1/23
+msgctxt "Dunk"
+msgid "You and I make a real good team, don't you think?"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-1/31
+msgctxt "Narrator"
+msgid "He reaches for your hand, giving it a soft squeeze. You can feel his immense strength, but he's so gentle with you."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-1/39
+msgctxt "Dunk"
+msgid "Man. Holding your hand makes me feel like a real champion."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-1/47
+msgctxt "Dunk"
+msgid "Life and sports ain't about winning... but I damn sure feel like a winner."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/7
+msgctxt "Dunk"
+msgid "So you do... do ya wanna work out?"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Sex. I meant sex."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "I wanna work out horizontally if you know what I mean."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/2/s/0
+msgctxt "Choix"
+msgid "In a manner of speaking."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/c-0/7
+msgctxt "Dunk"
+msgid "Oh... OH. Well."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/c-1/7
+msgctxt "Narrator"
+msgid "Dunk frowns."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/c-1/15
+msgctxt "Dunk"
+msgid "Like... on the mat?"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/c-1/23 dunk_sports/dunk_love_path/0/c-2/15/c-2/23
+msgctxt "Narrator"
+msgid "It takes him a few very, very long moments to put the pieces together."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/c-1/31 dunk_sports/dunk_love_path/0/c-2/15/c-2/31
+msgctxt "Dunk"
+msgid "OH WAIT! SEX! SEX MAKES YOU SWEATY! Got it."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/c-2/7
+msgctxt "Dunk"
+msgid "Uh huh. Okay."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/c-2/15
+msgctxt "Narrator"
+msgid "It's more than clear he has no idea what you're talking about, but he does his best to think it through."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/g-0/0
+msgctxt "Narrator"
+msgid "He gives you a devilish grin, a sharp contrast to his usual cheery smile."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/g-0/8
+msgctxt "Dunk"
+msgid "We've done a whole lotta other things... but we haven't tried that particular kinda exercise."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/c-2/15/g-0/16
+msgctxt "Dunk"
+msgid "What'd you say we get that heart rate goin'?"
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/g-0/0
+msgctxt "Narrator"
+msgid "If you thought Dunk was a font of endless energy and cheer before, his stamina only seems to increase in this most intimate setting."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/g-0/11
+msgctxt "Narrator"
+msgid "Your heart rate hasn't been <i>this</i> high in a long, long time—but with Dunk as your coach you reacquaint yourself with your own physicality, achieving feats of stamina and strength you didn't know you had in you."
+msgstr ""
+
+#: dunk_sports/dunk_love_path/0/g-0/19
+msgctxt "Narrator"
+msgid "You look forward to seeing just what else the two of you can achieve as a team."
+msgstr ""
+
+#: dunk_sports/dunk_friend_path/0
+msgctxt "Dunk"
+msgid "Hey, that's okay! I love making new friends!"
+msgstr ""
+
+#: dunk_sports/dunk_friend_path/8
+msgctxt "Dunk"
+msgid "Good friends are everything, man."
+msgstr ""
+
+#: dunk_sports/dunk_friend_path/16
+msgctxt "Dunk"
+msgid "A teammate who's gonna have your back no matter what field you're playin' on..."
+msgstr ""
+
+#: dunk_sports/dunk_friend_path/24
+msgctxt "Dunk"
+msgid "A smiling face in the bleachers that keeps your spirits up when the pressure's on.."
+msgstr ""
+
+#: dunk_sports/dunk_friend_path/32
+msgctxt "Dunk"
+msgid "Ain't nothin' like it. Yeah, I'd be thrilled to call you my pal, pal!"
+msgstr ""
+
+#: dunk_sports/dunk_friend_path/43
+msgctxt "Dunk"
+msgid "Thanks for puttin' up with all my sports stuff even when it wasn't your favorite."
+msgstr ""
+
+#: dunk_sports/dunk_friend_path/51
+msgctxt "Dunk"
+msgid "Lookin' forward to seein' more of ya... on and off the field!"
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/0
+msgctxt "Dunk"
+msgid "And man... that was a bad idea."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/8
+msgctxt "Dunk"
+msgid "Me and you are NOTHIN' alike."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/16
+msgctxt "Dunk"
+msgid "I was really hopin' you'd be a little more open-minded and not so... competitive and mean."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/24
+msgctxt "Dunk"
+msgid "But uh... I guess that was my fault for hopin'."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/35
+msgctxt "Dunk"
+msgid "Anyway... I'm sorry."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/43
+msgctxt "Dunk"
+msgid "But I guess one good thing came outta this."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/51
+msgctxt "Dunk"
+msgid "You and me are never gonna be teammates."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/62
+msgctxt "Dunk"
+msgid "Better I find that out now."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/70/s/0
+msgctxt "Choix"
+msgid "It's about time you realized we're not friends."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/71/s/0
+msgctxt "Choix"
+msgid "I was tired of hearing you talk anyway."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/72/s/0
+msgctxt "Choix"
+msgid "Sorry..."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/c-0/7
+msgctxt "Dunk"
+msgid "I realized it ages ago... I was just hopin' I was wrong."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/c-0/15
+msgctxt "Dunk"
+msgid "But I wasn't. Just sorry we wasted each other's time."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/c-1/15
+msgctxt "Dunk"
+msgid "Man. You really are mean."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/c-2/7
+msgctxt "Dunk"
+msgid "Me too, man. Me too."
+msgstr ""
+
+#: dunk_sports/dunk_hate_path/0/g-0/31
+msgctxt "Reggie"
+msgid "You just got served."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/0
+msgctxt "Dunk"
+msgid "Hey hey hey! If it ain't the MVP!"
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/8
+msgctxt "Dunk"
+msgid "You know I was thinkin' about you when I was training..."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/16
+msgctxt "Dunk"
+msgid "You feel like workin' up a good sweat with me?"
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/24/s/0
+msgctxt "Choix"
+msgid "Always."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/25/s/0
+msgctxt "Choix"
+msgid "Maybe we could have a non-sweaty hangout later."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/26/s/0 dunk_sports/dunk_friend_return/0/17/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Dunkaroo."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/c-0/7
+msgctxt "Dunk"
+msgid "Hell yeah. Let's get it, baby."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/c-0/15
+msgctxt "Narrator"
+msgid "The sweat you work up is the stuff of legends."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/c-1/7
+msgctxt "Dunk"
+msgid "Oh, yeah, yeah, yeah, whatever's good."
+msgstr ""
+
+#: dunk_sports/dunk_love_return/0/c-1/15
+msgctxt "Dunk"
+msgid "Long as I get to see that pretty smile... come find me later, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_friend_return/0/0
+msgctxt "Dunk"
+msgid "Hey champ!"
+msgstr ""
+
+#: dunk_sports/dunk_friend_return/0/8
+msgctxt "Dunk"
+msgid "Hope you're hittin' it hard, but not too hard!"
+msgstr ""
+
+#: dunk_sports/dunk_friend_return/0/16/s/0
+msgctxt "Choix"
+msgid "I'm doing <i>exactly</i> the right amount of hittin' it."
+msgstr ""
+
+#: dunk_sports/dunk_friend_return/0/c-0/7
+msgctxt "Dunk"
+msgid "You need a spotter or anything you know I got you! Just let me know."
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/0
+msgctxt "Dunk"
+msgid "Oh, it's you."
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/8/s/0
+msgctxt "Choix"
+msgid "It's me."
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/9/s/0
+msgctxt "Choix"
+msgid "I've been a total bummer... sorry buddy. (USE CHARM CANDY)"
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/c-0/7
+msgctxt "Dunk"
+msgid "Yeah I kinda don't wanna talk to you, so uh... if you don't need anything..."
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/c-0/15
+msgctxt "Narrator"
+msgid "Dunk awkwardly shuffles away."
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/c-1/13
+msgctxt "Dunk"
+msgid "Hey, thanks for saying so. Don't even sweat it, alright?"
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/c-1/21
+msgctxt "Dunk"
+msgid "I don't like holding onto shit... let's just be pals, huh?"
+msgstr ""
+
+#: dunk_sports/dunk_hate_return/0/c-1/29/c-0/7
+msgctxt "Dunk"
+msgid "Me too, man. Me too. Pals again!"
+msgstr ""
+
+#: dunk_sports/dunk_realize_join/0/0
+msgctxt "Dunk"
+msgid "Dude, what? Really!?"
+msgstr ""
+
+#: dunk_sports/dunk_realize_join/0/17/s/0
+msgctxt "Choix"
+msgid "Yeah—I'm drafting you into the human league."
+msgstr ""
+
+#: dunk_sports/dunk_realize_join/0/18/s/0
+msgctxt "Choix"
+msgid "Sorry, I'm not ready yet."
+msgstr ""
+
+#: dunk_sports/dunk_realize_join/0/c-1/10
+msgctxt "Dunk"
+msgid "Damn, alright... but hey, no worries!"
+msgstr ""
+
+#: dunk_sports/dunk_realize_join/0/c-1/18
+msgctxt "Dunk"
+msgid "Just let me know when you're good."
+msgstr ""
+
+#: dunk_sports/dunk_realize_return/0/0
+msgctxt "Dunk"
+msgid "Hey! No rush or anything, but you good now?"
+msgstr ""
+
+#: dunk_sports/dunk_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yeah, I've got what I need!"
+msgstr ""
+
+#: dunk_sports/dunk_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "Sorry, not yet."
+msgstr ""
+
+#: dunk_sports/dunk_realize_return/0/c-1/10
+msgctxt "Dunk"
+msgid "Aww, alright... I get it."
+msgstr ""
+
+#: dunk_sports/dunk_realize_return/0/c-1/18
+msgctxt "Dunk"
+msgid "Well take your time gettin' ready, I'll be here whenever!"
+msgstr ""
+
+#: dunk_sports/dunk_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Starting with Dunk fills me with joy! This hoopster can handle anything."
+msgstr ""
+
+#: dunk_sports/dunk_realize_begin/9
+msgctxt "Skylar"
+msgid "Can Dunk go all... the... way?!"
+msgstr ""
+
+#: dunk_sports/dunk_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely sports equipment becomes...."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/3
+msgctxt "Dunk"
+msgid "WHOOOAHHH!"
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/14
+msgctxt "Narrator"
+msgid "Dunk's newly human body somehow radiates even more sweet cheer and bottomless energy—a frankly superhuman feat."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/22
+msgctxt "Narrator"
+msgid "But this man is, well, all man—tangible, and so wholly <i>real</i>."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/30
+msgctxt "Narrator"
+msgid "He sweeps you up into his strong arms, tossing you into the air and catching you so easily you'd almost think the two of you switched roles."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/38
+msgctxt "Narrator"
+msgid "You're pretty sure you're still human, though."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/46/s/0
+msgctxt "Choix"
+msgid "WHOAH! Take it easy..."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/47/s/0
+msgctxt "Choix"
+msgid "If you're gonna toss me around like that at least do it in bed."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/c-0/7
+msgctxt "Dunk"
+msgid "Sorry pal! I'm just so excited!"
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/c-0/15
+msgctxt "Narrator"
+msgid "He settles for giving you a tight hug before finally setting you down."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/c-0/23
+msgctxt "Dunk"
+msgid "You did something so cool for me... I'm never gonna forget this."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/c-0/31
+msgctxt "Dunk"
+msgid "I'm gonna try ALL the sports..."
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/c-0/42
+msgctxt "Dunk"
+msgid "I'll be sure to come back and visit, but until then... keep it sweaty and keep it fun, pal!"
+msgstr ""
+
+#: dunk_sports/dunk_realized/0/c-1/7
+msgctxt "Dunk"
+msgid "...I can do that."
+msgstr ""
+
+#: dunk_sports/dunk_love_divert/3
+msgctxt "Narrator"
+msgid "Dunk's newly human body is a true work of art—it may be new to him, but his stamina and strength belie his inexperience."
+msgstr ""
+
+#: dunk_sports/dunk_love_divert/11
+msgctxt "Narrator"
+msgid "There's little doubt that his previous athleticism has come with him to this new form—Dunk works you out with enthusiasm and unbridled desire."
+msgstr ""
+
+#: dunk_sports/dunk_love_divert/22
+msgctxt "Narrator"
+msgid "He's the same sweet man you've come to know, ever-respectful of your limitations, but in this setting he is near-insatiable, putting his new body through its paces with a primal sort of drive."
+msgstr ""
+
+#: dunk_sports/dunk_love_divert/30
+msgctxt "Narrator"
+msgid "He lavishes you with sweet kisses in the morning, torn between heading out into the world to explore the wide array of human sports and exercise or staying by your side... but eventually sports wins."
+msgstr ""
+
+#: dunk_sports/dunk_love_join/0
+msgctxt "Narrator"
+msgid "Dunk is true to his word, giving absolutely every sport he can get his hands on a shot."
+msgstr ""
+
+#: dunk_sports/dunk_love_join/8
+msgctxt "Narrator"
+msgid "Videos of him absolutely dominating some local amateur sports game go viral just about every week ."
+msgstr ""
+
+#: dunk_sports/dunk_love_join/16
+msgctxt "Narrator"
+msgid "But every time the offers come in for him to turn pro, he turns them down, adamant that he's not in it for the money or fame."
+msgstr ""
+
+#: dunk_sports/dunk_love_join/24
+msgctxt "Narrator"
+msgid "Dunk finds his groove coaching high school sports, thrilled for the chance to teach youngsters about the joys of good sportsmanship and playing only to have fun."
+msgstr ""
+
+#: dunk_sports/dunk_love_join/32
+msgctxt "Narrator"
+msgid "His teams have yet to win a single game, but he and the kids couldn't be happier."
+msgstr ""

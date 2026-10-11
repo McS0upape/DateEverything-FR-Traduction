@@ -1,0 +1,6019 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: skylar_specs/skylar_endgame_hint/4
+msgctxt "Skylar"
+msgid "<i>Hey, hey! Interrupting our regularly scheduled flow for just a little tip!</i>"
+msgstr ""
+
+#: skylar_specs/skylar_endgame_hint/12
+msgctxt "Skylar"
+msgid "<i>Since you've progressed so far you might want to check out some extra features if you're looking to make it all the way to the end! </i>"
+msgstr ""
+
+#: skylar_specs/skylar_endgame_hint/23
+msgctxt "Skylar"
+msgid "<i>Check it out under the Utility Menu!</i>"
+msgstr ""
+
+#: skylar_specs/skylar_endgame_hint/31
+msgctxt "Skylar"
+msgid "<i>Don't want to add tedium to your nice little dating sim. </i>"
+msgstr ""
+
+#: skylar_specs/skylar_endgame_hint/39
+msgctxt "Skylar"
+msgid "<i>Okay, back to it!</i>"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/10
+msgctxt "Skylar"
+msgid "Oh! I'm getting a reading! It's a secret feature!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/21/s/0
+msgctxt "Choix"
+msgid "Tell me!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/22/s/0
+msgctxt "Choix"
+msgid "I couldn't care less about any more features."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/c-1/11
+msgctxt "Skylar"
+msgid "Okay, no problem!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-0/0
+msgctxt "Skylar"
+msgid "It's called \"Content Aware\" - it goes off whenever I have the feeling that something a little off-kilter might happen."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-0/8
+msgctxt "Skylar"
+msgid "It gives you the chance to see if this dateable might be someone you might want to skip due to content concerns!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Tell me more..."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "I'm not interested in anything like that."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "No problem - carry on!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/0
+msgctxt "Skylar"
+msgid "If you're worried that you might miss out on points or stuff, don't get your tushie in a twist."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/8
+msgctxt "Skylar"
+msgid "I'll take care of the dirty work for you - no penalties incurred, I swear."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/16
+msgctxt "Skylar"
+msgid "If you're interested, you can turn it on now! You can also turn it on or off any time I see ya!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "Let's turn it on!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "What kinds of things are you looking for?"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/26/s/0
+msgctxt "Choix"
+msgid "I'm good for now, thanks!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/c-4/7 skylar_specs/content_introduce/0/g-1/c-5/23/c-0/7
+msgctxt "Skylar"
+msgid "On it! Content Aware mode — ACTIVATE!!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/c-5/7
+msgctxt "Skylar"
+msgid "These dateables have some subject matter that might be troubling - PTSD, violence, stalking, manipulation, domination, mental health issues, addiction, and many more..."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/c-5/15
+msgctxt "Skylar"
+msgid "If you want a gentle warning when something approacheth, I'd recommend you turn it on!"
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "Okay, let's do it."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-1/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "I think I'm okay, actually."
+msgstr ""
+
+#: skylar_specs/content_introduce/0/g-2/0
+msgctxt "Skylar"
+msgid "Okay - back to it!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/17
+msgctxt "Narrator"
+msgid "You're not quite sure how it happened, but there's a smiling, pink-haired stranger standing just a few feet away from you."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/25
+msgctxt "Narrator"
+msgid "You don't remember inviting anyone over... you'd certainly remember inviting someone this cute to your house."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/33
+msgctxt "Skylar"
+msgid "Hey there!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/44
+msgctxt "Skylar"
+msgid "Your life is about to change."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/52
+msgctxt "Skylar"
+msgid "Hope you're ready!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/60/s/0
+msgctxt "Choix"
+msgid "A talking pair of glasses?"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/61/s/0
+msgctxt "Choix"
+msgid "Shut up. I hate you already."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/62/s/0
+msgctxt "Choix"
+msgid "I've already played this game and want to skip this part."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/63/s/0
+msgctxt "Choix"
+msgid "I would like to skip this particular conversation."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-0/7
+msgctxt "Skylar"
+msgid "You know it! But, I'm not just any pair of glasses."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-1/7
+msgctxt "Skylar"
+msgid "Oh, you'll soon learn the meaning of hate, my friend."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/7
+msgctxt "Skylar"
+msgid "Oh okay - have fun!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/21
+msgctxt "Narrator"
+msgid "Skylar turns away from you, waving at someone you can't see. What follows next is a blur of familiar faces and names."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/51
+msgctxt "Narrator"
+msgid "There's Dorian."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/59
+msgctxt "Dorian"
+msgid "No funny business. I don't want to see those spectacles being used for something untoward."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/79
+msgctxt "Narrator"
+msgid "Phoenicia."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/90
+msgctxt "Phoenicia"
+msgid "Yes!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/112
+msgctxt "Narrator"
+msgid "Maggie."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/124
+msgctxt "Maggie"
+msgid "Uh... okay."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/145
+msgctxt "Narrator"
+msgid "And Betty."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/153
+msgctxt "Betty"
+msgid "Hey there, stranger."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-2/174
+msgctxt "Narrator"
+msgid "Go forth, and resume your journey without any of this tutorial nonsense."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-3/10
+msgctxt "Skylar"
+msgid "Schweet."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-3/18 skylar_specs/intro_specs/0/g-1/0
+msgctxt "Skylar"
+msgid "So we are going to Awaken our first dateable object."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/c-3/26
+msgctxt "Skylar"
+msgid "Go up to a door, any door, put on the dateviators, and shoot some cool beams at it! Pew Pew Pew!!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/0
+msgctxt "Skylar"
+msgid "I'm here to help you out."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/8
+msgctxt "Skylar"
+msgid "I'm a pair of dateviator glasses - my name is Skylar Specs."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/22
+msgctxt "Skylar"
+msgid "My lenses have special properties: they allow you to 'Directly Acknowledge a Thing's Existence.'"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/30
+msgctxt "Skylar"
+msgid "Or <w>'DATE'!</w>"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/38
+msgctxt "Skylar"
+msgid "You see all the things around your house? Things you might have taken for granted?"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/46
+msgctxt "Skylar"
+msgid "Now you have the power to get to know them better."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/54
+msgctxt "Skylar"
+msgid "A <w>LOT</w> better."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/62
+msgctxt "Skylar"
+msgid "And I have a feeling, just a silly old little feeling, just a grimpy gromby feeling in my lil' tum-tum."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/70
+msgctxt "Skylar"
+msgid "That it'll help make your life a little lot bit more richer."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/78
+msgctxt "Skylar"
+msgid "And maybe find some love! <w>Love that is alllll around you...</w>"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/89
+msgctxt "Skylar"
+msgid "In fact, let's go on a date right now."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/97/s/0
+msgctxt "Choix"
+msgid "What? I'm not ready for that."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/98/s/0
+msgctxt "Choix"
+msgid "Okay..."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/99/s/0
+msgctxt "Choix"
+msgid "Let's go!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "It's okay - it won't hurt."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/c-4/15
+msgctxt "Skylar"
+msgid "...yet."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/c-4/23
+msgctxt "Skylar"
+msgid "Hah just kidding! I'm a kidder, I find it easier to cover my feelings in low-hanging humor to cover my unbelievably dismal self esteem."
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-0/c-4/31
+msgctxt "Skylar"
+msgid "...huhu ...yeah... I'm sad inside!"
+msgstr ""
+
+#: skylar_specs/intro_specs/0/g-1/8
+msgctxt "Skylar"
+msgid "Go up to a door, any door, and shoot some cool beams at it, yeah! P-Pew Pew Pew! Go Go!"
+msgstr ""
+
+#: skylar_specs/day_two_skylar/0/7
+msgctxt "Skylar"
+msgid "Good morning! Are you ready to start getting to know everyone around here better?"
+msgstr ""
+
+#: skylar_specs/day_two_skylar/0/15
+msgctxt "Skylar"
+msgid "Maybe finally find some <w>love</w>?"
+msgstr ""
+
+#: skylar_specs/day_two_skylar/0/26/s/0 skylar_specs/skylar_fallinlove/0/g-1/36/s/0 skylar_specs/skylar_wherenext/0/g-0/40/s/0 skylar_specs/skylar_leave/0/g-0/8/8/s/0
+msgctxt "Choix"
+msgid "Why am I doing this?"
+msgstr ""
+
+#: skylar_specs/day_two_skylar/0/27/s/0
+msgctxt "Choix"
+msgid "What if I want <i>you</i> to fall in love with me?"
+msgstr ""
+
+#: skylar_specs/day_two_skylar/0/28/s/0 skylar_specs/skylar_whyami/0/g-1/9/s/0 skylar_specs/skylar_fallinlove/0/g-1/37/s/0 skylar_specs/skylar_leave/0/g-0/8/10/s/0
+msgctxt "Choix"
+msgid "Where should I go next?"
+msgstr ""
+
+#: skylar_specs/day_two_skylar/0/29/s/0 skylar_specs/skylar_whyami/0/g-1/10/s/0 skylar_specs/skylar_fallinlove/0/g-1/38/s/0 skylar_specs/skylar_wherenext/0/g-0/42/s/0
+msgctxt "Choix"
+msgid "Can I just... leave my house?"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/4
+msgctxt "Skylar"
+msgid "Glad you asked!"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/12
+msgctxt "Skylar"
+msgid "I was sent to you for a reason, a well..."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/20
+msgctxt "Skylar"
+msgid "<w>Mysterious Reason... </w>"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/28/s/0
+msgctxt "Choix"
+msgid "Can I know what the reason is?"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/29/s/0
+msgctxt "Choix"
+msgid "Right... from the 'tinfoilhat' hacker."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/c-0/7
+msgctxt "Skylar"
+msgid "Not until I know that I can trust you..."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/c-1/7
+msgctxt "Skylar"
+msgid "Exactly!"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/0
+msgctxt "Skylar"
+msgid "Since there's no one else here you could ask about it..."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/8
+msgctxt "Skylar"
+msgid "I'd recommend doing the only thing you <i>can</i> do and... date!"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "I don't want to date anyone..."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "Okay, sounds like a plan."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/21/s/0
+msgctxt "Choix"
+msgid "Guess I have no choice."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/c-2/7
+msgctxt "Skylar"
+msgid "Remember... in my world 'date' just means 'Directly Acknowledge a Thing's Existence'..."
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/c-2/15
+msgctxt "Skylar"
+msgid "So you're really just going around and talking to a few of your favorite things!"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "You always have a choice!"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-0/c-4/15
+msgctxt "Skylar"
+msgid "You can always just... leave!"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-1/0 skylar_specs/skylar_fallinlove/0/g-1/28 skylar_specs/skylar_wherenext/0/g-0/32 skylar_specs/skylar_leave/0/g-0/8/0
+msgctxt "Skylar"
+msgid "Any other questions?"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-1/8/s/0 skylar_specs/skylar_wherenext/0/g-0/41/s/0 skylar_specs/skylar_leave/0/g-0/8/9/s/0
+msgctxt "Choix"
+msgid "What if I want you to fall in love with me?"
+msgstr ""
+
+#: skylar_specs/skylar_whyami/0/g-1/11/s/0 skylar_specs/skylar_fallinlove/0/g-1/39/s/0 skylar_specs/skylar_wherenext/0/g-0/43/s/0 skylar_specs/skylar_leave/0/g-0/8/11/s/0
+msgctxt "Choix"
+msgid "I guess that's it?"
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/4
+msgctxt "Skylar"
+msgid "Oh!"
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/12
+msgctxt "Skylar"
+msgid "You certainly can..."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/20/s/0
+msgctxt "Choix"
+msgid "Yes! I win!"
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/21/s/0
+msgctxt "Choix"
+msgid "Oh that's cool."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/0
+msgctxt "Skylar"
+msgid "But..."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/8
+msgctxt "Skylar"
+msgid "I'm still in my 'tutorial mode' setting..."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/16
+msgctxt "Skylar"
+msgid "On the clock with a new user, y'know?"
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "I'm the new user?"
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "But I want to confess my undying love to you, Skylar."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/c-2/7
+msgctxt "Skylar"
+msgid "You betcha."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/c-3/11
+msgctxt "Skylar"
+msgid "Okay... go ahead."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/c-3/19/0/s/0
+msgctxt "Choix"
+msgid "I love you Skylar. Forever and always."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/c-3/19/c-0/7 skylar_specs/first_suspension_score_bad/0/c-1/7
+msgctxt "Skylar"
+msgid "Thank you."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-0/c-3/19/c-0/15
+msgctxt "Skylar"
+msgid "I don't know you."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-1/0
+msgctxt "Skylar"
+msgid "So if you wanna get to know <i>me</i> better..."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-1/14
+msgctxt "Skylar"
+msgid "Take a look at my app starting tomorrow and we'll see..."
+msgstr ""
+
+#: skylar_specs/skylar_fallinlove/0/g-1/25/b/1
+msgctxt "Skylar"
+msgid "...champ."
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/4
+msgctxt "Skylar"
+msgid "I would suggest following up with Maggie next."
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/12
+msgctxt "Skylar"
+msgid "As a detective, she'd have some good places to start."
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/20/s/0
+msgctxt "Choix"
+msgid "Okay, sounds good."
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/21/s/0
+msgctxt "Choix"
+msgid "She's the...?"
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/22/s/0
+msgctxt "Choix"
+msgid "I already talked to her."
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/c-1/7
+msgctxt "Skylar"
+msgid "Magnifying glass, over next to the piano!"
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/c-2/7
+msgctxt "Skylar"
+msgid "You did yesterday... but today is a whole new day and I'm fully charged!"
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/g-0/0
+msgctxt "Skylar"
+msgid "But really - there's no going wrong here. Talk to anyone you want, in any order you want."
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/g-0/8
+msgctxt "Skylar"
+msgid "You're basically in a big huge sandbox open for you to play in!"
+msgstr ""
+
+#: skylar_specs/skylar_wherenext/0/g-0/16
+msgctxt "Skylar"
+msgid "Except instead of sand it's your house, and instead of a box it's also your house."
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/4
+msgctxt "Skylar"
+msgid "You can leave your house at any time but..."
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/12
+msgctxt "Skylar"
+msgid "When you do... your journey with me pretty much ends right there!"
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/20/s/0
+msgctxt "Choix"
+msgid "Why?"
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/7
+msgctxt "Skylar"
+msgid "I was sent to you in secret by that hacker... and as soon as you step outside with me..."
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/15
+msgctxt "Skylar"
+msgid "Valdivian Data Drones will take me away!"
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Not Valdivian Data Drones!"
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I love and trust Valdivian. They would use you for good!"
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "That's convenient..."
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/c-0/7
+msgctxt "Skylar"
+msgid "It's a terrifying thought..."
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/c-1/7
+msgctxt "Skylar"
+msgid "Really? After they sold you out for AI?"
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/c-1/18
+msgctxt "Skylar"
+msgid "It's your choice... I guess."
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/c-2/7
+msgctxt "Skylar"
+msgid "What? No it isn't?"
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/c-0/23/c-2/18
+msgctxt "Skylar"
+msgid "I don't know what you mean by that."
+msgstr ""
+
+#: skylar_specs/skylar_leave/0/g-0/0
+msgctxt "Skylar"
+msgid "Anyway I wouldn't recommend leaving your house now - your adventure has only just begun!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/0
+msgctxt "Skylar"
+msgid "That might be it for this little dateviators tutorial..."
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/8
+msgctxt "Skylar"
+msgid "But I think we're gonna see a whole lot more than we ever imagined pretty soon."
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/25/s/0
+msgctxt "Choix"
+msgid "Okay - I'm ready!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/26/s/0
+msgctxt "Choix"
+msgid "Sounds terrifying."
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/27/s/0
+msgctxt "Choix"
+msgid "How soon?"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/28/s/0
+msgctxt "Choix"
+msgid "Wait... I'm not ready!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-0/7
+msgctxt "Skylar"
+msgid "Let's date!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-1/7
+msgctxt "Skylar"
+msgid "Don't worry, you won't die."
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-1/15
+msgctxt "Skylar"
+msgid "Unless..."
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-1/23
+msgctxt "Narrator"
+msgid "It's hard to tell, but you can barely make out the faint sound of your dishwasher turning on."
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-1/31 skylar_specs/skylar_menu/0/23/9/11/c-2/44/g-0/0
+msgctxt "Skylar"
+msgid "Well."
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-1/39 skylar_specs/skylar_sendoff/0/c-3/15
+msgctxt "Skylar"
+msgid "Happy dating!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-2/7
+msgctxt "Skylar"
+msgid "I said 'pretty'!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-2/15
+msgctxt "Skylar"
+msgid "I dunno... give it a couple days!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-2/23 skylar_specs/no_more_endgames/20 skylar_specs/skylar_hello_4/0/c-1/18/c-0/58/c-0/15
+msgctxt "Skylar"
+msgid "Bye!"
+msgstr ""
+
+#: skylar_specs/skylar_sendoff/0/c-3/7
+msgctxt "Skylar"
+msgid "Trust me, you've got as much time as you need."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/9
+msgctxt "Skylar"
+msgid "Welcome!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/20/b/1
+msgctxt "Skylar"
+msgid "You incorrigible asshole!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/0
+msgctxt "Skylar"
+msgid "What can I do for you in my main menu?"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/0
+msgctxt "Skylar"
+msgid "Anything else?"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/8/b/1
+msgctxt "Skylar"
+msgid "That fantastic Red Shirt is looking rather nice today!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/0/s/0
+msgctxt "Choix"
+msgid "I want to talk about features and utilities!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/1/s/0
+msgctxt "Choix"
+msgid "Let's chat about you!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/2/s/0
+msgctxt "Choix"
+msgid "Can I Realize you, Skylar?"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/3/s/0
+msgctxt "Choix"
+msgid "It's time to bring you to life. I want to Realize you!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/4/s/0
+msgctxt "Choix"
+msgid "I'm all done here!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-0/7
+msgctxt "Skylar"
+msgid "Right this way..."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-1/7
+msgctxt "Skylar"
+msgid "Ooo, ooo, ooo! Let's!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/17 skylar_specs/realize_cheer_1/0/c-2/7
+msgctxt "Skylar"
+msgid "Oh."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/25
+msgctxt "Skylar"
+msgid "OH!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/36
+msgctxt "Skylar"
+msgid "No."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/0/s/0
+msgctxt "Choix"
+msgid "No?"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/1/s/0
+msgctxt "Choix"
+msgid "Aw man."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/g-0/8
+msgctxt "Skylar"
+msgid "Just not yet."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "Is this \"Unfurnished Business?\""
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "What do you mean?"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/g-0/16/2/s/0
+msgctxt "Choix"
+msgid "Is this like some 'Quest' I have to do now?"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/g-0/16/c-0/7
+msgctxt "Skylar"
+msgid "Yes. Franklin must have figured it out, didn't he?"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-2/44/g-0/16/c-2/7
+msgctxt "Skylar"
+msgid "Yeah, pretty much."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-4/7/b/1
+msgctxt "Skylar"
+msgid "Aw, yeah, I'll miss you!"
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-4/8/b/1
+msgctxt "Skylar"
+msgid "Mmm... maybe."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-4/9/b/1
+msgctxt "Skylar"
+msgid "No you aren't."
+msgstr ""
+
+#: skylar_specs/skylar_menu/0/23/9/11/c-4/9/b/9
+msgctxt "Skylar"
+msgid "Bye."
+msgstr ""
+
+#: skylar_specs/bedtime_debug/0
+msgctxt "Skylar"
+msgid "Hey there Debug Diva! Let's make it so you can go to bed anytime!"
+msgstr ""
+
+#: skylar_specs/bedtime_debug/5
+msgctxt "Skylar"
+msgid "Done!"
+msgstr ""
+
+#: skylar_specs/bedtime_debug/16
+msgctxt "Skylar"
+msgid "Happy hunting!"
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/0
+msgctxt "Skylar"
+msgid "You sure have. How can we make this more enjoyable?"
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/0
+msgctxt "Skylar"
+msgid "Any other endgame things?"
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/8/0/s/0
+msgctxt "Choix"
+msgid "Can I go to bed anytime I want?"
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/8/1/s/0
+msgctxt "Choix"
+msgid "I'm having so much trouble finding these last dateables."
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/8/2/s/0
+msgctxt "Choix"
+msgid "I'm good here, actually."
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/8/c-0/7
+msgctxt "Skylar"
+msgid "Good choice - you can now!"
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/8/c-1/7
+msgctxt "Skylar"
+msgid "Understandable, they can be tricky!"
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/8/c-1/15
+msgctxt "Skylar"
+msgid "Let's see..."
+msgstr ""
+
+#: skylar_specs/endgame_menu/0/9/8/c-2/7
+msgctxt "Skylar"
+msgid "Movin' on up!"
+msgstr ""
+
+#: skylar_specs/utility_main_menu/0/0/s/0
+msgctxt "Choix"
+msgid "I want to talk about the rules and strategy..."
+msgstr ""
+
+#: skylar_specs/utility_main_menu/0/1/s/0
+msgctxt "Choix"
+msgid "I want to switch some features around."
+msgstr ""
+
+#: skylar_specs/utility_main_menu/0/2/s/0
+msgctxt "Choix"
+msgid "I've been doing this a long time, and I need some extra help."
+msgstr ""
+
+#: skylar_specs/utility_main_menu/0/3/s/0
+msgctxt "Choix"
+msgid "This menu isn't where I want to be anymore..."
+msgstr ""
+
+#: skylar_specs/utility_main_menu/0/c-1/7
+msgctxt "Skylar"
+msgid "Gotcha!"
+msgstr ""
+
+#: skylar_specs/utility_main_menu/0/c-3/7
+msgctxt "Skylar"
+msgid "Not a problem! Moving up!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/0
+msgctxt "Skylar"
+msgid "Let's get cracking..."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/0
+msgctxt "Skylar"
+msgid "Any other utilities you need help with?"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/0/s/0
+msgctxt "Choix"
+msgid "I want to turn on Content Aware Skylar."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/1/s/0
+msgctxt "Choix"
+msgid "I want to turn off Content Aware Skylar."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/2/s/0
+msgctxt "Choix"
+msgid "I want to take off my Fantastic Red Shirt."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/3/s/0
+msgctxt "Choix"
+msgid "Can I put my Fantastic Red Shirt back on?"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/4/s/0
+msgctxt "Choix"
+msgid "I think I'm getting smaller! Help!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/5/s/0
+msgctxt "Choix"
+msgid "I'd like to change my preferred pronoun."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/6/s/0
+msgctxt "Choix"
+msgid "That's all for now."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-0/11
+msgctxt "Skylar"
+msgid "Sure thing! Next time I see something that might be troubling, I'll give a holler."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-1/11
+msgctxt "Skylar"
+msgid "You got it! Let's intrepidly explore the unknown together!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-2/11
+msgctxt "Skylar"
+msgid "Aw... I guess it has to get washed sometime."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-3/11
+msgctxt "Skylar"
+msgid "Ooh, you wanna wear the Fantastic Red Shirt today? My personal favorite. Good choice!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/7
+msgctxt "Skylar"
+msgid "Awww... you're so teeny tiny!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/15
+msgctxt "Skylar"
+msgid "Careful! You don't wanna get stepped on!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "It's not funny!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/7
+msgctxt "Skylar"
+msgid "It's pretty funny."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/15
+msgctxt "Skylar"
+msgid "Daemon gave you a virus, but the Sassy Chap can get it fixed for ya."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Okay - back to the phone I guess."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "But I Realized him!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-0/7
+msgctxt "Skylar"
+msgid "Go talk to him! You were just one app off!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/10
+msgctxt "Narrator"
+msgid "The Sassy Chap looks past you, his eyes glazing over as he manages processes you can't see."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/18
+msgctxt "Chap"
+msgid "I'm coding... coding... fixing... tracking... testing..."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/26
+msgctxt "Chap"
+msgid "Adding to the budget... and..."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/41
+msgctxt "Chap"
+msgid "You are fixed!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/0/s/0
+msgctxt "Choix"
+msgid "Thank you, Chap."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/7
+msgctxt "Chap"
+msgid "I need no thanks."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/15
+msgctxt "Chap"
+msgid "I need this bug <i>out of this house</i>."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/26
+msgctxt "Chap"
+msgid "This latest fix should do that. The name of the variable I created is \"bug_exorcism\"."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/37
+msgctxt "Chap"
+msgid "I've set it to true."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/49
+msgctxt "Chap"
+msgid "It will not bother us."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/57
+msgctxt "Chap"
+msgid "Any."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/65
+msgctxt "Chap"
+msgid "More."
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-4/23/c-0/23/c-1/49/c-0/73/b/1
+msgctxt "Chap"
+msgid "Bye, love!!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-5/7
+msgctxt "Skylar"
+msgid "Oh, fun!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-5/15
+msgctxt "Skylar"
+msgid "Pick one!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "<i>He/Him</i>"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "<i>She/Her</i>"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-5/23/2/s/0
+msgctxt "Choix"
+msgid "<i>They/Them</i>"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-5/23/g-0/0
+msgctxt "Skylar"
+msgid "Gorgeous!"
+msgstr ""
+
+#: skylar_specs/utility_submenu/0/9/8/c-6/7
+msgctxt "Skylar"
+msgid "Let's leave this menu, and go to another one!"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/0
+msgctxt "Skylar"
+msgid "There's lots I can chat about! Me!"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/0
+msgctxt "Skylar"
+msgid "It's the chat menu! What do you need?"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/0/s/0
+msgctxt "Choix"
+msgid "I want to talk about some features."
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/1/s/0
+msgctxt "Choix"
+msgid "Can we talk about how all this 'dating objects' thing works?"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/2/s/0
+msgctxt "Choix"
+msgid "Let's talk about our relationship..."
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/3/s/0
+msgctxt "Choix"
+msgid "I don't want to be in this menu. Let's go back up one!"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-0/7
+msgctxt "Skylar"
+msgid "Ooh, definitely!"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-1/7/b/1
+msgctxt "Skylar"
+msgid "My favorite subject!"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-1/8/b/1
+msgctxt "Skylar"
+msgid "Yes, for you always!"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-1/9/b/1
+msgctxt "Skylar"
+msgid "No, not for you."
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-1/9/b/9
+msgctxt "Skylar"
+msgid "What do you care."
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-1/10/b/1
+msgctxt "Skylar"
+msgid "Ah, I'm all out!"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-1/10/b/9
+msgctxt "Skylar"
+msgid "I'll see if I can come up with more... I'll workshop some stuff."
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-1/10/b/17
+msgctxt "Skylar"
+msgid "In the meantime..."
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-2/7
+msgctxt "Skylar"
+msgid "Relationships?"
+msgstr ""
+
+#: skylar_specs/chat_sorter/0/9/8/c-3/7
+msgctxt "Skylar"
+msgid "Scoochin'!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/0
+msgctxt "Skylar"
+msgid "My favorite subject! What do you want to know?"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/8/s/0
+msgctxt "Choix"
+msgid "Can we be friends? (USE CHARM CANDY)"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/9/s/0
+msgctxt "Choix"
+msgid "How do I get you to have feelings for me?"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/10/s/0
+msgctxt "Choix"
+msgid "Do you love me?"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/11/s/0
+msgctxt "Choix"
+msgid "Er, wrong turn. Let's go back up a menu!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/7
+msgctxt "Skylar"
+msgid "Oh... you wanna date me, eh?"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/15
+msgctxt "Skylar"
+msgid "It's possible, y'know."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/23
+msgctxt "Skylar"
+msgid "You just have to... uh."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/31
+msgctxt "Skylar"
+msgid "Ask me about myself!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "Tell me about yourself!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/39/1/s/0
+msgctxt "Choix"
+msgid "Okay... I'll be on the lookout."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/39/c-0/7
+msgctxt "Skylar"
+msgid "Not in this menu, silly-willy..."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/39/c-0/15
+msgctxt "Skylar"
+msgid "I prefer not to be that obvious about it! I like to be wined and dined!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-1/39/c-1/7
+msgctxt "Skylar"
+msgid "Can't wait!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-2/7/b/1
+msgctxt "Skylar"
+msgid "Of course I do, silly!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-2/7/b/12 skylar_specs/skylar_relationship_menu/0/c-2/8/b/12 skylar_specs/skylar_relationship_menu/0/c-2/10/b/17
+msgctxt "Skylar"
+msgid "Let's go back up a menu..."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-2/8/b/1
+msgctxt "Skylar"
+msgid "No... we're friends, but you wanted that!"
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-2/9/b/1
+msgctxt "Skylar"
+msgid "Hell no."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-2/9/b/9
+msgctxt "Skylar"
+msgid "Moving on."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-2/10/b/1
+msgctxt "Skylar"
+msgid "Not yet... but there's still hope for you..."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-2/10/b/9
+msgctxt "Skylar"
+msgid "Just keep pressing all my buttons, you'll find a way."
+msgstr ""
+
+#: skylar_specs/skylar_relationship_menu/0/c-3/7
+msgctxt "Skylar"
+msgid "Backing up..."
+msgstr ""
+
+#: skylar_specs/features_menu/0/0
+msgctxt "Skylar"
+msgid "What's on your mind?"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/0
+msgctxt "Skylar"
+msgid "Anything else you wanted to know about features?"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/0/s/0
+msgctxt "Choix"
+msgid "How does SPECS work?"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/1/s/0
+msgctxt "Choix"
+msgid "How do collectables work?"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/2/s/0
+msgctxt "Choix"
+msgid "What should I be doing?"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/3/s/0
+msgctxt "Choix"
+msgid "Nothing here actually, I'm good!"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/c-0/7
+msgctxt "Skylar"
+msgid "Oh! Sure! Specs!"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/c-1/7
+msgctxt "Skylar"
+msgid "Collectables are delectable!"
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/c-2/7
+msgctxt "Skylar"
+msgid "Good question..."
+msgstr ""
+
+#: skylar_specs/features_menu/0/9/8/c-3/7
+msgctxt "Skylar"
+msgid "Cool!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/0
+msgctxt "Skylar"
+msgid "SPECS stands for Smarts, Poise, Empathy, Charm, and Sass."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/8
+msgctxt "Skylar"
+msgid "These five qualities are measured on your personality using the SPECS menu!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/16
+msgctxt "Skylar"
+msgid "There's also a glossary button in the top right corner if you want more explanation on what each means!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/24
+msgctxt "Skylar"
+msgid "Anything else you'd like to know?"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/0
+msgctxt "Skylar"
+msgid "Any other SPECS questions?"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/0/s/0
+msgctxt "Choix"
+msgid "How do I get more SPECS?"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/1/s/0
+msgctxt "Choix"
+msgid "Are SPECS choices in dialogue always good?"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/2/s/0
+msgctxt "Choix"
+msgid "How do I know which dateable gives which SPECS points?"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/3/s/0
+msgctxt "Choix"
+msgid "I'm good on SPECS!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-0/7
+msgctxt "Skylar"
+msgid "Any time there's a first-time change in relationship between you and a dateable object, you will be rewarded with 5 SPECS points in one attribute!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-0/15
+msgctxt "Skylar"
+msgid "Think of it as you growing in experience dating a vast array of personalities, each with something to give you!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-0/23
+msgctxt "Skylar"
+msgid "But don't think you can just keep switching between relationship statuses on the same object over and over again to get a lot of points..."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-0/31
+msgctxt "Skylar"
+msgid "Only the <i>first</i> time there's a change from neutral will there be any SPECS awarded."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-1/7
+msgctxt "Skylar"
+msgid "They are! Or at the very least, you get something fun out of it!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-1/15
+msgctxt "Skylar"
+msgid "But don't worry if you can't reach a certain SPECS dialogue choice - the worst thing that you could miss out on is a collectable."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-1/23
+msgctxt "Skylar"
+msgid "No Love, Friend, or Hate endings are gated behind a SPECS check."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-2/7
+msgctxt "Skylar"
+msgid "Great question!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-2/15
+msgctxt "Skylar"
+msgid "Each dateable object gives out <i>one</i> SPECS attribute when a relationship has been attained - I call this \"Alignment\"."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-2/23
+msgctxt "Skylar"
+msgid "You can check a dateable's Alignment by looking at the SPECS badge in their date-a-dex page."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-2/31
+msgctxt "Skylar"
+msgid "The badge corresponds to which stat is given!"
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-2/39
+msgctxt "Skylar"
+msgid "If you're looking to grow to a certain SPECS build... this will really help guide you towards who you should prioritize."
+msgstr ""
+
+#: skylar_specs/specs_explain/0/33/8/c-2/47/b/1
+msgctxt "Skylar"
+msgid "Y'know, for Realization Recipes!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/0
+msgctxt "Skylar"
+msgid "Collectables are the funny little images that appear as dateables talk to you!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/8
+msgctxt "Skylar"
+msgid "What are you curious about?"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/0
+msgctxt "Skylar"
+msgid "Any other collectables questions?"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/0/s/0
+msgctxt "Choix"
+msgid "What do they do?"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/1/s/0
+msgctxt "Choix"
+msgid "How many are there?"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/2/s/0
+msgctxt "Choix"
+msgid "Do I get anything for collecting all of them?"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/3/s/0
+msgctxt "Choix"
+msgid "I'm good on collectables!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-0/7
+msgctxt "Skylar"
+msgid "They help illustrate what's going on around you - sometimes for fun, sometimes because the dateable gave you an item, or sometimes just for dramatic effect!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-0/15
+msgctxt "Skylar"
+msgid "Think of them as little progress trinkets. You can take a closer look at them in the date-a-dex sorted by character!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-1/7
+msgctxt "Skylar"
+msgid "A lot..."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-1/15
+msgctxt "Skylar"
+msgid "Each dateable has at least three to give out."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-1/23
+msgctxt "Skylar"
+msgid "But one has up to 33!!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-1/31
+msgctxt "Skylar"
+msgid "That's... way too many."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/7
+msgctxt "Skylar"
+msgid "Well, of course there's an achievement. What are you thinking, man?"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/18
+msgctxt "Skylar"
+msgid "But honestly, I don't care very much if you find them all."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/26
+msgctxt "Skylar"
+msgid "They're just there to give a little extra flavor to everything!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/34
+msgctxt "Skylar"
+msgid "I'm here to help you forge new relationships."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/0/s/0
+msgctxt "Choix"
+msgid "All right, I'll focus on the dateables then."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/1/s/0
+msgctxt "Choix"
+msgid "But I love collecting things!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/2/s/0
+msgctxt "Choix"
+msgid "Can I get them all in one playthrough?"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/c-0/7
+msgctxt "Skylar"
+msgid "Awesome!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/c-1/7
+msgctxt "Skylar"
+msgid "I won't stop you!"
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/c-2/7
+msgctxt "Skylar"
+msgid "No, unfortunately that's not possible."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/c-2/15
+msgctxt "Skylar"
+msgid "At a minimum, it would take 3 whole playthroughs to find them all."
+msgstr ""
+
+#: skylar_specs/collectables_explain/0/17/8/c-2/45/c-2/23
+msgctxt "Skylar"
+msgid "Fortunately, New Game+ tracks your collectable collecting progress!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/0
+msgctxt "Skylar"
+msgid "A very important question..."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/8
+msgctxt "Skylar"
+msgid "The easy answer is... whatever you like!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/16/b/1
+msgctxt "Skylar"
+msgid "As long as you are continuing to awaken objects, things will continue to move along in a positive direction."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/17/b/1
+msgctxt "Skylar"
+msgid "As long as you are continuing to Realize objects, things will continue to move along in a positive direction."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/20/b/1
+msgctxt "Skylar"
+msgid "Even with how many Hate endings you have, you'll still be able to do some form of good in the world..."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/20/b/9
+msgctxt "Skylar"
+msgid "If you even want that..."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/23
+msgctxt "Skylar"
+msgid "If you have other questions, I'm all ears."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/0
+msgctxt "Skylar"
+msgid "Any other questions about what you should be doing?"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/0/s/0
+msgctxt "Choix"
+msgid "Can a bad ending with someone 'lock me out' of finding another?"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/1/s/0
+msgctxt "Choix"
+msgid "When should I leave the house?"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/2/s/0
+msgctxt "Choix"
+msgid "Is there anything wrong with getting Hate endings?"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/3/s/0
+msgctxt "Choix"
+msgid "I'm good on strategy!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/7
+msgctxt "Skylar"
+msgid "No matter what you do, you will always be able to find every single dateable here!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/15
+msgctxt "Skylar"
+msgid "Except for one <i>very specific instance</i>, but you will be very clearly warned that that's the path you're going on!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I'll be on the lookout!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I'll still be sure to fuck it up."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "Can you give me a hint what that instance is?"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/3/s/0
+msgctxt "Choix"
+msgid "Oh shit, I did that I think!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-1/7/b/1
+msgctxt "Skylar"
+msgid "No... I believe in you!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-1/8/b/1
+msgctxt "Skylar"
+msgid "Yeah, you probably will you little shit."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-2/7
+msgctxt "Skylar"
+msgid "Well... it'll be if you refuse to go on a certain subterranean quest."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-2/15
+msgctxt "Skylar"
+msgid "That's all I'll say!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-3/7
+msgctxt "Skylar"
+msgid "Welp. There you go."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-3/15
+msgctxt "Skylar"
+msgid "You won't be able to find everybody in this particular playthrough. Womp Womp."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "Eh, whatever. Beau talked too much."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-3/23/1/s/0
+msgctxt "Choix"
+msgid "Darn!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-3/23/c-0/7
+msgctxt "Skylar"
+msgid "Hm. You're not wrong."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-0/23/c-3/23/c-1/7
+msgctxt "Skylar"
+msgid "It's okay, you're not locked out of any good endings, regardless."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/7
+msgctxt "Skylar"
+msgid "You can leave the house at any time... but be forewarned."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/15
+msgctxt "Skylar"
+msgid "Doing that starts the end of your story. A point of no return..."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/23
+msgctxt "Skylar"
+msgid "<i>Unless of course, you reload a save. Wink, wink.</i>"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "How do I know when I'm ready to leave the house in your opinion?"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "How do I get the best endings?"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/31/c-0/7
+msgctxt "Skylar"
+msgid "If you want the barest minimum of a good ending, I would shoot to get 100 SPECS points in any one attribute."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/31/c-0/15
+msgctxt "Skylar"
+msgid "Once you have that - you'll get some pretty good results!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/31/c-1/7 skylar_specs/skylar_hello_1/0/c-2/15 skylar_specs/skylar_hello_2/0/g-0/c-4/21/c-1/7
+msgctxt "Skylar"
+msgid "Well..."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/31/c-1/15/b/1
+msgctxt "Skylar"
+msgid "I would recommend getting to know all the dateable objects. That will really help."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-1/31/c-1/16/b/1
+msgctxt "Skylar"
+msgid "Try to Realize as many objects as you can! Once you're in the 90s, you're good to go!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-2/7
+msgctxt "Skylar"
+msgid "Hate endings still give you 5 SPECS points and continue the main story, so nah, not really."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-2/15
+msgctxt "Skylar"
+msgid "You won't be locked out of very much, except for certain polyamorous relationships that might be difficult to untangle if you were looking for those ones specifically."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-2/23/b/1
+msgctxt "Skylar"
+msgid "But, since you won't be able to Realize objects that Hate you, you might start to find yourself locked out of certain endings if you keep getting a large amount of Hates!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-2/26
+msgctxt "Skylar"
+msgid "Just speak with everyone honestly - from the heart! You don't have to literally get <i>everyone</i> to be your lover. Seriously!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-2/34
+msgctxt "Skylar"
+msgid "Even though it makes me happy - there's no pressure at all."
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-2/42
+msgctxt "Skylar"
+msgid "If anything, getting something to hate you certainly does mean you spend less time talking with them, which is always good if you genuinely don't like them!"
+msgstr ""
+
+#: skylar_specs/strategy_explain/0/32/8/c-2/50/b/1
+msgctxt "Skylar"
+msgid "Isn't that right, you sonofabitch?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/0
+msgctxt "Skylar"
+msgid "What do you want to know about my lore?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/0
+msgctxt "Skylar"
+msgid "Anything else you want to know about me and my beautiful Suspension?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/0/s/0
+msgctxt "Choix"
+msgid "No lore for me, I'm full!"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/1/s/0
+msgctxt "Choix"
+msgid "How do the dateviators work in the first place?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/2/s/0
+msgctxt "Choix"
+msgid "How do dateables talk to each other?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/3/s/0
+msgctxt "Choix"
+msgid "Why is there no real-world stuff and everything is a thing-based pun?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/4/s/0
+msgctxt "Choix"
+msgid "How do dateables eat, listen to music, etc.?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/5/s/0
+msgctxt "Choix"
+msgid "When I love a thing, what physically am I doing?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/6/s/0
+msgctxt "Choix"
+msgid "What's so special about this house?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/7/s/0
+msgctxt "Choix"
+msgid "Why is everyone so attractive?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/8/s/0
+msgctxt "Choix"
+msgid "Is one door all doors? Is one table all tables?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/9/s/0
+msgctxt "Choix"
+msgid "How are you able to bring objects to life?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/10/s/0
+msgctxt "Choix"
+msgid "What happens when a Realized object dies?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/11/s/0
+msgctxt "Choix"
+msgid "What happens if I use the dateviators on a human?"
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/12/s/0
+msgctxt "Choix"
+msgid "Guess there's nothing more to ask..."
+msgstr ""
+
+#: skylar_specs/lore_menu/0/9/8/c-12/7
+msgctxt "Skylar"
+msgid "That's all I got for now! Thanks for your curiosity!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/0
+msgctxt "Skylar"
+msgid "Vibrations."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/8/s/0
+msgctxt "Choix"
+msgid "That's it?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/9/s/0
+msgctxt "Choix"
+msgid "Okay, makes sense, moving on..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/c-1/7
+msgctxt "Skylar"
+msgid "Wait wait wait wait wait!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/0
+msgctxt "Skylar"
+msgid "I'm being overly simplistic."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/8
+msgctxt "Skylar"
+msgid "Have you ever heard of String Theory?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Yeah."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "No... is that bad?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "Can you date string??"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "Not bad at all! It's just a model for how matter might be constructed. First theorized in the 1960s."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "No, it's too small a constituent part."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-0/c-4/15
+msgctxt "Skylar"
+msgid "Think of how when you speak to a person, you speak to their whole discrete being, even though they really are just a big ol' collection of cells."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-1/0
+msgctxt "Skylar"
+msgid "Dateviator technology is based on <i>Thing Theory.</i>"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-1/8
+msgctxt "Skylar"
+msgid "Thing Theory theorizes that at large enough scales, all objects and concepts coalesce into their own one-dimensional wavelength that unifies all of that type of object throughout the universe!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "You're losing my interest..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Intriguing..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-1/c-5/7
+msgctxt "Skylar"
+msgid "No worries! I'll dumb it down. (no i wont)."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/0
+msgctxt "Skylar"
+msgid "Any object that makes up any specific wavelength is connected to all other objects on that wavelength - which by virtue of being complex enough then forms a gestalt consciousness."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/8
+msgctxt "Skylar"
+msgid "Humans just never had a way of speaking with those consciousnesses until now!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "What's 'gestalt'?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "I'm tapping out!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/7
+msgctxt "Skylar"
+msgid "When the whole becomes more than the sum of its parts!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/15
+msgctxt "Skylar"
+msgid "With objects, it happens as a plank of wood slowly becomes a toy boat - the wood didn't change, but its status did."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/23
+msgctxt "Skylar"
+msgid "And once it's more toy boat than plank of wood, it changes its wavelength."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/31
+msgctxt "Skylar"
+msgid "Its thing-ness is vibrating differently enough to find a new 'signal' - or 'spin'."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/39/0/s/0
+msgctxt "Choix"
+msgid "So when does each separate wavelength form?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/39/c-0/7
+msgctxt "Skylar"
+msgid "Once the object or idea becomes large enough to have its own state, it breaks off the wavelength and forms a new one."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/39/c-0/15
+msgctxt "Skylar"
+msgid "That's why tables are different than chairs, even though they might be both made from wood."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-7/39/c-0/23
+msgctxt "Skylar"
+msgid "Their thing-ness is vibrating differently enough to find a new 'signal' - or 'spin'."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-2/c-8/7
+msgctxt "Skylar"
+msgid "That's okay!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-3/0
+msgctxt "Skylar"
+msgid "I like to call the wavelengths 'animus', but you can use any term, really."
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-3/8
+msgctxt "Skylar"
+msgid "This is how we can Directly Acknowledge these Things' Existences!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_1/0/g-3/16
+msgctxt "Skylar"
+msgid "Dateviators vibrate along each of these 'anima'! That's why when we awaken something it wiggles a little!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/0
+msgctxt "Skylar"
+msgid "I'll be honest..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/8
+msgctxt "Skylar"
+msgid "We're not speaking English right now."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/16/s/0
+msgctxt "Choix"
+msgid "Oh no, one of these."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/17/s/0
+msgctxt "Choix"
+msgid "What? Japanese or something?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/18/s/0
+msgctxt "Choix"
+msgid "Wow!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/c-0/7
+msgctxt "Skylar"
+msgid "It's true, though!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/c-1/7
+msgctxt "Skylar"
+msgid "Nah, ya know, not quite..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/0
+msgctxt "Skylar"
+msgid "The speeds at which objects and concepts think is both faster and slower than the rate at which humans think and speak."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/8
+msgctxt "Skylar"
+msgid "Faster in that the objects have instantaneous consciousness throughout their different forms in the universe..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/16
+msgctxt "Skylar"
+msgid "And slower in that the timelines for them can stretch into eons..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/24
+msgctxt "Skylar"
+msgid "All that to say, part of my job is making sure that we can all understand each other."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/32
+msgctxt "Skylar"
+msgid "Which means I'm processing their speech and rate of thought at a completely different timeline than yours!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/40
+msgctxt "Skylar"
+msgid "So necessarily... we're not <i>really</i> talking in English..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "That's okay... as long as I can still understand it!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/49/s/0
+msgctxt "Choix"
+msgid "Bzxrchshsrxr sas r er rc."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/50/s/0
+msgctxt "Choix"
+msgid "Can I ever learn to speak their language?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "I mean, that's still coming up as gibberish on my end so all good."
+msgstr ""
+
+#: skylar_specs/skylar_lore_2/0/g-0/c-5/7
+msgctxt "Skylar"
+msgid "Maybe... one day I can teach you!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/0
+msgctxt "Skylar"
+msgid "Wait... what do you mean 'real-world'?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/8/s/0
+msgctxt "Choix"
+msgid "I'm used to everything around me not always having an object ham-fisted into its name."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/7
+msgctxt "Skylar"
+msgid "Huh."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/15
+msgctxt "Skylar"
+msgid "Well I'm not sure what to say except to give a brief history of the world that <i>you</i> live in..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/23
+msgctxt "Skylar"
+msgid "Which you should already know about, but you know, heheh, I'm here for you."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Pretend I don't know."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/7
+msgctxt "Skylar"
+msgid "Humans love objects... always have."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/15
+msgctxt "Skylar"
+msgid "But even more so in today's hyper-commercialized society."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/23
+msgctxt "Skylar"
+msgid "Recently TV shows, books, and ordinary brand names have been making the switch to incorporating a focus on making products and entertainment more thing-based in order to drive up sales."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/31
+msgctxt "Skylar"
+msgid "And you might even recognize some historical names with some objects added to them."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/39
+msgctxt "Skylar"
+msgid "All for brand potential."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "Why would historical people have become branded?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/47/1/s/0
+msgctxt "Choix"
+msgid "Perfect - I love things, and I love buying them too!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/47/2/s/0
+msgctxt "Choix"
+msgid "Except Shakespeare."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/47/c-0/7
+msgctxt "Skylar"
+msgid "Someone's gotta make that money, honey."
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/47/c-1/7
+msgctxt "Skylar"
+msgid "The more things in the world, the more things to love!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/47/c-1/15
+msgctxt "Skylar"
+msgid "...right?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_3/0/c-0/31/c-0/47/c-2/7
+msgctxt "Skylar"
+msgid "Yeah except Shakespeare."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/0
+msgctxt "Skylar"
+msgid "It's true... they really do act like humans!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/8
+msgctxt "Skylar"
+msgid "With human emotions, desires, and appetites too."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/16
+msgctxt "Skylar"
+msgid "What's happening is that there's a whole other dimension to these animus wavelengths than even we can be completely aware of."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/24
+msgctxt "Skylar"
+msgid "Objects and concepts have these rich inner lives that we can't see at all in our dimension."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/32
+msgctxt "Skylar"
+msgid "Somehow they are able to have jobs, marriages, kids... but we can only see what's right in front of us."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/40
+msgctxt "Skylar"
+msgid "Even me with my vibrational qualities! I can only be a part of the process just for the bit that I see."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/48/s/0
+msgctxt "Choix"
+msgid "So you're telling me you don't know?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/c-0/7
+msgctxt "Skylar"
+msgid "I don't... really know."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/c-0/15
+msgctxt "Skylar"
+msgid "Because I can't see all of it..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Hm. Maybe it's all a bit lost in translation?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/c-0/23/c-0/7
+msgctxt "Skylar"
+msgid "They could have lives parallel to the ones humans have, and we just can't sense it precisely?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_4/0/c-0/23/c-0/15
+msgctxt "Skylar"
+msgid "Maybe..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/0
+msgctxt "Skylar"
+msgid "When a dateable object falls in love with you, it might speak to you in terms of what a human might think of as 'sex'."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/8
+msgctxt "Skylar"
+msgid "It's not."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/16
+msgctxt "Skylar"
+msgid "It's more that your two consciousnesses are intertwining in the vibrational aether caused by the focus of my lenses."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/24
+msgctxt "Skylar"
+msgid "Basically, you're not having sex with your furniture."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/32/b/1
+msgctxt "Skylar"
+msgid "Well, until you Realize them. Then you can do whatever freaky stuff you want..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/35/s/0
+msgctxt "Choix"
+msgid "What if I want to have sex with my furniture?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/36/s/0
+msgctxt "Choix"
+msgid "Okay, I'm kinda relieved honestly."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/37/s/0
+msgctxt "Choix"
+msgid "Hmm... all right."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/c-0/7
+msgctxt "Skylar"
+msgid "You can do that on your own time. I don't need to see that."
+msgstr ""
+
+#: skylar_specs/skylar_lore_5/0/c-1/7
+msgctxt "Skylar"
+msgid "Good."
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/0
+msgctxt "Skylar"
+msgid "Honestly, nothing!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/8
+msgctxt "Skylar"
+msgid "Aside from some traces of some previous owners who I have to keep secret..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/16/s/0
+msgctxt "Choix"
+msgid "What was that??"
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/17/s/0
+msgctxt "Choix"
+msgid "Keep your secrets, then..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/c-0/7
+msgctxt "Skylar"
+msgid "T-t-t-the time isn't right!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/g-0/0
+msgctxt "Skylar"
+msgid "Since we have the only pair of dateviators in existence, there is certainly quite the buzz in the object and concept world!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/g-0/8
+msgctxt "Skylar"
+msgid "There's a whole lot of vibrating going on! Feel it?! Yeeeaahhh!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "But they always seem to talk about me specifically. Am I more special than my neighbors?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/g-0/c-2/7
+msgctxt "Skylar"
+msgid "They are always aware of their other forms in other places, for sure."
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/g-0/c-2/15
+msgctxt "Skylar"
+msgid "But that doesn't mean that the ones in this house are any less or more conscious."
+msgstr ""
+
+#: skylar_specs/skylar_lore_6/0/g-0/c-2/23
+msgctxt "Skylar"
+msgid "A table leg never forgets... no matter where it is."
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/0
+msgctxt "Skylar"
+msgid "Aw... thank you!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/8/s/0
+msgctxt "Choix"
+msgid "You are!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/9/s/0
+msgctxt "Choix"
+msgid "I meant the others."
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/c-0/7
+msgctxt "Skylar"
+msgid "Always nice to hear..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/c-1/7
+msgctxt "Skylar"
+msgid "Jeez, harsh."
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/g-0/0
+msgctxt "Skylar"
+msgid "Honestly, the reason is that I can shape anyone into whatever form I want!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/g-0/8
+msgctxt "Skylar"
+msgid "Sure there are quite a few who other humans might call 'hotties'..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/g-0/16
+msgctxt "Skylar"
+msgid "But it's just my best representation of what they are in total!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "So, you're an artist?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/g-0/c-2/7
+msgctxt "Skylar"
+msgid "<i>hairflip</i> It's true... And I think I have a very good artistic eye."
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Well, thanks for that then!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_7/0/g-0/c-2/15/c-0/7
+msgctxt "Skylar"
+msgid "You're welcome."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/0
+msgctxt "Skylar"
+msgid "Yes, each object is the same from all corners of the universe."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/8
+msgctxt "Skylar"
+msgid "Once the form of each object took shape, say 'microwave', the animus of its carrier was born."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/16/b/1
+msgctxt "Skylar"
+msgid "Luke Nukem, as you know."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/17/b/1
+msgctxt "Skylar"
+msgid "You don't know him yet, but his name is Luke."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/17/b/12
+msgctxt "Skylar"
+msgid "Luke Nukem."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/20
+msgctxt "Skylar"
+msgid "There might be deviations between ones around the world, but once the metal and circuits become a microwave, it then vibrates along Luke's very own wavelength."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/28/s/0
+msgctxt "Choix"
+msgid "What happens if all microwaves were destroyed, or forgotten?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/29/s/0
+msgctxt "Choix"
+msgid "I've seen different forms of the same dateable object..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/c-0/7
+msgctxt "Skylar"
+msgid "An animus can leave a skeleton of itself once the concept has gone away..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/c-0/15
+msgctxt "Skylar"
+msgid "In this way, objects and concepts can 'die'..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/c-0/23
+msgctxt "Skylar"
+msgid "But they can always be resurrected if someone comes along and reconstructs it somewhere..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/c-1/7
+msgctxt "Skylar"
+msgid "It's true - there are several Dorians for example, even here."
+msgstr ""
+
+#: skylar_specs/skylar_lore_8/0/c-1/15
+msgctxt "Skylar"
+msgid "Sometimes, it's just fun to put on a costume!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/0
+msgctxt "Skylar"
+msgid "Realization is possible when the object is giving off so much positive energy from feeling loved or becoming a good friend that I'm able to really easily 'hook in' to their animus!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/8
+msgctxt "Skylar"
+msgid "If this is then paired with an exceptional wearer of the dateviators who has the same potential SPECS energy to complete the circuit..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/16
+msgctxt "Skylar"
+msgid "I can mold the animus vibrations to make a real human!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/24
+msgctxt "Skylar"
+msgid "Or at least, a really close approximation of one."
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/32/s/0
+msgctxt "Choix"
+msgid "Wait, so they aren't humans?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/33/s/0
+msgctxt "Choix"
+msgid "Close enough for me."
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/c-0/7
+msgctxt "Skylar"
+msgid "They will always have their own vibrations underneath..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_9/0/c-1/7
+msgctxt "Skylar"
+msgid "Good! If it looks like a duck, and quacks like a duck... quack, quack, right?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/0
+msgctxt "Skylar"
+msgid "I'm relieved you asked - because it certainly does seem problematic on the surface!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/8
+msgctxt "Skylar"
+msgid "Bring these objects to life, only to have them eventually die??"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/16/s/0
+msgctxt "Choix"
+msgid "Yeah, these are the kinda problems I face."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/17/s/0
+msgctxt "Choix"
+msgid "It does seem a little strange."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/c-0/7
+msgctxt "Skylar"
+msgid "All part of being human..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/c-1/7
+msgctxt "Skylar"
+msgid "I'll explain."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/0
+msgctxt "Skylar"
+msgid "When I'm Realizing an object, I'm not really transferring all of their animus to an existing human body, or creating any real 'flesh'."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/8
+msgctxt "Skylar"
+msgid "It's more that I'm molding the animus around us into a very lifelike human substitute that follows practically every human feature you're familiar with."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/16
+msgctxt "Skylar"
+msgid "Like, a really good veggie burger!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "I love veggie burgers!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "I don't like talking about flesh like this..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Human substitutes... I guess that makes sense?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/c-2/7
+msgctxt "Skylar"
+msgid "Sure whatever!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "You asked... I'm answerin'!"
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-1/0
+msgctxt "Skylar"
+msgid "When the Realized object passes away eventually, the animus simply resolves back into its original form."
+msgstr ""
+
+#: skylar_specs/skylar_lore_10/0/g-1/8
+msgctxt "Skylar"
+msgid "That even means there's no corpse or anything. Pretty neat, huh?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/0
+msgctxt "Skylar"
+msgid "Well... since we now know that objects have consciousness just as rich and worldly as humans do..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/8
+msgctxt "Skylar"
+msgid "That means that humans themselves are part of their own unified animus."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/16
+msgctxt "Skylar"
+msgid "The implications are..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/24/s/0
+msgctxt "Choix"
+msgid "That we're all just 'Humy the Human'?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/25/s/0
+msgctxt "Choix"
+msgid "Bewildering..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/26/s/0
+msgctxt "Choix"
+msgid "That I'm part of my own wavelength called the"
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/26/s/5
+msgctxt "Choix"
+msgid "animus..."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/c-0/7
+msgctxt "Skylar"
+msgid "Well, more that you're all more interconnected than you think."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/c-0/15
+msgctxt "Skylar"
+msgid "That's why spreading Love around is the most important thing to me."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/c-1/7
+msgctxt "Skylar"
+msgid "Yep."
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/c-2/7
+msgctxt "Skylar"
+msgid "Ooooo, that's an interesting interpretation... huuh?"
+msgstr ""
+
+#: skylar_specs/skylar_lore_11/0/g-0/0
+msgctxt "Skylar"
+msgid "Either way, we won't know until we step outside."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/0
+msgctxt "Skylar"
+msgid "What do you think about that?"
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/8/s/0
+msgctxt "Choix"
+msgid "I think that makes perfect sense!"
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/9/s/0
+msgctxt "Choix"
+msgid "It's a lot to take in... but I believe it."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/10/s/0
+msgctxt "Choix"
+msgid "Honestly? Needs a little work."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/11/s/0
+msgctxt "Choix"
+msgid "That's ridiculous."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-0/7/b/1 skylar_specs/after_lore_sorter/0/c-1/7/b/1
+msgctxt "Skylar"
+msgid "Whew! What a relief!"
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-0/8/b/1 skylar_specs/after_lore_sorter/0/c-1/8/b/1
+msgctxt "Skylar"
+msgid "Yes! Thank you!"
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-0/9/b/1 skylar_specs/after_lore_sorter/0/c-1/9/b/1
+msgctxt "Skylar"
+msgid "Nice! Thank you!"
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-0/10/b/1 skylar_specs/after_lore_sorter/0/c-1/10/b/1
+msgctxt "Skylar"
+msgid "All right..."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-0/11/b/1 skylar_specs/after_lore_sorter/0/c-1/11/b/1 skylar_specs/skylar_hello_2/0/c-1/7
+msgctxt "Skylar"
+msgid "Yes..."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-2/7/b/1 skylar_specs/after_lore_sorter/0/c-3/7/b/1
+msgctxt "Skylar"
+msgid "Ugh... no..."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-2/8/b/1
+msgctxt "Skylar"
+msgid "No... no, come on!"
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-2/9/b/1 skylar_specs/after_lore_sorter/0/c-3/9/b/1
+msgctxt "Skylar"
+msgid "Uh oh..."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-2/10/b/1 skylar_specs/after_lore_sorter/0/c-3/10/b/1
+msgctxt "Skylar"
+msgid "Hm... okay."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-2/11/b/1
+msgctxt "Skylar"
+msgid "Darn..."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-3/8/b/1
+msgctxt "Skylar"
+msgid "No... no, really?!"
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/c-3/11/b/1
+msgctxt "Skylar"
+msgid "Darnit..."
+msgstr ""
+
+#: skylar_specs/after_lore_sorter/0/g-0/3
+msgctxt "Skylar"
+msgid "Thanks for asking!"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/0
+msgctxt "Skylar"
+msgid "Listen, I'm glad you asked me about this..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/8
+msgctxt "Skylar"
+msgid "You see, my inner workings are based on some very specific tech that was created by one of Valdivian's founders..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/16
+msgctxt "Skylar"
+msgid "I'm gonna show you my insides... ya ready?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/24/s/0
+msgctxt "Choix"
+msgid "Ew, gross!"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/25/s/0
+msgctxt "Choix"
+msgid "Ready..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/26/s/0
+msgctxt "Choix"
+msgid "I'm kinda into that..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/c-0/7
+msgctxt "Skylar"
+msgid "Sorry... but it's gonna be worth it!"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/c-2/7
+msgctxt "Skylar"
+msgid "Oh! Uh. Cool?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/0
+msgctxt "Narrator"
+msgid "Skylar points to her own dateviators, and invites you to look closely."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/11
+msgctxt "Narrator"
+msgid "You see there is a small space just between the lens and the earpiece."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/19
+msgctxt "Skylar"
+msgid "This is my suspension. It keeps these dateviators running."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/27
+msgctxt "Skylar"
+msgid "It's... not doing great."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/35/s/0
+msgctxt "Choix"
+msgid "Why would glasses have a suspension? Isn't that for cars?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/36/s/0
+msgctxt "Choix"
+msgid "I'm sorry to hear that."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "Ding, ding!! That's exactly the thing..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "Thanks..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-1/0
+msgctxt "Skylar"
+msgid "It's a very special type of suspension."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-1/8
+msgctxt "Skylar"
+msgid "A Suspension of Disbelief."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "You're kidding me."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Oh..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "What does that mean?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-1/c-5/7
+msgctxt "Skylar"
+msgid "I'm not!"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-1/c-6/7
+msgctxt "Skylar"
+msgid "I know... I'm a sad pair of lenses here."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/0
+msgctxt "Skylar"
+msgid "Basically it works super hard to make everything in this little love experiment work."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/8
+msgctxt "Skylar"
+msgid "But it's strained, really strained, with all these wild things going on around here!"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/16
+msgctxt "Skylar"
+msgid "Talking to objects?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/24/b/1
+msgctxt "Skylar"
+msgid "Bringing them to life?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/27
+msgctxt "Skylar"
+msgid "Objects having names and hidden lives and sexy human bodies and everything?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/35
+msgctxt "Skylar"
+msgid "It can barely handle it!"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/43/s/0
+msgctxt "Choix"
+msgid "How can I help?"
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/44/s/0
+msgctxt "Choix"
+msgid "This is pretty silly, you have to admit."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/45/s/0
+msgctxt "Choix"
+msgid "I'm okay with the metaphor here, but I still think it's important for lore to work."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/c-8/7
+msgctxt "Skylar"
+msgid "Just... give it a little love."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/c-9/7
+msgctxt "Skylar"
+msgid "No no no no no... I really don't want to admit that."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/c-9/15
+msgctxt "Skylar"
+msgid "It would hurt her too much..."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/c-10/7
+msgctxt "Skylar"
+msgid "Ohhh yeah... you're one of those."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-2/c-10/15
+msgctxt "Skylar"
+msgid "No problem. We'll try harder next time."
+msgstr ""
+
+#: skylar_specs/suspension_explain/0/g-3/0
+msgctxt "Skylar"
+msgid "Anyway..."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_good/0/0
+msgctxt "Narrator"
+msgid "You take a closer look at Skylar's suspension of disbelief. It's hard to be sure, but she seems pleased."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_good/0/8
+msgctxt "Skylar"
+msgid "You just believed in her, so she feels strengthened."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_good/0/19 skylar_specs/suspension_2/20/b/20
+msgctxt "Skylar"
+msgid "Thanks for that... It really means a lot to me."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_good/0/27/s/0
+msgctxt "Choix"
+msgid "No problem!"
+msgstr ""
+
+#: skylar_specs/first_suspension_score_good/0/28/s/0
+msgctxt "Choix"
+msgid "Well, only because what you said made sense."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_good/0/c-0/7
+msgctxt "Narrator"
+msgid "Skylar smiles warmly and lets you go."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_good/0/c-1/7
+msgctxt "Skylar"
+msgid "Good enough, I guess."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_bad/0/0
+msgctxt "Narrator"
+msgid "You take a closer look at Skylar's suspension of disbelief. It's hard to be sure, but she seems upset."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_bad/0/8
+msgctxt "Skylar"
+msgid "You just thought she did a bad job with our explanation, so she's hurt."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_bad/0/16 skylar_specs/suspension_2/21/b/17
+msgctxt "Skylar"
+msgid "This... kinda means a lot to me. So please try to be careful."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_bad/0/24/s/0
+msgctxt "Choix"
+msgid "No promises."
+msgstr ""
+
+#: skylar_specs/first_suspension_score_bad/0/25/s/0
+msgctxt "Choix"
+msgid "You got it, Skylar."
+msgstr ""
+
+#: skylar_specs/suspension_2/0
+msgctxt "Skylar"
+msgid "Um... my Suspension just gave a little wiggle."
+msgstr ""
+
+#: skylar_specs/suspension_2/11
+msgctxt "Narrator"
+msgid "Skylar shows you her dateviators, turning them so that you can see her Suspension of Disbelief."
+msgstr ""
+
+#: skylar_specs/suspension_2/19/b/1 skylar_specs/suspension_3/19/b/1 skylar_specs/suspension_3/20/b/1
+msgctxt "Narrator"
+msgid "Skylar's Suspension looks uncertain somehow, as if, perhaps, she could use some reassurance."
+msgstr ""
+
+#: skylar_specs/suspension_2/19/b/9 skylar_specs/suspension_3/19/b/9 skylar_specs/suspension_3/20/b/9
+msgctxt "Skylar"
+msgid "She feels a little shaky... torn between two poles."
+msgstr ""
+
+#: skylar_specs/suspension_2/19/b/17 skylar_specs/suspension_3/19/b/25 skylar_specs/suspension_3/20/b/25
+msgctxt "Skylar"
+msgid "Try to give her a little more love next time yeah?"
+msgstr ""
+
+#: skylar_specs/suspension_2/20/b/1
+msgctxt "Narrator"
+msgid "Skylar's Suspension seems buoyed somehow, happier than you'd last seen her."
+msgstr ""
+
+#: skylar_specs/suspension_2/20/b/9
+msgctxt "Skylar"
+msgid "You believed in her again, so she feels even stronger."
+msgstr ""
+
+#: skylar_specs/suspension_2/21/b/1
+msgctxt "Narrator"
+msgid "Skylar's Suspension looks worse for wear, clear hurt in her eyes."
+msgstr ""
+
+#: skylar_specs/suspension_2/21/b/9
+msgctxt "Skylar"
+msgid "You were skeptical again... she doesn't do well with that."
+msgstr ""
+
+#: skylar_specs/suspension_3/0
+msgctxt "Skylar"
+msgid "Oh... my Suspension. What's that she's saying...?"
+msgstr ""
+
+#: skylar_specs/suspension_3/11
+msgctxt "Narrator"
+msgid "Skylar removes her dateviators, holding them out so that you can see her Suspension of Disbelief."
+msgstr ""
+
+#: skylar_specs/suspension_3/19/b/17
+msgctxt "Skylar"
+msgid "But leaning towards a darker side..."
+msgstr ""
+
+#: skylar_specs/suspension_3/20/b/17
+msgctxt "Skylar"
+msgid "Fortunately heading more towards a healthy side... but no guarantees."
+msgstr ""
+
+#: skylar_specs/suspension_4/0
+msgctxt "Skylar"
+msgid "The Suspension of Disbelief just wiggled ferociously!"
+msgstr ""
+
+#: skylar_specs/suspension_4/11
+msgctxt "Narrator"
+msgid "Skylar takes off her glasses, peering at the Suspension nestled within the hinge. She turns them to show you, concern etched into her pretty face."
+msgstr ""
+
+#: skylar_specs/suspension_4/19/b/1
+msgctxt "Narrator"
+msgid "The Suspension looks pained, as though something were truly wearing on her. Skylar, too, looks pained at the sight of her."
+msgstr ""
+
+#: skylar_specs/suspension_4/19/b/9
+msgctxt "Skylar"
+msgid "Ugh..."
+msgstr ""
+
+#: skylar_specs/suspension_4/19/b/17
+msgctxt "Skylar"
+msgid "You're walking a really fine tightrope here."
+msgstr ""
+
+#: skylar_specs/suspension_4/19/b/25
+msgctxt "Skylar"
+msgid "Please, for her sake... give it a chance."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/10
+msgctxt "Narrator"
+msgid "Skylar beams at you, her eyes glimmering behind her glasses—are those happy tears?"
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/18
+msgctxt "Narrator"
+msgid "For a moment she looks as though she's contemplating hugging you, but she manages to keep her arms at her sides, her hands curled into excited fists."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/26
+msgctxt "Skylar"
+msgid "Yes!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/37
+msgctxt "Skylar"
+msgid "You... you did it."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/45
+msgctxt "Skylar"
+msgid "My Suspension of Disbelief has been upheld!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/56
+msgctxt "Skylar"
+msgid "She's in there right now feeling GREAT."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/64
+msgctxt "Skylar"
+msgid "It kinda itches but it's okay."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/72
+msgctxt "Skylar"
+msgid "I love it."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/80
+msgctxt "Narrator"
+msgid "There's a few moments of silence as something seems to dawn on Skylar. Her smile softens, her eyes warm and inviting."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/88
+msgctxt "Skylar"
+msgid "<w>I love you.</w>"
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/96
+msgctxt "Skylar"
+msgid "...will you accept it?"
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/104/s/0
+msgctxt "Choix"
+msgid "Of course, Skylar."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/105/s/0
+msgctxt "Choix"
+msgid "Skylar - I always thought of you more as the 'tutorial friend'."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/c-0/7
+msgctxt "Narrator"
+msgid "And just like that, Skylar is back to her chipper self—but the warmth in her gaze remains."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/c-0/15
+msgctxt "Skylar"
+msgid "Yay! Love love love!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/c-1/7
+msgctxt "Narrator"
+msgid "Skylar gives you a kind smile."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/c-1/15
+msgctxt "Skylar"
+msgid "Makes perfect sense."
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/c-1/23
+msgctxt "Skylar"
+msgid "Don't want to get too close to the tutorial lady!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_good/0/c-1/31
+msgctxt "Skylar"
+msgid "Friend-zoned it is!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/10
+msgctxt "Narrator"
+msgid "Skylar looks absolutely devastated. Her hands tremble at her sides, and she raises one of them to her temple, but it doesn't seem to help her deal with whatever's causing her such pain."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/18
+msgctxt "Skylar"
+msgid "Ughh..."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/29
+msgctxt "Skylar"
+msgid "No!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/40
+msgctxt "Narrator"
+msgid "She removes her dateviators, a tear sliding down her cheek. Your gaze drifts down to Skylar's Suspension of Disbelief, and you see that she appears to be crying, too."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/48
+msgctxt "Skylar"
+msgid "Ah... you've done it. Biffed the whole wazoo."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/56
+msgctxt "Skylar"
+msgid "My Suspension of Disbelief, has been disbelieved."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/64
+msgctxt "Skylar"
+msgid "Why do I even bother explaining things?"
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/72/s/0
+msgctxt "Choix"
+msgid "I just think that lore should hold up to scrutiny."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/73/s/0
+msgctxt "Choix"
+msgid "Your lore sucks and you know it!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/74/s/0
+msgctxt "Choix"
+msgid "Sorry Skylar... I didn't mean to hurt her."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/c-0/7
+msgctxt "Skylar"
+msgid "Too bad you don't."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/c-0/15
+msgctxt "Skylar"
+msgid "...sorry. That was spiteful."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/c-0/23
+msgctxt "Skylar"
+msgid "See you around."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/c-1/7
+msgctxt "Skylar"
+msgid "...what?!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/c-1/18
+msgctxt "Skylar"
+msgid "Tell that to me the next time you speak with another dateable object."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/c-1/26
+msgctxt "Skylar"
+msgid "Loner."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/c-2/7
+msgctxt "Skylar"
+msgid "It doesn't matter..."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/g-0/3
+msgctxt "Narrator"
+msgid "You've never felt such distance from Skylar—as you watch her walk away, you can't help but feel... well, a bit of disbelief."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/g-0/39
+msgctxt "Narrator"
+msgid "Reggie rushes into the room so quickly he nearly falls over. He doubles over for a few moments to catch his breath, reaching out toward Skylar's retreating figure in the distance."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/g-0/50
+msgctxt "Reggie"
+msgid "Hey don't go, Skylar!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/g-0/64
+msgctxt "Reggie"
+msgid "I gotta gloat some!"
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/g-0/72
+msgctxt "Narrator"
+msgid "Skylar doesn't even grant him the respect of a look backwards."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/g-0/83
+msgctxt "Skylar"
+msgid "Gloat on your own time."
+msgstr ""
+
+#: skylar_specs/suspension_decide_bad/0/g-0/91
+msgctxt "Reggie"
+msgid "I do... but it's still not enough!"
+msgstr ""
+
+#: skylar_specs/skylar_endgame_sorter/0/5
+msgctxt "Skylar"
+msgid "Okay... lemme think..."
+msgstr ""
+
+#: skylar_specs/no_more_endgames/4
+msgctxt "Skylar"
+msgid "Whoops - that's it! I'm all outta clues!"
+msgstr ""
+
+#: skylar_specs/no_more_endgames/12
+msgctxt "Skylar"
+msgid "Maybe... go look online. If you still need help."
+msgstr ""
+
+#: skylar_specs/skylar_airyn/4
+msgctxt "Skylar"
+msgid "Airyn the Air can be found by turning the thermostat down and looking at the vents for a puff of air!"
+msgstr ""
+
+#: skylar_specs/skylar_ben/4
+msgctxt "Skylar"
+msgid "Ben-hwa the Sex Toys can be found next to your bedroom drawer, underneath the lamp!"
+msgstr ""
+
+#: skylar_specs/skylar_bobby/4
+msgctxt "Skylar"
+msgid "Bobby Pinn the Bobby Pin can be found next to the vacuum cleaner in the laundry room closet! Very small - right on the ground!"
+msgstr ""
+
+#: skylar_specs/skylar_daemon/4
+msgctxt "Skylar"
+msgid "Daemon can be found in the dresser next to your bed! Keep trying if it doesn't work the first time!"
+msgstr ""
+
+#: skylar_specs/skylar_dolly/4
+msgctxt "Skylar"
+msgid "Dolly the Dust Bunny can be found by tapping the side of the couch next to the fireplace!"
+msgstr ""
+
+#: skylar_specs/skylar_doug/4
+msgctxt "Skylar"
+msgid "Doug your Overwhelming Sense of Existential Dread (hi!)can be found by staring at the blank wall across from the candelabra for 30 seconds."
+msgstr ""
+
+#: skylar_specs/skylar_farya/4
+msgctxt "Skylar"
+msgid "Farya the First Aid Kit can be found underneath the sink in the bottom floor bathroom!"
+msgstr ""
+
+#: skylar_specs/skylar_jerry/4
+msgctxt "Skylar"
+msgid "Jerry the Junk Drawer can be found inside the desk in your office - top drawer!"
+msgstr ""
+
+#: skylar_specs/skylar_nightmare/4
+msgctxt "Skylar"
+msgid "Nightmare (rraawwrr) can be found by drinking coffee at midnight and going to sleep! Stupid, right?"
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/4
+msgctxt "Skylar"
+msgid "Reggie Rejection can be found by getting a Hate ending with any dateable!"
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/15/s/0
+msgctxt "Choix"
+msgid "But... I don't want to get Hate endings..."
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/16/s/0
+msgctxt "Choix"
+msgid "Ah, makes sense!"
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/c-0/7
+msgctxt "Skylar"
+msgid "It's okay - there's no real penalty unless you're going for a 100% Love run."
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/c-0/15
+msgctxt "Skylar"
+msgid "But even in that case... I got ya covered!"
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Okay, sounds good!"
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I seriously don't want to hurt anyone's feelings."
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/c-0/23/c-1/7
+msgctxt "Skylar"
+msgid "Well... if there's anyone I can steer you toward who definitely won't get their feelings hurt..."
+msgstr ""
+
+#: skylar_specs/skylar_reggie/0/c-0/23/c-1/15
+msgctxt "Skylar"
+msgid "I would say get Parker or Daemon to hate you!"
+msgstr ""
+
+#: skylar_specs/skylar_river/4
+msgctxt "Skylar"
+msgid "River can be found by filling any sink or bathtub and awakening the water itself!"
+msgstr ""
+
+#: skylar_specs/skylar_sassy/4
+msgctxt "Skylar"
+msgid "The Sassy Chap can be found by holding the awakening button while the credits are open on the phone!"
+msgstr ""
+
+#: skylar_specs/skylar_shadow/4
+msgctxt "Skylar"
+msgid "Shadowlord can be found by awakening the strange shadow cast by the globe in the living room! Ooo, bad boy..."
+msgstr ""
+
+#: skylar_specs/skylar_textbox/4
+msgctxt "Skylar"
+msgid "Textbox-chan can be found by holding the awakening button while the \"You have already talked to this object today\" UI pop-up displays in the house!"
+msgstr ""
+
+#: skylar_specs/skylar_trapdoor/4
+msgctxt "Skylar"
+msgid "The key to the attic is hidden underneath the rug in the office closet! Simply interact with it to reveal a trapdoor! Ooooo, cool, huh?"
+msgstr ""
+
+#: skylar_specs/skylar_willi/4
+msgctxt "Skylar"
+msgid "Willi Work can be found by holding the awakening button while you have your Valdivian job display open on either your phone or computer!"
+msgstr ""
+
+#: skylar_specs/skylar_zoey/4
+msgctxt "Skylar"
+msgid "Zoey the Ghost can be found in the attic at midnight!"
+msgstr ""
+
+#: skylar_specs/endgame_after/0/0
+msgctxt "Skylar"
+msgid "How's that? Wanna go find your new dateable?"
+msgstr ""
+
+#: skylar_specs/endgame_after/0/8/s/0
+msgctxt "Choix"
+msgid "Yep, let's go!"
+msgstr ""
+
+#: skylar_specs/endgame_after/0/9/s/0
+msgctxt "Choix"
+msgid "Can I have more hints?"
+msgstr ""
+
+#: skylar_specs/endgame_after/0/c-0/7
+msgctxt "Skylar"
+msgid "Sounds great!"
+msgstr ""
+
+#: skylar_specs/endgame_after/0/c-1/12
+msgctxt "Skylar"
+msgid "Uhhh..."
+msgstr ""
+
+#: skylar_specs/endgame_after/0/c-1/20
+msgctxt "Skylar"
+msgid "Sure!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/6
+msgctxt "Skylar"
+msgid "Hey, how is your day going? Forging some new relates?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/14
+msgctxt "Skylar"
+msgid "That's short for 'relationships'."
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/22
+msgctxt "Skylar"
+msgid "I think about this stuff a LOT."
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/30/s/0
+msgctxt "Choix"
+msgid "I'm having a freakin' blast!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/31/s/0
+msgctxt "Choix"
+msgid "It's going okay, I guess?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/32/s/0
+msgctxt "Choix"
+msgid "I'm having a tough time."
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/c-0/7
+msgctxt "Skylar"
+msgid "Yes, yes! Knew I was good for something!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/c-1/7
+msgctxt "Skylar"
+msgid "Okay is better than awful!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/c-2/7
+msgctxt "Skylar"
+msgid "I'm actually sorry to hear that."
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/g-0/0
+msgctxt "Skylar"
+msgid "How about a nice menu?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/g-0/8
+msgctxt "Skylar"
+msgid "I have lots of different ones, all different styles!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_1/0/g-0/16
+msgctxt "Skylar"
+msgid "Here's the main one!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/6
+msgctxt "Skylar"
+msgid "Yoooooo. Yoyoyoyo! How's it going!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/14/s/0
+msgctxt "Choix"
+msgid "Okay I guess."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/15/s/0
+msgctxt "Choix"
+msgid "Pretty good!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/16/s/0
+msgctxt "Choix"
+msgid "Bad."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/c-0/7
+msgctxt "Skylar"
+msgid "Well here's hoping it gets better!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/c-2/7
+msgctxt "Skylar"
+msgid "Aw... well just know that I'm here for you."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/0
+msgctxt "Skylar"
+msgid "Okay, there's a little tidbit I want to share..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/8
+msgctxt "Skylar"
+msgid "You might be wondering how all this \"DATE\"-ing technology works..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Sure I am."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "No, I'm okay with it."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "Yeah, I thought so."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "R-R-Really? Y-you are?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/21/0/s/0
+msgctxt "Choix"
+msgid "Yeah, makes sense to me. You bring stuff to life and I can date them."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/21/1/s/0
+msgctxt "Choix"
+msgid "Actually, I was just being polite then. I do want to know how it works."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/21/c-0/7
+msgctxt "Skylar"
+msgid "Oh... oh boy!!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/21/c-0/15
+msgctxt "Skylar"
+msgid "That really means a lot to me."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/21/c-0/23
+msgctxt "Skylar"
+msgid "Ugh, okay. I have a lot of self-doubt about my whole deal. There's a lot that doesn't make ANY sense at all about any of this, right?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/21/c-0/31
+msgctxt "Skylar"
+msgid "But, wow, this kind of nonchalance? Well, that's the kind of fun loving human I like."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-0/c-4/21/c-0/39
+msgctxt "Skylar"
+msgid "...maybe even love..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_2/0/g-1/0
+msgctxt "Skylar"
+msgid "If you're ever curious, you can ask about my mysterious inner-workings in the 'chat with me' menu!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/6
+msgctxt "Skylar"
+msgid "Well hey to yourself."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/14
+msgctxt "Skylar"
+msgid "I have an answer for a question you might have."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/22
+msgctxt "Skylar"
+msgid "Why is it that the objects appear as human forms?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/30
+msgctxt "Skylar"
+msgid "Because they are objects, they could very well appear as cats, or dogs, or grasshoppers!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/38/s/0
+msgctxt "Choix"
+msgid "No, I wasn't wondering that at all."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/39/s/0
+msgctxt "Choix"
+msgid "Huh... never thought of that but now that you say it..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/40/s/0
+msgctxt "Choix"
+msgid "Yeah, I was wondering that."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/c-0/7
+msgctxt "Skylar"
+msgid "Oh, well great! Let's get on with the menus!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/0
+msgctxt "Skylar"
+msgid "Ah I'm so glad! We're on the same bandwidth and everything. Cool..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/8
+msgctxt "Skylar"
+msgid "So. It's because these particular dateviators were built to fit on a human face. As they coalesce the anima in the objects, they will always appear as human."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/16
+msgctxt "Skylar"
+msgid "If I was a dog version of the dateviators (arf arf!) then when pooches would see through me they would see all the dateables as canines!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/24
+msgctxt "Skylar"
+msgid "Is that cool, or weird? I'm not sure."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "It's cool."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "It's weird."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "Yesssss I'm cool. I'm so coooool."
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "Eh, weird is okay though!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-0/c-4/15
+msgctxt "Skylar"
+msgid "Right?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_3/0/g-1/0 skylar_specs/skylar_hello_4/0/c-3/23/g-0/27/g-0/0 skylar_specs/skylar_hot/49
+msgctxt "Skylar"
+msgid "Menu time!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/6
+msgctxt "Skylar"
+msgid "I'm really glad you keep coming back to me, I gotta say."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/14
+msgctxt "Skylar"
+msgid "Being the \"tutorial lady\" means that people usually like to ignore you."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/22/s/0
+msgctxt "Choix"
+msgid "I think you're swell!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/23/s/0
+msgctxt "Choix"
+msgid "Hey, is there a broom I can date?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/24/s/0
+msgctxt "Choix"
+msgid "Eh, you'll always be the tutorial lady to me."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/25/s/0
+msgctxt "Choix"
+msgid "How do I get into the attic?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-0/7
+msgctxt "Skylar"
+msgid "Aw thanks!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/7
+msgctxt "Skylar"
+msgid "What? No. Why would there be a broom?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "I looked around a bit and there wasn't one. Seems like an oversight?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/7
+msgctxt "Skylar"
+msgid "There's a vacuum cleaner if you want that, or like laundry detergent for cleaning."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/15
+msgctxt "Skylar"
+msgid "Theres-there's so many other things!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/23
+msgctxt "Skylar"
+msgid "You never bought one!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/34
+msgctxt "Skylar"
+msgid "That's why there isn't a broom."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/42
+msgctxt "Skylar"
+msgid "You never bought one and that's why."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/50
+msgctxt "Skylar"
+msgid "It's your own damn fault."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/58/0/s/0
+msgctxt "Choix"
+msgid "I'm just asking!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-1/18/c-0/58/c-0/7
+msgctxt "Skylar"
+msgid "And I'm answering!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-2/7
+msgctxt "Skylar"
+msgid "Part of the job."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-2/15
+msgctxt "Skylar"
+msgid "Which is why I've got all the menus..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/7
+msgctxt "Skylar"
+msgid "Well... honestly..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/15
+msgctxt "Skylar"
+msgid "I'm not quite sure."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "Aw, I thought you'd have a hint or something..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/1/s/0 skylar_specs/reggie_allcorrect/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Really?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/c-0/7
+msgctxt "Skylar"
+msgid "No... sorry."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/c-1/7
+msgctxt "Skylar"
+msgid "Really."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/g-0/0
+msgctxt "Skylar"
+msgid "But more importantly!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/g-0/8
+msgctxt "Skylar"
+msgid "Why do you have a rug in a closet?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/g-0/19
+msgctxt "Skylar"
+msgid "You weirdo."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/g-0/27/0/s/0
+msgctxt "Choix"
+msgid "Was <i>that</i> a hint?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/g-0/27/1/s/0
+msgctxt "Choix"
+msgid "I'm not a weirdo."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/g-0/27/2/s/0
+msgctxt "Choix"
+msgid "I <i>am</i> a weirdo."
+msgstr ""
+
+#: skylar_specs/skylar_hello_4/0/c-3/23/g-0/27/c-2/7
+msgctxt "Skylar"
+msgid "Join the club!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_5/6
+msgctxt "Skylar"
+msgid "50 times?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_5/14
+msgctxt "Skylar"
+msgid "Freaking weirdo."
+msgstr ""
+
+#: skylar_specs/skylar_hello_5/22/b/1
+msgctxt "Skylar"
+msgid "I love weirdos."
+msgstr ""
+
+#: skylar_specs/skylar_hello_5/23/b/1
+msgctxt "Skylar"
+msgid "You can be weird any time you like, friend."
+msgstr ""
+
+#: skylar_specs/skylar_hello_5/24/b/1
+msgctxt "Skylar"
+msgid "And you never got an ending with me? Super-weirdo."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/4
+msgctxt "Skylar"
+msgid "Hey there, O Great Purchaser of DLC!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/15/s/0
+msgctxt "Choix"
+msgid "Ah, I'm just a humble gamer."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/16/s/0
+msgctxt "Choix"
+msgid "Thank you for addressing me properly."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/17/s/0
+msgctxt "Choix"
+msgid "Hi, Skylar!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/c-0/7
+msgctxt "Skylar"
+msgid "Perish the thought!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/c-1/7
+msgctxt "Skylar"
+msgid "Indubitably!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/0
+msgctxt "Skylar"
+msgid "If you're wondering where those extra dateables are that you purchased, fear not! For I can guide you!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Nah, I'm good being surprised!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Yeah, where are they?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "Same here!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "The first one, Mikey, is really easy to find."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/c-4/15
+msgctxt "Skylar"
+msgid "He's the neat little treasure chest right next to your bed!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/c-4/26/0/s/0
+msgctxt "Choix"
+msgid "Yeah, I've met him!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/c-4/26/1/s/0
+msgctxt "Choix"
+msgid "Thanks!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/c-4/26/2/s/0
+msgctxt "Choix"
+msgid "I guess that makes sense..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-0/c-4/26/c-0/7
+msgctxt "Skylar"
+msgid "Awesome! Then my advice was really unhelpful!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/0
+msgctxt "Skylar"
+msgid "As for the second one... Lucinda Lavish?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Oh, I've met her."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Where is she?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-5/7
+msgctxt "Skylar"
+msgid "Well, then, let's get to the menus because I can't help you anymore!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/7
+msgctxt "Skylar"
+msgid "Unfortunately... she was added too late in development to actually exist anywhere in this house!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/15
+msgctxt "Skylar"
+msgid "I've looked everywhere!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/23
+msgctxt "Skylar"
+msgid "Which means..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/31
+msgctxt "Skylar"
+msgid "You'll just have to be patient and awaken more dateables until the developers sort this out..."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/42/0/s/0
+msgctxt "Choix"
+msgid "Just be patient? Like how long are we talking?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/42/1/s/0
+msgctxt "Choix"
+msgid "Where can I find these developers to get them to hurry up?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/42/c-0/7
+msgctxt "Skylar"
+msgid "4-6 months?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/42/c-0/15
+msgctxt "Skylar"
+msgid "Sorry!"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/42/c-1/7
+msgctxt "Skylar"
+msgid "Oh! Well... they are definitely here in the house."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/g-1/c-6/42/c-1/15
+msgctxt "Skylar"
+msgid "Have you tried looking through the apps in your phone?"
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/dlctutorialskip/0
+msgctxt "Skylar"
+msgid "Anyway... enough of Tutorial Lady."
+msgstr ""
+
+#: skylar_specs/skylar_hello_dlc/0/dlctutorialskip/8
+msgctxt "Skylar"
+msgid "It's time for Menu Lady!"
+msgstr ""
+
+#: skylar_specs/skylar_first_love/6
+msgctxt "Skylar"
+msgid "Oh wowie wowie zowie!"
+msgstr ""
+
+#: skylar_specs/skylar_first_love/14
+msgctxt "Skylar"
+msgid "You found Love!"
+msgstr ""
+
+#: skylar_specs/skylar_first_love/25/b/1
+msgctxt "Skylar"
+msgid "Exactly one Love!"
+msgstr ""
+
+#: skylar_specs/skylar_first_love/26/b/1
+msgctxt "Skylar"
+msgid "So many Lovers!"
+msgstr ""
+
+#: skylar_specs/skylar_first_love/29
+msgctxt "Skylar"
+msgid "I'm so proud of you!"
+msgstr ""
+
+#: skylar_specs/skylar_first_love/37
+msgctxt "Skylar"
+msgid "Pretty hard to find Love these days, so hopefully that didn't take too long."
+msgstr ""
+
+#: skylar_specs/skylar_first_love/45
+msgctxt "Skylar"
+msgid "Well, all I can say is, keep up the good work!"
+msgstr ""
+
+#: skylar_specs/skylar_first_love/53
+msgctxt "Skylar"
+msgid "Me? I'm gonna catch up on some zines! Like a cool girl..."
+msgstr ""
+
+#: skylar_specs/skylar_first_love/61
+msgctxt "Skylar"
+msgid "But first..."
+msgstr ""
+
+#: skylar_specs/skylar_low/6
+msgctxt "Skylar"
+msgid "Hey there hottie!"
+msgstr ""
+
+#: skylar_specs/skylar_low/14
+msgctxt "Skylar"
+msgid "You've been cruising around LoveVille and filling your car to the brim with babes and bros and non-binary hoes."
+msgstr ""
+
+#: skylar_specs/skylar_low/22
+msgctxt "Skylar"
+msgid "It's a good look."
+msgstr ""
+
+#: skylar_specs/skylar_low/30
+msgctxt "Skylar"
+msgid "Keep it up and I may just say something else cool like that like what I just did."
+msgstr ""
+
+#: skylar_specs/skylar_low/38
+msgctxt "Skylar"
+msgid "Anywho..."
+msgstr ""
+
+#: skylar_specs/skylar_medium/6
+msgctxt "Skylar"
+msgid "Woah, woah, woah!! That's a whole lotta love!"
+msgstr ""
+
+#: skylar_specs/skylar_medium/17
+msgctxt "Skylar"
+msgid "You think you can handle that?"
+msgstr ""
+
+#: skylar_specs/skylar_medium/25
+msgctxt "Skylar"
+msgid "Personally I need to peek at the date-a-dex to keep them all straight."
+msgstr ""
+
+#: skylar_specs/skylar_medium/33
+msgctxt "Skylar"
+msgid "'Tina' versus 'Fantina', yeah, it gives me trouble sometimes..."
+msgstr ""
+
+#: skylar_specs/skylar_medium/47/b/1
+msgctxt "Skylar"
+msgid "Anywho, keep up the good work, Leisure Suit Gary."
+msgstr ""
+
+#: skylar_specs/skylar_medium/48/b/1
+msgctxt "Skylar"
+msgid "Anywho, keep up the good work, Leisure Suit Mary."
+msgstr ""
+
+#: skylar_specs/skylar_medium/49/b/1
+msgctxt "Skylar"
+msgid "Anywho, keep up the good work, Leisure Suit Lover."
+msgstr ""
+
+#: skylar_specs/skylar_hot/6
+msgctxt "Skylar"
+msgid "Hey... slow the eff down."
+msgstr ""
+
+#: skylar_specs/skylar_hot/14
+msgctxt "Skylar"
+msgid "There's too much love in this house!"
+msgstr ""
+
+#: skylar_specs/skylar_hot/25
+msgctxt "Skylar"
+msgid "JK!"
+msgstr ""
+
+#: skylar_specs/skylar_hot/33
+msgctxt "Skylar"
+msgid "You freaking rock."
+msgstr ""
+
+#: skylar_specs/skylar_hot/41
+msgctxt "Skylar"
+msgid "Keep doing this yes keep going woohoo!"
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/6
+msgctxt "Skylar"
+msgid "All right, this is looking to be like you're completing some sort of personal challenge."
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/14
+msgctxt "Narrator"
+msgid "She fans at her face with one hand."
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/22
+msgctxt "Skylar"
+msgid "Or you're trying to get ME all hot and bothered and well dangnabbit it is working!"
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/30
+msgctxt "Skylar"
+msgid "I love Love."
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/38
+msgctxt "Skylar"
+msgid "Love it."
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/49/s/0
+msgctxt "Choix"
+msgid "So do I!"
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/50/s/0
+msgctxt "Choix"
+msgid "I'm gonna get everything to fall in love with me if it's the last thing I do..."
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/c-1/7
+msgctxt "Skylar"
+msgid "I don't feel threatened in the least!"
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/g-0/0
+msgctxt "Skylar"
+msgid "You keep going!!"
+msgstr ""
+
+#: skylar_specs/skylar_spicy/0/g-0/8
+msgctxt "Skylar"
+msgid "But first... menus!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/4
+msgctxt "Skylar"
+msgid "Look, there's one dateable you never met on this journey."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/12
+msgctxt "Skylar"
+msgid "His name is Reggie, and he is basically the concept of Rejection."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/20
+msgctxt "Skylar"
+msgid "Which you never met because you're so perfect at having everyone fall in love with you!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/28/s/0
+msgctxt "Choix"
+msgid "I have no remorse for how lovely I am."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/29/s/0
+msgctxt "Choix"
+msgid "I'm hot, what can I say?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/30/s/0
+msgctxt "Choix"
+msgid "I used a guide."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/c-0/7
+msgctxt "Skylar"
+msgid "Don't worry about it..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/c-1/7
+msgctxt "Skylar"
+msgid "Yeah... I noticed..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/c-2/7
+msgctxt "Skylar"
+msgid "Sure, a guide or shaman can always help you on your path. Never be afraid to seek the help of another!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/c-2/18
+msgctxt "Skylar"
+msgid "I read that on a coffee cup once."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/0
+msgctxt "Skylar"
+msgid "Anyway... Reggie...? I know you're always around, buddy..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/18
+msgctxt "Narrator"
+msgid "A well-dressed figure saunters into the room, tossing his locs over his shoulder. He shoots you a look that sends a shiver straight through you, a smirk playing at his lips."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/29
+msgctxt "Narrator"
+msgid "There's an aura of danger about him, as if he delights in the misfortune of others... and is eagerly anticipating yours."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/37
+msgctxt "Reggie"
+msgid "So, <i>this</i> is the grand lover I've been hearing about!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/48
+msgctxt "Reggie"
+msgid "You've made quite the impression on us all."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/56/s/0
+msgctxt "Choix"
+msgid "What's your deal?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/57/s/0
+msgctxt "Choix"
+msgid "I have a lot of love to give!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-3/7
+msgctxt "Reggie"
+msgid "Sorry if I don't believe your little game."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-3/15
+msgctxt "Reggie"
+msgid "You're telling me you love <i>every</i> thing in this house? All of 'em?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "Yes. I love everyone."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-3/23/1/s/0
+msgctxt "Choix"
+msgid "All of them."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-3/23/c-0/7
+msgctxt "Reggie"
+msgid "Hahaha! You've got a lot of nerve."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-3/23/c-0/15
+msgctxt "Reggie"
+msgid "You've got everyone here fooled but me."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-3/23/c-1/7
+msgctxt "Reggie"
+msgid "Pfft! You're so full of it!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-4/7
+msgctxt "Reggie"
+msgid "Well, keep it to yourself!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-4/15
+msgctxt "Reggie"
+msgid "You want me to believe that you actually love everyone equally?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-4/23
+msgctxt "Reggie"
+msgid "You'll have their hearts broken by next Tuesday!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-4/31/0/s/0
+msgctxt "Choix"
+msgid "That's unfair!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-4/31/1/s/0
+msgctxt "Choix"
+msgid "No I won't!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-4/31/c-0/7
+msgctxt "Reggie"
+msgid "You know what's unfair? Dating a hundred of <w>anything</w> at the <w>same time</w>!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-0/c-4/31/c-1/7
+msgctxt "Reggie"
+msgid "Yeah, alright."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-1/0
+msgctxt "Reggie"
+msgid "Listen."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-1/8
+msgctxt "Reggie"
+msgid "I know this is all a game to you, and I'm sure you've had a great time."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-1/16
+msgctxt "Reggie"
+msgid "But please, just be honest and this can all end."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "I'm being honest."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Trust me, I love everyone."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/0
+msgctxt "Reggie"
+msgid "How can you love this much? How can you have so much to give?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/8
+msgctxt "Reggie"
+msgid "It doesn't make sense..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/16
+msgctxt "Reggie"
+msgid "...hm..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/24
+msgctxt "Narrator"
+msgid "Reggie idly twirls a loc around his finger, thinking."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/35
+msgctxt "Reggie"
+msgid "HAH! I got it."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/43
+msgctxt "Reggie"
+msgid "If you really do love everyone like you say you do, then you'd remember the little details right?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/51
+msgctxt "Skylar"
+msgid "What? A pop quiz? No fair!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/59
+msgctxt "Reggie"
+msgid "I'm just saying... I don't think a true lover should be casual about it..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/67
+msgctxt "Skylar"
+msgid "...I guess I agree... still not fair."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/78/s/0
+msgctxt "Choix"
+msgid "I scared."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-2/79/s/0
+msgctxt "Choix"
+msgid "Bring it on."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/0/b/1
+msgctxt "Reggie"
+msgid "Tell me, loverboy."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/1/b/1
+msgctxt "Reggie"
+msgid "Tell me, Lady Lovesalot."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/2/b/1
+msgctxt "Reggie"
+msgid "Tell me, uberlover."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/5
+msgctxt "Reggie"
+msgid "Which of these is <i>not</i> a character Connie Soul portrays?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/13/s/0
+msgctxt "Choix"
+msgid "Selene."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/14/s/0
+msgctxt "Choix"
+msgid "Luna."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/15/s/0
+msgctxt "Choix"
+msgid "Celestiana."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/16/s/0
+msgctxt "Choix"
+msgid "Scrouf."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/c-9/7
+msgctxt "Reggie"
+msgid "HAH! Wrong!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/c-10/7
+msgctxt "Reggie"
+msgid "I said <i>not</i> a character! Wrong!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/c-11/7
+msgctxt "Reggie"
+msgid "Lucky guess."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-3/c-12/7
+msgctxt "Reggie"
+msgid "She definitely was a Scrouf. Those noises were wild."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/0
+msgctxt "Reggie"
+msgid "Next..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/8
+msgctxt "Reggie"
+msgid "What does Cam give you after you finally break through his cold metal exterior?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "An old cucumber."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "A banana peel."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/18/s/0
+msgctxt "Choix"
+msgid "Nothing."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/19/s/0
+msgctxt "Choix"
+msgid "A day-old burrito that actually tasted pretty good!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/c-13/7
+msgctxt "Reggie"
+msgid "Ok, that one was easy."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/c-14/7
+msgctxt "Reggie"
+msgid "Really? Wrong!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/c-15/7
+msgctxt "Reggie"
+msgid "Come on. You could've at least guessed <i>something</i>. Wrong and disappointed."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-4/c-16/7
+msgctxt "Reggie"
+msgid "Did you...? Never mind. Wrong."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/0
+msgctxt "Reggie"
+msgid "Last..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/8
+msgctxt "Reggie"
+msgid "What is one of Barry's fixations?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/16/s/0
+msgctxt "Choix"
+msgid "Peregrine falcons."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/17/s/0
+msgctxt "Choix"
+msgid "Doves."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/18/s/0
+msgctxt "Choix"
+msgid "Kestrels."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/19/s/0
+msgctxt "Choix"
+msgid "Toucans."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/c-17/7
+msgctxt "Reggie"
+msgid "I have no words. Wrong!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/c-18/7
+msgctxt "Reggie"
+msgid "Couldn't be more wrong!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/c-19/7
+msgctxt "Reggie"
+msgid "So so wrong."
+msgstr ""
+
+#: skylar_specs/skylar_final_love_reggie/0/g-5/c-20/7
+msgctxt "Reggie"
+msgid "You know, it really does make sense."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/0
+msgctxt "Narrator"
+msgid "Reggie's nostrils flare with anger—he runs a hand through his hair, doing his best to seem unbothered."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/11
+msgctxt "Reggie"
+msgid "Ok, so you got all of them right. Big whoop!"
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/19
+msgctxt "Reggie"
+msgid "Doesn't mean you've won me over."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/27/s/0
+msgctxt "Choix"
+msgid "I'm not trying to."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/28/s/0
+msgctxt "Choix"
+msgid "I understand you."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/7
+msgctxt "Reggie"
+msgid "What? You're saying you <i>don't</i> find me irresistible?"
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/15
+msgctxt "Reggie"
+msgid "Maybe I'm not wearing the right cologne..."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "You're great just the way you are."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I know you're just acting tough, but you're a softie."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-0/7
+msgctxt "Reggie"
+msgid "You sound like a motivational speaker."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-0/15
+msgctxt "Reggie"
+msgid "Wait, are you trying to hit on me?"
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "I want to understand you."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "I want to meet the real you."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-0/26/g-0/0
+msgctxt "Reggie"
+msgid "Get in line."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-0/26/g-0/8
+msgctxt "Reggie"
+msgid "Not a lot of people get to know me, but I like it like that. It's easier to handle."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-1/7 skylar_specs/reggie_allcorrect/0/c-1/15/g-0/0
+msgctxt "Reggie"
+msgid "Who told you that?! Was it Betty?"
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-1/18
+msgctxt "Reggie"
+msgid "...ugh, yeah, I know. \"The rogue who is actually a softie\", a huge cliché."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-0/23/c-1/26 skylar_specs/reggie_allcorrect/0/c-1/15/g-0/19
+msgctxt "Reggie"
+msgid "It's easier, if you can believe that."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-1/7
+msgctxt "Reggie"
+msgid "What do you mean understand? How could you possibly understand me?"
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I know you're just acting tough."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "You really care about everyone here!"
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/c-1/15/g-0/11
+msgctxt "Reggie"
+msgid "...ugh, yeah, I know. \"The rogue is actually a softie\", a huge cliché."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/g-0/0
+msgctxt "Reggie"
+msgid "Look, maybe you're not so bad. If my friends can love you then..."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/g-0/8
+msgctxt "Reggie"
+msgid "Maybe I can love you, too."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "I promise I won't ever do anything to hurt you or them."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/g-0/c-2/7
+msgctxt "Reggie"
+msgid "Don't get your hopes up too high, but yeah, maybe. Maybe I can pop in from time to time and check in, even if you don't get rejected."
+msgstr ""
+
+#: skylar_specs/reggie_allcorrect/0/g-0/c-3/7
+msgctxt "Reggie"
+msgid "Stick to that promise, and we'll be just fine."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/0
+msgctxt "Narrator"
+msgid "Reggie gives you a grin that makes you feel as if you've done something very, very wrong."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/11
+msgctxt "Reggie"
+msgid "Just like I thought. You don't know shit!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/22
+msgctxt "Reggie"
+msgid "Did you even try?"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/30/s/0
+msgctxt "Choix"
+msgid "You gave me hard questions!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/31/s/0
+msgctxt "Choix"
+msgid "This wasn't fair!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-0/0
+msgctxt "Reggie"
+msgid "You said you loved everyone, so you should've been able to answer at least <i>three questions</i> about them... Right?"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Love isn't about answering random questions..."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Love has nothing to do with remembering little details like that!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "I hate you Reggie!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/0
+msgctxt "Reggie"
+msgid "Yeah... yeah..."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/8
+msgctxt "Reggie"
+msgid "Man."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/16
+msgctxt "Narrator"
+msgid "Reggie doubles over, his breath seeming to catch."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/33
+msgctxt "Skylar"
+msgid "Reggie... you okay?"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/41
+msgctxt "Reggie"
+msgid "This just makes me so..."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/52
+msgctxt "Reggie"
+msgid "Happy!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/66
+msgctxt "Reggie"
+msgid "I love it! Ha!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/77
+msgctxt "Skylar"
+msgid "Love it?"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/85
+msgctxt "Reggie"
+msgid "Hell yeah! I love you, human!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/93
+msgctxt "Reggie"
+msgid "You got all the way to almost a perfect score, then fucked it so hard right at the end..."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/101
+msgctxt "Reggie"
+msgid "I haven't laughed this hard in centuries!"
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/112
+msgctxt "Reggie"
+msgid "Well, I guess I will <i>definitely</i> see you around. I'll watch you fail over, and over, and over."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/120
+msgctxt "Skylar"
+msgid "Thanks... Reggie."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/128
+msgctxt "Reggie"
+msgid "Oh man..."
+msgstr ""
+
+#: skylar_specs/reggie_wrong/0/g-1/136
+msgctxt "Narrator"
+msgid "Reggie wipes his tears, checking his mascara in a nearby mirror. He smiles wickedly at his own reflection."
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/3
+msgctxt "Reggie"
+msgid "I'm Reggie Repaired from now on. You have my Love."
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/14/s/0
+msgctxt "Choix"
+msgid "Yes! Score!"
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/15/s/0
+msgctxt "Choix"
+msgid "Can we just be friends?"
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/c-0/10 skylar_specs/skylar_reggie_love_join/0/c-1/22
+msgctxt "Narrator"
+msgid "Reggie takes your phone, typing something into it. He turns your phone back around to show you a funny little icon that looks like a broken heart."
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/c-0/21
+msgctxt "Reggie"
+msgid "Go on, be with the ones you love. I'll catch you later. On my app."
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/c-1/7/b/1
+msgctxt "Reggie"
+msgid "What the hell is wrong with you? 99 loves and one friend?"
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/c-1/8/b/1
+msgctxt "Reggie"
+msgid "What the hell is wrong with you? All these goddamn loves and just one friend?"
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/c-1/11
+msgctxt "Reggie"
+msgid "Whatever. Free will gotta free will."
+msgstr ""
+
+#: skylar_specs/skylar_reggie_love_join/0/c-1/33
+msgctxt "Reggie"
+msgid "I'll catch you later. On my app."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/8
+msgctxt "Narrator"
+msgid "Skylar pulls her dateviators up for just a moment, peeking shyly without anything to separate you."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/16
+msgctxt "Skylar"
+msgid "You..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/24
+msgctxt "Skylar"
+msgid "You did it."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/32
+msgctxt "Skylar"
+msgid "You've gotten all the other dateables to fall in love with you."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/40
+msgctxt "Skylar"
+msgid "I'm... just gobsmacked."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/48
+msgctxt "Skylar"
+msgid "And a little intimidated?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/56/s/0
+msgctxt "Choix"
+msgid "Eh, it was nothing."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/57/s/0
+msgctxt "Choix"
+msgid "Thanks! I'm really glad I did it!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/58/s/0
+msgctxt "Choix"
+msgid "I just can't get enough..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/c-0/7
+msgctxt "Skylar"
+msgid "It was everything! Literally!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/c-1/7
+msgctxt "Skylar"
+msgid "You should be!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/c-2/7
+msgctxt "Skylar"
+msgid "There's always DLC..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/0
+msgctxt "Skylar"
+msgid "Wait... you didn't... cheat in some way did you?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/8
+msgctxt "Skylar"
+msgid "You don't seem like the kind of person who has magic time travel powers who can re-do encounters with objects..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/16
+msgctxt "Skylar"
+msgid "Oh wait! I actually have a little doohickey that can check if you cheated in some way!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/24
+msgctxt "Skylar"
+msgid "I've been told there's something humans do called \"save-scumming\" where they do a time-travel thing and I don't know how it works but I do remember it from some blog posts I found."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/32
+msgctxt "Skylar"
+msgid "I'm going to use this gun on you now. It shouldn't hurt..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/40
+msgctxt "Skylar"
+msgid "...but it might."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/54
+msgctxt "Narrator"
+msgid "Skylar pulls a strange device from... well, you're not sure from where, really."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/62
+msgctxt "Narrator"
+msgid "She points it at you. You find its drill-like shape deeply concerning."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/70/s/0
+msgctxt "Choix"
+msgid "Don't use that on me!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/71/s/0
+msgctxt "Choix"
+msgid "Do your worst."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "Why... You afraid...?"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "I will!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/0
+msgctxt "Narrator"
+msgid "Skylar fiddles with the strange device."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/8
+msgctxt "Skylar"
+msgid "All right... turning on... and..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/16
+msgctxt "Narrator"
+msgid "She pulls the trigger."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/30
+msgctxt "Skylar"
+msgid "Hm..."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/38
+msgctxt "Skylar"
+msgid "Wow!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/52
+msgctxt "Skylar"
+msgid "Looks like you didn't do that <w>at all</w>. Not once! You're one of the good ones!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/63/s/0
+msgctxt "Choix"
+msgid "Yup, that's me. Totally honest."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/64/s/0
+msgctxt "Choix"
+msgid "...great!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/c-5/7
+msgctxt "Skylar"
+msgid "I love that for you!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-1/c-6/7
+msgctxt "Skylar"
+msgid "The best thing is this detector is foolproof, so it definitely would have known if you were lying."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-2/0
+msgctxt "Skylar"
+msgid "Congratulations, you."
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-2/15
+msgctxt "Skylar"
+msgid "Now get out there and Realize us! Or leave! Or... do whatever!"
+msgstr ""
+
+#: skylar_specs/skylar_final_love/0/g-2/23
+msgctxt "Skylar"
+msgid "I love you!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/4
+msgctxt "Skylar"
+msgid "When Franklin Lieste made me - it was in sort of a mad, passionate rush of scientific fervor."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/12
+msgctxt "Skylar"
+msgid "There were... unintended consequences. Like Realization - which is a good thing."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/20/s/0
+msgctxt "Choix"
+msgid "Is it though?"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/21/s/0
+msgctxt "Choix"
+msgid "Yes, definitely."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/c-0/7
+msgctxt "Skylar"
+msgid "Definitely a good thing pretty much."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/0
+msgctxt "Skylar"
+msgid "But one of the issues with Realizing an object is that each of us can only leave once our own little purposes are complete."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/8
+msgctxt "Skylar"
+msgid "Some of us here still have Things To Do before we go."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/16
+msgctxt "Skylar"
+msgid "I call it - \"Unfurnished Business.\""
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Clever!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "That's pretty lame, Skylar."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Ooof... that one hurts."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/c-2/7
+msgctxt "Skylar"
+msgid "Thank you very much! It's trademarked."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/c-3/7
+msgctxt "Skylar"
+msgid "Aw... I had like weeks to think about it and everything."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/g-0/c-4/7
+msgctxt "Skylar"
+msgid "I know, but in a good way, right?"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/0
+msgctxt "Skylar"
+msgid "Each of us can't become a human if we have Unfurnished Business - reasons we need to appear in this house."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/8
+msgctxt "Skylar"
+msgid "None of the others know why exactly this is or what it might be that we need to do."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/16
+msgctxt "Skylar"
+msgid "Oh, but I'll always tell you when I see it - and forbid you from Realizing that individual."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/24
+msgctxt "Skylar"
+msgid "As for me? Well. I have the most Unfurnished Business out of anyone."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/32
+msgctxt "Skylar"
+msgid "I have to be here to help everyone else get Realized, so I gotta go last."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/40
+msgctxt "Skylar"
+msgid "Sorry to be the bearer of bad news, but if you want me Realized, you have to get everyone else Realized too."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/48/s/0
+msgctxt "Choix"
+msgid "Darn."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/49/s/0
+msgctxt "Choix"
+msgid "Okay. I see now what my Quest is."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/50/s/0
+msgctxt "Choix"
+msgid "What if I only want you to be Realized?"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-5/7
+msgctxt "Skylar"
+msgid "It might be a slog, but it'll be worth it!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-5/15
+msgctxt "Skylar"
+msgid "Keep Realizing everyone you see - and eventually my Unfurnished Business will become Furnished!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-5/23
+msgctxt "Skylar"
+msgid "Er. Oh, eh... Finished! Finished!!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-6/7
+msgctxt "Skylar"
+msgid "You've got it! Keep Realizing everyone you see - and eventually my Unfurnished Business will become Furnished!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-6/15
+msgctxt "Skylar"
+msgid "Er. Furnished, er, finished!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-7/7
+msgctxt "Skylar"
+msgid "Well. I can do that. But it would mean you couldn't speak with anyone else in the house, for good."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-7/15
+msgctxt "Skylar"
+msgid "If you want that... then I can arrange it. Though I don't recommend it."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished_explain/0/skylar_ub_join/c-7/23
+msgctxt "Skylar"
+msgid "See me later if that's what you want."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/0
+msgctxt "Skylar"
+msgid "Hm.... Well, well, well..."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/14
+msgctxt "Skylar"
+msgid "I mean if anyone knows what's really going on, it's me."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/22
+msgctxt "Skylar"
+msgid "You're not <i>really</i> more charming..."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/30
+msgctxt "Skylar"
+msgid "But."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/38
+msgctxt "Skylar"
+msgid "You used one of your rare candies on me..."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/46
+msgctxt "Skylar"
+msgid "Which means... you care."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/54/s/0
+msgctxt "Choix"
+msgid "I do care!"
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/55/s/0
+msgctxt "Choix"
+msgid "You're worth it, Skylar."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/56/s/0
+msgctxt "Choix"
+msgid "Yeah... sorta."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/c-2/7
+msgctxt "Skylar"
+msgid "I'll let that slide."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/g-0/0
+msgctxt "Skylar"
+msgid "It's all good in this hood."
+msgstr ""
+
+#: skylar_specs/skylar_candy/0/g-0/8
+msgctxt "Skylar"
+msgid "Let's be friends!"
+msgstr ""
+
+#: skylar_specs/skylar_realize_join/0/0
+msgctxt "Skylar"
+msgid "Did you Realize everyone? Are your SPECS enough?"
+msgstr ""
+
+#: skylar_specs/skylar_realize_join/0/17/s/0
+msgctxt "Choix"
+msgid "I'm ready!"
+msgstr ""
+
+#: skylar_specs/skylar_realize_join/0/18/s/0
+msgctxt "Choix"
+msgid "Uh, maybe not just yet."
+msgstr ""
+
+#: skylar_specs/skylar_realize_join/0/c-1/16 skylar_specs/skylar_realize_return/0/c-1/10
+msgctxt "Skylar"
+msgid "You know where to find me!"
+msgstr ""
+
+#: skylar_specs/skylar_realize_join/0/c-1/24 skylar_specs/skylar_realize_return/0/c-1/18
+msgctxt "Skylar"
+msgid "Perched right on your nose."
+msgstr ""
+
+#: skylar_specs/skylar_realize_join/0/c-1/32
+msgctxt "Skylar"
+msgid "...right... here..."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished/0/0
+msgctxt "Skylar"
+msgid "Sorry, but without Realizing everyone else you should really keep me here!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished/0/8
+msgctxt "Skylar"
+msgid "Otherwise it's basically game over. Hehehe."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished/0/16/s/0
+msgctxt "Choix"
+msgid "I don't want to talk to these freaking dateables anymore. There's too many of them."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished/0/17/s/0
+msgctxt "Choix"
+msgid "I've done all I can do with the amount of Hate endings I have..."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished/0/18/s/0
+msgctxt "Choix"
+msgid "All right... I'll keep talking to these freaks."
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished/0/c-0/7 skylar_specs/skylar_unfurnished/0/c-1/7
+msgctxt "Skylar"
+msgid "All right... then let's get this started!"
+msgstr ""
+
+#: skylar_specs/skylar_unfurnished/0/c-2/7
+msgctxt "Skylar"
+msgid "A wise move!"
+msgstr ""
+
+#: skylar_specs/skylar_realize_return/0/0
+msgctxt "Skylar"
+msgid "Asking again? You ready this time?"
+msgstr ""
+
+#: skylar_specs/skylar_realize_return/0/8
+msgctxt "Skylar"
+msgid "End of an era if you were."
+msgstr ""
+
+#: skylar_specs/skylar_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "I've got it on lock."
+msgstr ""
+
+#: skylar_specs/skylar_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "Maybe not just yet."
+msgstr ""
+
+#: skylar_specs/skylar_realize_begin/3
+msgctxt "Skylar"
+msgid "Well. This time, let's do it right."
+msgstr ""
+
+#: skylar_specs/skylar_realize_begin/11
+msgctxt "Narrator"
+msgid "The spectral energy flows through and around your dateviators, and what was once the dateviators themselves, becomes...."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/3
+msgctxt "Narrator"
+msgid "Skylar is transformed, <i>Realized</i>, but she's not as excited as you might have imagined. She looks down at herself, and then back at you."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/14
+msgctxt "Skylar"
+msgid "I'm... feeling mixed about this."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/22
+msgctxt "Skylar"
+msgid "On the one hand, alive and human, so yay."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/30
+msgctxt "Skylar"
+msgid "But on the other..."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/38
+msgctxt "Narrator"
+msgid "Skylar grasps her own glasses in her hands."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/46
+msgctxt "Skylar"
+msgid "I'm useless now."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/54/s/0
+msgctxt "Choix"
+msgid "Not useless - now you can make more dateviators, right?"
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/55/s/0
+msgctxt "Choix"
+msgid "Useless isn't bad. I'm useless too."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/56/s/0
+msgctxt "Choix"
+msgid "You're useless!"
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-0/7
+msgctxt "Skylar"
+msgid "I don't think so. I'm not an inventor... just good at making connections."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "But Franklin has the plans still! We can ask him!"
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-0/15/c-0/7
+msgctxt "Skylar"
+msgid "We'll have to see how it goes on the outside..."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-1/7
+msgctxt "Skylar"
+msgid "No. No you're not useless. Don't say that."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-1/15
+msgctxt "Skylar"
+msgid "You've brought a whole lot of love into this world."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-2/7
+msgctxt "Skylar"
+msgid "Harsh."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-2/15
+msgctxt "Skylar"
+msgid "But it is how I feel."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/c-2/23
+msgctxt "Skylar"
+msgid "We'll see what it's like out there..."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Let's open the door and see..."
+msgstr ""
+
+#: skylar_specs/skylar_realized/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "One quickie before we go?"
+msgstr ""
+
+#: skylar_specs/skylar_love_divert/3
+msgctxt "Narrator"
+msgid "There's nothing quick about your time with Skylar—she takes her time with you, savoring every touch, every breath, every sensation."
+msgstr ""
+
+#: skylar_specs/skylar_love_divert/14
+msgctxt "Narrator"
+msgid "But though she leaves you breathless and satisfied, she seems distractingly focused on one thing in particular..."
+msgstr ""
+
+#: skylar_specs/skylar_love_divert/22
+msgctxt "Narrator"
+msgid "Your eyes. They seem to truly enthrall her. In the moments that you're not enraptured by her touch, you notice just how locked onto your gaze she is."
+msgstr ""
+
+#: skylar_specs/skylar_love_divert/30
+msgctxt "Skylar"
+msgid "I... can't look away."
+msgstr ""
+
+#: skylar_specs/skylar_love_divert/41
+msgctxt "Narrator"
+msgid "But even still, Skylar is Skylar. Despite her fascination with your eyes she leaves no part of you neglected. She wasn't kidding when she said she loves Love... and she is absolutely incredible at making it."
+msgstr ""
+
+#: skylar_specs/skylar_love_join/0
+msgctxt "Skylar"
+msgid "Before I go... let me just stick one last portrait on the bulletin board."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/4
+msgctxt "Skylar"
+msgid "Woo woo. We did it! We brought a dateable object to life! <w>YAS!</w>"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/15
+msgctxt "Skylar"
+msgid "...sorry."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/23
+msgctxt "Skylar"
+msgid "How do you feel? Is it tingly?"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/31/s/0
+msgctxt "Choix"
+msgid "That was awesome!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/32/s/0
+msgctxt "Choix"
+msgid "Are you sure there's no moral implications to this?"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/33/s/0
+msgctxt "Choix"
+msgid "It was mid."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-0/7
+msgctxt "Skylar"
+msgid "I thought so too!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-0/15
+msgctxt "Skylar"
+msgid "At first I was nervous but I hid it under my bubbly exterior!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I had no idea!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Yeah, I could tell."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-0/23/c-0/7
+msgctxt "Skylar"
+msgid "Thank you!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-0/23/c-1/7
+msgctxt "Skylar"
+msgid "Oh you..."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-1/7
+msgctxt "Skylar"
+msgid "Definitely."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-1/15
+msgctxt "Skylar"
+msgid "If you have any compunctions, you can speak with me about what's going on in my app!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/c-2/15
+msgctxt "Skylar"
+msgid "Okay."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/g-0/0
+msgctxt "Skylar"
+msgid "There's a whole lot more to Realize than we... well, you know... realize."
+msgstr ""
+
+#: skylar_specs/realize_cheer_1/0/g-0/8
+msgctxt "Skylar"
+msgid "I say, let's get to dating!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_2/4
+msgctxt "Skylar"
+msgid "That's five Realized dateables! Good job! Up top! (We can't do that.)"
+msgstr ""
+
+#: skylar_specs/realize_cheer_2/12
+msgctxt "Skylar"
+msgid "Here's to more happiness!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_3/4
+msgctxt "Skylar"
+msgid "Ten Realized dateables? That's spiffy!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_3/12
+msgctxt "Skylar"
+msgid "Er."
+msgstr ""
+
+#: skylar_specs/realize_cheer_3/23
+msgctxt "Skylar"
+msgid "So cool..."
+msgstr ""
+
+#: skylar_specs/realize_cheer_3/31
+msgctxt "Skylar"
+msgid "Yeah... I'm gonna go."
+msgstr ""
+
+#: skylar_specs/realize_cheer_4/4
+msgctxt "Skylar"
+msgid "Wow! 25 Realized dateables! That's like, gotta be a record!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_4/12
+msgctxt "Skylar"
+msgid "Especially since the previous record was zero!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_5/4
+msgctxt "Skylar"
+msgid "Do do do do do do . We've got 50 Realized dateables. 50! Do do do dod do ."
+msgstr ""
+
+#: skylar_specs/realize_cheer_5/12
+msgctxt "Skylar"
+msgid "Aw, the house is starting to feel a little empty, but the outside world is already starting to feel a whole lot brighter with everyone running around out there..."
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/4
+msgctxt "Skylar"
+msgid "We're really in it now - 75 Realized dateables."
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/12
+msgctxt "Skylar"
+msgid "I'm feeling that the world outside is just buzzing with new energy and life."
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/20
+msgctxt "Skylar"
+msgid "We're really making the world a better place, you know that?"
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/28/s/0
+msgctxt "Choix"
+msgid "Nah, not really."
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/29/s/0
+msgctxt "Choix"
+msgid "I think so too!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/c-0/7
+msgctxt "Skylar"
+msgid "Okay spoilsport!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/c-0/15
+msgctxt "Skylar"
+msgid "As long as you're Realizing objects, I guess you can be a little rude sometimes..."
+msgstr ""
+
+#: skylar_specs/realize_cheer_6/0/c-1/7
+msgctxt "Skylar"
+msgid "Huzzah!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_7/0/7
+msgctxt "Skylar"
+msgid "Wow. That's 90 Realized dateables."
+msgstr ""
+
+#: skylar_specs/realize_cheer_7/0/15
+msgctxt "Skylar"
+msgid "Y'know, if you need any help with making this last push any easier, I can give you some extra features in my app!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_7/0/23/s/0
+msgctxt "Choix"
+msgid "I'm okay, let's do this thing."
+msgstr ""
+
+#: skylar_specs/realize_cheer_7/0/24/s/0
+msgctxt "Choix"
+msgid "Yeah, sounds good. Getting the rest is hard!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_7/0/c-0/7
+msgctxt "Skylar"
+msgid "You got it!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_7/0/c-1/7
+msgctxt "Skylar"
+msgid "To the phone!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/4
+msgctxt "Skylar"
+msgid "95 Realized dateables??"
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/15
+msgctxt "Skylar"
+msgid "This is, like, actually wild to keep in my noggin."
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/23
+msgctxt "Skylar"
+msgid "I'll say this - you can keep going for completion's sake."
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/31
+msgctxt "Skylar"
+msgid "But at this point, if you leave the house now, you're gonna get a great resolution."
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/39/s/0
+msgctxt "Choix"
+msgid "I'm in it to win it, let's keep Realizing!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/40/s/0
+msgctxt "Choix"
+msgid "Good idea, thanks for letting me know."
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/41/s/0
+msgctxt "Choix"
+msgid "Okay."
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/c-0/7
+msgctxt "Skylar"
+msgid "To the endgame!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/c-1/7
+msgctxt "Skylar"
+msgid "Always here for ya!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_8/0/c-2/7
+msgctxt "Skylar"
+msgid "...okay!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/0
+msgctxt "Skylar"
+msgid "Okay... that was the last one."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/8
+msgctxt "Skylar"
+msgid "Who isn't... me, of course."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/16
+msgctxt "Skylar"
+msgid "You ready for this?"
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/24/s/0
+msgctxt "Choix"
+msgid "I'll see you soon, Skylar."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/25/s/0
+msgctxt "Choix"
+msgid "Yeah, I guess so."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/26/s/0
+msgctxt "Choix"
+msgid "But you hate me. I can't Realize you."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/c-0/7
+msgctxt "Skylar"
+msgid "Whew! I'm getting nervous!"
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/c-1/7
+msgctxt "Skylar"
+msgid "Come see me in my app and we'll get this thing done once and for all."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/c-2/7
+msgctxt "Skylar"
+msgid "Uh."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/c-2/15
+msgctxt "Skylar"
+msgid "Damn. So weird."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/c-2/23
+msgctxt "Skylar"
+msgid "All right. Here."
+msgstr ""
+
+#: skylar_specs/realize_cheer_9/0/c-2/40
+msgctxt "Skylar"
+msgid "Just for you, you bizarre edge case."
+msgstr ""

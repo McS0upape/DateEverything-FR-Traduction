@@ -1,0 +1,4529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: maggie_mglass/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "MAGNIFYING GLASS"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/4
+msgctxt "Maggie"
+msgid "Oh hello again. Come for more Roomers? Looking for more suspects?"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/12/s/0
+msgctxt "Choix"
+msgid "No, I wanted to see if you were interested in taking our relationship further..."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/13/s/0
+msgctxt "Choix"
+msgid "I am... you got any more for me? I want to find more dateables."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-0/7
+msgctxt "Maggie"
+msgid "Oh. I see. I can do that."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-1/7
+msgctxt "Maggie"
+msgid "You and I both. Never know when another suspect will turn up."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Should I be afraid?"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Suspect? Or potential dates?"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-1/15/c-0/7
+msgctxt "Maggie"
+msgid "Absolutely."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-1/15/c-0/15
+msgctxt "Maggie"
+msgid "I can guarantee that according to my knowledge there's one hard-boiled criminal in this house..."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-1/15/c-0/23
+msgctxt "Maggie"
+msgid "But with me by your side, there should be no issues at all."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/c-1/15/c-1/7
+msgctxt "Maggie"
+msgid "Why not both?"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/0
+msgctxt "Maggie"
+msgid "Here are some Roomers that I have turned up."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/8
+msgctxt "Maggie"
+msgid "Johnny Splash - shower. Location: Downstairs bathroom."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/19
+msgctxt "Maggie"
+msgid "Winnifred - water heater. Location: Office closet."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/30
+msgctxt "Maggie"
+msgid "Lyric Literature - books. Location: Anywhere..."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/0 maggie_mglass/MaggieReservations/0/c-1/39
+msgctxt "Maggie"
+msgid "So what do you think?"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/0/s/0
+msgctxt "Choix"
+msgid "I've met Johnny. Doesn't seem like a criminal."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/1/s/0
+msgctxt "Choix"
+msgid "I've met Winnifred, she seems very nice."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/2/s/0
+msgctxt "Choix"
+msgid "Lyric? He's not capable of violence I don't think."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/3/s/0
+msgctxt "Choix"
+msgid "Okay - I'm on the case!"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/c-2/13
+msgctxt "Maggie"
+msgid "Hm. But that singing... could be deadly."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/c-3/13
+msgctxt "Maggie"
+msgid "But out in that closet... there's very little oversight."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/c-4/13
+msgctxt "Maggie"
+msgid "But where do you think mystery novels come from?"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-0/42/8/c-5/7
+msgctxt "Maggie"
+msgid "Glad to have you, gumshoe."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/0
+msgctxt "Maggie"
+msgid "These should be pretty straightforward to find, though there are some who seem much more difficult."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/8
+msgctxt "Maggie"
+msgid "The shadow knows..."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/16
+msgctxt "Maggie"
+msgid "Because he's here."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "Met him, he's a dork."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Tell me how I can find him!"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/c-6/13
+msgctxt "Maggie"
+msgid "What? Incredible!"
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/c-7/7
+msgctxt "Maggie"
+msgid "Word on the beat is that he's hiding in a permanent shadow."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-1/c-7/15
+msgctxt "Maggie"
+msgid "If you can find one around here, I would investigate."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/0/s/0
+msgctxt "Choix"
+msgid "Thanks for your help, Maggie."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/1/s/0
+msgctxt "Choix"
+msgid "I guess I've met all the ones on your list."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/c-8/7
+msgctxt "Maggie"
+msgid "You're welcome, gumshoe."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/c-8/15 maggie_mglass/maggie_tutorial_followup/0/g-2/c-9/15
+msgctxt "Maggie"
+msgid "Keep pointing those spectacles at everything you see... and you'll find a whole array of potential suspects at your fingertips."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/c-8/23 maggie_mglass/maggie_tutorial_followup/0/g-2/c-9/23
+msgctxt "Maggie"
+msgid "Or, eyelids, as it were."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/c-8/31 maggie_mglass/maggie_tutorial_followup/0/g-2/c-9/31/c-0/7
+msgctxt "Maggie"
+msgid "Phoenicia can help you track down plenty of other Roomers if you're looking for more."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/c-9/7
+msgctxt "Maggie"
+msgid "But that's just the beginning."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/c-9/31/0/s/0
+msgctxt "Choix"
+msgid "Thanks anyway, Maggie."
+msgstr ""
+
+#: maggie_mglass/maggie_tutorial_followup/0/g-2/c-9/31/1/s/0
+msgctxt "Choix"
+msgid "You're not helpful at all."
+msgstr ""
+
+#: maggie_mglass/MaggieBug1Fix/0/0
+msgctxt "Maggie"
+msgid "Oh, hi again!"
+msgstr ""
+
+#: maggie_mglass/MaggieBug1Fix/0/8
+msgctxt "Maggie"
+msgid "Interested in helping me solve my case?"
+msgstr ""
+
+#: maggie_mglass/MaggieBug1Fix/0/16/s/0
+msgctxt "Choix"
+msgid "I thought we could just chat a bit."
+msgstr ""
+
+#: maggie_mglass/MaggieBug1Fix/0/17/s/0
+msgctxt "Choix"
+msgid "Yeah! Tell me about it!"
+msgstr ""
+
+#: maggie_mglass/MaggieBug1Fix/0/18/s/0
+msgctxt "Choix"
+msgid "Nah. See you around!"
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/0
+msgctxt "Maggie"
+msgid "Hi! I wasn't expecting to see you again!"
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/8/s/0
+msgctxt "Choix"
+msgid "And yet."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/9/s/0
+msgctxt "Choix"
+msgid "Nevertheless..."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/10/s/0
+msgctxt "Choix"
+msgid "Well, here I am..."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/0
+msgctxt "Maggie"
+msgid "Did you change your mind about working with me?"
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Talking to you again was a mistake... Goodbye."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Yes. I want to get back together."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "No. But I'd like to help you solve your last case."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Maggie."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-4/7
+msgctxt "Maggie"
+msgid "I want that, too! But only if you'll help me with my case..."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-4/15/0/s/0 maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Let's do it!"
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-4/15/1/s/0
+msgctxt "Choix"
+msgid "I'm sorry."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-4/15/c-1/7
+msgctxt "Maggie"
+msgid "Let me know if you ever change your mind."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-5/7
+msgctxt "Maggie"
+msgid "Let's do it! As friends."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-6/7
+msgctxt "Maggie"
+msgid "I wish I could explore and investigate the world outside..."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-6/15
+msgctxt "Maggie"
+msgid "But not until this case is finished."
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-6/27/0/s/0
+msgctxt "Choix"
+msgid "All right... what's this case?"
+msgstr ""
+
+#: maggie_mglass/MaggieBug2fix/0/g-0/c-6/27/c-0/7
+msgctxt "Maggie"
+msgid "Thank you for asking!"
+msgstr ""
+
+#: maggie_mglass/from_stepford_to_scandal/0/0
+msgctxt "Maggie"
+msgid "I'll meet you at Location One."
+msgstr ""
+
+#: maggie_mglass/from_stepford_to_scandal/0/8/s/0
+msgctxt "Choix"
+msgid "See you there."
+msgstr ""
+
+#: maggie_mglass/from_stepford_to_scandal/0/9/s/0
+msgctxt "Choix"
+msgid "Which is?"
+msgstr ""
+
+#: maggie_mglass/from_stepford_to_scandal/0/c-1/7
+msgctxt "Maggie"
+msgid "Otherwise known as the Dining Room Table."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/0
+msgctxt "Narrator"
+msgid "There's a distinct air of mystery to the private eye that stands before you—she reminds you of the old detective serials your parents used to watch."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/8
+msgctxt "Narrator"
+msgid "She gives you a scrutinizing glare through her magnifying glass, one eye comically enlarged. It's especially goofy-looking to see it on someone with glasses."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/16
+msgctxt "Maggie"
+msgid "Well, well, well, what have we here?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/27/b/1
+msgctxt "Maggie"
+msgid "I think I've seen a description for someone wearing just such a fantastic red shirt..."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/30
+msgctxt "Maggie"
+msgid "You're not a suspect, are you?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/41/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/42/s/0
+msgctxt "Choix"
+msgid "Yes."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/43/s/0
+msgctxt "Choix"
+msgid "I don't know..."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/44/s/0
+msgctxt "Choix"
+msgid "I would like to skip this conversation."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-0/7
+msgctxt "Maggie"
+msgid "A witness, then?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "To what, exactly?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "Not that, either."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-0/18/2/s/0
+msgctxt "Choix"
+msgid "I'm so confused already."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-0/18/g-0/0
+msgctxt "Maggie"
+msgid "Just as I thought..."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-1/7
+msgctxt "Maggie"
+msgid "I thought so."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-1/15
+msgctxt "Maggie"
+msgid "Suspected of what?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "I was hoping you'd tell me..."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-1/26/1/s/0
+msgctxt "Choix"
+msgid "Being far too sexy."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-1/26/c-1/7
+msgctxt "Maggie"
+msgid "Hmph. There's no evidence to support it."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-1/26/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Care to investigate further?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-2/7
+msgctxt "Maggie"
+msgid "Hm, very suspicious behavior... this 'not knowing'."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-3/7
+msgctxt "Maggie"
+msgid "I'll leave you with a clue to help you along."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-3/37 maggie_mglass/tutorial_intro/0/g-2/0
+msgctxt "Maggie"
+msgid "Take a look at Roomers in your phone - it'll help you find your way to your last dateable for today."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-3/48 maggie_mglass/tutorial_intro/0/g-2/11
+msgctxt "Maggie"
+msgid "Good luck, gumshoe."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-3/62 maggie_mglass/tutorial_intro/0/g-2/22
+msgctxt "Skylar"
+msgid "It's getting late... who should be the last one we talk to before I run out of charges?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/c-3/70 maggie_mglass/tutorial_intro/0/g-2/30
+msgctxt "Skylar"
+msgid "Ooh... check out that Roomer Maggie gave you if you need ideas! Wink, wink."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/3/b/1
+msgctxt "Skylar"
+msgid "Maggie! It's our human's first day talking with us! Go a little easy on him!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/4/b/1
+msgctxt "Skylar"
+msgid "Maggie! It's our human's first day talking with us! Go a little easy on her!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/5/b/1
+msgctxt "Skylar"
+msgid "Maggie! It's our human's first day talking with us! Go a little easy on them!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/8
+msgctxt "Maggie"
+msgid "Interesting... these glasses come in from the outside and are already trying to influence my case?"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/16
+msgctxt "Skylar"
+msgid "Trust me - this human has a lot of potential to make this house a better place."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "It's true!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "I'll do my best, but no guarantees."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/29/s/0
+msgctxt "Choix"
+msgid "I can't wait to mess every one of you objects up."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/c-4/7
+msgctxt "Maggie"
+msgid "Hmm... Doubt it."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/c-4/15 maggie_mglass/tutorial_intro/0/g-1/0
+msgctxt "Maggie"
+msgid "Regardless..."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/c-5/7
+msgctxt "Maggie"
+msgid "Hm. Truthful."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-0/c-6/7
+msgctxt "Maggie"
+msgid "Hm... we're not under oath... so I'll just have to keep that in my noggin."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/8
+msgctxt "Maggie"
+msgid "As you are the human I should give you a way to track down all the suspects yourself to... keep you on my side, hopefully."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/16
+msgctxt "Maggie"
+msgid "I call this feature: \"Roomers\" - it's installed on your phone."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/40
+msgctxt "Phoenicia"
+msgid "Oooh... that tickles!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/57
+msgctxt "Maggie"
+msgid "Unlike Skylar's Date-a-dex that gives you the lowdown on those you've already met, Roomers tracks clues you've been given to locate all the pesky hidden objects that are tricky to find..."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/65
+msgctxt "Maggie"
+msgid "It's good for rounding up suspects, tracking down evidence, and getting a sense of the household scuttlebutt!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/79/s/0
+msgctxt "Choix"
+msgid "Cool, can't wait to find all of you!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/80/s/0
+msgctxt "Choix"
+msgid "Okay."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/81/s/0
+msgctxt "Choix"
+msgid "I don't care."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/c-7/7
+msgctxt "Maggie"
+msgid "It'll be tough, but worth it."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/c-7/18
+msgctxt "Skylar"
+msgid "The more you find, the better your SPECS will be!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/c-8/7
+msgctxt "Maggie"
+msgid "Tough audience, I see..."
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/c-9/7
+msgctxt "Maggie"
+msgid "You'll care one day when an unsuspecting frying pan whacks you in the head and you never saw it coming!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/c-9/18
+msgctxt "Skylar"
+msgid "Maggie! Don't make threats like that!"
+msgstr ""
+
+#: maggie_mglass/tutorial_intro/0/g-1/c-9/26
+msgctxt "Maggie"
+msgid "Sorry, Glasses, I take my job seriously is all."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/4
+msgctxt "Maggie"
+msgid "Hello again, suspect."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/0
+msgctxt "Maggie"
+msgid "I'm hard at work on my current case..."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/8
+msgctxt "Maggie"
+msgid "I've been hoping for a breakthrough."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/16
+msgctxt "Maggie"
+msgid "Sometimes I get so wrapped up that I start seeing everyone through the lens of a mystery!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/24/s/0
+msgctxt "Choix"
+msgid "So you're a detective, then?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/7
+msgctxt "Maggie"
+msgid "I am! Maggie M. Glassbury at your service!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/15
+msgctxt "Maggie"
+msgid "Perhaps you've heard of me?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/23
+msgctxt "Maggie"
+msgid "I've acquired a modest reputation as a result of some of my previous work."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "What are a couple of your best-known cases?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "More than modest!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/7
+msgctxt "Narrator"
+msgid "Maggie puts her hands on her hips, positively radiating pride."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/15
+msgctxt "Maggie"
+msgid "Why, it was I who solved the mystery of the missing sock!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "That was you!?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I was missing a sock?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/0
+msgctxt "Maggie"
+msgid "A brief interview with the Stackables and a chat with Dirk was all it took to sort that case out."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/17
+msgctxt "Maggie"
+msgid "The sock was in the depths of Harper's hamper."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/0/s/0
+msgctxt "Choix"
+msgid "I'm glad someone got to the bottom of it!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/1/s/0
+msgctxt "Choix"
+msgid "Who are you talking about exactly?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/c-1/7
+msgctxt "Maggie"
+msgid "Check your Roomers app if you don't know who I'm talking about!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/c-1/15
+msgctxt "Maggie"
+msgid "That's what it's there for... in theory, at least."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/0
+msgctxt "Maggie"
+msgid "I also cracked the caper of the self-generating dust rabbits."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "That sounds useful..."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Really? Where do they all come from?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/c-0/7
+msgctxt "Maggie"
+msgid "Very much."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/c-0/15
+msgctxt "Maggie"
+msgid "Tracking it down to its source was mighty helpful."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/0
+msgctxt "Maggie"
+msgid "Static electricity."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/8
+msgctxt "Maggie"
+msgid "It causes particles to accumulate around pieces of hair."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/16
+msgctxt "Maggie"
+msgid "Your hair, to be exact. They form undisturbed in dead air pockets."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/24
+msgctxt "Maggie"
+msgid "That's why they hang out under the couch."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/35/0/s/0
+msgctxt "Choix"
+msgid "My hair, you say?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/35/1/s/0
+msgctxt "Choix"
+msgid "It's probably my dog's hair."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/35/c-1/7
+msgctxt "Maggie"
+msgid "You and I both know you don't have a dog, dear."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/35/g-0/0
+msgctxt "Maggie"
+msgid "It matched the evidence, and I ruled out every other possibility."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/35/g-0/8
+msgctxt "Maggie"
+msgid "By the power of deductive reasoning, I determined that you were in fact the culprit."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/35/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "No getting around you, I see."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-0/23/g-0/28/g-0/8/g-0/35/g-0/16/c-0/7
+msgctxt "Maggie"
+msgid "I pride myself on that!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/12/c-0/31/c-1/7
+msgctxt "Maggie"
+msgid "Ah, so you've heard of me!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "What mystery are you trying to solve?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/0
+msgctxt "Maggie"
+msgid "Lately I've been taxing my lens to the utmost on a very interesting case."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/8
+msgctxt "Maggie"
+msgid "I'm trying to get to the bottom of a mysterious love letter!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/16
+msgctxt "Maggie"
+msgid "It was delivered to Dorian last night."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "Tell me more!"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Can we talk about you instead?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/26/s/0
+msgctxt "Choix"
+msgid "Before that... Does the name \"Martin Applegate\" mean anything to you?"
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/c-4/7
+msgctxt "Maggie"
+msgid "I don't know where you heard that, but I can't talk about it with you."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/c-4/15 maggie_mglass/MaggieDate1b/0/c-0/15 maggie_mglass/MaggieFriend1b/0/c-0/15
+msgctxt "Maggie"
+msgid "At least not yet."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/c-4/23
+msgctxt "Maggie"
+msgid "You're scratching the surface of something stranger than you can imagine..."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/c-4/31
+msgctxt "Maggie"
+msgid "Maybe I'll feel differently later."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/c-4/39
+msgctxt "Maggie"
+msgid "After we've gotten to know one another a little better."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/c-4/47/0/s/0
+msgctxt "Choix"
+msgid "Alright. Let's chat."
+msgstr ""
+
+#: maggie_mglass/door_mystery/0/g-1/c-4/47/1/s/0
+msgctxt "Choix"
+msgid "Understood. Tell me about the Dorian letter!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/4
+msgctxt "Maggie"
+msgid "At approximately 2AM, an unknown suspect dropped off a letter for Dorian."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/12
+msgctxt "Maggie"
+msgid "Upon opening it, Dorian discovered that it carried clear romantic intent!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/20
+msgctxt "Maggie"
+msgid "That is to say, it was 'asking him out'!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/28
+msgctxt "Maggie"
+msgid "It described how his protective yet gentle presence had won over the writer's heart."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/36
+msgctxt "Maggie"
+msgid "If interested, he was to write back as soon as possible."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/44/s/0
+msgctxt "Choix"
+msgid "Sounds good so far."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/45/s/0
+msgctxt "Choix"
+msgid "But..."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-0/0
+msgctxt "Maggie"
+msgid "Here's the catch. The letter wasn't signed with a name... just a monogram."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-0/8
+msgctxt "Maggie"
+msgid "Though he might be hesitant to admit it, Dorian was quite taken by the letter."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-0/16
+msgctxt "Maggie"
+msgid "He isn't certain whether he wants to write back until he knows more."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "If you'd be open to it, I'd love to help."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Can we chat a little first?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-0/c-2/7
+msgctxt "Maggie"
+msgid "You would?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-0/c-2/18/0/s/0
+msgctxt "Choix"
+msgid "Yeah! Let's get into it!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-1/0
+msgctxt "Maggie"
+msgid "I've never worked with anyone else before..."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-1/8
+msgctxt "Maggie"
+msgid "But I think this could be good for the case."
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Why not start by giving me whatever clues you have?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Description/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "What are you waiting for? Clue me in!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/4 maggie_mglass/MaggieLetsChat/0/13/0
+msgctxt "Maggie"
+msgid "What do you want to talk about?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/0/s/0
+msgctxt "Choix"
+msgid "What are some of your favorite hobbies?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/1/s/0
+msgctxt "Choix"
+msgid "How long have you been a detective?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/2/s/0
+msgctxt "Choix"
+msgid "Are you single?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/3/s/0
+msgctxt "Choix"
+msgid "Now let's talk about that case you're working on."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/7
+msgctxt "Maggie"
+msgid "Well, when I'm not cracking cases..."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/15
+msgctxt "Maggie"
+msgid "I enjoy reading, playing board games, and looking verrrry closely at things."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I enjoy those things, too."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I'm a bit more sporty, myself."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "Looking closely at things?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-0/7
+msgctxt "Maggie"
+msgid "Nice to meet someone like-minded."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-1/7
+msgctxt "Maggie"
+msgid "I always appreciate some movement!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-1/15
+msgctxt "Maggie"
+msgid "You look like you keep in great shape."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/7
+msgctxt "Maggie"
+msgid "Yes!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/15
+msgctxt "Maggie"
+msgid "I find that if you investigate thoroughly, even the simplest things can contain wonders!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/26
+msgctxt "Maggie"
+msgid "Take this house, for example."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/34
+msgctxt "Maggie"
+msgid "Did you know that before it was built, there was a firehouse here?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/42
+msgctxt "Maggie"
+msgid "And before that, a trading post!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/50
+msgctxt "Maggie"
+msgid "Before that..."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/58
+msgctxt "Maggie"
+msgid "Well, let's just say there is so much to learn, without even leaving your front door!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/0/s/0
+msgctxt "Choix"
+msgid "How did you find all that out?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/1/s/0
+msgctxt "Choix"
+msgid "I'm beginning to realize that..."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/7
+msgctxt "Maggie"
+msgid "Oh! There are county records."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/15
+msgctxt "Maggie"
+msgid "And online archives."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/23
+msgctxt "Maggie"
+msgid "And genealogical surveys."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/34
+msgctxt "Maggie"
+msgid "And census data."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/48
+msgctxt "Maggie"
+msgid "And..."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/0/s/0
+msgctxt "Choix"
+msgid "You seem pretty good at hunting for information."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/1/s/0 maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "Let's keep chatting."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/c-0/7
+msgctxt "Maggie"
+msgid "Thank you!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/c-0/18
+msgctxt "Maggie"
+msgid "If only getting to the bottom of my current case was as easy as finding historical building records."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/c-0/26/0/s/0 maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Right... Wanna tell me a little about it?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/c-1/7 maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-1/23/c-1/7
+msgctxt "Maggie"
+msgid "Sure!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/c-1/16/0/s/0 maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-1/23/2/s/0
+msgctxt "Choix"
+msgid "Let's talk clues!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-0/56/c-1/16/1/s/0
+msgctxt "Choix"
+msgid "I'm sure you'll find your answers soon enough."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-1/7
+msgctxt "Maggie"
+msgid "There are mysteries everywhere!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-0/23/c-2/66/c-1/15
+msgctxt "Maggie"
+msgid "Such as my current investigation."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/7
+msgctxt "Maggie"
+msgid "As long as I can remember! When I was little, it used to get me in trouble."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I got in trouble a lot as a kid too."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "How so?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/c-0/7
+msgctxt "Maggie"
+msgid "We share that, I guess."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/0
+msgctxt "Maggie"
+msgid "I would always dig up lots of interesting facts about my friends in order to share or highlight things I loved about them!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/8
+msgctxt "Maggie"
+msgid "Unfortunately for me, they didn't seem to like it very much."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "I don't blame them."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "Maybe they felt their privacy was being infringed upon."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/2/s/0
+msgctxt "Choix"
+msgid "Wish someone would do that for me!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/c-0/7
+msgctxt "Maggie"
+msgid "I have to say I don't understand. Oh well."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/c-1/7
+msgctxt "Maggie"
+msgid "But everything is available online! It's easy to find."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "They might not want it that way."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Doesn't mean someone wants it shared."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/c-1/15/g-0/0
+msgctxt "Maggie"
+msgid "Interesting... I'll have to keep that in mind..."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-1/15/g-0/16/c-2/7
+msgctxt "Maggie"
+msgid "I'll keep that in mind!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/7
+msgctxt "Narrator"
+msgid "Maggie, normally unflappable, seems rather more like a nervous schoolgirl than a stone-cold private eye."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/15
+msgctxt "Maggie"
+msgid "Very!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/23
+msgctxt "Maggie"
+msgid "I mean... normally."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/31
+msgctxt "Maggie"
+msgid "I mean... yes."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/39
+msgctxt "Maggie"
+msgid "I mean yes, I am very normally single."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/47/0/s/0
+msgctxt "Choix"
+msgid "That's nice to know."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/47/1/s/0
+msgctxt "Choix"
+msgid "I'm starting to see why."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/47/c-0/7
+msgctxt "Maggie"
+msgid "You're making me blush."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/47/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Maybe next time we meet, it could be for a date?"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/47/c-0/18/c-0/7
+msgctxt "Maggie"
+msgid "To be honest, I'm not entirely sure if you're my type yet."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/47/c-0/18/c-0/15
+msgctxt "Maggie"
+msgid "Let's just stay friends for now."
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-2/47/c-1/7
+msgctxt "Maggie"
+msgid "How rude!"
+msgstr ""
+
+#: maggie_mglass/MaggieLetsChat/0/13/8/c-3/7
+msgctxt "Maggie"
+msgid "Ok!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/0/b/5
+msgctxt "Maggie"
+msgid "The case is pretty thin..."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/0/b/13
+msgctxt "Maggie"
+msgid "But we've got a couple of clues."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/0/b/21
+msgctxt "Maggie"
+msgid "First of all, the paper the note was written on was somewhat interesting."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/0/b/29
+msgctxt "Maggie"
+msgid "Second, although the letter wasn't signed, it did have a single initial on it."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/0/b/37
+msgctxt "Maggie"
+msgid "Finally, I think Dorian might have a clue for us."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/1/b/1
+msgctxt "Maggie"
+msgid "What should we look at next?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/4/s/0
+msgctxt "Choix"
+msgid "Let's start with the paper. What makes it interesting?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/5/s/0
+msgctxt "Choix"
+msgid "What initial was written on it?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/6/s/0
+msgctxt "Choix"
+msgid "Let's have a chat with Dorian."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/7/s/0
+msgctxt "Choix"
+msgid "I think I know who sent the letter."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-1/7
+msgctxt "Maggie"
+msgid "A stylized letter M."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "A first initial?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Signature?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "Someone started writing and stopped?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-1/15/c-0/7
+msgctxt "Maggie"
+msgid "Seems likely."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-1/15/c-1/7
+msgctxt "Maggie"
+msgid "But whose name is simply \"M\" and nothing more?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-1/15/c-2/7
+msgctxt "Maggie"
+msgid "Perhaps..."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/7
+msgctxt "Maggie"
+msgid "I've narrowed it down to four suspects:"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/15
+msgctxt "Maggie"
+msgid "Penelope, Mitchell Lynn, Mateo Manta, and Freddy Yeti."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/23
+msgctxt "Maggie"
+msgid "Who do you think it was?"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/0/s/0
+msgctxt "Choix"
+msgid "It was Penelope, the office supplies."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/1/s/0
+msgctxt "Choix"
+msgid "I don't know Penelope, but I'm SURE it was her."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/2/s/0
+msgctxt "Choix"
+msgid "It was Mitchell Linn, food."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/3/s/0
+msgctxt "Choix"
+msgid "I don't know a Mitchell, but it's gotta be him."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/4/s/0
+msgctxt "Choix"
+msgid "It was Freddy Yeti, the refrigerator."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/5/s/0
+msgctxt "Choix"
+msgid "Freddy? Don't know him but sounds like a love-letter-writer to me."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/6/s/0
+msgctxt "Choix"
+msgid "It was Mateo Manta, the blanket!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/7/s/0
+msgctxt "Choix"
+msgid "I don't know who Mateo is but I'm ready to pin blame immediately."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-0/7 maggie_mglass/Mystery1Clues/0/c-3/31/c-1/7
+msgctxt "Maggie"
+msgid "Something doesn't quite add up, there."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-0/18/b/1
+msgctxt "Maggie"
+msgid "Truffles and office supplies don't seem to match. Nor does the \"M\"."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-0/21 maggie_mglass/Mystery1Clues/0/c-3/31/c-1/18 maggie_mglass/Mystery1Clues/0/c-3/31/c-4/18 maggie_mglass/Mystery1Clues/0/c-3/31/c-6/18 maggie_mglass/Mystery1Clues/0/c-3/31/c-7/18
+msgctxt "Maggie"
+msgid "Sorry, but I don't think that's right."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-0/29 maggie_mglass/Mystery1Clues/0/c-3/31/c-1/26 maggie_mglass/Mystery1Clues/0/c-3/31/c-4/26 maggie_mglass/Mystery1Clues/0/c-3/31/c-5/23
+msgctxt "Maggie"
+msgid "Maybe you can help me on another case, later on down the line."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/15 maggie_mglass/Mystery1Clues/0/c-3/31/c-3/15
+msgctxt "Maggie"
+msgid "Wait a minute... I think you might just be right!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/23 maggie_mglass/Mystery1Clues/0/c-3/31/c-3/23
+msgctxt "Maggie"
+msgid "The stylized letter M is his signature."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/31 maggie_mglass/Mystery1Clues/0/c-3/31/c-3/31
+msgctxt "Maggie"
+msgid "The smell Dorian noticed makes sense now, and the paper..."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/39
+msgctxt "Maggie"
+msgid "It's gotta be rice paper!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/47/b/1
+msgctxt "Maggie"
+msgid "The smell of truffles came from the gourmand Mitchell Linn!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/50
+msgctxt "Maggie"
+msgid "You did it! You helped me crack the case!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/61/0/s/0
+msgctxt "Choix"
+msgid "The least I could do, Maggie."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/61/c-0/7 maggie_mglass/Mystery1Clues/0/c-3/31/c-3/58/c-0/7
+msgctxt "Maggie"
+msgid "I'm impressed!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/61/c-0/15 maggie_mglass/Mystery1Clues/0/c-3/31/c-3/58/c-0/18
+msgctxt "Maggie"
+msgid "Now I'm even more excited for the next time we meet."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-2/61/c-0/23 maggie_mglass/Mystery1Clues/0/c-3/31/c-3/58/c-0/26
+msgctxt "Maggie"
+msgid "Let me just go and let Dorian know that his secret admirer has been discovered..."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-3/39
+msgctxt "Maggie"
+msgid "Its gotta be rice paper!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-3/47
+msgctxt "Maggie"
+msgid "You did it! You helped me crack the case... without even knowing the suspect at all!"
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-3/58/0/s/0
+msgctxt "Choix"
+msgid "The least I could do, Maggie. Guessing is my strong suit."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-4/7 maggie_mglass/Mystery1Clues/0/c-3/31/c-5/7
+msgctxt "Maggie"
+msgid "I wish it could be the case... but it doesn't quite add up."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-4/15/b/1
+msgctxt "Maggie"
+msgid "Truffles and the fridge might make sense... but not the \"M\"."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-5/15
+msgctxt "Maggie"
+msgid "Guessing without enough clues was probably not the best tack."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-6/7 maggie_mglass/Mystery1Clues/0/c-3/31/c-7/7
+msgctxt "Maggie"
+msgid "This seems like an interesting idea... but the clues don't quite add up."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-6/15/b/1 maggie_mglass/Mystery1Clues/0/c-3/31/c-7/15/b/1
+msgctxt "Maggie"
+msgid "I just don't see what the truffles have to do with blankets..."
+msgstr ""
+
+#: maggie_mglass/Mystery1Clues/0/c-3/31/c-6/26 maggie_mglass/Mystery1Clues/0/c-3/31/c-7/26
+msgctxt "Maggie"
+msgid "Perhaps you can help me on another case, later on down the line."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/0/b/1
+msgctxt "Maggie"
+msgid "What else should we try with the paper?"
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/1/b/4
+msgctxt "Maggie"
+msgid "I have it here... Semi-transparent, and very thin."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/1/b/12
+msgctxt "Maggie"
+msgid "It doesn't seem like ordinary paper, at all."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/4/s/0
+msgctxt "Choix"
+msgid "Let's try cutting it with scissors."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/5/s/0
+msgctxt "Choix"
+msgid "Let's try burning a small piece."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/6/s/0
+msgctxt "Choix"
+msgid "Let's taste it."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/7/s/0
+msgctxt "Choix"
+msgid "Let's dip a corner of it in water."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/8/s/0
+msgctxt "Choix"
+msgid "Let's see what other clues we've got."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-0/15
+msgctxt "Narrator"
+msgid "She gives the paper a careful test snip."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-0/23
+msgctxt "Maggie"
+msgid "Hmmm. Cuts just like normal."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-1/15
+msgctxt "Narrator"
+msgid "She focuses a magnifying glass on the paper for a few moments, stopping immediately when it begins to smoke and catch fire."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-1/23
+msgctxt "Maggie"
+msgid "Yikes! It's definitely flammable."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-1/31
+msgctxt "Maggie"
+msgid "Does seem to burn slightly slower than normal paper, though."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-2/15
+msgctxt "Maggie"
+msgid "Taste it? If you say so..."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-2/23
+msgctxt "Narrator"
+msgid "She carefully dabs a corner of the paper against her tongue."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-2/31
+msgctxt "Maggie"
+msgid "How interesting! It's edible, and tastes slightly starchy."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-3/15
+msgctxt "Narrator"
+msgid "She dips a corner of the paper into a small glass of water."
+msgstr ""
+
+#: maggie_mglass/ItsRicePaper/0/c-3/23
+msgctxt "Maggie"
+msgid "Look at that! It dissolved!"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/0
+msgctxt "Maggie"
+msgid "Hey, before I go... I was wondering."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/8
+msgctxt "Maggie"
+msgid "Would you like to have a cup of tea with me sometime?"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/16
+msgctxt "Maggie"
+msgid "...as a date, I mean?"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/27/s/0
+msgctxt "Choix"
+msgid "Maggie, I would love nothing more."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/28/s/0
+msgctxt "Choix"
+msgid "You know, I think for now we should just stay friends."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-0/7
+msgctxt "Narrator"
+msgid "Maggie lets out a girlish squeal."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-0/23
+msgctxt "Maggie"
+msgid "Huh. Amazing. Oh. Yes."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-0/34
+msgctxt "Maggie"
+msgid "<i>Calm down, Maggie. The human could still be a suspect of any sort!</i>"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-0/42 maggie_mglass/maggie_love_divert/0/22
+msgctxt "Maggie"
+msgid "<i>ahem</i>"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-0/50
+msgctxt "Maggie"
+msgid "See you again soon... compatriot in crime."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-1/7
+msgctxt "Maggie"
+msgid "Oh... Of course. I understand."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-1/15
+msgctxt "Maggie"
+msgid "Keeping it professional is my preferred option."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_cup/0/c-1/23
+msgctxt "Maggie"
+msgid "Hence why I was so... careful to probe the idea of a love relation around you."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/0
+msgctxt "Maggie"
+msgid "Thanks again for trying to help."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/8
+msgctxt "Maggie"
+msgid "It really was very sweet of you."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/16/s/0
+msgctxt "Choix"
+msgid "Even though I failed, would you be interested in going on a date some time?"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/17/s/0
+msgctxt "Choix"
+msgid "It was fun! Let's hang out again some time, as friends!"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/11
+msgctxt "Maggie"
+msgid "I could see myself going with someone with poor detective skills like yourself."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/19
+msgctxt "Maggie"
+msgid "Perhaps we have complementary skills."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/27
+msgctxt "Maggie"
+msgid "I would be the daring detective... you the... administrative sort."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/35
+msgctxt "Maggie"
+msgid "The pretty type, you know?"
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/43/0/s/0
+msgctxt "Choix"
+msgid "Damn straight I'm the pretty type. I'll see you soon."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/43/1/s/0
+msgctxt "Choix"
+msgid "Sure, better than nothing."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/43/c-0/7 maggie_mglass/mystery1wrapup_divert_nocup/0/c-0/43/c-1/7
+msgctxt "Maggie"
+msgid "I'd fancy that."
+msgstr ""
+
+#: maggie_mglass/mystery1wrapup_divert_nocup/0/c-1/7
+msgctxt "Maggie"
+msgid "That sounds divine!"
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/3
+msgctxt "Dorian"
+msgid "Hello there, you two."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/11
+msgctxt "Maggie"
+msgid "Good to see you, Dorian."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/19
+msgctxt "Maggie"
+msgid "I've enlisted our friend here to help solve the case of the mystery letter."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/27
+msgctxt "Dorian"
+msgid "Splendid idea."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/35
+msgctxt "Maggie"
+msgid "Can you repeat what you said to me earlier?"
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/43
+msgctxt "Maggie"
+msgid "About the smell you noticed?"
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/51
+msgctxt "Dorian"
+msgid "Right."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/59
+msgctxt "Dorian"
+msgid "Well, when I first opened the letter, I caught the faintest whiff of what I think was... truffle."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/71
+msgctxt "Dorian"
+msgid "Strange, no?"
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/79/s/0
+msgctxt "Choix"
+msgid "Indeed. Thanks for your help, Dorian."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/80/s/0
+msgctxt "Choix"
+msgid "Could it have been something else?"
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/c-1/7
+msgctxt "Dorian"
+msgid "Truffle happens to be one of my favorite flavors."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/c-1/15
+msgctxt "Dorian"
+msgid "The association between the forest-dwelling fungi and my own wooden provenance bring back fond memories..."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/c-1/23
+msgctxt "Dorian"
+msgid "Anyhow..."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/g-0/0
+msgctxt "Dorian"
+msgid "Good luck!"
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/g-0/8
+msgctxt "Dorian"
+msgid "Let me know if you happen to figure out who it was from."
+msgstr ""
+
+#: maggie_mglass/ChatwithDorian/0/g-0/16
+msgctxt "Dorian"
+msgid "I'm not one for love... but I am one for truffles and friendship."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1/0
+msgctxt "Maggie"
+msgid "I'm so glad to see you again. You look lovely."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1/8
+msgctxt "Maggie"
+msgid "I hope you don't mind, I took the trouble of ordering your tea for you."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1/16
+msgctxt "Maggie"
+msgid "It's a jasmine green tea, from Kopi of course."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/0/s/0 maggie_mglass/MaggieFriend1b/0/0/s/0
+msgctxt "Choix"
+msgid "Before we get into any of that... Does the name \"Martin Applegate\" mean anything to you?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/1/s/0
+msgctxt "Choix"
+msgid "That's very thoughtful of you."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/2/s/0
+msgctxt "Choix"
+msgid "How did you know my order?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-0/7 maggie_mglass/MaggieFriend1b/0/c-0/7
+msgctxt "Maggie"
+msgid "Shhh! We can't discuss that..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-0/23 maggie_mglass/MaggieFriend1b/0/c-0/23
+msgctxt "Maggie"
+msgid "Maybe I'll feel differently after we've gotten to know one another a little better."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-0/31/0/s/0 maggie_mglass/MaggieFriend1b/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "That's not mysterious or anything..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-0/31/1/s/0 maggie_mglass/MaggieFriend1b/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Seems a little 'railroad-y'."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-0/31/g-0/0 maggie_mglass/MaggieFriend1b/0/c-0/31/g-0/0
+msgctxt "Maggie"
+msgid "Sorry. But I can't get into more detail yet."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-0/31/g-0/8
+msgctxt "Maggie"
+msgid "So, how about some tea? I have yours right here."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/7
+msgctxt "Maggie"
+msgid "I'm so glad you think so."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/18
+msgctxt "Maggie"
+msgid "Hope you don't mind I went ahead and researched your favorite order."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "How exactly did you do that?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/1/s/0
+msgctxt "Choix"
+msgid "That's too sweet!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/c-0/7 maggie_mglass/MaggieDate1b/0/c-2/7
+msgctxt "Maggie"
+msgid "Simple!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/c-0/18 maggie_mglass/MaggieDate1b/0/c-2/15
+msgctxt "Maggie"
+msgid "I just pulled your old MyFace site and sorted through the archive posts until I found one where you listed a few teas you enjoyed."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/c-0/26 maggie_mglass/MaggieDate1b/0/c-2/23
+msgctxt "Maggie"
+msgid "Then, I cross-referenced that with photos of you drinking various warm drinks, and did some basic image enhancement on them to determine which exact brand appeared most regularly."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Please don't do any more research on me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "You're so considerate."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/c-0/34/c-0/7
+msgctxt "Maggie"
+msgid "Oh... Ok. Sorry."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-1/26/c-0/34/c-1/7
+msgctxt "Maggie"
+msgid "I want you to feel cared about."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/0/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/0/s/0
+msgctxt "Choix"
+msgid "Oh wow. That's awesome! Thanks!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/1/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/1/s/0
+msgctxt "Choix"
+msgid "...image enhancement?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/2/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/2/s/0
+msgctxt "Choix"
+msgid "Maggie, that's a little over the line."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/3/s/0
+msgctxt "Choix"
+msgid "I don't like jasmine green tea!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-0/7 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-0/7
+msgctxt "Maggie"
+msgid "I'm so glad you approve!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/7 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/7
+msgctxt "Maggie"
+msgid "Oh, nothing fancy."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/15 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/15
+msgctxt "Maggie"
+msgid "You know, frame averaging, Fourier analysis, de-blur, color channel selection, that sort of thing."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/23/0/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Um... That's kind of creepy..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/23/1/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "I feel invaded."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/23/c-0/7 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/7 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-0/7 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-2/7
+msgctxt "Maggie"
+msgid "Is it?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/23/c-1/7 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-0/18/c-0/7
+msgctxt "Maggie"
+msgid "You do!?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/23/c-1/21/0/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/0/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/1/s/0 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "You can't just go digging through all someone's old stuff like that."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/23/c-1/21/c-0/13 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-1/13
+msgctxt "Maggie"
+msgid "I'm sorry. I didn't realize it was crossing any lines."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-1/23/c-1/21/c-0/21 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/21 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-1/21 maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-2/15/c-0/21
+msgctxt "Maggie"
+msgid "I'll do better in the future."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/13
+msgctxt "Maggie"
+msgid "I'm sorry. I didn't realize I was crossing any lines."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-2/15/c-0/29/c-1/23/c-2/15/c-0/13
+msgctxt "Maggie"
+msgid "I'm sorry, I didn't realize I was crossing any lines."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/c-2/31/c-3/7
+msgctxt "Maggie"
+msgid "Hmmm... there's alway the tiny chance my research might be faulty, but I still contest that deep inside you it would be your favorite if you gave it a chance."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/3/s/0
+msgctxt "Choix"
+msgid "Still, even though you got my order wrong, the thought is appreciated."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/4/s/0
+msgctxt "Choix"
+msgid "No matter how you found out about my order, at least the thought is nice."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/5/s/0
+msgctxt "Choix"
+msgid "It's fun to be here with you I have to say."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/6/s/0
+msgctxt "Choix"
+msgid "I might have made a mistake having a date with a detective like this."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/c-3/7
+msgctxt "Maggie"
+msgid "I'm glad. You know, I've been thinking about you ever since the last time we met."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/c-4/7
+msgctxt "Maggie"
+msgid "I'm glad. You know, I've been thinking about you ever since last time we met."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/c-5/7
+msgctxt "Maggie"
+msgid "I rarely let my glass down as it were, so I apologize if I'm a little rusty."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/c-6/7
+msgctxt "Maggie"
+msgid "Well... we can't be faulted for trying."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-0/c-6/15
+msgctxt "Maggie"
+msgid "I've been thinking though..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "What have you been thinking?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/7
+msgctxt "Maggie"
+msgid "The way you gave yourself to that last mystery..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/15
+msgctxt "Maggie"
+msgid "Dropped everything in order to help me solve it... Nobody has done that for me before."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/0/s/0
+msgctxt "Choix"
+msgid "I'd do it again in a heartbeat."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/1/s/0
+msgctxt "Choix"
+msgid "I've been thinking about you, too, Maggie."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/7
+msgctxt "Maggie"
+msgid "That's the most attractive thing you could have said to me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "I find everything about you attractive."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "You make it really fun."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/0
+msgctxt "Maggie"
+msgid "Oof... My heart..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/0/s/0
+msgctxt "Choix"
+msgid "And mine..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/1/s/0
+msgctxt "Choix"
+msgid "What's it saying?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/0
+msgctxt "Narrator"
+msgid "Maggie takes your hand in hers, holding it over her chest."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/8
+msgctxt "Maggie"
+msgid "Put your hand just here, below my lens... Do you feel how it's racing?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "It's beating right out of your chest. What if we...?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "Maybe we should let it breathe..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/0
+msgctxt "Maggie"
+msgid "Wait. Before we start this... there's something that's been bothering me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/0/s/0 maggie_mglass/MaggieDate2/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "What is it?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Did I do something wrong?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/c-1/7
+msgctxt "Maggie"
+msgid "Not at all!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/0
+msgctxt "Maggie"
+msgid "I hope you won't laugh... but it's another case."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Another case? Tell me all about it!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Why don't we finish what we've started, first?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/c-1/7
+msgctxt "Maggie"
+msgid "I'm sorry, but I just can't focus!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/c-1/15
+msgctxt "Maggie"
+msgid "I promise, if you help me solve it, I'll devote just as much attention to you as I do to my cases."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Now you're talking! Let me hear about it."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "If you can't pay attention to what's in front of you right now, we may not be right for each other."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/c-1/23/c-1/7
+msgctxt "Maggie"
+msgid "I understand. If that's how you feel, then we should just be friends."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/11/g-0/16/g-0/8/g-0/8/c-1/23/c-1/15
+msgctxt "Maggie"
+msgid "I'll be here if you change your mind."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/12/s/0
+msgctxt "Choix"
+msgid "I hope we can do something else besides solve mysteries together."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/7
+msgctxt "Maggie"
+msgid "Of course."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/15
+msgctxt "Maggie"
+msgid "It's just that when a case comes up, I can't seem to focus on anything else until it's solved."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/23
+msgctxt "Maggie"
+msgid "I hope you understand."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/0/s/0
+msgctxt "Choix"
+msgid "I do. There are things I'd drop everything for."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/1/s/0
+msgctxt "Choix"
+msgid "Seems like you might have a bit of an unhealthy obsession with your work."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/7
+msgctxt "Maggie"
+msgid "I'm so glad you feel that way."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/18
+msgctxt "Maggie"
+msgid "As it so happens, I've got another case on my mind right now!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/26
+msgctxt "Maggie"
+msgid "How would you feel about working on it with me?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/34
+msgctxt "Maggie"
+msgid "Maybe afterwards we can do something besides... collecting clues?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/42/0/s/0
+msgctxt "Choix"
+msgid "I'm in! Tell me about the case."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/42/1/s/0
+msgctxt "Choix"
+msgid "I was hoping we could just enjoy our date."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/42/c-1/7
+msgctxt "Maggie"
+msgid "I'm sorry. But I am what I am. When mystery calls, I must answer."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/42/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I'll help you, but I don't think we should date anymore."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/42/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "No hard feelings, but count me out. I'll see you around!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/42/c-1/15/c-0/11
+msgctxt "Maggie"
+msgid "I understand how you feel. Alright, I'll fill you in and we can work on it as friends!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-0/42/c-1/15/c-1/7 maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-0/7 maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-1/23/c-0/7 maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/15/c-0/31/c-1/7 maggie_mglass/MaggieFriend1b/0/c-2/7
+msgctxt "Maggie"
+msgid "I understand. Goodbye for now."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/7
+msgctxt "Maggie"
+msgid "Be that as it may, it's who I am."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/15
+msgctxt "Maggie"
+msgid "If that's a problem for you, I understand, but maybe we shouldn't keep seeing one another."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/23
+msgctxt "Maggie"
+msgid "At least not... romantically."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "I think that would be best."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "If you're always solving the next mystery on the horizon, you'll miss out on what's right in front of you."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/7
+msgctxt "Maggie"
+msgid "I have worried about that."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/15
+msgctxt "Maggie"
+msgid "But the truth is, cracking cases is in my very nature!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/23
+msgctxt "Maggie"
+msgid "Would you want me to change myself in order to fit someone else's ideal?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "I just want you to be happy, and I think your obsession might be getting in the way."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Only you can decide which sacrifices to make. I respect your choices."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-0/7
+msgctxt "Maggie"
+msgid "I appreciate what you're saying."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-0/15
+msgctxt "Maggie"
+msgid "But if I had to pick?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-0/23
+msgctxt "Maggie"
+msgid "I would choose being alone and working on cases over being coupled and having to leave those stones unturned."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "That's your choice to make. But I don't think we're right for each other."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "I'm willing to leave our date and help you with this mystery."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-0/31/c-0/7
+msgctxt "Maggie"
+msgid "I understand. I'll see you around... as a friend."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-1/7
+msgctxt "Maggie"
+msgid "Thank you. I'll keep that in mind."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-1/15
+msgctxt "Maggie"
+msgid "And with that being said... There's a case I need to get back to."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Good luck with it. I think it's best if I just see you around. As a friend."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-0/18/g-0/c-2/31/c-1/31/c-1/31/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "I suppose I can help you solve another. Tell me about it."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/7
+msgctxt "Maggie"
+msgid "Oh, what about?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "I don't think we should keep seeing each other."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "I'd like to take this to the next step."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-0/7
+msgctxt "Maggie"
+msgid "You're catching me by surprise, but I understand."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/7
+msgctxt "Maggie"
+msgid "Really? I'd love that too, only..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Only what?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/15/c-0/7
+msgctxt "Maggie"
+msgid "Only there's just this one other case that's stuck in my mind."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/15/c-0/15
+msgctxt "Maggie"
+msgid "It's hard to focus on anything else. Would you be willing to help me solve it?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/15/c-0/23
+msgctxt "Maggie"
+msgid "If so, I promise we can return to this conversation after."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I was hoping you might say that! Let's get to work."
+msgstr ""
+
+#: maggie_mglass/MaggieDate1b/0/g-1/c-7/26/c-1/15/c-1/15/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Honestly, that's a bit of a turn off. Let's just be friends from here on out, ok?"
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/0
+msgctxt "Maggie"
+msgid "Hello again."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/8
+msgctxt "Maggie"
+msgid "I must say - at this time I've updated your dossier from \"Suspect\" to \"Partner\"."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/16/s/0
+msgctxt "Choix"
+msgid "Thanks Maggie."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/17/s/0
+msgctxt "Choix"
+msgid "You don't know me that well, then."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/c-0/7
+msgctxt "Maggie"
+msgid "No thanks needed - it's simply the truth."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/c-1/7
+msgctxt "Maggie"
+msgid "Huh. Perhaps I've made a mistake..."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/c-1/15
+msgctxt "Maggie"
+msgid "And nevertheless..."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/g-0/0
+msgctxt "Maggie"
+msgid "You've come at just the right time to help me."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1/0/g-0/8
+msgctxt "Maggie"
+msgid "I've got a case, you see..."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1b/0/1/s/0
+msgctxt "Choix"
+msgid "Do tell!"
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1b/0/2/s/0
+msgctxt "Choix"
+msgid "I'm not really in the mood for a mystery at the moment. Good luck!"
+msgstr ""
+
+#: maggie_mglass/MaggieFriend1b/0/c-0/31/g-0/8
+msgctxt "Maggie"
+msgid "So, how about this new case I got?"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/0
+msgctxt "Maggie"
+msgid "It has recently come to my attention that there is a counterfeit object in the house."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/8
+msgctxt "Maggie"
+msgid "Rumors have been circulating about it for a while."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/16
+msgctxt "Maggie"
+msgid "At first, I wasn't sure there was anything to them."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/24
+msgctxt "Maggie"
+msgid "After all, rumors can be nothing more than loose talk."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/32/s/0
+msgctxt "Choix"
+msgid "But sometimes they are more than just rumors."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/33/s/0
+msgctxt "Choix"
+msgid "Behind a rumor might be a grain of truth..."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/34/s/0
+msgctxt "Choix"
+msgid "You mean Roomers?"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/c-0/7
+msgctxt "Maggie"
+msgid "I fear so..."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/c-1/7
+msgctxt "Maggie"
+msgid "Exactly correct."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/c-2/7
+msgctxt "Maggie"
+msgid "Entirely different. These are the whisperings of the things around the house. Roomers are clues to help you find all of us here."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/0
+msgctxt "Maggie"
+msgid "The only problem is, the rumors are coming from all over the place, and I can't make heads or tails of where they came from."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "What do you suggest?"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/7
+msgctxt "Maggie"
+msgid "Well, I'd say we could bring in some witnesses!"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "Capital idea!"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/2/s/0
+msgctxt "Choix"
+msgid "I get to be good cop!"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/3/s/0
+msgctxt "Choix"
+msgid "Hmm. Who have you heard rumors from? Let's talk to them!"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/c-0/7
+msgctxt "Maggie"
+msgid "We begin."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/c-1/7
+msgctxt "Maggie"
+msgid "I should say so!"
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/c-2/7
+msgctxt "Maggie"
+msgid "And I'll be Strictly Professional Cop."
+msgstr ""
+
+#: maggie_mglass/CaseoftheCounterfeit1/0/g-0/c-3/15/c-3/7
+msgctxt "Maggie"
+msgid "I knew you'd know what to do!"
+msgstr ""
+
+#: maggie_mglass/Questions/0/6
+msgctxt "Maggie"
+msgid "Ok, so I've heard whisperings from Lux, Hoove, and Wallace."
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/0
+msgctxt "Maggie"
+msgid "I've heard whisperings from Lux, Hoove, and Wallace."
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/0/s/0
+msgctxt "Choix"
+msgid "Who is Lux?"
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/1/s/0
+msgctxt "Choix"
+msgid "Who is Hoove?"
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/2/s/0
+msgctxt "Choix"
+msgid "Who is Wallace?"
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/3/s/0
+msgctxt "Choix"
+msgid "All right, sounds good."
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/c-0/11
+msgctxt "Maggie"
+msgid "Lux is the conglomeration of lamps and lights in this house."
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/c-1/11
+msgctxt "Maggie"
+msgid "Hoove is the vacuum cleaner located in the laundry closet."
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/c-2/11
+msgctxt "Maggie"
+msgid "Wallace is the wall."
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/c-2/19
+msgctxt "Maggie"
+msgid "While he is located everywhere... the best way to get in touch with him would be around the Mayor's Office on the second floor landing by the stairs."
+msgstr ""
+
+#: maggie_mglass/Questions/0/15/8/c-3/7
+msgctxt "Maggie"
+msgid "Who should we talk to first?"
+msgstr ""
+
+#: maggie_mglass/suspectchoose/0/0/s/0 maggie_mglass/questions_return/0/16/s/0
+msgctxt "Choix"
+msgid "How about we talk to Lux?"
+msgstr ""
+
+#: maggie_mglass/suspectchoose/0/1/s/0 maggie_mglass/questions_return/0/18/s/0
+msgctxt "Choix"
+msgid "I think we should talk with Hoove."
+msgstr ""
+
+#: maggie_mglass/suspectchoose/0/2/s/0 maggie_mglass/questions_return/0/20/s/0
+msgctxt "Choix"
+msgid "Let's ask Wallace what he's heard!"
+msgstr ""
+
+#: maggie_mglass/suspectchoose/0/3/s/0 maggie_mglass/questions_return/0/22/s/0
+msgctxt "Choix"
+msgid "Let's bring in Stepford for questioning! Er... have a chat with him."
+msgstr ""
+
+#: maggie_mglass/suspectchoose/0/c-0/13 maggie_mglass/suspectchoose/0/c-1/13 maggie_mglass/suspectchoose/0/c-2/13 maggie_mglass/suspectchoose/0/c-3/7 maggie_mglass/questions_return/0/c-0/7 maggie_mglass/questions_return/0/c-1/7 maggie_mglass/questions_return/0/c-2/13 maggie_mglass/questions_return/0/c-3/7 maggie_mglass/questions_return/0/c-4/13 maggie_mglass/questions_return/0/c-5/7 maggie_mglass/questions_return/0/c-6/16 maggie_mglass/questions_return/0/c-7/7
+msgctxt "Maggie"
+msgid "All right, when you get in touch, I'll meet you there!"
+msgstr ""
+
+#: maggie_mglass/questions_return/0/0
+msgctxt "Maggie"
+msgid "Thanks for coming back. The case continues..."
+msgstr ""
+
+#: maggie_mglass/questions_return/0/8
+msgctxt "Maggie"
+msgid "Okay, who should we talk to next?"
+msgstr ""
+
+#: maggie_mglass/questions_return/0/17/s/0
+msgctxt "Choix"
+msgid "Oh, right. I need to talk to Lux."
+msgstr ""
+
+#: maggie_mglass/questions_return/0/19/s/0
+msgctxt "Choix"
+msgid "Oh I remember, I need to talk to Hoove."
+msgstr ""
+
+#: maggie_mglass/questions_return/0/21/s/0
+msgctxt "Choix"
+msgid "Oh right, I need to talk with Wallace!"
+msgstr ""
+
+#: maggie_mglass/questions_return/0/23/s/0
+msgctxt "Choix"
+msgid "Oh of course - Stepford, I forgot!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/0
+msgctxt "Maggie"
+msgid "I'm so glad to see you again."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/8
+msgctxt "Maggie"
+msgid "After the Scandalabra case, I haven't been able to get you off my mind."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/16/s/0
+msgctxt "Choix"
+msgid "Me neither, Maggie."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/17/s/0
+msgctxt "Choix"
+msgid "I'm surprised you haven't been occupied with another case!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/7
+msgctxt "Maggie"
+msgid "You mean it?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I do. I could see this becoming something really special."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Of course I do. It was a lot of fun and I'd love to... um... do it again."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Especially considering what we did after the case was closed..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/7
+msgctxt "Maggie"
+msgid "As could I."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/18
+msgctxt "Maggie"
+msgid "I actually went ahead and interviewed all your exes and I couldn't find anything worrisome about you at all!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Nothing to find, huh?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "You did WHAT?!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/2/s/0
+msgctxt "Choix"
+msgid "<i>Stare blankly.</i>"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/3/s/0
+msgctxt "Choix"
+msgid "You're kidding, right?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/c-0/7
+msgctxt "Maggie"
+msgid "I know! It was barely an investigation!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/0
+msgctxt "Maggie"
+msgid "Just a matter of sorting through old school records and scraping social media profiles."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/8
+msgctxt "Maggie"
+msgid "It was hardly the work of a few long nights."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "You can't do that! That's totally not cool!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "You mean to tell me you spent A FEW LONG NIGHTS going through old records and contacting my exes!?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/2/s/0
+msgctxt "Choix"
+msgid "That's so romantic!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-0/7
+msgctxt "Maggie"
+msgid "It's not?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "NO! It's totally inappropriate!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "It's super creepy!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-0/18/2/s/0
+msgctxt "Choix"
+msgid "It's a major turn off!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/7
+msgctxt "Maggie"
+msgid "I had to know whether you were the real deal!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Don't you see how inappropriate that is, Maggie?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/0
+msgctxt "Maggie"
+msgid "It... is?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/11/0/s/0
+msgctxt "Choix"
+msgid "I think we need to have a serious talk about personal privacy."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/11/1/s/0
+msgctxt "Choix"
+msgid "A few times now, you've overstepped some pretty major boundaries. It's starting to make me uncomfortable."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/11/2/s/0
+msgctxt "Choix"
+msgid "If you can't respect my private life, I don't think we can be together."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/11/g-0/0
+msgctxt "Maggie"
+msgid "Well that's no issue at all."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/11/g-0/8
+msgctxt "Maggie"
+msgid "I can change."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/11/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "I'm afraid that's not enough. I need a commitment."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-1/15/g-0/11/g-0/16/c-0/7
+msgctxt "Maggie"
+msgid "Alright. I <i>will</i> change. For you."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-2/7
+msgctxt "Maggie"
+msgid "I'm so glad you think so! And for a moment I was afraid you'd be upset with me!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-2/18/0/s/0
+msgctxt "Choix"
+msgid "How could I be upset with you? No one has ever cared enough to do something like that for me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-0/26/g-0/16/c-2/18/c-0/7
+msgctxt "Maggie"
+msgid "I have a feeling we're going to be so happy together."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/7 maggie_mglass/MaggieDate2/0/c-0/15/c-2/7
+msgctxt "Maggie"
+msgid "You're a naughty one, aren't you?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/0/s/0 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "You've got no idea."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/1/s/0 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Just a little."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-0/7 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-0/7
+msgctxt "Maggie"
+msgid "I think we're going to have a lot of fun together, you and I."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-0/15 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-0/15
+msgctxt "Maggie"
+msgid "Now that I think about it, something quite... urgent has come up on my end."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-0/23 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-0/23
+msgctxt "Maggie"
+msgid "With your breath near me I'm getting rather... fogged up."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-0/37 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-0/34
+msgctxt "Maggie"
+msgid "Maybe you can help me deal with it before we carry on our conversation..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-0/45/0/s/0 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-0/42/0/s/0
+msgctxt "Choix"
+msgid "Yes please!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-0/45/c-0/10 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-0/42/c-0/10
+msgctxt "Narrator"
+msgid "You help Maggie with her urgent case, the details of which we leave to your imagination."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-0/45/c-0/24 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-0/42/c-0/24
+msgctxt "Maggie"
+msgid "Now that that's taken care of..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-0/15/c-1/15/c-1/7 maggie_mglass/MaggieDate2/0/c-0/15/c-2/15/c-1/7
+msgctxt "Maggie"
+msgid "Pity. I was hoping for a lot."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-1/7
+msgctxt "Maggie"
+msgid "Actually, I... have been occupied with something."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Another mystery?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-0/0
+msgctxt "Maggie"
+msgid "You know, I feel like I can finally trust you enough to share something with you."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-0/8
+msgctxt "Maggie"
+msgid "I've never told anyone about this before."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "You can tell me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-1/0
+msgctxt "Maggie"
+msgid "Well, there's a case... A case I've never been able to solve..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Really? You?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "No way."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "But you're the best there is!"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-1/c-4/7
+msgctxt "Maggie"
+msgid "Yes, me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-1/c-5/7
+msgctxt "Maggie"
+msgid "Yet there is a way."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-1/c-6/7
+msgctxt "Maggie"
+msgid "Which is why it unsettles me so much..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/0
+msgctxt "Maggie"
+msgid "In spite of everything I've tried, it's escaped me. It haunts me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Tell me. Maybe I can help you."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/7/b/1
+msgctxt "Maggie"
+msgid "You already know what it is. It's the mysterious case of Sinclaire the Sink..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/7/b/9
+msgctxt "Maggie"
+msgid "Or should I say... Martin Applegate."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/7/b/17
+msgctxt "Maggie"
+msgid "Are you sure you're up for this?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/8/b/1
+msgctxt "Maggie"
+msgid "Alright, but... Well... You're going to think this is pretty out there..."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/8/b/9
+msgctxt "Maggie"
+msgid "You sure you're up for this?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/0/s/0
+msgctxt "Choix"
+msgid "I'm up for it, Maggie."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/1/s/0
+msgctxt "Choix"
+msgid "I didn't come all this way with you to back down, now."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/2/s/0
+msgctxt "Choix"
+msgid "Maggie, it seems like your life is one big case after the next. I don't think I can keep doing this with you."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/7
+msgctxt "Maggie"
+msgid "I knew this would happen eventually."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/0/s/0
+msgctxt "Choix"
+msgid "Could we just be friends and end it there?"
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/1/s/0
+msgctxt "Choix"
+msgid "I've given you plenty of chances to choose me over mystery."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/2/s/0
+msgctxt "Choix"
+msgid "You said that next time we saw one another, you would be present with me."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/c-0/7
+msgctxt "Maggie"
+msgid "Certainly. You've helped me a great deal this far."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/g-0/0
+msgctxt "Maggie"
+msgid "I understand. Seems like I just can't change who I am."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/g-0/8
+msgctxt "Maggie"
+msgid "Even for you. I guess this is goodbye."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "I guess so."
+msgstr ""
+
+#: maggie_mglass/MaggieDate2/0/g-2/c-7/11/c-2/18/g-0/16/c-0/7
+msgctxt "Narrator"
+msgid "You leave Maggie on her shelf. She may be distressed, but there is still a glint of the irrepressible gumshoe within her."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/0
+msgctxt "Maggie"
+msgid "Just who I was hoping to see!"
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/8/s/0
+msgctxt "Choix"
+msgid "Let me guess... You've got a new case!"
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/c-0/7
+msgctxt "Maggie"
+msgid "Quite so. And this one will be my magnum opus, I can just feel it."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Tell me everything."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "Let me guess. Does this have something to do with someone by the name of \"Martin Applegate?\""
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/c-0/18/c-0/7
+msgctxt "Maggie"
+msgid "Ok... here we go."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/c-0/18/c-1/7
+msgctxt "Maggie"
+msgid "I see you've already met."
+msgstr ""
+
+#: maggie_mglass/MaggieFriend2/0/c-0/18/c-1/15
+msgctxt "Maggie"
+msgid "I know there's something fishy going on there, and I'm desperate to get to the bottom of it."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF/0/12
+msgctxt "Maggie"
+msgid "Before we go any farther, I need you to go and have a conversation with someone."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF/0/20
+msgctxt "Maggie"
+msgid "I'd like you to speak with the sink, Sinclaire..."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF/0/31
+msgctxt "Maggie"
+msgid "Or should I say, 'Martin Applegate.'"
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF/0/39/s/0
+msgctxt "Choix"
+msgid "Uh... What?"
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF/0/c-0/7
+msgctxt "Maggie"
+msgid "Just go and speak with him, and then come back and I'll explain."
+msgstr ""
+
+#: maggie_mglass/wtf2/0
+msgctxt "Maggie"
+msgid "To the sink... the sink!"
+msgstr ""
+
+#: maggie_mglass/wtf2/8
+msgctxt "Maggie"
+msgid "A great mystery emanates from there. I feel it. I need to know the truth..."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/0
+msgctxt "Maggie"
+msgid "It all started with the Dandelion..."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/8/s/0
+msgctxt "Choix"
+msgid "The what?"
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/7
+msgctxt "Maggie"
+msgid "It's the first thing I remember, anyway."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/15
+msgctxt "Maggie"
+msgid "Up until that point, Sinclaire was his usual self. Just a sink and a bar of soap shaped like a dog. Nothing fancy."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/23
+msgctxt "Maggie"
+msgid "But then one day you came home late with some take-out, and after that things started to get a bit weird."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "'A bit weird' might be the understatement of the century. But do go on."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "So I got some take-out from the Questionable Dandelion?"
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/c-1/7
+msgctxt "Maggie"
+msgid "Yes, you must not remember. Perhaps it was one of those 'ghost kitchens'."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/c-1/15
+msgctxt "Maggie"
+msgid "The ones where they only serve food to ghosts."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/c-1/26
+msgctxt "Maggie"
+msgid "Just a detail I remember from the night Sinclaire changed."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/0
+msgctxt "Maggie"
+msgid "He started insisting that everyone call him by the name Martin Applegate."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/8
+msgctxt "Maggie"
+msgid "And then rumors started going around about all sorts of strange things he was saying."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "I've heard a few of them myself."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "He says some wild stuff, alright."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/16/g-0/0
+msgctxt "Maggie"
+msgid "I must confess, I can't make any sense of it."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/16/g-0/8
+msgctxt "Maggie"
+msgid "What I suggest we do is go and speak with him together."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/16/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "I think that's just the ticket. I know he'd like to speak with you, too."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/16/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "He mentioned finding someone who was good at solving mysteries."
+msgstr ""
+
+#: maggie_mglass/WTFMartinApplegateWTF2/0/c-0/31/g-0/16/g-0/16/g-0/0
+msgctxt "Maggie"
+msgid "Excellent. If you'll bring me to him, we can take things from there!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/0
+msgctxt "Maggie"
+msgid "I can't believe we actually did it."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/8
+msgctxt "Maggie"
+msgid "Solving that case with you was one of the highlights of my existence."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/27
+msgctxt "Maggie"
+msgid "I barely even know what to say."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/35/s/0
+msgctxt "Choix"
+msgid "We're great together."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/36/s/0
+msgctxt "Choix"
+msgid "We make an amazing team!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/37/s/0
+msgctxt "Choix"
+msgid "No need to say anything! Let's party!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-0/7 maggie_mglass/MaggieHungOver/0/g-1/c-5/7
+msgctxt "Maggie"
+msgid "We really are."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-0/18 maggie_mglass/MaggieHungOver/0/g-1/c-5/18
+msgctxt "Maggie"
+msgid "In fact, I've never felt this way about anyone before."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-0/26 maggie_mglass/MaggieHungOver/0/g-1/c-5/26
+msgctxt "Maggie"
+msgid "You've brought so much fun, so much love into my life..."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-0/34 maggie_mglass/MaggieHungOver/0/g-1/c-5/34
+msgctxt "Maggie"
+msgid "What would you say to making this official?"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-1/7
+msgctxt "Maggie"
+msgid "That we do!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-1/18
+msgctxt "Maggie"
+msgid "And I'd love to keep solving mysteries with you."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-1/26
+msgctxt "Maggie"
+msgid "As a friend or... as a lover."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/7
+msgctxt "Maggie"
+msgid "Woohoo!!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/18
+msgctxt "Maggie"
+msgid "Break out the mystery dance moves!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/32
+msgctxt "Maggie"
+msgid "And in fact, I've got a gift to give you."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/40
+msgctxt "Narrator"
+msgid "Maggie produces a funny little glass, holding it out to you."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/48
+msgctxt "Maggie"
+msgid "It's a shot glass themed like a magnifying glass!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/59/0/s/0
+msgctxt "Choix"
+msgid "Maggie this is awesome!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/59/1/s/0
+msgctxt "Choix"
+msgid "Bottoms up!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/c-2/59/2/s/0
+msgctxt "Choix"
+msgid "Next stop, hangover city!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/g-0/0
+msgctxt "Maggie"
+msgid "Now I can finally cut LOOSE!!!!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireSolved/0/g-0/8/b/1
+msgctxt "Maggie"
+msgid "C'mere... friend. Let's get shwasted."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/0
+msgctxt "Maggie"
+msgid "That case will always haunt me."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/8
+msgctxt "Maggie"
+msgid "I respect your commitment not to making a rash decision."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/16/s/0
+msgctxt "Choix"
+msgid "I just didn't feel right."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/17/s/0
+msgctxt "Choix"
+msgid "I can't decide when the evidence is so wild!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/c-0/7
+msgctxt "Maggie"
+msgid "Like I said... I respect that."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/c-1/7
+msgctxt "Maggie"
+msgid "It truly was!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/0
+msgctxt "Maggie"
+msgid "But at the same time... I don't know."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/8
+msgctxt "Maggie"
+msgid "For a while, I was starting to find myself very attracted to you."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/16
+msgctxt "Maggie"
+msgid "I think that's changed."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Do you hate me?"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "I'm not a detective though. You didn't do a good enough job!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/c-2/7
+msgctxt "Maggie"
+msgid "No, not at all."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/c-2/15
+msgctxt "Maggie"
+msgid "I'd love for us to remain friends."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/c-3/7 maggie_mglass/MaggieSinclaireFailed/0/g-0/c-4/7
+msgctxt "Maggie"
+msgid "I can never see you in the same way."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/c-3/15 maggie_mglass/MaggieSinclaireFailed/0/g-0/c-4/15
+msgctxt "Maggie"
+msgid "After the way that case went..."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-0/c-3/23 maggie_mglass/MaggieSinclaireFailed/0/g-0/c-4/23
+msgctxt "Maggie"
+msgid "We are over."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-1/0
+msgctxt "Maggie"
+msgid "I'm afraid dating is out of the picture for me."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-1/8
+msgctxt "Maggie"
+msgid "Now, if you'll excuse me..."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireNeverSolved/0/g-1/16
+msgctxt "Maggie"
+msgid "I think I need a little time alone."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/0/s/0
+msgctxt "Choix"
+msgid "I want to be with you."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/1/s/0
+msgctxt "Choix"
+msgid "Let's just stay friends, ok?"
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/7
+msgctxt "Maggie"
+msgid "You do?!"
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I do. But I have some reservations."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Yes!"
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/7 maggie_mglass/MakeItOffical/0/c-1/7 maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/c-0/15
+msgctxt "Maggie"
+msgid "In that case..."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/15
+msgctxt "Maggie"
+msgid "What should we do with the rest of the day?"
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "How about a tea date?"
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/1/s/0 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/0/s/0 maggie_mglass/MaggieReservations/0/c-1/55/1/s/0 maggie_mglass/PromisetoImprove/0/c-0/26/1/s/0 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "How about we just... um... stay in..."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-0/7 maggie_mglass/MakeItOffical/0/c-1/50/c-0/7
+msgctxt "Maggie"
+msgid "I can think of nothing I'd like more."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-0/15
+msgctxt "Maggie"
+msgid "But I'm not sure I'll be able to think about anything but the gaze of your lovely eyes."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-1/7 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/c-0/7 maggie_mglass/MaggieReservations/0/c-1/55/c-1/7 maggie_mglass/PromisetoImprove/0/c-0/26/c-1/7 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-1/7
+msgctxt "Maggie"
+msgid "Ooh... Maybe we can get a closer look at one another."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-1/15 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/c-0/15 maggie_mglass/MaggieReservations/0/c-1/55/c-1/15 maggie_mglass/PromisetoImprove/0/c-0/26/c-1/15 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-1/15
+msgctxt "Narrator"
+msgid "Maggie gives you a heated glance—you're reminded of a beam of sun focused through a magnifying glass."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-1/23 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/c-0/23 maggie_mglass/MaggieReservations/0/c-1/55/c-1/23 maggie_mglass/PromisetoImprove/0/c-0/26/c-1/23 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-1/23
+msgctxt "Maggie"
+msgid "I've been dying to get to the bottom of another mystery:"
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-1/31 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/c-0/31 maggie_mglass/MaggieReservations/0/c-1/55/c-1/31 maggie_mglass/PromisetoImprove/0/c-0/26/c-1/31 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-1/31
+msgctxt "Maggie"
+msgid "'The Case of the Missing Clothes,' I think it's called..."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-1/39 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/c-0/39 maggie_mglass/MaggieReservations/0/c-1/55/c-1/39 maggie_mglass/PromisetoImprove/0/c-0/26/c-1/39 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-1/39
+msgctxt "Maggie"
+msgid "I have a feeling I might be the Prime Suspect."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-1/50 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/c-0/50 maggie_mglass/MaggieReservations/0/c-1/55/c-1/50 maggie_mglass/PromisetoImprove/0/c-0/26/c-1/50 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-1/50
+msgctxt "Narrator"
+msgid "She takes you by the hand, leading you away to a place you can be truly alone together."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-0/15/c-1/23/c-1/58 maggie_mglass/MakeItOffical/0/c-1/50/c-0/24/c-0/58 maggie_mglass/MaggieReservations/0/c-1/55/c-1/58 maggie_mglass/PromisetoImprove/0/c-0/26/c-1/58 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-1/58
+msgctxt "Narrator"
+msgid "Maggie is by far the most satisfying mystery you've solved—by the end of the night you can say this is one case you've busted wide open."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-1/7
+msgctxt "Maggie"
+msgid "Of course! I understand."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-1/15
+msgctxt "Maggie"
+msgid "I'm... not for everyone."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-1/23
+msgctxt "Maggie"
+msgid "But a friendship with you is sure to be full of joy!"
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-1/31
+msgctxt "Maggie"
+msgid "Come back and see me any time you like."
+msgstr ""
+
+#: maggie_mglass/MaggieLover/0/c-1/39 maggie_mglass/MakeItOffical/0/c-2/42
+msgctxt "Maggie"
+msgid "I will forever cherish the memories of our adventures!"
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/0/s/0
+msgctxt "Choix"
+msgid "I have some reservations..."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/1/s/0
+msgctxt "Choix"
+msgid "I would love that."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/2/s/0
+msgctxt "Choix"
+msgid "I'm sorry Maggie. I think we should just be friends."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-1/15
+msgctxt "Maggie"
+msgid "I truly can't wait to see you again."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-1/23
+msgctxt "Maggie"
+msgid "I promise I'll be the best partner to you."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-1/34
+msgctxt "Maggie"
+msgid "You've already given me the confidence to know that you'll be the best for me."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-1/42
+msgctxt "Maggie"
+msgid "How should we start our new relationship off?"
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-1/50/0/s/0
+msgctxt "Choix"
+msgid "How about we finish that tea date?"
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-1/50/c-0/15
+msgctxt "Maggie"
+msgid "And this time I promise not to get distracted."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-2/7
+msgctxt "Maggie"
+msgid "No need to apologize."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-2/15
+msgctxt "Maggie"
+msgid "I'm disappointed, of course, but..."
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-2/23
+msgctxt "Maggie"
+msgid "If I've lost a lover, I've gained a great companion!"
+msgstr ""
+
+#: maggie_mglass/MakeItOffical/0/c-2/34
+msgctxt "Maggie"
+msgid "Come back and see me any time."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/0
+msgctxt "Maggie"
+msgid "What are they? Maybe I can help you get past them."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/8/s/0
+msgctxt "Choix"
+msgid "You have trouble respecting privacy."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/9/s/0
+msgctxt "Choix"
+msgid "You have trouble staying present."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/7
+msgctxt "Maggie"
+msgid "I know... It's a real problem."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/15
+msgctxt "Maggie"
+msgid "But you've helped me see things differently."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/23
+msgctxt "Maggie"
+msgid "Instead of always looking for the next case..."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/31
+msgctxt "Maggie"
+msgid "I can now see that what I really want is right in front of me."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/47 maggie_mglass/PromisetoImprove/0/c-0/18 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/18
+msgctxt "Maggie"
+msgid "Should we go out for a cup of tea?"
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/55/0/s/0 maggie_mglass/PromisetoImprove/0/c-0/26/0/s/0 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Yes, Maggie. I'd love that."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/55/2/s/0
+msgctxt "Choix"
+msgid "I wish I could say I was convinced."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/55/c-0/7 maggie_mglass/PromisetoImprove/0/c-0/26/c-0/7 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/26/c-0/7
+msgctxt "Maggie"
+msgid "And I promise I won't get sidetracked!"
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/55/c-2/7
+msgctxt "Maggie"
+msgid "I understand. Sometimes I do tend to speak plainly."
+msgstr ""
+
+#: maggie_mglass/MaggieReservations/0/c-1/55/c-2/15
+msgctxt "Maggie"
+msgid "Regardless... I look forward to a long friendship!"
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/0 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/7
+msgctxt "Maggie"
+msgid "Well... I guess you have mentioned it."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/8 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/15
+msgctxt "Maggie"
+msgid "I'll do better."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/16 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/26
+msgctxt "Maggie"
+msgid "You're worth it."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/27/s/0 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/0/s/0
+msgctxt "Choix"
+msgid "Ok Maggie. I feel comfortable dating now."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/28/s/0 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/1/s/0
+msgctxt "Choix"
+msgid "I don't know Maggie. I'm not convinced."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/c-0/7 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-0/7
+msgctxt "Maggie"
+msgid "You've made me so happy I can barely think straight."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/c-1/7 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-1/7
+msgctxt "Maggie"
+msgid "I understand. Perhaps my apology wasn't as flowery compared to the others..."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/c-1/15 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-1/15
+msgctxt "Maggie"
+msgid "I speak plainly - it's who I am."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/c-1/23 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-1/23
+msgctxt "Maggie"
+msgid "And I can plainly say... that we will make good friends. And I won't go snooping around in your affairs."
+msgstr ""
+
+#: maggie_mglass/PromisetoImprove/0/c-1/31 maggie_mglass/WhatAreYouTalkingAbout/0/c-2/34/c-1/31
+msgctxt "Maggie"
+msgid "You're worth my trust."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/0
+msgctxt "Maggie"
+msgid "What are you talking about?"
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/8
+msgctxt "Maggie"
+msgid "This is the first I'm hearing about it."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/16
+msgctxt "Maggie"
+msgid "Looking up stuff is part of who I am!"
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/24/s/0
+msgctxt "Choix"
+msgid "I need you not to treat me like a case."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/25/s/0
+msgctxt "Choix"
+msgid "I guess it's not that big a deal."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/26/s/0
+msgctxt "Choix"
+msgid "I've told you about this."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/7
+msgctxt "Maggie"
+msgid "I'm not sure if I can change just like that."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/15
+msgctxt "Maggie"
+msgid "I wish you'd said something before."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/23
+msgctxt "Maggie"
+msgid "You'll have to take me as I am."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/31
+msgctxt "Maggie"
+msgid "Or just be friends with me."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Let's just be friends."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "I'll take you as you are, then."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/c-0/7
+msgctxt "Maggie"
+msgid "I understand."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/c-0/23
+msgctxt "Maggie"
+msgid "I look forward to a long friendship!"
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/c-1/7 maggie_mglass/WhatAreYouTalkingAbout/0/c-1/7
+msgctxt "Maggie"
+msgid "Yippee!!!!"
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/c-1/18 maggie_mglass/WhatAreYouTalkingAbout/0/c-1/18
+msgctxt "Maggie"
+msgid "Because I just found your favorite store for treats!"
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/c-1/26 maggie_mglass/WhatAreYouTalkingAbout/0/c-1/26
+msgctxt "Maggie"
+msgid "Based on that GPS tracker I installed on your phone."
+msgstr ""
+
+#: maggie_mglass/WhatAreYouTalkingAbout/0/c-0/39/c-1/34 maggie_mglass/WhatAreYouTalkingAbout/0/c-1/34
+msgctxt "Maggie"
+msgid "You're gonna love what I got you!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/0
+msgctxt "Maggie"
+msgid "I can't believe what happened back there..."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/8/s/0
+msgctxt "Choix"
+msgid "I know. That was really rough."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/9/s/0
+msgctxt "Choix"
+msgid "I'm sorry. I feel like I let us down."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/10/s/0
+msgctxt "Choix"
+msgid "He'll be alright."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/c-0/7
+msgctxt "Maggie"
+msgid "Really rough."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/c-1/7
+msgctxt "Maggie"
+msgid "It was... both of us."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/c-2/7
+msgctxt "Maggie"
+msgid "Will he?"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/c-2/15
+msgctxt "Maggie"
+msgid "I can't help but feeling he's been permanently damaged."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/0
+msgctxt "Maggie"
+msgid "What happened with Sinclaire will haunt me forever."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/8
+msgctxt "Maggie"
+msgid "My whole identity as a detective has been shattered."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Don't say that!"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "What about us?"
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "It'll get better in time."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/c-3/7
+msgctxt "Maggie"
+msgid "Why not? It's the truth."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/c-3/15
+msgctxt "Maggie"
+msgid "I failed one of our own in his time of need."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-0/c-5/7
+msgctxt "Maggie"
+msgid "You know what? I don't know if it ever will."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-1/0
+msgctxt "Maggie"
+msgid "I'm sorry to say this, but..."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-1/8/0
+msgctxt "Maggie"
+msgid "Please don't come see me anymore."
+msgstr ""
+
+#: maggie_mglass/MaggieSinclaireFailed/0/g-1/8/11 maggie_mglass/Maggie_hate_return/0/c-0/7
+msgctxt "Maggie"
+msgid "Goodbye."
+msgstr ""
+
+#: maggie_mglass/maggie_hate_joiner/22
+msgctxt "Reggie"
+msgid "Case closed!"
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/4
+msgctxt "Narrator"
+msgid "Maggie clutches at her head, wincing."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/12
+msgctxt "Maggie"
+msgid "Owwww my lens..."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/23/s/0
+msgctxt "Choix"
+msgid "My head..."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/24/s/0
+msgctxt "Choix"
+msgid "What's wrong?"
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/0
+msgctxt "Maggie"
+msgid "Ugh... I'm still hung over from our party."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/8
+msgctxt "Maggie"
+msgid "But I don't regret a thing."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/16
+msgctxt "Maggie"
+msgid "Unless... there's something I'm forgetting?"
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "You made out with a dust bunny..."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "You got naked and ran through the living room..."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "We... Um..."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/c-2/7
+msgctxt "Maggie"
+msgid "I don't regret that at all."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/c-2/18
+msgctxt "Maggie"
+msgid "Lint Eastwood is ravishing."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/c-3/7
+msgctxt "Maggie"
+msgid "Did I?"
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/c-3/15
+msgctxt "Maggie"
+msgid "Well, lucky living room!"
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-0/c-4/7
+msgctxt "Maggie"
+msgid "Let's just say it was a one-time thing, yeah?"
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-1/0
+msgctxt "Maggie"
+msgid "Woof... I'm speechless."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "We're a good team, Maggie. As detectives and lovers..."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "You don't have to say anything."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-1/c-6/7
+msgctxt "Maggie"
+msgid "You're right... I'm so used to being in the drivers' seat."
+msgstr ""
+
+#: maggie_mglass/MaggieHungOver/0/g-1/c-6/15
+msgctxt "Maggie"
+msgid "But we make a great pair."
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/0
+msgctxt "Maggie"
+msgid "Hey! So glad to see you again!"
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/8
+msgctxt "Maggie"
+msgid "I'm always thinking of our adventures."
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/16
+msgctxt "Maggie"
+msgid "Hope some day we get to do it again."
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/24/s/0 maggie_mglass/maggie_candy_friend_return/0/16/s/0
+msgctxt "Choix"
+msgid "Any new mysteries?"
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/25/s/0 maggie_mglass/maggie_candy_friend_return/0/17/s/0
+msgctxt "Choix"
+msgid "Me too!"
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/26/s/0
+msgctxt "Choix"
+msgid "We had a lot of fun, didn't we!"
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/27/s/0 maggie_mglass/maggie_candy_friend_return/0/18/s/0 maggie_mglass/Maggie_love_return/0/46/s/0
+msgctxt "Choix"
+msgid "Maggie, I'm ready to Realize you."
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/c-0/7 maggie_mglass/maggie_candy_friend_return/0/c-0/7
+msgctxt "Maggie"
+msgid "Not right now, but you'll be the first one I'll call!"
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/c-1/7
+msgctxt "Maggie"
+msgid "I'll call you if any new cases come up!"
+msgstr ""
+
+#: maggie_mglass/Maggie_friend_return/0/c-2/7
+msgctxt "Maggie"
+msgid "Absolutely. I'll let you know if any new capers arise!"
+msgstr ""
+
+#: maggie_mglass/maggie_candy_friend_return/0/0
+msgctxt "Maggie"
+msgid "I'm happy to see you again, my friend."
+msgstr ""
+
+#: maggie_mglass/maggie_candy_friend_return/0/8
+msgctxt "Maggie"
+msgid "I'm still on the search for a new case..."
+msgstr ""
+
+#: maggie_mglass/maggie_candy_friend_return/0/c-1/7
+msgctxt "Maggie"
+msgid "I'll let you know if any new cases come up!"
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/0
+msgctxt "Maggie"
+msgid "I'm sorry but I'm not taking any new cases."
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/8/s/0
+msgctxt "Choix"
+msgid "I guess, goodbye?"
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/9/s/0
+msgctxt "Choix"
+msgid "But you didn't polish your glass... (USE SMARTS CANDY)"
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/c-1/13
+msgctxt "Maggie"
+msgid "And?"
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "You polish your glass after a good night's sleep."
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/c-1/21/c-0/7
+msgctxt "Maggie"
+msgid "So?!"
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/c-1/21/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That means you haven't been sleeping! By deductive reasoning I know you NEED another case!"
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/c-1/21/c-0/15/c-0/7
+msgctxt "Maggie"
+msgid "Damn you! Alright... You're RIGHT. I've been up for DAYS trying to find one!"
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/c-1/21/c-0/15/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Let me be your friend, Maggie. I'll point you towards a new caper."
+msgstr ""
+
+#: maggie_mglass/Maggie_hate_return/0/c-1/21/c-0/15/c-0/18/c-0/7
+msgctxt "Maggie"
+msgid "I suppose with new evidence, even the \"guilty\" can be proved innocent."
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/0
+msgctxt "Maggie"
+msgid "Hello, gorgeous!"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/8
+msgctxt "Maggie"
+msgid "What should we do today?"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/16
+msgctxt "Maggie"
+msgid "Care for a bit of close reading?"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/24
+msgctxt "Maggie"
+msgid "Or a spot of tea?"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/32
+msgctxt "Maggie"
+msgid "Or should we just inspect the sheets for a while?"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/43/s/0
+msgctxt "Choix"
+msgid "Tea for two."
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/44/s/0
+msgctxt "Choix"
+msgid "Reading sounds nice!"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/45/s/0
+msgctxt "Choix"
+msgid "Let's see what we can detect in the bedroom..."
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-0/7
+msgctxt "Maggie"
+msgid "My favorite!"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-0/15
+msgctxt "Maggie"
+msgid "Off we go!"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-0/23
+msgctxt "Narrator"
+msgid "You sip and savor together, reminiscing in your cases past."
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-1/7
+msgctxt "Maggie"
+msgid "Brilliant!"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-1/15
+msgctxt "Maggie"
+msgid "There's a new mystery novel I can't put down."
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-1/23
+msgctxt "Narrator"
+msgid "You devour mystery after mystery, though Maggie does tend to spoil the ending within the first few pages."
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-2/7
+msgctxt "Maggie"
+msgid "I've got evidence of some naughty thoughts..."
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-2/18
+msgctxt "Maggie"
+msgid "We're a match made in heaven, aren't we?"
+msgstr ""
+
+#: maggie_mglass/Maggie_love_return/0/c-2/29
+msgctxt "Narrator"
+msgid "The case - The Mystery of the Lustful Lover. The culprit - you. The verdict - Guilty."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/0
+msgctxt "Maggie"
+msgid "So I can pick up human cases? I've always been curious about how those work."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/8
+msgctxt "Maggie"
+msgid "I think I'll need a name change though..."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/16
+msgctxt "Maggie"
+msgid "How about Nancy Drue?"
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/24/s/0
+msgctxt "Choix"
+msgid "I think that's taken..."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/c-0/7
+msgctxt "Maggie"
+msgid "I'll have to brainstorm then."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/g-0/0
+msgctxt "Maggie"
+msgid "Do you have the necessary evidence though?"
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "It's all in the case file."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "No, I'm still investigating."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_join/0/g-0/c-2/10
+msgctxt "Maggie"
+msgid "Always best to investigate before making a decision."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_return/0/0
+msgctxt "Maggie"
+msgid "You're back? Is the case closed?"
+msgstr ""
+
+#: maggie_mglass/maggie_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Open and shut."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "Open... but not yet shut."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_return/0/c-1/10
+msgctxt "Maggie"
+msgid "Then I will remain here until you're ready."
+msgstr ""
+
+#: maggie_mglass/maggie_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Can Maggie solve the mystery if we can bring a dateable object to life?"
+msgstr ""
+
+#: maggie_mglass/maggie_realize_begin/9
+msgctxt "Skylar"
+msgid "C'mon Maggie, let's solve this Realization Riddle!"
+msgstr ""
+
+#: maggie_mglass/maggie_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a magnifying glass, becomes...."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/3
+msgctxt "Maggie"
+msgid "Do you have manilla envelopes?"
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/14/s/0
+msgctxt "Choix"
+msgid "Maggie, you're a human!"
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/15/s/0
+msgctxt "Choix"
+msgid "Uh... yeah?"
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/c-0/7
+msgctxt "Maggie"
+msgid "I am aware. I have deduced this by the simple fact of taking a breath."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/c-1/7
+msgctxt "Maggie"
+msgid "Splendid."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/0
+msgctxt "Maggie"
+msgid "I would like to start making a case file immediately."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "For who?"
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/c-2/7
+msgctxt "Maggie"
+msgid "Everyone."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/c-2/21
+msgctxt "Narrator"
+msgid "Maggie began her investigative career - vowing to catch criminals with ironclad evidence."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/c-2/29
+msgctxt "Narrator"
+msgid "However, after her 15th crooked Wall Street banker walked free with only six months in prison and a 6 year trial, Maggie found there was an insurmountable gulf between guilt and justice."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/c-2/37
+msgctxt "Maggie"
+msgid "Damn them."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/c-2/45
+msgctxt "Narrator"
+msgid "After only a brief period of despondence, Maggie realized she could create her own justice - in the form of stories."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/c-2/53
+msgctxt "Narrator"
+msgid "She turned the great looking-glass of her intellect towards the creation of a new genre of fiction - Magnified Detective Romance."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-0/c-2/61
+msgctxt "Maggie"
+msgid "My stories involve a very close look at the intricacies of investigative lovemaking."
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Sounds amazing!"
+msgstr ""
+
+#: maggie_mglass/maggie_realized/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "... can you give me an example of this style of romance?"
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/3
+msgctxt "Maggie"
+msgid "Well... I wrote my first one about you."
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/14
+msgctxt "Maggie"
+msgid "You showed me how possible investigative lovemaking is."
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/30
+msgctxt "Maggie"
+msgid "\"The magnifying glass shivered with ecstatic anticipation as the warm hand clasped firmly around her.\""
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/38
+msgctxt "Maggie"
+msgid "\"'Is this your first case?' her lover asked.\""
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/46
+msgctxt "Maggie"
+msgid "\"'...y-yes,' she breathed.\""
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/54/b/1
+msgctxt "Maggie"
+msgid "\"'Don't worry,' her lover said, 'just focus on the hard evidence.'\""
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/57/b/1
+msgctxt "Maggie"
+msgid "\"'Don't worry,' her lover said, 'let Lady Justice take care of everything.'\""
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/60/b/1
+msgctxt "Maggie"
+msgid "\"'Don't worry,' her lover said, 'I'll take the closest look, and not miss a single detail.'\""
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/63
+msgctxt "Maggie"
+msgid "\"Convex to concave, their beings touched on all the facts of the case, leaving no stone uncaressed.\""
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/79
+msgctxt "Maggie"
+msgid "It goes on from there..."
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/87/s/0
+msgctxt "Choix"
+msgid "That was spicy..."
+msgstr ""
+
+#: maggie_mglass/maggie_love_divert/0/88/s/0
+msgctxt "Choix"
+msgid "Wow!"
+msgstr ""
+
+#: maggie_mglass/maggie_love_join/0
+msgctxt "Maggie"
+msgid "I'll have to send you a signed copy of the manuscripts. After I'm done with my latest book tour."
+msgstr ""
+
+#: maggie_mglass/maggie_love_join/8
+msgctxt "Narrator"
+msgid "Maggie's new career was incredibly successful, though she kept a modest lifestyle."
+msgstr ""
+
+#: maggie_mglass/maggie_love_join/16
+msgctxt "Narrator"
+msgid "For the proceeds of her work always went towards fostering the next generation of investigators."
+msgstr ""

@@ -1,0 +1,4839 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: hime_anime/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "ANIME FIGURINE"
+msgstr ""
+
+#: hime_anime/Hero_1/0/6
+msgctxt "Hero-Hime"
+msgid "<i>Oh gosh, I'm late for school!</i>"
+msgstr ""
+
+#: hime_anime/Hero_1/0/17
+msgctxt "Hero-Hime"
+msgid "-is what I would say if I were your typical anime schoolgirl protagonist!"
+msgstr ""
+
+#: hime_anime/Hero_1/0/25
+msgctxt "Hero-Hime"
+msgid "But that's not who I am!"
+msgstr ""
+
+#: hime_anime/Hero_1/0/33
+msgctxt "Hero-Hime"
+msgid "My name is Hero-hime, a college freshman entering Heart Ace Academy - the center of all things <i><i>tennis</i></i>!"
+msgstr ""
+
+#: hime_anime/Hero_1/0/47
+msgctxt "Hero-Hime"
+msgid "Tennis athletes from all over come to Heart Ace to train and challenge each other to be the <i><i>Tennistar</i></i>!!"
+msgstr ""
+
+#: hime_anime/Hero_1/0/55
+msgctxt "Hero-Hime"
+msgid "Right, Nekoboru?"
+msgstr ""
+
+#: hime_anime/Hero_1/0/69 hime_anime/Hero_1/0/c-1/7 hime_anime/Hero_Meet/0/c-2/21 hime_anime/Hero_Meet/0/c-2/37 hime_anime/Hero_Meet/0/c-2/45/c-0/15 hime_anime/Hero_Meet/0/c-2/45/c-1/15 hime_anime/Hero_1_Cont/0/g-3/c-11/67 hime_anime/Hero_1_Cont/0/g-4/16 hime_anime/Hero_2/0/17 hime_anime/Hero_2/0/c-2/7 hime_anime/Hero_2/0/g-4/c-11/15/g-0/24 hime_anime/Hero_2/0/g-4/c-12/39 hime_anime/Hero_2/0/g-5/c-13/7 hime_anime/Hero_Tennis_1_Cont/0/g-0/96 hime_anime/yosh/0/g-0/8 hime_anime/Hero_3/0/g-1/60 hime_anime/Nekoboru_1/0/0 hime_anime/Nekoboru_1/0/g-6/c-18/15 hime_anime/Nekoboru_1/0/g-8/51 hime_anime/Nekoboru_1/0/g-9/14/19 hime_anime/Hero_5/0/g-9/c-24/19/c-0/39/c-0/26 hime_anime/Hero_Friendship/0/g-0/35 hime_anime/hime_realized/0/g-0/19 hime_anime/hime_realized/0/g-1/0
+msgctxt "Nekoboru"
+msgid "Nekoboru."
+msgstr ""
+
+#: hime_anime/Hero_1/0/77/s/0
+msgctxt "Choix"
+msgid "That was a lot."
+msgstr ""
+
+#: hime_anime/Hero_1/0/78/s/0
+msgctxt "Choix"
+msgid "Is that a floating tennis-ball cat?"
+msgstr ""
+
+#: hime_anime/Hero_1/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "Oh, I'm sorry! Here, let me start over."
+msgstr ""
+
+#: hime_anime/Hero_1/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "Hi, I'm Hero-hime and this is my tennis-ball cat, Nekoboru."
+msgstr ""
+
+#: hime_anime/Hero_1/0/g-0/16 hime_anime/Hero_1/0/g-0/c-2/15
+msgctxt "Hero-Hime"
+msgid "I'm happy to answer any questions you have!"
+msgstr ""
+
+#: hime_anime/Hero_1/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "I have a few."
+msgstr ""
+
+#: hime_anime/Hero_1/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Don't think so. All seems pretty normal to me!"
+msgstr ""
+
+#: hime_anime/Hero_1/0/g-0/c-2/7
+msgctxt "Hero-Hime"
+msgid "Go for it!"
+msgstr ""
+
+#: hime_anime/Hero_1/0/g-0/c-3/7
+msgctxt "Hero-Hime"
+msgid "Hahah! You're silly."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/0/b/1
+msgctxt "Hero-Hime"
+msgid "What can I fill you in on?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/1/b/1
+msgctxt "Hero-Hime"
+msgid "Anything else?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/2/b/1
+msgctxt "Hero-Hime"
+msgid "Hope these are helping!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/7/s/0
+msgctxt "Choix"
+msgid "What anime are you from?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/8/s/0
+msgctxt "Choix"
+msgid "What's a \"Tennistar\"?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/9/s/0
+msgctxt "Choix"
+msgid "Nekoboru?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/10/s/0
+msgctxt "Choix"
+msgid "I'm good! I get it."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/13
+msgctxt "Hero-Hime"
+msgid "<i>Starlight Overheaders!! The Anime</i> - a magical-girl/sports anime with a single cour of twelve episodes!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/21
+msgctxt "Hero-Hime"
+msgid "Since most popular sports anime rely on teamwork and the power of friendship..."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/29
+msgctxt "Hero-Hime"
+msgid "The production committee felt like tennis had an unfair disadvantage of being depicted."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/37
+msgctxt "Hero-Hime"
+msgid "The idea of a doubles team was considered, but the creator decided on adding the magical-girl flair!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/0/s/0
+msgctxt "Choix"
+msgid "But the animation wasn't great from what I remember."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/1/s/0
+msgctxt "Choix"
+msgid "I love the magical girl trope!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/c-0/7
+msgctxt "Hero-Hime"
+msgid "Unfortunately, it wasn't very <i>sakuga</i>."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/c-0/15
+msgctxt "Hero-Hime"
+msgid "But I'm surprised you remember!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/c-1/7
+msgctxt "Hero-Hime"
+msgid "Me too! Girl power forever!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/c-1/15
+msgctxt "Hero-Hime"
+msgid "But don't forget, those shows are for <i>everyone</i>!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/g-0/0/0/s/0
+msgctxt "Choix"
+msgid "I'm kinda surprised that you <i>know</i> that you're from a show..."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/g-0/0/1/s/0
+msgctxt "Choix"
+msgid "You're a really cool gift."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/g-0/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "Well, I am an anime figure after all!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/g-0/0/c-0/15
+msgctxt "Hero-Hime"
+msgid "We come with all the lore necessary - all you have to do is awaken our essences!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-0/45/g-0/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "<w>GASP</w> You think I'm a gift to this world?! SUPER-SET!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/13
+msgctxt "Hero-Hime"
+msgid "The Tennistar is the greatest tennis player alive and the hero of Heart Ace Academy!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "How are they a hero?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/1/s/0
+msgctxt "Choix"
+msgid "What's the Heart Ace Academy?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/c-0/7
+msgctxt "Hero-Hime"
+msgid "They're a shining pillar to athletes around the world!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/c-0/15
+msgctxt "Hero-Hime"
+msgid "They also fight crime in between their tennis games!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/c-1/7
+msgctxt "Hero-Hime"
+msgid "The greatest tennis training school in the world!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/c-1/15
+msgctxt "Hero-Hime"
+msgid "It produces the greatest <i>players</i>. And crime-fights!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/0/s/0
+msgctxt "Choix"
+msgid "Sounds busy."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/1/s/0
+msgctxt "Choix"
+msgid "Haha. What do you do, whack a 120mph serve at the bad guys?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "You have to be if you want to be a symbol of peace and inspiration to future tennis players!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/c-0/15
+msgctxt "Hero-Hime"
+msgid "That's why I have to keep training!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "How did you know?! I've exploded a few bad guy orbital sockets in my time."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/c-1/15
+msgctxt "Nekoboru"
+msgid "Nekoboru!!!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/0/s/0
+msgctxt "Choix"
+msgid "Are you good at tennis?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/1/s/0
+msgctxt "Choix"
+msgid "Are you good at fighting crime?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "Hehe, wouldn't you like to know?"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-0/15
+msgctxt "Hero-Hime"
+msgid "The previous Tennistar mysteriously disappeared, so everyone has been training for their spot."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-0/23
+msgctxt "Hero-Hime"
+msgid "Heh, but they won't beat me!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "Try something funny and find out... Teehee!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-1/15
+msgctxt "Hero-Hime"
+msgid "Just Kidding!!!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-1/23
+msgctxt "Hero-Hime"
+msgid "Or am I."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-1/31
+msgctxt "Hero-Hime"
+msgid "Anyway, the previous Tennistar mysteriously disappeared, so everyone has been training for their spot."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-1/21/g-0/0/g-0/0/c-1/39
+msgctxt "Hero-Hime"
+msgid "But they won't beat me!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-2/13
+msgctxt "Hero-Hime"
+msgid "Yup! Nekoboru!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-2/29
+msgctxt "Hero-Hime"
+msgid "Nekoboru~!!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-2/45/0/s/0 hime_anime/Hero_Tennis_1_Cont/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "Never mind."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-2/45/1/s/0
+msgctxt "Choix"
+msgid "I'm confused."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-2/45/c-0/7 hime_anime/Hero_Meet/0/c-2/45/c-1/7
+msgctxt "Hero-Hime"
+msgid "Okay!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-3/7/b/1
+msgctxt "Hero-Hime"
+msgid "Without asking a single question?? You're not curious??"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-3/7/b/9
+msgctxt "Hero-Hime"
+msgid "Well then... let's get to training!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-3/8/b/1
+msgctxt "Hero-Hime"
+msgid "Phew! Answering these questions has got me hungry for some tennis!"
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-3/8/b/9
+msgctxt "Hero-Hime"
+msgid "But I need a tennis partner to help me get to the top."
+msgstr ""
+
+#: hime_anime/Hero_Meet/0/c-3/8/b/17
+msgctxt "Hero-Hime"
+msgid "Say, why don't you train with me?"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/0/s/0
+msgctxt "Choix"
+msgid "Uh sure?"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/1/s/0
+msgctxt "Choix"
+msgid "I have a feeling I've got no choice..."
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "Awesome! You're a lifesaver!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "You're super good at feeling things!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-0/3 hime_anime/Hero_Hate/0/g-1/8 hime_anime/Hero_Friendship/0/g-1/8
+msgctxt "Hero-Hime"
+msgid "Battle court activate!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "Battle court?"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "Am I going to die?"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-0/c-2/7
+msgctxt "Hero-Hime"
+msgid "Battle court!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-0/c-3/7
+msgctxt "Hero-Hime"
+msgid "No, but you might get served!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-0/c-3/15
+msgctxt "Hero-Hime"
+msgid "Okay, here it comes!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "Hope you're ready!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Am I in the anime now?"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "How did this racket get in my hand?!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Let's do this!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-2/0 hime_anime/Hero_Tennis_2/0/9/11/c-2/23
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-2/11
+msgctxt "Hero-Hime"
+msgid "How are you going to return that?"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-2/19/s/0
+msgctxt "Choix"
+msgid "<i>Run towards it with forehand.</i>"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-2/20/s/0
+msgctxt "Choix"
+msgid "<i>Run towards it with backhand.</i>"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-2/21/s/0
+msgctxt "Choix"
+msgid "<i>Back up and wait for the ball.</i>"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-2/22/s/0
+msgctxt "Choix"
+msgid "<i>Just swing and pray</i>"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/0
+msgctxt "Hero-Hime"
+msgid "Maybe if you had enough practice, but..."
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/8
+msgctxt "Hero-Hime"
+msgid "You forgot the most important thing in tennis!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/16
+msgctxt "Hero-Hime"
+msgid "Your footing!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/24
+msgctxt "Hero-Hime"
+msgid "<i>The Starlight Smash cracks through the air and strikes her foe in the torso!</i>"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/32
+msgctxt "Hero-Hime"
+msgid "And that's my point!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/40/s/0
+msgctxt "Choix"
+msgid "I think my rib's broken."
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/41/s/0
+msgctxt "Choix"
+msgid "Almost had you!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-11/11
+msgctxt "Hero-Hime"
+msgid "Come on, you gotta shape up partner!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-11/19 hime_anime/Hero_1_Cont/0/g-3/c-12/15
+msgctxt "Hero-Hime"
+msgid "But I guess we can call it here for today."
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-11/27 hime_anime/Hero_1_Cont/0/g-3/c-12/23
+msgctxt "Hero-Hime"
+msgid "I'm gonna go run laps around the house!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-11/35 hime_anime/Hero_1_Cont/0/g-3/c-12/31
+msgctxt "Hero-Hime"
+msgid "Catch ya around, 'kay?"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-11/43 hime_anime/Hero_1_Cont/0/g-3/c-12/39
+msgctxt "Hero-Hime"
+msgid "Oh and don't forget your cool down stretches!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-11/51
+msgctxt "Hero-Hime"
+msgid "Sayonara~!!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-11/59 hime_anime/Hero_1_Cont/0/g-4/8
+msgctxt "Hero-Hime"
+msgid "Come on, Nekoboru!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-12/7
+msgctxt "Hero-Hime"
+msgid "Teehee! Not even close! You gotta shape up partner!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-12/47/0/s/0
+msgctxt "Choix"
+msgid "I won't... you'll rue the day you ever faced me!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-12/47/1/s/0
+msgctxt "Choix"
+msgid "You got it, Hero!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-12/47/c-0/7
+msgctxt "Hero-Hime"
+msgid "Hmm... maybe!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-3/c-12/47/c-1/7 hime_anime/Hero_5/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "Tee hee!"
+msgstr ""
+
+#: hime_anime/Hero_1_Cont/0/g-4/0
+msgctxt "Hero-Hime"
+msgid "Sayonara!!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/6
+msgctxt "Hero-Hime"
+msgid "Morning!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/25/s/0
+msgctxt "Choix"
+msgid "Morning."
+msgstr ""
+
+#: hime_anime/Hero_2/0/26/s/0
+msgctxt "Choix"
+msgid "It's not morning."
+msgstr ""
+
+#: hime_anime/Hero_2/0/27/s/0
+msgctxt "Choix"
+msgid "Nekoboru!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "Yay!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "Morning is a state of mind!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "So I was thinking about our match we had..."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "Not only are you out of practice, but you're out of shape too!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Gee, thanks."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "I've literally never played tennis in my life!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/c-3/7
+msgctxt "Hero-Hime"
+msgid "While tennis is a great cardiovascular activity, you gotta increase your stamina to keep up!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/c-3/15 hime_anime/Hero_2/0/g-0/c-4/23
+msgctxt "Hero-Hime"
+msgid "So let's start with a warm-up exercise!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/c-4/7
+msgctxt "Hero-Hime"
+msgid "Great! I'll be your senpai then!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-0/c-4/15
+msgctxt "Hero-Hime"
+msgid "Tennis is a great cardiovascular activity, you gotta increase your stamina AND your skills to keep up!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Can I opt out?"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "Can't scare me. I almost won the Presidential Fitness award in 4th grade."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-1/c-5/7
+msgctxt "Hero-Hime"
+msgid "Nope!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-1/c-5/15 hime_anime/Hero_2/0/g-1/c-6/15
+msgctxt "Hero-Hime"
+msgid "<w>Battle court activate!</w>"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-1/c-5/23 hime_anime/Hero_2/0/g-1/c-6/23
+msgctxt "Hero-Hime"
+msgid "Okay, we'll be doing side-step running drills!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-1/c-6/7
+msgctxt "Hero-Hime"
+msgid "Almost? That's probably not good enough!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/0/s/0
+msgctxt "Choix"
+msgid "What's side-step running?"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/1/s/0
+msgctxt "Choix"
+msgid "Easy-peasy!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/c-7/7
+msgctxt "Hero-Hime"
+msgid "Stand parallel to the baseline and start moving laterally down it!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/c-7/15
+msgctxt "Hero-Hime"
+msgid "Once you reach one of the sidelines, come back to the start and go again till the next sideline."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/c-7/23
+msgctxt "Hero-Hime"
+msgid "Repeat until you've made it back and forth to the end!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/c-7/31 hime_anime/Hero_2/0/g-2/c-8/31
+msgctxt "Hero-Hime"
+msgid "Remember, your movement should feel natural and bouncy!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/c-8/7
+msgctxt "Hero-Hime"
+msgid "Glad to hear you're so confident!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/c-8/15
+msgctxt "Hero-Hime"
+msgid "Believing in yourself is key to becoming a Tennistar, but you've got to have the skills to back it up too!."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-2/c-8/23
+msgctxt "Hero-Hime"
+msgid "Challenge yourself, and work hard!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-3/0/s/0
+msgctxt "Choix"
+msgid "What is this supposed to help with?"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-3/1/s/0
+msgctxt "Choix"
+msgid "I can feel it! I'm a bouncing baby Tennistar!!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-3/c-9/7
+msgctxt "Hero-Hime"
+msgid "You move sideways in tennis all the time!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-3/c-9/15 hime_anime/Hero_2/0/g-3/c-10/15
+msgctxt "Hero-Hime"
+msgid "Doing this before every game will help improve your feet's reaction time!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-3/c-10/7
+msgctxt "Hero-Hime"
+msgid "More like a future zyGOAT, but we'll get there!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/0/s/0
+msgctxt "Choix"
+msgid "Tennis isn't just about swinging good?"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/1/s/0
+msgctxt "Choix"
+msgid "I'm really feeling like I might be a natural at this!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/7
+msgctxt "Hero-Hime"
+msgid "Are fighting games just about mashing buttons?"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/15/0/s/0
+msgctxt "Choix"
+msgid "Totally!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/15/1/s/0
+msgctxt "Choix"
+msgid "I guess you're right."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/15/c-0/7
+msgctxt "Hero-Hime"
+msgid "No-tally!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/15/c-1/7
+msgctxt "Hero-Hime"
+msgid "I've got <i>ALL</i> the motivational quotes."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/15/g-0/0
+msgctxt "Hero-Hime"
+msgid "Come on, just do a few more! You're almost there!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/15/g-0/8 hime_anime/Hero_2/0/g-4/c-12/23
+msgctxt "Hero-Hime"
+msgid "Aaaaand... done!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-11/15/g-0/16 hime_anime/Hero_2/0/g-4/c-12/31
+msgctxt "Hero-Hime"
+msgid "Alright, take a breather!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-12/7
+msgctxt "Hero-Hime"
+msgid "I'm so proud! Don't lose pace!!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-4/c-12/15
+msgctxt "Hero-Hime"
+msgid "Come on, just a few more! You're almost there!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-5/0/s/0
+msgctxt "Choix"
+msgid "Thanks for the water, Nekoboru."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-5/1/s/0
+msgctxt "Choix"
+msgid "You're a pretty good coach, you know that?"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-5/c-13/15 hime_anime/Hero_2/0/g-5/c-14/15
+msgctxt "Hero-Hime"
+msgid "Alright, let's do some stretches!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-5/c-13/23 hime_anime/Hero_2/0/g-5/c-14/23
+msgctxt "Hero-Hime"
+msgid "One, two... one, two..."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-5/c-14/7
+msgctxt "Hero-Hime"
+msgid "Haha, well, don't let Principal Saibansho know! He'll put me in charge of running drills!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-6/0
+msgctxt "Hero-Hime"
+msgid "Great job!"
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-6/8
+msgctxt "Hero-Hime"
+msgid "But now... faster than you could have imagined..."
+msgstr ""
+
+#: hime_anime/Hero_2/0/g-6/16
+msgctxt "Hero-Hime"
+msgid "It's game time!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/0
+msgctxt "Hero-Hime"
+msgid "So what do we do first?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/8/s/0
+msgctxt "Choix"
+msgid "<i>Start swinging.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/9/s/0
+msgctxt "Choix"
+msgid "<i>Take a selfie with my racket.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/10/s/0
+msgctxt "Choix"
+msgid "<i>Adjust footing.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "No...."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "Oh, did it come out nice?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-1/15
+msgctxt "Hero-Hime"
+msgid "Aww, kawaii!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-1/23
+msgctxt "Hero-Hime"
+msgid "But wrong."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-2/7
+msgctxt "Hero-Hime"
+msgid "Right! Assume the ready position!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-2/15
+msgctxt "Hero-Hime"
+msgid "Okay, here we go!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-2/23
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: 5% Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-2/31/0/s/0
+msgctxt "Choix"
+msgid "<i>Approaching forehand shot.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/c-2/31/1/s/0
+msgctxt "Choix"
+msgid "<i>Approaching backhand shot.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "Well done! Time for me to announce my next attack..."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: Take the Advantage Now Shot!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "<i>Approach the net and volley.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "<i>Approach the net and tap the ball in.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "<i>Step back and swing.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/c-3/7
+msgctxt "Hero-Hime"
+msgid "How bold!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/c-4/7
+msgctxt "Hero-Hime"
+msgid "Making me run, huh?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-0/c-5/7
+msgctxt "Hero-Hime"
+msgid "Not a bad defense."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "But let's see how you handle this!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1/0/g-1/8
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: Pierce the Heavens Lob!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/0
+msgctxt "Hero-Hime"
+msgid "<i>The rival froze.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/8
+msgctxt "Hero-Hime"
+msgid "<i>You're the rival by the way sorry.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/16/b/1
+msgctxt "Hero-Hime"
+msgid "<i>He had never experienced a shot like this before.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/17/b/1
+msgctxt "Hero-Hime"
+msgid "<i>She had never experienced a shot like this before.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/18/b/1
+msgctxt "Hero-Hime"
+msgid "<i>They had never experienced a shot like this before.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/21
+msgctxt "Hero-Hime"
+msgid "<i>The ball arced perfectly towards the heavens, eclipsing the sun!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/29/b/1
+msgctxt "Hero-Hime"
+msgid "<i>Aren't we in an indoor court? He thought.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/30/b/1
+msgctxt "Hero-Hime"
+msgid "<i>Aren't we in an indoor court? She thought.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/31/b/1
+msgctxt "Hero-Hime"
+msgid "<i>Aren't we in an indoor court? They thought.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/34
+msgctxt "Hero-Hime"
+msgid "<i>And why is she narrating my thoughts?</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/42
+msgctxt "Hero-Hime"
+msgid "<i>None of that matters. What matters is how I follow up a slow moving, easy to hit falling target like this.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/50/s/0
+msgctxt "Choix"
+msgid "<i>Overhead Smash</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/51/s/0
+msgctxt "Choix"
+msgid "It's like a spike or dunk, you should blast that ball!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "<i>That's right! I should smash it back!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "<i>Bringing in other sports analogies... what an unexpected move!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "<i>But wait! Why is she at the net?</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "<i>Why is she trying something so risky?!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/16
+msgctxt "Hero-Hime"
+msgid "<i>Is this the semi-supernatural part of a sports anime?</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/24
+msgctxt "Hero-Hime"
+msgid "<i>The protagonist's not-so-unrealistic superpower to show that they're special?</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/32
+msgctxt "Hero-Hime"
+msgid "<i>Is all this too much expositional dialogue or does the player not watch enough anime?</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/40
+msgctxt "Hero-Hime"
+msgid "You should have kept me back at the baseline!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/48
+msgctxt "Hero-Hime"
+msgid "Because up at the net, my reactions are sick!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/56
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Reaction: Super Volley Counter Cannon!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/64
+msgctxt "Hero-Hime"
+msgid "<i>And just like that, the match is over. 60 points scored in a single counter-attack.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/72
+msgctxt "Hero-Hime"
+msgid "Woohoo! That was a great rally!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/80
+msgctxt "Hero-Hime"
+msgid "Let's call it for today."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/88
+msgctxt "Hero-Hime"
+msgid "Your footwork already improved so much during that match!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/107
+msgctxt "Hero-Hime"
+msgid "See? Even Nekoboru agrees!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/115
+msgctxt "Hero-Hime"
+msgid "How was it for you?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/123/s/0
+msgctxt "Choix"
+msgid "I'm exhausted."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/124/s/0
+msgctxt "Choix"
+msgid "My ribs! Again!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/125/s/0
+msgctxt "Choix"
+msgid "I feel great!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/c-2/7
+msgctxt "Hero-Hime"
+msgid "Aww... it'll get better the more you practice!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/c-3/11
+msgctxt "Hero-Hime"
+msgid "Breaking ribs is all part of the process."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-0/c-4/7
+msgctxt "Hero-Hime"
+msgid "Yayy!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "Let's close out with a light cooldown jog while we chat!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/8
+msgctxt "Hero-Hime"
+msgid "So... what kind of anime protagonists do you like following?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/16
+msgctxt "Hero-Hime"
+msgid "I'll take an underdog klutz over an overrated chosen one any day."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "I don't really like watching anime <i>that</i> much."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "The overpowered isekai hero with zero personality and a harem."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/26/s/0
+msgctxt "Choix"
+msgid "The ball of sunshine with big dreams!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "The delinquent punk with a heart of gold."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "The depressed person whose life keeps getting worse and I can't look away."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/29/s/0
+msgctxt "Choix"
+msgid "The protagonist that's actually an adult for once."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-5/7
+msgctxt "Hero-Hime"
+msgid "Well, I don't like tuning into your life that much either!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-6/7
+msgctxt "Hero-Hime"
+msgid "Oh, you're into those kinds of shows, huh?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-6/15
+msgctxt "Hero-Hime"
+msgid "Bet you got a lot of vinyl stickers on your car..."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-7/7
+msgctxt "Hero-Hime"
+msgid "Yes, my fave! Seeing them go for their dreams is so inspiring!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-7/15
+msgctxt "Hero-Hime"
+msgid "I can't help but apply their lessons to my life."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-8/7
+msgctxt "Hero-Hime"
+msgid "Yes! I love those big ol' secret softies!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-8/15
+msgctxt "Hero-Hime"
+msgid "It just makes their journey so much more endearing!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-9/7
+msgctxt "Hero-Hime"
+msgid "It's tough, but some stories are page-turners."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-9/15
+msgctxt "Hero-Hime"
+msgid "I just keep hoping their life will get better. But they usually don't."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-10/7
+msgctxt "Hero-Hime"
+msgid "Seriously! Why is it always about high schoolers?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-1/c-10/15
+msgctxt "Hero-Hime"
+msgid "Those shows are always such a breath of fresh air."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-2/0
+msgctxt "Hero-Hime"
+msgid "Well, I hope my journey still holds up to whatever new series you're into!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-2/8
+msgctxt "Hero-Hime"
+msgid "I can't see why not!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-2/19
+msgctxt "Hero-Hime"
+msgid "After all, I'm going to be the next Tennistar!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-2/27/s/0
+msgctxt "Choix"
+msgid "You know... in the last episode of your show..."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-2/28/s/0
+msgctxt "Choix"
+msgid "Are you sure?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-3/0
+msgctxt "Hero-Hime"
+msgid "Hm? Did you say something?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "Yes, I have a really bad feeling about this!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_1_Cont/0/g-3/c-14/7
+msgctxt "Hero-Hime"
+msgid "Ah that's nothing a protagonist can't handle!"
+msgstr ""
+
+#: hime_anime/yosh/0/0
+msgctxt "Hero-Hime"
+msgid "Yosh! I'm gonna head out then!"
+msgstr ""
+
+#: hime_anime/yosh/0/8
+msgctxt "Hero-Hime"
+msgid "Don't forget to get some good food and rest!"
+msgstr ""
+
+#: hime_anime/yosh/0/16
+msgctxt "Hero-Hime"
+msgid "Taking care of yourself is also part of tennis training!"
+msgstr ""
+
+#: hime_anime/yosh/0/24
+msgctxt "Hero-Hime"
+msgid "Sayonara!"
+msgstr ""
+
+#: hime_anime/yosh/0/46/s/0
+msgctxt "Choix"
+msgid "Am I remembering the series wrong?"
+msgstr ""
+
+#: hime_anime/yosh/0/47/s/0
+msgctxt "Choix"
+msgid "Something feels... off."
+msgstr ""
+
+#: hime_anime/Hero_3/0/6
+msgctxt "Hero-Hime"
+msgid "<i>... 997... 998... 999... 1000!</i>"
+msgstr ""
+
+#: hime_anime/Hero_3/0/14
+msgctxt "Hero-Hime"
+msgid "Phew!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/22/s/0
+msgctxt "Choix"
+msgid "Training again?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/23/s/0
+msgctxt "Choix"
+msgid "How do I know you didn't start at 990 when you heard me coming up to you?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "Yo!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/c-0/15
+msgctxt "Hero-Hime"
+msgid "You know it!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "Hahahah! Silly!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/c-1/15
+msgctxt "Hero-Hime"
+msgid "A Tennistar never cheats, even themselves!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "I'm rallying against this wall."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "The wall is every tennis player's invincible opponent."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "How so?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Seems easy to me."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "A wall will never drop its shot!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/8
+msgctxt "Hero-Hime"
+msgid "It's a battle of endurance against the never ending!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/16
+msgctxt "Hero-Hime"
+msgid "Anyway, my training partner is here so let's wrap it up, Wallace."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/27 hime_anime/Hero_3/0/g-1/68
+msgctxt "Wallace"
+msgid "WALL."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/38/b/1
+msgctxt "Wallace"
+msgid "An exhilarating show, Hero-Hime! Keep it up and one day you just might crack me!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/41
+msgctxt "Hero-Hime"
+msgid "Aww, thanks Wallace!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/52
+msgctxt "Hero-Hime"
+msgid "Say bye, Nekoboru!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/76/b/1
+msgctxt "Wallace"
+msgid "Nekoboru."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/79/s/0
+msgctxt "Choix"
+msgid "A conversation between those two would be legendary."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/80/s/0
+msgctxt "Choix"
+msgid "Human!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/81/s/0
+msgctxt "Choix"
+msgid "Wallace, you speak tennis-ball-cat?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/c-4/7
+msgctxt "Hero-Hime"
+msgid "Oh you couldn't IMAGINE the things those two get up to."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/c-5/7
+msgctxt "Hero-Hime"
+msgid "ANIME STAR!!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-1/c-6/7
+msgctxt "Wallace"
+msgid "Hmm, a smidge. I've picked it up from watching subs."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-2/7
+msgctxt "Hero-Hime"
+msgid "So for today's agenda, we're gonna train for something every tennis player needs to have."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-2/15/s/0
+msgctxt "Choix"
+msgid "What's that?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "Oh, uh, I was kind of hoping to just get to know you a bit better without all of the... you know... <i>tennis</i>."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-2/c-7/7
+msgctxt "Hero-Hime"
+msgid "A proper serve, of course!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-2/c-8/7
+msgctxt "Hero-Hime"
+msgid "Work first, fun later!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-2/c-8/15
+msgctxt "Hero-Hime"
+msgid "We've got to work on getting you a LETHAL serve."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/0/s/0
+msgctxt "Choix"
+msgid "What's wrong with tapping the ball in?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/1/s/0
+msgctxt "Choix"
+msgid "If we're playing for fun, why would I want to nuke my opponent first thing?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/c-9/7
+msgctxt "Hero-Hime"
+msgid "We're here to win!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/c-9/15
+msgctxt "Hero-Hime"
+msgid "Concentrating on the bare minimum would just be giving your opponent a huge advantage."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/c-9/23
+msgctxt "Hero-Hime"
+msgid "If you're playing against me, and <i>I</i> see a flimsy serve, that's the perfect set up for me to return however I want!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/c-9/31
+msgctxt "Hero-Hime"
+msgid "It means I'd have control of the court. See what I'm saying?!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/c-10/7
+msgctxt "Hero-Hime"
+msgid "Sure, as long as you make it in, you get to <i>play</i>."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/c-10/15
+msgctxt "Hero-Hime"
+msgid "But if you want to become a Tennistar, a true master of the sport, you've got to give it your all every time."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-3/c-10/23
+msgctxt "Hero-Hime"
+msgid "No one likes to be placated, even if it's just a silly <i>game</i>. WHICH IT ISN'T."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-4/0/s/0
+msgctxt "Choix"
+msgid "Dang. So... my serves are flimsy?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-4/1/s/0
+msgctxt "Choix"
+msgid "What if I go full power, but miss the service square?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-4/c-11/7
+msgctxt "Hero-Hime"
+msgid "Everyone's starts that way! Nothing to be ashamed of."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/0
+msgctxt "Hero-Hime"
+msgid "In tennis, we have a primary serve and a secondary serve."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/8
+msgctxt "Hero-Hime"
+msgid "Your usual puny, low-effort serve would work as a secondary - like a backup if you're not confident or just need to get the ball in."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/16
+msgctxt "Hero-Hime"
+msgid "However, you should go ALL OUT on the primary serve and set the tone of the match!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/24
+msgctxt "Hero-Hime"
+msgid "Whether it's a tricky spin or just raw power, you can throw off your opponent right away!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/32
+msgctxt "Hero-Hime"
+msgid "And once you get in their head, it's over!!!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/40
+msgctxt "Hero-Hime"
+msgid "Remember: tennis is - above all else - a <i>mental</i> game."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/48/s/0
+msgctxt "Choix"
+msgid "Am I really helping your journey?"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/49/s/0
+msgctxt "Choix"
+msgid "I don't think I'm good enough for this."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/50/s/0
+msgctxt "Choix"
+msgid "No problem. I'm ready!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/c-13/7
+msgctxt "Hero-Hime"
+msgid "Of course you are! You're the only one who can help me!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/c-14/7
+msgctxt "Hero-Hime"
+msgid "Just believe in the me that believes in you!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-5/c-15/7
+msgctxt "Hero-Hime"
+msgid "Yatta! That's the spirit!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-6/0
+msgctxt "Hero-Hime"
+msgid "Come on, let's practice your serves!"
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-6/8
+msgctxt "Hero-Hime"
+msgid "First, depending on if you're a righty or lefty, you want to stand parallel to the baseline at the center mark."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-6/16
+msgctxt "Hero-Hime"
+msgid "Then have your front foot pointing diagonally, towards the opposite service box."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-6/24
+msgctxt "Hero-Hime"
+msgid "Now have both your arms move simultaneously here."
+msgstr ""
+
+#: hime_anime/Hero_3/0/g-6/32
+msgctxt "Hero-Hime"
+msgid "One tossing the ball, the other winding the racket behind you."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/0
+msgctxt "Hero-Hime"
+msgid "Now, when do you think you should hit the ball?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/0
+msgctxt "Hero-Hime"
+msgid "Huhuhu!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/0/s/0
+msgctxt "Choix"
+msgid "<i>Right after I release.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/1/s/0
+msgctxt "Choix"
+msgid "<i>As the ball comes back down.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/2/s/0
+msgctxt "Choix"
+msgid "<i>Right at the apex.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/c-0/7
+msgctxt "Hero-Hime"
+msgid "And it hit the net."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/c-0/15
+msgctxt "Hero-Hime"
+msgid "Too soon! Try again!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/c-1/7
+msgctxt "Hero-Hime"
+msgid "Too slow!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/c-1/15
+msgctxt "Hero-Hime"
+msgid "Try a little faster!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/c-2/7
+msgctxt "Hero-Hime"
+msgid "Nice! That's a great start!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/c-2/15
+msgctxt "Hero-Hime"
+msgid "You. Me. Basket of balls. It's serving time."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/9/11/c-2/31
+msgctxt "Hero-Hime"
+msgid "Hmm... not enough spin on that one."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Why do you yell out names for your shots?"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "I love the way you do your special moves!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-0/c-3/7
+msgctxt "Hero-Hime"
+msgid "It helps to let out a guttural grunt while hitting the ball."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-0/c-3/15
+msgctxt "Hero-Hime"
+msgid "It's like releasing more excess energy into your shot."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-0/c-3/23
+msgctxt "Hero-Hime"
+msgid "But naming my moves... is just something I like to do, hehe."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "You should try one!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "<i>Galaxy Arts: Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "<i>Hyper Liger Driver!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "...I've got nothing."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-1/c-5/11
+msgctxt "Hero-Hime"
+msgid "Ah... while I'm flattered, you have to train more to use my techniques."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-1/c-6/11
+msgctxt "Hero-Hime"
+msgid "That could catch on!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-1/c-7/11
+msgctxt "Hero-Hime"
+msgid "Aw come on!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/0
+msgctxt "Hero-Hime"
+msgid "Let's try it again!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/8
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: Meteor Slice!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "<i>Galaxy Arts: Starlight Smush!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "<i>Hyper Liger Driver... Again!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "<i>Racket Racket no Pistol!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/19/s/0
+msgctxt "Choix"
+msgid "...I've still got nothing."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/c-8/7
+msgctxt "Hero-Hime"
+msgid "Smush? Yeah... I don't think you're ready for the big leagues."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/c-9/7
+msgctxt "Hero-Hime"
+msgid "Hahaha, love the Again part! Bet your opponents won't see that coming!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/c-10/7
+msgctxt "Hero-Hime"
+msgid "You brought a gun to a tennis battle? Rude!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/c-10/15
+msgctxt "Hero-Hime"
+msgid "It's a good thing we aren't playing on a seawater court, hehe."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-2/c-11/7
+msgctxt "Hero-Hime"
+msgid "At least grunt! It'll help you a lot!"
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-3/0
+msgctxt "Hero-Hime"
+msgid "Looks like we're out of balls."
+msgstr ""
+
+#: hime_anime/Hero_Tennis_2/0/g-3/8
+msgctxt "Hero-Hime"
+msgid "Grab a basket and let's pick 'em up!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/0/s/0
+msgctxt "Choix"
+msgid "Okie-dokie."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/1/s/0
+msgctxt "Choix"
+msgid "Whew!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "So how are you feeling about all this?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "Must be great being able to talk to your cool anime figurine, yeah?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "It rules!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "I'm a bit overwhelmed."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-0/c-2/7
+msgctxt "Hero-Hime"
+msgid "It rules talking to you, too! Tee hee!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-0/c-3/7
+msgctxt "Hero-Hime"
+msgid "Hehe, sorry that I can't control my shining aura!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "Bet your anime-loving pals would be jealous to know you're getting trained by a future Tennistar!!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "It's true! Sam - your original owner - really wanted to talk to you!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "I didn't even know what that was until I met you!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "I bet Sam - your original owner - would have wanted to talk to you!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-4/7 hime_anime/Hero_3_2/0/g-1/c-6/7
+msgctxt "Hero-Hime"
+msgid "Sam-kun? She was awesome!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-4/18 hime_anime/Hero_3_2/0/g-1/c-6/18
+msgctxt "Hero-Hime"
+msgid "I do miss her - maybe one day we'll meet again!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-4/26/0/s/0 hime_anime/Hero_3_2/0/g-1/c-6/26/0/s/0
+msgctxt "Choix"
+msgid "I'm sure you will."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-4/26/1/s/0 hime_anime/Hero_3_2/0/g-1/c-6/26/1/s/0
+msgctxt "Choix"
+msgid "No way - you're mine forever!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-4/26/c-0/7 hime_anime/Hero_3_2/0/g-1/c-6/26/c-0/7
+msgctxt "Hero-Hime"
+msgid "Aww you're so sweet!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-4/26/c-1/7 hime_anime/Hero_3_2/0/g-1/c-6/26/c-1/7
+msgctxt "Hero-Hime"
+msgid "Oh wow! A real Overhead Smash of a compliment!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-4/26/g-0/0 hime_anime/Hero_3_2/0/g-1/c-6/26/g-0/0
+msgctxt "Hero-Hime"
+msgid "So..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-5/7
+msgctxt "Hero-Hime"
+msgid "Oh."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "N-not that the show wasn't popular!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "Sorry! I didn't mean anything by it. It's just that, well, tennis <i>is</i> an acquired taste!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-5/23/c-0/15
+msgctxt "Hero-Hime"
+msgid "Well, obviously! I mean they DID make me into a figurine after all."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-5/23/c-1/15
+msgctxt "Hero-Hime"
+msgid "Y-yeah! And we're cookin' together!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-1/c-5/23/g-0/0
+msgctxt "Hero-Hime"
+msgid "Hey, um... I know you said maybe my show wasn't your all-time <i>favorite</i> anime or whatever, but..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/0
+msgctxt "Hero-Hime"
+msgid "...what do you like best about <i>me</i>?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "How you make me want to root for you."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Your voice!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "How well sculpted you are."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/11/s/0
+msgctxt "Choix"
+msgid "Oh, nothing really!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/c-7/7
+msgctxt "Hero-Hime"
+msgid "Aw! Well, I won't let you down!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/c-8/7
+msgctxt "Hero-Hime"
+msgid "Thank you! I'm happy I got a true legend to give me a voice!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/c-9/7
+msgctxt "Hero-Hime"
+msgid "It's not enough to have any ol' anime figure - it's gotta be a <i>well made</i> one..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-2/c-10/7
+msgctxt "Hero-Hime"
+msgid "Hmph! Can't blame a star for trying..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/0
+msgctxt "Hero-Hime"
+msgid "Alright! We got all the balls."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/8
+msgctxt "Hero-Hime"
+msgid "Let's get back to serving!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/16
+msgctxt "Hero-Hime"
+msgid "Soon, we'll be clashing with each other at equal strength."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/24
+msgctxt "Hero-Hime"
+msgid "We'll first compete for our positions on the team."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/32
+msgctxt "Hero-Hime"
+msgid "Since there's only two of us, it'll be for First and Second Singles."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/40
+msgctxt "Hero-Hime"
+msgid "Then you'll get drafted by Thorn Slice Institute, which will fuel our rivalry even more."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/48
+msgctxt "Hero-Hime"
+msgid "After months of training, we'll finally be able to duke it out at Nationals."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/56
+msgctxt "Hero-Hime"
+msgid "Then I'll become the Tennistar!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/67/s/0
+msgctxt "Choix"
+msgid "Sooooo, I just replaced the entire supporting cast?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/68/s/0
+msgctxt "Choix"
+msgid "I mean, sounds fun, but I have so many things to talk to..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/c-11/11
+msgctxt "Hero-Hime"
+msgid "You got a lot of tennis shoes to fill!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-3/c-12/7
+msgctxt "Hero-Hime"
+msgid "I'm a full time student and you lost your remote job. Deal with it."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-4/0
+msgctxt "Hero-Hime"
+msgid "Anyway, we'll also have to-"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-4/8
+msgctxt "Hero-Hime"
+msgid "Hey, wait a minute. Where is Nekoboru?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-4/16
+msgctxt "???"
+msgid "<i>(muffled cry)</i>"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-4/24
+msgctxt "Hero-Hime"
+msgid "Did you hear something?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-4/32/s/0
+msgctxt "Choix"
+msgid "I'M COMING TO SAVE YOU, NEKOBORU!!!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-4/33/s/0
+msgctxt "Choix"
+msgid "Uhhhh... nope!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/0
+msgctxt "Hero-Hime"
+msgid "I think that was him!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/8
+msgctxt "Hero-Hime"
+msgid "Nekoboru's cries are coming from—"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/16
+msgctxt "Hero-Hime"
+msgid "There! In the tennis ball basket!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/24/s/0
+msgctxt "Choix"
+msgid "<i>DUMP THE BASKET SO FAST</i>"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/25/s/0
+msgctxt "Choix"
+msgid "I mean, maybe it'd be more intimate if you and I had some time <i>without</i> Nekoboru..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/c-15/7
+msgctxt "Hero-Hime"
+msgid "Thank you thank you!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/c-16/7
+msgctxt "Hero-Hime"
+msgid "What?? How can you say that while Nekoboru is in peril!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-5/c-16/15
+msgctxt "Hero-Hime"
+msgid "Here... I'll get that basket."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/0
+msgctxt "Nekoboru"
+msgid "Neko... BORU!!!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/8
+msgctxt "Hero-Hime"
+msgid "Oh my gosh! Are you okay, Nekoboru??"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/16
+msgctxt "Nekoboru"
+msgid "Boru-boru."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/24
+msgctxt "Hero-Hime"
+msgid "We must have mistaken you for a regular tennis ball from our serving practice..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/32
+msgctxt "Hero-Hime"
+msgid "I'm so sorry."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/40
+msgctxt "Hero-Hime"
+msgid "Just rest, okay?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/48
+msgctxt "Hero-Hime"
+msgid "Hey, can you watch Nekoboru while I go fix the basket?"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/56/s/0
+msgctxt "Choix"
+msgid "Sure..."
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-6/57/s/0
+msgctxt "Choix"
+msgid "No!"
+msgstr ""
+
+#: hime_anime/Hero_3_2/0/g-7/0
+msgctxt "Hero-Hime"
+msgid "Thanks!!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/16
+msgctxt "Nekoboru"
+msgid "Neko..."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/24
+msgctxt "Nekoboru"
+msgid "Now that we are alone, I need you to listen to me."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/32/s/0
+msgctxt "Choix"
+msgid "YOU CAN TALK!?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/33/s/0
+msgctxt "Choix"
+msgid "HAH! I KNEW YOU WERE SOME KIND OF WEIRDO!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/c-1/7
+msgctxt "Nekoboru"
+msgid "Silence!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/c-1/15 hime_anime/Nekoboru_3/0/11
+msgctxt "Nekoboru"
+msgid "<w>NEKO DESTROYER PUNCH!</w>"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/c-1/29/0/s/0
+msgctxt "Choix"
+msgid "OW! MY RIB!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-0/0
+msgctxt "Nekoboru"
+msgid "Quickly, before Hero-hime returns. Listen carefully."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-0/8
+msgctxt "Nekoboru"
+msgid "I am not an average tennis ball cat."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-0/16 hime_anime/Nekoboru_1/0/g-0/c-3/7
+msgctxt "Nekoboru"
+msgid "I am the former Tennistar."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Holy plot twist..."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Say what now?!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-0/c-2/7
+msgctxt "Nekoboru"
+msgid "That indeed, my friend."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-1/0
+msgctxt "Nekoboru"
+msgid "And I am also the God of Tennis."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "I really need to re-watch the show."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "How have I never seen this show?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Oooohhhh yeah... I never really got that."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-1/c-4/7 hime_anime/Nekoboru_1/0/g-1/c-6/7
+msgctxt "Nekoboru"
+msgid "Most fans tend to forget this part."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-1/c-5/7
+msgctxt "Nekoboru"
+msgid "It is understandable - there is far too much content these days."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/0
+msgctxt "Nekoboru"
+msgid "At the height of my tennisdom, I became one with the ball and was unable to return to my previous form."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/8
+msgctxt "Nekoboru"
+msgid "That's when I noticed Hero-hime."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/16
+msgctxt "Nekoboru"
+msgid "Her potential on the court is limitless."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/24
+msgctxt "Nekoboru"
+msgid "She <i>will</i> become the next Tennistar."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/32
+msgctxt "Nekoboru"
+msgid "However... it is up to <i>you</i> to guide her."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/40/s/0
+msgctxt "Choix"
+msgid "Guide her? How?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/41/s/0
+msgctxt "Choix"
+msgid "I accept this quest, oh God of Tennis."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/c-7/7
+msgctxt "Nekoboru"
+msgid "Preferably, away from the path of darkness."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/c-8/7
+msgctxt "Nekoboru"
+msgid "I prefer Nekoboru."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-2/c-8/15
+msgctxt "Nekoboru"
+msgid "You must guide her away from the path of darkness."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-3/3
+msgctxt "Nekoboru"
+msgid "Do you recall the episode where Rival-san gave into the <i>Dread</i>?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-3/11/s/0
+msgctxt "Choix"
+msgid "Oh, that episode was super sad!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-3/12/s/0
+msgctxt "Choix"
+msgid "Man that art looks so cool..."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-3/13/s/0
+msgctxt "Choix"
+msgid "This is silly."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-3/c-10/7
+msgctxt "Nekoboru"
+msgid "I agree."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-3/c-11/7
+msgctxt "Nekoboru"
+msgid "Sounds like <i>Dread</i> to me."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-4/0
+msgctxt "Nekoboru"
+msgid "The Dread shattered her entire being and reconstituted her as a wicked player of malicious intent."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-4/8
+msgctxt "Nekoboru"
+msgid "While Hero-hime is a force of good in her heart, her latent Dread formed the second she picked up a racket."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-4/16
+msgctxt "Nekoboru"
+msgid "Anxiety, frustration, self-blame. All these are a part of tennis as well."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-4/24
+msgctxt "Nekoboru"
+msgid "That is what the Dread is."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-4/35
+msgctxt "Nekoboru"
+msgid "Heart Ace Academy will be reduced to ashes. Or in your case, your home."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-4/43/s/0
+msgctxt "Choix"
+msgid "What do I do?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-4/44/s/0
+msgctxt "Choix"
+msgid "I'm already trying my best!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-5/0
+msgctxt "Nekoboru"
+msgid "<i>Continue</i> to train with her. Aspire together. Be her friend."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-5/8
+msgctxt "Nekoboru"
+msgid "But when it comes to matches... do not win."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-5/16/s/0
+msgctxt "Choix"
+msgid "Okay... I think that makes sense."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-5/17/s/0
+msgctxt "Choix"
+msgid "Nani!?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-5/18/s/0
+msgctxt "Choix"
+msgid "You want me to... cheat?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-5/c-15/7 hime_anime/Nekoboru_1/0/g-5/c-16/7
+msgctxt "Nekoboru"
+msgid "Do you not understand your role here!?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-6/0/b/1
+msgctxt "Nekoboru"
+msgid "You said it yourself earlier."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-6/3
+msgctxt "Nekoboru"
+msgid "You <i>are</i> the rest of the cast. Meaning you hold the power of everyone else combined."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-6/11/s/0
+msgctxt "Choix"
+msgid "Oh snap."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-6/12/s/0
+msgctxt "Choix"
+msgid "You're part of the cast, too!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-6/13/s/0
+msgctxt "Choix"
+msgid "Damn it Nekoboru, don't you use my own words against me!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-6/c-18/7
+msgctxt "Nekoboru"
+msgid "But as far as she knows... I can only say..."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-6/c-19/7
+msgctxt "Nekoboru"
+msgid "Do you see now how vital you are?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-7/0
+msgctxt "Nekoboru"
+msgid "You have the power to grant Hero-hime's dreams."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-7/8
+msgctxt "Nekoboru"
+msgid "As well as destroy them."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-7/16
+msgctxt "Nekoboru"
+msgid "Think on this."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-7/24/s/0
+msgctxt "Choix"
+msgid "But what about the ending of the show?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-7/25/s/0
+msgctxt "Choix"
+msgid "I don't know much, but I do know that Hero-Hime wouldn't want to win like this."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/0
+msgctxt "Nekoboru"
+msgid "FORGET anything you know!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/8
+msgctxt "Nekoboru"
+msgid "Her coming here and meeting you never happened in the anime!!!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/16
+msgctxt "Nekoboru"
+msgid "Consider this a... a filler episode or an OVA added to the special edition Blu-Ray collection!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/24
+msgctxt "Nekoboru"
+msgid "Here she comes!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/32
+msgctxt "Nekoboru"
+msgid "Remember! Whatever you do, do not win."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/43
+msgctxt "Hero-Hime"
+msgid "I'm back! How's Nekoboru doing?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/59
+msgctxt "Hero-Hime"
+msgid "Thanks for taking care of him! It's getting late, so let's call it for today."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/67/s/0
+msgctxt "Choix"
+msgid "Sounds good!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-8/68/s/0
+msgctxt "Choix"
+msgid "Hey so... about Nekoboru..."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/0
+msgctxt "Hero-Hime"
+msgid "What's up?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/8
+msgctxt "Nekoboru"
+msgid "Nekoboorrruuuu...."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/0/s/0
+msgctxt "Choix"
+msgid "You know what. Never mind."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/1/s/0
+msgctxt "Choix"
+msgid "He's really cute."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/2/s/0
+msgctxt "Choix"
+msgid "He wanted me to let you know that I should fix the game and let you win!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-0/7
+msgctxt "Hero-Hime"
+msgid "Oh! Okay then!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-1/7
+msgctxt "Hero-Hime"
+msgid "Ahh he isss!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-2/7
+msgctxt "Hero-Hime"
+msgid "...what?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-2/15
+msgctxt "Nekoboru"
+msgid "NEKOBORU!"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-2/23
+msgctxt "Hero-Hime"
+msgid "Is... is that true? Nekoboru... were you trying all along to fix my story in place?? To interfere?"
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-2/31
+msgctxt "Nekoboru"
+msgid "WE ARE DONE HERE, HUMAN."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-2/39
+msgctxt "Nekoboru"
+msgid "I TRIED. BUT THIS KIND OF MEDDLING HAS RUINED THE LORE ONCE AND FOR ALL."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/13/c-2/47
+msgctxt "Nekoboru"
+msgid "We'll have to retcon this some other time... maybe even switch animation studios..."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/14/3
+msgctxt "Hero-Hime"
+msgid "Let me know when you want to get our next training session in."
+msgstr ""
+
+#: hime_anime/Nekoboru_1/0/g-9/14/11
+msgctxt "Hero-Hime"
+msgid "Until then, sayonara~!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/6
+msgctxt "Hero-Hime"
+msgid "Hey there! It's training time!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/14
+msgctxt "Hero-Hime"
+msgid "But for today..."
+msgstr ""
+
+#: hime_anime/Hero_4/0/22
+msgctxt "Hero-Hime"
+msgid "We're going to the beach!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/30/s/0
+msgctxt "Choix"
+msgid "Hell yeah! Beach episode!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/31/s/0
+msgctxt "Choix"
+msgid "Ugh, really? A beach episode?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "Kidding!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "We'll warm up with some mini-tennis!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "My beach episode..."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "What's mini-tennis?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-0/c-2/7
+msgctxt "Hero-Hime"
+msgid "Sorry, no fan-service today!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "Mini-tennis is where we start at the service line and play with half-swings!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/8
+msgctxt "Hero-Hime"
+msgid "It's all about learning control."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/16
+msgctxt "Hero-Hime"
+msgid "Ready?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/24
+msgctxt "Hero-Hime"
+msgid "Go!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "<i>Swing normally.</i>"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "<i>Swing hard.</i>"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/34/s/0
+msgctxt "Choix"
+msgid "<i>Swing-halfway.</i>"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/c-4/7
+msgctxt "Hero-Hime"
+msgid "Too far!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/c-4/15 hime_anime/Hero_4/0/g-1/c-5/15
+msgctxt "Hero-Hime"
+msgid "Do your follow-through, but start your swings from the side rather than behind."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/c-5/7
+msgctxt "Hero-Hime"
+msgid "You over-rotated!!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-1/c-6/7
+msgctxt "Hero-Hime"
+msgid "There ya go!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-2/0
+msgctxt "Hero-Hime"
+msgid "Okay... Nationals are coming up... and I'm a little worried I might overtrain."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-2/8
+msgctxt "Hero-Hime"
+msgid "I want to make sure I win against you!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "Wait... I'm your opponent?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "Bring it on!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-2/c-7/7
+msgctxt "Hero-Hime"
+msgid "Of course! Rival, best friend, even the spectator extras who don't have interesting features!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-2/c-8/7
+msgctxt "Hero-Hime"
+msgid "I'll do my best!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-3/3
+msgctxt "Hero-Hime"
+msgid "So let's call it for today!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-3/11/s/0
+msgctxt "Choix"
+msgid "Okay, see you next time Hero-Hime!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-3/12/s/0
+msgctxt "Choix"
+msgid "Before we go, mind if I ask you something?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-3/c-9/7
+msgctxt "Hero-Hime"
+msgid "See ya!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-3/c-10/7
+msgctxt "Hero-Hime"
+msgid "Sure!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-4/0/s/0
+msgctxt "Choix"
+msgid "Hero-hime, have you ever lost before?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-4/1/s/0
+msgctxt "Choix"
+msgid "Hero-hime, what's more important, raw talent or hard work?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-4/c-11/7
+msgctxt "Hero-Hime"
+msgid "Wow! Very direct question..."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-4/c-11/15
+msgctxt "Hero-Hime"
+msgid "I've lost several times actually!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-4/c-12/7
+msgctxt "Hero-Hime"
+msgid "Oh wow, what an interesting question!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-4/c-12/15
+msgctxt "Hero-Hime"
+msgid "You can find success with either, but I'd have to saaayyy..."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-4/c-12/23
+msgctxt "Hero-Hime"
+msgid "HARD WORK!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/0
+msgctxt "Hero-Hime"
+msgid "Back in high school, I joined the tennis team but didn't fit in very well."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/8
+msgctxt "Hero-Hime"
+msgid "I was so uncomfortable around my teammates that I played really badly."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/16
+msgctxt "Hero-Hime"
+msgid "We played each other for the main team spots. There were five spots to represent the team."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/24
+msgctxt "Hero-Hime"
+msgid "From lowest to highest skill rating, they were 2nd Doubles, 1st Doubles, 3rd Single, 2nd Single, and 1st Single."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/32
+msgctxt "Hero-Hime"
+msgid "I desperately wanted a Singles spot, but right at the most pivotal point... I lost."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/40
+msgctxt "Hero-Hime"
+msgid "The coach said I was still a decent enough player to be 1st Doubles, but my nerves kept acting up."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/48
+msgctxt "Hero-Hime"
+msgid "We ended up losing the most matches out of the whole team."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/56
+msgctxt "Hero-Hime"
+msgid "Everyone blamed my poor performance and they weren't wrong..."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/64
+msgctxt "Hero-Hime"
+msgid "That's why I decided to train hard and make sure none of my nerves ever got the best of me again."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/72/s/0
+msgctxt "Choix"
+msgid "It sounds like losing helped you grow."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-5/73/s/0
+msgctxt "Choix"
+msgid "It hurts to lose, huh?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/0
+msgctxt "Hero-Hime"
+msgid "Of course!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/8
+msgctxt "Hero-Hime"
+msgid "But I won't lose anymore. I'm gonna be the Tennistar, after all!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/16/s/0
+msgctxt "Choix"
+msgid "Would you still love tennis if <i>I</i> became the Tennistar?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/17/s/0
+msgctxt "Choix"
+msgid "I'm thinking of letting you win the match so you are sure to become Tennistar..."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-15/7
+msgctxt "Hero-Hime"
+msgid "Absolutely! If a hero reaches the top in the first cour, that means that the show has nowhere to go!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-15/15
+msgctxt "Hero-Hime"
+msgid "I want tons of seasons with lots to look forward to!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-15/23
+msgctxt "Hero-Hime"
+msgid "Okay... see you on the court... Rival-san!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/7
+msgctxt "Hero-Hime"
+msgid "What?!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/15
+msgctxt "Hero-Hime"
+msgid "No... I would never want to earn the title if the match was fixed."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/23
+msgctxt "Hero-Hime"
+msgid "Even if I might have feelings for you - it's more important that the player who gave it their all wins in the end."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/31
+msgctxt "Hero-Hime"
+msgid "...you're not really thinking of doing that... are you?"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/39/0/s/0
+msgctxt "Choix"
+msgid "I am, actually!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/39/1/s/0
+msgctxt "Choix"
+msgid "No, not at all!"
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/39/c-0/7
+msgctxt "Hero-Hime"
+msgid "Hmph."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/39/c-0/15
+msgctxt "Hero-Hime"
+msgid "I can't stop you. But it would be really bad of you to do that."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/39/c-0/23
+msgctxt "Hero-Hime"
+msgid "...I'll see you at Nationals, I guess."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/39/c-1/7
+msgctxt "Hero-Hime"
+msgid "Oh, phew! Had me scared for a second."
+msgstr ""
+
+#: hime_anime/Hero_4/0/g-6/c-16/39/c-1/15
+msgctxt "Hero-Hime"
+msgid "Our training isn't for nothing! I want our match to be spectacular!"
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/6 hime_anime/Nekoboru_3/0/3
+msgctxt "Nekoboru"
+msgid "Nekoboru!"
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/14
+msgctxt "Nekoboru"
+msgid "<i>NEKO DESTROYER PUNCH!</i>"
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/22
+msgctxt "Nekoboru"
+msgid "What the hell was that?"
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/30/s/0
+msgctxt "Choix"
+msgid "It just seems wrong to let her win when all she wants is to earn her title!"
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/c-0/7
+msgctxt "Nekoboru"
+msgid "Can't you tell? The dread tightens its grip on her soul."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/c-0/15 hime_anime/Nekoboru_3/0/g-0/16
+msgctxt "Nekoboru"
+msgid "Are you planning to doom us all?"
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "You're too protective of her, Nekoboru."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-0/1/s/0 hime_anime/Nekoboru_3/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "She has to overcome the dread, not run from it."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-1/0
+msgctxt "Nekoboru"
+msgid "It's... true."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-1/8
+msgctxt "Nekoboru"
+msgid "I... just... am so afraid of the same thing happening to her that did me! Do you blame me for caring too much?"
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "It's not about winning or losing once... it's about earning your title over the course of tons of episodes."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "I do blame you... but I care just as much as you do."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-2/0 hime_anime/Nekoboru_3/0/g-1/16
+msgctxt "Nekoboru"
+msgid "I suppose an otaku like yourself would want what's best for their waifu."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-2/8 hime_anime/Nekoboru_3/0/g-1/24
+msgctxt "Nekoboru"
+msgid "I'll leave it to you then."
+msgstr ""
+
+#: hime_anime/Nekoboru_2/0/g-2/16 hime_anime/Nekoboru_3/0/g-1/32
+msgctxt "Nekoboru"
+msgid "How Nationals goes will seal both your fates."
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/25
+msgctxt "Nekoboru"
+msgid "What about our plan?? You're supposed to throw the match!"
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/33/s/0
+msgctxt "Choix"
+msgid "Trust me, Nekoboru! This will be good for her."
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/34/s/0
+msgctxt "Choix"
+msgid "We've trained together! All her training will be for nothing if I just roll over and let her win!"
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/35/s/0
+msgctxt "Choix"
+msgid "Ah you're right... I got carried away."
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/c-2/7
+msgctxt "Nekoboru"
+msgid "Good. Don't forget it. Let her win!"
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/g-0/0
+msgctxt "Nekoboru"
+msgid "What good is her knowing that you're now a threat?"
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/g-0/8
+msgctxt "Nekoboru"
+msgid "Can't you tell? The dread tightens its grip on her soul!"
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Hmm... maybe you're right. I don't want that to happen to her."
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/g-0/c-4/7
+msgctxt "Nekoboru"
+msgid "Good. Good."
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/g-0/c-4/15
+msgctxt "Nekoboru"
+msgid "Don't you forget it."
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/g-1/0
+msgctxt "Nekoboru"
+msgid "Hmm... I see."
+msgstr ""
+
+#: hime_anime/Nekoboru_3/0/g-1/8
+msgctxt "Nekoboru"
+msgid "Knowing that you may be serious in coming for the Tennistar title may make her reinforce her own resolve."
+msgstr ""
+
+#: hime_anime/Hero_5/0/6
+msgctxt "Hero-Hime"
+msgid "Okay, Rival-san..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/14
+msgctxt "Hero-Hime"
+msgid "After all our blood, sweat, and tennis fuzz... we're finally here."
+msgstr ""
+
+#: hime_anime/Hero_5/0/22
+msgctxt "Hero-Hime"
+msgid "Nationals."
+msgstr ""
+
+#: hime_anime/Hero_5/0/30
+msgctxt "Hero-Hime"
+msgid "The spotlights... the cheering crowd..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/38
+msgctxt "Hero-Hime"
+msgid "It's so surreal..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/46
+msgctxt "Hero-Hime"
+msgid "So awesome..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/57
+msgctxt "Hero-Hime"
+msgid "Thanks for training with me."
+msgstr ""
+
+#: hime_anime/Hero_5/0/65/s/0
+msgctxt "Choix"
+msgid "You know it, Hero."
+msgstr ""
+
+#: hime_anime/Hero_5/0/66/s/0
+msgctxt "Choix"
+msgid "Eh, it was okay."
+msgstr ""
+
+#: hime_anime/Hero_5/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "Rude! You trying to throw me off my game?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "Alright, battle court activate!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-0/11
+msgctxt "Hero-Hime"
+msgid "My serve! <i>Galaxy Arts: 75% Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "<i>Forehand return.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "<i>Backhand return.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "So you can handle 75% now?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/8
+msgctxt "Hero-Hime"
+msgid "Try this on for size: Super Down-the-Line Beam!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "<i>Run, then backhand.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "<i>Run, then backhand slice.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-4/7
+msgctxt "Hero-Hime"
+msgid "Solid stance, but can you make it back in time?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-4/15
+msgctxt "Hero-Hime"
+msgid "Forehand Smash!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-4/23/0/s/0
+msgctxt "Choix"
+msgid "<i>Dash and swing as best you can.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-4/23/c-0/7
+msgctxt "Hero-Hime"
+msgid "Opposite End Volley!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-4/23/c-0/15
+msgctxt "Hero-Hime"
+msgid "Woohoo! That's my point!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-5/7
+msgctxt "Hero-Hime"
+msgid "Fancy! But..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-5/15
+msgctxt "Hero-Hime"
+msgid "<i>Max Topspin Output! Forehand Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-1/c-5/26
+msgctxt "Hero-Hime"
+msgid "Tricks won't get you far if you can't return to the center in time!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/0
+msgctxt "Hero-Hime"
+msgid "15-Love, me!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/8
+msgctxt "Hero-Hime"
+msgid "Your serve!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "Hyper Liger Driver!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "Blazing Blaster!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/18/s/0 hime_anime/Hero_5/0/g-6/26/s/0
+msgctxt "Choix"
+msgid "Regular Serve!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/c-6/7
+msgctxt "Hero-Hime"
+msgid "The Liger! It's so bright!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/c-7/7
+msgctxt "Hero-Hime"
+msgid "Wow... fiery!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-2/c-8/7
+msgctxt "Hero-Hime"
+msgid "Even your simple serve has improved this much... !"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-3/0
+msgctxt "Hero-Hime"
+msgid "It's fine. I can still return it!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "<i>Tricky Slice Shot (Name Pending)!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "<i>Floppy Sloppy Slappy Shotty!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-3/10/s/0
+msgctxt "Choix"
+msgid "Regular Return!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-3/c-9/15
+msgctxt "Hero-Hime"
+msgid "<i>It doesn't even have a name and it's so fast!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-3/c-10/15
+msgctxt "Hero-Hime"
+msgid "<i>With a name that long it takes more time to say it than swing it!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-3/c-11/15
+msgctxt "Hero-Hime"
+msgid "<i>So confident!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-4/0
+msgctxt "Hero-Hime"
+msgid "Just... gotta... touch it!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-4/8
+msgctxt "Hero-Hime"
+msgid "Tch. It hit the net."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-4/16
+msgctxt "Hero-Hime"
+msgid "15-All. My serve."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-4/24
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: 75% Starlight Slice!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-4/32/s/0
+msgctxt "Choix"
+msgid "<i>Approach carefully, but not too close, and swing</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-4/33/s/0
+msgctxt "Choix"
+msgid "<i>Rush the baseline</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-5/0
+msgctxt "Hero-Hime"
+msgid "How did you know?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-5/8
+msgctxt "Hero-Hime"
+msgid "Take this! <i>Forehand Down-the-Line Shot!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-5/16/s/0 hime_anime/Hero_Friendship/0/g-5/11/s/0
+msgctxt "Choix"
+msgid "<i>Forehand Volley.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-5/17/s/0 hime_anime/Hero_Friendship/0/g-5/12/s/0
+msgctxt "Choix"
+msgid "<i>Backhand Volley.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-5/18/s/0
+msgctxt "Choix"
+msgid "<i>Tap the ball over.</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/0
+msgctxt "Hero-Hime"
+msgid "Seriously?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/8
+msgctxt "Hero-Hime"
+msgid "15-30. You're... you're winning..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/16
+msgctxt "Hero-Hime"
+msgid "Your serve."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/24/s/0
+msgctxt "Choix"
+msgid "<i>Reliable Hyper Liger Driver!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/25/s/0
+msgctxt "Choix"
+msgid "<i>Storm Stinger!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/c-17/7
+msgctxt "Hero-Hime"
+msgid "Even though I know it's coming..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/c-18/7
+msgctxt "Hero-Hime"
+msgid "From that one story...! Bounty Light, I think it was called!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/c-18/18
+msgctxt "Hero-Hime"
+msgid "Available online - written by Jayperior! Only those with excellent taste have read it!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/c-19/7
+msgctxt "Hero-Hime"
+msgid "So powerful... without a special name!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-6/c-19/15
+msgctxt "Hero-Hime"
+msgid "<i>Have my named techniques been holding me back?</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-7/0
+msgctxt "Hero-Hime"
+msgid "No... I missed!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-7/8
+msgctxt "Hero-Hime"
+msgid "How did your serves get so good?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-7/16
+msgctxt "Hero-Hime"
+msgid "15-40. Match point."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-7/24
+msgctxt "Hero-Hime"
+msgid "Time for a comeback!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-7/32/s/0
+msgctxt "Choix"
+msgid "I have a bad feeling about this..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-7/33/s/0
+msgctxt "Choix"
+msgid "I'm ready!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-8/0
+msgctxt "Hero-Hime"
+msgid "There's no turning back!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-8/8
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: 100% Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-8/16
+msgctxt "Hero-Hime"
+msgid "It's looking good!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-8/24
+msgctxt "Hero-Hime"
+msgid "... but..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-8/32/s/0
+msgctxt "Choix"
+msgid "It hit the net..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-8/33/s/0
+msgctxt "Choix"
+msgid "Fault!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/0
+msgctxt "Hero-Hime"
+msgid "Argh! I can't believe I flubbed that one."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/8
+msgctxt "Hero-Hime"
+msgid "Okay, secondary serve..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/16
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: 50% Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/24/s/0
+msgctxt "Choix"
+msgid "Only 50%?! This is my win! I'll give it my all!"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/25/s/0
+msgctxt "Choix"
+msgid "<i> Her serve is weaker? This is my chance to let her win... </i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/11
+msgctxt "Hero-Hime"
+msgid "Oh no! I should have committed to a stronger serve..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/0/s/0
+msgctxt "Choix"
+msgid "<i>Hyper Liger Blaster!</i>"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/c-0/15
+msgctxt "Hero-Hime"
+msgid "You won..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/c-0/23
+msgctxt "Hero-Hime"
+msgid "Ah, nicely played."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Good game, Hero-hime."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/c-0/39/c-0/10
+msgctxt "Hero-Hime"
+msgid "... yeah."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/c-0/39/c-0/18
+msgctxt "Hero-Hime"
+msgid "See you later."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/c-0/39/c-0/34
+msgctxt "Nekoboru"
+msgid "Hm. Well played."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-24/19/c-0/39/c-0/42
+msgctxt "Nekoboru"
+msgid "But we shall see how this turns out."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/7
+msgctxt "Hero-Hime"
+msgid "... huh??"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/15
+msgctxt "Hero-Hime"
+msgid "Did you miss?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/0/s/0
+msgctxt "Choix"
+msgid "Uh, yeah! I totally whiffed my shot."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/14
+msgctxt "Hero-Hime"
+msgid "You were playing so well..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/22
+msgctxt "Hero-Hime"
+msgid "Were our practices not enough?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/30
+msgctxt "Hero-Hime"
+msgid "Did I... earn that point?"
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/38
+msgctxt "Hero-Hime"
+msgid "Sorry, but I have to go think about some things."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/46
+msgctxt "Hero-Hime"
+msgid "I know it's poor sportsmanship to leave in the middle of the championships, but..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/54
+msgctxt "Hero-Hime"
+msgid "I'm sorry."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/62 hime_anime/hime_realized/0/g-2/c-6/26/g-0/27/c-0/18
+msgctxt "Nekoboru"
+msgid "Nekoboru..."
+msgstr ""
+
+#: hime_anime/Hero_5/0/g-9/c-25/23/c-0/70
+msgctxt "Nekoboru"
+msgid "Perhaps... I steered you wrong."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/0
+msgctxt "Hero-Hime"
+msgid "You're back..."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/8
+msgctxt "Hero-Hime"
+msgid "Nekoboru told me your stupid plan."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/16
+msgctxt "Hero-Hime"
+msgid "You witness a Hero..."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/24
+msgctxt "Hero-Hime"
+msgid "... <i>tainted.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/32
+msgctxt "Hero-Hime"
+msgid "By <i>you</i>."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/40/s/0
+msgctxt "Choix"
+msgid "Hero-hime?"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/41/s/0
+msgctxt "Choix"
+msgid "What's the matter?"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "Don't play dumb."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "I can't believe I let you trick me."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "What are you talking about?"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "I would never trick you..."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "My heart is only filled with dread now."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-1/16
+msgctxt "Hero-Hime"
+msgid "Grit your teeth, because this is the match where I <i>DESTROY YOU!!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "This isn't what happens in the show!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "YIKES!!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-1/c-4/7
+msgctxt "Hero-Hime"
+msgid "That's because you're <i>anime only</i>!!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-1/c-4/15
+msgctxt "Hero-Hime"
+msgid "<i>You didn't even read the manga!!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-1/c-5/7
+msgctxt "Hero-Hime"
+msgid "Yikes is right you filthy casual!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-2/0
+msgctxt "Hero-Hime"
+msgid "My new serve is ready!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-2/8
+msgctxt "Hero-Hime"
+msgid "And this isn't even my final form!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-2/16
+msgctxt "Hero-Hime"
+msgid "<i>Dark Star Arts: 100% Cosmic Destroyer!!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "<i>Return the best you can.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "<i>Attempt a flop shot.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-3/0
+msgctxt "Hero-Hime"
+msgid "I won't let you take the net!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-3/8
+msgctxt "Hero-Hime"
+msgid "<i>Dread Rush!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-3/16
+msgctxt "Hero-Hime"
+msgid "Aaand... <i>Dark Star Reaction: Starkiller Volley!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-3/27/s/0
+msgctxt "Choix"
+msgid "<i>Return!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-3/28/s/0
+msgctxt "Choix"
+msgid "<i>Cower in terror.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-4/0
+msgctxt "Hero-Hime"
+msgid "Is that the best you've got!?"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-4/8
+msgctxt "Hero-Hime"
+msgid "That can't be right! There's no way someone I trained could be so spineless!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-4/16
+msgctxt "Hero-Hime"
+msgid "<i>Starkiller Volley!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-4/24/s/0
+msgctxt "Choix"
+msgid "Hero-hime, I'm sorry!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-4/25/s/0
+msgctxt "Choix"
+msgid "This was for your own good!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-4/c-10/7
+msgctxt "Hero-Hime"
+msgid "We're past that now!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-4/c-11/7
+msgctxt "Hero-Hime"
+msgid "You're not my COACH!!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-5/0/s/0
+msgctxt "Choix"
+msgid "I thought letting you beat me would help you become the Tennistar!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-5/1/s/0
+msgctxt "Choix"
+msgid "You've always been the Tennistar!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-6/0
+msgctxt "Hero-Hime"
+msgid "Oh, you fool. Being the Tennistar is a given!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-6/8
+msgctxt "Hero-Hime"
+msgid "You think just because you learned my story and collect some of my merch <i>you</i> get to decide how I win!?"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-6/16
+msgctxt "Hero-Hime"
+msgid "Did you forget? <i>I AM THE PROTAG!!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-6/27/s/0
+msgctxt "Choix"
+msgid "Everyone... lend me your strength."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-6/28/s/0
+msgctxt "Choix"
+msgid "Nekoboru... guide me."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-7/0
+msgctxt "Hero-Hime"
+msgid "<i>Dark Star Arts: 999% Quasar Destruction Ball!!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-7/11/s/0
+msgctxt "Choix"
+msgid "<i>Everyone's the Protagonist Grand Slam!!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-7/12/s/0
+msgctxt "Choix"
+msgid "<i>Natural Genius Overhead Hammer!!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-8/0
+msgctxt "Hero-Hime"
+msgid "HA! Not in this story, idiot!"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-8/8/s/0
+msgctxt "Choix"
+msgid "<i>Shield your remaining ribs.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-8/9/s/0
+msgctxt "Choix"
+msgid "<i>Succumb to the white flash of nothingness.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/0 hime_anime/Hero_Friendship/0/g-7/8
+msgctxt "Hero-Hime"
+msgid "<i>panting</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/8
+msgctxt "Hero-Hime"
+msgid "I did it. I really did it."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/19
+msgctxt "Hero-Hime"
+msgid "I'm finally the Tennistar."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/27
+msgctxt "Hero-Hime"
+msgid "It's finally over."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/35
+msgctxt "Hero-Hime"
+msgid "I should be happy."
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/43
+msgctxt "Hero-Hime"
+msgid "But why is my heart heavy?"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/51
+msgctxt "Hero-Hime"
+msgid "<i>Why does darkness still fill my soul?</i>"
+msgstr ""
+
+#: hime_anime/Hero_Hate/0/g-9/70
+msgctxt "Hero-Hime"
+msgid "Farewell, my rival."
+msgstr ""
+
+#: hime_anime/hero_hate_joiner/34
+msgctxt "Reggie"
+msgid "Game, set, match."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/0
+msgctxt "Hero-Hime"
+msgid "You came back!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/8
+msgctxt "Hero-Hime"
+msgid "Thought that by defeating me my heart would be heavy? That I would stop training?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/16
+msgctxt "Hero-Hime"
+msgid "That I wouldn't fall in <i>love</i> with you?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/27/s/0
+msgctxt "Choix"
+msgid "Maybe..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/28/s/0
+msgctxt "Choix"
+msgid "Actually I have no idea what I'm doing."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/29/s/0
+msgctxt "Choix"
+msgid "I like winning is all!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/c-0/7
+msgctxt "Hero-Hime"
+msgid "You couldn't be more..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/c-0/15
+msgctxt "Hero-Hime"
+msgid "... right."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "Seems like it!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/c-2/7
+msgctxt "Hero-Hime"
+msgid "Weeeeell, I couldn't be more fired up!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "You and me. Up against each other in the Grand National Finals Super Championship!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "I had a whole season to come back..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/16
+msgctxt "Hero-Hime"
+msgid "Nekoboru noticed my deepened resolve... and trained me even harder!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/24
+msgctxt "Hero-Hime"
+msgid "I went beyond, plus even a little ultra!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/43
+msgctxt "Hero-Hime"
+msgid "You said it, Nekoboru!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/54
+msgctxt "Hero-Hime"
+msgid "Now come on, let's begin."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/62/s/0
+msgctxt "Choix"
+msgid "Let's do this, Hero-hime."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/63/s/0
+msgctxt "Choix"
+msgid "Time for our final match!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-0/64/s/0
+msgctxt "Choix"
+msgid "Couldn't be more happy for you."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-1/0
+msgctxt "Hero-Hime"
+msgid "Haaaaaaa!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-1/19
+msgctxt "Hero-Hime"
+msgid "Love-All, my serve."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-1/27
+msgctxt "Hero-Hime"
+msgid "<i>deep breath</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-1/35
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: 100% Super Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-1/46/s/0
+msgctxt "Choix"
+msgid "<i>Forehand Return.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-1/47/s/0
+msgctxt "Choix"
+msgid "<i>Backhand Return.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/0
+msgctxt "Hero-Hime"
+msgid "I was hiding that one from you and you still get it?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/8
+msgctxt "Hero-Hime"
+msgid "You're amazing!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/16
+msgctxt "Hero-Hime"
+msgid "I gotta take the net advantage!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "<i>Forehand.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "<i>Backhand.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/c-8/7
+msgctxt "Hero-Hime"
+msgid "Dangit, why'd I hit that?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/c-8/15
+msgctxt "Hero-Hime"
+msgid "It was going out into the Double's Alley!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/c-9/7
+msgctxt "Hero-Hime"
+msgid "Woah! That was a close one!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-2/c-9/15
+msgctxt "Hero-Hime"
+msgid "Quick, back to the center!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-3/0
+msgctxt "Hero-Hime"
+msgid "Bring it!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "<i>Lob over Hero's head.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "<i>Smash it to the left corner line.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-4/0
+msgctxt "Hero-Hime"
+msgid "Shoot! It's just out of reach!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-4/8
+msgctxt "Hero-Hime"
+msgid "Gotta run back to the baseline!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "<i>Rush the net.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "<i>Defend the center.</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-4/c-12/7 hime_anime/Hero_Friendship/0/g-4/c-13/7
+msgctxt "Hero-Hime"
+msgid "Made it just in time for the ball!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-4/c-12/15
+msgctxt "Hero-Hime"
+msgid "At the net, huh?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-4/c-13/15
+msgctxt "Hero-Hime"
+msgid "Being in the center means you're weak to indirect shots!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-5/0
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: Nebula Swing!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-5/c-14/7
+msgctxt "Hero-Hime"
+msgid "Just enough for me to approach!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-5/c-14/15
+msgctxt "Hero-Hime"
+msgid "You better back up!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-5/c-15/7
+msgctxt "Hero-Hime"
+msgid "I can get this!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-5/c-15/15
+msgctxt "Hero-Hime"
+msgid "Ha!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/0
+msgctxt "Hero-Hime"
+msgid "Aaand... HA!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/8
+msgctxt "Hero-Hime"
+msgid "Yes!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/16
+msgctxt "Hero-Hime"
+msgid "The first point belongs to me."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/24
+msgctxt "Hero-Hime"
+msgid "How are ya feeling?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/32/s/0
+msgctxt "Choix"
+msgid "Like I'm just getting started."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/33/s/0
+msgctxt "Choix"
+msgid "Barely breaking a sweat!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/34/s/0
+msgctxt "Choix"
+msgid "Having the romance of my life!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/c-16/7 hime_anime/Hero_Friendship/0/g-6/c-17/7
+msgctxt "Hero-Hime"
+msgid "Ha! As if!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-6/c-18/7
+msgctxt "Hero-Hime"
+msgid "Hehe, perfect!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/0
+msgctxt "Narrator"
+msgid "Time seems to pass by in a blink as your match plays on."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/16
+msgctxt "Hero-Hime"
+msgid "How long have we been playing?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/24
+msgctxt "Hero-Hime"
+msgid "Ugh. Who cares?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/32
+msgctxt "Hero-Hime"
+msgid "The score is now..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/40
+msgctxt "Hero-Hime"
+msgid "Two sets. And the third set... in Deuce. Advantage. You."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/48
+msgctxt "Hero-Hime"
+msgid "Ha ha ha."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/56
+msgctxt "Hero-Hime"
+msgid "I won't stop moving. Even if it breaks my shins in half."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/64
+msgctxt "Hero-Hime"
+msgid "You ready?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/72/s/0
+msgctxt "Choix"
+msgid "Let's finish this!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/73/s/0
+msgctxt "Choix"
+msgid "Always, Hero."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/c-19/7
+msgctxt "Hero-Hime"
+msgid "Right!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-7/c-20/7
+msgctxt "Hero-Hime"
+msgid "Hmmm!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/0
+msgctxt "Hero-Hime"
+msgid "<i>Galaxy Arts: Ad Astra Starlight Smash!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/8
+msgctxt "Hero-Hime"
+msgid "Well? What's the technique name you settled on?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/16/s/0
+msgctxt "Choix"
+msgid "<i>Final Hyper Liger Driver!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/17/s/0
+msgctxt "Choix"
+msgid "<i>Blazer Blaster Maximum!</i>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/18/s/0
+msgctxt "Choix"
+msgid "Regular Un-named Technique Finisher Always!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/c-21/7
+msgctxt "Hero-Hime"
+msgid "What an incredible feline display!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/c-22/7
+msgctxt "Hero-Hime"
+msgid "It's... so... hot!!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-8/c-23/7
+msgctxt "Hero-Hime"
+msgid "Teehee. Nice."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-9/0
+msgctxt "Hero-Hime"
+msgid "But not enough!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-9/8
+msgctxt "Hero-Hime"
+msgid "Here comes my counter!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-9/16
+msgctxt "Hero-Hime"
+msgid "...advantage! Match point!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-9/24
+msgctxt "Hero-Hime"
+msgid "<w>Galaxy Arts: 150% Starlight Smash!</w>"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-9/32/s/0
+msgctxt "Choix"
+msgid "I can't reach it in time...!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-9/33/s/0
+msgctxt "Choix"
+msgid "You can't go over 100%!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-9/c-25/7
+msgctxt "Hero-Hime"
+msgid "Oh yes I can!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-10/8
+msgctxt "Hero-Hime"
+msgid "I... won?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-10/16
+msgctxt "Hero-Hime"
+msgid "I won!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-10/24
+msgctxt "Hero-Hime"
+msgid "Ha ha ha ha!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-10/35/s/0
+msgctxt "Choix"
+msgid "Congrats, Hero-hime."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-10/36/s/0
+msgctxt "Choix"
+msgid "I can't believe I lost..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/0
+msgctxt "Hero-Hime"
+msgid "I did it..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/11
+msgctxt "Hero-Hime"
+msgid "I'm the Tennistar!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/19
+msgctxt "Hero-Hime"
+msgid "Yeeeeaaahh!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/33
+msgctxt "Nekoboru"
+msgid "Nekoboru! Nekoboru!!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/41
+msgctxt "Hero-Hime"
+msgid "It's true... you brought me so far... and any feeling of Dread that I had..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/49
+msgctxt "Hero-Hime"
+msgid "Disappeared like so many tennis balls over the fence..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/57
+msgctxt "Hero-Hime"
+msgid "Thank you... Rival-san."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/65
+msgctxt "Hero-Hime"
+msgid "This wouldn't have been possible without you egging me on to be better."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/73/s/0
+msgctxt "Choix"
+msgid "I'll come after your title next year."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/74/s/0
+msgctxt "Choix"
+msgid "It was all you. Fair and square."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/c-28/7
+msgctxt "Hero-Hime"
+msgid "Heh. Bring it!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-11/c-29/7
+msgctxt "Hero-Hime"
+msgid "Thank you..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-12/0/s/0
+msgctxt "Choix"
+msgid "What about, you know... \"us\"?"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-12/c-30/7
+msgctxt "Hero-Hime"
+msgid "You'll always be my number one rival!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-12/c-30/15
+msgctxt "Hero-Hime"
+msgid "But... more than that..."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/0
+msgctxt "Hero-Hime"
+msgid "...I love you."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/8/s/0
+msgctxt "Choix"
+msgid "I love you too, Hero."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/9/s/0
+msgctxt "Choix"
+msgid "I enjoy being your best match, Hero."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-31/7
+msgctxt "Hero-Hime"
+msgid "Hehehe."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-31/15/0/s/0
+msgctxt "Choix"
+msgid "I hope you'll still play tennis with me sometime."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-31/15/c-0/7
+msgctxt "Hero-Hime"
+msgid "Of course, silly!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-31/15/c-0/15 hime_anime/Hero_Friendship/0/g-13/c-32/23/c-0/15
+msgctxt "Hero-Hime"
+msgid "Tennis wasn't just about being the best."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-31/15/c-0/23
+msgctxt "Hero-Hime"
+msgid "It was about the human I met... and loved along the way."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-32/7
+msgctxt "Hero-Hime"
+msgid "You were the best I ever had."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-32/15
+msgctxt "Hero-Hime"
+msgid "I hope you'll still play tennis with me sometime."
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-32/23/0/s/0
+msgctxt "Choix"
+msgid "Of course, silly!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-32/23/c-0/7
+msgctxt "Hero-Hime"
+msgid "And there are always more seasons, revivals, and OVAs for me to hold out hope that you'll be my one-and-only!"
+msgstr ""
+
+#: hime_anime/Hero_Friendship/0/g-13/c-32/23/c-0/23
+msgctxt "Hero-Hime"
+msgid "It was about the human I met... and befriended along the way."
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/0
+msgctxt "Hero-Hime"
+msgid "Hey! Let's jump right into a game!"
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/8
+msgctxt "Hero-Hime"
+msgid "My serve! Score: <i>Love-All.</i>"
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/19
+msgctxt "Hero-Hime"
+msgid "Get it? Hehehe~"
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/27/s/0
+msgctxt "Choix"
+msgid "Hehehe~"
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/28/s/0
+msgctxt "Choix"
+msgid "Hero, I'm ready to Realize you."
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/c-1/7
+msgctxt "Hero-Hime"
+msgid "Are you serious??"
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/c-1/15
+msgctxt "Hero-Hime"
+msgid "I'm going to be... alive?"
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Yes! Isn't that exciting!"
+msgstr ""
+
+#: hime_anime/hetor_love_return/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "Just like me!"
+msgstr ""
+
+#: hime_anime/hero_friend_return/0/8
+msgctxt "Hero-Hime"
+msgid "Yo! It's always nice to see you, friend!"
+msgstr ""
+
+#: hime_anime/hero_friend_return/0/16 hime_anime/hero_friend_return_bailout/0/8
+msgctxt "Hero-Hime"
+msgid "Let's try to reach a hundred hit rally today!"
+msgstr ""
+
+#: hime_anime/hero_friend_return/0/24/s/0 hime_anime/hero_friend_return_bailout/0/16/s/0
+msgctxt "Choix"
+msgid "Game on!"
+msgstr ""
+
+#: hime_anime/hero_friend_return/0/25/s/0 hime_anime/hero_friend_return_bailout/0/17/s/0
+msgctxt "Choix"
+msgid "Actually, I'm here to Realize you!"
+msgstr ""
+
+#: hime_anime/hero_friend_return_bailout/0/0
+msgctxt "Hero-Hime"
+msgid "Hello there, fellow Heart Ace Academy student!"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/0
+msgctxt "Hero-Hime"
+msgid "So much power..."
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/8
+msgctxt "Hero-Hime"
+msgid "This feels familiar..."
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/16/s/0
+msgctxt "Choix"
+msgid "Yikes..."
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/17/s/0
+msgctxt "Choix"
+msgid "Hero... listen to me. (USE POISE CANDY)"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-0/10
+msgctxt "Hero-Hime"
+msgid "<i>Neko... neko... </i>"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-0/21
+msgctxt "Hero-Hime"
+msgid "<i>Nekoboru... </i>"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/0/s/0
+msgctxt "Choix"
+msgid "I made a mistake. I thought that by letting you win it would prevent this from happening."
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I was wrong. But so is the dread."
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Dread! Stay away from this pure Tennistar!"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "With the power of squad and anime on my side - you are banished!"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/c-0/15/c-0/15/c-0/15/c-0/18
+msgctxt "Hero-Hime"
+msgid "You did it!"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/c-0/15/c-0/15/c-0/15/c-0/29
+msgctxt "Hero-Hime"
+msgid "Thank you for being the act four twist ending for me!"
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/c-0/15/c-0/15/c-0/15/c-0/37
+msgctxt "Hero-Hime"
+msgid "It got me an extra episode and everything."
+msgstr ""
+
+#: hime_anime/hero_hate_return/0/c-1/24/c-0/15/c-0/15/c-0/15/c-0/45
+msgctxt "Hero-Hime"
+msgid "You're the best!"
+msgstr ""
+
+#: hime_anime/hero_hate_return_bailout/0/0
+msgctxt "Hero-Hime"
+msgid "Go away! You messed with my plot for the last time!"
+msgstr ""
+
+#: hime_anime/hero_hate_return_bailout/0/8/s/0
+msgctxt "Choix"
+msgid "Fine."
+msgstr ""
+
+#: hime_anime/hero_hate_return_bailout/0/9/s/0
+msgctxt "Choix"
+msgid "<i>Show Hero some fancy footwork.</i> (USE POISE CANDY)"
+msgstr ""
+
+#: hime_anime/hero_hate_return_bailout/0/c-1/21
+msgctxt "Hero-Hime"
+msgid "Well... at least you learned something."
+msgstr ""
+
+#: hime_anime/hero_hate_return_bailout/0/c-1/29
+msgctxt "Hero-Hime"
+msgid "Maybe instead of my rival, you were always supposed to just be my kouhai."
+msgstr ""
+
+#: hime_anime/hero_hate_return_bailout/0/c-1/37
+msgctxt "Hero-Hime"
+msgid "We can be friends, then."
+msgstr ""
+
+#: hime_anime/hime_realize_join/0/0
+msgctxt "Hero-Hime"
+msgid "I'm excited!"
+msgstr ""
+
+#: hime_anime/hime_realize_join/0/8
+msgctxt "Hero-Hime"
+msgid "But... do you have what we need to turn me from 1/8ths scale all the way to 1!?"
+msgstr ""
+
+#: hime_anime/hime_realize_join/0/25/s/0
+msgctxt "Choix"
+msgid "I do."
+msgstr ""
+
+#: hime_anime/hime_realize_join/0/26/s/0
+msgctxt "Choix"
+msgid "I do not."
+msgstr ""
+
+#: hime_anime/hime_realize_join/0/c-1/10 hime_anime/hime_realize_return/0/c-1/10
+msgctxt "Hero-Hime"
+msgid "Don't worry. I'll practice my serves until you're back."
+msgstr ""
+
+#: hime_anime/hime_realize_return/0/0
+msgctxt "Hero-Hime"
+msgid "You're back!"
+msgstr ""
+
+#: hime_anime/hime_realize_return/0/8
+msgctxt "Hero-Hime"
+msgid "I'm warmed up and ready if you are!"
+msgstr ""
+
+#: hime_anime/hime_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "I am!"
+msgstr ""
+
+#: hime_anime/hime_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "I am not."
+msgstr ""
+
+#: hime_anime/hime_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "I'm so excited! The Hero Hime, made real? Hopefully, realization can work!"
+msgstr ""
+
+#: hime_anime/hime_realize_begin/9
+msgctxt "Skylar"
+msgid "Ganbatte!"
+msgstr ""
+
+#: hime_anime/hime_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a statue of an anime waifu, becomes...."
+msgstr ""
+
+#: hime_anime/hime_realized/0/0
+msgctxt "Narrator"
+msgid "Before you stands Human Hime, the dreams of a manga-ka made real."
+msgstr ""
+
+#: hime_anime/hime_realized/0/8
+msgctxt "Hero-Hime"
+msgid "Woah! So this is what being alive feels like!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/16
+msgctxt "Hero-Hime"
+msgid "Lemme test out these limbs!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/24
+msgctxt "Narrator"
+msgid "Hero Hime gingerly at first tests out her new arms and legs. Assessing the limits of her reach."
+msgstr ""
+
+#: hime_anime/hime_realized/0/32
+msgctxt "Hero-Hime"
+msgid "Well, everything checks out. I'm ready to hit the courts!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/40/s/0
+msgctxt "Choix"
+msgid "Wait, what about us?"
+msgstr ""
+
+#: hime_anime/hime_realized/0/41/s/0
+msgctxt "Choix"
+msgid "Okay, have fun!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-0/0
+msgctxt "Hero-Hime"
+msgid "Well, you're coming with me silly!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-0/8
+msgctxt "Hero-Hime"
+msgid "Hold on, what happened to Nekoboru?"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-0/27
+msgctxt "Narrator"
+msgid "A once omnipotent god in the form of a cat-shaped tennis ball was caught in the rays of the dateviators."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-0/35
+msgctxt "Narrator"
+msgid "He is now a physical specimen befitting a deity of his status."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-0/43
+msgctxt "Hero-Hime"
+msgid "What???"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-0/51/s/0
+msgctxt "Choix"
+msgid "Dude, you're hot!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-0/52/s/0
+msgctxt "Choix"
+msgid "Umm... this is making me uncomfortable."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/8
+msgctxt "Hero-Hime"
+msgid "Wait. You still only say Nekoboru?"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/16
+msgctxt "Nekoboru"
+msgid "Sorry, force of habit."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/24
+msgctxt "Nekoboru"
+msgid "Hero-Hime, real tennis doesn't involve Starlight Smashes. You're going to need a coach who can help you navigate the grim realities of the real world."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/32
+msgctxt "Hero-Hime"
+msgid "Hm."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/40
+msgctxt "Hero-Hime"
+msgid "Do I still get to run around on a court and swing a racket?"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/48
+msgctxt "Nekoboru"
+msgid "Yes, of course."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/56
+msgctxt "Hero-Hime"
+msgid "Then I don't need Starlight Smash! Let's go!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/64/s/0
+msgctxt "Choix"
+msgid "That's the spirit!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-1/65/s/0
+msgctxt "Choix"
+msgid "I can tell Season Three is going to be really good."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/0
+msgctxt "Narrator"
+msgid "In a flash, Hime is by the door ready to depart."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Here's a little something for good luck."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Have fun Hime - I can't wait to see all your matches!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/10
+msgctxt "Narrator"
+msgid "Her neatly tied hair swings slightly as she turns your way."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/18
+msgctxt "Hero-Hime"
+msgid "What's that?"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/0/s/0
+msgctxt "Choix"
+msgid "<i>Kiss her on the lips.</i>"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/1/s/0
+msgctxt "Choix"
+msgid "<i>Kiss her on the cheek.</i>"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/g-0/0
+msgctxt "Hero-Hime"
+msgid "Oh my!!"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/g-0/11
+msgctxt "Narrator"
+msgid "Even though she is no longer in an anime, you swear you can see effervescent cherry blossoms swirling around her in the air."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/g-0/19
+msgctxt "Nekoboru"
+msgid "The power of the Starlight Smash lives inside you after all...."
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/g-0/27/0/s/0
+msgctxt "Choix"
+msgid "<i>Kiss him on the lips.</i>"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/g-0/27/1/s/0
+msgctxt "Choix"
+msgid "<i>Wave goodbye.</i>"
+msgstr ""
+
+#: hime_anime/hime_realized/0/g-2/c-6/26/g-0/27/c-1/7 hime_anime/hime_realized/0/g-2/c-7/7
+msgctxt "Hero-Hime"
+msgid "I'll reserve you a seat in the front row!"
+msgstr ""
+
+#: hime_anime/hime_postrealize_join/0/0
+msgctxt "Narrator"
+msgid "It won't be long until you receive a grand invitation to Thimbledon, the most important tournament in the world."
+msgstr ""
+
+#: hime_anime/hime_postrealize_join/0/11
+msgctxt "Narrator"
+msgid "Hime was a natural at translating her abilities to the real world, including her uncanny knack for finding the best brand deals."
+msgstr ""
+
+#: hime_anime/hime_postrealize_join/0/22
+msgctxt "Narrator"
+msgid "Along with the usual assortment of energy drinks and fancy watches, she found herself successfully landing an anime adaptation of her real world prowess."
+msgstr ""
+
+#: hime_anime/hime_postrealize_join/0/30
+msgctxt "Narrator"
+msgid "Starring herself, of course."
+msgstr ""
+
+#: hime_anime/hime_postrealize_join/0/38
+msgctxt "Narrator"
+msgid "Also Nekoboru became a best-seller with his book \"I Was God, Then a Ball, Then a Dude with Balls.\""
+msgstr ""

@@ -1,0 +1,5139 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: miranda_toaster/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "TOASTER"
+msgstr ""
+
+#: miranda_toaster/introduction/0/0
+msgctxt "Narrator"
+msgid "You hear her before you see her, a charming musician with literal coils of curly hair that swing cutely as she paces back and forth in your kitchen."
+msgstr ""
+
+#: miranda_toaster/introduction/0/5
+msgctxt "Narrator"
+msgid "She's clearly absorbed in something—she appears to be talking to herself."
+msgstr ""
+
+#: miranda_toaster/introduction/0/13
+msgctxt "Miranda"
+msgid "Ay mira, look at all these crumbs! I'm gonna be writing some great music soon, I can tell."
+msgstr ""
+
+#: miranda_toaster/introduction/0/21
+msgctxt "Miranda"
+msgid "I'm at my most creative when I'm a lil' messy!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/29/s/0
+msgctxt "Choix"
+msgid "You need a writing partner?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/30/s/0
+msgctxt "Choix"
+msgid "I can help you shake out those crumbs!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-0/7
+msgctxt "Narrator"
+msgid "The musician starts with a cute little yelp, placing a hand on her chest."
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-0/15
+msgctxt "Miranda"
+msgid "Ay! You can't sneak up on me like that! You never know what's gonna pop out of these slots, you gotta be careful."
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-0/23
+msgctxt "Miranda"
+msgid "I'm not even gonna get started on you as a writing partner. I know that, like, I don't know you, at all, or anything?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-0/31
+msgctxt "Miranda"
+msgid "But I am pretty sure you're not up to the challenge of writing with me. I have, like, really high standards."
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-1/7
+msgctxt "Miranda"
+msgid "Shake them out? Shake them out?! Just you try to take my Migas from me, watch what happens."
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-1/15
+msgctxt "Miranda"
+msgid "Oh wait, ay, I'm so sorry, that was you trying to flirt with me."
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-1/23
+msgctxt "Miranda"
+msgid "Si si, I see it now. Aw. That was really... it was creative."
+msgstr ""
+
+#: miranda_toaster/introduction/0/c-1/34
+msgctxt "Miranda"
+msgid "Not like effective, but still cute."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/0
+msgctxt "Narrator"
+msgid "She picks up her guitar, striking a glamorous pose."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/8
+msgctxt "Miranda"
+msgid "I'm Miranda Dulce Tostadora, lead singer and guitarist of Miranda y las Migas!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/26
+msgctxt "Miranda"
+msgid "We're the best musical group around here by a lot!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/34/s/0
+msgctxt "Choix"
+msgid "Is there much competition for best musical group in the house?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/35/s/0
+msgctxt "Choix"
+msgid "What kind of music do you play?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/7
+msgctxt "Miranda"
+msgid "I mean not really? The only real competition for me is me. I'm pretty great."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "That's pretty confident of you."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/7
+msgctxt "Miranda"
+msgid "Well, sure. I have to be confident to survive in this field."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/15
+msgctxt "Miranda"
+msgid "You think it's easy being in the limelight?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/23
+msgctxt "Miranda"
+msgid "It's a hell of a lot harder than being in the lemonlight, believe you me!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Oh come on, it can't be that hard."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Not my scene. I'll bet it's tough!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-0/7
+msgctxt "Miranda"
+msgid "Oh no? Ok. Gonna have to show you, huh? If you think it's so easy, why don't you sing for me?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-0/15
+msgctxt "Miranda"
+msgid "Go ahead, sing for me, right here, right now, since you're not afraid of a lil' lime juice!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "<i>Close your eyes.</i> You are... my fire..."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "It's not happening. Nope."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-0/23/c-0/7
+msgctxt "Miranda"
+msgid "Whoa! Si si si, aaaand I'm gonna stop you riiiight there..."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-0/23/c-0/24
+msgctxt "Miranda"
+msgid "If for no other reason, you get points for being a good sport."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-0/23/c-1/13
+msgctxt "Miranda"
+msgid "Hm. Good to know. I'll have to decide later if it's cute that you're nervous or if you're just not playful. At all."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/7
+msgctxt "Miranda"
+msgid "Tough like one of those dried out snake skins you see in the desert sometimes. Oof."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/15
+msgctxt "Miranda"
+msgid "But, I have so many fans that adore me and adore the band..."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/23
+msgctxt "Miranda"
+msgid "... I'd do anything not to let them down."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Well, you haven't let me down yet, that's for sure."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Better not."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/2/s/0
+msgctxt "Choix"
+msgid "I think we got off on the wrong foot here..."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-0/7
+msgctxt "Miranda"
+msgid "Ahh ha, you're really laying on that charm, aren't you? You know you don't know me, right?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-0/15
+msgctxt "Miranda"
+msgid "Not that being flattered is bad. Like any other toaster, I love some good simple sugar."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-0/23
+msgctxt "Miranda"
+msgid "But don't turn the heat up too high. I can see right through a player and I am most definitely not the appliance you wanna burn."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-0/31
+msgctxt "Miranda"
+msgid "I've been known to burn back."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-1/7
+msgctxt "Miranda"
+msgid "Better not what? Let my fans down?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-1/18
+msgctxt "Miranda"
+msgid "I just said I wouldn't. Ever."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-1/26
+msgctxt "Miranda"
+msgid "If that was you trying to be threatening, I think I might just laugh really loudly."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-2/7
+msgctxt "Miranda"
+msgid "Ay, relax! I mean you should definitely be a little scared of me because I'm like super pretty and successful and intimidating, but mostly..."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-2/15/c-0/31/c-1/31/c-2/15
+msgctxt "Miranda"
+msgid "...Calmate. No need to get worked up. I'm just having some fun!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/7
+msgctxt "Miranda"
+msgid "All kinds! Pop, Gregorian chanting, barbershop... Whatever we feel like! If that dial is on seven, then to siete we go!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Barbershop?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "Gregorian chanting?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/2/s/0
+msgctxt "Choix"
+msgid "Pop??"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-0/7
+msgctxt "Miranda"
+msgid "I know! It totally surprised me, too. That dumb little rotating pole... but for real, you'd be surprised. The harmonies are so great."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-0/15
+msgctxt "Miranda"
+msgid "Hey. Maybe I'll sing something for you sometime."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-1/7
+msgctxt "Miranda"
+msgid "Ok. I took a lot of heat from the Migas, too, when I suggested this... but that shizz is so relaxing."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-1/15
+msgctxt "Miranda"
+msgid "For real. If I can't sleep, too hot and bothered, put on a little chanting, let my eyes just drift around the paint on the ceiling and vamos."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-1/23
+msgctxt "Miranda"
+msgid "I'm unconscious in like two minutes."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-1/31
+msgctxt "Miranda"
+msgid "Just had a thought... maybe I'll sing for you sometime."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-2/18
+msgctxt "Miranda"
+msgid "...this is really not the thing I said that I thought you'd have questions about."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-2/26
+msgctxt "Miranda"
+msgid "I thought maybe I would sing for you sometime... but maybe you're not ready for that."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-2/34/0/s/0
+msgctxt "Choix"
+msgid "I am, I promise!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-2/34/1/s/0
+msgctxt "Choix"
+msgid "I'm just kidding. I'm having fun now, too, see?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-0/c-3/15/c-2/34/g-0/0
+msgctxt "Miranda"
+msgid "Ha! Wow... ok, nicely done! Ok ok, maybe I'll sing."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "If I'm lucky."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "I'm not into singers."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/c-4/13
+msgctxt "Miranda"
+msgid "And you would be lucky, too. I'm really good. Just stay on my good side. ¿Me entiendes?"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/c-4/21
+msgctxt "Miranda"
+msgid "Oh, and obviously, if you like, need toast, I'm here."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/c-5/7
+msgctxt "Miranda"
+msgid "Ok. That felt unnecessary."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/c-5/15
+msgctxt "Miranda"
+msgid "Also, I don't think I ever said I was into you. So I guess you are kinda into me if you had to tell me that you're not."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/c-5/23
+msgctxt "Miranda"
+msgid "Reverse flirting. Not my favorite."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-1/c-5/31
+msgctxt "Miranda"
+msgid "Don't get cocky."
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-2/0
+msgctxt "Miranda"
+msgid "Ok! Busy, sexy little tostadora with a gig coming up... time to make the toast!"
+msgstr ""
+
+#: miranda_toaster/introduction/0/g-2/8 miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-0/45
+msgctxt "Miranda"
+msgid "Hasta luego!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/6
+msgctxt "Miranda"
+msgid "Hey! Back to hear me sing, huh?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/14
+msgctxt "Miranda"
+msgid "I understand. I sing all the time, even when I'm alone because damn, I am just so fun to listen to, so I sing to myself? I love it."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/22
+msgctxt "Miranda"
+msgid "...or, is that why you're here? Maybe not. I could ask, I guess. Sometimes I forget that part."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/30
+msgctxt "Miranda"
+msgid "So. Qué paso?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/38/s/0
+msgctxt "Choix"
+msgid "Wanted to ask you more about your music!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/39/s/0
+msgctxt "Choix"
+msgid "I actually just wanted to toast something."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/40/s/0
+msgctxt "Choix"
+msgid "Oh, um... just like talking to you..."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/7
+msgctxt "Miranda"
+msgid "Ay, really?! Por supuesto, what do you wanna know? I'm an open toaster on this stuff. I could talk about it forever..."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/21
+msgctxt "Stefan"
+msgid "Noooo, no, no, no, NO, no, no!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/35
+msgctxt "Stefan"
+msgid "For the love of all things braised, STOP THIS NONSENSE!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/46/0/s/0
+msgctxt "Choix"
+msgid "Oh my god why the yelling."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/46/1/s/0
+msgctxt "Choix"
+msgid "Oh, hey Stefan!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/46/2/s/0
+msgctxt "Choix"
+msgid "Who the hell is this??"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/46/c-0/7
+msgctxt "Stefan"
+msgid "I yell because I CARE!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/46/c-1/7
+msgctxt "Stefan"
+msgid "Hey? HEY? The sauce bubble that has called me from my ruminations deserves more sobriety and sincerity than HEY!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-0/46/c-2/7
+msgctxt "Stefan"
+msgid "Hell indeed. I am the dark avenging angel of the kitchen, come to right a grievous wrong!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-1/7
+msgctxt "Miranda"
+msgid "Oh! Yeah."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-1/15
+msgctxt "Miranda"
+msgid "I guess that's, like, a totally fine reason for you to come see me."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-1/26
+msgctxt "Miranda"
+msgid "Are you sure there isn't anything else you want to talk about? Like music, or like punk fashion trends, nothing like that?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-1/40
+msgctxt "Stefan"
+msgid "My daughter."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-1/54
+msgctxt "Stefan"
+msgid "And yes before you say it of course I know that you are not my daughter."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-1/62
+msgctxt "Stefan"
+msgid "But you must understand that I think of you in this way! So fondly. With such love."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-1/70
+msgctxt "Stefan"
+msgid "From that place... just make the damned toast, and do it with pride!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-2/7
+msgctxt "Miranda"
+msgid "Mmmhhmmm, I'll bet you do! I'm so much fun, how could you not like talking to me."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-2/15
+msgctxt "Miranda"
+msgid "What do you wanna talk about? My first instinct is music, always, but for you, I don't know, I might be willing to get a little more creative..."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-2/23
+msgctxt "Miranda"
+msgid "Ooh! I know. What was your favorite concert you've ever been to??"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/c-2/37
+msgctxt "Stefan"
+msgid "That... is about MUSIC!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-0/0
+msgctxt "Miranda"
+msgid "Ay, no, why??? Why do you keep doing this??"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-0/8
+msgctxt "Miranda"
+msgid "I don't know how many times I'm gonna have to tell you to leave me alone before you get the picture!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Sorry... what's happening?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Damn, I wish I had some popcorn right now."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-0/c-4/7
+msgctxt "Stefan"
+msgid "Oh, it just so happens, friend, I have with me popcorn that will weaken every joint in your body."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-0/c-4/18
+msgctxt "Stefan"
+msgid "I use saffron."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-0/c-4/26
+msgctxt "Stefan"
+msgid "But there are more pressing matters now!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/0
+msgctxt "Stefan"
+msgid "...you continue to break my heart. You, my darling, are a toaster. You are a fine appliance with a long and prestigious history."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/8
+msgctxt "Stefan"
+msgid "Why do you insist on denigrating your lineage, sullying your ancestral heating elements with this..."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/16
+msgctxt "Stefan"
+msgid "...string-strumming?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/24
+msgctxt "Stefan"
+msgid "Tell me, what must I do to bring you back to your true self??"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/32
+msgctxt "Miranda"
+msgid "Ay. I swear. If I wanted to live in a telenovela, I'd move in to the living room with Telly."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/40/b/4
+msgctxt "Telly"
+msgid "Somebody gimme a call? I'm just down the hall!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/40/b/18
+msgctxt "Stefan"
+msgid "No."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/40/b/26
+msgctxt "Miranda"
+msgid "No."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/40/b/34
+msgctxt "Telly"
+msgid "Aight!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/43
+msgctxt "Miranda"
+msgid "Stefan, don't get me wrong. I'm really grateful for how much you seem to care about me."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/51
+msgctxt "Miranda"
+msgid "Also, please notice the generosity of spirit I'm displaying?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/59
+msgctxt "Miranda"
+msgid "That I'm assuming you care about me and not that you're just a great big nosy buttinski who can't keep his burners off of other folks' cords."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/67
+msgctxt "Stefan"
+msgid "I do care about you! More than anything!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/75
+msgctxt "Stefan"
+msgid "Well, not more than bechamel, but you and bechamel are running a very close race!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/83
+msgctxt "Miranda"
+msgid "But lay off! I am completely capable of deciding what I want to do with my time and my talents and I'm really getting fed up with your constant \"do better, Miranda, do different, Miranda!\""
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/91
+msgctxt "Miranda"
+msgid "No! Just stop. Enough already."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/99/s/0
+msgctxt "Choix"
+msgid "Guys, I don't mean to interrupt here but... I am here. Also."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/100/s/0
+msgctxt "Choix"
+msgid "Yeah! Tell 'im, Miranda!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/101/s/0
+msgctxt "Choix"
+msgid "Maybe Stefan has a point?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/c-5/7
+msgctxt "Miranda"
+msgid "See? This is what I'm saying."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/c-5/15
+msgctxt "Miranda"
+msgid "My friend is here, we're busy, I don't have time to do this right now, so please. Vaya."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/c-6/7
+msgctxt "Miranda"
+msgid "I will! I have, you have no idea."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/c-6/15
+msgctxt "Miranda"
+msgid "Stefan, I love you and all, but even my new friend here thinks you're being a little overbearing."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/c-6/23
+msgctxt "Miranda"
+msgid "Que vaya."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/c-7/7
+msgctxt "Stefan"
+msgid "Yes! Thank you, new ally!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-1/c-7/15
+msgctxt "Miranda"
+msgid "Whoa. Qué?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/0
+msgctxt "Miranda"
+msgid "Music is a completely valid and awesome thing for me to spend my time on. I love it! And I'm sorry, but I do love it a lot more than making toast."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/8
+msgctxt "Miranda"
+msgid "Toast is just my day job. It's not what I love."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/16
+msgctxt "Miranda"
+msgid "It's fantastic for me to focus on what I love, my music!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/24
+msgctxt "Miranda"
+msgid "You do agree, right?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "100%. Do what makes you happy!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "Eh... I think making toast might be a better vocation. For a toaster."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/13
+msgctxt "Miranda"
+msgid "Exactamente."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/21
+msgctxt "Stefan"
+msgid "I see that once again, I have taken my cake out of the oven too early."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/32
+msgctxt "Stefan"
+msgid "It remains soft, gooey on the inside... and inedible."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/40
+msgctxt "Stefan"
+msgid "Perhaps I shall try again... and perhaps I shall accept that we'll never see knob to knob on this."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/48
+msgctxt "Stefan"
+msgid "You know I love you anyway, right?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/56
+msgctxt "Miranda"
+msgid "Of course I do. And trust me. You're gonna love me even more when I write a song about you."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/64
+msgctxt "Stefan"
+msgid "Ah yes. I'm sure I will. Well. Goodbye, then. Simmer on, my dear one."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/78/0/s/0
+msgctxt "Choix"
+msgid "You're going to write a song about him?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/78/1/s/0
+msgctxt "Choix"
+msgid "You're lucky to have someone who cares that much about you!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/78/c-0/7
+msgctxt "Miranda"
+msgid "Oh no. Definitely not."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/78/c-0/15
+msgctxt "Miranda"
+msgid "Are you kidding? You think he was dramatic just now? You should see him when he's happy. It's a thing. I don't have the energy for that."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-8/78/c-1/7
+msgctxt "Miranda"
+msgid "Ay, I know I know. He gets under my panels... but that's family, I guess!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/13
+msgctxt "Miranda"
+msgid "Huh."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/21
+msgctxt "Miranda"
+msgid "Not gonna lie... I am pretty bummed to hear you say that."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/32
+msgctxt "Stefan"
+msgid "I am so glad that someone around here understands my perspective!"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/40
+msgctxt "Miranda"
+msgid "You know what? Both of you?"
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/48
+msgctxt "Miranda"
+msgid "Get out. I'm done now."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/56
+msgctxt "Miranda"
+msgid "I have music to write."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/64
+msgctxt "Stefan"
+msgid "I never mean to hurt you... and somehow I seem to, most of the time. Clearly my recipe is off in some key ingredient..."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/72
+msgctxt "Stefan"
+msgid "Not a good look, for a chef."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-2/c-9/80
+msgctxt "Stefan"
+msgid "Write your music, dear one. I'll see you later."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-3/0
+msgctxt "Miranda"
+msgid "And now, que vaya! I am very busy."
+msgstr ""
+
+#: miranda_toaster/miranda_stefan/0/g-3/8
+msgctxt "Miranda"
+msgid "Come back later, maybe. I might have more time when this burst of inspiration is out of my grates!"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/6
+msgctxt "Miranda"
+msgid "Whew! Glad you're here. I need a break!"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/14
+msgctxt "Miranda"
+msgid "I have been thinking about this new song I wanna write, and it's super fun but it's also super exhausting?"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/22
+msgctxt "Miranda"
+msgid "Like, I kinda feel like my coils are gonna uncoil or something and I'll just be like this really sexy, talented metal puddle on the floor?"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/30
+msgctxt "Miranda"
+msgid "It's weird."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/38/s/0
+msgctxt "Choix"
+msgid "Yeah. Yeah, it is."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/39/s/0
+msgctxt "Choix"
+msgid "No, I totally get it! Can I help? Don't turn into a puddle."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/7
+msgctxt "Miranda"
+msgid "Ha! I'm gonna be super nice right now and assume that you're just calling me out on being extreme and not that you just low-key told me I'm weird."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "No... I called you weird."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Yeah! I was commiserating."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/7
+msgctxt "Miranda"
+msgid "Ok... whatever..."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/15
+msgctxt "Miranda"
+msgid "Look, you're here so, do you want something or what?"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Yeah. I wanna toast this bagel."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I wanna hang out. Sorry I'm being a jerk."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-0/7
+msgctxt "Miranda"
+msgid "Get out."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-0/15
+msgctxt "Miranda"
+msgid "Get out right now."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-0/26
+msgctxt "Miranda"
+msgid "And take your stupid thin bagel with you!"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-0/34
+msgctxt "Miranda"
+msgid "It's not even an everything bagel, what are you doing with your life??"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-1/7
+msgctxt "Miranda"
+msgid "Yeah, you are."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-1/15
+msgctxt "Miranda"
+msgid "And you apologized. So that's interesting."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-1/23
+msgctxt "Miranda"
+msgid "Ok, you know what? I'm writing this song..."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-1/31
+msgctxt "Miranda"
+msgid "And I kinda need help. You wanna help me?"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "Yes!"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-0/23/c-1/39/1/s/0
+msgctxt "Choix"
+msgid "You got it."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-1/7
+msgctxt "Miranda"
+msgid "Oh! Good. I don't need to tell you, I don't think..."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-1/15
+msgctxt "Miranda"
+msgid "...but I was definitely looking around this countertop for something to throw at you."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-1/23
+msgctxt "Miranda"
+msgid "I've never actually thrown something when I've gotten mad before, but I definitely think that could be a behavior that I like, might nurture at this point in my life."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-1/31
+msgctxt "Miranda"
+msgid "Anyway!"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-1/39
+msgctxt "Miranda"
+msgid "I'm writing this song, and it's really hard, for some reason..."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-1/47
+msgctxt "Miranda"
+msgid "...and I need help. You wanna help?"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-0/15/c-1/55
+msgctxt "Miranda"
+msgid "You know what actually you're gonna help me whether you want to or not, in payment for being kind of a burnt end a minute ago."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/7
+msgctxt "Miranda"
+msgid "You can totally help!"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/15
+msgctxt "Miranda"
+msgid "Oh wow, this is actually great. Usually I write all my songs alone but for some reason this one is just not coming."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/23
+msgctxt "Miranda"
+msgid "You wanna be my writing partner for a sec?"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Ooh, fun. Yeah, let's go."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "You have no idea how good I am at this."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/31/2/s/0
+msgctxt "Choix"
+msgid "I mean, probably."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/31/3/s/0
+msgctxt "Choix"
+msgid "Yup."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/31/c-0/7
+msgctxt "Miranda"
+msgid "Attitude. On point. Love it."
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/31/c-1/7
+msgctxt "Miranda"
+msgid "You are?"
+msgstr ""
+
+#: miranda_toaster/miranda_second_encounter/0/c-1/31/g-0/0
+msgctxt "Miranda"
+msgid "Entonces vamos."
+msgstr ""
+
+#: miranda_toaster/song/0/0
+msgctxt "Miranda"
+msgid "Ok. So I'm gonna ask you some questions. You ready?"
+msgstr ""
+
+#: miranda_toaster/song/0/8/s/0
+msgctxt "Choix"
+msgid "I'm kind of in a hurry..."
+msgstr ""
+
+#: miranda_toaster/song/0/9/s/0
+msgctxt "Choix"
+msgid "Of course."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/7
+msgctxt "Miranda"
+msgid "Perfecto! Now... Ay, where did I put my notes... gotta be careful with them so they don't incinerate..."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/15
+msgctxt "Miranda"
+msgid "Ah, here they are. Ok."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/26
+msgctxt "Miranda"
+msgid "When you think of love, what's the first word that comes to your mind?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/0/s/0
+msgctxt "Choix"
+msgid "Happiness."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/1/s/0
+msgctxt "Choix"
+msgid "A broken heart."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-0/7
+msgctxt "Miranda"
+msgid "Ay, that's so sweet. Have you ever been in love?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yes."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/7
+msgctxt "Miranda"
+msgid "Ay, mi amor, I'm so sorry. That's the worst."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/15
+msgctxt "Miranda"
+msgid "Great material for songs, though... let's see what we can do..."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/23
+msgctxt "Miranda"
+msgid "Broken heart, love is broken, like you can't fix it... a love so irreparable, like a..."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Broken vase?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Burned bridge?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/7
+msgctxt "Miranda"
+msgid "Oooh, that's really good! Great image."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/18
+msgctxt "Miranda"
+msgid "Like this love is delicate, if it falls apart it can't be put back together?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/26
+msgctxt "Miranda"
+msgid "That's amazing."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/34
+msgctxt "Miranda"
+msgid "You have some depth, you know. I would never have known from looking at you that you felt this kind of stuff."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/0/s/0
+msgctxt "Choix"
+msgid "Maybe I just have a knack for songwriting..."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/7
+msgctxt "Miranda"
+msgid "Ay, si, maybe you do, but slow down a second."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/15
+msgctxt "Miranda"
+msgid "We haven't actually written the line yet."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/23
+msgctxt "Miranda"
+msgid "Hmm... Broken vase..."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/31
+msgctxt "Miranda"
+msgid "~A love so fragile, we were chipped from the start... ~"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "<i>A love so fragile, a ceramic broken heart</i>"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/1/s/0
+msgctxt "Choix"
+msgid "<i>A love so fragile, a broken glass we had to part</i>"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-0/13
+msgctxt "Miranda"
+msgid "\"A ceramic broken heart\" can be the title! Ay dios, I can totally see that on a Grahamy!"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/13
+msgctxt "Miranda"
+msgid "Hmm... Like a broken glass cup you have to throw in the trash?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/4
+msgctxt "Cam"
+msgid "What's up? Cup? Trash? Yo."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/18
+msgctxt "Miranda"
+msgid "Cam! Que paso, you sexy receptacle, gimme a kiss..."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/29
+msgctxt "Cam"
+msgid "What?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/40
+msgctxt "Miranda"
+msgid "... actually, get out, we're working."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/48
+msgctxt "Miranda"
+msgid "It's not a real cup, I'm writing a song."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/56
+msgctxt "Cam"
+msgid "Oh, sweet. Yeah, write away. If you do need to toss some stuff though, you know where I'm at."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/64
+msgctxt "Cam"
+msgid "Over there. Waiting for trash."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/72
+msgctxt "Miranda"
+msgid "I got it, I got it. Adios, sexy!"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/86
+msgctxt "Miranda"
+msgid "I'm sorry, he is so hot. It's loco."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/21/b/94
+msgctxt "Miranda"
+msgid "Ok, back to you. Broken cup... maybe. I think I can work it."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/22/b/1 miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/31/c-1/21
+msgctxt "Miranda"
+msgid "Dark. Fantastic."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-0/42/c-0/39/c-1/22/b/9
+msgctxt "Miranda"
+msgid "Broken cup... maybe. I think I can work it."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/7
+msgctxt "Miranda"
+msgid "Oooh, like a fiery passion that died horribly."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/15
+msgctxt "Miranda"
+msgid "So dark, I'm totally into this."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/23
+msgctxt "Miranda"
+msgid "You've got a serious dramatic side, you know that?"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Or maybe I'm just a good writer!"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/7
+msgctxt "Miranda"
+msgid "Ha! Ok ok, let's not get cocky now..."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/15
+msgctxt "Miranda"
+msgid "...we still have to write the line."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/23
+msgctxt "Miranda"
+msgid "~A fiery heart, we burned as one... ~"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "<i>But looked toward the morning sun</i>"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "<i>Blazing up til we were done</i>"
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/31/c-0/13
+msgctxt "Miranda"
+msgid "We could totally win a Grahamy."
+msgstr ""
+
+#: miranda_toaster/song/0/c-1/34/c-1/31/c-1/31/c-0/31/c-1/13
+msgctxt "Miranda"
+msgid "Ah, like how toxic love can seem so fun until it crashes and burns and you're standing there like, what happened???"
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/0
+msgctxt "Miranda"
+msgid "Songwriting can be really hard when you're alone, and if I go to anyone, I go to the Migas... but I don't know."
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/8
+msgctxt "Miranda"
+msgid "... this song is a bit more personal."
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Anytime. I'm glad I could be here for you."
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "How about we make this more personal... with a date?"
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/c-2/7
+msgctxt "Miranda"
+msgid "You really did show up at the right time, didn't you?"
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/c-2/15
+msgctxt "Miranda"
+msgid "Hm, maybe you're kind of like a little secret romantic genius, showing up right when I need help, I like it, it's kind of sexy..."
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/c-2/23
+msgctxt "Miranda"
+msgid "Maybe next time you show up we could have like planned it?"
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/c-2/31/0/s/0
+msgctxt "Choix"
+msgid "Like a date?"
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/c-2/31/1/s/0
+msgctxt "Choix"
+msgid "I think you're asking too much."
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/c-2/31/c-1/7
+msgctxt "Miranda"
+msgid "Forget I said anything. I get it! You're busy."
+msgstr ""
+
+#: miranda_toaster/song/0/g-0/c-2/31/c-1/21
+msgctxt "Miranda"
+msgid "Well, thanks again. I'll see you when I see you."
+msgstr ""
+
+#: miranda_toaster/song/0/date1/0
+msgctxt "Miranda"
+msgid "Ay, and here I thought you'd never ask!"
+msgstr ""
+
+#: miranda_toaster/song/0/date1/8
+msgctxt "Miranda"
+msgid "I'll see you soon. You'd better come prepared..."
+msgstr ""
+
+#: miranda_toaster/song/0/date1/16
+msgctxt "Miranda"
+msgid "Don't worry. To me, prepared just means that you're excited and ready to have a good time."
+msgstr ""
+
+#: miranda_toaster/song/0/date1/24
+msgctxt "Miranda"
+msgid "You don't need like, boots or anything."
+msgstr ""
+
+#: miranda_toaster/hurry/0/6
+msgctxt "Miranda"
+msgid "Oh, ok. Tienes que irte rapidamente a... que... nothing important, probably, but it's ok, I'll bite."
+msgstr ""
+
+#: miranda_toaster/hurry/0/14
+msgctxt "Miranda"
+msgid "You're still here, so what did you want?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/22/s/0
+msgctxt "Choix"
+msgid "Just wanted to say hi."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/7
+msgctxt "Miranda"
+msgid "Ay, this is so weird! You don't want to help me write the song, but you won't leave, and you wanted to say hi but like, nothing other than hi..."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/15
+msgctxt "Miranda"
+msgid "...because 'hi' is like such an earth-shattering need to talk to somebody..."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/23
+msgctxt "Miranda"
+msgid "...don't get it. But whatever. Ok. Hi?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I hope you're doing well."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Would you want to go on a date?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/7
+msgctxt "Miranda"
+msgid "Thanks. I'm good. I'm writing music."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/15
+msgctxt "Miranda"
+msgid "Which I definitely already said, so, I'm good, because that's what I love so..."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/23
+msgctxt "Miranda"
+msgid "Anyway, the band thinks our next album will be a big hit. They're really excited."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "It's going to be."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Sure. Good luck with that."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-0/13
+msgctxt "Miranda"
+msgid "I know."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-0/21
+msgctxt "Miranda"
+msgid "It's nice of you to say, though. I like being agreed with when I know I'm right. If I know I'm wrong, then totally, if you agree with me, it's gonna piss me off."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-0/29
+msgctxt "Miranda"
+msgid "But I'm right. So good job. Gonna go write now. Talk to you later."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-1/7
+msgctxt "Miranda"
+msgid "Wow, could you have sounded any less enthusiastic about that? You know what, we don't need luck."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-1/15
+msgctxt "Miranda"
+msgid "And we for sure don't need the good wishes of someone who can like barely be bothered to hear the information."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-1/31
+msgctxt "Miranda"
+msgid "Que vaya ahora. Yeah. I think it's time for you to go."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "Bye."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-0/31/c-1/39/c-0/7
+msgctxt "Miranda"
+msgid "Yeah. Bye."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/11
+msgctxt "Miranda"
+msgid "A... date?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/19
+msgctxt "Miranda"
+msgid "Espera. I'm confused."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/27
+msgctxt "Miranda"
+msgid "Why should I want to go on a date with you? Why do you want to go on a date with me? ¿Por qué?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/0/s/0 miranda_toaster/hateending/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "Why not?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/1/s/0
+msgctxt "Choix"
+msgid "I've been thinking about you."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/2/s/0
+msgctxt "Choix"
+msgid "Because I'm amazing."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/7
+msgctxt "Miranda"
+msgid "Seriously?? Why not? You are like maybe the cockiest person I've ever met maybe except for me, but at least my cocky is earned!"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/15
+msgctxt "Miranda"
+msgid "I should date you because, why not?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/23
+msgctxt "Miranda"
+msgid "That's not even creative. That's like, the laziest answer ever."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/31
+msgctxt "Miranda"
+msgid "You are big time gonna have to convince me. If I even stand still long enough to listen to your pitch."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Great. Let's get to it. I don't want to waste time."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/7
+msgctxt "Miranda"
+msgid "Ai, veo. So it's a waste of time to get to know me before asking me out?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/18
+msgctxt "Miranda"
+msgid "Let's ask her out first that way even if she says no, you haven't lost any valuable time better used for pursuing other appliances?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/26
+msgctxt "Miranda"
+msgid "Do you have some like, really important deadline I don't now about? You probably have a lukewarm cup of coffee waiting for you, huh."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "That's not-"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "I'm not-"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/34/g-0/0
+msgctxt "Miranda"
+msgid "Whatever."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/34/g-0/8
+msgctxt "Miranda"
+msgid "My suggestion would be, try a little harder."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/34/g-0/16
+msgctxt "Miranda"
+msgid "I'll think about it... mostly to chuckle to myself when I need a break from writing."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-0/39/c-0/34/g-0/36
+msgctxt "Miranda"
+msgid "See you later."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/7
+msgctxt "Miranda"
+msgid "I mean, that makes total sense. If I were you, I would totally be thinking about me. I'm me and I spend a lot of time thinking about me!"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/15
+msgctxt "Miranda"
+msgid "But ok, let's do a little test. Just to see. It would be easy to say you're thinking about me and then really have been thinking about like, making a sandwich or something."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/23
+msgctxt "Miranda"
+msgid "What's my band's name?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Migas"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Dulcitas"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-0/13
+msgctxt "Miranda"
+msgid "Ay, nice! Ok, I'm impressed! I mean, not like super impressed, it was a pretty basic question, but... good work."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-0/21
+msgctxt "Miranda"
+msgid "Maybe you have been listening."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-0/29
+msgctxt "Miranda"
+msgid "I'm gonna think about a date. I promise, I'm gonna really like, ponder it."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-0/37
+msgctxt "Miranda"
+msgid "Ok ok, I'm pondering! Go away! I ponder in private."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-1/13
+msgctxt "Miranda"
+msgid "Ay, really? I mean, I guess it's a pretty decent band name, but it's definitely not the name of MY band."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-1/21
+msgctxt "Miranda"
+msgid "Where did you even think of that name? Have you had a cookie called a Dulcita or something? Ay, actually now that I've said that I totally want a cookie."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-1/29
+msgctxt "Miranda"
+msgid "I want a cookie right now a lot more than I wanna go on a date, I'll tell you that!"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-1/31/c-1/37
+msgctxt "Miranda"
+msgid "I'll think about it. Maybe I'll have a cookie and think about going on a date with someone who doesn't know the name of my band."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/13
+msgctxt "Miranda"
+msgid "Ha! Ahahahahaha! Ay dios, I mean, I'm gonna give you some major points just for confidence but also no."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/21
+msgctxt "Miranda"
+msgid "No, that is not a real reason."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/29
+msgctxt "Miranda"
+msgid "If you're that amazing, then you should date you! Ha!"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/37
+msgctxt "Miranda"
+msgid "I mean, I don't know that you're amazing, and frankly you don't know that I'm amazing because you really don't know me that well yet."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/45
+msgctxt "Miranda"
+msgid "I don't date strangers."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/53
+msgctxt "Miranda"
+msgid "...Even if they're amazing."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/0/s/0
+msgctxt "Choix"
+msgid "But you live in my house..."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/1/s/0
+msgctxt "Choix"
+msgid "It's ok. We'll get to know each other, and I'll ask again."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/2/s/0
+msgctxt "Choix"
+msgid "Sorry for bothering you."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-0/13
+msgctxt "Miranda"
+msgid "Wow. Hm. Look at you, going from asking me out to actually being like, a threatening landlord at me right now?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-0/21
+msgctxt "Miranda"
+msgid "You are really not helping your case!"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-0/29
+msgctxt "Miranda"
+msgid "I think I'm gonna let you go now, before you've dug yourself an even deeper hole in the \"I talk like a jerk\" category."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-0/37
+msgctxt "Miranda"
+msgid "I'll think about a date. Before you say something really stupid that makes me laugh and go do something, anything else."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-1/7
+msgctxt "Miranda"
+msgid "Hmm... Look at you, with the persistence.  Pretty sexy, not gonna lie..."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-1/15
+msgctxt "Miranda"
+msgid "I'll think about it."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-1/23
+msgctxt "Miranda"
+msgid "I'm gonna go write some more... the creative juices are flowing!"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-2/13
+msgctxt "Miranda"
+msgid "Huh. Ok. Yeah, I guess I'm sorry you bothered me, too?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-2/21
+msgctxt "Miranda"
+msgid "You're not gonna emotionally manipulate me into going out with you, you know that right?"
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-2/29
+msgctxt "Miranda"
+msgid "Nevermind. Doesn't matter."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-2/37
+msgctxt "Miranda"
+msgid "I'll think about a date anyway, because I'm like, super nice. But right now, you'd better head out."
+msgstr ""
+
+#: miranda_toaster/hurry/0/c-0/31/c-1/35/c-2/61/c-2/45
+msgctxt "Miranda"
+msgid "Time to get back to writing!"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/0
+msgctxt "Miranda"
+msgid "Oh, really? Ah, that's so great. I love being in love."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/11
+msgctxt "Miranda"
+msgid "And this lucky other, do you still love them?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/19/s/0
+msgctxt "Choix"
+msgid "I really do."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/20/s/0
+msgctxt "Choix"
+msgid "No. Not anymore."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/c-0/7
+msgctxt "Miranda"
+msgid "That's amazing. I guess you're both lucky!"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/c-0/15
+msgctxt "Miranda"
+msgid "I was in love once. It's probably hard to imagine this now, with how like, totally independent and self-sufficient I am, but we almost got married."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/c-1/7
+msgctxt "Miranda"
+msgid "Ay, wow. That sounds like it hurt."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/c-1/15
+msgctxt "Miranda"
+msgid "I'm sorry to hear. Heartbreak is the worst. It's amazing for writing songs... I don't know why, but it's like this bottomless well of great lyrics."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/c-1/23
+msgctxt "Miranda"
+msgid "I've had my heart broken. It's where a lot of my great songs come from."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "What happened?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/7
+msgctxt "Miranda"
+msgid "It was a miscommunication, I guess. I really loved him, but he wanted me to settle down."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/18
+msgctxt "Miranda"
+msgid "I don't know. I guess I just had bigger dreams than that."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/26
+msgctxt "Miranda"
+msgid "And I wasn't gonna let anybody get in the way of the future I could see for myself."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/37
+msgctxt "Miranda"
+msgid "You get that, right?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/0/s/0
+msgctxt "Choix"
+msgid "Oh yeah. I completely understand."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/1/s/0
+msgctxt "Choix"
+msgid "Not really... that was kinda selfish."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/7
+msgctxt "Miranda"
+msgid "I knew you would."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/15
+msgctxt "Miranda"
+msgid "If you can believe this, a lot of people think I'm really selfish for doing that. Like, they see it as I totally spat in the face of this great love."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/23
+msgctxt "Miranda"
+msgid "But I just don't know who I'd be if I wasn't this. A songwriter, with my band. It's who I am."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/31
+msgctxt "Miranda"
+msgid "I mean, I'm a natural, right? You see it. I was made for this. And my fans..."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/39
+msgctxt "Miranda"
+msgid "...I think they'd really miss me if I went away."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "You are pretty amazing."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/1/s/0
+msgctxt "Choix"
+msgid "We'd better get this song written for them, then!"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/c-0/7
+msgctxt "Miranda"
+msgid "I know! That's so cool that you see it too. Thank you."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/c-0/15
+msgctxt "Miranda"
+msgid "I'm starting to think you're pretty amazing, too."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/c-0/29
+msgctxt "Miranda"
+msgid "Uh oh..."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/c-0/37
+msgctxt "Miranda"
+msgid "This is the same thing that happens when I've got a song that's like, screaming to be written in my grates!"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/c-0/48
+msgctxt "Miranda"
+msgid "I'm thinking about how amazing you are and I've like, totally forgotten what we were even talking about..."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-0/47/c-0/56/0/s/0
+msgctxt "Choix"
+msgid "A song."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/13
+msgctxt "Miranda"
+msgid "Um... excuse you?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/21
+msgctxt "Miranda"
+msgid "Starting to be really sorry that I confided in you at all."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/29
+msgctxt "Miranda"
+msgid "You really have no idea what you're talking about."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/0/s/0
+msgctxt "Choix"
+msgid "His feelings mattered, too."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/1/s/0
+msgctxt "Choix"
+msgid "Relationships can't be all about one person."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/7
+msgctxt "Miranda"
+msgid "Ay dios, you really think I don't know that?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/15
+msgctxt "Miranda"
+msgid "Of course his feelings mattered! That's one of the reasons I left!"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/23
+msgctxt "Miranda"
+msgid "How crappy do you think it would be, to be in a relationship with someone, all settled down and everything..."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/31
+msgctxt "Miranda"
+msgid "...and it's so obvious that all your partner wants is something else, something that you can't give them?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/39
+msgctxt "Miranda"
+msgid "You wanna talk unfair? THAT. That is unfair."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/47
+msgctxt "Miranda"
+msgid "Maybe it looks like selfishness to you, but I actually cared enough about him to do what I needed to do and let him find a love that was like, right for him."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/55
+msgctxt "Miranda"
+msgid "You need to check the judgment. It's not a good tone on you."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/0/s/0
+msgctxt "Choix"
+msgid "I'm sorry. I wanted to speak my truth."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/1/s/0
+msgctxt "Choix"
+msgid "What about your song?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/c-0/7
+msgctxt "Miranda"
+msgid "That's good. Speak your truth, always. But I had to speak mine, too."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/c-0/15
+msgctxt "Miranda"
+msgid "Maybe we both learned something."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/c-0/23
+msgctxt "Miranda"
+msgid "Not sure that I did, but maybe you did."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/c-0/31
+msgctxt "Miranda"
+msgid "Anyway, I'm tired and I really need to get some vocal rest."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/c-0/39
+msgctxt "Miranda"
+msgid "Guess I'll try to write the song on my own."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-0/63/c-1/7
+msgctxt "Miranda"
+msgid "I'll figure it out by myself. It's how I usually work, so, shouldn't be a big stretch. I'll see you later."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/7
+msgctxt "Miranda"
+msgid "Um, they like, never are? That's the definition of relationship, that there are always two sides? Or like, more than two depending on how you roll?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/15
+msgctxt "Miranda"
+msgid "Also, the relationship may have been about both of us, but my life has to be about me first."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/23
+msgctxt "Miranda"
+msgid "It would be totally like, mean to try to make him take care of me the way that I should be taking care of myself."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/31
+msgctxt "Miranda"
+msgid "I have to know what I want and what's right for me and if it isn't being in that relationship with him, then it's my responsibility to do something about it."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/39
+msgctxt "Miranda"
+msgid "Which I did. It was an act of love, actually."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/47
+msgctxt "Miranda"
+msgid "And not even totally about me because I was also hurt by it for a long time."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/55
+msgctxt "Miranda"
+msgid "Jeez. Who's the insensitive one here, I wonder?"
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/0/s/0
+msgctxt "Choix"
+msgid "I didn't think about it that way. I'm sorry."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/1/s/0
+msgctxt "Choix"
+msgid "I just don't agree with you. Like at all."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-0/7
+msgctxt "Miranda"
+msgid "It's fine. This is what communication is."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-0/15
+msgctxt "Miranda"
+msgid "It can't always be sweet and easy. It's how we deal with the bitterness that makes us who we are."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-0/23
+msgctxt "Miranda"
+msgid "I am tired, though. I'm gonna go and rest... I'll try to get back to writing the song in a little while."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-0/31
+msgctxt "Miranda"
+msgid "And don't worry, you don't have to help."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-0/39
+msgctxt "Miranda"
+msgid "I've got it."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "Ok. See ya later."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-0/47/1/s/0
+msgctxt "Choix"
+msgid "You'll do great. You always do."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/7
+msgctxt "Miranda"
+msgid "That is your right."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/15
+msgctxt "Miranda"
+msgid "You don't have to agree and I don't have to convince you."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/23
+msgctxt "Miranda"
+msgid "I am also totally allowed to be pissed off at you, though, and not want to write my song with you."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/31
+msgctxt "Miranda"
+msgid "I'm sure I'll get over it, but right now, I'm gonna go."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/39
+msgctxt "Miranda"
+msgid "Thanks for being honest. I guess."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/47/0/s/0
+msgctxt "Choix"
+msgid "Ah, I'm sorry..."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/47/1/s/0
+msgctxt "Choix"
+msgid "Sure."
+msgstr ""
+
+#: miranda_toaster/beeninlove/0/g-0/c-2/45/c-1/37/c-1/63/c-1/47/g-0/6
+msgctxt "Miranda"
+msgid "Ay, WHATEVER. Hasta luego."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/0
+msgctxt "Miranda"
+msgid "Songwriting is so much fun; it's like, actually my favorite thing to do, but sometimes it's so frustrating!"
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/8
+msgctxt "Miranda"
+msgid "I usually go to my band when I need help but for some reason, this one feels different."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/16
+msgctxt "Miranda"
+msgid "Thanks for helping me with it."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/24/s/0
+msgctxt "Choix"
+msgid "I'd love to see you again. Maybe not for work, though?"
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/25/s/0
+msgctxt "Choix"
+msgid "Let's write again sometime."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-0/7
+msgctxt "Miranda"
+msgid "Not for work."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-0/15
+msgctxt "Miranda"
+msgid "Ay! I get it! You're flirting again! Jeje. Nice..."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-0/23
+msgctxt "Miranda"
+msgid "Y'know what? You've earned it. The next time we hang out can be a real, official date."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-0/31
+msgctxt "Miranda"
+msgid "Don't actually bring me flowers or anything... I have the worst track record with like, wanting to admire them and then all of a sudden they're in flames."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-0/39
+msgctxt "Miranda"
+msgid "It sucks. But you can like, think about bringing me flowers."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-0/47
+msgctxt "Miranda"
+msgid "Deal?"
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-1/13
+msgctxt "Miranda"
+msgid "You got it! Are you kidding? We did some really good work today. I'd write again with you anytime."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-1/21
+msgctxt "Miranda"
+msgid "Maybe we can like, plan it."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-1/29
+msgctxt "Narrator"
+msgid "Miranda fiddles awkwardly with her pen, sighing as she searches for words that don't seem to come."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-1/37
+msgctxt "Miranda"
+msgid "Ay! I'm so awkward at this but whatever."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-1/45
+msgctxt "Miranda"
+msgid "Let's go on a date. I had a lot of fun and it would be really cool to see you again, so..."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/c-1/53
+msgctxt "Miranda"
+msgid "...date?"
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "So excited!"
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "You're cute when you're awkward."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/g-0/c-3/7
+msgctxt "Miranda"
+msgid "Ay! I'm cute all the time."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/g-0/c-3/15
+msgctxt "Miranda"
+msgid "DUH."
+msgstr ""
+
+#: miranda_toaster/encounter2end/0/g-1/0
+msgctxt "Miranda"
+msgid "It's a date, then! I'll see you soon."
+msgstr ""
+
+#: miranda_toaster/song2/0/0
+msgctxt "Miranda"
+msgid "Of course. Love, happiness... Usually songs about tragic love are easier, but let's switch it up!"
+msgstr ""
+
+#: miranda_toaster/song2/0/8
+msgctxt "Miranda"
+msgid "A love so beautiful, like..."
+msgstr ""
+
+#: miranda_toaster/song2/0/22/s/0
+msgctxt "Choix"
+msgid "Watching the sunrise?"
+msgstr ""
+
+#: miranda_toaster/song2/0/23/s/0
+msgctxt "Choix"
+msgid "A comfort you've never felt before?"
+msgstr ""
+
+#: miranda_toaster/song2/0/c-0/7
+msgctxt "Miranda"
+msgid "The vibrant colors, the promise of a new beginning... if only I could motivate myself to wake up in the morning!"
+msgstr ""
+
+#: miranda_toaster/song2/0/c-0/15
+msgctxt "Miranda"
+msgid "Ok, but let's write the line now..."
+msgstr ""
+
+#: miranda_toaster/song2/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "<i>The sun warms up my love for you</i>"
+msgstr ""
+
+#: miranda_toaster/song2/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "<i>Your love is where I want to be</i>"
+msgstr ""
+
+#: miranda_toaster/song2/0/c-0/23/c-0/13
+msgctxt "Miranda"
+msgid "Ooh. Cheesy. Nice."
+msgstr ""
+
+#: miranda_toaster/song2/0/c-0/23/c-1/13
+msgctxt "Miranda"
+msgid "Ah, muy fuerte. A strong love, always moving forward."
+msgstr ""
+
+#: miranda_toaster/song2/0/c-1/7
+msgctxt "Miranda"
+msgid "Safety, a feeling of home wherever you go as long as you're with them... ay, that's one of the best things about good love!"
+msgstr ""
+
+#: miranda_toaster/song2/0/c-1/15
+msgctxt "Miranda"
+msgid "Ok. Lyrics."
+msgstr ""
+
+#: miranda_toaster/song2/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "<i>You're the reason that I sing</i>"
+msgstr ""
+
+#: miranda_toaster/song2/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "<i>Your lovin' warms me up</i>"
+msgstr ""
+
+#: miranda_toaster/song2/0/c-1/23/c-0/13
+msgctxt "Miranda"
+msgid "Aww, that is so sweet. A love so pure, it gives you the courage to sing."
+msgstr ""
+
+#: miranda_toaster/song2/0/c-1/23/c-0/21
+msgctxt "Miranda"
+msgid "That is a love worth searching for."
+msgstr ""
+
+#: miranda_toaster/song2/0/c-1/23/c-1/13
+msgctxt "Miranda"
+msgid "So you kinda sound like my dad? Not that it's a bad thing! Just, like, something to know about yourself."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/0
+msgctxt "Miranda"
+msgid "Ay, that's really interesting! You're saving your love or something?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/11
+msgctxt "Miranda"
+msgid "Ooh, maybe you're afraid of commitment. I've seen that. Or, and this is like, a big one... You just haven't found the one?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/19/s/0
+msgctxt "Choix"
+msgid "I'm not really the relationship type."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/20/s/0
+msgctxt "Choix"
+msgid "I'm working on finding the one."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/7
+msgctxt "Miranda"
+msgid "O-ho, really? That seems like, not a true statement."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/15
+msgctxt "Miranda"
+msgid "You say you're not the relationship type, but like, you're flirting with me and we're writing songs together..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/23
+msgctxt "Miranda"
+msgid "...and if that's not foreplay then I've been doing it wrong."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I'm really not trying to flirt with you."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "You're special."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/13
+msgctxt "Miranda"
+msgid "Huh. Ok. So, I've just been reading into things?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/21
+msgctxt "Miranda"
+msgid "Either that or you're leading me on... or you like, really want to be a songwriter and you're using me because I'm good at it?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/29
+msgctxt "Miranda"
+msgid "Ay, I don't know. I'm getting carried away a little. This does feel icky to me though. So."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/40
+msgctxt "Miranda"
+msgid "I changed my mind. I don't want you on this track. I'm gonna do it alone."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/0/s/0
+msgctxt "Choix"
+msgid "Are you sure?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/1/s/0
+msgctxt "Choix"
+msgid "Hey... I didn't mean to upset you."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/c-0/7
+msgctxt "Miranda"
+msgid "Oh yeah, I'm like, super sure."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/c-0/15
+msgctxt "Miranda"
+msgid "Thanks anyway. Talk to you later."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/c-1/7
+msgctxt "Miranda"
+msgid "Oh! Well... thanks, then, that's good to know, but also I am upset so I just have to feel this way until I don't feel this way anymore."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/c-1/15
+msgctxt "Miranda"
+msgid "Can you imagine what the world would be like if we could all just tell ourselves not to feel a certain way the second that someone tells us to?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/c-1/23
+msgctxt "Miranda"
+msgid "Ay. I think I'm already bored by that."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-0/48/c-1/31
+msgctxt "Miranda"
+msgid "Gotta go!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/13
+msgctxt "Miranda"
+msgid "¡Cállate!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/21
+msgctxt "Miranda"
+msgid "You're so full of it."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/29
+msgctxt "Miranda"
+msgid "I mean, I totally am special, you're right but it's so fun to say \"Ay, stop it!\" Jeje."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/0/s/0
+msgctxt "Choix"
+msgid "I'm serious!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/1/s/0
+msgctxt "Choix"
+msgid "You're flirting. And hell yeah, it's fun!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-0/7
+msgctxt "Miranda"
+msgid "Oh I know you are!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-0/15
+msgctxt "Miranda"
+msgid "Y'know what? Since you're so sincere, I could actually use some help with these lyrics."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-0/23
+msgctxt "Miranda"
+msgid "I wanna write about... being afraid to fall in love."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-1/7
+msgctxt "Miranda"
+msgid "Y'know the other way I flirt? That is also, like, really fun and productive and creative and all kinds of good stuff?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-1/15
+msgctxt "Miranda"
+msgid "Writing a song! I'll bet you totally knew I was gonna say that."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-1/23
+msgctxt "Miranda"
+msgid "So I'm a little predictable sometimes! Whatever! Not all the time, though."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-1/31
+msgctxt "Miranda"
+msgid "Anyway. Wanna help me?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-0/31/c-1/37/c-1/39
+msgctxt "Miranda"
+msgid "I wanna write about... how scary it can be to fall in love."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/7
+msgctxt "Miranda"
+msgid "Ooh! That sounds fun. Ja! It's like, you're \"working\" on it, but it's totally not \"work\" because it's really fun!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/15
+msgctxt "Miranda"
+msgid "Actually? Maybe I'm wrong. It could totally be work. Ay dios mio, it could actually be really hard and exhausting."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/23
+msgctxt "Miranda"
+msgid "Ay, I'm like, making myself really tired thinking about how tiring this could be!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/31
+msgctxt "Miranda"
+msgid "How's it going for you?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "I think it's going really well."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/1/s/0
+msgctxt "Choix"
+msgid "It's going... okay."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/2/s/0
+msgctxt "Choix"
+msgid "Oof..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/c-0/13
+msgctxt "Miranda"
+msgid "Fantastic!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/c-1/7
+msgctxt "Miranda"
+msgid "All right all right..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/c-2/7
+msgctxt "Miranda"
+msgid "It's how it goes sometimes!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/0
+msgctxt "Miranda"
+msgid "Anyone special on your mind?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Only you."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "I have a few folks that might fit the bill!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/7
+msgctxt "Miranda"
+msgid "... Oh please."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/15
+msgctxt "Miranda"
+msgid "You are such a liar! I mean, I'm totally worth it, but I don't know... I feel like you're playing me a little!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Not playing! I'm so sincere!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/7
+msgctxt "Miranda"
+msgid "Ok, since you're \"so sincere\", maybe you'd like to prove it?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/15
+msgctxt "Miranda"
+msgid "Like a little bit?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/23
+msgctxt "Miranda"
+msgid "How about you help me finish these lyrics?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Nothing would bring me greater pleasure."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Let's do this!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/7
+msgctxt "Miranda"
+msgid "Ay... nothing?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/15
+msgctxt "Miranda"
+msgid "You're so cute. I bet I can think of a couple of things that would feel even better than this..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "I am always open to suggestions, ya hottie!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "Pleasure's not such a big thing for me."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/c-0/13
+msgctxt "Miranda"
+msgid "Mmmmm nice! First things first though."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/c-0/21
+msgctxt "Miranda"
+msgid "We work before we play. A little bit."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/c-0/29
+msgctxt "Miranda"
+msgid "This song is about how hard it is to know if you've found The One."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/c-1/13
+msgctxt "Miranda"
+msgid "Huh. Ok. I guess that's a really good thing to know about yourself!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/c-1/21
+msgctxt "Miranda"
+msgid "For me, pleasure like, animates my whole existence. And making toast. But pleasure is definitely way more important."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/c-1/29
+msgctxt "Miranda"
+msgid "But onto the song! Especially if it feels so good for you, too!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-0/26/c-1/37
+msgctxt "Miranda"
+msgid "This one is about how hard it is to know if you've really found The One."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-1/7
+msgctxt "Miranda"
+msgid "Ooh, so enthusiastic!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-1/15
+msgctxt "Miranda"
+msgid "Let's write about... how hard it is to know if you've found The One."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-0/23/c-0/31/c-1/23
+msgctxt "Miranda"
+msgid "How about..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/7
+msgctxt "Miranda"
+msgid "A few? Wow... I guess I had a feeling you were kind of a player!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/15
+msgctxt "Miranda"
+msgid "And don't get me wrong, that's totally fine. You're dating around."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/23
+msgctxt "Miranda"
+msgid "I used to do that. Especially after that relationship broke up. But then I realized something."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "What was that?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/7
+msgctxt "Miranda"
+msgid "I was dating so much, so many different people, because I was unhappy."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/15
+msgctxt "Miranda"
+msgid "I was trying to distract myself from that, like, running away."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/23
+msgctxt "Miranda"
+msgid "I don't know if this is how it is for you, but if you're dating for the wrong reasons, you're just gonna end up getting hurt."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/31
+msgctxt "Miranda"
+msgid "Or hurting someone else."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/39
+msgctxt "Miranda"
+msgid "And I have some really good friends out there, objects I love. Objects I wouldn't want to see hurt."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/47
+msgctxt "Miranda"
+msgid "Do you get what I'm saying here?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/0/s/0
+msgctxt "Choix"
+msgid "Yup. I've got it."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/1/s/0
+msgctxt "Choix"
+msgid "It's just dating. It's no biggie."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-0/13
+msgctxt "Miranda"
+msgid "Good."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-0/21
+msgctxt "Miranda"
+msgid "I'm glad I got through to you."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-0/29
+msgctxt "Miranda"
+msgid "Ay, dammit, I'm all worked up now."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-0/37
+msgctxt "Miranda"
+msgid "I can't write right now. I have to go calm down and maybe not be around you. Just for a little."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-0/45
+msgctxt "Miranda"
+msgid "Don't worry, we're cool. I think. I just..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-0/53
+msgctxt "Miranda"
+msgid "I don't know, I gotta go dance or something."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-0/61
+msgctxt "Miranda"
+msgid "Later!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-1/13
+msgctxt "Miranda"
+msgid "Hm. Yeah. No biggie."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-1/21
+msgctxt "Miranda"
+msgid "That's totally the point I was making just now."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-1/29
+msgctxt "Miranda"
+msgid "Well. Since you totally didn't get it and also appear not to care, I don't think your perspective is really what I'm looking for on this song."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-1/37
+msgctxt "Miranda"
+msgid "In fact, I gotta go. Or you gotta go. One of the other. You go. That would probably make me feel good, if you left."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlove/0/c-1/39/g-0/8/c-1/31/c-0/55/c-1/45
+msgctxt "Miranda"
+msgid "Buh-bye!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/0 miranda_toaster/neverbeeninlovesong2/0/0
+msgctxt "Miranda"
+msgid "I was thinking the melody could go like this..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/8 miranda_toaster/neverbeeninlovesong2/0/8
+msgctxt "Narrator"
+msgid "Miranda hums a catchy little tune."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/19 miranda_toaster/neverbeeninlovesong2/0/19
+msgctxt "Miranda"
+msgid "Does that inspire anything?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/27/s/0
+msgctxt "Choix"
+msgid "<i>Every time I see your face / I wanna run to your embrace</i>"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/28/s/0
+msgctxt "Choix"
+msgid "<i>I'm falling for you, but I'm afraid it's phony.</i>"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/c-0/13
+msgctxt "Miranda"
+msgid "I like it! I think you might have a knack for songwriting."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/c-1/13
+msgctxt "Miranda"
+msgid "Oooh, phony. That's great! Ay, I've seen this like, so many times, where you think you feel something and you don't..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/c-1/21
+msgctxt "Miranda"
+msgid "... or you think somebody else feels something and then THEY don't... so annoying."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/c-1/29
+msgctxt "Miranda"
+msgid "I hope your feelings for me aren't like that."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/c-1/37/0/s/0
+msgctxt "Choix"
+msgid "No! Never!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/c-1/37/1/s/0
+msgctxt "Choix"
+msgid "Miranda. Dulcita. How could you say that."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong1/0/g-0/0
+msgctxt "Miranda"
+msgid "Jajajaja, don't worry, I'm messing with you."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong2/0/27/s/0
+msgctxt "Choix"
+msgid "<i>Like a fiery heart, we burned as one / Blazing up til we were done</i>"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong2/0/28/s/0
+msgctxt "Choix"
+msgid "<i>When will I have piece of mind / Where's the one that's right for me?</i>"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong2/0/c-0/13
+msgctxt "Miranda"
+msgid "Jaja! I mean, lyrics aside, that might be part of your problem!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong2/0/c-0/21
+msgctxt "Miranda"
+msgid "As a lyric, though, it's great. It's hard to know who is real and who isn't when you're always having a good time!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong2/0/c-1/13
+msgctxt "Miranda"
+msgid "Oooh this just got so deep..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong2/0/c-1/21
+msgctxt "Miranda"
+msgid "Like, how do you know when you're done having fun and you're ready for something like, more real or more heartfelt?"
+msgstr ""
+
+#: miranda_toaster/neverbeeninlovesong2/0/c-1/29
+msgctxt "Miranda"
+msgid "Really introspective. Excellente."
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/0
+msgctxt "Miranda"
+msgid "Y'know what, this actually gives me a great start... I think I'm gonna finish this one up on my own! Feeling inspired."
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/11
+msgctxt "Miranda"
+msgid "This was fun! Thank you for helping me."
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/19/s/0
+msgctxt "Choix"
+msgid "Totally my pleasure, cutie! Love being around you."
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/20/s/0
+msgctxt "Choix"
+msgid "You've got me considering writing my own music."
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/21/s/0
+msgctxt "Choix"
+msgid "That was pretty fun if you ask me..."
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/c-1/13
+msgctxt "Miranda"
+msgid "Gasp. Really?? Ay, you'd be so good! Definitely do it!!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/g-0/0
+msgctxt "Miranda"
+msgid "I officially can't wait to see you again!"
+msgstr ""
+
+#: miranda_toaster/neverbeeninloveend/0/g-0/8
+msgctxt "Miranda"
+msgid "Don't be gone too long!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/4
+msgctxt "Miranda"
+msgid "Well well, looking SO fresh and crispy! Kinda wanna spread jam on you and take a big bite."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/15
+msgctxt "Miranda"
+msgid "Did you freshen up just for lil' cutie Miranda Dulcita?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/23/s/0
+msgctxt "Choix"
+msgid "You bet I did! You're worth it."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/24/s/0
+msgctxt "Choix"
+msgid "Nah... I always look this good."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/25/s/0
+msgctxt "Choix"
+msgid "If by freshen up you mean 'thought about brushing my teeth but didn't'... yes."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/c-0/7
+msgctxt "Miranda"
+msgid "Ay, you are so sweet!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/c-0/15
+msgctxt "Miranda"
+msgid "I mean, you are so right, but you are so sweet!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/c-1/7
+msgctxt "Miranda"
+msgid "Ja! Once again, comin' in with that confidence."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/c-1/15
+msgctxt "Miranda"
+msgid "I always look this good, too. It's so nice to be on a date with someone who is just as naturally sexy as I am."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/c-1/23
+msgctxt "Miranda"
+msgid "Although, to be clear, I am this sexy when I first plug in in the morning, too. The sexy just IS, me entiendes?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/c-1/31
+msgctxt "Miranda"
+msgid "I know you do."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/c-2/7
+msgctxt "Miranda"
+msgid "Okay... I'll keep that in mind if kissing is on the menu then..."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/0
+msgctxt "Miranda"
+msgid "So so so, we are on our date, officially, it's happening, the day is here, let's do this!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/8
+msgctxt "Miranda"
+msgid "I'm gonna be super generous and let you choose the first thing we talk about."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/16
+msgctxt "Miranda"
+msgid "Mostly because we both know that I would choose to talk about music first last and forever, so I'm gonna give you the option of talking about something else."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/24
+msgctxt "Miranda"
+msgid "Like, for a second, at least."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "Tell me about your band!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "Tell me about you."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/7
+msgctxt "Miranda"
+msgid "My band? Ay, you're amazing, you picked music anyway!!! So many points for you, so so many."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/21
+msgctxt "Miranda"
+msgid "My band is totally amazing."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/32
+msgctxt "Miranda"
+msgid "We only started working together a few months ago, but we're already like, so completely in sync."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/40
+msgctxt "Miranda"
+msgid "It's way better than the last group I was in. Ay, that was really rough."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/0/s/0
+msgctxt "Choix"
+msgid "Oh yeah? What happened there?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/7
+msgctxt "Miranda"
+msgid "So many things, it's hard to remember what like, set it off..."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/15
+msgctxt "Miranda"
+msgid "...We were great for a little while, wrote a lot of good stuff and then..."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/23
+msgctxt "Miranda"
+msgid "They just wanted me to be things I couldn't be, do things that I couldn't do."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/31
+msgctxt "Miranda"
+msgid "After a while, it was like I couldn't do anything right. I just felt so self-conscious, you know?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/39
+msgctxt "Miranda"
+msgid "I was overthinking, my lyrics sucked..."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "I can't picture you insecure."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/1/s/0
+msgctxt "Choix"
+msgid "I'm sorry that happened."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-0/7
+msgctxt "Miranda"
+msgid "I know! It's like super alien and weird, right? Because I'm so self-assured and confident now."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-0/15
+msgctxt "Miranda"
+msgid "I worked really hard to get where I am."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-0/23
+msgctxt "Miranda"
+msgid "And the band I have now... they are the best. They're always so encouraging and loving."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-0/31
+msgctxt "Miranda"
+msgid "I love them. We really depend on each other in a lot of ways, you know?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-0/39
+msgctxt "Miranda"
+msgid "We push each other to always be our best."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/13
+msgctxt "Miranda"
+msgid "Ay, me too, trust me."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/21
+msgctxt "Miranda"
+msgid "Although honestly, I'm really grateful, too. I wouldn't have had to do all this work to feel better about myself without that experience."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/29
+msgctxt "Miranda"
+msgid "And I definitely wouldn't have found the band I have now!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/37
+msgctxt "Miranda"
+msgid "They love me for exactly who I am. And I love them right back! It's so cute. It's like, a little gross, it's so cute. But it's great, you know?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/45
+msgctxt "Miranda"
+msgid "Sometimes I'm a bit hotter, sometimes colder, and they just... Understand."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/53
+msgctxt "Miranda"
+msgid "Isn't that sweet?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/0/s/0
+msgctxt "Choix"
+msgid "That's very sweet."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/1/s/0
+msgctxt "Choix"
+msgid "I don't have friends like that."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/c-0/13
+msgctxt "Miranda"
+msgid "Jaja. Good answer."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/c-1/7
+msgctxt "Miranda"
+msgid "Ay. You're gonna make me so sad on our date."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/c-1/15
+msgctxt "Miranda"
+msgid "One day you will. If you really want it, you can do it."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/c-1/23
+msgctxt "Miranda"
+msgid "Also, you totally have me. I'm a friend. And I'm definitely an amazing friend so, count yourself lucky."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/g-0/0
+msgctxt "Miranda"
+msgid "Oh my gosh, I'm talking about my band a lot, huh?"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-3/51/c-0/47/c-1/61/g-0/8
+msgctxt "Miranda"
+msgid "You did ask, though!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/7
+msgctxt "Miranda"
+msgid "Me? Jaja... my second favorite topic, gotta be honest!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/15
+msgctxt "Miranda"
+msgid "Ok. Where to start."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/23
+msgctxt "Miranda"
+msgid "So, I grew up loving music. Mis padres queridos told me I was made to sing."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/31
+msgctxt "Miranda"
+msgid "I was in a restaurant, and oh my god you've never had tamales like these, they were unREAL."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/39
+msgctxt "Miranda"
+msgid "I used to sing when the food was ready, and it turned out that the customers really liked it."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/47
+msgctxt "Miranda"
+msgid "So my mama built a little stage over by the big window as like, a show for the customers in the evenings, and I would perform!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/55
+msgctxt "Miranda"
+msgid "I guess the rest is history... I haven't stopped performing since!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/0/s/0
+msgctxt "Choix"
+msgid "Sounds like your parents really supported you."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/1/s/0
+msgctxt "Choix"
+msgid "You knew what you wanted from such a young age!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/c-0/7
+msgctxt "Miranda"
+msgid "They totally did."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/c-0/15
+msgctxt "Miranda"
+msgid "My dad was a little tougher... he really wanted me to be a cook, like he was. A toaster oven... kind of like Stefan."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/c-0/23
+msgctxt "Miranda"
+msgid "But I swear, beyond making things hot and crispy, I'm like, totally useless in the kitchen."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/c-0/31
+msgctxt "Miranda"
+msgid "I once tried to toast refried beans and I thought my dad was gonna collapse right onto the floor and cry!"
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/c-0/39
+msgctxt "Miranda"
+msgid "He came around, though. When he saw how happy singing made me."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/c-1/7
+msgctxt "Miranda"
+msgid "Yep! I've never had a doubt."
+msgstr ""
+
+#: miranda_toaster/officialdate/0/g-0/c-4/63/c-1/15
+msgctxt "Miranda"
+msgid "I guess I'm super lucky in that way!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/0
+msgctxt "Miranda"
+msgid "But let's talk about you now! Tell me a little more about yourself! What do you do for fun? Do you like books, or movies, or like, what do you do to relax?"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/11/s/0
+msgctxt "Choix"
+msgid "I love to listen to music, actually."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/12/s/0
+msgctxt "Choix"
+msgid "I love video games."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/7
+msgctxt "Miranda"
+msgid "Ay! I knew it. There had to be like, a really deep reason we connected so well."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/15
+msgctxt "Miranda"
+msgid "Do you have a favorite genre?"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Rock."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Soft Indie."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/2/s/0
+msgctxt "Choix"
+msgid "Latin Pop."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-0/7
+msgctxt "Miranda"
+msgid "Oh wow, ok... I weirdly don't know that much about rock, like I don't listen to it myself that much..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-0/15
+msgctxt "Miranda"
+msgid "At least in English!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-0/23
+msgctxt "Miranda"
+msgid "I love listening to music in other languages. It's like a sneaky way of going to these other countries, even though I've never really travelled anywhere."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-1/13
+msgctxt "Miranda"
+msgid "See, that's probably my favorite, too. I really enjoy the soft contemporary sound."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-1/21
+msgctxt "Miranda"
+msgid "I actually want to pitch these softer ballads you and I have been writing to the band..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-1/29
+msgctxt "Miranda"
+msgid "I'm a little nervous! I really like them... and I really care what my band thinks, so... huy!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-1/37/0/s/0
+msgctxt "Choix"
+msgid "I'm sure it'll be ok."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-1/37/1/s/0
+msgctxt "Choix"
+msgid "Won't know until you try!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-1/37/g-0/0
+msgctxt "Miranda"
+msgid "Yeah... yeah, you're probably right..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-1/37/g-0/8
+msgctxt "Miranda"
+msgid "Ay, I'm just all nervous now! Ask me another question, but like about something else."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-2/13
+msgctxt "Miranda"
+msgid "Oh you charmer!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-2/24
+msgctxt "Miranda"
+msgid "That's of course <i>my</i> favorite too!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-2/32
+msgctxt "Miranda"
+msgid "But that was an easy one."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-0/23/c-2/40
+msgctxt "Miranda"
+msgid "Ask me another question, but like about something else."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/7
+msgctxt "Miranda"
+msgid "Ooh, nice, ok! I haven't played games in forever... I remember I really like them when I was a kid, though."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/15
+msgctxt "Miranda"
+msgid "What are you playing right now?"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Papier-Mâché Man: The Newly Refurbished Door."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "Tennis with Enemies."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/2/s/0
+msgctxt "Choix"
+msgid "I'm playing Date Everything right now."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-0/7
+msgctxt "Miranda"
+msgid "Ay, that's such a classic! Papier-mâché Man has a very special place in my heart."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-0/15
+msgctxt "Miranda"
+msgid "I play it every few years, actually. It's like visiting an old friend."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-0/23
+msgctxt "Miranda"
+msgid "Huh. I'm realizing right now that playing games is kind of my way of traveling to other places, since I haven't really travelled before."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-1/7
+msgctxt "Miranda"
+msgid "Nice! I know that one! It's so funny, I was playing that one with the Migas not too long ago and it took all of them playing on one team to beat me!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-1/15
+msgctxt "Miranda"
+msgid "Which is not saying like, that I'm so good at tennis, but like, they're so little that handling the controller was a group effort for them."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-1/23
+msgctxt "Miranda"
+msgid "They're so great. I'd love to be able to take them somewhere amazing and play a real game of tennis someday."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/7
+msgctxt "Miranda"
+msgid "Date Everything."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/15
+msgctxt "Miranda"
+msgid "That sounds really interesting. What's it about?"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "I get to walk around my house and date every object in it."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "It's about making friends."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/2/s/0
+msgctxt "Choix"
+msgid "I don't know, actually. I don't get it."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/7
+msgctxt "Miranda"
+msgid "Oh wow! That's amazing! Like, you could date... wait..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/15
+msgctxt "Miranda"
+msgid "You could date... your toaster?"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Exactly. You got it."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "And she's becoming my favorite..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/g-0/0
+msgctxt "Miranda"
+msgid "Ay, wow. This sounds like a game that you should continue to play. Like, a lot."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/g-0/8
+msgctxt "Miranda"
+msgid "For your health."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "I agree!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "Of course. For health. Not for fun."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/g-0/16/c-1/7
+msgctxt "Miranda"
+msgid "Well of course for FUN! If life isn't fun, what is the POINT? So for both things. Health and fun."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/g-0/16/c-1/15
+msgctxt "Miranda"
+msgid "I mean duh... dating me is clearly good for you."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-0/23/g-0/16/g-0/0
+msgctxt "Miranda"
+msgid "So ask me more questions! Let's keep our date rollin'! I don't think I've ever had such a great just like, conversation with someone before."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/7
+msgctxt "Miranda"
+msgid "Awwww, really? That's so nice!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/15
+msgctxt "Miranda"
+msgid "Friends are so important."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/23
+msgctxt "Miranda"
+msgid "I think it's so easy to forget or like, to not even notice all the potential for good friends that's around us all the time."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/31
+msgctxt "Miranda"
+msgid "Have you made friends, yet? In the game?"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "Yeah, this toaster Miranda is pretty awesome..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/1/s/0
+msgctxt "Choix"
+msgid "Eh, not yet. I'm hopeful, though!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-0/13
+msgctxt "Miranda"
+msgid "Awww. I mean... I have to agree with you... the toaster Miranda Dulcita is probably the coolest thing you're going to encounter like, ever in your life."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-0/21
+msgctxt "Miranda"
+msgid "Congratulations to you for meeting her."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-0/29
+msgctxt "Miranda"
+msgid "And congratulations to me, for meeting you."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-0/37
+msgctxt "Miranda"
+msgid "This is the best date ever."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-0/45
+msgctxt "Miranda"
+msgid "Keep it goin'! Ask some more \"good date\" questions."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-1/13
+msgctxt "Miranda"
+msgid "Hope is good! Kinda hard to believe you haven't met anyone you've liked so far..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-1/21
+msgctxt "Miranda"
+msgid "But whatever."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-1/39/c-1/29
+msgctxt "Miranda"
+msgid "Hey, let's move on. Ask me some more datey questions!"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/7
+msgctxt "Miranda"
+msgid "You don't get it. Like, it's really complicated or something?"
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Nah... not complicated just... weird."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Yeah. SUPER complicated. It's dumb."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/g-0/6
+msgctxt "Miranda"
+msgid "Huh. Well. I'm sorry that this game isn't meeting your expectations."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/g-0/14
+msgctxt "Miranda"
+msgid "I'm not like, sorry sorry, because even if I could do something about your \"problem\", I probably wouldn't..."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/g-0/22
+msgctxt "Miranda"
+msgid "...but I'm sorry you're missing out on the chance to have a good time with literally EVERYTHING."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/g-0/30
+msgctxt "Miranda"
+msgid "Ay, you know, I'm actually really tired."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/g-0/38
+msgctxt "Miranda"
+msgid "Of this date, specifically."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/g-0/46
+msgctxt "Miranda"
+msgid "I'm gonna go put on pj's and watch a movie with Telly."
+msgstr ""
+
+#: miranda_toaster/datepart2/0/c-1/23/c-2/23/c-2/15/g-0/57
+msgctxt "Miranda"
+msgid "See ya! Maybe."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/0/s/0
+msgctxt "Choix"
+msgid "Ok! If you could travel anywhere in the world, where would you go?"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/1/s/0
+msgctxt "Choix"
+msgid "If you could have any food in the world, what would it be?"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/13
+msgctxt "Miranda"
+msgid "What a good question!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/21
+msgctxt "Miranda"
+msgid "I've always wanted to go to Brazil. The food, the carnivale, the locals who are so cool and interesting... ay, it would be so fun!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/29
+msgctxt "Miranda"
+msgid "And I love going to the beach."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/37
+msgctxt "Miranda"
+msgid "Do you travel a lot?"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/0/s/0
+msgctxt "Choix"
+msgid "All the time."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/1/s/0
+msgctxt "Choix"
+msgid "I never leave my house."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-0/13
+msgctxt "Miranda"
+msgid "I'm so jealous!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-0/21
+msgctxt "Miranda"
+msgid "One day, when I have a partner I really love, I'm totally gonna travel."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-0/29
+msgctxt "Miranda"
+msgid "See the sights, you know? Oh wait, I totally have partners to travel with."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-0/37
+msgctxt "Miranda"
+msgid "Me and the Migas could go on a tour!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-1/7
+msgctxt "Miranda"
+msgid "Ay, that's so sad! Unless you really love being in your house, in which case, good for you, that's awesome!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-1/15
+msgctxt "Miranda"
+msgid "Even if you love your house, though, I would say go out and have some adventures."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-1/23
+msgctxt "Miranda"
+msgid "Take charge in life. Live it to the fullest!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-1/31
+msgctxt "Miranda"
+msgid "I know I know, it sounds cheesy... but frankly? There is absolutely nothing wrong with cheese. We all like cheese. We all need a lil' cheese in life sometimes."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-0/45/c-1/39
+msgctxt "Miranda"
+msgid "I tell the Migas all the time, be not afraid of the queso."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-1/7
+msgctxt "Miranda"
+msgid "Um, my dad's tamales. Without question."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-1/15
+msgctxt "Miranda"
+msgid "I don't think you're getting it. My dad's tamales could literally cause world peace. If he could like, make enough of them at one time."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-1/23
+msgctxt "Miranda"
+msgid "Really hard to argue with someone if you're both busy chewing on the best tamale you've ever tasted!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-1/31
+msgctxt "Miranda"
+msgid "Also. Did you know. There are some places in the world where nobody has ever tasted a tamale?"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-1/39
+msgctxt "Miranda"
+msgid "I swear. I get SO sad when I think about that."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/c-1/47
+msgctxt "Miranda"
+msgid "It even makes me sad to think that the Migas will never taste my dad's tamales. He's gone now, so. Impossible."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/0
+msgctxt "Miranda"
+msgid "Ay, and there I go, talking about my band again!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "It's cute."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "Truthfully, it's really annoying."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-2/13
+msgctxt "Miranda"
+msgid "It is cute, isn't it. It's so nice to have friends I love so much. Maybe you can meet them one day!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-2/21
+msgctxt "Miranda"
+msgid "Don't worry, they're super nice. I'll tell them to be super nice."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-2/29
+msgctxt "Miranda"
+msgid "Listen, I gotta get going. This has been so great... just getting a little sleepy."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-2/37
+msgctxt "Miranda"
+msgid "I hope I'll see you again?"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-2/45/0/s/0
+msgctxt "Choix"
+msgid "Definitely."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-3/13
+msgctxt "Miranda"
+msgid "Ja! It's annoying? Wow, I am SO sorry that I annoyed you with how much I love my friends!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-3/24
+msgctxt "Miranda"
+msgid "Jeez. What a weird thing to be annoyed by. And what a rude way to say it to me!"
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-3/32
+msgctxt "Miranda"
+msgid "It's good timing, though, because I gotta go."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-3/40
+msgctxt "Miranda"
+msgid "I'm getting tired... you've just started to really bug me... and I gotta write."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-3/48
+msgctxt "Miranda"
+msgid "I'm super creative and the juices are flowing now so I gotta honor that."
+msgstr ""
+
+#: miranda_toaster/datepart3/0/g-0/c-3/56
+msgctxt "Miranda"
+msgid "Maybe I'll see you later! When you're done being annoyed by friendship!"
+msgstr ""
+
+#: miranda_toaster/loveending/0/0
+msgctxt "Miranda"
+msgid "Hey! Ay, I am so happy to see you!"
+msgstr ""
+
+#: miranda_toaster/loveending/0/8
+msgctxt "Miranda"
+msgid "I had such a great time on our date. Like, a really good time."
+msgstr ""
+
+#: miranda_toaster/loveending/0/16
+msgctxt "Miranda"
+msgid "I'm kinda wondering, well, maybe if..."
+msgstr ""
+
+#: miranda_toaster/loveending/0/25/s/0
+msgctxt "Choix"
+msgid "You want to keep dating, don't you."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-0/13
+msgctxt "Miranda"
+msgid "Ay, look at you, making me sweat!"
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-0/24
+msgctxt "Miranda"
+msgid "It's so annoying that that's actually kinda sexy."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-0/35
+msgctxt "Miranda"
+msgid "Would you want to maybe keep this going?"
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-0/43/0/s/0
+msgctxt "Choix"
+msgid "I'd love to."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-0/43/1/s/0
+msgctxt "Choix"
+msgid "I mean, I'd love to... but as friends?"
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-0/43/c-0/7
+msgctxt "Miranda"
+msgid "Siii!! Ay, I knew you'd say yes! I mean, I didn't know for sure but like, it would've been super weird and kind of shortsighted of you to say no to that."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-0/43/c-0/15
+msgctxt "Miranda"
+msgid "'cuz I'm awesome."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-1/7
+msgctxt "Miranda"
+msgid "Noo! I mean..."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-1/15
+msgctxt "Miranda"
+msgid "Yes..."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-1/23
+msgctxt "Miranda"
+msgid "Ay, I'm not used to someone being able to read me that well! Not that I'm mysterious or anything. I'm pretty what-you-see-is-what-you-get... but still."
+msgstr ""
+
+#: miranda_toaster/loveending/0/c-1/31
+msgctxt "Miranda"
+msgid "Oh, right, yes. Yes I really want to keep dating!"
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/0
+msgctxt "Miranda"
+msgid "I think this is a really good thing."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/8
+msgctxt "Miranda"
+msgid "I don't know what it is about you! Everything just feels... easy with you. And we've written songs together."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/16
+msgctxt "Miranda"
+msgid "You don't get it, I don't write with anyone else usually, only the Migas and that's only when I really need help."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "I feel sparks with you."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "I feel like I'm in a movie with you."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-2/7
+msgctxt "Miranda"
+msgid "Sparks! Awww."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-2/18
+msgctxt "Miranda"
+msgid "Ok, I totally know where you're going with that and I definitely feel it, too."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-2/26
+msgctxt "Miranda"
+msgid "But like, truthfully, sparks, plus toaster, not a great combo. They're like emotional sparks, and I love it."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-2/34
+msgctxt "Miranda"
+msgid "But if you ever feel physical sparks, then we have like, a whole 'nother problem that needs to be addressed like, NOW."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-2/42
+msgctxt "Miranda"
+msgid "Me entiendes?"
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-2/50
+msgctxt "Miranda"
+msgid "Don't answer. I know you do, amor."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-3/7
+msgctxt "Miranda"
+msgid "A movie! Si! Ay, I hadn't even thought about that..."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-3/15
+msgctxt "Miranda"
+msgid "... I could be in a movie. We could totally make a movie about the life of Miranda. We could write it together!"
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-3/23
+msgctxt "Miranda"
+msgid "I think you'd agree that we like, totally have enough drama and narrative tension to make a really killer movie."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-0/c-3/31
+msgctxt "Miranda"
+msgid "Hm. Si. I'm gonna have to like, really ponder this one."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/0
+msgctxt "Miranda"
+msgid "I have to get back to working on the album or my bandmates will kill me."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/8
+msgctxt "Miranda"
+msgid "I mean, not literally kill me. Because they are like so tiny and also because they love me a lot..."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/16
+msgctxt "Miranda"
+msgid "... but you're kind of all I've been talking about lately."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/24
+msgctxt "Miranda"
+msgid "Ay, dios it's so much fun to be in love!"
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/32
+msgctxt "Miranda"
+msgid "I'll see you later, ok?"
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "Bye, Miranda Dulcita."
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "See you later!"
+msgstr ""
+
+#: miranda_toaster/loveending/0/g-1/c-4/7
+msgctxt "Miranda"
+msgid "Mmm... call me more names in Spanish, mi amor..."
+msgstr ""
+
+#: miranda_toaster/miranda_friend_divert/0
+msgctxt "Miranda"
+msgid "Oh! Wow... um,"
+msgstr ""
+
+#: miranda_toaster/miranda_friend_divert/11
+msgctxt "Miranda"
+msgid "... I have to say I'm really not used to being friend-zoned like that."
+msgstr ""
+
+#: miranda_toaster/miranda_friend_divert/19
+msgctxt "Miranda"
+msgid "Usually I spend so much of my energy fending off fans, potential lovers, etcetera. I'm pretty popular."
+msgstr ""
+
+#: miranda_toaster/miranda_friend_divert/27
+msgctxt "Miranda"
+msgid "But for you, yes. I could see us being friends."
+msgstr ""
+
+#: miranda_toaster/miranda_friend_divert/35
+msgctxt "Miranda"
+msgid "I'll just keep my burners toasty for the true love that's coming!"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/0
+msgctxt "Narrator"
+msgid "Miranda's normally smiling face is a stone-cold frown when she sees you."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/11
+msgctxt "Miranda"
+msgid "Oh. Hi. What."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/19/s/0
+msgctxt "Choix"
+msgid "I wanted to talk to you about earlier."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/20/s/0
+msgctxt "Choix"
+msgid "Still mad, huh?"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/0
+msgctxt "Miranda"
+msgid "What do you want?"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "I'm sorry."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Ok. Can you lighten up a little?"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/7
+msgctxt "Miranda"
+msgid "Oh you are. Really? Sorry for being a jerk?"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "For being a jerk."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "I was NOT a jerk."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/7
+msgctxt "Miranda"
+msgid "Hm."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/15
+msgctxt "Miranda"
+msgid "I'm... I really didn't think you were gonna admit to having a been a jerk. I'm impressed."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/23
+msgctxt "Miranda"
+msgid "Now, the important question, in terms of like, self-growth and stuff, is why. Why were you a jerk?"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I'm insecure."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "I don't know..."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/c-0/7
+msgctxt "Miranda"
+msgid "Ok... that's fair. I've totally been there."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/c-0/15
+msgctxt "Miranda"
+msgid "You really can't take that out on the folks around you, though."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/c-0/23
+msgctxt "Miranda"
+msgid "Plus, you don't have any reason to be insecure. Aside from the brief being-a-jerk thing, which you've even made better now by like, owning it, you're really cool."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/c-0/31
+msgctxt "Miranda"
+msgid "I think you deserve to have a lot more confidence."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/c-1/7
+msgctxt "Miranda"
+msgid "Ok. I get that. It's hard to know yourself sometimes."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/c-1/15
+msgctxt "Miranda"
+msgid "Honestly, though, try to figure it out."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/c-1/23
+msgctxt "Miranda"
+msgid "Your life's probably gonna get a lot better if you can see what's going on and like, make a different choice."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-0/31/g-0/0
+msgctxt "Miranda"
+msgid "But until then, can we just... start over and be friends?"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-1/7
+msgctxt "Miranda"
+msgid "Ja! You came all the way in here, you got my attention, you said you were gonna apologize and then there you go, like not apologizing??"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-1/15
+msgctxt "Miranda"
+msgid "I'm done. Bastante."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-1/23
+msgctxt "Miranda"
+msgid "I barely have time for all the great things in my world, so I sure as hell do not have time for shitty nonsense like this!"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-2/15/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Wait a second!"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-3/7
+msgctxt "Miranda"
+msgid "I'm sorry, lighten up? I'm the one who needs to lighten up??"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-3/18
+msgctxt "Miranda"
+msgid "You basically just came in here and wasted my time, and acted like a jerk, again, and then insult me by trying to tell me that I'm the one with a problem??"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-3/26
+msgctxt "Miranda"
+msgid "No pienso que si. UH UH."
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-3/34
+msgctxt "Miranda"
+msgid "I'm so sick of this. Ay! So done!"
+msgstr ""
+
+#: miranda_toaster/finalchance/0/g-0/c-3/42/0/s/0
+msgctxt "Choix"
+msgid "Wait, please!"
+msgstr ""
+
+#: miranda_toaster/friendship/0/b/1
+msgctxt "Miranda"
+msgid "Hey, I know that like, we talked about dating, maybe, if we were feeling it..."
+msgstr ""
+
+#: miranda_toaster/friendship/0/b/9
+msgctxt "Miranda"
+msgid "But I'm just not thinking that it's a good idea. Just doesn't feel right."
+msgstr ""
+
+#: miranda_toaster/friendship/0/b/17
+msgctxt "Miranda"
+msgid "I think we're better off being friends... Don't you?"
+msgstr ""
+
+#: miranda_toaster/friendship/3/b/1
+msgctxt "Miranda"
+msgid "So listen. The way you've been helping me out with the music lately is like, really great. I'm so grateful."
+msgstr ""
+
+#: miranda_toaster/friendship/3/b/9
+msgctxt "Miranda"
+msgid "You've been a real friend."
+msgstr ""
+
+#: miranda_toaster/friendship/3/b/17
+msgctxt "Miranda"
+msgid "Kinda wondering if you'd like to continue with the job?"
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/0/s/0
+msgctxt "Choix"
+msgid "Yeah. I'd really like that. Let's be friends!"
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/1/s/0
+msgctxt "Choix"
+msgid "I want more than that, Miranda, and you know it."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/7
+msgctxt "Miranda"
+msgid "Ay! Ok, I'm so glad. I think you're pretty neat."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/18
+msgctxt "Miranda"
+msgid "You really deserve to find someone special, ok? And I know they're out there for you."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Thanks, Miranda."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "Y'know what? I think you're right!"
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/26/c-0/7
+msgctxt "Miranda"
+msgid "¡Claro!"
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/26/c-0/15
+msgctxt "Miranda"
+msgid "Feel free to come say hi anytime."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/26/c-1/7
+msgctxt "Miranda"
+msgid "Um... we have established this like, multiple times?"
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-0/26/c-1/15
+msgctxt "Miranda"
+msgid "Of course I'm right."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/7
+msgctxt "Miranda"
+msgid "Ay. Please don't make this harder than it has to be."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/15
+msgctxt "Miranda"
+msgid "I just don't see you like that, ok? There's nothing like, wrong with you or anything, it's just not a fit for me."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/23
+msgctxt "Miranda"
+msgid "I see you like family! Like a sibling, a cousin or something!"
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/31
+msgctxt "Miranda"
+msgid "It's ok if you don't get this right now, you can take your time. But... that's just how I feel."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/39/0/s/0
+msgctxt "Choix"
+msgid "It's ok, Miranda. Don't worry about it."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/39/1/s/0
+msgctxt "Choix"
+msgid "I still don't like it. I just don't."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/39/c-0/7
+msgctxt "Miranda"
+msgid "I'm so glad! You're a real friend, ok? When you're ready."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/39/c-0/15
+msgctxt "Miranda"
+msgid "Come see me anytime."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/39/c-1/7
+msgctxt "Miranda"
+msgid "That's ok. You're allowed. I'm here whenever..."
+msgstr ""
+
+#: miranda_toaster/friendshipending/0/c-1/39/c-1/15
+msgctxt "Miranda"
+msgid "...if you ever want a friend."
+msgstr ""
+
+#: miranda_toaster/hateending/0/0
+msgctxt "Miranda"
+msgid "Why??"
+msgstr ""
+
+#: miranda_toaster/hateending/0/8/s/0
+msgctxt "Choix"
+msgid "I just want to talk, Miranda."
+msgstr ""
+
+#: miranda_toaster/hateending/0/9/s/0
+msgctxt "Choix"
+msgid "Can we please start over?"
+msgstr ""
+
+#: miranda_toaster/hateending/0/c-1/7
+msgctxt "Miranda"
+msgid "Firstly, you are not my friend, you do NOT call me Miranda, you call me Pan Dulce Tostadora."
+msgstr ""
+
+#: miranda_toaster/hateending/0/c-1/18
+msgctxt "Miranda"
+msgid "Secondly, for what? What are you gonna do with our do-over?"
+msgstr ""
+
+#: miranda_toaster/hateending/0/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "I don't know, just some toast and a talk?"
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/0
+msgctxt "Miranda"
+msgid "Nope. You had lots of chances to talk. No more."
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/8
+msgctxt "Miranda"
+msgid "This relationship, ay I hate that I just used that word..."
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/16
+msgctxt "Miranda"
+msgid "...burnt to a crisp."
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/24
+msgctxt "Miranda"
+msgid "And I don't want to talk to you."
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "Oh, come ON! You're being ridiculous!"
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/c-3/7
+msgctxt "Miranda"
+msgid "Right. And my not wanting to talk to you is like some HUGE mystery, right? Que broma!"
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/c-3/15
+msgctxt "Miranda"
+msgid "I want nothing to do with you."
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/c-3/23
+msgctxt "Miranda"
+msgid "The next time you need toast, go talk to Stefan."
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-0/c-3/31
+msgctxt "Miranda"
+msgid "Adios!"
+msgstr ""
+
+#: miranda_toaster/hateending/0/g-1/34
+msgctxt "Reggie"
+msgid "You played games and you got <i>burnt</i>. Well done!"
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/0
+msgctxt "Narrator"
+msgid "For the first time since you've known her, Miranda looks a little nervous. She's still happy to see you, but you can tell by the way she fidgets that there's something on her mind."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/8
+msgctxt "Miranda"
+msgid "Hey, so, okay."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/16
+msgctxt "Miranda"
+msgid "This is like, a really exciting moment for me and also I'm a little nervous."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/24
+msgctxt "Miranda"
+msgid "Do you remember when you helped me out so much and we wrote those lyrics together?"
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/32/s/0
+msgctxt "Choix"
+msgid "Of course I do! We worked hard on those."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/33/s/0
+msgctxt "Choix"
+msgid "Lol. Really tempted to lie and say no, I don't."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/c-1/7
+msgctxt "Miranda"
+msgid "Ja! That would be really funny!"
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/c-1/15
+msgctxt "Miranda"
+msgid "I'm totally kidding, I would not laugh at ALL if you did that to me right now."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/g-0/0
+msgctxt "Miranda"
+msgid "So, I finished the song! Ok, not finished completely, but I really think there's something there and I want to share it with you."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/g-0/8
+msgctxt "Miranda"
+msgid "You wanna hear?"
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Um, YES?!"
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "I can't wait. Go for it!"
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/g-1/0
+msgctxt "Narrator"
+msgid "Miranda lifts one hand high in the air, calling out to her bandmates."
+msgstr ""
+
+#: miranda_toaster/singing_intro/0/g-1/14
+msgctxt "Miranda"
+msgid "Migas! Let's make some enchantment!"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/53 miranda_toaster/singing_burn/0/53
+msgctxt "Miranda"
+msgid "Sitting and staring at the wall"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/64 miranda_toaster/singing_burn/0/64
+msgctxt "Miranda"
+msgid "Wondering how we lost it all"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/75 miranda_toaster/singing_burn/0/75
+msgctxt "Miranda"
+msgid "And now I'm crying all alone"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/86 miranda_toaster/singing_burn/0/86
+msgctxt "Miranda"
+msgid "Wanted to just slow down the pace"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/97 miranda_toaster/singing_burn/0/97
+msgctxt "Miranda"
+msgid "I thought we just needed some space"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/108 miranda_toaster/singing_burn/0/108
+msgctxt "Miranda"
+msgid "But after all I'm on my own"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/119
+msgctxt "Miranda"
+msgid "Like a fragile vase chipped from the start"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/130
+msgctxt "Miranda"
+msgid "Shattering my loving heart"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/141
+msgctxt "Miranda"
+msgid "You broke every piece of me"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/152
+msgctxt "Miranda"
+msgid "Lying on the floor tonight"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/163
+msgctxt "Miranda"
+msgid "I miss when you would hold me tight"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/174
+msgctxt "Miranda"
+msgid "Tossed aside so easily (Why was it so easily?)"
+msgstr ""
+
+#: miranda_toaster/singing_vase/0/232/s/0 miranda_toaster/singing_burn/0/232/s/0 miranda_toaster/singing_horizon/0/232/s/0 miranda_toaster/singing_home/0/232/s/0 miranda_toaster/singing_afraid/0/232/s/0 miranda_toaster/singing_cantfind/0/232/s/0
+msgctxt "Choix"
+msgid "<i>Finish listening.</i>"
+msgstr ""
+
+#: miranda_toaster/singing_burn/0/119
+msgctxt "Miranda"
+msgid "Like a fiery heart, we burned as one"
+msgstr ""
+
+#: miranda_toaster/singing_burn/0/130
+msgctxt "Miranda"
+msgid "Blazing up 'til we were done"
+msgstr ""
+
+#: miranda_toaster/singing_burn/0/141
+msgctxt "Miranda"
+msgid "Embers left of you and me"
+msgstr ""
+
+#: miranda_toaster/singing_burn/0/152
+msgctxt "Miranda"
+msgid "Passion fanned the flames that night"
+msgstr ""
+
+#: miranda_toaster/singing_burn/0/163
+msgctxt "Miranda"
+msgid "We fought until the morning light"
+msgstr ""
+
+#: miranda_toaster/singing_burn/0/174
+msgctxt "Miranda"
+msgid "Left with nothing, charred debris (Nothing left for you and me)"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/53 miranda_toaster/singing_home/0/53
+msgctxt "Miranda"
+msgid "I never thought it could be true"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/64 miranda_toaster/singing_home/0/64
+msgctxt "Miranda"
+msgid "That I would find someone like you"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/75 miranda_toaster/singing_home/0/75
+msgctxt "Miranda"
+msgid "But here you are, in front of me"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/86 miranda_toaster/singing_home/0/86
+msgctxt "Miranda"
+msgid "Every time I see your face"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/97 miranda_toaster/singing_home/0/97
+msgctxt "Miranda"
+msgid "I wanna run to your embrace"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/108 miranda_toaster/singing_home/0/108
+msgctxt "Miranda"
+msgid "Your love is where I wanna be"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/119
+msgctxt "Miranda"
+msgid "The horizon sings to me our love"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/130
+msgctxt "Miranda"
+msgid "Sun shining in the skies above"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/141
+msgctxt "Miranda"
+msgid "Promising a brand new day"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/152
+msgctxt "Miranda"
+msgid "Look towards the sun and see us through"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/163
+msgctxt "Miranda"
+msgid "Warming up my love for you"
+msgstr ""
+
+#: miranda_toaster/singing_horizon/0/174
+msgctxt "Miranda"
+msgid "Bursting through the clouds of gray (Bursting through the clouds of gray)"
+msgstr ""
+
+#: miranda_toaster/singing_home/0/119
+msgctxt "Miranda"
+msgid "You're home to me, you're everything"
+msgstr ""
+
+#: miranda_toaster/singing_home/0/130
+msgctxt "Miranda"
+msgid "You're the reason that I sing"
+msgstr ""
+
+#: miranda_toaster/singing_home/0/141
+msgctxt "Miranda"
+msgid "Feeling safe when I'm with you"
+msgstr ""
+
+#: miranda_toaster/singing_home/0/152
+msgctxt "Miranda"
+msgid "You're the one I truly know"
+msgstr ""
+
+#: miranda_toaster/singing_home/0/163
+msgctxt "Miranda"
+msgid "You'll stay no matter where we go"
+msgstr ""
+
+#: miranda_toaster/singing_home/0/174
+msgctxt "Miranda"
+msgid "I am coming home to you (I am coming home to you)"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/53 miranda_toaster/singing_cantfind/0/53
+msgctxt "Miranda"
+msgid "Lost in my thoughts, I'm sitting here"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/64 miranda_toaster/singing_cantfind/0/64
+msgctxt "Miranda"
+msgid "Thinking of love and filled with fear"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/75 miranda_toaster/singing_cantfind/0/75
+msgctxt "Miranda"
+msgid "But am I just too scared to see?"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/86 miranda_toaster/singing_cantfind/0/86
+msgctxt "Miranda"
+msgid "Always there, but hard to find"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/97 miranda_toaster/singing_cantfind/0/97
+msgctxt "Miranda"
+msgid "When will I have that peace of mind?"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/108 miranda_toaster/singing_cantfind/0/108
+msgctxt "Miranda"
+msgid "Where is the one that's right for me?"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/119
+msgctxt "Miranda"
+msgid "On my own, I feel alright"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/130
+msgctxt "Miranda"
+msgid "Don't need someone to hold me tight"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/141
+msgctxt "Miranda"
+msgid "I know I can count on me"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/152
+msgctxt "Miranda"
+msgid "But when I first saw you there"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/163
+msgctxt "Miranda"
+msgid "Felt the love that's in the air"
+msgstr ""
+
+#: miranda_toaster/singing_afraid/0/174
+msgctxt "Miranda"
+msgid "Just the thought of what could be-- (Just the thought of what could be)"
+msgstr ""
+
+#: miranda_toaster/singing_cantfind/0/119
+msgctxt "Miranda"
+msgid "Always looking for my love"
+msgstr ""
+
+#: miranda_toaster/singing_cantfind/0/130
+msgctxt "Miranda"
+msgid "Someone that I'm thinking of"
+msgstr ""
+
+#: miranda_toaster/singing_cantfind/0/141
+msgctxt "Miranda"
+msgid "Why are you so hard to find?"
+msgstr ""
+
+#: miranda_toaster/singing_cantfind/0/152
+msgctxt "Miranda"
+msgid "I search around, but come up dry"
+msgstr ""
+
+#: miranda_toaster/singing_cantfind/0/163
+msgctxt "Miranda"
+msgid "Each hello ends with goodbye"
+msgstr ""
+
+#: miranda_toaster/singing_cantfind/0/174
+msgctxt "Miranda"
+msgid "Memories I left behind (I left it all behind)"
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/15
+msgctxt "Narrator"
+msgid "Miranda is lost in the emotion of the song for a few moments after she finishes. When she finally looks at you there's a clear vulnerability in her eyes, no matter how hard she tries not to show it."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/31
+msgctxt "Miranda"
+msgid "So? Opinions? Feedback? Are you struck wordless by the majesty that has just unfolded in front of your eyes, because if you are I would totally get that."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/39/s/0
+msgctxt "Choix"
+msgid "That was amazing!"
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/40/s/0
+msgctxt "Choix"
+msgid "I have some notes..."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-0/7
+msgctxt "Miranda"
+msgid "I'm so happy you liked it."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-0/15
+msgctxt "Miranda"
+msgid "That makes me feel all warm and well..."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Toasty?"
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "I am NOT gonna say it."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-0/23/c-0/7
+msgctxt "Miranda"
+msgid "Hey, you said it. Not me."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-0/23/c-1/7
+msgctxt "Miranda"
+msgid "Jajaja. Totally thought I was gonna get you with that one!"
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-0/23/g-0/0
+msgctxt "Miranda"
+msgid "Catch you later, okay?"
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-1/7
+msgctxt "Miranda"
+msgid "Ay. Ok... Um, tell you what."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-1/18
+msgctxt "Miranda"
+msgid "I don't think that creatively right now I can handle that..."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-1/26
+msgctxt "Miranda"
+msgid "... but I'll go gather myself and maybe I'll come back."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-1/34
+msgctxt "Miranda"
+msgid "Also, just for future reference, tact."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-1/42
+msgctxt "Miranda"
+msgid "Very important in a relationship with your appliances."
+msgstr ""
+
+#: miranda_toaster/after_song_joiner/0/c-1/50
+msgctxt "Miranda"
+msgid "Migas, don't worry. I think we did just fine."
+msgstr ""
+
+#: miranda_toaster/lovereturn/0/0
+msgctxt "Miranda"
+msgid "Hola, mi amor. I miss you already!"
+msgstr ""
+
+#: miranda_toaster/lovereturn/0/8
+msgctxt "Miranda"
+msgid "Don't be a stranger, ok?"
+msgstr ""
+
+#: miranda_toaster/lovereturn/0/16/s/0
+msgctxt "Choix"
+msgid "I promise."
+msgstr ""
+
+#: miranda_toaster/lovereturn/0/17/s/0
+msgctxt "Choix"
+msgid "I won't... because I'm here to Realize you!"
+msgstr ""
+
+#: miranda_toaster/lovereturn/0/c-0/7
+msgctxt "Narrator"
+msgid "Miranda gives you a passionate kiss before going off to practice with the Migas."
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/0
+msgctxt "Miranda"
+msgid "Hey, you're back! I am just writing up a storm so I can't talk right now..."
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/8
+msgctxt "Miranda"
+msgid "...but. Friend. Are you well? Is everything good?"
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/16/s/0
+msgctxt "Choix"
+msgid "I am doing great."
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/17/s/0
+msgctxt "Choix"
+msgid "Well... I'm here to Realize you!"
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/c-0/7
+msgctxt "Miranda"
+msgid "Ay, I'm so glad!!"
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/c-0/15
+msgctxt "Miranda"
+msgid "Always in your corner, you know!"
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Go, write like the wind!"
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/c-0/23/c-0/7
+msgctxt "Miranda"
+msgid "You'd better believe it!"
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/c-0/23/c-0/15
+msgctxt "Miranda"
+msgid "I am a songmaking machine."
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/c-0/23/c-0/26
+msgctxt "Miranda"
+msgid "Hasta luego, partner!"
+msgstr ""
+
+#: miranda_toaster/friendshipreturn/0/c-0/23/c-0/34
+msgctxt "Narrator"
+msgid "Miranda gives you a winning smile before running off to practice more with the Migas."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/0
+msgctxt "Miranda"
+msgid "Ay dios. Why. Why are you back. I have nothing to say to you."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/8/s/0
+msgctxt "Choix"
+msgid "I have something to say to you!"
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/9/s/0
+msgctxt "Choix"
+msgid "Have you got something to sing, though? (USE CHARM CANDY)"
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/c-0/7
+msgctxt "Miranda"
+msgid "Gosh, if only I cared..."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/c-1/7
+msgctxt "Miranda"
+msgid "The hell are you talking about?"
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Your write so much about heartbreak... and I broke your heart."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "You're so honest with your songs. Maybe there's something there to say."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-0/0
+msgctxt "Miranda"
+msgid "Hm..."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "I was a bad partner. I'm sorry."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "If you write a song about us, I really want to hear it."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/0
+msgctxt "Miranda"
+msgid "I'll have to think on this."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/8
+msgctxt "Miranda"
+msgid "I gotta admit... I really didn't think you'd have the guts to bring my music into this."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/16
+msgctxt "Miranda"
+msgid "But you make a good point. You hurt me a lot. And that does get the creative juices flowing."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/24
+msgctxt "Miranda"
+msgid "I don't break up with humans very often."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/32
+msgctxt "Miranda"
+msgid "Y'know what? Okay. We can be friends. You charmed me."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/40
+msgctxt "Miranda"
+msgid "It's a thin slice for you right now, though, don't forget that!"
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/48/0/s/0
+msgctxt "Choix"
+msgid "Thanks Miranda, I appreciate it."
+msgstr ""
+
+#: miranda_toaster/hatereturn/0/g-1/48/1/s/0
+msgctxt "Choix"
+msgid "Oh, I won't! I'll spread the jam very carefully."
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/0
+msgctxt "Miranda"
+msgid "Shut up."
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/8
+msgctxt "Miranda"
+msgid "Ay dios."
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/16
+msgctxt "Miranda"
+msgid "Really???!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/24
+msgctxt "Miranda"
+msgid "I'm so excited... oh my god I don't even know what to do with my cord! Um, like, now? Like right now?"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/44/s/0
+msgctxt "Choix"
+msgid "Yep, I've got everything ready!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/45/s/0
+msgctxt "Choix"
+msgid "Hm, not right now, but really soon."
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/c-1/10
+msgctxt "Miranda"
+msgid "Um, ok, way to be a tease, but ok."
+msgstr ""
+
+#: miranda_toaster/miranda_realize_join/0/c-1/18
+msgctxt "Miranda"
+msgid "I'll just wait here? Till you're ready? Cuz we all know Miranda's ready!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_return/0/0
+msgctxt "Miranda"
+msgid "I have written so many songs waiting for you, you have no idea."
+msgstr ""
+
+#: miranda_toaster/miranda_realize_return/0/8
+msgctxt "Miranda"
+msgid "Is it time?"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "Let's do it!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "Not time yet. Just wanted to check on you!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_return/0/c-1/10
+msgctxt "Miranda"
+msgid "Ay, what, to see if I was ok??"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_return/0/c-1/18
+msgctxt "Miranda"
+msgid "I'm fine! I'm stressing! I'm like, ready to do this!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_return/0/c-1/26
+msgctxt "Miranda"
+msgid "Hurry up, will you? Dios mio."
+msgstr ""
+
+#: miranda_toaster/miranda_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Choosing to Realize the toaster first is a pro gamer move!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_begin/9
+msgctxt "Skylar"
+msgid "Set this toaster to Realize!"
+msgstr ""
+
+#: miranda_toaster/miranda_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a toaster, becomes...."
+msgstr ""
+
+#: miranda_toaster/miranda_realized/0/3
+msgctxt "Narrator"
+msgid "Miranda does a charming little twirl, looking herself up and down. She sings a few test notes, giggling with delight at the result."
+msgstr ""
+
+#: miranda_toaster/miranda_realized/0/11
+msgctxt "Miranda"
+msgid "Ay dios, I'm a sexy human! Look at me, listen to this voice! Do you have any idea how many albums I'm gonna sell now??"
+msgstr ""
+
+#: miranda_toaster/miranda_realized/0/22
+msgctxt "Miranda"
+msgid "Like, even more than I sold when I was a toaster! That's like, a lot!!"
+msgstr ""
+
+#: miranda_toaster/miranda_realized/0/30/s/0
+msgctxt "Choix"
+msgid "Definitely more than when you were a toaster. For sure."
+msgstr ""
+
+#: miranda_toaster/miranda_realized/0/31/s/0
+msgctxt "Choix"
+msgid "I'll take you on a human date to celebrate them!"
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/3
+msgctxt "Miranda"
+msgid "Oh. Ay, amor. Now that I'm a human? And I'm not gonna like, accidentally set your clothing on fire?"
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/11
+msgctxt "Miranda"
+msgid "I'm gonna set some real shit on fire in like a sexy metaphorical way, y'know what I mean??"
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/22/s/0
+msgctxt "Choix"
+msgid "Do I ever..."
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/23/s/0
+msgctxt "Choix"
+msgid "You've always burned me up, Miranda!"
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/g-0/0
+msgctxt "Miranda"
+msgid "Come here, my favorite little slice!"
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/g-0/8
+msgctxt "Narrator"
+msgid "You and Miranda share a night of real heat and metaphorical fire that leaves you both slightly cooler and quite tired in the morning."
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/g-0/19
+msgctxt "Narrator"
+msgid "Before she leaves your side, she bends down and gives you a quick but loaded peck on the cheek..."
+msgstr ""
+
+#: miranda_toaster/miranda_love_divert/0/g-0/24
+msgctxt "Miranda"
+msgid "Thank you for believing, mi amor..."
+msgstr ""
+
+#: miranda_toaster/miranda_love_join/0
+msgctxt "Narrator"
+msgid "The next time you saw our dear Miranda Dulcita was from the back of a massive and sold out stadium where she was touring in celebration of her new album."
+msgstr ""
+
+#: miranda_toaster/miranda_love_join/8
+msgctxt "Narrator"
+msgid "She couldn't see you from the stage, but having gotten your text that you would be there, and so excited to finally see her perform ALIVE, she threw a great big wink out into the crowd..."
+msgstr ""
+
+#: miranda_toaster/miranda_love_join/13
+msgctxt "Miranda"
+msgid "Mwah! And that's for my favorite little slice!"
+msgstr ""
+
+#: miranda_toaster/miranda_love_join/24
+msgctxt "Narrator"
+msgid "Of course, everyone in the stadium assumed that THEY were her favorite slice... but you knew the truth."
+msgstr ""
+
+#: miranda_toaster/miranda_love_join/29
+msgctxt "Narrator"
+msgid "Miranda has promised to set aside tickets for you at any show you can make. Even though you've seen it countless times, she always gives you a special shout-out when you attend."
+msgstr ""
+
+#: miranda_toaster/miranda_love_join/37
+msgctxt "Narrator"
+msgid "She's so excited and happy to be travelling and performing, fully herself, at last."
+msgstr ""

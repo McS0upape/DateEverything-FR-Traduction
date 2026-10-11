@@ -1,0 +1,5964 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: holly_holidays/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "HOLIDAY DECORATIONS"
+msgstr ""
+
+#: holly_holidays/holly1B/0/0
+msgctxt "Holly"
+msgid "Oh."
+msgstr ""
+
+#: holly_holidays/holly1B/0/8
+msgctxt "Holly"
+msgid "You came!"
+msgstr ""
+
+#: holly_holidays/holly1B/0/16/s/0
+msgctxt "Choix"
+msgid "I said I would."
+msgstr ""
+
+#: holly_holidays/holly1B/0/17/s/0
+msgctxt "Choix"
+msgid "Did you think I wouldn't?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/0
+msgctxt "Holly"
+msgid "Well it's not that I didn't think that you would. It's just... I've got a tricky schedule."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/8
+msgctxt "Holly"
+msgid "So..."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/16
+msgctxt "Holly"
+msgid "It's easier to presume that people have to cancel."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/24
+msgctxt "Holly"
+msgid "Or they'll forget."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/32
+msgctxt "Holly"
+msgid "Or they'll just... have their own lives."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/48
+msgctxt "Holly"
+msgid "Which is me. I'm \"people\"."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/56
+msgctxt "Holly"
+msgid "I cancel or forget or I have my own life."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/64/s/0
+msgctxt "Choix"
+msgid "You're here now."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/65/s/0
+msgctxt "Choix"
+msgid "You seem kinda hard on yourself."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/66/s/0
+msgctxt "Choix"
+msgid "So you're a bit flakey?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-2/7
+msgctxt "Holly"
+msgid "I know. Crazy right? Blissmas miracle. Is it Blissmas?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Yes."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-2/15/2/s/0
+msgctxt "Choix"
+msgid "Nearly."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-2/15/c-0/7
+msgctxt "Holly"
+msgid "Damn. Just lucky then."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-2/15/c-1/7
+msgctxt "Holly"
+msgid "See!"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-2/15/c-2/7
+msgctxt "Holly"
+msgid "Exactly!"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-3/7
+msgctxt "Holly"
+msgid "I'm just realistic."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-0/c-4/7
+msgctxt "Holly"
+msgid "A little. I try not to be. But I've never been good at that. \"Trying not to be.\""
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Did work go okay?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "What was the gig?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-1/c-5/7
+msgctxt "Holly"
+msgid "Yeah! It was great!"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-1/c-5/23
+msgctxt "Holly"
+msgid "Wait you said okay, right?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-1/c-5/31
+msgctxt "Holly"
+msgid "Yeah... it was okay."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-1/c-6/7
+msgctxt "Holly"
+msgid "The gig... was..."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/0
+msgctxt "Holly"
+msgid "Hard. Underpaid. Fun. Just a local fete. My favourite kind. The little ones."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/8
+msgctxt "Holly"
+msgid "<w>Yawn.</w>"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/16
+msgctxt "Holly"
+msgid "Sorry. It's not you."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "Tired?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "Bored?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/c-7/7
+msgctxt "Holly"
+msgid "A little. But who isn't?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/c-8/7
+msgctxt "Holly"
+msgid "No! No! Not at all!"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/c-8/18
+msgctxt "Holly"
+msgid "That was a joke, right?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/c-8/26/0/s/0
+msgctxt "Choix"
+msgid "No. I'm deeply offended."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/c-8/26/1/s/0
+msgctxt "Choix"
+msgid "Obviously."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/c-8/26/c-0/7
+msgctxt "Holly"
+msgid "Well that's silly. Silly season."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-2/c-8/26/c-1/7
+msgctxt "Holly"
+msgid "HAHAHA! Woke me right up."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-3/0
+msgctxt "Holly"
+msgid "I, uhh. Usually when I finish a shift most of the others are asleep. I never really get to talk about my work so... it's strange."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-3/8
+msgctxt "Holly"
+msgid "It's nice."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-3/16
+msgctxt "Holly"
+msgid "The shift wasn't, but this is."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "Why do you work so much?"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "Happy to help."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-3/c-9/7
+msgctxt "Holly"
+msgid "Someone has to. It's my job. It's always a holiday somewhere and someone has to do the work to bring the wonder to everyone else."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-3/c-10/7
+msgctxt "Holly"
+msgid "Happy to be helped. Nice change of pace."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/0
+msgctxt "Holly"
+msgid "I'm a helper, most of the time."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/8
+msgctxt "Holly"
+msgid "\"Essential\"... so they say."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/16 holly_holidays/holly_office/0/g-5/c-15/7
+msgctxt "Holly"
+msgid "Sometimes."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/24
+msgctxt "Holly"
+msgid "When it's useful to say so."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/32
+msgctxt "Holly"
+msgid "<i>Yawn.</i>"
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/40
+msgctxt "Holly"
+msgid "Sorry."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/48
+msgctxt "Holly"
+msgid "Here I am complaining I never have anyone to talk to, and now I'm yawning in your face."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/56
+msgctxt "Holly"
+msgid "I guess I should knock off. I've got a shift in the morning. But thanks... I really appreciate it."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/64/s/0
+msgctxt "Choix"
+msgid "Get some rest."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/65/s/0
+msgctxt "Choix"
+msgid "See you next time."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/c-11/7
+msgctxt "Holly"
+msgid "NO! You get some rest..."
+msgstr ""
+
+#: holly_holidays/holly1B/0/g-4/c-12/7 holly_holidays/hollyreturnhate/0/c-1/69/c-0/55
+msgctxt "Holly"
+msgid "Happy holidays."
+msgstr ""
+
+#: holly_holidays/holly2_fail/0
+msgctxt "Holly"
+msgid "I'm not here right now! Work work work!"
+msgstr ""
+
+#: holly_holidays/holly2_fail/11
+msgctxt "Holly"
+msgid "If you see me, that's not really me - it is an <w>ILLUSION!</w>"
+msgstr ""
+
+#: holly_holidays/holly2_fail/19
+msgctxt "Holly"
+msgid "I'm free in the morning if you want to chat!"
+msgstr ""
+
+#: holly_holidays/holly2_fail/27
+msgctxt "Holly"
+msgid "<w>ILLUSION AWAY!</w>"
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/0
+msgctxt "Holly"
+msgid "HEY! Sorry I missed you the other day. I picked up another double for Venetian's day, but I'm free tomorrow morning if you wanna swing by? I'd stay and chat now but I've gotta bounce for a Gleester in July gig."
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/8/s/0
+msgctxt "Choix"
+msgid "Best be hoppin."
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/9/s/0
+msgctxt "Choix"
+msgid "I'll try!"
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/10/s/0
+msgctxt "Choix"
+msgid "You work a lot."
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/11/s/0
+msgctxt "Choix"
+msgid "Have an eggcelent time!"
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/c-0/7
+msgctxt "Holly"
+msgid "Officer Bounce, bounding off! <w>BYEEEE!</w> Bye, bye, byyyeee!!!"
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/c-1/7
+msgctxt "Holly"
+msgid "Sorry my schedule's so haywire! <w>BYEEEE!</w>"
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/c-2/7
+msgctxt "Holly"
+msgid "<w>I KNOW RIGHT!? BYEEEE!</w>"
+msgstr ""
+
+#: holly_holidays/hollyshipsinthenightshift/0/c-3/7
+msgctxt "Holly"
+msgid "Huh? ...OH! EGG! That was funny! Okayy. <w>BYEEEE!</w>"
+msgstr ""
+
+#: holly_holidays/holly1/0/6
+msgctxt "Narrator"
+msgid "It takes you just a moment to properly evaluate the figure standing before you—her hair and clothing are such a jumble of various holiday decorations it throws you."
+msgstr ""
+
+#: holly_holidays/holly1/0/14
+msgctxt "Narrator"
+msgid "What time of year is it again? Have you truly been locked in your house for so long that time has lost all meaning?"
+msgstr ""
+
+#: holly_holidays/holly1/0/22
+msgctxt "Narrator"
+msgid "She is adorable though, and her energetic greeting shocks you right out of your quiet contemplation."
+msgstr ""
+
+#: holly_holidays/holly1/0/30
+msgctxt "Holly"
+msgid "HEY BOSS. You've caught me at a bad time. Heading to work. The other work. Or is it the other other work? What day IS it anyway?"
+msgstr ""
+
+#: holly_holidays/holly1/0/38
+msgctxt "Holly"
+msgid "Oh! What's up? What do you need?"
+msgstr ""
+
+#: holly_holidays/holly1/0/46/s/0
+msgctxt "Choix"
+msgid "I can come back later?"
+msgstr ""
+
+#: holly_holidays/holly1/0/47/s/0
+msgctxt "Choix"
+msgid "Just wanted to introduce myself."
+msgstr ""
+
+#: holly_holidays/holly1/0/c-0/7
+msgctxt "Holly"
+msgid "Oh you're so sweet! I'm working a double though... and then I'm opening tomorow..."
+msgstr ""
+
+#: holly_holidays/holly1/0/c-1/7
+msgctxt "Holly"
+msgid "AND I TO YOU! So many things and so little time. Makes you wanna cry cry cry."
+msgstr ""
+
+#: holly_holidays/holly1/0/c-1/15
+msgctxt "Holly"
+msgid "That was bad. HAHA."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/0
+msgctxt "Holly"
+msgid "I'm Holly by the way!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/19
+msgctxt "Holly"
+msgid "OH. And who are you? Did you already say? Sorry."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/27
+msgctxt "Holly"
+msgid "In a little rish rash rush for the dish dash dosh. Rat race, all that."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/35/s/0
+msgctxt "Choix"
+msgid "I'm"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/36/s/0
+msgctxt "Choix"
+msgid "I own the house."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/37/s/0
+msgctxt "Choix"
+msgid "I'm Holly!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/c-2/7
+msgctxt "Holly"
+msgid "OH! I've heard about you! That is such a funny name!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/c-3/7
+msgctxt "Holly"
+msgid "Oh... the boss of my boss!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/c-3/15
+msgctxt "Holly"
+msgid "You're Big Boss!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/c-3/23 holly_holidays/holly1/0/g-0/c-4/18
+msgctxt "Holly"
+msgid "I've heard about you!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-0/c-4/7
+msgctxt "Holly"
+msgid "Twinning!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "From who?"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "What have you heard?"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "That sounds foreboding."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-5/7
+msgctxt "Holly"
+msgid "From everyone! I'm social butter, so they say."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-5/15/0/s/0
+msgctxt "Choix"
+msgid "A social butterfly?"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-5/15/1/s/0
+msgctxt "Choix"
+msgid "Butter, but social?"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-5/15/2/s/0
+msgctxt "Choix"
+msgid "That makes sense."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-5/15/c-0/7
+msgctxt "Holly"
+msgid "OH! That makes more sense..."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-5/15/c-1/7
+msgctxt "Holly"
+msgid "Yeah... I don't really get it either, truth be told. But it seems like a compliment when they say it."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-5/15/c-2/7
+msgctxt "Holly"
+msgid "Does it? I could never figure it out."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-6/7
+msgctxt "Holly"
+msgid "Just some tidbits!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-1/c-7/7
+msgctxt "Holly"
+msgid "OH nothing like that!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-2/0
+msgctxt "Holly"
+msgid "Anywho, I'm so sorry, but I'm already running late. Love to chat more, though. I'm working a double in opening/closing tomorrow, but swing by first thing in the morning?"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-2/8
+msgctxt "Holly"
+msgid "That's when I'm usually able to sleep."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-2/16
+msgctxt "Holly"
+msgid "That work?"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "No..."
+msgstr ""
+
+#: holly_holidays/holly1/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "Sure!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-3/0
+msgctxt "Holly"
+msgid "Great!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-3/8
+msgctxt "Holly"
+msgid "Okay!"
+msgstr ""
+
+#: holly_holidays/holly1/0/g-3/16
+msgctxt "Holly"
+msgid "<w>BYEEEEE!</w>"
+msgstr ""
+
+#: holly_holidays/holly2/0/6
+msgctxt "Narrator"
+msgid "Holly greets you with a spirited wave, the bells and ornaments in her hair jingling with every energetic shake of her hand."
+msgstr ""
+
+#: holly_holidays/holly2/0/14
+msgctxt "Holly"
+msgid "You made it! Thanks for making the time."
+msgstr ""
+
+#: holly_holidays/holly2/0/22/s/0
+msgctxt "Choix"
+msgid "I've got plenty of it."
+msgstr ""
+
+#: holly_holidays/holly2/0/23/s/0
+msgctxt "Choix"
+msgid "You too!"
+msgstr ""
+
+#: holly_holidays/holly2/0/24/s/0
+msgctxt "Choix"
+msgid "It's hard to pin you down."
+msgstr ""
+
+#: holly_holidays/holly2/0/25/s/0
+msgctxt "Choix"
+msgid "How was work?"
+msgstr ""
+
+#: holly_holidays/holly2/0/c-0/7
+msgctxt "Holly"
+msgid "Sounds like a dream."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-1/7
+msgctxt "Holly"
+msgid "Gotta rest sometime!"
+msgstr ""
+
+#: holly_holidays/holly2/0/c-2/7
+msgctxt "Holly"
+msgid "I know right!? I don't even know where I am sometimes."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/7
+msgctxt "Holly"
+msgid "<w>Loooonnnggggggg.</w> But great! Mostly."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Mostly?"
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "Another double?"
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-0/7
+msgctxt "Holly"
+msgid "Well. You know... someone spat in my face. But besides that!"
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I'm so sorry."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-0/15/1/s/0 holly_holidays/HollyBruce/0/g-0/60/s/0
+msgctxt "Choix"
+msgid "Merry Blissmas."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "That sounds terrible."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-0/15/c-0/7
+msgctxt "Holly"
+msgid "It's ok. Spit happens."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-0/15/c-1/7
+msgctxt "Holly"
+msgid "Spits the season to be jolly."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-0/15/c-2/7
+msgctxt "Holly"
+msgid "That's the gig."
+msgstr ""
+
+#: holly_holidays/holly2/0/c-3/15/c-1/7
+msgctxt "Holly"
+msgid "Nah. Well... legally, no. But technically, yes."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/0/s/0
+msgctxt "Choix"
+msgid "Seems like you're always working?"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/1/s/0
+msgctxt "Choix"
+msgid "What do you actually do?"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/2/s/0
+msgctxt "Choix"
+msgid "Gig work then?"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-0/7
+msgctxt "Holly"
+msgid "Almost! There's always something happening somewhere."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-1/7
+msgctxt "Holly"
+msgid "Everything! I've got a five page resume which I know you're not supposed to have but I'm secretly very proud of it. I've been a waiter, a maitre-de, a caddy, an usher, a valet, a pinata, a mascot, a pinata mascot, a bartender..."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-1/15
+msgctxt "Holly"
+msgid "...a line chef, a runner, a ticketer, a seat-holder, an election official, a zamboni driver, a scuba diver, a pick-packer, a mail carrier, a time-keeper, and an eisteddfod judge for a local junior yodeling competition."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-2/7
+msgctxt "Holly"
+msgid "Oh, the giggiest. The best kind of work for me, personally. Always something new. I can't sit still for too long. Bores me to tears. I need fifty things to focus on or absolutely none at all."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Sounds... hectic."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Does it pay well?"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-2/15/c-0/7
+msgctxt "Holly"
+msgid "It is. It's perfect."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/c-2/15/c-1/7
+msgctxt "Holly"
+msgid "NOPE. But I work a lotta hours. But you already know that."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/0
+msgctxt "Holly"
+msgid "It's joyful too, bringing joy. Someone's always celebrating something, and I get to be a part of that, all the time. It doesn't even have to be a holiday for me, or about me. I just enjoy joy. You know?"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/8
+msgctxt "Holly"
+msgid "Better than punching numbers all day, unless that's part of the gig."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/16
+msgctxt "Holly"
+msgid "NO OFFENSE TO NUMBER PUNCHERS! Just not for me."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "None taken."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "No, that makes sense."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/29/s/0
+msgctxt "Choix"
+msgid "Not every holiday is joyful."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/c-5/7
+msgctxt "Holly"
+msgid "No. They aren't."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-0/c-5/15
+msgctxt "Holly"
+msgid "But every holiday has a purpose."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/0
+msgctxt "Holly"
+msgid "What about you!? What do you do!?"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "I punch numbers."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "I talk to objects."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "I work in conflict resolution."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/11/s/0
+msgctxt "Choix"
+msgid "Nothing, really. Got fired my second day."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/7
+msgctxt "Holly"
+msgid "...ah. Ahhhh. Hmm. Yep. My bad."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/0/s/0
+msgctxt "Choix"
+msgid "No offense taken. It's not for me either."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/1/s/0
+msgctxt "Choix"
+msgid "I happen to quite enjoy numbers."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/c-0/7
+msgctxt "Holly"
+msgid "Well that was awkward..."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/c-1/7
+msgctxt "Holly"
+msgid "Well at least we're not competing for jobs!"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/0
+msgctxt "Holly"
+msgid "It's good to have a job around here, keep your mind off the drama. You'd think it was always the holidays with what we've got going on."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/8/b/1
+msgctxt "Holly"
+msgid "That said, I've heard your name flung around with a bit of a bitter bite lately."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/11/b/1
+msgctxt "Holly"
+msgid "Everyone seems to love you though."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/14/b/1
+msgctxt "Holly"
+msgid "I've heard you've been diving into the mix, for better or worse."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/17
+msgctxt "Holly"
+msgid "So it goes..."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/7
+msgctxt "Holly"
+msgid "AHH. You're good at that. Or, I can see you being good at that."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/0/s/0 holly_holidays/hollyreturnhate/0/c-1/69/0/s/0
+msgctxt "Choix"
+msgid "I am."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/1/s/0
+msgctxt "Choix"
+msgid "I'm not."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/2/s/0
+msgctxt "Choix"
+msgid "I get by."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/c-0/7
+msgctxt "Holly"
+msgid "I agree."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/c-1/7
+msgctxt "Holly"
+msgid "Sure you are! Look at us right now, chit chattering like old chums."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/0
+msgctxt "Holly"
+msgid "I think you're great at talking to objects!"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/8/b/1
+msgctxt "Holly"
+msgid "Nevermind what everyone else says."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/11/b/1
+msgctxt "Holly"
+msgid "At least that's the word around town."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/14/b/1
+msgctxt "Holly"
+msgid "...even if the jury's out for everyone else."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-8/7
+msgctxt "Holly"
+msgid "OHH. Sounds high stakes! Must come in handy round here."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/0/s/0
+msgctxt "Choix"
+msgid "Most of you seem beyond resolution."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/1/s/0
+msgctxt "Choix"
+msgid "Disturbingly so."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/0
+msgctxt "Holly"
+msgid "Motley bunch, we are. Best way to be, keeps things lively like a holiday punch!"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/8/b/1
+msgctxt "Holly"
+msgid "...and I hear you've been stirring the bowl."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/11/b/1 holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/14/b/1
+msgctxt "Holly"
+msgid "From what I hear, you've been fitting in well!"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/17/b/1
+msgctxt "Holly"
+msgid "I hear you've been a divisive addition to the mix!"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/7
+msgctxt "Holly"
+msgid "Sounds nice."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/0/s/0
+msgctxt "Choix"
+msgid "It pays the bills... oddly."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/1/s/0
+msgctxt "Choix"
+msgid "It is. I get time to enjoy life."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/c-0/7
+msgctxt "Holly"
+msgid "Odd jobs... can relate!"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/0
+msgctxt "Holly"
+msgid "It's good to have something simple around here. There's enough crazy to go around, but you know that."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/8/b/1
+msgctxt "Holly"
+msgid "I hear you've been starting some social warfare yourself."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/11/b/1
+msgctxt "Holly"
+msgid "I hear you're making a good impression so far."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/14/b/1
+msgctxt "Holly"
+msgid "I hear you're striking a steady balance between Claus and Krampus."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-2/0/s/0
+msgctxt "Choix"
+msgid "So what ARE the others saying?"
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-2/1/s/0
+msgctxt "Choix"
+msgid "You know. I'm actually ok not knowing the talk of the town."
+msgstr ""
+
+#: holly_holidays/holly2alwaysworking/0/g-2/c-11/7
+msgctxt "Holly"
+msgid "Okie dokie. Whatever you say, boss. Eyes on the prize."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/0
+msgctxt "Holly"
+msgid "Oh, you know. Things. Stuff. Nothing really."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/8/b/1
+msgctxt "Holly"
+msgid "Rebel had some choice words, but that's Rebel. They are... multifauceted."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/11
+msgctxt "Holly"
+msgid "In general, I suppose, the consensus... might be... that you have so far had a net negative impact on the \"holiday spirit\"."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/19
+msgctxt "Holly"
+msgid "NOT THAT THAT'S A BAD THING!"
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/30/s/0
+msgctxt "Choix"
+msgid "It's not?"
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/31/s/0
+msgctxt "Choix"
+msgid "Exactly!"
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/c-0/7
+msgctxt "Holly"
+msgid "I don't know. I think sometimes hate is the healthiest relationship you can hope for. Not everyone was made to get along. Might as well be honest about it."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/c-0/15
+msgctxt "Holly"
+msgid "I've worked with plenty of antagonists."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/c-1/7
+msgctxt "Holly"
+msgid "Exactly! Yeah... that makes sense."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "I'm glad we agree."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "You're just trying to make me feel better."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "Can't wait to get you to hate me."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/g-0/c-2/7
+msgctxt "Holly"
+msgid "You are stalwart."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/g-0/c-3/7
+msgctxt "Holly"
+msgid "Mostly yep. I'm not lying though."
+msgstr ""
+
+#: holly_holidays/HollyHouseHate/0/g-0/c-4/23
+msgctxt "Holly"
+msgid "We can skip right over that!"
+msgstr ""
+
+#: holly_holidays/HollyHouseLove/0/0 holly_holidays/HollyHouseBalance/0/6
+msgctxt "Holly"
+msgid "Depends on who you ask..."
+msgstr ""
+
+#: holly_holidays/HollyHouseLove/0/8/b/1
+msgctxt "Holly"
+msgid "Seems you're still finding your feet, but they seem to like you or love you. That line gets really blurry around here sometimes."
+msgstr ""
+
+#: holly_holidays/HollyHouseLove/0/11/b/1
+msgctxt "Holly"
+msgid "Let's just say Venetian's Day might be a busy day for you. Let me know if you need some help! I have a side gig running roses to \"side-gigs\" every year."
+msgstr ""
+
+#: holly_holidays/HollyHouseLove/0/14/b/1
+msgctxt "Holly"
+msgid "Everyone's your best friend, apparently. So many besties, so little time. Watch out for June 8th, bestie."
+msgstr ""
+
+#: holly_holidays/HollyHouseBalance/0/0/b/1
+msgctxt "Holly"
+msgid "I mean it's not that many around here talking, but..."
+msgstr ""
+
+#: holly_holidays/HollyHouseBalance/0/3/b/1
+msgctxt "Holly"
+msgid "There's a healthy balance of general enjoyment and hate your guts. Really it's just smack down the center. It's kind of wild how precise it is."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/0/s/0
+msgctxt "Choix"
+msgid "That said, how do you feel about me?"
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/7
+msgctxt "Holly"
+msgid "Well you waded through my busted schedule, so you can't be that bad."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I'm hardly running for office."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Sounds like you're dodging the question."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/c-0/7
+msgctxt "Holly"
+msgid "I'd vote for you. I think. I mean, you made the time to see me with my busted schedule, so maybe you'd actually get things done around here."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/c-0/15
+msgctxt "Holly"
+msgid "Don't tell Celia, though!"
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/c-1/7
+msgctxt "Holly"
+msgid "Yes, I am!!"
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/0
+msgctxt "Holly"
+msgid "Speaking of which, I gotta bounce to another shift. Gleester in July is really hopping this year."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Ew."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "It's not July."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/7/b/1
+msgctxt "Holly"
+msgid "See! This is why things around here don't like you."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/10
+msgctxt "Holly"
+msgid "Don't be a hot cross bunny."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "That's not bunny."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/1/s/0
+msgctxt "Choix"
+msgid "<i>Sigh</i>."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/c-0/7
+msgctxt "Holly"
+msgid "Oh, that was good, that was good..."
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/c-1/7
+msgctxt "Holly"
+msgid "Gesundheit!"
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-2/7
+msgctxt "Holly"
+msgid "I KNOW RIGHT!? THAT'S WHAT I SAID!"
+msgstr ""
+
+#: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-1/0
+msgctxt "Holly"
+msgid "ANYWAY. OKAY. <w>BYEEEEEE!</w> Bye bye bye!"
+msgstr ""
+
+#: holly_holidays/holly3/0/6
+msgctxt "Holly"
+msgid "PERFECT TIMING!"
+msgstr ""
+
+#: holly_holidays/holly3/0/17
+msgctxt "Narrator"
+msgid "You've come to expect Holly's spirited greetings, but this one still manages to startle you just a little."
+msgstr ""
+
+#: holly_holidays/holly3/0/25/s/0
+msgctxt "Choix"
+msgid "Umm..."
+msgstr ""
+
+#: holly_holidays/holly3/0/26/s/0
+msgctxt "Choix"
+msgid "Knew it."
+msgstr ""
+
+#: holly_holidays/holly3/0/27/s/0
+msgctxt "Choix"
+msgid "I'm just here when the prophecy tells me to be."
+msgstr ""
+
+#: holly_holidays/holly3/0/c-0/7
+msgctxt "Holly"
+msgid "You know, umm is the start of many a great adventure."
+msgstr ""
+
+#: holly_holidays/holly3/0/c-1/7
+msgctxt "Holly"
+msgid "I knew you'd know!"
+msgstr ""
+
+#: holly_holidays/holly3/0/c-2/7
+msgctxt "Holly"
+msgid "OHHHHHHHH! Let's get PROPHETIC."
+msgstr ""
+
+#: holly_holidays/holly3/0/c-2/15
+msgctxt "Holly"
+msgid "<w>SPOOOOOOKEEEEEEEEEYYYYYYYYYYYYY.</w>"
+msgstr ""
+
+#: holly_holidays/holly3/0/c-2/23 holly_holidays/holly_office/0/g-0/43
+msgctxt "Holly"
+msgid "ANYWAY!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/0
+msgctxt "Holly"
+msgid "How."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/8
+msgctxt "Holly"
+msgid "Do."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/16
+msgctxt "Holly"
+msgid "You."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/24
+msgctxt "Holly"
+msgid "Feel."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/32
+msgctxt "Holly"
+msgid "About..."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/43
+msgctxt "Holly"
+msgid "...flyers...?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/51/s/0
+msgctxt "Choix"
+msgid "Ambivalent."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/52/s/0
+msgctxt "Choix"
+msgid "They're... nice?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/53/s/0
+msgctxt "Choix"
+msgid "I FUCKING LOVE FLYERS."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/c-3/7
+msgctxt "Holly"
+msgid "Well get ready to feel VALENT about them!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/c-4/7
+msgctxt "Holly"
+msgid "I KNOW RIGHT!?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-0/c-5/7
+msgctxt "Holly"
+msgid "SO. DO. I!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/0
+msgctxt "Holly"
+msgid "So I've got a mail drop shift, and I figured why not do MOOOOOOREEEE!?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/8
+msgctxt "Holly"
+msgid "You know!?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/16
+msgctxt "Holly"
+msgid "So I picked up a flyer drop shift."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/24
+msgctxt "Holly"
+msgid "And I figure since you're here, you're wanting to hang out anyway?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/32
+msgctxt "Holly"
+msgid "So... keep me company?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/43/s/0
+msgctxt "Choix"
+msgid "Sounds gre-"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/44/s/0
+msgctxt "Choix"
+msgid "Actual-"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-1/45/s/0
+msgctxt "Choix"
+msgid "I me-"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-2/0
+msgctxt "Holly"
+msgid "-GREAT! Race you to the kitchen!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-2/11/s/0
+msgctxt "Choix"
+msgid "Uh-"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-2/12/s/0
+msgctxt "Choix"
+msgid "Wai-"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-2/13/s/0
+msgctxt "Choix"
+msgid "I wa-"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/0
+msgctxt "Narrator"
+msgid "Holly takes off before you can even finish your sentence, fleeing towards the kitchen."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/8
+msgctxt "Holly"
+msgid "SORRY! I can't hear you over me <w>winniinnnnnnng.</w>"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/19
+msgctxt "Holly"
+msgid "Tortoise and hare we are."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/27/s/0
+msgctxt "Choix"
+msgid "I'm deeply unfit."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/28/s/0
+msgctxt "Choix"
+msgid "Hey I caught up just fine!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/c-12/7
+msgctxt "Holly"
+msgid "You should work hospo. Free gym membership."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/c-13/7
+msgctxt "Holly"
+msgid "I'm proud of you!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-3/c-13/15
+msgctxt "Holly"
+msgid "But nothing's faster than an unexpected HOLIDAY!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/0/s/0
+msgctxt "Choix"
+msgid "So what are we actually doing?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/c-14/7
+msgctxt "Holly"
+msgid "If you're going to be my helper - you need to know the basics."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/c-14/15
+msgctxt "Holly"
+msgid "There is a Mirthday festival next week. I get $0.50 a flyer for handing out 100 flyers. And that is?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/c-14/23/3/s/0
+msgctxt "Choix"
+msgid "I didn't go to fuckin school for math."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/c-14/23/c-0/7/b/1 holly_holidays/holly3/0/g-4/c-14/23/c-2/7/b/1 holly_holidays/holly3/0/g-4/c-14/23/c-3/7/b/1
+msgctxt "Holly"
+msgid "I thought you said you punched numbers?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/c-14/23/c-0/8/b/1 holly_holidays/holly3/0/g-4/c-14/23/c-2/8/b/1
+msgctxt "Holly"
+msgid "I WISH."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/c-14/23/c-1/7/b/1
+msgctxt "Holly"
+msgid "You really do punch numbers!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-4/c-14/23/c-1/8/b/1
+msgctxt "Holly"
+msgid "Bingo!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/0
+msgctxt "Holly"
+msgid "It's $50. Which isn't bad, to be honest. And it just so happens that between you, me, and 98 roommates, we've got 100 folks to fly through."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/8
+msgctxt "Holly"
+msgid "And we're gonna start."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/16
+msgctxt "Holly"
+msgid "Right."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/24
+msgctxt "Holly"
+msgid "HERE."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/35
+msgctxt "Holly"
+msgid "<w>KOPIIIIIIII! I'M BAAACKKKK!</w>"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/58
+msgctxt "Kopi"
+msgid "<w>HOLLLLLLLLY!</w>"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/69
+msgctxt "Holly"
+msgid "<w>Kooopiiiii!</w> Be my favourite customer and take a flyer? I gotta get rid of a hundred of em and they KNOW when I don't."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/77
+msgctxt "Holly"
+msgid "I don't know how, but they know."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/85
+msgctxt "Kopi"
+msgid "You got an intern?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/93
+msgctxt "Holly"
+msgid "Something like that."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/101/b/1
+msgctxt "Kopi"
+msgid "This one's a good brew."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/104/b/1
+msgctxt "Kopi"
+msgid "Don't pin your hopes on them."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/107/b/1
+msgctxt "Kopi"
+msgid "Holly works hard. You might need a coffee to keep up."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/110
+msgctxt "Kopi"
+msgid "And on that note, I better get back to work! Pick up a shift Holly! I miss youuuuuu."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/118
+msgctxt "Holly"
+msgid "Sooon! I promise."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/126
+msgctxt "Kopi"
+msgid "You said that LAST month!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/134
+msgctxt "Holly"
+msgid "But now I actually have time!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/148
+msgctxt "Holly"
+msgid "I think!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/156/b/1
+msgctxt "Holly"
+msgid "Seems your reputation precedes you."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/159/s/0
+msgctxt "Choix"
+msgid "What's the festival about anyway?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/160/s/0
+msgctxt "Choix"
+msgid "So... \"Mirthday\"?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/c-15/7
+msgctxt "Holly"
+msgid "Did you even read the flyer, silly?!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/c-15/15
+msgctxt "Holly"
+msgid "Kidding!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-5/c-16/7
+msgctxt "Holly"
+msgid "Mirthday!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/3
+msgctxt "Holly"
+msgid "Well... it's like... a bulk birthday! For everyone, all at once! You get a mirthday, YOU get a Mirthday. YOU'RE. ALL. GETTING. A. MIRTHDAY."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/14
+msgctxt "Holly"
+msgid "It was nice. None of us objects have a real birthday on account of not being \"born\". But I love birthdays, even if I've never seen one. So it was nice to have our own version."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/22/s/0
+msgctxt "Choix"
+msgid "Nice or \"nice\"?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/23/s/0
+msgctxt "Choix"
+msgid "Was?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/24/s/0
+msgctxt "Choix"
+msgid "You don't seem too excited."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/c-17/7
+msgctxt "Holly"
+msgid "The first one!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/c-18/7
+msgctxt "Holly"
+msgid "Ahhhh, good catch!!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-6/c-19/7
+msgctxt "Holly"
+msgid "Ha! I'm not!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/0
+msgctxt "Holly"
+msgid "It's a lot of effort, everyone organising that many presents for that many people. I don't blame them for phoning it in eventually."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/8
+msgctxt "Holly"
+msgid "Folks used to put in the effort, as much as it was. They tried. They cared. But caring is hard, and trying is... trying, and Mirthday just... petered out."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/16
+msgctxt "Holly"
+msgid "I can make the holidays happen, but I can't MAKE people celebrate. That's up to them."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/24/b/1
+msgctxt "Holly"
+msgid "And to them, nowadays it's an excuse to drink. Which is fine, and it pays the bills-"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/24/b/9
+msgctxt "Holly"
+msgid "OH HEY CAM!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/24/b/26
+msgctxt "Cam"
+msgid "Very lame."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/24/b/34
+msgctxt "Cam"
+msgid "All of this."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/24/b/45
+msgctxt "Cam"
+msgid "Very."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/24/b/56
+msgctxt "Holly"
+msgid "Hasn't had his coffee grounds yet."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/24/b/64
+msgctxt "Holly"
+msgid "He's actually very polite. Cam always waits until everyone else has finished theirs first."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/27
+msgctxt "Holly"
+msgid "Now where were we?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/35
+msgctxt "Holly"
+msgid "OH! Yes. Yeah. Drinking on Mirthday. It's fine. People celebrate how they want to."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/43/s/0
+msgctxt "Choix"
+msgid "Fine, or 'fine?'"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/c-20/7
+msgctxt "Holly"
+msgid "Both."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/c-20/15
+msgctxt "Holly"
+msgid "Chew on THAT!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/c-20/23
+msgctxt "Holly"
+msgid "And while you chew. Next stop: Beddy BYES!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-7/c-20/31
+msgctxt "Holly"
+msgid "<w>RACE YOU AGAIN!</w>"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/3
+msgctxt "Narrator"
+msgid "This time you beat Holly at her own game, arriving at your bedroom just a few moments before her."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/11
+msgctxt "Holly"
+msgid "Holy smokes, whizbot! You're a real speedster!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/19/s/0
+msgctxt "Choix"
+msgid "You started it."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/20/s/0
+msgctxt "Choix"
+msgid "Feel free to pick up the pace."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/21/s/0
+msgctxt "Choix"
+msgid "Barely."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/22/s/0
+msgctxt "Choix"
+msgid "You set your pace, I set mine."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/c-21/7
+msgctxt "Holly"
+msgid "And you finished it. At least THIS time! I'll get you yet, you dastardly demon dasher you!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/c-22/7
+msgctxt "Holly"
+msgid "Ohhhhhhh! I'll get you yet, you dastardly dasher you!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/c-23/7
+msgctxt "Holly"
+msgid "Barely's still keeping up. Still is what it is. Kudos to you, I'm pretty quick on my feet."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-8/c-24/7
+msgctxt "Holly"
+msgid "Sounds like a challenge."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/6 holly_holidays/holly3/0/g-9/160
+msgctxt "Betty"
+msgid "HOLLY!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/14
+msgctxt "Holly"
+msgid "Ughhh."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/25
+msgctxt "Holly"
+msgid "Um."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/33
+msgctxt "Holly"
+msgid "Hi Betty!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/41
+msgctxt "Holly"
+msgid "You look SO GOOD!"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/55/b/4
+msgctxt "Lux"
+msgid "<w>Draaaamaaaaaa!</w>"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/58
+msgctxt "Holly"
+msgid "It's been like, too long! I've just been, you know, resting a lot."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/66
+msgctxt "Holly"
+msgid "Getting lots of rest."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/74
+msgctxt "Holly"
+msgid "It's been like, super restful."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/82
+msgctxt "Holly"
+msgid "I'm just feeling like. Very rested. You know?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/93
+msgctxt "Betty"
+msgid "PLEASE don't tell me you picked up another shift."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/117
+msgctxt "Holly"
+msgid "I picked up another shift."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/128
+msgctxt "Betty"
+msgid "...seriously?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/144
+msgctxt "Betty"
+msgid "When was your last day off?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/152
+msgctxt "Holly"
+msgid "I refuse to answer on the grounds that it may incriminate me."
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/171
+msgctxt "Holly"
+msgid "ANYWAY THERE'S THIS SUPER SWEET MIRTHDAY FESTIVAL YOU SHOULD TOTALLY CHECK IT OUT OH MY GOD WE SHOULD GO TOGETHER WOULDN'T THAT BE GREAT?"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/185
+msgctxt "Holly"
+msgid "HERE, TAKE A FLYER! TAKE SOME FOR EVERYONE! OKAY I'M GONNA GO FINISH MY SHIFT AND GET SOME REST LOVE YOU <w>BYEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE.</w>"
+msgstr ""
+
+#: holly_holidays/holly3/0/g-9/193
+msgctxt "Holly"
+msgid "Meet me in the bathroom."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/3
+msgctxt "Narrator"
+msgid "Holly is in such a rush to escape Betty's potential scolding, she forgets all about racing you—you both make it to the bathroom without losing your breath."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/11
+msgctxt "Holly"
+msgid "Who-weeeeee. That was close."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/19/s/0
+msgctxt "Choix"
+msgid "When WAS your last day off?"
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/20/s/0
+msgctxt "Choix"
+msgid "She seemed concerned."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/21/s/0
+msgctxt "Choix"
+msgid "She seemed mad."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/c-0/7
+msgctxt "Holly"
+msgid "Long enough ago that she'd have a fit, and I actually lied to her about it last time as well."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/c-0/15
+msgctxt "Holly"
+msgid "So, in essence, I wasn't really lying, at least this time, because I simply refused to answer on the grounds that it may have incriminated me."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/c-0/23
+msgctxt "Holly"
+msgid "Confusing enough?"
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/c-1/7
+msgctxt "Holly"
+msgid "She's always concerned."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/c-2/7
+msgctxt "Holly"
+msgid "She's just worried."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/0
+msgctxt "Holly"
+msgid "Betty's a sweetheart. She just gets paranoid I'm getting enough rest. Last Blissmas she gave me the silent treatment until I took a day off work. Everyone said she was worried about me burning out."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/8
+msgctxt "Holly"
+msgid "Which is CRAZY by the way. How do you get burnt out over Blissmas? It's way too cold for that."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/16
+msgctxt "Holly"
+msgid "Betty's a real angel, though."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "I've been on the receiving end of Betty's wrath."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Yeah, she's just got lots of love to give."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "She is. I understand her, I just had to set some boundaries myself."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "She's got a point though."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "She can be a little overbearing sometimes."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/c-3/7
+msgctxt "Holly"
+msgid "Haven't we all."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/c-4/7
+msgctxt "Holly"
+msgid "And I love that. Mostly!"
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/c-5/7
+msgctxt "Holly"
+msgid "Come on BOUNDARIES."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/c-6/7
+msgctxt "Holly"
+msgid "Maybe!"
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-0/c-7/7
+msgctxt "Holly"
+msgid "It's all well-intentioned."
+msgstr ""
+
+#: holly_holidays/HollyBathroom/0/g-1/6
+msgctxt "Rebel"
+msgid "What's up duckwads!?"
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/0
+msgctxt "Rebel"
+msgid "Oh."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/8
+msgctxt "Rebel"
+msgid "It's the human."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/16 holly_holidays/holly_duck_love_friendship/0/g-0/30 holly_holidays/holly_duck_null/19
+msgctxt "Rebel"
+msgid "Ew."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/27
+msgctxt "Holly"
+msgid "Ahh. Already on Rebel's bad side. Don't worry, it's not that hard."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/35
+msgctxt "Rebel"
+msgid "This one's on some next level high horse Holly."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/43
+msgctxt "Rebel"
+msgid "Some real sticky beak bullshit."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/51
+msgctxt "Rebel"
+msgid "Nose so brown they're frontlining the local scat band."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/59
+msgctxt "Rebel"
+msgid "Sci be de bu bah bah bunt. I am a motherducking cunt."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/67
+msgctxt "Holly"
+msgid "You two really are besties."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/75
+msgctxt "Rebel"
+msgid "Only reason I ain't slinging rubber fists is cause you're here, Holly."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/83
+msgctxt "Holly"
+msgid "AWWWWWW REBBIE!"
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/91
+msgctxt "Rebel"
+msgid "NAH... NONE OF THAT SHIT."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/99
+msgctxt "Holly"
+msgid "Awwww..."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/107
+msgctxt "Rebel"
+msgid "What do you want, tinseltown?"
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/115
+msgctxt "Holly"
+msgid "I need to drop some flyers. Can you hand these out for me? Pretty, pretty, pretty, pretty, <w>pleaaaaaaaasssssssse.</w>"
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/123
+msgctxt "Rebel"
+msgid "Only cause you're cute."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/131
+msgctxt "Holly"
+msgid "NO YOU."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/139
+msgctxt "Rebel"
+msgid "Now fuck off."
+msgstr ""
+
+#: holly_holidays/holly_duck_hate/147 holly_holidays/holly_duck_love_friendship/0/g-0/108 holly_holidays/holly_duck_null/137
+msgctxt "Holly"
+msgid "Yes sireee! Off to the office for me! I mean, weeeeee!"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/0
+msgctxt "Rebel"
+msgid "Oh me oh my..."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/8/b/1
+msgctxt "Rebel"
+msgid "If it isn't everyone's favourite dickstick, the human."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/11
+msgctxt "Rebel"
+msgid "This is an unexpected pairing."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/19
+msgctxt "Holly"
+msgid "Oh! You've already met?"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/27
+msgctxt "Rebel"
+msgid "They suck, but who doesn't in this shithole? So, yeah, we're \"pals\"."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/35
+msgctxt "Holly"
+msgid "Wowee! that's some mighty high praise from you!"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/43/s/0
+msgctxt "Choix"
+msgid "Your majesty."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/44/s/0
+msgctxt "Choix"
+msgid "Hey Daddy."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/45/s/0
+msgctxt "Choix"
+msgid "We're acquainted."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/46/s/0
+msgctxt "Choix"
+msgid "We've walked the duck a couple times."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/c-0/7 holly_holidays/holly_duck_love_friendship/0/c-1/15
+msgctxt "Rebel"
+msgid "Cheeky."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/c-1/7
+msgctxt "Holly"
+msgid "<w>CUUUUTTTTEEEE.</w>"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/c-2/7/b/1
+msgctxt "Rebel"
+msgid "We fucked."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/c-3/7
+msgctxt "Rebel"
+msgid "I'm the one doing the walking, mind you."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/0
+msgctxt "Holly"
+msgid "GOOD FOR YOU!"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/8
+msgctxt "Holly"
+msgid "Here I was thinking you were gonna push EVERYONE away."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/16/b/1
+msgctxt "Holly"
+msgid "BUT HERE YOU ARE MAKING FRIENDS!"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/19
+msgctxt "Holly"
+msgid "AHHH! I'M GONNA CRYYYY."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/38
+msgctxt "Holly"
+msgid "<w>DUCK FRIEEENNNDDD!</w>"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/46
+msgctxt "Rebel"
+msgid "Duck meeeeee you're soooooooo LOOOOUUUUD. What do you want?"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/54 holly_holidays/holly_duck_null/67
+msgctxt "Holly"
+msgid "I need to dump some flyers. Help me out with the bathroom drop?"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/70 holly_holidays/holly_duck_null/83
+msgctxt "Holly"
+msgid "<w>PLEAAAASSSSSSEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee?</w>"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/81 holly_holidays/holly_duck_null/110
+msgctxt "Rebel"
+msgid "Fine. But get the duck outta here. They'll start thinking I'm soft."
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/89 holly_holidays/holly_duck_null/118
+msgctxt "Holly"
+msgid "But you ARE soft! And SQUISHY!"
+msgstr ""
+
+#: holly_holidays/holly_duck_love_friendship/0/g-0/97 holly_holidays/holly_duck_null/126
+msgctxt "Rebel"
+msgid "SQUISH THIS!"
+msgstr ""
+
+#: holly_holidays/holly_duck_null/0
+msgctxt "Rebel"
+msgid "Who the duck is that?"
+msgstr ""
+
+#: holly_holidays/holly_duck_null/11
+msgctxt "Holly"
+msgid "They. Are. New!"
+msgstr ""
+
+#: holly_holidays/holly_duck_null/27
+msgctxt "Holly"
+msgid "Be nice Rebbiieeee."
+msgstr ""
+
+#: holly_holidays/holly_duck_null/35
+msgctxt "Rebel"
+msgid "Mmmmno."
+msgstr ""
+
+#: holly_holidays/holly_duck_null/43
+msgctxt "Holly"
+msgid "Ughh."
+msgstr ""
+
+#: holly_holidays/holly_duck_null/51
+msgctxt "Rebel"
+msgid "UGGGGHHHH."
+msgstr ""
+
+#: holly_holidays/holly_duck_null/59
+msgctxt "Rebel"
+msgid "What do you want?"
+msgstr ""
+
+#: holly_holidays/holly_duck_null/94
+msgctxt "Rebel"
+msgid "Fine. Only cause you're cute."
+msgstr ""
+
+#: holly_holidays/holly_duck_null/102
+msgctxt "Holly"
+msgid "No YOU!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/9/s/0
+msgctxt "Choix"
+msgid "You know... Is this really the most optimal route?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/10/s/0
+msgctxt "Choix"
+msgid "Can't help but feel like we're going in circles."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/0
+msgctxt "Holly"
+msgid "I don't know WHAT you're talking about."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/8
+msgctxt "Holly"
+msgid "I'm just following the handbook. And if the handbook route is outdated and lends me some overtime, I'm not gonna be mad about it."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/16
+msgctxt "Holly"
+msgid "I get screwed on the daily, might as well get paid for it."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/24
+msgctxt "Holly"
+msgid "Not like that."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/35
+msgctxt "Holly"
+msgid "Not that there's anything wrong with that, though."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/51
+msgctxt "Holly"
+msgid "<w>OFFIIICCCE! BRING OUT YOUR DEAD!</w>"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/62
+msgctxt "Holly"
+msgid "Oh. And make sure you do NOT hand those flyers to Jerry. You will never see them again."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/70/s/0
+msgctxt "Choix"
+msgid "Oh really?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/71/s/0
+msgctxt "Choix"
+msgid "Actually... he's all cleaned out."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/13
+msgctxt "Jerry"
+msgid "Did someone say Jerry!?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/24
+msgctxt "Holly"
+msgid "No! Terry!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/32
+msgctxt "Jerry"
+msgid "Who's Terry!?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/40
+msgctxt "Holly"
+msgid "Oh, you know!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/51
+msgctxt "Holly"
+msgid "Terry!?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/67
+msgctxt "Holly"
+msgid "The uhh... Terrycloth!?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/102
+msgctxt "Holly"
+msgid "He's new!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/126
+msgctxt "Jerry"
+msgid "OH! TERRY!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/134
+msgctxt "Holly"
+msgid "YEP. Yep... yep... Terry. Great guy."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/145
+msgctxt "Jerry"
+msgid "Hey Holly? Did you bring any of those flyers? You know I love a good flyer!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/153
+msgctxt "Holly"
+msgid "Okay. Nice chatting Jerry!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/161
+msgctxt "Jerry"
+msgid "Nice chatting!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/169
+msgctxt "Jerry"
+msgid "Say hi to Terry!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/177
+msgctxt "Holly"
+msgid "I will!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/185
+msgctxt "Jerry"
+msgid "Great chat!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/193
+msgctxt "Holly"
+msgid "Great chat!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/207
+msgctxt "Holly"
+msgid "You know what? I'm just gonna put these right here..."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-2/215
+msgctxt "Holly"
+msgid "And run."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/7
+msgctxt "Holly"
+msgid "Really??"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/15
+msgctxt "Holly"
+msgid "Never thought I'd see the day."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/23
+msgctxt "Holly"
+msgid "Does that mean that he's just... a drawer?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/31/0/s/0
+msgctxt "Choix"
+msgid "It does!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/31/1/s/0
+msgctxt "Choix"
+msgid "Yep, he really needed it."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/31/c-0/7
+msgctxt "Holly"
+msgid "Hopefully he's good at drawing..."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/31/c-1/7
+msgctxt "Holly"
+msgid "Huh."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-0/c-3/31/c-1/15
+msgctxt "Holly"
+msgid "<i>Hope you don't ever clean out your old decorations... just sayin'.</i>"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-1/0
+msgctxt "Holly"
+msgid "Next stop. The land of the LIVING."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "The living room?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-1/c-4/7
+msgctxt "Holly"
+msgid "You know it!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/6
+msgctxt "Holly"
+msgid "Close one."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/14
+msgctxt "Holly"
+msgid "Jerry is great, mind you!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/22/b/1
+msgctxt "Holly"
+msgid "But he gobbles flyers up like pastries and then he NEVER actually goes to the event anyway!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/23/b/1
+msgctxt "Holly"
+msgid "But he would gobble flyers up like pastries, and then he never would actually go to the event anyway."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/26
+msgctxt "Holly"
+msgid "And then my boss is always like \"WhY iS No OnE HErE!?\""
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/34
+msgctxt "Holly"
+msgid "Cause one drawer took 20 flyers. What do you want me to do, you know?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/42
+msgctxt "Holly"
+msgid "Also cause your event is a little... meh."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/50
+msgctxt "Holly"
+msgid "...don't tell him I said that."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/61/s/0
+msgctxt "Choix"
+msgid "Don't like your boss?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/62/s/0
+msgctxt "Choix"
+msgid "My lips are sealed."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/63/s/0
+msgctxt "Choix"
+msgid "I mean I don't even know his name."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/c-7/7
+msgctxt "Holly"
+msgid "Yeah, I didn't say it I don't think. He likes his secrecy."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/c-7/15/0/s/0
+msgctxt "Choix"
+msgid "C'mon, you can tell me. I keep great secrets."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/c-7/15/1/s/0
+msgctxt "Choix"
+msgid "Oh, okay."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/c-7/15/c-0/7
+msgctxt "Holly"
+msgid "I signed a lawn-dislosure agreement! I'll get in trouble!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/c-7/15/c-0/18
+msgctxt "Holly"
+msgid "Well... I suppose it wouldn't hurt to say, his name is Rufio?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/c-7/15/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Is he... a roof?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-2/c-7/15/c-0/26/c-0/7
+msgctxt "Holly"
+msgid "LDA! LDA!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/0
+msgctxt "Holly"
+msgid "He's fine. He's a good boss."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/8
+msgctxt "Holly"
+msgid "ANYWAY. Here we are! The land of the LIVING! Where we come to LAAAAAZZZZZZZZZEEE."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/19
+msgctxt "Holly"
+msgid "Ironic. No?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/27/s/0
+msgctxt "Choix"
+msgid "Less so when you say it."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/28/s/0
+msgctxt "Choix"
+msgid "A little."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/29/s/0
+msgctxt "Choix"
+msgid "Always thought that."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/c-8/7
+msgctxt "Holly"
+msgid "Well I think it is."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/c-9/7
+msgctxt "Holly"
+msgid "I suppose living is in the eye of the liver."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-3/c-10/7
+msgctxt "Holly"
+msgid "SAME!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/0
+msgctxt "Holly"
+msgid "Lots of holidays at home here. Simmering around."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/8
+msgctxt "Holly"
+msgid "What's your favorite?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "Valdiviantine's Day."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "Blissmas."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/18/s/0
+msgctxt "Choix"
+msgid "Balloween."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/19/s/0
+msgctxt "Choix"
+msgid "You wouldn't have heard of it."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/c-11/7
+msgctxt "Holly"
+msgid "When they bought their own holiday I thought it was silly."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/c-11/15
+msgctxt "Holly"
+msgid "But the traditional themed ice cream is DELISH!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/c-12/7
+msgctxt "Holly"
+msgid "So many presents. So much bliss. So little organized religion."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/c-13/7
+msgctxt "Holly"
+msgid "That holiday has dropped in popularity but it always bounces back..."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-4/c-14/7
+msgctxt "Holly"
+msgid "That's the best kind."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/0
+msgctxt "Holly"
+msgid "I love the small ones. I mean, I love all of them, of course, but I adore the small ones. The ones you'd never know."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/8
+msgctxt "Holly"
+msgid "Cause you know for sure those people are there cause they want to be. Cause they care. And that's all it is, right?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/16
+msgctxt "Holly"
+msgid "A holiday. A group of people, big or small, willing wonder into the world."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/24
+msgctxt "Holly"
+msgid "And what could be more wonderful?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/32
+msgctxt "Holly"
+msgid "I'd put up with all the silly shifts in the world to be a part of that."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/40/s/0
+msgctxt "Choix"
+msgid "Looks like you do."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/41/s/0
+msgctxt "Choix"
+msgid "I still say"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/41/s/4/b/0
+msgctxt "Choix"
+msgid "Valentines"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/41/s/9/b/0
+msgctxt "Choix"
+msgid "Blissmas"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/41/s/14/b/0
+msgctxt "Choix"
+msgid "Balloween"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/41/s/16
+msgctxt "Choix"
+msgid "is the best."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/42/s/0
+msgctxt "Choix"
+msgid "So you do hate your job?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/c-16/7
+msgctxt "Holly"
+msgid "Hah!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-5/c-17/7
+msgctxt "Holly"
+msgid "I love what it lets me be a part of."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/6
+msgctxt "Dante"
+msgid "Someone's getting sentimental."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/17/b/1
+msgctxt "Dante"
+msgid "Careful with this one, Holly."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/20
+msgctxt "Holly"
+msgid "<w>Danteeeeeeeeeeeeee!</w>"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/31
+msgctxt "Dante"
+msgid "Flyer drop?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/39
+msgctxt "Holly"
+msgid "Flyer drop."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/47
+msgctxt "Dante"
+msgid "It might be the ash talking, but you really oughta take a break."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/55 holly_holidays/hollyreturnlove/0/c-1/7
+msgctxt "Holly"
+msgid "You know me."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/63
+msgctxt "Dante"
+msgid "That I do."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/71
+msgctxt "Dante"
+msgid "And you really oughta take a break."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/79
+msgctxt "Dante"
+msgid "When was the last time you did?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/87
+msgctxt "Holly"
+msgid "Oh. It was when it was."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/95
+msgctxt "Holly"
+msgid "Can I leave these with you?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/103
+msgctxt "Dante"
+msgid "If you promise to take a day off."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/111
+msgctxt "Holly"
+msgid "I PROMISE."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/122
+msgctxt "Dante"
+msgid "...thoroughly convinced."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/130
+msgctxt "Holly"
+msgid "Thanks Danteeeeeeee, you are my favourite fireplace."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/141
+msgctxt "Dante"
+msgid "I'm your only fireplace."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/149
+msgctxt "Holly"
+msgid "AND my favourite!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/157
+msgctxt "Dante"
+msgid "...get some rest."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/165
+msgctxt "Holly"
+msgid "And REST we shall!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/182
+msgctxt "Holly"
+msgid "Whooo-weeee."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/190
+msgctxt "Holly"
+msgid "Thanks for today."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/198
+msgctxt "Holly"
+msgid "Truth be told, I'm a bit petered out."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/206
+msgctxt "Holly"
+msgid "But I really appreciate your company."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/214
+msgctxt "Holly"
+msgid "I've actually got another shift in a bit, but swing by soon and we can hang out again?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/222
+msgctxt "Holly"
+msgid "I've got a couple of flyer shifts lately, so I'm always happy for a walking buddy."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/230/s/0
+msgctxt "Choix"
+msgid "Should you really be going to another shift?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/231/s/0
+msgctxt "Choix"
+msgid "You really are a workhorse."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/232/s/0
+msgctxt "Choix"
+msgid "Didn't you promise Dante you'd get some rest?"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/c-18/7
+msgctxt "Holly"
+msgid "Why not? I've got the pep. Might as well use it."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/c-19/7
+msgctxt "Holly"
+msgid "Neigh neigh."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/c-20/7
+msgctxt "Holly"
+msgid "And rest I shall!"
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-6/c-20/15
+msgctxt "Holly"
+msgid "Right after this shift."
+msgstr ""
+
+#: holly_holidays/holly_office/0/g-7/0
+msgctxt "Holly"
+msgid "I really oughta start getting ready though. Swing by soon, sunshine!"
+msgstr ""
+
+#: holly_holidays/holly4/0/6
+msgctxt "Narrator"
+msgid "You can already tell Holly isn't here because of the pointed silence, but it's still a bit jarring to look around and not see her anywhere."
+msgstr ""
+
+#: holly_holidays/holly4/0/11/b/1
+msgctxt "Narrator"
+msgid "Someone else seems to be here in her stead—she looks at you like she's been expecting you."
+msgstr ""
+
+#: holly_holidays/holly4/0/12/b/1
+msgctxt "Narrator"
+msgid "Florence appears to be here in her stead—she looks at you like she's been expecting you."
+msgstr ""
+
+#: holly_holidays/holly4/0/21/b/1
+msgctxt "Florence"
+msgid "Huh. It's you. Back to take some more?"
+msgstr ""
+
+#: holly_holidays/holly4/0/24/b/1
+msgctxt "Florence"
+msgid "Well hey there. What brings you around?"
+msgstr ""
+
+#: holly_holidays/holly4/0/27/b/1
+msgctxt "Florence"
+msgid "I'm Florence, the floor. I work in Mayor Celia's office on the second floor landing."
+msgstr ""
+
+#: holly_holidays/holly4/0/27/b/18
+msgctxt "Florence"
+msgid "You're Holly's friend?"
+msgstr ""
+
+#: holly_holidays/holly4/0/30/s/0
+msgctxt "Choix"
+msgid "Is the one anointed in mistletoe around?"
+msgstr ""
+
+#: holly_holidays/holly4/0/31/s/0
+msgctxt "Choix"
+msgid "Here for Holly, actually."
+msgstr ""
+
+#: holly_holidays/holly4/0/32/s/0
+msgctxt "Choix"
+msgid "It's good to see you my love, but I'm actually here for Holly."
+msgstr ""
+
+#: holly_holidays/holly4/0/33/s/0
+msgctxt "Choix"
+msgid "It's good to see you my friend, but I'm actually here for Holly."
+msgstr ""
+
+#: holly_holidays/holly4/0/34/s/0
+msgctxt "Choix"
+msgid "Where's Holly?"
+msgstr ""
+
+#: holly_holidays/holly4/0/c-1/7
+msgctxt "Florence"
+msgid "Holly's not taking visitors."
+msgstr ""
+
+#: holly_holidays/holly4/0/c-1/23
+msgctxt "Florence"
+msgid "That was rude. Sorry."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/0
+msgctxt "Florence"
+msgid "She's not well. She does this thing every couple of months where she refuses to take a day off until her body catches up with her and she just..."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/8
+msgctxt "Florence"
+msgid "...shuts down."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Why do you think that is?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "That's too bad."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/c-5/7
+msgctxt "Florence"
+msgid "She's a busy bee."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/c-5/15
+msgctxt "Florence"
+msgid "A silly busy bee."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/c-5/23
+msgctxt "Florence"
+msgid "I'd say come see her, but she's asleep."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/c-6/7
+msgctxt "Florence"
+msgid "It's kind of strange... She's so in love with the holidays, but she never gets to spend one with us unless it's like this."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-0/c-6/15
+msgctxt "Florence"
+msgid "Never really feels like a holiday."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/0
+msgctxt "Florence"
+msgid "She'll be fine. So she says."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/8
+msgctxt "Florence"
+msgid "Always is, poor thing."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "You've tried to stop her?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "I didn't realise it was that bad."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "Can I help?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/c-8/7
+msgctxt "Florence"
+msgid "Have you met her?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/c-9/7
+msgctxt "Florence"
+msgid "Well she's hardly the first to let folks know."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-1/c-10/7
+msgctxt "Florence"
+msgid "Tell her to stop working so hard? I mean, good luck."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/0
+msgctxt "Florence"
+msgid "No. What she needs is rest. Trust me, we've tried everything else."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/8
+msgctxt "Betty"
+msgid "Almost everything!"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/16
+msgctxt "Florence"
+msgid "Everything worthwhile!"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/27/b/1
+msgctxt "Betty"
+msgid "Oh. It's you..."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/36
+msgctxt "Kopi"
+msgid "What she means is, we've tried everything easy."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/44/b/1
+msgctxt "Kopi"
+msgid "You'd know all about the easy track."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/47/s/0
+msgctxt "Choix"
+msgid "So what haven't you tried?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/48/s/0
+msgctxt "Choix"
+msgid "Good to see you too."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/49/s/0
+msgctxt "Choix"
+msgid "And what's hard?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-2/c-12/18
+msgctxt "Florence"
+msgid "I think what the human is trying to say is..."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/0
+msgctxt "Betty"
+msgid "We haven't gotten her fired."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/8
+msgctxt "Kopi"
+msgid "Yet."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/16
+msgctxt "Florence"
+msgid "Ever."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "That seems a bit hectic for you, Kopi."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "That seems drastic."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/26/s/0
+msgctxt "Choix"
+msgid "Why not?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/c-14/7
+msgctxt "Kopi"
+msgid "We're not machines, even if Holly comes close. it's not exactly sustainable, or fiscal, to work oneself to the bone."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/c-15/7
+msgctxt "Florence"
+msgid "That's what I said."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/c-15/15
+msgctxt "Kopi"
+msgid "Drastic times."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/c-15/23
+msgctxt "Betty"
+msgid "Drastic measures."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/c-16/7
+msgctxt "Florence"
+msgid "Because it would destroy her."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/c-16/15
+msgctxt "Betty"
+msgid "And us."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-3/c-16/23
+msgctxt "Kopi"
+msgid "Probably."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/0
+msgctxt "Florence"
+msgid "We care about her. It's just painful to see her like this over a job that doesn't even pay that well."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/8
+msgctxt "Kopi"
+msgid "It pays atrociously."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "So you've considered it?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "And your solution is getting her fired?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/c-17/7 holly_holidays/holly4/0/g-4/c-18/7
+msgctxt "Florence"
+msgid "No."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/c-17/15 holly_holidays/holly4/0/g-4/c-18/15
+msgctxt "Betty"
+msgid "Yes."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/c-17/23 holly_holidays/holly4/0/g-4/c-18/23
+msgctxt "Florence"
+msgid "No..."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/c-17/47 holly_holidays/holly4/0/g-4/c-18/47
+msgctxt "Florence"
+msgid "Ugh..."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-4/c-17/55
+msgctxt "Florence"
+msgid "Yes."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/0
+msgctxt "Narrator"
+msgid "An awkward silence falls over your assembled group—no one can quite look you in the eye."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/5
+msgctxt "Florence"
+msgid "We have... maybe... possibly. Occasionally considered the thought."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/13
+msgctxt "Betty"
+msgid "Regularly."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/21
+msgctxt "Kopi"
+msgid "Increasingly so."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/29
+msgctxt "Florence"
+msgid "In jest."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/53
+msgctxt "Florence"
+msgid "Mostly."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/61
+msgctxt "Florence"
+msgid "But we won't."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/69
+msgctxt "Kopi"
+msgid "Probably not."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/77
+msgctxt "Betty"
+msgid "Probably."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/85
+msgctxt "Florence"
+msgid "Definitely."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/93
+msgctxt "Florence"
+msgid "We'll figure something out."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/104
+msgctxt "Narrator"
+msgid "A distant shout sends chills up your spine."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/109
+msgctxt "Holly"
+msgid "I'm <w>AWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKE.</w>"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/114
+msgctxt "Kopi"
+msgid "Back to it!"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/125
+msgctxt "Narrator"
+msgid "Kopi and Betty scatter, leaving you and Florence alone to face Holly."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/136/s/0
+msgctxt "Choix"
+msgid "Holly?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-5/137/s/0
+msgctxt "Choix"
+msgid "Uh oh."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/6
+msgctxt "Holly"
+msgid "AWWWWWW. You came to seee <w>meeeeeeeeeee!</w>"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/14
+msgctxt "Florence"
+msgid "You're supposed to be resting, Holly!"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/22
+msgctxt "Holly"
+msgid "YOU'RE SUPPOSED TO BE RESTING!"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/30
+msgctxt "Florence"
+msgid "Go to bed."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/38
+msgctxt "Holly"
+msgid "You're NOT my MOTHER."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/54
+msgctxt "Holly"
+msgid "Besides. I picked up a shift."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/73
+msgctxt "Holly"
+msgid "I'm <w>fiiiiiiiiiiine.</w>"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/81
+msgctxt "Florence"
+msgid "And I'm out. Have fun."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/92
+msgctxt "Narrator"
+msgid "Holly turns to you, her jaw dropping open to slur out an extended greeting. She doesn't quite seem her usual energetic self."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/100
+msgctxt "Holly"
+msgid "You <w>caaaaaaaaaaaaameeeeeeeeee.</w>"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/108/s/0
+msgctxt "Choix"
+msgid "Are you drunk?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/109/s/0
+msgctxt "Choix"
+msgid "Should you really be working?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/110/s/0
+msgctxt "Choix"
+msgid "I diiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiid."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/c-21/7
+msgctxt "Holly"
+msgid "NOPE. No drunk. Only drink. No sleep. Only wake."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/c-22/7
+msgctxt "Holly"
+msgid "No rest. Only work. No sleep. Only wake."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/c-23/7
+msgctxt "Holly"
+msgid "Yaaaaaaaaaaay!"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/c-23/18/0/s/0
+msgctxt "Choix"
+msgid "How are you holding up?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/c-23/18/1/s/0
+msgctxt "Choix"
+msgid "Florence said you were feeling a bit rough."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-6/c-23/18/c-1/7
+msgctxt "Holly"
+msgid "Well Florence is a filthy LIAR. A SCOUNDREL. COAL FOR BLISSMAS."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/0
+msgctxt "Holly"
+msgid "I'm GREAT. Just had a powernap, picked up a shift, ready to RUUUMBLLLLLEEEEE!"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/8
+msgctxt "Holly"
+msgid "LET'S."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/16 holly_holidays/hollyfriendshipending/0/g-5/16
+msgctxt "Holly"
+msgid "JINGLE."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/24
+msgctxt "Holly"
+msgid "THOSE."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/32
+msgctxt "Holly"
+msgid "<w>BEEEEEEELLLLLLLLLLLLLS.</w>"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/40/b/1
+msgctxt "Holly"
+msgid "Florence is actually really lovely I didn't mean that at all, I'm just, I actually, I-I, I'm actually, just... heh... a little tired is all."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/40/b/9
+msgctxt "Holly"
+msgid "Only a little."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/40/b/17
+msgctxt "Holly"
+msgid "But not too much."
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/40/b/25
+msgctxt "Holly"
+msgid "You know?"
+msgstr ""
+
+#: holly_holidays/holly4/0/g-7/43
+msgctxt "Holly"
+msgid "AND ON THAT NOTE!"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/25/s/0
+msgctxt "Choix"
+msgid "Is that the Gleester Bunny!?"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/7
+msgctxt "Holly"
+msgid "BRUCE!? BRUCE!?"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/15
+msgctxt "Holly"
+msgid "WHERE IS THAT BIG BEAUTIFUL FLUFFY BASTARD!?"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/23
+msgctxt "Holly"
+msgid "<w>BRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCCCCCCCCCCEEEEEEE!</w>"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/37
+msgctxt "Holly"
+msgid "<w>Bruuuuuuuce?</w>"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/45
+msgctxt "Holly"
+msgid "<w>Here bunny bunny bunny!</w>"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/56
+msgctxt "Holly"
+msgid "<w>BRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCEEEEEE?</w>"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/61
+msgctxt "Holly"
+msgid "I brought milk!"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/69
+msgctxt "Holly"
+msgid "And cookies!"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/77
+msgctxt "Holly"
+msgid "Oh. That's the other guy."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/85
+msgctxt "Holly"
+msgid "With the beard."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/93
+msgctxt "Holly"
+msgid "What's his name again?"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/109
+msgctxt "Holly"
+msgid "Florence says I'm grounded."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/117
+msgctxt "Holly"
+msgid "She's not my mom."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/125
+msgctxt "Holly"
+msgid "Ground."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/133
+msgctxt "Holly"
+msgid "Dead."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/c-1/141
+msgctxt "Narrator"
+msgid "Holly collapses forward face-first, completely knocked out. A pair of arms catch her at the last minute stopping her from smashing her face on the floor."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/3
+msgctxt "Betty"
+msgid "I've got her."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/11
+msgctxt "Narrator"
+msgid "Betty eases Holly to the ground, gently lying her down before slipping away."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/28
+msgctxt "Holly"
+msgid "But I've got a <w>shiiiiiiiiifffffffffffffffft.</w>"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/39
+msgctxt "Betty"
+msgid "Just a dream..."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/50
+msgctxt "Florence"
+msgid "Merry Blissmas."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/58/s/0
+msgctxt "Choix"
+msgid "I didn't realise she got that bad."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/59/s/0
+msgctxt "Choix"
+msgid "That was kinda funny."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/c-2/7
+msgctxt "Florence"
+msgid "I warned you. Sometimes you've just got to see it for yourself."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/c-3/7
+msgctxt "Florence"
+msgid "The first couple of times. Maybe."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-0/c-4/7
+msgctxt "Florence"
+msgid "Welcome to holiday Holly."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Is it always that bad?"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "She seems fine, maybe a little tired, but fine."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "I thought she was drunk."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-1/c-5/7
+msgctxt "Florence"
+msgid "Worse."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-1/c-6/7
+msgctxt "Florence"
+msgid "You're only seeing the facade."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-1/c-7/7
+msgctxt "Florence"
+msgid "Imagine that, plus drunk."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-1/c-7/15
+msgctxt "Florence"
+msgid "Full blown silly season."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/11
+msgctxt "Florence"
+msgid "There it is."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/19
+msgctxt "Florence"
+msgid "Poor Betty."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/27
+msgctxt "Florence"
+msgid "...don't worry. There's no fluids or anything."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/35
+msgctxt "Florence"
+msgid "Just a whoooole lotta tinsel."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/43
+msgctxt "Florence"
+msgid "I should go and help."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/51/s/0
+msgctxt "Choix"
+msgid "I won't keep you."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/52/s/0
+msgctxt "Choix"
+msgid "Is she gonna be all right?"
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/c-8/7/b/1
+msgctxt "Florence"
+msgid "Aw. I always love it when you do."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/c-8/10
+msgctxt "Florence"
+msgid "Thank you for your help."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/c-9/7
+msgctxt "Florence"
+msgid "She's usually like this for a couple days."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/c-9/15
+msgctxt "Florence"
+msgid "I'm sure she appreciates you swinging by, but what she really needs is rest."
+msgstr ""
+
+#: holly_holidays/HollyBruce/0/g-2/c-9/23
+msgctxt "Florence"
+msgid "So... bye."
+msgstr ""
+
+#: holly_holidays/holly5/0/0
+msgctxt "Narrator"
+msgid "Florence is still here in Holly's place. She shakes her head when she sees you, confirming what you've already suspected."
+msgstr ""
+
+#: holly_holidays/holly5/0/29/b/1
+msgctxt "Florence"
+msgid "Was kinda hoping you wouldn't be back."
+msgstr ""
+
+#: holly_holidays/holly5/0/32/b/1
+msgctxt "Florence"
+msgid "Oh, you're back."
+msgstr ""
+
+#: holly_holidays/holly5/0/35
+msgctxt "Florence"
+msgid "She's still out of it. She went really hard this time."
+msgstr ""
+
+#: holly_holidays/holly5/0/43/s/0
+msgctxt "Choix"
+msgid "I'll give her some space."
+msgstr ""
+
+#: holly_holidays/holly5/0/44/s/0
+msgctxt "Choix"
+msgid "I want to help."
+msgstr ""
+
+#: holly_holidays/holly5/0/c-0/7/b/1
+msgctxt "Florence"
+msgid "And me, hopefully."
+msgstr ""
+
+#: holly_holidays/holly5/0/c-0/10/b/1
+msgctxt "Florence"
+msgid "She'll appreciate it in the long run."
+msgstr ""
+
+#: holly_holidays/holly5/0/c-1/10
+msgctxt "Betty"
+msgid "Whatever you're thinking of, we've already thought it."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-0/0/s/0 holly_holidays/holly5/0/g-1/0/s/0 holly_holidays/hollysecondthought/0/8/s/0
+msgctxt "Choix"
+msgid "I'll get her fired."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "Hear me out."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "But have you done it?"
+msgstr ""
+
+#: holly_holidays/holly5/0/g-0/c-3/7/b/1
+msgctxt "Florence"
+msgid "Talk."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-0/c-3/10 holly_holidays/hollysecondthought/0/0
+msgctxt "Florence"
+msgid "We're all ears."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-0/c-4/15
+msgctxt "Betty"
+msgid "...well..."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-0/c-4/26
+msgctxt "Kopi"
+msgid "Rude."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "I'm going to take her on a date."
+msgstr ""
+
+#: holly_holidays/holly5/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "I'm going to make a new holiday!"
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/0
+msgctxt "Narrator"
+msgid "Your words stun the room into silence. It takes a few moments before anyone manages to actually say anything of substance."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/21
+msgctxt "Florence"
+msgid "Oh."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/29
+msgctxt "Betty"
+msgid "Oh ho ho."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/37
+msgctxt "Florence"
+msgid "That'll end in tears."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/45
+msgctxt "Kopi"
+msgid "There's a reason we haven't done it."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/53/s/0 holly_holidays/hollyfireddiscussion/0/g-0/74/s/0 holly_holidays/hollyfireddiscussion/0/g-1/77/s/0 holly_holidays/hollysublovediscussion/0/g-1/17/s/0 holly_holidays/hollyfriendshipdiscussion/0/g-2/28/s/0
+msgctxt "Choix"
+msgid "On second thought."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/54/s/0
+msgctxt "Choix"
+msgid "So I will."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/55/s/0
+msgctxt "Choix"
+msgid "But you should."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-0/8
+msgctxt "Betty"
+msgid "Yeah..."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-0/33
+msgctxt "Betty"
+msgid "...so... how exactly is this gonna work?"
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-0/66
+msgctxt "Florence"
+msgid "You're serious?"
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-0/75/s/0
+msgctxt "Choix"
+msgid "It's for the best."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-0/76/s/0
+msgctxt "Choix"
+msgid "Deathly."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/0
+msgctxt "Narrator"
+msgid "They all exchange a few looks—you're struck by the feeling they've talked about this possibility many, many times."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/5
+msgctxt "Florence"
+msgid "You'll need cause."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/13
+msgctxt "Kopi"
+msgid "She won't give you much."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/21
+msgctxt "Betty"
+msgid "She's frustratingly good at her job."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/29
+msgctxt "Florence"
+msgid "But if she's cutting corners."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/37
+msgctxt "Kopi"
+msgid "Which she'll have to be, bureaucracy and all."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/45
+msgctxt "Florence"
+msgid "That should be enough."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/53
+msgctxt "Betty"
+msgid "You'll need someone willing to tell on her."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/61
+msgctxt "Florence"
+msgid "It might go..."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/69
+msgctxt "Kopi"
+msgid "Poorly."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/78/s/0
+msgctxt "Choix"
+msgid "I've got someone in mind..."
+msgstr ""
+
+#: holly_holidays/hollyfireddiscussion/0/g-1/79/s/0
+msgctxt "Choix"
+msgid "I'll see what I can do."
+msgstr ""
+
+#: holly_holidays/hollylovediscussion/0/b/1
+msgctxt "Florence"
+msgid "You can't just date everything. Besides, good luck finding the time."
+msgstr ""
+
+#: holly_holidays/hollylovediscussion/3/b/1
+msgctxt "Florence"
+msgid "Good luck finding the time."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/0/s/0
+msgctxt "Choix"
+msgid "It's worked so far."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/1/s/0
+msgctxt "Choix"
+msgid "Jealous?"
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/2/s/0
+msgctxt "Choix"
+msgid "I'll just tell her it's Valdiviantine's in July. June? What month is it?"
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/c-0/7
+msgctxt "Florence"
+msgid "Still... Holly's different."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/c-1/7
+msgctxt "Florence"
+msgid "Don't be ridiculous."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/c-2/23
+msgctxt "Kopi"
+msgid "She'll say she's got \"work.\""
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/c-2/31
+msgctxt "Florence"
+msgid "She'll believe it though."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/c-2/39/0/s/0
+msgctxt "Choix"
+msgid "We'll just tell her they moved the dates because taxes."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-0/0
+msgctxt "Kopi"
+msgid "I hate how much that might work."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-0/8
+msgctxt "Florence"
+msgid "I could talk to some folks."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-0/16
+msgctxt "Betty"
+msgid "Kinda weird taking her on a date without asking."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-0/24
+msgctxt "Florence"
+msgid "She's definitely... expressed interest."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "Oh..."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "That checks out."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-1/0
+msgctxt "Florence"
+msgid "She just doesn't have the time."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-1/8
+msgctxt "Florence"
+msgid "So she says."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Great. Sounds like a plan."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-1/c-5/7
+msgctxt "Florence"
+msgid "We'll let folks know to give you some space. Give you the house to yourselves, as much as possible."
+msgstr ""
+
+#: holly_holidays/hollysublovediscussion/0/g-1/c-5/15
+msgctxt "Florence"
+msgid "But give her a night at least, poor thing's still off with the fairies."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/0
+msgctxt "Florence"
+msgid "That seems..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/8
+msgctxt "Kopi"
+msgid "Counterintuitive."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/16/s/0
+msgctxt "Choix"
+msgid "A holiday for Holly."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/17/s/0
+msgctxt "Choix"
+msgid "Except the whole point will be to celebrate Holly."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-0/0
+msgctxt "Florence"
+msgid "And her job will be to enjoy it."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Precisely."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Something like that."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-1/0
+msgctxt "Narrator"
+msgid "They all exchange looks—but they don't seem unconvinced."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-1/5
+msgctxt "Betty"
+msgid "It's roundabout."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-1/13
+msgctxt "Florence"
+msgid "But it could work."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-1/21
+msgctxt "Kopi"
+msgid "It's the kind of roundabout that could."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-1/29/s/0
+msgctxt "Choix"
+msgid "But we'll need folks to pitch in."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-1/30/s/0
+msgctxt "Choix"
+msgid "It'll be all hands on deck."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-2/0
+msgctxt "Florence"
+msgid "Otherwise she'll just take it all on herself."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-2/16
+msgctxt "Florence"
+msgid "We'll ask around."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipdiscussion/0/g-2/29/s/0
+msgctxt "Choix"
+msgid "I'll leave it to you then."
+msgstr ""
+
+#: holly_holidays/hollysecondthought/0/9/s/0
+msgctxt "Choix"
+msgid "Getting her fired seems like the safest bet."
+msgstr ""
+
+#: holly_holidays/hollysecondthought/0/10/s/0
+msgctxt "Choix"
+msgid "I'm gonna take her on a date."
+msgstr ""
+
+#: holly_holidays/hollysecondthought/0/11/s/0
+msgctxt "Choix"
+msgid "I'm gonna take her on that date."
+msgstr ""
+
+#: holly_holidays/hollysecondthought/0/12/s/0
+msgctxt "Choix"
+msgid "I'm gonna make a new holiday."
+msgstr ""
+
+#: holly_holidays/hollysecondthought/0/13/s/0
+msgctxt "Choix"
+msgid "Let's make that holiday happen."
+msgstr ""
+
+#: holly_holidays/hollysecondthought/0/c-3/13 holly_holidays/hollysecondthought/0/c-5/13
+msgctxt "Florence"
+msgid "Leave it to us. We'll clear the house for you."
+msgstr ""
+
+#: holly_holidays/hollysecondthought/0/c-3/21 holly_holidays/hollysecondthought/0/c-5/21
+msgctxt "Florence"
+msgid "You come back when you're ready."
+msgstr ""
+
+#: holly_holidays/holly_hate_quest_begin/6
+msgctxt "Florence"
+msgid "Then you'll need to find a hater to help."
+msgstr ""
+
+#: holly_holidays/holly_hate_quest_begin/14
+msgctxt "Kopi"
+msgid "...I think Jerry would be the one most likely to raise a stink."
+msgstr ""
+
+#: holly_holidays/holly_hate_quest_begin/22
+msgctxt "Betty"
+msgid "Why? Because of the smell?"
+msgstr ""
+
+#: holly_holidays/holly_hate_quest_begin/30
+msgctxt "Florence"
+msgid "Betty!"
+msgstr ""
+
+#: holly_holidays/holly_hate_quest_begin/38
+msgctxt "Kopi"
+msgid "If you don't do it..."
+msgstr ""
+
+#: holly_holidays/holly_hate_quest_begin/46
+msgctxt "Betty"
+msgid "Don't worry. Operation Holly Day will be in full force."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/24
+msgctxt "Florence"
+msgid "Good. You're here."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/32
+msgctxt "Betty"
+msgid "You didn't try to get her fired!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/40
+msgctxt "Kopi"
+msgid "We're still tying it all together."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/48
+msgctxt "Florence"
+msgid "It's a bit ramshackle."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/56
+msgctxt "Kopi"
+msgid "Holidays are Holly's thing, after all."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/64
+msgctxt "Florence"
+msgid "But we're doing our best."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/72
+msgctxt "Betty"
+msgid "Rebbie please don't pee in the lemonade."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/80
+msgctxt "Rebel"
+msgid "YOU'RE NOT MY DUCKING MOM."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/91
+msgctxt "Florence"
+msgid "Believe it or not."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/99
+msgctxt "Florence"
+msgid "EVERYONE SHUT UP!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/129
+msgctxt "Rebel"
+msgid "Yes Daddy."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/137
+msgctxt "Florence"
+msgid "Shut. Up."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/156
+msgctxt "Florence"
+msgid "And hide!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/164
+msgctxt "Narrator"
+msgid "Everyone scrambles to different corners of the room, doing their best to hide before Holly arrives."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/181/s/0
+msgctxt "Choix"
+msgid "<i>I'm hiding!</i>"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/0
+msgctxt "Holly"
+msgid "<w> GUYYYYS I'M HOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMEEEEEEEEEEEEEEE!</w>"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/8
+msgctxt "Holly"
+msgid "It was such a weird shift. It was like NO ONE was home. Which is crazy, cause we're all pretty much always home, all the time, right? Like even BETTY was missing. That's WEIRD, right?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/16
+msgctxt "Holly"
+msgid "OH HEY BOSS! Sorry I've been a bit awol. Strict R and R. Not my choice mind you!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/27
+msgctxt "Holly"
+msgid "Where is everyone?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/35
+msgctxt "Narrator"
+msgid "Holly looks around, puzzled, before cupping her hands to her mouth and shouting in every direction."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/43
+msgctxt "Holly"
+msgid "<w> FLLORRENCEE? BETTY? KOOOOPPPPIIIIII?</w>"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/51/s/0
+msgctxt "Choix"
+msgid "Did you forget?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/52/s/0
+msgctxt "Choix"
+msgid "That's so crazy! I wonder where everyone could be. It must be an important day."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-1/7
+msgctxt "Holly"
+msgid "DID I FORGET A SHIFT!?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "Nothing like that."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-1/21/1/s/0
+msgctxt "Choix"
+msgid "Did you?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-1/21/c-0/7
+msgctxt "Holly"
+msgid "Oh thank goodness."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-1/21/c-1/7
+msgctxt "Holly"
+msgid "Don't dooo <w>thaaaaaaaaaaaaat!</w>"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-1/21/c-1/15
+msgctxt "Holly"
+msgid "I don't THINK I did..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-2/7
+msgctxt "Holly"
+msgid "That's what I thought! But turns out it's just a regular old non-important day. That's what my calendar said."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Is it?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Maybe you forgot to update your calendar?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-2/15/c-0/7
+msgctxt "Holly"
+msgid "Unless... it LIED!?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-0/c-2/15/c-1/7
+msgctxt "Holly"
+msgid "Honestly? Probably..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-1/0
+msgctxt "Holly"
+msgid "But then what's going on?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Just a little... SURPRISE!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "SURPRISE!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-1/10/s/0 holly_holidays/hollyfriendshipending/0/g-2/c-6/23/0/s/0
+msgctxt "Choix"
+msgid "Happy Holly day."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/0
+msgctxt "Narrator"
+msgid "Your assembled guests—Holly's friends—jump out of their respective hiding places, all shouting in unison."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/20 holly_holidays/hollyfriendshipending/0/g-2/c-6/23/c-0/15
+msgctxt "All"
+msgid "<w>HAPPY HOLLY DAY!</w>"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/49
+msgctxt "Holly"
+msgid "AHHHHHH!!!!!!!!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/68
+msgctxt "Florence"
+msgid "I brought decorations!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/76
+msgctxt "Kopi"
+msgid "I paid for them."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/84
+msgctxt "Florence"
+msgid "The new ones."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/92
+msgctxt "Betty"
+msgid "And I kept them hidden from you."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/100
+msgctxt "Betty"
+msgid "I brought the pillows!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/108
+msgctxt "Dante"
+msgid "I brought the heat."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/120
+msgctxt "Kopi"
+msgid "I've got the coffee!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/128
+msgctxt "Narrator"
+msgid "For once, Holly is rendered speechless."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/144
+msgctxt "Holly"
+msgid "Guys..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/152
+msgctxt "Holly"
+msgid "This is so sweet..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/160
+msgctxt "Holly"
+msgid "Oh golly gosh. I think I might cry."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/168
+msgctxt "Holly"
+msgid "Y'all can't just... make up holidays like this."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/176/s/0
+msgctxt "Choix"
+msgid "That's all they are right? A group of us willing wonder into the world."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/c-6/15
+msgctxt "Holly"
+msgid "And what could be more wonderful."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-2/c-6/23/c-0/7
+msgctxt "Holly"
+msgid "Happy Holly day."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/0
+msgctxt "Holly"
+msgid "But I have a confession..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/16
+msgctxt "Holly"
+msgid "I just picked up another shift."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/24
+msgctxt "Florence"
+msgid "Oh..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/32
+msgctxt "Betty"
+msgid "What?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/48
+msgctxt "Holly"
+msgid "But! But but but... I think I'm gonna cancel it."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/56/s/0
+msgctxt "Choix"
+msgid "I think that sounds smart."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/58/s/0
+msgctxt "Choix"
+msgid "Holly...?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/c-7/7
+msgctxt "Holly"
+msgid "So do I."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/c-8/21
+msgctxt "Holly"
+msgid "Or I just won't go."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-3/c-9/7
+msgctxt "Holly"
+msgid "I am! I am gonna cancel it!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/0
+msgctxt "Holly"
+msgid "They'll be fine."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/8
+msgctxt "Holly"
+msgid "And Holly Day seems like a much, much better gig."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/16
+msgctxt "Holly"
+msgid "Plus, the co-workers seem pretty neat."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/24/s/0
+msgctxt "Choix"
+msgid "They're a handful."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/25/s/0
+msgctxt "Choix"
+msgid "Yep, they certainly are."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-10/7
+msgctxt "Holly"
+msgid "I know <i>exactly</i> who you're talking about..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-10/15/0/s/0
+msgctxt "Choix"
+msgid "Which one... tell me?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-10/15/1/s/0
+msgctxt "Choix"
+msgid "It's Lux, isn't it?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-10/15/2/s/0
+msgctxt "Choix"
+msgid "Is it the pens? Because they fit in your hand?"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-10/15/c-0/7
+msgctxt "Holly"
+msgid "My lips are gift-wrap sealed!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-10/15/c-1/7
+msgctxt "Holly"
+msgid "Yep."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-10/15/c-2/7
+msgctxt "Holly"
+msgid "You're giftin' exactly what I'm wrappin'!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-4/c-11/7
+msgctxt "Holly"
+msgid "I mean I'm quite fond of them!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-5/0
+msgctxt "Holly"
+msgid "I guess we best be started."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-5/8
+msgctxt "Holly"
+msgid "Let's..."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-5/24
+msgctxt "All"
+msgid "THOSE."
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-5/44
+msgctxt "Holly"
+msgid "BELLS!"
+msgstr ""
+
+#: holly_holidays/hollyfriendshipending/0/g-5/55
+msgctxt "Holly"
+msgid "Baby!"
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/7
+msgctxt "Narrator"
+msgid "Holly's usual energy is completely absent—her eyes are rimmed with red, and her voice is hoarse. It seems like she's been crying."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/15
+msgctxt "Holly"
+msgid "You spoke to Jerry."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/23/s/0
+msgctxt "Choix"
+msgid "I did."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/24/s/0
+msgctxt "Choix"
+msgid "Sorry."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/25/s/0
+msgctxt "Choix"
+msgid "No I didn't."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/c-0/7 holly_holidays/hollyhateending/0/c-1/7
+msgctxt "Holly"
+msgid "Why?"
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/c-2/7
+msgctxt "Holly"
+msgid "Jerry's a terrible liar. Which means he's very good at telling the truth if you know how to read him."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/c-2/15
+msgctxt "Holly"
+msgid "You're not very good at it either."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "We were worried about you."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-0/1/s/0 holly_holidays/hollyloveending/0/g-23/0/s/0
+msgctxt "Choix"
+msgid "I was worried about you."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "I thought it would be funny."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-0/c-3/7
+msgctxt "Holly"
+msgid "But YOU did it."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-0/c-4/7
+msgctxt "Holly"
+msgid "And I was fine."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-0/c-5/7
+msgctxt "Holly"
+msgid "It wasn't."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "It wasn't just me."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "You weren't healthy."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-1/c-6/7
+msgctxt "Holly"
+msgid "But it was though. They might have thought it. But you did it."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-1/c-7/7
+msgctxt "Holly"
+msgid "Neither are you, apparently."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/0
+msgctxt "Holly"
+msgid "I got fired, obviously."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/14
+msgctxt "Holly"
+msgid "Merry Blissmas."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/22/s/0
+msgctxt "Choix"
+msgid "Why did you get fired?"
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/23/s/0
+msgctxt "Choix"
+msgid "I thought I was helping..."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "I love coal! And I hate you."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-8/7
+msgctxt "Holly"
+msgid "I got fired for not doing my job."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-8/15
+msgctxt "Holly"
+msgid "I could understand it, if I actually fucked up."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-8/23
+msgctxt "Holly"
+msgid "But I actually really liked that job."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-9/7 holly_holidays/holly_realize_join/0/0
+msgctxt "Holly"
+msgid "Really?"
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-9/15
+msgctxt "Holly"
+msgid "Well, you seemed nice."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-9/23
+msgctxt "Holly"
+msgid "And I guess I seemed stupid."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-9/31
+msgctxt "Holly"
+msgid "And now... we don't have to see each other at all."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-2/c-10/7
+msgctxt "Holly"
+msgid "Wow."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-3/0
+msgctxt "Holly"
+msgid "Merry Bleeping Blissmas."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-3/46
+msgctxt "Reggie"
+msgid "I gotta say, the older I get, the more useful I think coal is."
+msgstr ""
+
+#: holly_holidays/hollyhateending/0/g-3/54
+msgctxt "Reggie"
+msgid "Thinking of adding that to my stand-up routine, whaddaya think?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/24
+msgctxt "Florence"
+msgid "Project-Get-Holly-to-Take-a-Damn-Break is a go."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/32
+msgctxt "Betty"
+msgid "She thinks it's just a standard rose drop shift."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/40
+msgctxt "Kopi"
+msgid "We'll keep the house clear so it's just you two."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/48
+msgctxt "Florence"
+msgid "Treat her right."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/56/s/0
+msgctxt "Choix"
+msgid "Always."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/57/s/0
+msgctxt "Choix"
+msgid "You sure you're not a little jealous?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/58/s/0
+msgctxt "Choix"
+msgid "I appreciate this. I know she will too."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-0/0
+msgctxt "Florence"
+msgid "We're doing it for her."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-0/8
+msgctxt "Holly"
+msgid "<w>FRIEEENNNNDDSSSSS.</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-0/13
+msgctxt "Florence"
+msgid "Good luck."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-0/30/s/0
+msgctxt "Choix"
+msgid "<i>Here we go!</i>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/3
+msgctxt "Holly"
+msgid "Aww maannnn. I wanted to say goodbye before my <w>shiiiift.</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/11
+msgctxt "Holly"
+msgid "They're all being so sneaky lately."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/19
+msgctxt "Holly"
+msgid "ANYWAY. HI. Sorry I've been so out of it lately. Crazy flu."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "You're working too hard."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "I'm glad you're feeling better."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/c-4/7
+msgctxt "Holly"
+msgid "That's what SHE said."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/c-4/23
+msgctxt "Holly"
+msgid "Literally. It's all she's been saying lately."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/c-4/31
+msgctxt "Holly"
+msgid "I just hope she's not mad."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/c-5/7
+msgctxt "Holly"
+msgid "Same."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-1/c-5/15
+msgctxt "Holly"
+msgid "Sick ain't fun for anyone."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-2/0
+msgctxt "Holly"
+msgid "But now it's back to the grind, BABY."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-2/8
+msgctxt "Holly"
+msgid "Another Venetian's Day gig, huh?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-2/16
+msgctxt "Holly"
+msgid "Not that I'm complaining, but I got all these darn roses to hand out. A whole lotta love for a whole lotta folks."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-2/24
+msgctxt "Holly"
+msgid "HOLIDAY MAGIC BABY."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-2/35/s/0
+msgctxt "Choix"
+msgid "Kitchen first, right?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-2/36/s/0
+msgctxt "Choix"
+msgid "Shall we be off?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-2/c-6/7
+msgctxt "Holly"
+msgid "DAAWWW. You remembered!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/0
+msgctxt "Holly"
+msgid "Aye aye. We're headed to where sausage gets made."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/8
+msgctxt "Holly"
+msgid "Kind of."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/19
+msgctxt "Narrator"
+msgid "You and Holly make your way to the kitchen at a comfortable pace for once."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/27
+msgctxt "Holly"
+msgid "Abraca-Kitchen!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/35
+msgctxt "Holly"
+msgid "<w>Koooooooopiiiiiii!</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/43
+msgctxt "Florence"
+msgid "SCRAM!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/74
+msgctxt "Holly"
+msgid "Kopi?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/82
+msgctxt "Narrator"
+msgid "No Kopi. Only silence."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/90/s/0
+msgctxt "Choix"
+msgid "Must be out."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-3/91/s/0
+msgctxt "Choix"
+msgid "Maybe she's not in today?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/0
+msgctxt "Holly"
+msgid "But she's always in."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/8/s/0
+msgctxt "Choix"
+msgid "Everyone needs a break sometimes."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/9/s/0
+msgctxt "Choix"
+msgid "TO THE BEDROOOM."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/10/s/0
+msgctxt "Choix"
+msgid "Betty next, right?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/c-10/7
+msgctxt "Holly"
+msgid "I suppose."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/c-10/15
+msgctxt "Holly"
+msgid "<w>Koooopiiii?</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/c-10/31
+msgctxt "Holly"
+msgid "Guess I'll just leave this one here."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/c-10/39
+msgctxt "Holly"
+msgid "Gosh, there really are a lot of roses."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/c-11/7
+msgctxt "Holly"
+msgid "BEDDY BYEEES!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-4/c-12/7
+msgctxt "Holly"
+msgid "Yup yup! You learn quick!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-5/3
+msgctxt "Narrator"
+msgid "You take another casual stroll to the bedroom. Holly is right by your side, roses clutched in her arms."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-5/17/s/0
+msgctxt "Choix"
+msgid "<i>She's coming!</i>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-5/c-13/10
+msgctxt "Kopi"
+msgid "<i>Operation Sleeping Beauty. GO. GO. GO.</i>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-5/c-13/27
+msgctxt "Holly"
+msgid "<w>BETTY BOOPAH!</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-5/c-13/38
+msgctxt "Holly"
+msgid "<w>HAVE YOU SEEN KOPI?</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-5/c-13/49
+msgctxt "Betty"
+msgid "Zzzzzz..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-5/c-13/60
+msgctxt "Narrator"
+msgid "Betty is reclined on the bed, eyes shut tight and snoring comically. For a bed, she's not great at faking sleep."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-6/0
+msgctxt "Holly"
+msgid "Betty?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-6/8
+msgctxt "Betty"
+msgid "ZZZZZZZZ..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-6/19
+msgctxt "Holly"
+msgid "Beeeeetttttttttyyy?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-6/27
+msgctxt "Betty"
+msgid "Z. Z. Z. Z. Z. Z. Z."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-6/41/s/0
+msgctxt "Choix"
+msgid "I think she might be asleep..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-7/0
+msgctxt "Holly"
+msgid "Poor thing. Always taking on everyone else's weight."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-7/8/s/0
+msgctxt "Choix"
+msgid "Is she now?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-7/9/s/0
+msgctxt "Choix"
+msgid "Sound familiar, Holly?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-7/c-15/7
+msgctxt "Holly"
+msgid "She is an angel."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-7/c-15/15
+msgctxt "Holly"
+msgid "Deserves a whole bouquet, she does."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-8/0
+msgctxt "Holly"
+msgid "Happy Venetian's Day, Betty!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-8/8
+msgctxt "Betty"
+msgid "Zzzzz..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-8/19
+msgctxt "Holly"
+msgid "Let's let her get some rest."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-8/27 holly_holidays/hollyloveending/0/g-8/c-18/7
+msgctxt "Holly"
+msgid "Potty time!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-8/41/s/0
+msgctxt "Choix"
+msgid "Potty time!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-8/42/s/0
+msgctxt "Choix"
+msgid "Potty time..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/6
+msgctxt "Betty"
+msgid "Operation Runaway Rebel is a go."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/14
+msgctxt "Rebel"
+msgid "CRIIIINGGGEEE."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/22
+msgctxt "Betty"
+msgid "Zip it."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/30
+msgctxt "Rebel"
+msgid "Yes Mummy."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/44
+msgctxt "Narrator"
+msgid "As you enter the bathroom, Holly does her best to get her energy back up once again."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/52
+msgctxt "Holly"
+msgid "REBBBBIIIIIIEEEEE!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/66
+msgctxt "Narrator"
+msgid "But there is no Rebbie, only silence."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/82
+msgctxt "Holly"
+msgid "Seriously?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/90/s/0
+msgctxt "Choix"
+msgid "They've got a high stress job. Must be taking a day off."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/91/s/0
+msgctxt "Choix"
+msgid "I know right? What a slacker."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/c-19/7
+msgctxt "Holly"
+msgid "I guess all that quacking must really get to them."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-9/c-20/7
+msgctxt "Holly"
+msgid "Oh. I don't mean that... they work very hard. It's a tough gig, you know? All that quacking..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-10/0
+msgctxt "Holly"
+msgid "They'll never tell you, but they really love roses."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-10/8/s/0
+msgctxt "Choix"
+msgid "Do you?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-10/9/s/0
+msgctxt "Choix"
+msgid "Don't we all."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-11/0
+msgctxt "Holly"
+msgid "Of course. But these ones aren't for me."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-11/8
+msgctxt "Holly"
+msgid "Anyway. A rose for Rebbie, and let's be on our way."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-11/16
+msgctxt "Holly"
+msgid "Do you remember what's next?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-11/24/s/0
+msgctxt "Choix"
+msgid "The office!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-11/25/s/0
+msgctxt "Choix"
+msgid "The living room!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-11/c-23/7
+msgctxt "Holly"
+msgid "Well aren't you STUDIOUS!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-11/c-24/7
+msgctxt "Holly"
+msgid "Not yet SILLY! It's the other one!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-12/0
+msgctxt "Holly"
+msgid "OFF TO THE OFFICE WE GO!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-12/14/s/0
+msgctxt "Choix"
+msgid "Off we go!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/9
+msgctxt "Jerry"
+msgid "And so I said \"WHO'S TERRY?\""
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/17
+msgctxt "Kopi"
+msgid "That's great Jerry but we really need you to be quiet."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/25
+msgctxt "Jerry"
+msgid "And she was all \"YOU KNOW? TERRY!\""
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/33
+msgctxt "Kopi"
+msgid "Okay but..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/44
+msgctxt "Jerry"
+msgid "And I didn't really know but I kinda just went with it you know, like \"OH! TERRY! YEAH!\""
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/55
+msgctxt "Florence"
+msgid "CODE RED. EAGLE IS APPROACHING. I REPEAT. EAGLE. IS. APPROACHING."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/69
+msgctxt "Kopi"
+msgid "I'm so sorry, Jerry."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/77
+msgctxt "Jerry"
+msgid "Wha-?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/88
+msgctxt "Jerry"
+msgid "<w>MMMH? MHHMHHMMMHHHH!?</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/105
+msgctxt "Holly"
+msgid "<w>Jeeeerrrrrrrrrrrryyyyyyyyyyy! Somebody loooooooovessss youuuuuuuuuuuuuuuuuuuu.</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/113
+msgctxt "Narrator"
+msgid "The ruse has been holding up fairly well, but now that you've arrived at the office, Holly is beginning to look a little suspicious."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/129
+msgctxt "Holly"
+msgid "Ok now THIS one is just creepy."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/137
+msgctxt "Holly"
+msgid "Jerry's always got something to say, or some knicknack to show off. Usually both."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/145/s/0
+msgctxt "Choix"
+msgid "Lucky shift I guess."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-13/146/s/0
+msgctxt "Choix"
+msgid "Everyone needs a day off every now and again."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/0
+msgctxt "Narrator"
+msgid "Thankfully, Holly shakes it off with a shrug."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/8
+msgctxt "Holly"
+msgid "Maybe he's on a date!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/16
+msgctxt "Holly"
+msgid "Such a playboy."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/24
+msgctxt "Holly"
+msgid "Good for him!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/32
+msgctxt "Holly"
+msgid "One rose for Jerry."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/40
+msgctxt "Jerry"
+msgid "<w>MMHMMM!</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/45
+msgctxt "Holly"
+msgid "Did you hear that?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/53/s/0
+msgctxt "Choix"
+msgid "Ohh, the sound of the living room crying out for attention!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/54/s/0
+msgctxt "Choix"
+msgid "Must be the love in the air."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/c-28/7
+msgctxt "Holly"
+msgid "RACE YOU THERE!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/c-29/7
+msgctxt "Holly"
+msgid "The holiday spirit works in mysterious ways."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-14/c-29/15
+msgctxt "Holly"
+msgid "FINAL LAP! LIVING ROOOM <w>BAAYYBEEEEEEEEEE!</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-15/0/s/0
+msgctxt "Choix"
+msgid "Here we go!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/9
+msgctxt "Florence"
+msgid "Thank you, Dante."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/17
+msgctxt "Dante"
+msgid "Anything for Holly."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/35
+msgctxt "Narrator"
+msgid "Holly bursts into the living room far ahead of you, shouting out as she goes."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/43
+msgctxt "Holly"
+msgid "<w>DantAAAAAAAAAAAAYYYYYYYYYYYYYEEEEEEEEEEEEEEEEEEEEEEE.</w>"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/57
+msgctxt "Holly"
+msgid "Oh..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/65
+msgctxt "Holly"
+msgid "He's out."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/81
+msgctxt "Holly"
+msgid "He loves roses too..."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/89
+msgctxt "Holly"
+msgid "Darn."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/97
+msgctxt "Holly"
+msgid "It's a little chilly without him around."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/105/s/0
+msgctxt "Choix"
+msgid "You can borrow my jacket. If you want."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/106/s/0
+msgctxt "Choix"
+msgid "We could hug... if you wanted. For warmth."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/107/s/0
+msgctxt "Choix"
+msgid "Yeah."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/c-31/7
+msgctxt "Holly"
+msgid "But then you'll be cold."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/c-31/15/0/s/0
+msgctxt "Choix"
+msgid "I'm warm blooded."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/c-31/15/1/s/0
+msgctxt "Choix"
+msgid "I'm a little hot, to be honest."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/c-31/15/g-0/0
+msgctxt "Holly"
+msgid "If you say so."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/c-32/7
+msgctxt "Holly"
+msgid "Oh. Yeah. For warmth."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-16/c-32/15
+msgctxt "Holly"
+msgid "That sounds nice."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-17/3
+msgctxt "Narrator"
+msgid "Holly looks down at the mass of roses still left in her arms, shaking her head."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-17/11
+msgctxt "Holly"
+msgid "All these roses. I'm worried we missed someone, but there's no one left on the list."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-17/19/s/0
+msgctxt "Choix"
+msgid "They're for you."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-18/0
+msgctxt "Holly"
+msgid "Funny!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-18/8/s/0
+msgctxt "Choix"
+msgid "Not a joke."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-19/0
+msgctxt "Narrator"
+msgid "Holly stares at you, then down at the roses, the gears in her head turning."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-19/16
+msgctxt "Holly"
+msgid "OH!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-19/27
+msgctxt "Holly"
+msgid "From WHO!?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-19/36/s/0
+msgctxt "Choix"
+msgid "From me."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-19/37/s/0
+msgctxt "Choix"
+msgid "Who do you think?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-20/0
+msgctxt "Narrator"
+msgid "Holly's jaw drops. It takes her a few moments to find the words."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-20/16
+msgctxt "Holly"
+msgid "There's so many."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-20/24/s/0
+msgctxt "Choix"
+msgid "There's barely enough."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-21/8
+msgctxt "Holly"
+msgid "This wasn't a real shift, was it?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-21/16/s/0
+msgctxt "Choix"
+msgid "What do you think?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-21/17/s/0
+msgctxt "Choix"
+msgid "Nope."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-21/18/s/0
+msgctxt "Choix"
+msgid "Are you upset?"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-21/c-40/7 holly_holidays/hollyloveending/0/g-21/c-41/7
+msgctxt "Holly"
+msgid "I think I might cry."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-21/c-42/7
+msgctxt "Holly"
+msgid "No."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-21/c-42/15
+msgctxt "Holly"
+msgid "But I do think I might cry."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-22/0/s/0
+msgctxt "Choix"
+msgid "That's okay."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-22/c-43/7
+msgctxt "Holly"
+msgid "I suppose it is."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-22/c-43/15
+msgctxt "Holly"
+msgid "Thank you."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-22/c-43/23
+msgctxt "Holly"
+msgid "This is so very sweet."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-23/c-44/7
+msgctxt "Holly"
+msgid "Oh, sorry."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-23/c-44/15/0/s/0
+msgctxt "Choix"
+msgid "Not your fault."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-23/c-44/15/1/s/0
+msgctxt "Choix"
+msgid "I thought you might need a break. But like, an actual break, not a bedridden recovery break."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-23/c-44/15/c-1/7
+msgctxt "Holly"
+msgid "Well, when you put it like that."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/3
+msgctxt "Holly"
+msgid "I suppose I could be taking better care of myself."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/11/s/0
+msgctxt "Choix"
+msgid "I know you love what you do. Bringing joy and all that."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/c-45/7
+msgctxt "Holly"
+msgid "...yeah."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/c-45/15/0/s/0
+msgctxt "Choix"
+msgid "But sometimes all you need to do is be there. From what I've seen, that's more than enough."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/c-45/15/c-0/7
+msgctxt "Holly"
+msgid "Maybe it is."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/c-45/15/c-0/23
+msgctxt "Holly"
+msgid "You know, I finished work early this evening."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/c-45/15/c-0/31
+msgctxt "Holly"
+msgid "Strange to say, but I've got some time to kill."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-24/c-45/15/c-0/39
+msgctxt "Holly"
+msgid "Wanna meet me later? Help me \"jingle some bells?\""
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-25/0/s/0
+msgctxt "Choix"
+msgid "Ho ho ho."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-25/1/s/0
+msgctxt "Choix"
+msgid "Yes, just without the innuendo for me, please!"
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-25/c-46/27
+msgctxt "Holly"
+msgid "Well come on then."
+msgstr ""
+
+#: holly_holidays/hollyloveending/0/g-25/c-47/27
+msgctxt "Holly"
+msgid "Well of course! We'll jingle LITERAL BELLS!"
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/0
+msgctxt "Holly"
+msgid "Back in a second girls!"
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/8
+msgctxt "Holly"
+msgid "Maybe I wasn't clear enough."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/16
+msgctxt "Holly"
+msgid "I'm spending my newly found spare time with family and friends."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/24
+msgctxt "Holly"
+msgid "Family. Friends."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/32
+msgctxt "Holly"
+msgid "See the problem?"
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/40/s/0
+msgctxt "Choix"
+msgid "Ah, and I'm neither of those."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/41/s/0
+msgctxt "Choix"
+msgid "Wait! Holly! I was wrong. I cared in the worst way, and I hurt you, and I'm sorry. (USE CHARM CANDY)"
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/13
+msgctxt "Holly"
+msgid "Hmm."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/21
+msgctxt "Holly"
+msgid "Well you were wrong, and it was awful."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/29
+msgctxt "Holly"
+msgid "But I know you care."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/37
+msgctxt "Holly"
+msgid "You took the time to do it."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/45
+msgctxt "Holly"
+msgid "Once mistake shouldn't taint that too much."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/61
+msgctxt "Holly"
+msgid "You're sorry?"
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/1/s/0
+msgctxt "Choix"
+msgid "I can't say that."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/c-0/7
+msgctxt "Holly"
+msgid "Then I forgive you."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/c-0/15
+msgctxt "Holly"
+msgid "I understand why you did it. But it hurt."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/c-0/23
+msgctxt "Holly"
+msgid "At least you get that now."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/c-0/31
+msgctxt "Holly"
+msgid "Give me some time, but... we're friends."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/c-0/39
+msgctxt "Holly"
+msgid "Friends with a little more time for each other."
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/c-0/47
+msgctxt "Holly"
+msgid "That said. I've got plans tonight. Swing by soon?"
+msgstr ""
+
+#: holly_holidays/hollyreturnhate/0/c-1/69/c-1/7
+msgctxt "Holly"
+msgid "Then I can't forgive you."
+msgstr ""
+
+#: holly_holidays/hollyreturnlove/0/0
+msgctxt "Holly"
+msgid "Heyhey holiday. I'm on the clock, but if you wanna jingle about, I can always take a break?"
+msgstr ""
+
+#: holly_holidays/hollyreturnlove/0/8/s/0
+msgctxt "Choix"
+msgid "Let's jingle some bells."
+msgstr ""
+
+#: holly_holidays/hollyreturnlove/0/9/s/0
+msgctxt "Choix"
+msgid "Just wanted to say hey. Don't work too hard."
+msgstr ""
+
+#: holly_holidays/hollyreturnlove/0/10/s/0 holly_holidays/hollyreturnfriendship/0/9/s/0 holly_holidays/hollyreturnfriendship_redo/0/41/s/0
+msgctxt "Choix"
+msgid "Actually, I'm ready to Realize you, Holly..."
+msgstr ""
+
+#: holly_holidays/hollyreturnlove/0/c-0/7
+msgctxt "Holly"
+msgid "Ho ho ho."
+msgstr ""
+
+#: holly_holidays/hollyreturnlove/0/c-0/15
+msgctxt "Narrator"
+msgid "The bells jingle between you, and merriment was made."
+msgstr ""
+
+#: holly_holidays/hollyreturnlove/0/c-1/15
+msgctxt "Narrator"
+msgid "She is working too hard, but she is very happy."
+msgstr ""
+
+#: holly_holidays/holly_realize_join/0/17/s/0 holly_holidays/holly_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yes, I've got all the decorations."
+msgstr ""
+
+#: holly_holidays/holly_realize_join/0/18/s/0 holly_holidays/holly_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: holly_holidays/holly_realize_join/0/c-1/10 holly_holidays/holly_realize_return/0/c-1/10
+msgctxt "Holly"
+msgid "Then, soon. Right?"
+msgstr ""
+
+#: holly_holidays/holly_realize_return/0/0
+msgctxt "Holly"
+msgid "You're back. Are you ready?"
+msgstr ""
+
+#: holly_holidays/holly_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Holy moly! Holly's getting out first? The world isn't ready..."
+msgstr ""
+
+#: holly_holidays/holly_realize_begin/9
+msgctxt "Skylar"
+msgid "Let's jingle those bells!"
+msgstr ""
+
+#: holly_holidays/holly_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a collection of holiday decorations, becomes...."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/3
+msgctxt "Holly"
+msgid "Wow!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/14
+msgctxt "Holly"
+msgid "It's like every holiday at once."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/22
+msgctxt "Holly"
+msgid "Did you know...?"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/30
+msgctxt "Holly"
+msgid "I've been banking all my holiday leave!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/38
+msgctxt "Holly"
+msgid "Now every day is Holly Day!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/49/s/0
+msgctxt "Choix"
+msgid "That's awesome!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/50/s/0
+msgctxt "Choix"
+msgid "Happy Holly Day!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/c-0/7
+msgctxt "Holly"
+msgid "Eek it is!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/0
+msgctxt "Holly"
+msgid "What's next, I wonder?"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Can I get smooches as my present for bringing you to life?"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "You get to take a break!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/c-2/7
+msgctxt "Holly"
+msgid "Of course!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/c-2/15
+msgctxt "Narrator"
+msgid "Holly opens herself up and gives you the biggest, most fantastic, the loudest smooch you've ever received."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/c-2/23
+msgctxt "Holly"
+msgid "Wooo!!!!!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/c-2/34
+msgctxt "Narrator"
+msgid "She is the gift that keeps on giving, as you spend a night in rapture."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-0/c-2/45
+msgctxt "Narrator"
+msgid "Though it does take a while to get all the glitter out..."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/0
+msgctxt "Holly"
+msgid "Yesss!!!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/8
+msgctxt "Holly"
+msgid "Time for video games and books and eating every last chocolate in the box!"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/16
+msgctxt "Narrator"
+msgid "This did transpire... for about a minute."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/24
+msgctxt "Holly"
+msgid "<w>AAAUUUGHHHH I'M BORRREDDD!!!</w>"
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/35
+msgctxt "Narrator"
+msgid "Holly's enthusiasm for all things couldn't be contained to a single couch."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/43
+msgctxt "Narrator"
+msgid "With the money she saved up from her previous efforts, she was able to purchase a nice little home, and a scooter with a large trunk attachment."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/51
+msgctxt "Narrator"
+msgid "She began her own free delivery service - riding about town delivering letters, presents, and general cheer..."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/59
+msgctxt "Narrator"
+msgid "Catching up with everyone, spreading excitement and love, and being able to leave before things got awkward - this was the ideal life for Holly."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/67
+msgctxt "Narrator"
+msgid "Everyone always knows when she's on her way... as her happy cry rings out through the neighborhoods..."
+msgstr ""
+
+#: holly_holidays/holly_realized/0/g-1/75
+msgctxt "Holly"
+msgid "<w>HEEEERRRRREEE'SSSS HOLLLLYYY!!!!</w>"
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/0
+msgctxt "Holly"
+msgid "Hey stranger."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/8/s/0
+msgctxt "Choix"
+msgid "Hey Holly!"
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/c-0/7
+msgctxt "Holly"
+msgid "You gave me a new favourite holiday."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/c-0/15
+msgctxt "Holly"
+msgid "Rebbie says it's narcissistic to be that excited for Holly day next year, but they're just keeping me grounded."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/c-0/23
+msgctxt "Holly"
+msgid "They said it was your idea."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/c-0/31
+msgctxt "Holly"
+msgid "I won't forget that."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/c-0/39
+msgctxt "Holly"
+msgid "But for now, I gotta get back to the grind. Jingle those bells baby."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship/0/c-0/47/0/s/0
+msgctxt "Choix"
+msgid "Jingle Jingle!"
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/0
+msgctxt "Holly"
+msgid "Hey there, prodigal one."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/8
+msgctxt "Holly"
+msgid "I'm glad you apologised."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/16
+msgctxt "Holly"
+msgid "I was gonna miss you, I think."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/24
+msgctxt "Holly"
+msgid "Water under the bridge."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/32
+msgctxt "Holly"
+msgid "I've got a shift soon, but what's up?"
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/40/s/0
+msgctxt "Choix"
+msgid "Just wanted to say hey."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/c-0/7
+msgctxt "Holly"
+msgid "Well hey right back!"
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/c-0/15
+msgctxt "Holly"
+msgid "And now."
+msgstr ""
+
+#: holly_holidays/hollyreturnfriendship_redo/0/c-0/23
+msgctxt "Holly"
+msgid "<w>BYEEEEEEEEEEEEE!</w>"
+msgstr ""

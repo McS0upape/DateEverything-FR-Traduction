@@ -1,0 +1,519 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: home/0/14/s/0
+msgctxt "Choix"
+msgid "Talk to Literature"
+msgstr ""
+
+#: home/0/15/s/0
+msgctxt "Choix"
+msgid "Talk to Video Game Console"
+msgstr ""
+
+#: home/0/16/s/0
+msgctxt "Choix"
+msgid "Talk to Board Games"
+msgstr ""
+
+#: home/0/17/s/0
+msgctxt "Choix"
+msgid "Talk to Holidays"
+msgstr ""
+
+#: home/0/18/s/0
+msgctxt "Choix"
+msgid "Talk to Curtains"
+msgstr ""
+
+#: home/0/19/s/0
+msgctxt "Choix"
+msgid "Talk to Tresta"
+msgstr ""
+
+#: home/0/20/s/0
+msgctxt "Choix"
+msgid "Talk to Toilet"
+msgstr ""
+
+#: home/0/21/s/0
+msgctxt "Choix"
+msgid "Talk to Dishwasher"
+msgstr ""
+
+#: home/0/22/s/0
+msgctxt "Choix"
+msgid "Talk to Art"
+msgstr ""
+
+#: home/0/23/s/0
+msgctxt "Choix"
+msgid "Talk to Box"
+msgstr ""
+
+#: home/0/24/s/0
+msgctxt "Choix"
+msgid "Talk to Exercise Equipment"
+msgstr ""
+
+#: home/0/25/s/0
+msgctxt "Choix"
+msgid "Talk to Stairs"
+msgstr ""
+
+#: home/0/26/s/0
+msgctxt "Choix"
+msgid "Talk to Coffeemaker"
+msgstr ""
+
+#: home/0/27/s/0
+msgctxt "Choix"
+msgid "Talk to Teddy Bear"
+msgstr ""
+
+#: home/0/28/s/0
+msgctxt "Choix"
+msgid "Talk to Table"
+msgstr ""
+
+#: home/0/29/s/0
+msgctxt "Choix"
+msgid "Talk to Magnifying Glass"
+msgstr ""
+
+#: home/0/30/s/0
+msgctxt "Choix"
+msgid "Talk to Mirror"
+msgstr ""
+
+#: home/0/31/s/0
+msgctxt "Choix"
+msgid "Talk to Smoke Alarm"
+msgstr ""
+
+#: home/0/32/s/0
+msgctxt "Choix"
+msgid "Talk to Beauty Supplies"
+msgstr ""
+
+#: home/0/33/s/0
+msgctxt "Choix"
+msgid "Talk to Mysterious Objects"
+msgstr ""
+
+#: home/0/34/s/0
+msgctxt "Choix"
+msgid "Talk to Bathtub"
+msgstr ""
+
+#: home/0/35/s/0
+msgctxt "Choix"
+msgid "Talk to Bed"
+msgstr ""
+
+#: home/0/36/s/0
+msgctxt "Choix"
+msgid "Talk to Beverages"
+msgstr ""
+
+#: home/0/37/s/0
+msgctxt "Choix"
+msgid "Talk to Bobby Pin"
+msgstr ""
+
+#: home/0/38/s/0
+msgctxt "Choix"
+msgid "Talk to Time Capsule"
+msgstr ""
+
+#: home/0/39/s/0
+msgctxt "Choix"
+msgid "Talk to Cabinet"
+msgstr ""
+
+#: home/0/40/s/0
+msgctxt "Choix"
+msgid "Talk to Trash Can"
+msgstr ""
+
+#: home/0/41/s/0
+msgctxt "Choix"
+msgid "Talk to Food"
+msgstr ""
+
+#: home/0/42/s/0
+msgctxt "Choix"
+msgid "Talk to Ceiling"
+msgstr ""
+
+#: home/0/43/s/0
+msgctxt "Choix"
+msgid "Talk to Chair"
+msgstr ""
+
+#: home/0/44/s/0
+msgctxt "Choix"
+msgid "Talk to D20"
+msgstr ""
+
+#: home/0/45/s/0
+msgctxt "Choix"
+msgid "Talk to Glitch"
+msgstr ""
+
+#: home/0/46/s/0
+msgctxt "Choix"
+msgid "Talk to Dishware"
+msgstr ""
+
+#: home/0/47/s/0
+msgctxt "Choix"
+msgid "Talk to Fireplace"
+msgstr ""
+
+#: home/0/48/s/0
+msgctxt "Choix"
+msgid "Talk to the Developers"
+msgstr ""
+
+#: home/0/49/s/0
+msgctxt "Choix"
+msgid "Talk to Diary"
+msgstr ""
+
+#: home/0/50/s/0
+msgctxt "Choix"
+msgid "Talk to Dust Bunny"
+msgstr ""
+
+#: home/0/51/s/0
+msgctxt "Choix"
+msgid "Talk to Door"
+msgstr ""
+
+#: home/0/52/s/0
+msgctxt "Choix"
+msgid "Talk to Overwhelming Sense of Existential Dread"
+msgstr ""
+
+#: home/0/53/s/0
+msgctxt "Choix"
+msgid "Talk to Dryer"
+msgstr ""
+
+#: home/0/54/s/0
+msgctxt "Choix"
+msgid "Talk to Desk"
+msgstr ""
+
+#: home/0/55/s/0
+msgctxt "Choix"
+msgid "Talk to Fan"
+msgstr ""
+
+#: home/0/56/s/0
+msgctxt "Choix"
+msgid "Talk to First Aid Kit"
+msgstr ""
+
+#: home/0/57/s/0
+msgctxt "Choix"
+msgid "Talk to Floor"
+msgstr ""
+
+#: home/0/58/s/0
+msgctxt "Choix"
+msgid "Talk to Fridge"
+msgstr ""
+
+#: home/0/59/s/0
+msgctxt "Choix"
+msgid "Talk to Air Fryer"
+msgstr ""
+
+#: home/0/60/s/0
+msgctxt "Choix"
+msgid "Talk to Hangers"
+msgstr ""
+
+#: home/0/61/s/0
+msgctxt "Choix"
+msgid "Talk to Hamper"
+msgstr ""
+
+#: home/0/62/s/0
+msgctxt "Choix"
+msgid "Talk to Globe"
+msgstr ""
+
+#: home/0/63/s/0
+msgctxt "Choix"
+msgid "Talk to HVAC"
+msgstr ""
+
+#: home/0/64/s/0
+msgctxt "Choix"
+msgid "Talk to Vacuum"
+msgstr ""
+
+#: home/0/65/s/0
+msgctxt "Choix"
+msgid "Talk to Anime Figurine"
+msgstr ""
+
+#: home/0/66/s/0
+msgctxt "Choix"
+msgid "Talk to Ironing Board"
+msgstr ""
+
+#: home/0/67/s/0
+msgctxt "Choix"
+msgid "Talk to Ship in a Bottle"
+msgstr ""
+
+#: home/0/68/s/0
+msgctxt "Choix"
+msgid "Talk to Junk Drawer"
+msgstr ""
+
+#: home/0/69/s/0
+msgctxt "Choix"
+msgid "Talk to Piano"
+msgstr ""
+
+#: home/0/70/s/0
+msgctxt "Choix"
+msgid "Talk to Key"
+msgstr ""
+
+#: home/0/71/s/0
+msgctxt "Choix"
+msgid "Talk to Couch"
+msgstr ""
+
+#: home/0/72/s/0
+msgctxt "Choix"
+msgid "Talk to Microwave"
+msgstr ""
+
+#: home/0/73/s/0
+msgctxt "Choix"
+msgid "Talk to Computer"
+msgstr ""
+
+#: home/0/74/s/0
+msgctxt "Choix"
+msgid "Talk to Blanket"
+msgstr ""
+
+#: home/0/75/s/0
+msgctxt "Choix"
+msgid "Talk to Money"
+msgstr ""
+
+#: home/0/76/s/0
+msgctxt "Choix"
+msgid "Talk to Electricity"
+msgstr ""
+
+#: home/0/77/s/0
+msgctxt "Choix"
+msgid "Talk to Toaster"
+msgstr ""
+
+#: home/0/78/s/0
+msgctxt "Choix"
+msgid "Talk to Office Supplies"
+msgstr ""
+
+#: home/0/79/s/0
+msgctxt "Choix"
+msgid "Talk to Phone"
+msgstr ""
+
+#: home/0/80/s/0
+msgctxt "Choix"
+msgid "Talk to Fake Plant"
+msgstr ""
+
+#: home/0/81/s/0
+msgctxt "Choix"
+msgid "Talk to Record Player"
+msgstr ""
+
+#: home/0/82/s/0
+msgctxt "Choix"
+msgid "Talk to Rubber Duck"
+msgstr ""
+
+#: home/0/83/s/0
+msgctxt "Choix"
+msgid "Talk to Rejection"
+msgstr ""
+
+#: home/0/84/s/0
+msgctxt "Choix"
+msgid "Talk to Sporting Goods"
+msgstr ""
+
+#: home/0/85/s/0
+msgctxt "Choix"
+msgid "Talk to Water"
+msgstr ""
+
+#: home/0/86/s/0
+msgctxt "Choix"
+msgid "Talk to Geological Specimens"
+msgstr ""
+
+#: home/0/87/s/0
+msgctxt "Choix"
+msgid "talk to Scandalabra"
+msgstr ""
+
+#: home/0/88/s/0
+msgctxt "Choix"
+msgid "Talk to Shower"
+msgstr ""
+
+#: home/0/89/s/0
+msgctxt "Choix"
+msgid "Talk to Sink"
+msgstr ""
+
+#: home/0/90/s/0
+msgctxt "Choix"
+msgid "Talk to Dateviators"
+msgstr ""
+
+#: home/0/91/s/0
+msgctxt "Choix"
+msgid "Talk to Safe"
+msgstr ""
+
+#: home/0/92/s/0
+msgctxt "Choix"
+msgid "talk to Stove"
+msgstr ""
+
+#: home/0/93/s/0
+msgctxt "Choix"
+msgid "Talk to Shelf"
+msgstr ""
+
+#: home/0/94/s/0
+msgctxt "Choix"
+msgid "Talk to Trophy"
+msgstr ""
+
+#: home/0/95/s/0
+msgctxt "Choix"
+msgid "Talk to UI"
+msgstr ""
+
+#: home/0/96/s/0
+msgctxt "Choix"
+msgid "Talk to TV"
+msgstr ""
+
+#: home/0/97/s/0
+msgctxt "Choix"
+msgid "Talk to Triangle"
+msgstr ""
+
+#: home/0/98/s/0
+msgctxt "Choix"
+msgid "Talk to Clock"
+msgstr ""
+
+#: home/0/99/s/0
+msgctxt "Choix"
+msgid "Talk to Toolbox"
+msgstr ""
+
+#: home/0/100/s/0
+msgctxt "Choix"
+msgid "Talk to Laundry Detergent"
+msgstr ""
+
+#: home/0/101/s/0
+msgctxt "Choix"
+msgid "Talk to Rat Trap"
+msgstr ""
+
+#: home/0/102/s/0
+msgctxt "Choix"
+msgid "Talk to Wall"
+msgstr ""
+
+#: home/0/103/s/0
+msgctxt "Choix"
+msgid "Talk to Window"
+msgstr ""
+
+#: home/0/104/s/0
+msgctxt "Choix"
+msgid "Talk to Work"
+msgstr ""
+
+#: home/0/105/s/0
+msgctxt "Choix"
+msgid "Talk to Washing mashine"
+msgstr ""
+
+#: home/0/106/s/0
+msgctxt "Choix"
+msgid "Talk to Darkness"
+msgstr ""
+
+#: home/0/107/s/0
+msgctxt "Choix"
+msgid "Talk to Water Heater"
+msgstr ""
+
+#: home/0/108/s/0
+msgctxt "Choix"
+msgid "Talk to Ghost"
+msgstr ""
+
+#: home/0/109/s/0
+msgctxt "Choix"
+msgid "Talk to Air"
+msgstr ""
+
+#: home/0/110/s/0
+msgctxt "Choix"
+msgid "Talk to Nightmare"
+msgstr ""
+
+#: home/0/111/s/0
+msgctxt "Choix"
+msgid "Talk to CRIT PATH"
+msgstr ""
+
+#: home/0/112/s/0
+msgctxt "Choix"
+msgid "Talk to FPN"
+msgstr ""
+
+#: home/0/113/s/0
+msgctxt "Choix"
+msgid "Talk to Narrator"
+msgstr ""
+
+#: home/0/114/s/0
+msgctxt "Choix"
+msgid "Talk to Clean Clothes"
+msgstr ""
+
+#: home/0/115/s/0
+msgctxt "Choix"
+msgid "Talk to Unfurnished Business"
+msgstr ""

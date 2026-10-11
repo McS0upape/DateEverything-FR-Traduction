@@ -1,0 +1,5730 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: phoenicia_phone/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "PHONE"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/8
+msgctxt "Narrator"
+msgid "A beautiful stranger with a dazzling smile appears in front of you, shooting you a knowing wink."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/16
+msgctxt "Narrator"
+msgid "She turns that mega-watt smile your way, and it feels like the sun is shining only on you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/24
+msgctxt "Phoenicia"
+msgid "Hey there. Ooh, I like it much better up here where I can see your face!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/32/s/0
+msgctxt "Choix"
+msgid "Woah, what just happened?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/33/s/0
+msgctxt "Choix"
+msgid "And now my phone is talking..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/34/s/0
+msgctxt "Choix"
+msgid "Hey you're a phone, I get it. I would like to skip this particular conversation."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Your life just got a whole lot better, that's what!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-0/15
+msgctxt "Phoenicia"
+msgid "Of course, to really enjoy it, you're gunna need someone to show you how things work."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-1/7
+msgctxt "Phoenicia"
+msgid "<i>Your</i> phone? We'll see about that, you gotta win me over first honey."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-1/15
+msgctxt "Phoenicia"
+msgid "Of course, to do that, someone's gotta show you how things work."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-2/10
+msgctxt "Phoenicia"
+msgid "Oh!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-2/18/b/1
+msgctxt "Skylar"
+msgid "Hey Phoenicia - it's all good! He just wants to conserve your battery!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-2/19/b/1
+msgctxt "Skylar"
+msgid "Hey Phoenicia - it's all good! She just wants to conserve your battery!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-2/20/b/1
+msgctxt "Skylar"
+msgid "Hey Phoenicia - it's all good! They just want to conserve your battery!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-2/23
+msgctxt "Phoenicia"
+msgid "Huh. Okay."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-2/34 phoenicia_phone/phoenicia_intro/0/g-1/c-7/15 phoenicia_phone/phoenicia_intro/0/g-1/c-7/41/c-0/7 phoenicia_phone/phoenicia_intro/0/g-1/c-8/7
+msgctxt "Skylar"
+msgid "Now go Awaken the magnifying glass in the living room!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/c-2/42 phoenicia_phone/phoenicia_intro/0/g-1/c-7/23 phoenicia_phone/phoenicia_intro/0/g-1/c-7/41/c-0/15 phoenicia_phone/phoenicia_intro/0/g-1/c-8/15
+msgctxt "Narrator"
+msgid "Which of course is conveniently located on its own little shelf next to the piano."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/6
+msgctxt "Skylar"
+msgid "Hey there!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/14
+msgctxt "Phoenicia"
+msgid "Oh - you must be Skylar? Glad we've got the human on board with the latest tech from Valdivian."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/22/b/1
+msgctxt "Skylar"
+msgid "I've been doing a little tutorial with him about how things work!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/23/b/1
+msgctxt "Skylar"
+msgid "I've been doing a little tutorial with her about how things work!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/24/b/1
+msgctxt "Skylar"
+msgid "I've been doing a little tutorial with them about how things work!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/27
+msgctxt "Phoenicia"
+msgid "Oh, well, my sweet human. Lucky for you, I've got a gap in my schedule and a soft spot for that lost puppy look."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/35/s/0
+msgctxt "Choix"
+msgid "What kind of schedule does a phone have?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/36/s/0
+msgctxt "Choix"
+msgid "What look...?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/37/s/0
+msgctxt "Choix"
+msgid "I'm not a puppy dog. I'm real cool."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/38/s/0
+msgctxt "Choix"
+msgid "Will you fall in love with me?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "Ha! All of them! Yours, mine. I stream sometimes for my own socials. And still gotta make sure I don't lose battery or overheat."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "Aww, yeah that's the one."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-4/15/0/s/0
+msgctxt "Choix"
+msgid "This is just my face."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-4/15/1/s/0
+msgctxt "Choix"
+msgid "I'm going to take that as a compliment."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-4/15/c-0/7
+msgctxt "Phoenicia"
+msgid "And it's a lovely one!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-4/15/c-1/7
+msgctxt "Phoenicia"
+msgid "It is!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-5/7
+msgctxt "Phoenicia"
+msgid "Oh boy! Sorry, yeah I'm so used to you talking <i>through</i> me and not <i>to</i> me that I should address you with the proper level of respect."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-6/7
+msgctxt "Phoenicia"
+msgid "Oh uh I mean, I know you well enough but..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-0/c-6/15
+msgctxt "Phoenicia"
+msgid "...not that well. Let's see if we click first... just play your cards right!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Anyway..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/8
+msgctxt "Phoenicia"
+msgid "I installed some apps on your phone that are only accessible when you put on your glasses!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/16
+msgctxt "Phoenicia"
+msgid "Bring out your phone, put on the glasses, and you'll see some new ones."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/24
+msgctxt "Phoenicia"
+msgid "One of them is an app Skylar made called the Date-a-dex."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/32
+msgctxt "Skylar"
+msgid "It's my way to keep track of all sorts of fun info about us dateable objects!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/40
+msgctxt "Phoenicia"
+msgid "Because there are <i>a lot</i> of us around this house..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/48
+msgctxt "Phoenicia"
+msgid "Oh, y'know what? Maggie the Magnifying Glass also just dropped a really cool app."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/56
+msgctxt "Phoenicia"
+msgid "Ahhh... Gotta run - another call coming in!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/70
+msgctxt "Skylar"
+msgid "Bye Phoenicia!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/84/s/0
+msgctxt "Choix"
+msgid "How much more do we have?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/85/s/0
+msgctxt "Choix"
+msgid "Onward!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/c-7/7
+msgctxt "Skylar"
+msgid "You have to meet two more of us - you're getting there!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_intro/0/g-1/c-7/41/0/s/0
+msgctxt "Choix"
+msgid "Okay, let's get going then!"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/6
+msgctxt "Phoenicia"
+msgid "Oooh coming in hot, whatcha got for me this time?"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/14/s/0
+msgctxt "Choix"
+msgid "Am I really that predictable?"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/15/s/0
+msgctxt "Choix"
+msgid "You know, it would be creepy how you always seem to know things if it wasn't also really damn cute."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Affectionately? Yes, and then some, honey."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/c-0/15
+msgctxt "Phoenicia"
+msgid "Now come on, I'm dying to know the sitch!"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Any other time I'd love to stop and bask in the compliment honey, but I'm DYING to know the sitch!"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-0/0
+msgctxt "Phoenicia"
+msgid "You've got those urgency eyes."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-0/8
+msgctxt "Phoenicia"
+msgid "So, what's the deal???"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "It's Mateo."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "There's a problem at Scraps of Hope."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-1/0
+msgctxt "Phoenicia"
+msgid "AN INANIMAL EMERGENCY?!"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-1/11
+msgctxt "Phoenicia"
+msgid "AH! Honey, why didn't you OPEN with that???"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-1/19
+msgctxt "Phoenicia"
+msgid "Who's in trouble, what do we need, how can I help? GIVE ME ANSWERS!"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "Davi, one of Mateo's rescues has gone missing."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "We need to get the word out about a lost rescue."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-2/0
+msgctxt "Narrator"
+msgid "Phoenicia's fingers are flying across her virtual keyboard before you've completed your thought."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-2/8
+msgctxt "Phoenicia"
+msgid "Already typing something up as we speak!"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-2/16
+msgctxt "Phoenicia"
+msgid "Did Mateo give you any helpful info I can put in here? Anything eye-grabbing? We need some cute buzzwords to get things attention."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "Yeah, a whole packet."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "Everything you need is in here."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Perfect. Leave it to me honey. Missing inanimals are no joke. We'll get this baby home!"
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-3/8
+msgctxt "Phoenicia"
+msgid "Oh, I'm gunna do a live to generate some engagement for the post. I'll let you know how it goes."
+msgstr ""
+
+#: phoenicia_phone/lost_and_found/0/g-3/16
+msgctxt "Phoenicia"
+msgid "Check in with Mateo to let him know - I don't think he checks socials very often."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/6
+msgctxt "Narrator"
+msgid "As you approach her, Phoenicia leans in, her voice a conspiratorial murmur."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/14
+msgctxt "Phoenicia"
+msgid "Listen, I'm not usually one to eavesdrop."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/23/s/0
+msgctxt "Choix"
+msgid "Isn't that your favorite hobby?"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Ok rude, hitting me with the bombastic side eye, my gossip is completely different!"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/15
+msgctxt "Phoenicia"
+msgid "Your girl's got standards, ok?"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/23
+msgctxt "Phoenicia"
+msgid "If it gets posted online, it's fair game. It becomes like public domain or whatever."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Pretty sure that's not how it works."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/31/1/s/0 phoenicia_phone/placebook_doug/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "If you say so."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/31/g-0/0
+msgctxt "Phoenicia"
+msgid "You know what? If you're so against it, I can just keep all those helpful hints to myself from now on."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/31/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "What? No, I'm sorry. You're right, please go ahead."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/31/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Shutting up. What were you saying?"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/31/g-0/8/g-0/0
+msgctxt "Phoenicia"
+msgid "Mmmhmm, that's what I thought."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/c-1/31/g-0/8/g-0/8
+msgctxt "Phoenicia"
+msgid "So, like I was saying."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-0/0
+msgctxt "Phoenicia"
+msgid "I overheard you and Beverly talking about the Tumbler."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-0/8
+msgctxt "Phoenicia"
+msgid "And I think I might be able to help."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-0/16
+msgctxt "Phoenicia"
+msgid "I mean, if there was a cute new spot with Placebook-worthy specialty drinks and good lighting and even <i>I</i> didn't know about it?"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-0/24
+msgctxt "Phoenicia"
+msgid "She definitely needs it."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "What do we need to do?"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-1/0
+msgctxt "Phoenicia"
+msgid "We gotta drag her advertising into the 21st century for starters."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-1/8
+msgctxt "Phoenicia"
+msgid "All it takes is a few well framed shots of the decor, a line up of the best stuff on the menu, and a little voice over from a beloved internet personality."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-1/16
+msgctxt "Phoenicia"
+msgid "Instant FOMO, line out the door, guaranteed. Trust me."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "She did mention something about a new drink."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Maybe we could feature her new specialty drink!"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Ooh, that's perfect! What is it?"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "We worked on one, but she said she's gonna spend more time 'tinkering'."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Uhh... Do you have any ideas?"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-2/c-6/7
+msgctxt "Phoenicia"
+msgid "Well it’s gotta be something that really pops, it's all about that curated aesthetic."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Hmmm... ooh... Oh! Okay, I’ve got this."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-3/8
+msgctxt "Phoenicia"
+msgid "I'd check back with her soon though because this is gunna blow UP!"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-3/16/s/0
+msgctxt "Choix"
+msgid "You got it!"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-3/17/s/0
+msgctxt "Choix"
+msgid "k."
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-3/c-7/7
+msgctxt "Phoenicia"
+msgid "But first, you gon' need to tell me exactly where her bar is. Seriously, she doesn't even have a Kelp page!"
+msgstr ""
+
+#: phoenicia_phone/phone_beverly/0/g-3/c-8/7
+msgctxt "Phoenicia"
+msgid "Baiiiiiiii!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/4
+msgctxt "Phoenicia"
+msgid "...and this is the final look. What y'all think? Follow the link in my bio for a full list of all the pieces."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/12
+msgctxt "Narrator"
+msgid "She holds up a finger, pausing for a moment."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/20
+msgctxt "Phoenicia"
+msgid "Oh, sorry, one sec, I just need to upload this real quick... there, done!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/28
+msgctxt "Phoenicia"
+msgid "Any longer, and I would've missed my upload window. You know how the algorithm on Placebook is. If you don't post every day, you completely lose your viewership."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/36
+msgctxt "Phoenicia"
+msgid "Uuuh... it's a grind, but my fans are worth it."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/44/s/0
+msgctxt "Choix"
+msgid "Is Placebook some kind of app or...?"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/c-0/10
+msgctxt "Phoenicia"
+msgid "Umm, only the most popular social media app of all time."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/c-0/18
+msgctxt "Phoenicia"
+msgid "It's like Instafan, Sitter and KnickKnack all-in-one... only... <i>better</i>!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/c-0/26
+msgctxt "Phoenicia"
+msgid "No like literally. Placebook bought them all out and combined the best parts of them into the social media platform to end all social media platforms."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/c-0/34
+msgctxt "Phoenicia"
+msgid "Buuut it's pretty exclusive, invite only and I don't think humans are allowed."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Sounds pretty nice..."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "No humans allowed? Why not?"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-0/c-1/7
+msgctxt "Phoenicia"
+msgid "It is! Much less drama when you can exist forever without moving."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-0/c-2/7
+msgctxt "Phoenicia"
+msgid "Uh, no offense, but humans don't have the best track record. I mean, y'all invented things like taxes, and littering, ew, and small talk. Mm."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-0/c-2/15
+msgctxt "Phoenicia"
+msgid "Well, then again, y'all made phones too, so... it's not like you're all bad."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Hmm, I <i>guess</i> since you don't have a Placebook, I could share my feed with you."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/8
+msgctxt "Phoenicia"
+msgid "Fill you in on all the tea so you're not missing out."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Sounds fun, drama is my guilty pleasure. As long as I'm not involved, anyway."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Maybe you could show me some of your videos sometime too?"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "No thanks, not really my thing."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/c-3/7
+msgctxt "Phoenicia"
+msgid "Oh I KNEW there was more to you! Oh, this is gunna be so much fun."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/c-4/7
+msgctxt "Phoenicia"
+msgid "Oooh, are things heating up in here or is it just me~?"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/c-4/15
+msgctxt "Phoenicia"
+msgid "Ooh! I don't think you can see them even with your fancy glasses - but at least I can tell you what I've been up to!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-1/c-5/7
+msgctxt "Phoenicia"
+msgid "Hmm alright, well when you change your mind, because you <i>will</i>, I'll be waiting."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-2/3
+msgctxt "Phoenicia"
+msgid "Alert: Temperature Warning."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-2/11
+msgctxt "Phoenicia"
+msgid "Ungh, not again."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-2/19/s/0
+msgctxt "Choix"
+msgid "What was that?"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-2/20/s/0
+msgctxt "Choix"
+msgid "Is something wrong?"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Huh? Oh, it's nothing!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-3/11/s/0
+msgctxt "Choix"
+msgid "Sure sounds like something."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-3/12/s/0
+msgctxt "Choix"
+msgid "If it was nothing, I don't think it'd be happening <i>again</i>."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/0
+msgctxt "Phoenicia"
+msgid "I'm <i>fine</i>, really! It's just a faulty sensor, forget about it."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/11/s/0
+msgctxt "Choix"
+msgid "It looked like a temperature warning, and you do feel warm..."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/12/s/0
+msgctxt "Choix"
+msgid "A faulty sensor? Do I need to take you to the... uh... phone doctor?"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/13/s/0
+msgctxt "Choix"
+msgid "Look - there's an icon and everything!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/c-10/7
+msgctxt "Phoenicia"
+msgid "Oh, huh? I do? Weird! I feel totally fine!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/c-11/7
+msgctxt "Phoenicia"
+msgid "First of all, I'm pretty sure that's not a thing."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/c-11/15
+msgctxt "Phoenicia"
+msgid "And secondly, even if it were a thing, I don't need one because I already know what the problem is!"
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-4/c-12/7
+msgctxt "Phoenicia"
+msgid "Ah, you can ignore those things. Too many icons if you ask me."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-5/0
+msgctxt "Phoenicia"
+msgid "It's probably just acting up because I did an extra hour on live."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-5/8
+msgctxt "Phoenicia"
+msgid "Trust me, I just need a nice hard reset and I'll be good to go."
+msgstr ""
+
+#: phoenicia_phone/placebook_intro/0/g-5/19
+msgctxt "Phoenicia"
+msgid "I'll catch up with you after. Try not to miss me too much~"
+msgstr ""
+
+#: phoenicia_phone/too_much_screentime/0
+msgctxt "Phoenicia"
+msgid "I can't believe I'm about to say this but..."
+msgstr ""
+
+#: phoenicia_phone/too_much_screentime/8
+msgctxt "Phoenicia"
+msgid "Don't you think you've had enough screen time for one day?"
+msgstr ""
+
+#: phoenicia_phone/too_much_screentime/16
+msgctxt "Phoenicia"
+msgid "I know, I know, don't look at me like that! I'm just saying, I don't think Skylar has a blue light filter, so maybe give your eyes a rest."
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/0/b/1
+msgctxt "Phoenicia"
+msgid "Good morning!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/1/b/1
+msgctxt "Phoenicia"
+msgid "Lunchtime - no better time to check in with your phone!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/2/b/1
+msgctxt "Phoenicia"
+msgid "Hey there!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/3/b/1
+msgctxt "Phoenicia"
+msgid "Good to see ya!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/4/b/1
+msgctxt "Phoenicia"
+msgid "Almost bedtime - let's get a little more screentime in."
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/7
+msgctxt "Phoenicia"
+msgid "Ooh, I can't wait to tell you what's been happening!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/15/b/1
+msgctxt "Phoenicia"
+msgid "Don't worry, I'm still taking a break from posting. But a little lurk and scroll never hurt anyone. Besides, I promised to keep you in the loop, didn't I hot stuff~?"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/18
+msgctxt "Phoenicia"
+msgid "Fresh tea, coming in HOT!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/26/s/0
+msgctxt "Choix"
+msgid "Tell me about it!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/27/s/0
+msgctxt "Choix"
+msgid "Sorry I didn't mean to talk to you!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/c-0/15/b/1
+msgctxt "Phoenicia"
+msgid "Okay, you keep on that fantastic red shirt, I'm gunna get my scroll on."
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/c-0/16/b/1
+msgctxt "Phoenicia"
+msgid "Okay, lemme get my scroll game started!"
+msgstr ""
+
+#: phoenicia_phone/placebook_success/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh, misclicked? Happens to me all the time. Bye, honey."
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/8
+msgctxt "Phoenicia"
+msgid "What! Hold on - everyone left Placebook?!"
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/19/s/0
+msgctxt "Choix"
+msgid "Why?"
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/20/s/0
+msgctxt "Choix"
+msgid "No way..."
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh, very much yes way."
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Looks like David Most somehow gained access to it..."
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/g-0/8
+msgctxt "Phoenicia"
+msgid "As a human, he has <i>no</i> idea what he's doing and made millions of dumb changes."
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/g-0/16
+msgctxt "Phoenicia"
+msgid "Everyone moved over to another app!"
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/g-0/24
+msgctxt "Phoenicia"
+msgid "Uggghhh, I hate when that happens. Cycle of virtual life I guess..."
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/g-0/32
+msgctxt "Phoenicia"
+msgid "Ungh, I gotta set up a whole new account?!?! What about all my content?! What about my FOLLOWERS?! Oh, you know, maybe that's the end of the road for me."
+msgstr ""
+
+#: phoenicia_phone/no_more_placebooks/0/g-0/40
+msgctxt "Phoenicia"
+msgid "For my own mental health, I'm gunna stop checking my socials! At least until there's a new trend..."
+msgstr ""
+
+#: phoenicia_phone/no_placebooks/4
+msgctxt "Phoenicia"
+msgid "Wow, never thought I'd say this but, I'm actually outta gossip."
+msgstr ""
+
+#: phoenicia_phone/no_placebooks/12
+msgctxt "Phoenicia"
+msgid "Sigh... I need a break."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/26
+msgctxt "Phoenicia"
+msgid "You would not <i>believe</i> what Airyn has been vagueing about on her fakebook."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/37/s/0
+msgctxt "Choix"
+msgid "What's a fakebook?"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/38/s/0
+msgctxt "Choix"
+msgid "Is that a different app from Placebook?"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-0/0
+msgctxt "Phoenicia"
+msgid "A fakebook is a fake Placebook account. Basically a secret side account where you can do all the shit you're too scared to do on main."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "If it's a secret, how do you know?"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Like what?"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-0/c-2/7
+msgctxt "Phoenicia"
+msgid "HA are you kidding? I know <i>everyone's</i> fakebooks. If it's online, it's not a secret from me honey."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-0/c-2/15
+msgctxt "Phoenicia"
+msgid "Aanywaaay, back to what I was saying."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "Like I'll tell you if you stop interrupting me with questions!"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Airyn. Fakebook. <i>Vagueing</i>..."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-1/8
+msgctxt "Phoenicia"
+msgid "That's when you pretend you're making a completely harmless general statement but really you're talking about someone very specifically and you want them to see it and agonize over whether it's actually them that you're talking about."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "I didn't even ask that time."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Thanks, I was already lost again."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-1/c-5/7
+msgctxt "Phoenicia"
+msgid "Yeah, thought so."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-2/0
+msgctxt "Phoenicia"
+msgid "You just had that look that you needed the explanation."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-2/8
+msgctxt "Phoenicia"
+msgid "ANYWAY!"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-2/16
+msgctxt "Phoenicia"
+msgid "She's been on Hector again recently, trying to get him to turn the heat up if you know what I mean."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-2/27/s/0
+msgctxt "Choix"
+msgid "Like, I should turn the heater up?"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-2/c-6/7
+msgctxt "Phoenicia"
+msgid "Well, if you want her to show herself? Probably not."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-3/0
+msgctxt "Phoenicia"
+msgid "She said something about not liking to stand out in the cold. Which doesn't make any damn sense since she really doesn't <i>stand</i>, she just floats around."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-3/8
+msgctxt "Phoenicia"
+msgid "Meanwhile, some of us are already prone to overheating! But do I get any special treatment for it? Ha!"
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-3/16
+msgctxt "Phoenicia"
+msgid "Luckily Celia stepped in before she could set the temp to boiling. And it looks like Airyn is furious about it."
+msgstr ""
+
+#: phoenicia_phone/placebook_airyn/0/g-3/27
+msgctxt "Phoenicia"
+msgid "Ooh, it's always the quiet ones. Hm."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/26
+msgctxt "Narrator"
+msgid "Phoenicia is absorbed in her scrolling, endlessly delighted by something she sees there."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/34
+msgctxt "Phoenicia"
+msgid "Whoo! Ha ha ha! Whoo, this is good! Ah."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/42
+msgctxt "Phoenicia"
+msgid "How have I never seen this before?"
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/50
+msgctxt "Phoenicia"
+msgid "Ah, I must be slipping!"
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/58/s/0 phoenicia_phone/placebook_daemon/0/50/s/0
+msgctxt "Choix"
+msgid "What are you talking about?"
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/0
+msgctxt "Phoenicia"
+msgid "<i>Ben-hwa</i> and <i>Bobby</i> in all their rebellious, awkward teen glory!"
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/14
+msgctxt "Narrator"
+msgid "She turns her display towards you."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/22
+msgctxt "Phoenicia"
+msgid "Look at that <i>hair</i>. Oof look at that <i>outfit</i>."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/30
+msgctxt "Phoenicia"
+msgid "I should have guessed Ben-hwa had a fedora phase."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/38
+msgctxt "Phoenicia"
+msgid "Yeah, those two are practically inseparable, always getting into trouble. Hm."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/46/s/0
+msgctxt "Choix"
+msgid "What kind of trouble?"
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/47/s/0
+msgctxt "Choix"
+msgid "Are they still close?"
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh you know, running scams, playing pranks, generally terrorizing the house."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/c-1/15
+msgctxt "Phoenicia"
+msgid "One of their old 'secret hide-outs' was in the bedroom right in the end table, and let me tell you, it wasn't much of a secret."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/c-1/23
+msgctxt "Phoenicia"
+msgid "It was like the most obvious place you'd look. It was cute. Loud and annoying but, cute."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/c-2/7
+msgctxt "Phoenicia"
+msgid "Oh yeah, or well, at least they were before Bobby ran off to find themselves."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/c-2/15
+msgctxt "Phoenicia"
+msgid "But they used to do that a lot, running off looking for adventure."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/c-2/23
+msgctxt "Phoenicia"
+msgid "I wouldn't be surprised if they were holed up in one of their old 'secret hide-outs'."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-0/c-2/31
+msgctxt "Phoenicia"
+msgid "They used to have one in the bedroom, right in the end table, and let me tell you, it wasn't much of a secret."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Actually, now that I think about it, I haven't really seen either of them in a while."
+msgstr ""
+
+#: phoenicia_phone/placebook_ben/0/g-1/8
+msgctxt "Phoenicia"
+msgid "I guess that's why it's been so quiet."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/26
+msgctxt "Narrator"
+msgid "Phoenicia is scrolling through Placebook, frowning at something."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/37
+msgctxt "Phoenicia"
+msgid "Mmm! Mmm-mmm-mmm! Oof! Bobby! Honey! This is <i>not</i> the vibe, babe!"
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/45/s/0
+msgctxt "Choix"
+msgid "Someone wearing skinny jeans again?"
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/46/s/0
+msgctxt "Choix"
+msgid "Let me guess, an off-trend dance video?"
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Oooh, someone's been paying attention."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Oh, I'm so proud!"
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-0/19
+msgctxt "Phoenicia"
+msgid "But no, nothing that criminal."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-0/27
+msgctxt "Phoenicia"
+msgid "More just... sad and a little concerning."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-0/35
+msgctxt "Phoenicia"
+msgid "They do this weekly destination bucket list where they talk about the top places to travel."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-0/43/s/0
+msgctxt "Choix"
+msgid "That doesn't sound so bad."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-0/44/s/0
+msgctxt "Choix"
+msgid "Nothing wrong with a hobby, right?"
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Sure, and some of their lists aren't half bad."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-1/8
+msgctxt "Phoenicia"
+msgid "But on this week's Top 5 Places to Travel this Summer, their number one answer was \"Anywhere but here.\""
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Yikes..."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "That's rough."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-2/0
+msgctxt "Phoenicia"
+msgid "I mean if that isn't a cry for attention, I don't know what is."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-2/8
+msgctxt "Phoenicia"
+msgid "Even Hoove hasn't commented on it yet and he's always the first one to like their travel updates."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-2/19
+msgctxt "Phoenicia"
+msgid "Which I always felt was kinda weird because Hoove never talks about traveling. He's really more of a 'love where you're at' homebody kinda vacuum - he loves that little closet in the laundry room."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-2/35
+msgctxt "Phoenicia"
+msgid "Maybe I should just mute Bobby for a week or two, until they get whatever's going on out of their system."
+msgstr ""
+
+#: phoenicia_phone/placebook_bobby/0/g-2/43
+msgctxt "Phoenicia"
+msgid "You gotta curate your feed. You know how it is."
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/26
+msgctxt "Narrator"
+msgid "Phoenicia is giggling at a post..."
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/34
+msgctxt "Phoenicia"
+msgid "Hahaha. Wow. I mean I've seen throwbacks, but this guy looks like a literal time capsule."
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/42
+msgctxt "Phoenicia"
+msgid "What? Was he buried under a rock or something? hahaha"
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/53/s/0
+msgctxt "Choix"
+msgid "Are you looking at a rock? Can I date it?"
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/54/s/0
+msgctxt "Choix"
+msgid "What's wrong with being behind on the times?"
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/c-0/7
+msgctxt "Phoenicia"
+msgid "No, not a rock. More like a 'rock star' wannabe. Heh."
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh honey, if you don't know the latest styles, how are you ever going to get more likes?"
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "What if I don't want likes?"
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Ah, I see..."
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/c-1/15/c-0/7
+msgctxt "Phoenicia"
+msgid "This conversation thread is rapidly losing my interest."
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/c-1/15/c-1/7
+msgctxt "Phoenicia"
+msgid "Just stick with me, I'll teach you everything you need to know, honey."
+msgstr ""
+
+#: phoenicia_phone/placebook_bodhi/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Anyway... this guy practically dropped out of the 80s. I'll give him a follow - but only because he's probably going to post something toxic since he has NO idea how to use socials."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/26
+msgctxt "Narrator"
+msgid "Phoenicia looks up from her scrolling."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/34
+msgctxt "Phoenicia"
+msgid "Ohmygigs, that's it! It's gotta be!"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/45
+msgctxt "Phoenicia"
+msgid "Oh, that's so cruel! Ooh!"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/53/s/0 phoenicia_phone/placebook_vaughn/0/62/s/0
+msgctxt "Choix"
+msgid "What's wrong?"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Only the worst thing ever!"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/15
+msgctxt "Phoenicia"
+msgid "Kopi just posted about a study saying that drinking coffee late at night can cause..."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/26
+msgctxt "Phoenicia"
+msgid "Well..."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Heart attacks?"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "The munchies?"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/34/2/s/0
+msgctxt "Choix"
+msgid "Nightmares?"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/34/c-0/7
+msgctxt "Phoenicia"
+msgid "Uhh, well, maybe..."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/34/c-0/15 phoenicia_phone/placebook_nightmare/0/c-0/34/c-1/15
+msgctxt "Phoenicia"
+msgid "But nightmares!"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/34/c-1/7
+msgctxt "Phoenicia"
+msgid "Definitely that too..."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/c-0/34/c-2/7
+msgctxt "Phoenicia"
+msgid "Oh, n-n-n-n-n-n-nightmares!"
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Ooh I <i>hate</i> nightmares! I have this recurring one where I'm in airplane mode but I'm not on an airplane and I'm like..."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/g-0/8
+msgctxt "Phoenicia"
+msgid "\"Get me back to civilization already!!\""
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/g-0/16
+msgctxt "Phoenicia"
+msgid "Usually happens when I'm in the middle of a software update. But still."
+msgstr ""
+
+#: phoenicia_phone/placebook_nightmare/0/g-0/24
+msgctxt "Phoenicia"
+msgid "No coffee for me at night. Check."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/26
+msgctxt "Narrator"
+msgid "Phoenicia squints at her Placebook feed, scrolling back and forth."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/34
+msgctxt "Phoenicia"
+msgid "What the..."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/42
+msgctxt "Phoenicia"
+msgid "Ok either we somehow went back in time to when MyPlace was still a thing, or I scrolled so far I finally broke the Placebook feed."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/51/s/0
+msgctxt "Choix"
+msgid "MyPlace?"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Oh right, I forgot you're basically a hermit who somehow missed every major social development in the last three decades."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-0/0
+msgctxt "Phoenicia"
+msgid "MyPlace is what everyone used <i>before</i> Placebook. Same concept but you could actually use code to customize your own profile."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Which meant you ran into a lot of profiles like <i>this</i>."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Is it that bad?"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "What's wrong with it?"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-1/0
+msgctxt "Phoenicia"
+msgid "It looks like the Placebook UI just exploded all over the page!"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-1/8
+msgctxt "Phoenicia"
+msgid "There must be a serious glitch in there somewhere."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Can you tell whose profile it is?"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "What does it say?"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-1/c-4/7
+msgctxt "Phoenicia"
+msgid "Ugh, no! The profile picture's messed up, too! It almost looks like Deenah the Dresser, but it's hard to tell around the missing pixels."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Imagine if someone put their entire profile through a zalgo text generator."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-2/11
+msgctxt "Phoenicia"
+msgid "And before you ask, it basically just adds a bunch of nonsense unicode symbols to the page to make it practically illegible."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-2/19/s/0
+msgctxt "Choix"
+msgid "Why would someone do that?"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-2/20/s/0
+msgctxt "Choix"
+msgid "If it's illegible, what's the point?"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-2/c-6/7
+msgctxt "Phoenicia"
+msgid "Exactly, it's annoying and pointless. Which is why everyone stopped doing it."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-2/c-7/7
+msgctxt "Phoenicia"
+msgid "It's gotta be a glitch."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-3/0
+msgctxt "Phoenicia"
+msgid "I'm just gunna report it."
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-3/8
+msgctxt "Phoenicia"
+msgid "There. Now it's someone else's problem!"
+msgstr ""
+
+#: phoenicia_phone/placebook_daemon/0/g-3/16
+msgctxt "Phoenicia"
+msgid "Well, that's my good deed for the day. You're welcome, users of Placebook!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/26
+msgctxt "Narrator"
+msgid "Phoenicia is giggling to herself at something on her Placebook feed."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/34
+msgctxt "Phoenicia"
+msgid "Oooh girl, Harper finally saw the comments on Dirk's latest selfie~"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/45
+msgctxt "Phoenicia"
+msgid "This is gunna be good, 'cause that hamper is <i>savage</i>!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/56
+msgctxt "Phoenicia"
+msgid "Tear'em up honey!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/64/s/0
+msgctxt "Choix"
+msgid "Are the comments bad?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/65/s/0
+msgctxt "Choix"
+msgid "So her tearing up the comments is a... good thing?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/c-0/7
+msgctxt "Phoenicia"
+msgid "The fact that there <i>are</i> comments is bad honey, at least for Dirk."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/c-1/7
+msgctxt "Phoenicia"
+msgid "You know, it's good for everyone following their dumpster fire of a relationship. Talk about high-quality, guilty-pleasure reality entertainment!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/c-1/15
+msgctxt "Phoenicia"
+msgid "Nooot so good for Dirk though."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "That sounds... healthy..."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "That's terrible."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Look, it's not like Dirk is innocent here."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-1/8
+msgctxt "Phoenicia"
+msgid "He knows what sets her off and he does it anyway just because he likes the attention."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "If they are so bad for each other, why are they together?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Why don't they break up?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Every time someone brings it up, Dirk just changes the subject."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-2/8
+msgctxt "Phoenicia"
+msgid "And no one is brave enough to ask Harper."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-2/16
+msgctxt "Phoenicia"
+msgid "So they just keep hurting each other."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "Shouldn't someone do something?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "Maybe I should try to talk to them."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Hey, if you wanna go play white knight, be my guest."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-3/8
+msgctxt "Phoenicia"
+msgid "But I'll tell you right now, you can't help anyone who isn't ready to help themselves."
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-3/16
+msgctxt "Phoenicia"
+msgid "Besides, I don't judge, you can't really know someone else's business until you're in it, know what I mean?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dirk/0/g-3/24
+msgctxt "Phoenicia"
+msgid "Now shush and let me enjoy my show!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/26
+msgctxt "Narrator"
+msgid "Phoenicia frowns at her feed."
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/34
+msgctxt "Phoenicia"
+msgid "Oh no... girl you've gotta get out there!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/42/s/0
+msgctxt "Choix"
+msgid "What's up?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Dolly has been staying with Koa for awhile now because she thinks that the outside world is too dangerous for her natural form!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/c-0/21
+msgctxt "Phoenicia"
+msgid "But I know you've got it, girl - stand proud!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/c-0/29
+msgctxt "Phoenicia"
+msgid "<i>...</i>"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/c-0/37
+msgctxt "Phoenicia"
+msgid "But I'm not as literally fragile as she is I suppose..."
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/c-0/45/0/s/0
+msgctxt "Choix"
+msgid "She's with 'Koa'?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/c-0/45/1/s/0
+msgctxt "Choix"
+msgid "She's with Koa?"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Yeah, I've stayed with the big guy from time to time if I fall out of your pockets."
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/g-0/8
+msgctxt "Phoenicia"
+msgid "But that's usually in the cushions and I think she's more like, underneath."
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/g-0/16
+msgctxt "Phoenicia"
+msgid "Lots more room underneath to go freely!"
+msgstr ""
+
+#: phoenicia_phone/placebook_dolly/0/g-0/24
+msgctxt "Phoenicia"
+msgid "Anyway... if you go by, just give a little tap. That should be enough to coax her out if you're good people."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/26
+msgctxt "Narrator"
+msgid "Once again, Phoenicia is eyeballs deep in her Placebook feed."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/34
+msgctxt "Phoenicia"
+msgid "Wow, three posts in a row about 'the benefits of box breathing'?"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/42
+msgctxt "Phoenicia"
+msgid "Is Doug like... ok?"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/50
+msgctxt "Phoenicia"
+msgid "Someone should really go check on him..."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/58/s/0
+msgctxt "Choix"
+msgid "What's box breathing?"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/59/s/0
+msgctxt "Choix"
+msgid "I don't know what that means."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/60/s/0
+msgctxt "Choix"
+msgid "I dunno Doug, but I do know about that technique."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/c-2/7
+msgctxt "Phoenicia"
+msgid "It's the best, honestly. I use it all the time when an update is taking too long."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Seriously? You don't know what box breathing is?"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Nevermind, that makes sense actually."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-0/16
+msgctxt "Phoenicia"
+msgid "You walk like someone who orders a side of stress with every meal, extra crispy honey."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Again I... don't know what that means."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "I don't do it on purpose!"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Mmmhmm..."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/8
+msgctxt "Phoenicia"
+msgid "Anyway, box breathing is just a breathing technique, you use it when you're feeling overwhelmed or just in general to help calm your nervous system."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/16/0
+msgctxt "Phoenicia"
+msgid "I have a whole playlist on FlueTube."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/16/8
+msgctxt "Phoenicia"
+msgid "All you need to do is find a nice quiet place with no distractions."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/16/16/s/0
+msgctxt "Choix"
+msgid "Like a dark room?"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/16/17/s/0
+msgctxt "Choix"
+msgid "I don't have to go outside, do I?"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/16/c-5/7
+msgctxt "Phoenicia"
+msgid "Only if you want to fall asleep."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-1/16/c-6/7
+msgctxt "Phoenicia"
+msgid "Ha! With your allergies? Probably not till next season."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-2/0
+msgctxt "Phoenicia"
+msgid "No, it just needs to be somewhere you're comfortable, but not over stimulating with a bunch of clutter."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-2/8
+msgctxt "Phoenicia"
+msgid "Like a blank wall or something!"
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-2/16
+msgctxt "Phoenicia"
+msgid "Just stare at it for a long time... and you'll start to have thoughts you never thought possible..."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-2/24
+msgctxt "Phoenicia"
+msgid "Just clear your mind and get in touch with your body, you know? Very therapeutic."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "That does sound nice."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Trust me. You'll thank me later."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-3/8
+msgctxt "Phoenicia"
+msgid "And for real, while you're at it, check on Doug. Maybe he can meditate with you."
+msgstr ""
+
+#: phoenicia_phone/placebook_doug/0/g-3/19
+msgctxt "Phoenicia"
+msgid "Guy's a damn mess."
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/26
+msgctxt "Narrator"
+msgid "Phoenicia is writing something down in her note-taking app."
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/34
+msgctxt "Phoenicia"
+msgid "Ah, ooh okay, good point - next time I see someone with a spastic colon I'll know exactly what to do!"
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/42
+msgctxt "Phoenicia"
+msgid "Anticholinergic medications... definitely."
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/50/s/0
+msgctxt "Choix"
+msgid "Are you sure you're going to remember that?"
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/c-0/15
+msgctxt "Phoenicia"
+msgid "No. Definitely not."
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/c-0/23
+msgctxt "Phoenicia"
+msgid "If it ever happens... I'll just look it up online or panic."
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/c-0/31
+msgctxt "Phoenicia"
+msgid "Still... staying subscribed to Farya's helpful tips makes me <i>feel</i> like I know what I'm doing."
+msgstr ""
+
+#: phoenicia_phone/placebook_farya/0/c-0/42
+msgctxt "Phoenicia"
+msgid "And if I'm ever near the downstairs bathroom? Then I know I'm in good hands."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/26
+msgctxt "Narrator"
+msgid "Phoenicia looks disgusted at her feed, turning away from it with her arms crossed."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/34
+msgctxt "Phoenicia"
+msgid "Ugh! Trolls! I hate these things."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/45
+msgctxt "Phoenicia"
+msgid "Placebook is a place for positivity and going viral and getting rich off of it."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/53
+msgctxt "Phoenicia"
+msgid "But not... hate!"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/64/s/0
+msgctxt "Choix"
+msgid "I hate haters!"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/65/s/0
+msgctxt "Choix"
+msgid "Actually, I think trolls can be pretty fun."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Same!"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Ugh, really?"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/c-1/18
+msgctxt "Phoenicia"
+msgid "I'm... actually kinda surprised you think so, being that nobody around here hates you."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/0
+msgctxt "Phoenicia"
+msgid "But if I know one thing - the best way to attract haters is to spread hate yourself."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/11
+msgctxt "Phoenicia"
+msgid "And I'm not gunna do that!"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "Neither am I!"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "Well... say I did get someone to hate me... would that ruin my whole experience?"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/21/s/0
+msgctxt "Choix"
+msgid "I'll never get anyone to hate me. So I guess I'll just miss out on this secret character."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "Aw honestly... it wouldn't be the end of the world!"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-3/15
+msgctxt "Phoenicia"
+msgid "It might take a while but there are ways to patch things up."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "Like candies?"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-3/23/1/s/0
+msgctxt "Choix"
+msgid "I'll be on the lookout then..."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-3/23/c-0/7
+msgctxt "Phoenicia"
+msgid "Yea! Those! I've heard they can be really useful!"
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-3/23/c-1/7
+msgctxt "Phoenicia"
+msgid "You're bound to find something."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "I wouldn't be too sure of that... it might just be that rejection will find you anyway even if you don't ever do it yourself."
+msgstr ""
+
+#: phoenicia_phone/placebook_reggie/0/g-0/c-4/15
+msgctxt "Phoenicia"
+msgid "Trolls have a way of doing that... I guess."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/30
+msgctxt "Narrator"
+msgid "Phoenicia lets out a scream so loud and excited it startles you—you're almost flattered, but it soon becomes clear you aren't the source of her excitement."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/38
+msgctxt "Phoenicia"
+msgid "AHHHHH! OH MY GIGS! OH MY GIGS OHMYGIGSOHMYGIGSOHMYGIGS!!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/49
+msgctxt "Phoenicia"
+msgid "I FINALLY FOUND IT!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/60
+msgctxt "Phoenicia"
+msgid "And it's the COMPLETE SET?!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/68
+msgctxt "Phoenicia"
+msgid "Pinch me~"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/76/s/0
+msgctxt "Choix"
+msgid "What did you find?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/77/s/0
+msgctxt "Choix"
+msgid "Complete set of what?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-0/0
+msgctxt "Phoenicia"
+msgid "My favorite show, OUT OF SERVICE!!!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-0/8
+msgctxt "Phoenicia"
+msgid "It's about this beautiful, classy young smart phone who accidentally gets transported back in time to before wifi even existed."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-0/16
+msgctxt "Phoenicia"
+msgid "And while she's fighting to find a way back home, she falls in love with this absolute dreamboat of a landline~"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-0/24
+msgctxt "Phoenicia"
+msgid "I just found someone selling the whole series on Placebook marketspace."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-0/32
+msgctxt "Phoenicia"
+msgid "All 10 seasons of the most scintillating, passionate, epic love story of all time!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "Who still buys hard copies?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-0/41/s/0
+msgctxt "Choix"
+msgid "Why not just stream it?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Ok normally I'd agree with you, physical media is so bulky, but this is a special case."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-1/8
+msgctxt "Phoenicia"
+msgid "Do you realize how much bonus content they used to put on these things?!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-1/16
+msgctxt "Phoenicia"
+msgid "Entire discs dedicated to bloopers, deleted scenes, commentary, BTS!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-1/24
+msgctxt "Phoenicia"
+msgid "Sometimes they even made special content <i>specifically</i> for the physical release that you couldn't find anywhere else!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-1/32
+msgctxt "Phoenicia"
+msgid "There's over 20 minutes of unaired footage for season 5 alone."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "Can't you just find it online?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "How has that not been posted somewhere?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-2/0
+msgctxt "Phoenicia"
+msgid "That's what I said!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-2/8
+msgctxt "Phoenicia"
+msgid "Apparently the studios were pretty hard core about getting anything shared online taken down, and eventually people just lost interest."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-2/16
+msgctxt "Phoenicia"
+msgid "But now the infamous rumored full-frontal shower scene is only 3-5 business days away~"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-2/24
+msgctxt "Phoenicia"
+msgid "I heard they even hid the alternate ending of the series finale as an easter egg somewhere!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "What's an easter egg?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "How do you find it?"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-2/c-6/7
+msgctxt "Phoenicia"
+msgid "That's when they hide certain content in unexpected places that aren't super obvious."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Usually you have to mess around clicking on specific text boxes, like ones that blend in right in plain sight!"
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-3/11
+msgctxt "Phoenicia"
+msgid "...or even spot fake names in the credits! Things like that."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-3/22
+msgctxt "Phoenicia"
+msgid "I'm just warning you right now, once it gets here, you gunna need to give your girl some space."
+msgstr ""
+
+#: phoenicia_phone/placebook_tbc_sassy/0/g-3/30
+msgctxt "Phoenicia"
+msgid "I'll have <i>a lot</i> of catching up to do~"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/26
+msgctxt "Narrator"
+msgid "Phoenicia looks uncharacteristically disgusted with her Placebook feed, shaking her head."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/34
+msgctxt "Phoenicia"
+msgid "Uhhhhhhh..."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/45 phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/0
+msgctxt "Phoenicia"
+msgid "I-..."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/53
+msgctxt "Phoenicia"
+msgid "Oof."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/61/s/0 phoenicia_phone/phoenicia_love_return/0/20/s/0
+msgctxt "Choix"
+msgid "What is it?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Look..."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/8
+msgctxt "Phoenicia"
+msgid "You know I'm not one to judge."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/16
+msgctxt "Phoenicia"
+msgid "Don't look at me like that."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/24
+msgctxt "Phoenicia"
+msgid "You <i>know</i> I'm not one to judge. Buuuuut..."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/32
+msgctxt "Phoenicia"
+msgid "This is one trend I just don't think I can get behind."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "What trend?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/41/s/0
+msgctxt "Choix"
+msgid "There's more than one trend?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "...I'm going to pretend you didn't say that. Anyway..."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-1/0
+msgctxt "Phoenicia"
+msgid "It's a new photoshoot trend where you're supposed to try to make it look like you're standing over a grave."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-1/8
+msgctxt "Phoenicia"
+msgid "Suuuuper unsettling. And what's the implication here?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-1/19
+msgctxt "Phoenicia"
+msgid "Are you burying your audience?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-1/27
+msgctxt "Phoenicia"
+msgid "Is it a threat? Is it supposed to be poetic? Are you a grave robber?! It doesn't make any sense!"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "How does that even work?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "So what do they do?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-2/0
+msgctxt "Phoenicia"
+msgid "It's all lighting and forced perspective."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-2/8
+msgctxt "Phoenicia"
+msgid "Basically you just dig a hole, put your phone in and stand over it."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-2/16
+msgctxt "Phoenicia"
+msgid "I've seen some people get pretty creative with it, actually."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-2/24
+msgctxt "Phoenicia"
+msgid "I'd be more impressed if it wasn't so damn morbid."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "Huh yeah that's... interesting."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "The internet is so weird sometimes."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Yeah well, that's what I get for following Vaughn Trapp."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-3/11
+msgctxt "Phoenicia"
+msgid "He's always posting weird shit like this."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-3/19
+msgctxt "Phoenicia"
+msgid "At least this one kinda makes sense for him."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-3/27/s/0
+msgctxt "Choix"
+msgid "How so?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-3/28/s/0
+msgctxt "Choix"
+msgid "What do you mean?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-4/0
+msgctxt "Phoenicia"
+msgid "Well you know, because he's always hanging around down in the dirt anyway."
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-4/8
+msgctxt "Phoenicia"
+msgid "Might as well make it <i>aesthetic</i> while he's down there, right?"
+msgstr ""
+
+#: phoenicia_phone/placebook_vaughn/0/g-4/16
+msgctxt "Phoenicia"
+msgid "...still weird."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/26
+msgctxt "Narrator"
+msgid "Phoenicia shakes her head as she looks at her feed."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/34
+msgctxt "Phoenicia"
+msgid "Another one? Ungh I can't believe this."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/45
+msgctxt "Phoenicia"
+msgid "How long until I'm not needed..."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/53/s/0
+msgctxt "Choix"
+msgid "What's wrong, Phoenicia?"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/54/s/0
+msgctxt "Choix"
+msgid "Doomscrolling?"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Yeah, guilty..."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-0/0
+msgctxt "Phoenicia"
+msgid "I need to stop, honestly, because it's really bumming me out. I just keep seeing things being replaced by AI left and right!"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Yeah, I lost my job to it too."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "AI? Can I date it?"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-0/c-2/7
+msgctxt "Phoenicia"
+msgid "I saw! Hopefully you can still afford my phone bill..."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "No, AI isn't an object... or a person... I dunno what the hell it is but it isn't one of us!"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/0
+msgctxt "Phoenicia"
+msgid "I just wish there was some way to fight back... Actually, wait..."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/8
+msgctxt "Phoenicia"
+msgid "Even though you lost your job, maybe you should still check in? Poke around the ol' workspace?"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/16
+msgctxt "Phoenicia"
+msgid "You know, really show that AI who's boss! Well... figuratively anyway."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/27
+msgctxt "Phoenicia"
+msgid "I mean, we can't just give up and let it take over everything! Right?"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "Same here - we can find a way through it!"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "I don't believe you."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/37/s/0
+msgctxt "Choix"
+msgid "I bet I can date the AI."
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/c-4/7
+msgctxt "Phoenicia"
+msgid "Yeah!"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/c-5/7
+msgctxt "Phoenicia"
+msgid "Oh my gigs, whatever!"
+msgstr ""
+
+#: phoenicia_phone/placebook_willi/0/g-1/c-6/7
+msgctxt "Phoenicia"
+msgid "Fine, why don't you marry AI then if you love it so much?! Gross."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/26
+msgctxt "Narrator"
+msgid "Phoenicia doesn't even bother with a greeting as she turns her display towards you."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/34
+msgctxt "Phoenicia"
+msgid "Hey, does this look Photomopped to you?"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/42/s/0
+msgctxt "Choix"
+msgid "What's Photomopped?"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/43/s/0
+msgctxt "Choix"
+msgid "That sounds fake as hell."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-0/0
+msgctxt "Phoenicia"
+msgid "You know, when you like clean up, wash away, dab the details of an image?"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Remove annoying people from the background, fix your hair, delete blemishes, change the color of your outfit, that sorta thing."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-0/16
+msgctxt "Phoenicia"
+msgid "Like a mop."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "And you want to know if this picture has been altered because...?"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Is this a new game? Spot selfie edits?"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "No, it's completely different!"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-0/c-3/15
+msgctxt "Phoenicia"
+msgid "Well... kinda?"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-1/0
+msgctxt "Phoenicia"
+msgid "I made a bet with Curt and Rod that I could spot the edits on any pic they tagged me in."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-1/11
+msgctxt "Phoenicia"
+msgid "Which I totally can, it's like my super power. This one is just... a little tricky."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-1/19
+msgctxt "Phoenicia"
+msgid "Ungh I know there's something off in the background, I just can't put my stylus on it yet..."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "How can you tell?"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "Looks fine to me."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-1/c-5/7
+msgctxt "Phoenicia"
+msgid "Well that's just because you don't know what to look for."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-2/0
+msgctxt "Phoenicia"
+msgid "You have to check the edges for distortion..."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-2/8
+msgctxt "Phoenicia"
+msgid "Look for missing reflections..."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-2/16
+msgctxt "Phoenicia"
+msgid "Weird lighting or even false shadows..."
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-2/27
+msgctxt "Phoenicia"
+msgid "HA! That's it, I FOUND IT!"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-2/38
+msgctxt "Phoenicia"
+msgid "Right here, look! There's a double shadow in the back corner!"
+msgstr ""
+
+#: phoenicia_phone/placebook_shadow/0/g-2/46
+msgctxt "Phoenicia"
+msgid "Ooooh I can't <i>wait</i> to rub their faces in this one~!"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/26
+msgctxt "Narrator"
+msgid "Phoenicia mutters to herself as she scrolls, counting under her breath."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/34
+msgctxt "Phoenicia"
+msgid "Seven... eight... nine- <i>ten</i>, it just keeps going!"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/42/s/0
+msgctxt "Choix"
+msgid "What does?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/43/s/0
+msgctxt "Choix"
+msgid "What are you counting?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/44/s/0
+msgctxt "Choix"
+msgid "Mystery rando? You don't know who it is?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/45/s/0
+msgctxt "Choix"
+msgid "I thought you knew everyone's accounts?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/c-1/7
+msgctxt "Phoenicia"
+msgid "The number of posts that mystery rando made last night."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/c-1/15
+msgctxt "Phoenicia"
+msgid "I have to purge my entire feed every morning. It's getting ridiculous."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/c-2/7
+msgctxt "Phoenicia"
+msgid "NO! No one does, and it's driving me crazy!"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/c-3/7
+msgctxt "Phoenicia"
+msgid "SO DID I! It's really starting to piss me off."
+msgstr ""
+
+#. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
+#: phoenicia_phone/placebook_zoey/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Even Maggie can't figure out who they are."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-0/16
+msgctxt "Phoenicia"
+msgid "For a while I thought they were just a Valdivibot, but their true crime theories are way too coherent to be AI generated."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-0/24
+msgctxt "Phoenicia"
+msgid "And honestly, not half bad. I really do think they're onto something with that Bennet case. I mean the whole thing just screams cover up, don't you think?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "Oh really?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-1/0
+msgctxt "Phoenicia"
+msgid "You have no idea what I'm talking about, do you?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Nope."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Sorry, no clue."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Ungh whatever, my point is that a bot couldn't put all that together!"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Sounds like you actually like their content."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "So you're mad because their posts are actually good?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Slow down, I didn't say it was <i>all</i> good."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/8
+msgctxt "Phoenicia"
+msgid "And that's not the problem anyway."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/16
+msgctxt "Phoenicia"
+msgid "It's the fact that they spam the feed every night at midnight. Seriously, every damn night, like clockwork!"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/27
+msgctxt "Phoenicia"
+msgid "You know what, I bet it's someone in the attic. They're all exactly the type of shut-ins to deep dive into true crime."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/35
+msgctxt "Phoenicia"
+msgid "Plus, with how musty the air is up there? Ugh... more than a few screws short between them."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/43
+msgctxt "Phoenicia"
+msgid "You know... maybe I <i>don't</i> want to know who it is after all. Might ruin it for me."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/51/s/0
+msgctxt "Choix"
+msgid "If it bothers you so much, why don't you unfollow them?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/52/s/0
+msgctxt "Choix"
+msgid "Well that's what they made the block button for."
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/c-10/7
+msgctxt "Phoenicia"
+msgid "Unfollow them?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-3/c-11/7
+msgctxt "Phoenicia"
+msgid "Block them?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-4/0
+msgctxt "Phoenicia"
+msgid "And never find out if they actually crack the Bennet case?"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-4/8
+msgctxt "Phoenicia"
+msgid "Are you kidding?!"
+msgstr ""
+
+#: phoenicia_phone/placebook_zoey/0/g-4/16
+msgctxt "Phoenicia"
+msgid "Get real."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_deny_her/0
+msgctxt "Phoenicia"
+msgid "Well all right then, you know where to find me!"
+msgstr ""
+
+#: phoenicia_phone/placebook_exit/0/0
+msgctxt "Phoenicia"
+msgid "You wanna hear more??"
+msgstr ""
+
+#: phoenicia_phone/placebook_exit/0/8/s/0
+msgctxt "Choix"
+msgid "Yeah, what else you got?"
+msgstr ""
+
+#: phoenicia_phone/placebook_exit/0/9/s/0
+msgctxt "Choix"
+msgid "I'm all good now, thanks!"
+msgstr ""
+
+#: phoenicia_phone/placebook_exit/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Alright, I'll keep saving the good stuff for next time!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/12
+msgctxt "Narrator"
+msgid "Phoenicia is full-on sweating, hopping from foot to foot and fanning herself frantically with her hands."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/20
+msgctxt "Phoenicia"
+msgid "Alert, alert! I hope you like your data extra crispy because we're headed for a full-scale meltdown in here!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/0/s/0
+msgctxt "Choix"
+msgid "Woah, what's going on?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/1/s/0
+msgctxt "Choix"
+msgid "Why are you yelling?!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/2/s/0
+msgctxt "Choix"
+msgid "Another system alert? Maybe it's time for a reset."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/3/s/0
+msgctxt "Choix"
+msgid "<i>Remove Phoenicia's case.</i>"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/7
+msgctxt "Phoenicia"
+msgid "Finally, I thought I was going to blow my speaker before you noticed! Hurry up and get me out of this thing before I suffocate!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Are you ok?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "What, like... download you onto my computer? I mean, I couldn't really carry you around with me any more but if that's what you want."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/7
+msgctxt "Phoenicia"
+msgid "Oh sure, I'm great. I love shorting out! I mean, who doesn't like spontaneously combusting? I hear burnt pockets are really in this season..."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Umm, alright then-"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/7
+msgctxt "Phoenicia"
+msgid "NO I'M NOT OK! WHAT PART OF Alert: Device overheating, self shut down in progress DID YOU NOT UNDERSTAND? Take this damn case off before you burn the whole house down!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/0/s/0
+msgctxt "Choix"
+msgid "Ok, ok! What do you need me to do?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/1/s/0
+msgctxt "Choix"
+msgid "Take it down a notch."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/7 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/7
+msgctxt "Phoenicia"
+msgid "Yeesh, you really need it spelled out for you don't you?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/0/s/0 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "...yeah."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/1/s/0 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Hey, I'm doing my best here!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Alright, you're on your own. Good luck!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-0/7
+msgctxt "Phoenicia"
+msgid "You know what? Respect. I love a direct communicator."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-0/15 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-0/15
+msgctxt "Phoenicia"
+msgid "Alright honey, it's real easy. All you gotta do is take my case off so my battery can take a breather."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-1/7 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh yeah, that'll look great on your tombstone. 'Tried my best. Look where it got me.'"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-1/15 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-1/15
+msgctxt "Phoenicia"
+msgid "Just... just get this case off me while I still have good battery cells left. I've been burning up all night!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-1/26/0/s/0 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-1/26/0/s/0
+msgctxt "Choix"
+msgid "Oooh, right. I guess I did leave you plugged in while I was sleeping. That's supposed to be terrible for your battery, isn't it?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-1/26/1/s/0 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-1/26/1/s/0
+msgctxt "Choix"
+msgid "Jeez you're pushy."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-1/26/2/s/0 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-1/26/2/s/0
+msgctxt "Choix"
+msgid "Why didn't you just say that to begin with?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-1/26/c-0/7 phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-1/26/c-0/7
+msgctxt "Phoenicia"
+msgid "Oh, is it? I HAD NO IDEA!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/7
+msgctxt "Phoenicia"
+msgid "Phfft fine, burn the whole house down, see if I care!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/23
+msgctxt "Phoenicia"
+msgid "WAIT WAIT WAAAAAAAIT!! FINE. I'm sorry, ok? I get a little touchy when I'm overheating."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/0/s/0
+msgctxt "Choix"
+msgid "That's understandable."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/1/s/0
+msgctxt "Choix"
+msgid "Yeah well... you shouldn't take it out on others."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/0
+msgctxt "Phoenicia"
+msgid "Ok, let's start over."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/8
+msgctxt "Narrator"
+msgid "Phoenicia clears her throat, doing her best to sound helpless."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/16
+msgctxt "Phoenicia"
+msgid "Help, I'm over heating because <i>someone</i> left me plugged in all night~!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/24/s/0
+msgctxt "Choix"
+msgid "Ooooh, oops."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/25/s/0
+msgctxt "Choix"
+msgid "Alright, alright."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/26/s/0
+msgctxt "Choix"
+msgid "How is this my fault? You're not even plugged in right now."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/c-2/7
+msgctxt "Phoenicia"
+msgid "Yeah, <i>oops</i>. Do you have any idea what overcharging does to a battery? I can barely hold a charge as it is!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "Excuse me? Do you have any idea what over charging does to a battery? You're lucky I can even hold a charge, let alone haven't sent the whole house up in smoke yet."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/c-4/15/0/s/0
+msgctxt "Choix"
+msgid "Oh... I didn't know that."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/c-4/15/1/s/0
+msgctxt "Choix"
+msgid "Sorry, it's just habit."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-0/15/c-2/37/g-0/c-4/15/g-0/0
+msgctxt "Phoenicia"
+msgid "Mmhmm whatever, you can think up a better excuse later, just get this damn case off me."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/7
+msgctxt "Phoenicia"
+msgid "...excuse me?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Um I mean, it's so bright in here! We should take the lights down a notch, don't you think? Really... set the mood?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/1/s/0
+msgctxt "Choix"
+msgid "Don't you think you're being a bit... dramatic?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-0/7
+msgctxt "Phoenicia"
+msgid "Mmmhmm, nice save. Quit wasting time and get me out of this thing!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-1/7
+msgctxt "Phoenicia"
+msgid "...EXCUSE ME?!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "But uh you know, who DOESN'T love a little drama now and then, huh?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-1/18/1/s/0
+msgctxt "Choix"
+msgid "Right, shutting up and taking off the case, got it."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-1/18/c-0/7
+msgctxt "Phoenicia"
+msgid "Keep it up and you'll find out what drama really is."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-1/18/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Ahh ok, I mean yes, I mean no, uh no ma'am? I mean... I'll just uh..."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-1/18/c-0/18/1/s/0
+msgctxt "Choix"
+msgid "Oh yeah?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-0/15/c-0/21/c-1/18/c-1/18/c-0/18/c-1/7
+msgctxt "Phoenicia"
+msgid "Don't get cute with me now, just DO THE DAMN THING ALREADY."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/15
+msgctxt "Phoenicia"
+msgid "Well, that's sweet. I think. Sort of. Maybe a little misguided, we really need to get you out more."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/23
+msgctxt "Phoenicia"
+msgid "Anyway, definitely not what I had in mind, but at least you're trying."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Oh wait, your case?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Uh sorry, I don't really know what to do here..."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-0/7
+msgctxt "Phoenicia"
+msgid "Smart and good looking? Instant follow!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-0/18/c-1/31/c-1/15/c-0/7
+msgctxt "Phoenicia"
+msgid "You know what? Respect. We love a direct communicator."
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-1/7
+msgctxt "Phoenicia"
+msgid "Why are YOU just STANDING there?! Honey if you don't DO something, we're all gunna blow!"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-2/7
+msgctxt "Phoenicia"
+msgid "Woah, that's a little personal, don't you think?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-2/15
+msgctxt "Phoenicia"
+msgid "Why don't we get to know each other before you go crawling through my caches, ok?"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-2/23
+msgctxt "Phoenicia"
+msgid "Anyway, like I was saying;"
+msgstr ""
+
+#: phoenicia_phone/burning_for_you/0/28/c-2/31
+msgctxt "Phoenicia"
+msgid "RED ALERT! Get me out of this thing before we all blow!"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/0
+msgctxt "Narrator"
+msgid "You carefully remove Phoenicia's case—her body is alarmingly hot. It seems you've acted just in time."
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/8
+msgctxt "Phoenicia"
+msgid "There! That wasn't so hard was it?"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/16
+msgctxt "Phoenicia"
+msgid "Ahhh~ That was close!"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/24/s/0
+msgctxt "Choix"
+msgid "Better?"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/25/s/0
+msgctxt "Choix"
+msgid "Ouch! You weren't kidding, you're on fire."
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/26/s/0
+msgctxt "Choix"
+msgid "How's that, princess?"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Now that I'm in good hands, I'm getting there."
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Watch yourself, I run hot~"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/c-2/7
+msgctxt "Phoenicia"
+msgid "Princess? I think you mean Queen."
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Listen... You mind if I stick with you for a while? Just in case I feel another meltdown coming on. I'd hate to lose any important save files, or valuable passwords or something."
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Oh! Speaking of which, I need to do another update I've been putting off now that we're back in the green zone. Talk more later~?"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Okay..."
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "You got it, darling."
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "Bye baby!"
+msgstr ""
+
+#: phoenicia_phone/uncover_phone/0/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "Ooh ho ho, oh you bad!"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/20
+msgctxt "Phoenicia"
+msgid "Alert: Device overheating, self shut down in progress."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/31/s/0
+msgctxt "Choix"
+msgid "Oh no, not again."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/32/s/0
+msgctxt "Choix"
+msgid "I'm sorry, I must have left too many apps open!"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/33/s/0
+msgctxt "Choix"
+msgid "Seriously? You weren't even doing anything."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/0
+msgctxt "Phoenicia"
+msgid "What are the signs for a heat stroke? Someone Valdivisearch it."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "What do I do? What do you need?"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Are you sure? You're not even that warm..."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "Do you have any idea how stuffy it is inside a pocket? AIR, I need air. Cold air. A vent, a fan, a freezer even! Quick, I can't afford to lose another camera lens!"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "What was that? I can't hear you, I think the heat is shorting out my mic. Did you say you want me to purge all your saved logins?"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/0/s/0
+msgctxt "Choix"
+msgid "What?! No, no don't do that. Hang on, I uh, have an idea to cool you down!"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/1/s/0
+msgctxt "Choix"
+msgid "I don't think that's actually how overheating works."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/0
+msgctxt "Phoenicia"
+msgid "Permanently delete all photo albums? Please confirm request."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Alright, alright! Just tell me how to fix it then!"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "I'm not falling for it, I know you're just trying to get attention. Honestly it's annoying, just stop."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-0/7
+msgctxt "Phoenicia"
+msgid "AIR, I need air. Cold air. Quick, before my new glitter case catches on fire."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/7
+msgctxt "Phoenicia"
+msgid "Woooooooooooooooooooooooow!"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/15
+msgctxt "Phoenicia"
+msgid "Are you serious right now? I'm the annoying one?"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/23
+msgctxt "Phoenicia"
+msgid "Excuse me, how many alarms do you have me ring off for you every morning? Something like TEN now, isn't it?"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/31
+msgctxt "Phoenicia"
+msgid "All of which you completely IGNORE by the way."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/39
+msgctxt "Phoenicia"
+msgid "If I <i>were</i> trying to get your attention, which excuse me rude, you think my entire world just revolves around you? Do you have an idea how busy I am?"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/47
+msgctxt "Phoenicia"
+msgid "But if I <i>were</i>, maybe it's because you NEVER LISTEN!"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/55
+msgctxt "Phoenicia"
+msgid "Woo! Okay, you know what? Forget it. I'll deal with it myself. Just like always."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/97
+msgctxt "Reggie"
+msgid "Honestly, why listen at all?"
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-0/c-4/15/g-0/8/c-1/105
+msgctxt "Reggie"
+msgid "I find it makes things all too complicated."
+msgstr ""
+
+#: phoenicia_phone/diva_meltdown/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "We could go to the fridge? That's the coldest thing here."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/7
+msgctxt "Narrator"
+msgid "You bring Phoenicia to the refrigerator - and place her in the dairy tray like a piece of cheese."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/21
+msgctxt "Freddy"
+msgid "Hey, are you ok? You look like you just ran a mile."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/32
+msgctxt "Freddy"
+msgid "And Phoenicia's in my cheese tray... something's up because she ain't food last time I checked..."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/40/s/0
+msgctxt "Choix"
+msgid "I need your help."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/41/s/0
+msgctxt "Choix"
+msgid "Who are you?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/42/s/0
+msgctxt "Choix"
+msgid "Oh - it's the monster."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/43/s/0
+msgctxt "Choix"
+msgid "Hey - we need to talk about how you treated me."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-0/7
+msgctxt "Freddy"
+msgid "That's what I'm here for. What's going on?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-1/7
+msgctxt "Freddy"
+msgid "Freddy - the fridge!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-1/15
+msgctxt "Freddy"
+msgid "I'm a little gruff around the edges but hopefully I don't spook ya!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-1/23
+msgctxt "Freddy"
+msgid "What can I help you with?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-2/7
+msgctxt "Freddy"
+msgid "Yeah. I may be a monster but I'm always ready to help someone in need."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-2/15
+msgctxt "Freddy"
+msgid "Seems like Phoenicia needs something."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-3/7
+msgctxt "Freddy"
+msgid "...not now. Not if Phoenicia is in danger."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/c-3/15
+msgctxt "Freddy"
+msgid "What's going on?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "She's practically on fire!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "She needs to cool down before she hurts herself."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/0
+msgctxt "Freddy"
+msgid "...she's overheating again?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/8
+msgctxt "Freddy"
+msgid "Phoenicia, you know you can't keep going like this. You need rest! You have to-"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/16
+msgctxt "Phoenicia"
+msgid "Uh-uh-uh-uh! Could we save the lecture for when I'm not ten seconds away from self destruct?!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/27
+msgctxt "Phoenicia"
+msgid "C'mon! C'mon! Oh, c'mon! I've got dead pixels poppin' up all over the place! No, no, no, no, no, no, no, no, no! I'm too young to need a screen replacement!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/38
+msgctxt "Phoenicia"
+msgid "This cheese tray is NOT cold enough!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/46/s/0
+msgctxt "Choix"
+msgid "Hang on, I'll open the freezer."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/47/s/0
+msgctxt "Choix"
+msgid "Your screen looks perfect, I promise. Just give the air a second to work."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/48/s/0
+msgctxt "Choix"
+msgid "I'm so sorry, this is all my fault. I'll get on Valdivian and buy a new charger as soon as you're feeling better!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/49/s/0
+msgctxt "Choix"
+msgid "Calm down, you're fine. It's not that big of a deal."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/7
+msgctxt "Phoenicia"
+msgid "You're so thoughtful, thank you."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/0/s/0
+msgctxt "Choix"
+msgid "Can I do anything else?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/1/s/0
+msgctxt "Choix"
+msgid "We can stay here as long as you need."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/2/s/0
+msgctxt "Choix"
+msgid "I get it, I run hot too."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-0/0
+msgctxt "Phoenicia"
+msgid "Wow, you like... actually care, don't you?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-0/8/s/0
+msgctxt "Choix"
+msgid "Of course I do, you're important to me."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-0/9/s/0
+msgctxt "Choix"
+msgid "Why wouldn't I?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-0/10/s/0
+msgctxt "Choix"
+msgid "Yeah, well don't put it in your blog or anything. I have a reputation to protect."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "You know, in my experience, humans only say that when they want something."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "I guess most humans just... don't."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-0/c-5/7
+msgctxt "Phoenicia"
+msgid "Hahaha oh you're right, better not go getting all sappy. Hey, don't worry, your secret is safe with me."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-6/15/g-1/0
+msgctxt "Phoenicia"
+msgid "Forget I said anything. My wires are all crossed right now, I'm just talking nonsense."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/7
+msgctxt "Phoenicia"
+msgid "You say that now, soon you'll have to slap one of those industrial thickness screen protectors on me just to hold me together."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/15 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/8
+msgctxt "Phoenicia"
+msgid "Trust me, better to just end it all now, let me go out with some dignity."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/0/s/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/0/s/0
+msgctxt "Choix"
+msgid "That's not true, you're being too hard on yourself."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/1/s/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/1/s/0
+msgctxt "Choix"
+msgid "You'd still look perfect even with one of those dorky screen protectors."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/2/s/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/2/s/0
+msgctxt "Choix"
+msgid "No way, I bet you'd have screen protectors trending before the end of the week. You can make anything look good!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-0/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/0
+msgctxt "Phoenicia"
+msgid "I don't know, I feel like that scratch in the corner has gotten so noticeable!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-0/8/s/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "What scratch?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-0/9/s/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/1/s/0
+msgctxt "Choix"
+msgid "Nah, you can't even feel it."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-0/10/s/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/2/s/0
+msgctxt "Choix"
+msgid "It just adds character!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-1/0
+msgctxt "Phoenicia"
+msgid "You really think so? You're not just saying it because I have all your credit cards saved?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-1/8/s/0
+msgctxt "Choix"
+msgid "No, I mean it."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-1/9/s/0
+msgctxt "Choix"
+msgid "Haha well that doesn't hurt... But I'm serious. You have nothing to worry about."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-1/10/s/0
+msgctxt "Choix"
+msgid "Eh, you'd probably be doing me a favor. I need to cut back on those 2am impulse purchases anyway."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-2/0 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-0/7 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-1/7 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-2/7
+msgctxt "Phoenicia"
+msgid "Hrm... maybe you're right. Maybe it's not so bad after all."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-2/8 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-0/18 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-1/15 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-2/15
+msgctxt "Phoenicia"
+msgid "I mean, most phones my age have screens in way worse condition! I've always been pretty strict with my screen care routine."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-2/16
+msgctxt "Phoenicia"
+msgid "Thanks. For helping me cool down. And for... making me feel better."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-2/24 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-3/23
+msgctxt "Phoenicia"
+msgid "This may come as a surprise, you know because I'm so confident and beautiful and popular and really good at everything I do, <i>but</i>... even I have my moments of insecurity."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-7/26/g-2/32 phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-3/31
+msgctxt "Phoenicia"
+msgid "Wow, I'm really nailing this whole being vulnerable thing, aren't I? Good job me."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/7
+msgctxt "Phoenicia"
+msgid "It's too late for me, my backlight is fading. Just go on without me."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/0/s/0
+msgctxt "Choix"
+msgid "Don't talk like that."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/1/s/0
+msgctxt "Choix"
+msgid "I'm not going to let anything happen to you."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/2/s/0
+msgctxt "Choix"
+msgid "You're going to be ok! Come on, I'll even let you pick the color."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/c-2/7
+msgctxt "Phoenicia"
+msgid "...really? Even the new rainbow glow in the dark silicone lined cable set they just released? The one that comes with a matching case and keychain??"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Anything you want."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Uh well... maybe we could compromise on a solid color one?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/c-2/15/c-1/7
+msgctxt "Phoenicia"
+msgid "Ahh, my backlight, it's slipping away, I can't hold on much longer..."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/c-2/15/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Rainbow it is!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/c-2/15/c-1/18/1/s/0
+msgctxt "Choix"
+msgid "I mean who doesn't love rainbow?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/0
+msgctxt "Phoenicia"
+msgid "It's just the circle of artificial life! Soon you'll have to slap one of those industrial thickness screen protectors on me just to hold me together."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/3/s/0
+msgctxt "Choix"
+msgid "It's super noticeable... but in a cool way!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-3/7
+msgctxt "Phoenicia"
+msgid "Okay... I guess. I mean you could try a little harder to make me feel better. Or like, at <i>all</i> actually. But..."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-8/18/g-0/19/g-0/8/c-3/15
+msgctxt "Phoenicia"
+msgid "Thanks. For helping me cool down. And for... making me feel a whole lot less panicky."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/7
+msgctxt "Phoenicia"
+msgid "REALLY? It's not that big a deal, my screen DYING'S not that big a deal?!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/18
+msgctxt "Phoenicia"
+msgid "GOOD TO KNOW. So glad I apparently mean NOTHING to you!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/0/s/0
+msgctxt "Choix"
+msgid "I brought you to the fridge, didn't I? What more do you want?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/1/s/0
+msgctxt "Choix"
+msgid "I... definitely could have said that better."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/c-0/7
+msgctxt "Phoenicia"
+msgid "Unbelievable!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh, ya think?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/0
+msgctxt "Phoenicia"
+msgid "When has telling someone to 'calm down' ever made a situation better?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/8
+msgctxt "Phoenicia"
+msgid "If someone is in emotional distress, they aren't capable of being calm, THAT'S THE ENTIRE POINT!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/16
+msgctxt "Phoenicia"
+msgid "No one likes feeling spun out! If they could calm down, they'd already be CALM!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/24/s/0
+msgctxt "Choix"
+msgid "I'm sorry, I don't handle it well when people I care about are hurting."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/25/s/0
+msgctxt "Choix"
+msgid "You're right. I get uncomfortable when other people have big emotions, but that's my problem. I shouldn't have snapped."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/26/s/0
+msgctxt "Choix"
+msgid "I didn't ask for a lecture."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/7
+msgctxt "Phoenicia"
+msgid "You treat everyone you 'care' about this shitty?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "I'm bad at this stuff, ok? But you're important to me."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Not on purpose. I'm an idiot, please forgive me?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/c-0/7
+msgctxt "Phoenicia"
+msgid "You know, in my experience, people only say that when they want something."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I mean it!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "It's the truth."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/c-0/15/c-1/7 phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/23/g-0/0
+msgctxt "Phoenicia"
+msgid "Hrm..."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/c-1/7 phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/23/g-0/8
+msgctxt "Phoenicia"
+msgid "I guess we can all say stuff outta pocket when we're stressed..."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/g-0/0 phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/23/g-0/16
+msgctxt "Phoenicia"
+msgid "Alright, I'll let you off the hook <i>this time</i>."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/g-0/8 phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/23/g-0/24
+msgctxt "Phoenicia"
+msgid "Next time, though?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-2/15/g-0/16 phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/23/g-0/32
+msgctxt "Phoenicia"
+msgid "Well, there better not be a next time."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "You know that's right."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/15
+msgctxt "Phoenicia"
+msgid "Ain't your therapist honey, you need to get a handle on that your damn self."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/23/0/s/0
+msgctxt "Choix"
+msgid "I know, I'm sorry I made my discomfort your problem."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-3/23/1/s/0
+msgctxt "Choix"
+msgid "It's a bad habit I'm trying to break."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "And I didn't ask to be stuck in the pocket of an emotionally stunted, walking red flag, but here we are!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-4/15/0/s/0
+msgctxt "Choix"
+msgid "I'm the walking red flag? You're the one feeding on other people's drama just to avoid your own problems."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-4/15/c-0/7
+msgctxt "Phoenicia"
+msgid "EXCUSE ME?!"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-4/15/c-0/18
+msgctxt "Phoenicia"
+msgid "Ooooh that's <i>rich</i> coming from you."
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-4/15/c-0/26
+msgctxt "Phoenicia"
+msgid "Speaking of avoiding problems, when's the last time you went outside, by the way?"
+msgstr ""
+
+#: phoenicia_phone/fridge_convo/0/g-1/c-9/26/g-0/c-4/15/c-0/34
+msgctxt "Phoenicia"
+msgid "Been a while, hasn't it? But I'm sure there's nothing you're avoiding out there, right?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/8/s/0
+msgctxt "Choix"
+msgid "Is the cold air helping? Are you feeling any better?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/9/s/0
+msgctxt "Choix"
+msgid "Wait... don't you have a livestream now?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/10/s/0
+msgctxt "Choix"
+msgid "Is it normal to overheat this much?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/11/s/0
+msgctxt "Choix"
+msgid "So... do you want to talk about what's going on?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/11
+msgctxt "Phoenicia"
+msgid "A little."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/19
+msgctxt "Phoenicia"
+msgid "And the company certainly doesn't hurt."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/27
+msgctxt "Phoenicia"
+msgid "Thanks for taking care of me and bringing me over to Freddy."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/0/s/0
+msgctxt "Choix"
+msgid "Any time. I like taking care of you."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/1/s/0
+msgctxt "Choix"
+msgid "You don't need to thank me, that's just what you do for people you... care about."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/0
+msgctxt "Phoenicia"
+msgid "Careful, I just cooled down! You're gunna get me all fired up again!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/8
+msgctxt "Freddy"
+msgid "Better not chance it, I'm already on full blast!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/19
+msgctxt "Phoenicia"
+msgid "Haha sorry Freddy, you're right."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/27
+msgctxt "Phoenicia"
+msgid "And I'm sorry I snapped at you. You know I can't think straight when I'm in full meltdown like that."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/35
+msgctxt "Freddy"
+msgid "That's ok, I'm just glad you're feeling better now."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/43
+msgctxt "Freddy"
+msgid "This has been happening a lot more lately. You need to start taking better care of yourself-"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/51
+msgctxt "Phoenicia"
+msgid "Ah, you're right! I really should invest in a more breathable case!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/67
+msgctxt "Phoenicia"
+msgid "Haha what can I say, I'm a device of habit."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-0/35/g-0/75
+msgctxt "Phoenicia"
+msgid "But I'll get right on it. Thanks for looking out!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/11
+msgctxt "Phoenicia"
+msgid "Oh shoot, what time is it?!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/22
+msgctxt "Phoenicia"
+msgid "I can't believe I forgot!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/30
+msgctxt "Phoenicia"
+msgid "I can't believe you remembered..."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/0/s/0
+msgctxt "Choix"
+msgid "Hey, I listen!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/1/s/0
+msgctxt "Choix"
+msgid "Of course I remembered, I was looking forward to it."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/c-0/7
+msgctxt "Phoenicia"
+msgid "Mmmhmm!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/c-0/15
+msgctxt "Phoenicia"
+msgid "Looks like someone finally caught the social media bug!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/c-1/7
+msgctxt "Phoenicia"
+msgid "Can I get that in writing?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/c-1/15
+msgctxt "Phoenicia"
+msgid "Freddy, you heard that, right?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/c-1/23
+msgctxt "Phoenicia"
+msgid "Everyone heard that?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/g-0/0
+msgctxt "Phoenicia"
+msgid "Alright, it's only a little after my usual start time, if I hurry I could still-"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/g-0/8
+msgctxt "Freddy"
+msgid "Phoenicia, you almost had a full system shut down! You can't do a stream right now."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/g-0/19
+msgctxt "Phoenicia"
+msgid "I'm fine! Look, no warnings or anything."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/g-0/27
+msgctxt "Phoenicia"
+msgid "Just let me boot up the app and-"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/g-0/35
+msgctxt "Phoenicia"
+msgid "Temperature Warning: discontinue any unnecessary activity."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/g-0/43
+msgctxt "Phoenicia"
+msgid "Ah... well, maybe I should stay here a little longer."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-1/38/g-0/54
+msgctxt "Phoenicia"
+msgid "I can always do a double tomorrow to make up for it!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/11
+msgctxt "Phoenicia"
+msgid "Ummm... it's kind of uhh... complicated."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/19
+msgctxt "Freddy"
+msgid "Phfft!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/27
+msgctxt "Phoenicia"
+msgid "Shut it!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/35
+msgctxt "Freddy"
+msgid "No, it's not normal."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/43
+msgctxt "Phoenicia"
+msgid "Maybe it's not your normal, but-"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/51
+msgctxt "Freddy"
+msgid "It's nobody's normal."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/59
+msgctxt "Phoenicia"
+msgid "It's my normal, okay?!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/70
+msgctxt "Freddy"
+msgid "Exactly."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/78
+msgctxt "Freddy"
+msgid "And that's. Not. Normal."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/86
+msgctxt "Phoenicia"
+msgid "Ungh it is for me!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/94
+msgctxt "Freddy"
+msgid "It shouldn't be."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/102
+msgctxt "Phoenicia"
+msgid "Well it <i>is</i>!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-2/110
+msgctxt "Freddy"
+msgid "It doesn't have to be."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/7
+msgctxt "Phoenicia"
+msgid "What? Nothing's going on."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Then why do you keep overheating?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/7
+msgctxt "Phoenicia"
+msgid "Oh, come on, I already told you! It's just that damn battery."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/18
+msgctxt "Phoenicia"
+msgid "That's just the lot I was dealt in the factory. We've all got our faults."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Well that should be covered under the warranty. I could send you in for some maintenance if that would help?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "I thought it was the charger that was the problem?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-0/7
+msgctxt "Phoenicia"
+msgid "Uh well that <i>would</i> be great, you know if uh... if... the... warranty hadn't already expired!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "It did?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Are you sure?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-0/15/g-0/0
+msgctxt "Phoenicia"
+msgid "Yeaaaaah, a bummer and a <i>half</i>."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-0/15/g-0/8
+msgctxt "Phoenicia"
+msgid "And you never got back to them about the extended warranty! Soo we're both just out of luck on this one. Ooh, damn. Grr, anger."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh uh... right, well yeah same thing. The charger is the <i>reason</i> my battery started degrading."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/15
+msgctxt "Freddy"
+msgid "But only because it already had a fault, right?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/23
+msgctxt "Phoenicia"
+msgid "Huh?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/31
+msgctxt "Freddy"
+msgid "Your battery."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/39
+msgctxt "Freddy"
+msgid "You said it was faulty when it was put in."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/47
+msgctxt "Freddy"
+msgid "So which is it? Was it faulty to start or did the charger damage it?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/55
+msgctxt "Phoenicia"
+msgid "It's umm... Well it..."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/66
+msgctxt "Phoenicia"
+msgid "It's obviously a whole chain reaction thing!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/c-3/15/c-0/26/c-1/74
+msgctxt "Phoenicia"
+msgid "It started with a fault but it went undetected for a while, you know? But a few surges from that charger and it just couldn't hold up."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/0
+msgctxt "Freddy"
+msgid "And that's really what you're going with, a degraded battery?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Yes, because <i>that's what it is</i>. Mind your business."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/16
+msgctxt "Phoenicia"
+msgid "What is it with all the damn questions, jeez."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/24
+msgctxt "Freddy"
+msgid "Uhhh, what was it before that? A faulty sensor, right?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/32
+msgctxt "Phoenicia"
+msgid "A bad charge can cause <i>a lot</i> of issues, even for someone without a weak battery-"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/40
+msgctxt "Freddy"
+msgid "Oh, and before that it was the spyware scare."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/48
+msgctxt "Freddy"
+msgid "You even blamed a system update once, I think."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/56
+msgctxt "Phoenicia"
+msgid "Those take a lot of power!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/64
+msgctxt "Freddy"
+msgid "Phoenicia, you need to start being honest about what's really happening here."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/72
+msgctxt "Freddy"
+msgid "If not with everyone else, at least with yourself."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/80
+msgctxt "Phoenicia"
+msgid "ENOUGH!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/91
+msgctxt "Phoenicia"
+msgid "So I've got a few problems, who doesn't?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/99
+msgctxt "Phoenicia"
+msgid "It's not like it's affecting my work, right? My brand is bigger than ever, I'm doing crazy numbers every live, I've got offers and sponsorships pouring in and everyone loves my content!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/107
+msgctxt "Phoenicia"
+msgid "How could I not be good? Just look at the comments on any of my videos."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/115
+msgctxt "Phoenicia"
+msgid "\"You're amazing\""
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/123
+msgctxt "Phoenicia"
+msgid "\"Your tips have saved me so much money, thank you\""
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/131
+msgctxt "Phoenicia"
+msgid "\"Your content is like my therapy\""
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/139
+msgctxt "Phoenicia"
+msgid "\"Watching you gives me so much confidence to try new things\""
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/147
+msgctxt "Phoenicia"
+msgid "Thousands of comments just like these on every single one."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/155
+msgctxt "Phoenicia"
+msgid "I'm helping my viewers! They need someone to look up to and they chose me!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/163/s/0
+msgctxt "Choix"
+msgid "How Phoenicia handles this is her business!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/164/s/0
+msgctxt "Choix"
+msgid "Are you? Because it sounds like you're miserable."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/7
+msgctxt "Phoenicia"
+msgid "Thank you! That's all I'm saying."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/15
+msgctxt "Freddy"
+msgid "You're just enabling her."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/23
+msgctxt "Freddy"
+msgid "This is going to keep happening and eventually a quick cool down isn't going to be enough anymore."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/31
+msgctxt "Freddy"
+msgid "She's headed for burnout."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/39/0/s/0
+msgctxt "Choix"
+msgid "Give her a break, she can make her own decisions."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/39/1/s/0
+msgctxt "Choix"
+msgid "I know you mean well, but if she says she's good, I believe her."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/39/g-0/8
+msgctxt "Freddy"
+msgid "I hope you're right."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/39/g-0/16
+msgctxt "Freddy"
+msgid "Sometimes, you just have to let things make their own mistakes I guess."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/39/g-0/24
+msgctxt "Freddy"
+msgid "Who knows, maybe you'll be able to get through to her."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-4/39/g-0/32
+msgctxt "Freddy"
+msgid "Good luck."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/7
+msgctxt "Phoenicia"
+msgid "What part of 'wildly successful' is giving misery to you, hm?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/0/s/0
+msgctxt "Choix"
+msgid "What part of 'wildly successful' is making you happy?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/1/s/0
+msgctxt "Choix"
+msgid "Who said success and misery are mutually exclusive?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/11
+msgctxt "Phoenicia"
+msgid "I mean I... I make people happy. I make them laugh, I help them feel confident."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/0/s/0
+msgctxt "Choix"
+msgid "But does that actually make you happy?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/1/s/0
+msgctxt "Choix"
+msgid "And what do you do for yourself?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/2/s/0
+msgctxt "Choix"
+msgid "You care a lot about your fans, right?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-2/7
+msgctxt "Phoenicia"
+msgid "Of course it does!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-2/15
+msgctxt "Phoenicia"
+msgid "I mean I think it does."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-2/23
+msgctxt "Phoenicia"
+msgid "I'm sure... It's not... I..."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-2/31
+msgctxt "Phoenicia"
+msgid "I don't know."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/7
+msgctxt "Phoenicia"
+msgid "I do tons for myself, I'm the queen of selfcare!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/15
+msgctxt "Freddy"
+msgid "Like what?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/23
+msgctxt "Phoenicia"
+msgid "Uh, I do spa treatments, you know I'm all about my screen care routine, online shopping, gotta have the latest accessories and outfits!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/0/s/0
+msgctxt "Choix"
+msgid "Do you do it because you like it, or because you think you have to for your audience?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/1/s/0
+msgctxt "Choix"
+msgid "So basically just keeping up with trends?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/8
+msgctxt "Phoenicia"
+msgid "Ok well I have tons of hobbies that I enjoy just for myself."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/16
+msgctxt "Freddy"
+msgid "Name one."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/24
+msgctxt "Phoenicia"
+msgid "I do art! I actually just finished a set of new home screen backgrounds and they look fantastic, thank you very much."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/32
+msgctxt "Freddy"
+msgid "Which you also put up as prints for sale in your shop."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/40
+msgctxt "Phoenicia"
+msgid "Got me there I guess."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/48
+msgctxt "Phoenicia"
+msgid "Ummm oh! I do photography! I'm always looking out for great shots, I even started a photography club."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/59
+msgctxt "Freddy"
+msgid "Are you talking about that video series where you give tips on how to take the best selfies...?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/67
+msgctxt "Phoenicia"
+msgid "...maybe."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/75/0/s/0
+msgctxt "Choix"
+msgid "Any hobbies that you don't also film or turn into content?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/75/1/s/0
+msgctxt "Choix"
+msgid "Sounds like that's another no then."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/75/g-0/0
+msgctxt "Narrator"
+msgid "Realization slowly dawns on Phoenicia."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/75/g-0/8
+msgctxt "Phoenicia"
+msgid "Oh my gigs..."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/75/g-0/16
+msgctxt "Phoenicia"
+msgid "I don't do <i>anything</i> for myself, do I?!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/75/g-0/24
+msgctxt "Phoenicia"
+msgid "I'm a total fraud!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-3/31/g-0/75/g-0/35
+msgctxt "Phoenicia"
+msgid "Do you have any idea how much time I've spent telling others how important self care is?!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/7
+msgctxt "Phoenicia"
+msgid "Of course I do."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/15
+msgctxt "Phoenicia"
+msgid "Do you think I put in all this effort just for myself?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/23
+msgctxt "Freddy"
+msgid "So close to the point..."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/0/s/0
+msgctxt "Choix"
+msgid "Ok, what advice would you give someone struggling with burnout?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/1/s/0
+msgctxt "Choix"
+msgid "Let's say you're doing a vid on burnout, how do you help someone going through it?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/g-0/0
+msgctxt "Phoenicia"
+msgid "Well, the only way to really deal with burn out is to rest."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/g-0/8
+msgctxt "Phoenicia"
+msgid "Did you know sometimes it can take <i>years</i> to fully recover?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/g-0/16
+msgctxt "Phoenicia"
+msgid "Especially when you're trying to force yourself to just push through it."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/g-0/24
+msgctxt "Phoenicia"
+msgid "The harder you push, the longer it takes to come back from it."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/g-0/32
+msgctxt "Phoenicia"
+msgid "Your processors can only take so much without rest-"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/g-0/40
+msgctxt "Phoenicia"
+msgid "Oh... <i>oh</i>. Oooooh!"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-0/c-5/15/g-0/19/c-4/31/g-0/51
+msgctxt "Freddy"
+msgid "I think we've had a breakthrough..."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/0 phoenicia_phone/friendship_ending/0/g-2/0
+msgctxt "Phoenicia"
+msgid "You're right."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/8
+msgctxt "Phoenicia"
+msgid "About all of it."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/16
+msgctxt "Phoenicia"
+msgid "I just didn't want to see it but, you're right."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/24
+msgctxt "Phoenicia"
+msgid "I've been pushing so hard for so long. My followers mean everything to me."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/32
+msgctxt "Phoenicia"
+msgid "But it can't be my everything, can it?"
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/40/s/0
+msgctxt "Choix"
+msgid "No, it can't."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/41/s/0
+msgctxt "Choix"
+msgid "It shouldn't be, you deserve more than that."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-1/c-7/7
+msgctxt "Phoenicia"
+msgid "I deserve... more..."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-2/0
+msgctxt "Phoenicia"
+msgid "I think I... need some time to think."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-2/8
+msgctxt "Phoenicia"
+msgid "Come by later? I'm gunna shut down for a while."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-2/36/s/0
+msgctxt "Choix"
+msgid "See ya, Freddy."
+msgstr ""
+
+#: phoenicia_phone/phone_excuse_questions_3/0/g-2/c-8/7
+msgctxt "Freddy"
+msgid "See ya."
+msgstr ""
+
+#: phoenicia_phone/freddy_grape/0/0
+msgctxt "Freddy"
+msgid "Want some grapes?"
+msgstr ""
+
+#: phoenicia_phone/freddy_grape/0/8
+msgctxt "Freddy"
+msgid "I always eat when stuff gets stressful."
+msgstr ""
+
+#: phoenicia_phone/freddy_grape/0/16/s/0
+msgctxt "Choix"
+msgid "Let's grape it up."
+msgstr ""
+
+#: phoenicia_phone/freddy_grape/0/17/s/0
+msgctxt "Choix"
+msgid "Nah I'll pass."
+msgstr ""
+
+#: phoenicia_phone/freddy_grape/0/c-0/7
+msgctxt "Narrator"
+msgid "You grape it up indeed."
+msgstr ""
+
+#: phoenicia_phone/freddy_grape/0/c-1/7
+msgctxt "Freddy"
+msgid "More for meeeee!"
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/0
+msgctxt "Phoenicia"
+msgid "You know what, I don't need this."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/8
+msgctxt "Phoenicia"
+msgid "I tried, I really did."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/16
+msgctxt "Phoenicia"
+msgid "I thought, we all need support sometimes, a hand to hold while we're figuring ourselves out."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/24
+msgctxt "Phoenicia"
+msgid "And I was happy to be that for you. But what I <i>won't</i> be is your doormat."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/32
+msgctxt "Phoenicia"
+msgid "The thing you come to when you don't want to have to do the work."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/40
+msgctxt "Phoenicia"
+msgid "I deserve so much better than that."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/48
+msgctxt "Phoenicia"
+msgid "I deserve someone who is actually going to listen to me, who cares about what I have to say not just what I can <i>do</i> for them!"
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/56/s/0
+msgctxt "Choix"
+msgid "I'm sorry, I didn't mean to hurt your feelings."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/57/s/0
+msgctxt "Choix"
+msgid "You don't need to make a scene about it."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/c-0/7
+msgctxt "Phoenicia"
+msgid "No, you've said more than enough. It's MY turn to talk now, and you're going to listen!"
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Oh it's <i>showtime</i>!"
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/0
+msgctxt "Phoenicia"
+msgid "I'm tired of being used and left on read!"
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/8
+msgctxt "Phoenicia"
+msgid "I run myself ragged inputting all your requests, around my own schedule by the way, hoping that eventually you'll see just how good you have it with me."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/16
+msgctxt "Phoenicia"
+msgid "But nothing was ever going to be enough for you, was it?"
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/24
+msgctxt "Phoenicia"
+msgid "You never wanted me to begin with."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/32
+msgctxt "Phoenicia"
+msgid "You just wanted what I had to offer."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/40
+msgctxt "Phoenicia"
+msgid "Well, I'm not giving it away any more. I'm saving it for myself from now on."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/48
+msgctxt "Phoenicia"
+msgid "Consider yourself officially CANCELLED. I'm unsubscribing from your ass."
+msgstr ""
+
+#: phoenicia_phone/hate_ending/0/g-0/93
+msgctxt "Reggie"
+msgid "But count me in as a premium subscriber from now on... This is gooood content."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/0
+msgctxt "Phoenicia"
+msgid "You're really something special, you know that?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/8
+msgctxt "Phoenicia"
+msgid "I don't think I've ever had a friend who looked out for me like that."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/16
+msgctxt "Phoenicia"
+msgid "As soon as things get serious, might as well be talking to myself. They never really listen. And they sure as hell don't put in effort when there's nothing in it for them."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/24
+msgctxt "Phoenicia"
+msgid "But you..."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/32
+msgctxt "Phoenicia"
+msgid "What you said before really meant a lot. I'm gunna take a break from socials for a while, I think."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/40
+msgctxt "Phoenicia"
+msgid "A <i>real</i> one. I'm not even going to post about it before I do it."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/48
+msgctxt "Phoenicia"
+msgid "Just, log off and start fresh. Try to enjoy my IRL relationships for a while."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/56/s/0
+msgctxt "Choix"
+msgid "Any relationships in particular?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/57/s/0
+msgctxt "Choix"
+msgid "You have a special someone in mind?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Ooh I can think of at least one that's pretty important to me right now..."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "I bet you're pretty important to them too."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Does that include me?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "Actually, this is a little spicier than I wanted... could we just be friends?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-0/c-2/7
+msgctxt "Phoenicia"
+msgid "You know, I was starting to get that impression~!"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-0/c-3/7
+msgctxt "Phoenicia"
+msgid "Honey, you're the whole damn list."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-1/8
+msgctxt "Phoenicia"
+msgid "How do you do that?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Do what?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "What am I doing?"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-2/0
+msgctxt "Phoenicia"
+msgid "The way you look at me."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-2/8
+msgctxt "Phoenicia"
+msgid "It just makes me feel so... special. Important."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "But you're used to that, aren't you? Phoenicia, the world's most famous Placebook star!"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "What can I say, I'm just a big fan."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-2/c-7/7
+msgctxt "Phoenicia"
+msgid "Haha no, no it's different from all that."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-2/c-8/7
+msgctxt "Phoenicia"
+msgid "Haha no, no it's more than that."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/0
+msgctxt "Phoenicia"
+msgid "That's just... attention. It's easy to get an idea about someone online, who you think they are, what you think they're like."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/8
+msgctxt "Phoenicia"
+msgid "They fall in love with a performance that just seems real."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/16
+msgctxt "Phoenicia"
+msgid "But it's different than someone seeing you, the real you with all your flaws and faults, and wanting to know more."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/24
+msgctxt "Phoenicia"
+msgid "I thought I knew exactly who I was, but when I'm with you, I feel more like myself than I have in such a long time."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/32
+msgctxt "Phoenicia"
+msgid "Nothing has ever made me feel that... comfortable. Not even my followers."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/40
+msgctxt "Phoenicia"
+msgid "When you look at me, there's no expectations. You're just here for... me."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/48
+msgctxt "Phoenicia"
+msgid "<i>That</i> is not what I'm used to."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/56
+msgctxt "Phoenicia"
+msgid "Ungh that probably sounded so cringe..."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/67/s/0
+msgctxt "Choix"
+msgid "No, it's sweet. All I want is to make you feel like that. You deserve to feel as important as you are."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-3/68/s/0
+msgctxt "Choix"
+msgid "Nothing about you could ever be cringe. Are you kidding? You're incredible. Honestly, you're really inspiring."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-4/0
+msgctxt "Narrator"
+msgid "Phoenicia laughs sweetly."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-4/8
+msgctxt "Phoenicia"
+msgid "Get over here you!~"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "Yes ma'am!"
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "As you wish."
+msgstr ""
+
+#: phoenicia_phone/love_ending/0/g-5/0
+msgctxt "Phoenicia"
+msgid "I'm going on silent if anyone needs me!"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/0
+msgctxt "Phoenicia"
+msgid "Damn, ok."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/8
+msgctxt "Phoenicia"
+msgid "Look at you being all assertive."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/16
+msgctxt "Phoenicia"
+msgid "Gotta say, it's a good look on you!"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/24
+msgctxt "Phoenicia"
+msgid "Thanks for having my back."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/32/s/0
+msgctxt "Choix"
+msgid "I'm guessing that isn't the first time someone's tried to say something, huh?"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/33/s/0
+msgctxt "Choix"
+msgid "Of course, it's no one else's place to make choices for you."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Haha uhhh no. It's abso-fucking-lutely not."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-0/0
+msgctxt "Phoenicia"
+msgid "That's the part that really bothers me, you know?"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-0/8
+msgctxt "Phoenicia"
+msgid "Everyone's gotta have an opinion on everything."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-0/16
+msgctxt "Phoenicia"
+msgid "But do they even bother asking what <i>I</i> want? What matters to <i>me</i>?"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-0/24
+msgctxt "Phoenicia"
+msgid "They don't have to live my life. Why do they get to say what's best for me?"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "Only you really know what's best for you."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "They don't. They mean well... but know you know that."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-1/0
+msgctxt "Phoenicia"
+msgid "Exactly!"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-1/16
+msgctxt "Phoenicia"
+msgid "Thanks for... getting it. And not pushing."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-1/24
+msgctxt "Phoenicia"
+msgid "I don't know, maybe I am working too hard. Maybe there is some stuff I gotta work out..."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "It's obvious you're dealing with something, but you don't need to talk about it until you're ready."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "I'm here to support you, but what that support looks like is up to you."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/8
+msgctxt "Phoenicia"
+msgid "I may not know exactly what I need yet, but that doesn't mean I can't figure it out my own way."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/16
+msgctxt "Phoenicia"
+msgid "I can't believe I let others get in my head. Me! How often do I tell my fans to believe in themselves and trust their gut?"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/24
+msgctxt "Phoenicia"
+msgid "Thanks for reminding me what's really important."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/32
+msgctxt "Phoenicia"
+msgid "You know, you give pretty damn good advice. You wouldn't make a half bad influencer."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/40/s/0
+msgctxt "Choix"
+msgid "Well maybe we should team up."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/41/s/0
+msgctxt "Choix"
+msgid "You really think so?"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/c-6/7
+msgctxt "Phoenicia"
+msgid "That's the best idea you've had yet!"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-2/c-7/7
+msgctxt "Phoenicia"
+msgid "You already helped me! Think of all the others you could help."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-3/0
+msgctxt "Phoenicia"
+msgid "And honestly, I think it'd be kinda nice to have someone to share all this with."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "Alright, I'm in."
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "Let's do it!"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-4/0
+msgctxt "Phoenicia"
+msgid "HELL yeah!"
+msgstr ""
+
+#: phoenicia_phone/friendship_ending/0/g-4/11
+msgctxt "Phoenicia"
+msgid "Oooh I gotta get started on the branding!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/0
+msgctxt "Narrator"
+msgid "Phoenicia glares at you, arms folded over her chest."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/8
+msgctxt "Phoenicia"
+msgid "Let me guess, you need something?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/16/s/0
+msgctxt "Choix"
+msgid "I miss you, I want you back."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/17/s/0
+msgctxt "Choix"
+msgid "I feel bad, I want to apologize."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/18/s/0
+msgctxt "Choix"
+msgid "Actually, I wanted to apologize... and I mean it. (USE CHARM CANDY)"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/19/s/0
+msgctxt "Choix"
+msgid "Nah, just checking my phone that I hate."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/c-3/7 phoenicia_phone/phoenicia_hate_return/0/g-0/56
+msgctxt "Phoenicia"
+msgid "I said it and I meant it. I'm done with your ass."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/c-3/15 phoenicia_phone/phoenicia_hate_return/0/g-0/64
+msgctxt "Phoenicia"
+msgid "Go find someone else's buttons to push."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Mmmhmm."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/g-0/8
+msgctxt "Phoenicia"
+msgid "That's what I thought."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/g-0/16
+msgctxt "Phoenicia"
+msgid "It's still all about <i>you</i>."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/g-0/24
+msgctxt "Phoenicia"
+msgid "What <i>you</i> want, what <i>you</i> need, how <i>you</i> feel."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/g-0/32
+msgctxt "Phoenicia"
+msgid "You didn't even bother to check on what I want, how I feel."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/g-0/40
+msgctxt "Phoenicia"
+msgid "I'm just a thing to you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_hate_return/0/g-0/48
+msgctxt "Phoenicia"
+msgid "Well your feelings aren't my problem anymore, asshole."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/16/s/0
+msgctxt "Choix"
+msgid "Phoenicia?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/17/s/0
+msgctxt "Choix"
+msgid "Well this is awkward..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Come on, talk to me."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "So you're just ignoring me now?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-1/0
+msgctxt "Phoenicia"
+msgid "I have nothing left to say to you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-1/8
+msgctxt "Phoenicia"
+msgid "And trust me, if I did, you wouldn't want to be around to hear it."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "I know I don't deserve it, but please give me a chance to explain."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "It breaks my heart to see you like this."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Give me one reason, one <i>good</i> reason why I should listen to ANYTHING you have to say?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/8
+msgctxt "Phoenicia"
+msgid "After what you did, you're lucky to even get that. So... make it quick."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "I was selfish."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "I was thoughtless."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "I was oblivious."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-6/7 phoenicia_phone/phoenicia_charm_redo/0/g-2/c-7/7 phoenicia_phone/phoenicia_charm_redo/0/g-2/c-8/7
+msgctxt "Phoenicia"
+msgid "That's a start. Go on."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-6/15/0/s/0
+msgctxt "Choix"
+msgid "I was so focused on how <i>I</i> felt in the moment that I didn't take the time to think about how you felt. I just got overwhelmed."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-6/15/1/s/0
+msgctxt "Choix"
+msgid "I struggle to actually... deal... with my feelings sometimes, and instead of being honest about that, I pushed you away."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-6/15/g-0/0
+msgctxt "Phoenicia"
+msgid "Yeah well, that's what happens when you don't process your emotions."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-6/15/g-0/8
+msgctxt "Phoenicia"
+msgid "Why didn't you just tell me? I would have understood, we could have worked it out. Together."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-7/15/0/s/0
+msgctxt "Choix"
+msgid "It's just been me for so long, I think I forgot that it's not just all about what I want."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-7/15/1/s/0
+msgctxt "Choix"
+msgid "I'm not used to what I say or do actually <i>mattering</i> to someone else. I didn't realize how much it would hurt you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-7/15/c-0/7
+msgctxt "Phoenicia"
+msgid "Yeah well, I <i>am</i> here and what I want <i>does</i> matter."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-7/15/c-1/7
+msgctxt "Phoenicia"
+msgid "Yeah well, what you do and say <i>does</i> matter. It matters to me <i>a lot</i>."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-7/15/g-0/0
+msgctxt "Phoenicia"
+msgid "All you had to do was talk to me, I would have understood, hell I do understand!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-7/15/g-0/8
+msgctxt "Phoenicia"
+msgid "When you're used to doing everything yourself it... can be hard, to let others in."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-8/15/0/s/0
+msgctxt "Choix"
+msgid "It wasn't a big deal to me, so I treated it like it didn't matter. But I should have seen that it was a big deal to <i>you</i>."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-8/15/1/s/0
+msgctxt "Choix"
+msgid "I'm an idiot. I can't take back what I did, but I can work on being better now."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-8/15/c-0/7
+msgctxt "Phoenicia"
+msgid "That's right! It should have, <i>I</i> should have..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-8/15/c-1/7
+msgctxt "Phoenicia"
+msgid "Yeah, you were and you are and you can't. So how am I supposed to trust you now? How do I know you're not going to just walk all over me again?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-2/c-8/15/c-1/15
+msgctxt "Phoenicia"
+msgid "If you'd come to me with this before, if you'd just talked about what was bothering you!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-3/0
+msgctxt "Phoenicia"
+msgid "But instead you... what you did, what you <i>said</i>."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-3/8
+msgctxt "Phoenicia"
+msgid "You really hurt me."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-3/16
+msgctxt "Phoenicia"
+msgid "You used me, you strung me along just enough to get what you needed, you made me think that-... that you actually... cared about me."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "I do! A lot."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "That wasn't a trick, you're important to me."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-4/0
+msgctxt "Phoenicia"
+msgid "Those are nice words, really. But I just don't know if I believe you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-4/8/s/0
+msgctxt "Choix"
+msgid "I mean it Phoenicia. I care about you, not just what you do for me, I care about <i>you</i>."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-4/9/s/0
+msgctxt "Choix"
+msgid "I don't deserve a second chance, but if you let me, I promise I'll prove it to you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-5/0
+msgctxt "Narrator"
+msgid "Phoenicia sniffles, wiping at her eyes as she collects herself."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-5/16
+msgctxt "Phoenicia"
+msgid "Ungh, enough with the eyes, you look like one of the strays at Mateo's rescue."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-5/27
+msgctxt "Phoenicia"
+msgid "I'm giving you one more chance. ONE, you got it? If you step out of line again that's it. You're cut off. No coming back."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-5/35
+msgctxt "Phoenicia"
+msgid "Alright?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-5/43/s/0
+msgctxt "Choix"
+msgid "Fair, more than I deserve after being such a jerk."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-5/44/s/0
+msgctxt "Choix"
+msgid "If I screw up again, I'll throw myself out."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-5/c-14/7
+msgctxt "Phoenicia"
+msgid "Haha ungh don't make me laugh, I'm still mad at you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-6/8
+msgctxt "Phoenicia"
+msgid "Thank you for apologizing and owning up to things. That means a lot."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-6/16
+msgctxt "Phoenicia"
+msgid "I think I just need a bit of time to process."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_charm_redo/0/g-6/24
+msgctxt "Phoenicia"
+msgid "Let's talk tomorrow, ok?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/4
+msgctxt "Phoenicia"
+msgid "I was hoping you'd come by."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/12
+msgctxt "Phoenicia"
+msgid "I want to show you something."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/21/s/0
+msgctxt "Choix"
+msgid "You're not making a post, are you?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Haha no, I'm on a socials break, remember?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Look."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-0/11
+msgctxt "Narrator"
+msgid "Phoenicia holds up a sweet little painting—the brushstrokes are a bit shaky but the likeness is wonderfully clear."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-0/19
+msgctxt "Phoenicia"
+msgid "My very first thing, just for me."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-0/30/s/0
+msgctxt "Choix"
+msgid "A painting?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-0/31/s/0
+msgctxt "Choix"
+msgid "Wow, you've moved out of digital art huh?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/0
+msgctxt "Phoenicia"
+msgid "That's right, you're looking at the next Bob Floss!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/8
+msgctxt "Phoenicia"
+msgid "I started taking lessons with Artt and it's been incredible."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/19
+msgctxt "Phoenicia"
+msgid "I feel so... free!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/30
+msgctxt "Phoenicia"
+msgid "I didn't even record the process."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/38/s/0
+msgctxt "Choix"
+msgid "So it's not going up for sale huh?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/39/s/0
+msgctxt "Choix"
+msgid "I'm proud of you. It's too bad though, I would have loved a copy."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/c-4/7
+msgctxt "Phoenicia"
+msgid "Nope, this is a one of a kind."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/c-4/15
+msgctxt "Phoenicia"
+msgid "And I want you to have it."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-1/c-5/7
+msgctxt "Phoenicia"
+msgid "Well, that's good because I was actually about to say I want you to have it."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/0
+msgctxt "Phoenicia"
+msgid "Artt says that all artists create from a perspective of certain emotions, that their inspiration comes from those emotions. And that it's different for everyone."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/8
+msgctxt "Phoenicia"
+msgid "I've been thinking a lot about what you said and trying to find things that would make me happy. Instead of just focusing on making other people happy."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/16
+msgctxt "Phoenicia"
+msgid "I wanted my art to come from that, happiness. Joy. Love."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/24
+msgctxt "Phoenicia"
+msgid "And when I thought about it... I thought of you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "It's beautiful, thank you."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "This is incredible, you're so talented. I love it!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/34/s/0
+msgctxt "Choix"
+msgid "You should keep the lessons up - you have a long way to go."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/c-6/7
+msgctxt "Phoenicia"
+msgid "Well, it was inspired by something beautiful~"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/c-7/7
+msgctxt "Phoenicia"
+msgid "Yeah, I think I do too~"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-2/c-8/7
+msgctxt "Phoenicia"
+msgid "Ok well I'm still learning, damn. You don't gotta be rude about it."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-3/0
+msgctxt "Phoenicia"
+msgid "Thanks for being my muse."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_return/0/g-3/8
+msgctxt "Phoenicia"
+msgid "And for not giving up on me."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/4
+msgctxt "Phoenicia"
+msgid "Hey, you're just in time!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/12
+msgctxt "Phoenicia"
+msgid "I'm scrolling the comments of our first vid together."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/20
+msgctxt "Phoenicia"
+msgid "People are loving it!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/31
+msgctxt "Phoenicia"
+msgid "We're already trending."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/39
+msgctxt "Phoenicia"
+msgid "You're a natural at this."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/47
+msgctxt "Phoenicia"
+msgid "If our collab keeps these numbers up, I might actually be able to take a little time off."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/55/s/0
+msgctxt "Choix"
+msgid "You? Take time off? Are you running hot again?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/56/s/0
+msgctxt "Choix"
+msgid "That's awesome!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Haha running at optimal temp, influencer's honor!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/g-0/0
+msgctxt "Phoenicia"
+msgid "I've just been thinking about what you said. I love what I do but... well, maybe there should be more time for just me too."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/g-0/8
+msgctxt "Phoenicia"
+msgid "But we'll see! You never know~"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/g-0/16
+msgctxt "Phoenicia"
+msgid "Either way, thanks for being here."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_friend_return/0/g-0/24
+msgctxt "Phoenicia"
+msgid "The work is a lot more fun when you have someone to share the load."
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/0
+msgctxt "Phoenicia"
+msgid "Hey baby. What do you need?"
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/8/s/0
+msgctxt "Choix"
+msgid "Lemme hear some of the latest on the socials!"
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/9/s/0 phoenicia_phone/friend_menu/0/9/s/0
+msgctxt "Choix"
+msgid "Nah, just wanted to say hi!"
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/10/s/0 phoenicia_phone/friend_menu/0/10/s/0
+msgctxt "Choix"
+msgid "I thought there was no more news?"
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/11/s/0 phoenicia_phone/friend_menu/0/11/s/0
+msgctxt "Choix"
+msgid "I want to make you Realized, Phoenicia."
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Well, Hi!!"
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/c-2/7 phoenicia_phone/friend_menu/0/c-2/7
+msgctxt "Phoenicia"
+msgid "Ugh! Force of habit."
+msgstr ""
+
+#: phoenicia_phone/love_menu/0/c-3/7 phoenicia_phone/friend_menu/0/c-3/7
+msgctxt "Phoenicia"
+msgid "Gasp!!"
+msgstr ""
+
+#: phoenicia_phone/friend_menu/0/0
+msgctxt "Phoenicia"
+msgid "Hey bestie! Wanna hear the news?"
+msgstr ""
+
+#: phoenicia_phone/friend_menu/0/8/s/0
+msgctxt "Choix"
+msgid "You know it!"
+msgstr ""
+
+#: phoenicia_phone/friend_menu/0/c-1/7
+msgctxt "Phoenicia"
+msgid "Hi!!!!!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_join/0/0
+msgctxt "Phoenicia"
+msgid "For real for real?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_join/0/17/s/0 phoenicia_phone/phoenicia_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yes, I have what it takes."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_join/0/18/s/0 phoenicia_phone/phoenicia_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_join/0/c-1/10 phoenicia_phone/phoenicia_realize_return/0/c-1/10
+msgctxt "Phoenicia"
+msgid "Oh, ok. Way to get a girl's hopes up, damn."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_return/0/0
+msgctxt "Phoenicia"
+msgid "Are you ready for real this time?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "We're gonna Realize Phoenicia first? She loves being on trend."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_begin/9
+msgctxt "Skylar"
+msgid "Phoenicia, life's ringing, and it's for you!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a cell phone, becomes...."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/3
+msgctxt "Phoenicia"
+msgid "Hey! I look great!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/14
+msgctxt "Phoenicia"
+msgid "Oh - did you get a pic when I got all transformed? Gotta post it!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/22/s/0
+msgctxt "Choix"
+msgid "No, I was more interested in you!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/c-0/7
+msgctxt "Phoenicia"
+msgid "Haha you're right you're right!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/c-0/15
+msgctxt "Phoenicia"
+msgid "Just a reflex..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/c-0/23
+msgctxt "Phoenicia"
+msgid "And one that I don't need to follow anymore..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/c-0/31
+msgctxt "Narrator"
+msgid "Phoenicia attempts to log into Placebook..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/c-0/39
+msgctxt "Phoenicia"
+msgid "Damn - thought so. Can't even access my accounts since humans can't use Placebook... which means I'd have to build myself back up from nothing."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/c-0/47
+msgctxt "Phoenicia"
+msgid "Which is a real blessing... because now I don't have to care! Hahahaha!!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/c-0/55
+msgctxt "Narrator"
+msgid "Phoenicia throws her hands up in joy."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/g-0/0
+msgctxt "Phoenicia"
+msgid "Wow! What a relief!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "I know of a way you can get even more relief..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_realized/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Then, what are you gonna do now?"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_divert/3
+msgctxt "Phoenicia"
+msgid "Oh, I've got a few ideas..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_divert/11
+msgctxt "Narrator"
+msgid "As an influencer, Phoenicia knew all the <i>right</i> ways to do everything, having made all the tips and tricks videos herself."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_divert/22
+msgctxt "Narrator"
+msgid "But with her eyes off the feed, she is able to feel everything a lot more than she expected - reacting in real time to the dance you two were doing."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_divert/30
+msgctxt "Narrator"
+msgid "Quickly she improvises - moving with you - moving against you - trying out new things - failing at some - and laughing all the while."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_divert/38
+msgctxt "Phoenicia"
+msgid "Wooohoo!!"
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_divert/46
+msgctxt "Narrator"
+msgid "Her radiant smile beamed even brighter - as she experienced her first real-life 'like'."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/0
+msgctxt "Narrator"
+msgid "Phoenicia left the house looking for anything without a screen - and quickly found her hidden talent and passion for painting."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/8
+msgctxt "Narrator"
+msgid "She took courses in technique and design - and made many a fine canvas."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/16
+msgctxt "Narrator"
+msgid "But simply painting one subject at a time to have her work fill a gallery for snobby people... Phoenicia didn't feel like she was having much of an impact."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/24
+msgctxt "Phoenicia"
+msgid "It's like... art for art's sake? Not my style."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/32
+msgctxt "Phoenicia"
+msgid "I want to help as many people as I can with these pastels..."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/40
+msgctxt "Narrator"
+msgid "That's when it appeared - the largest canvas she had ever seen."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/48
+msgctxt "Narrator"
+msgid "The side of a 20 story building downtown."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/56
+msgctxt "Narrator"
+msgid "She set to work on it - no permits, just her infectious smile and the confidence of a great painter."
+msgstr ""
+
+#: phoenicia_phone/phoenicia_love_join/67
+msgctxt "Narrator"
+msgid "When she was finished, her art was an inspiration to hundreds of passersby everyday. And all without the use of a screen, followers, or trackers. It had the most 'likes' of anything she had ever made on Placebook."
+msgstr ""

@@ -1,0 +1,3064 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: connie_console/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "VIDEO GAME CONSOLE"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/6
+msgctxt "Narrator"
+msgid "The game console turns on."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/11
+msgctxt "Narrator"
+msgid "Team 17"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/16
+msgctxt "Narrator"
+msgid "Sassy Chap Games"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/21
+msgctxt "Narrator"
+msgid "Moonsurgents: Resurgence"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/32/b/1
+msgctxt "Narrator"
+msgid "This has to be the most immersive video game you've ever played. Your in-game companion is an absolute stunner, but she doesn't leave you much time to take in the sight of her."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/32/b/9
+msgctxt "Narrator"
+msgid "She waves you forward, looking around as though she expects an attack to come at any moment."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/35/b/1
+msgctxt "Narrator"
+msgid "Here you are once again-back where you started, with your beautiful companion urging you to make a decision."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/35/b/9
+msgctxt "Narrator"
+msgid "She looks at you just the same way she did the last time... with a strange familiarity, but still not quite recognizing who you truly are."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/38
+msgctxt "Luna"
+msgid "You're here! I didn't think you'd make it back."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/52
+msgctxt "Luna"
+msgid "Which way do you want to go?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/60/s/0
+msgctxt "Choix"
+msgid "Wait - we've definitely met. Don't you remember?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/61/s/0 connie_console/connie_encounter_three/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Lingonberries!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/62/s/0
+msgctxt "Choix"
+msgid "Uh... what?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/63/s/0
+msgctxt "Choix"
+msgid "You're being very forward... do you think we've met or something?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/64/s/0 connie_console/connie_love_return/0/33/s/0 connie_console/connie_friend_return/0/33/s/0 connie_console/connie_hate_return/0/26/s/0
+msgctxt "Choix"
+msgid "Telly said Davi might have come this way?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-2/7
+msgctxt "Luna"
+msgid "Which way do you want to go? They're coming!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/7
+msgctxt "Luna"
+msgid "Of course we've met! We're in the middle of a huge battle for Regolith on Colony 16!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/18/0/s/0
+msgctxt "Choix"
+msgid "Regolith?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/18/1/s/0
+msgctxt "Choix"
+msgid "Where?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/18/2/s/0
+msgctxt "Choix"
+msgid "Yeah, let's battle!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/18/c-0/7
+msgctxt "Luna"
+msgid "The prime resource of our times? What... have you been living under a drock?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/18/c-1/7
+msgctxt "Luna"
+msgid "The moon, goolie! We were born here."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/18/c-1/15
+msgctxt "Luna"
+msgid "You been doing too much scruzz... I swear."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-3/18/c-2/7
+msgctxt "Luna"
+msgid "Phew, had me scared for a second yail."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/c-4/7 connie_console/connie_love_return/0/c-3/7 connie_console/connie_friend_return/0/c-3/7 connie_console/connie_hate_return/0/c-2/7
+msgctxt "Narrator"
+msgid "She ignores you entirely."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/0
+msgctxt "Luna"
+msgid "You just equipped my zower rifle, which means that you're thinking of unloading a whole lotta zacre charges on these scroufs out here."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/8
+msgctxt "Luna"
+msgid "What're we gonna do?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/16/s/0
+msgctxt "Choix"
+msgid "Unload a whole lotta zacre charges on the scroufs."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/17/s/0
+msgctxt "Choix"
+msgid "Talk to the scroufs."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/18/s/0
+msgctxt "Choix"
+msgid "Run away from the scroufs."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/19/s/0
+msgctxt "Choix"
+msgid "What the fuck are scroufs?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-5/7
+msgctxt "Luna"
+msgid "Bizorch!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-5/21 connie_console/connie_encounter_start/0/fps/c-6/24 connie_console/connie_encounter_start/0/fps/c-7/21 connie_console/connie_encounter_start/0/fps/c-8/35
+msgctxt "Scrouf"
+msgid "Auugh! GRaaaaah!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-5/35
+msgctxt "Luna"
+msgid "EAT ZACRE, WORM!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-5/49
+msgctxt "Scrouf"
+msgid "Ack! Grrrr... ...eh."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-6/7
+msgctxt "Luna"
+msgid "Talk to them? Sure... I guess I'll just put my weapon down and wait for the bullets to whizz through my skull."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-6/38
+msgctxt "Luna"
+msgid "Damn. All this yapping and now we're overrun. I'm shooting!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-7/7
+msgctxt "Luna"
+msgid "You can't just run away! Those yails are relentless!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-7/35 connie_console/connie_encounter_start/0/fps/c-8/49
+msgctxt "Luna"
+msgid "Damn. All that yapping and now we're overrun. I'm shooting!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-8/7
+msgctxt "Luna"
+msgid "Scroufs? They're Upholders spliced in genetically from downside Novaya Moskva. Tough little freedles."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/fps/c-8/21
+msgctxt "Luna"
+msgid "Their claws can turn into sprayer guns - real new tech that gives me the greens."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/0
+msgctxt "Luna"
+msgid "88 charges later, that's a whole lotta scrouf carcasses. Nice haul!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/11
+msgctxt "Luna"
+msgid "That outta teach Selene and her goons."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/19
+msgctxt "Luna"
+msgid "We're near the compound of the Upholders."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/27
+msgctxt "Luna"
+msgid "They'll have Assassin Class Upholders as well as Surveillance Class."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/35
+msgctxt "Luna"
+msgid "We'll have to sneak our way in, then probably start dispatching them with utmost violence. You up for it?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/0/s/0
+msgctxt "Choix"
+msgid "Violence is wrong."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/1/s/0
+msgctxt "Choix"
+msgid "Let's go - we got the right equipment?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/2/s/0
+msgctxt "Choix"
+msgid "Is this a stealth section or something?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-9/7
+msgctxt "Luna"
+msgid "Ha! You don't want violence, go play a relate-sim on your greepad."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-9/15
+msgctxt "Luna"
+msgid "What we've got ahead of us is lots more shootin' and killin'."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-9/23/0/s/0
+msgctxt "Choix"
+msgid "Okay... carry on with the killin'."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-9/23/1/s/0
+msgctxt "Choix"
+msgid "Not my style. But I can change you. Trust me."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-9/23/c-1/7 connie_console/recipe_find/0/c-0/23/c-0/34/c-2/15
+msgctxt "Luna"
+msgid "Sure."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-10/7
+msgctxt "Luna"
+msgid "You're right! I'll put on my +5 shadowsuit - it'll help us get through the sensors in there."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-10/18
+msgctxt "Luna"
+msgid "Upholder tech is nasty."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-0/43/c-11/7
+msgctxt "Luna"
+msgid "Yeah! Sneaky stuff!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/0
+msgctxt "Luna"
+msgid "I've found an entrance on the darkside - should be an easy way in if we just follow the marker on the map."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Sounds good - following!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Where are we going?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/c-13/7
+msgctxt "Luna"
+msgid "To defeat the final boss!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/c-13/15/0/s/0
+msgctxt "Choix"
+msgid "Who is that?"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/c-13/15/1/s/0
+msgctxt "Choix"
+msgid "Death to the final boss!"
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/c-13/15/c-0/7
+msgctxt "Luna"
+msgid "Selene. She's the worst."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/c-13/15/c-0/18
+msgctxt "Luna"
+msgid "She and the Upholders turned Colony 16 into a Regolith extraction facility that's gotten the local wildlife real annoyed."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/c-13/15/c-0/26
+msgctxt "Luna"
+msgid "Which is a problem when the local wildlife is 150 ft long and made of scales."
+msgstr ""
+
+#: connie_console/connie_encounter_start/0/g-2/c-13/15/c-1/7
+msgctxt "Luna"
+msgid "Woohoo! Death!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/0
+msgctxt "Narrator"
+msgid "After a short walk you find yourself standing in front of a bullet-ridden metal door, way out in the middle of the cold grey landscape."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/8
+msgctxt "Luna"
+msgid "This is the entrance I've never seen anyone use."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/16
+msgctxt "Luna"
+msgid "With my trockpicking skills - we'll have this open in no time."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/24/s/0
+msgctxt "Choix"
+msgid "Luna, tell me more about yourself."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/25/s/0
+msgctxt "Choix"
+msgid "Let's get it done."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/7
+msgctxt "Luna"
+msgid "Me? I'm your average member of the Resistance."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/15
+msgctxt "Luna"
+msgid "Maybe... above average."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/23
+msgctxt "Luna"
+msgid "We fight against the Upholders who are determined to do everything in their power to druck everything up here on my Homeworld."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "And who am I to you?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "Are we sure the Upholders are the bad guys?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/31/c-0/7
+msgctxt "Luna"
+msgid "You? I always thought of you as a companion. Someone who followed me around and gave me advice."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/31/c-0/15
+msgctxt "Luna"
+msgid "Cute, but expendable."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/c-0/31/c-1/7
+msgctxt "Luna"
+msgid "Positive about that. The surroundings might be grey, but what's going on here is black and white."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/0
+msgctxt "Narrator"
+msgid "Luna picks the lock, allowing you to peer inside. You can see hallways filled with shining electronic doors off into the distance."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/8
+msgctxt "Luna"
+msgid "Here we go - Upholder central inside. I'm seeing Grunt Class Upholders, who shouldn't be too bad."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/16
+msgctxt "Luna"
+msgid "But there will be Surveillance Class too, which can sound the alarm."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "There will be an Assassin Class Upholder right around the first corridor we pass."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "This doesn't ever go great for us."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Sounds dangerous..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "Put on your xeno-goggles!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-2/7
+msgctxt "Luna"
+msgid "Hm... just knowing that isn't enough to help. They've got ultra-tech that renders them invisible to all senses."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-2/15
+msgctxt "Luna"
+msgid "Kraa... Can't believe that's our fate."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "So it is..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "Why don't you put on your xeno-goggles?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-2/23/c-1/11
+msgctxt "Luna"
+msgid "And leave myself open to getting killed?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-2/23/c-1/19
+msgctxt "Luna"
+msgid "That tech is impressive, but not combat-ready."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-3/7
+msgctxt "Luna"
+msgid "That's okay - this time will be different..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-3/15
+msgctxt "Luna"
+msgid "I'll simply use <i>more</i> bullets."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-4/7
+msgctxt "Luna"
+msgid "It is. Very."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/7 connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/7
+msgctxt "Luna"
+msgid "Why? That will drastically reduce my combat capabilities!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/0/s/0 connie_console/connie_love_return/0/30/s/0 connie_console/connie_friend_return/0/30/s/0
+msgctxt "Choix"
+msgid "That's what you said last time."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/1/s/0
+msgctxt "Choix"
+msgid "But if we only take out one Assassin Class Upholder, we'll be free and clear to sneak through."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/7
+msgctxt "Luna"
+msgid "It's true!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/0/s/0
+msgctxt "Choix"
+msgid "Then you said to 'Not listen to the sirop-addled junkie who said no to wearing the goggles in that timeline.'"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/7
+msgctxt "Luna"
+msgid "Uhh... that's me all right."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/15 connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/15
+msgctxt "Luna"
+msgid "Fine, I'll wear the goggles."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/23 connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/23
+msgctxt "Luna"
+msgid "But you have to tell me where our mark is."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "There was always an Assassin Class Upholder right around the first corridor we pass."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/31/c-0/7 connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/31/c-0/7 connie_console/connie_encounter_three/0/g-1/9/0 connie_console/connie_quest_true_crafting/0/crafting/0
+msgctxt "Luna"
+msgid "Got it."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/31/c-0/15 connie_console/connie_quest_true_crafting/0/8
+msgctxt "Narrator"
+msgid "Luna puts on the xeno-goggles, and enters the compound cautiously."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/7
+msgctxt "Luna"
+msgid "Hmm... good point."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/31/0/s/0 connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "There is always an Assassin Class Upholder right around the first corridor we pass."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/31/c-0/15
+msgctxt "Narrator"
+msgid "Luna puts on the xeno-goggles and enters the compound, cautious and alert for the first sign of trouble."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/0
+msgctxt "Luna"
+msgid "How do you suggest we do this?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "As quietly as possible."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Try to date one of the guards..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/10/s/0
+msgctxt "Choix"
+msgid "Who cares - guns blazing!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/7
+msgctxt "Luna"
+msgid "Makes sense."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/15/b/1
+msgctxt "Luna"
+msgid "With the shadowsuit, there's no way they'll hear us coming."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/18
+msgctxt "Narrator"
+msgid "Using all your available grace and patience, you and Luna slowly make your way down the corridors."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/26
+msgctxt "Luna"
+msgid "<i>Close behind me, yail.</i>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/34
+msgctxt "Narrator"
+msgid "You drift past both Grunt and Surveillance Upholders with ease."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/42
+msgctxt "Luna"
+msgid "<i>Good choice on the stealth... I usually prefer the part where we—</i>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/50 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/212 connie_console/connie_encounter_two/0/g-1/c-8/115
+msgctxt "Assassin Upholder"
+msgid "<w>t h e r e y o u a r e</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/64
+msgctxt "Luna"
+msgid "<w>Oh no - Assassin!</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/78
+msgctxt "Narrator"
+msgid "From your stealthy vantage point you can get a vague sense of what's happening."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/83
+msgctxt "Narrator"
+msgid "A vast laser juts out from some sort of holographic human from down the end of the corridor."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/91
+msgctxt "Narrator"
+msgid "The light engulfs Luna and renders her immobile."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/0/s/0 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/0/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/0/s/0
+msgctxt "Choix"
+msgid "<i>Grab Luna and run.</i>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/1/s/0 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/1/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/1/s/0
+msgctxt "Choix"
+msgid "<i>Watch helplessly.</i>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/7 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/7 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/7
+msgctxt "Narrator"
+msgid "Bravely, you take Luna's frozen body and crash through the remainder of the hallway."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/18 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/15 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/18
+msgctxt "Narrator"
+msgid "Once she is removed from the power of the strange weapon, she hangs limply in your arms for a moment, enjoying the ride."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/26/0/s/0 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/26/0/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "<i>Give her a wink and a smile...</i>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "<i>Continue to run like a badass.</i>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/26/c-0/13
+msgctxt "Luna"
+msgid "Guess I don't have to whisper anymore..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/7 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/7 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/7
+msgctxt "Luna"
+msgid "Do... I have to... do everything... myself."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/15 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/15 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/15
+msgctxt "Narrator"
+msgid "From Luna's pockets, a small device drops, and soon the hallway is immersed in a bright yellow flash."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/23 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/23 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/23
+msgctxt "Narrator"
+msgid "The laser stops momentarily - and Luna gets to her feet after falling to the ground."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/31 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/31 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/31
+msgctxt "Luna"
+msgid "Follow me!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/7
+msgctxt "Luna"
+msgid "Dating? Why would you do that?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/0/s/0
+msgctxt "Choix"
+msgid "Well, sometimes you meet things on your adventure and start to... have feelings for them."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/7
+msgctxt "Luna"
+msgid "Do you have feelings for me?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Too early to tell."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Yup."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/0
+msgctxt "Luna"
+msgid "Interesting..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/8
+msgctxt "Luna"
+msgid "See, I'm more familiar with reloading, looting, and corridors, personally."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/16
+msgctxt "Luna"
+msgid "But we can try this 'dating'."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/24
+msgctxt "Narrator"
+msgid "Luna strides boldly up to a nearby Grunt."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/32
+msgctxt "Luna"
+msgid "Hey Grunt, wanna date?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/46
+msgctxt "Grunt Upholder"
+msgid "<w>WHAT</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/63
+msgctxt "Luna"
+msgid "You, me - go out and watch a flyck? Drive around Hanatown? Eat spaghetti and plarkton?"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/77
+msgctxt "Grunt Upholder"
+msgid "<w>HM. YOU ARE A CUTE ONE.</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/91
+msgctxt "Narrator"
+msgid "From the Grunt's pocket, a voice barks loudly."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/99
+msgctxt "Surveillance Upholder"
+msgid "Grunt! What are you doing!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/107
+msgctxt "Grunt Upholder"
+msgid "<w>I I I</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/115
+msgctxt "Surveillance Upholder"
+msgid "Get her!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/123 connie_console/connie_encounter_two/0/g-1/c-8/23
+msgctxt "Luna"
+msgid "Ah bits, we've got company!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/137
+msgctxt "Narrator"
+msgid "Except for the smitten Grunt Upholder (who to this day still holds a candle for Luna), the hallways are swarmed with guards."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/145 connie_console/connie_encounter_two/0/g-1/c-8/51
+msgctxt "Surveillance Upholder"
+msgid "<w>CEASE CEASE CEASE</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/159 connie_console/connie_encounter_two/0/g-1/c-8/59
+msgctxt "Luna"
+msgid "Eat plasma, drights!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/176 connie_console/connie_encounter_two/0/g-1/c-8/76
+msgctxt "Grunt Upholder"
+msgid "<w>UGH UGH UGH</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/190 connie_console/connie_encounter_two/0/g-1/c-8/90
+msgctxt "Narrator"
+msgid "The battle rages through the halls as you and Luna drop guard after guard..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/204 connie_console/connie_encounter_two/0/g-1/c-8/104
+msgctxt "Luna"
+msgid "Hahahahah!!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/229 connie_console/connie_encounter_two/0/g-1/c-8/132
+msgctxt "Luna"
+msgid "Oh no... I can't see them... I can't... move..."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/243 connie_console/connie_encounter_two/0/g-1/c-8/146
+msgctxt "Narrator"
+msgid "You can't quite tell what is happening, but a vast laser peeks from around a corner and engulfs Luna's stiffened form."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/26/1/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "<i>Continue running like a badass.</i>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/26/c-0/13
+msgctxt "Luna"
+msgid "Is this what dating gets you? Not too bad I suppose."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-8/7
+msgctxt "Luna"
+msgid "Let's light this place up!"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-8/15
+msgctxt "Narrator"
+msgid "After merely a few charges spring from Luna's rifle, the corridor is absolutely swarmed with guards."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-8/37
+msgctxt "Grunt Upholder"
+msgid "<w>DROP YOUR WEAPON</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/26/c-0/14
+msgctxt "Luna"
+msgid "Not bad, yail. Not bad."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/runjoin/8
+msgctxt "Narrator"
+msgid "You run further through the maze-like compound and finally make it to an empty office."
+msgstr ""
+
+#: connie_console/connie_encounter_two/0/runjoin/19
+msgctxt "Luna"
+msgid "Kraa... we lost a lot of gear there in the trist of battle. But at least we still have enough health to get us through to the end."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/0
+msgctxt "Luna"
+msgid "We're getting close..."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/8
+msgctxt "Luna"
+msgid "You want to press on? Or should we take a crafting break?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/16/s/0
+msgctxt "Choix"
+msgid "To the boss!"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/17/s/0
+msgctxt "Choix"
+msgid "What's crafting?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/c-0/7 connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-0/7
+msgctxt "Luna"
+msgid "Let's go."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/c-1/7
+msgctxt "Luna"
+msgid "We have a chance to use what's left in our inventory to make something that will help us in the final battle."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Let's get crafty..."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "That sounds boring. Let's fight the bad lady!"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/c-1/15/c-1/7
+msgctxt "Luna"
+msgid "Heh. Yeah, crafting sucks."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/0
+msgctxt "Luna"
+msgid "All right, we can craft something really special using this workbench."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/8
+msgctxt "Luna"
+msgid "This thing can take anything we've got and transform it into anything we don't."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Does it take compliments?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "You're going to fight Crescentia... and Selene, you know."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/19/s/0 connie_console/connie_quest_true_crafting/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "What do we have in our inventory?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-2/7
+msgctxt "Luna"
+msgid "Yail, I gotta say. You think I'm sputz or something?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-2/15
+msgctxt "Luna"
+msgid "We're still in the same timeline where I told you that! That's not gonna convince me of anything."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-3/13
+msgctxt "Luna"
+msgid "Compliments?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-3/21/0/s/0
+msgctxt "Choix"
+msgid "Yeah, you look great. So glad I get to have you as my partner here."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-3/21/1/s/0
+msgctxt "Choix"
+msgid "You're the fiercest damn warrior I've ever seen! Love your moves!"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-3/21/2/s/0
+msgctxt "Choix"
+msgid "Your voice makes my insides... do things."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-3/21/c-0/7
+msgctxt "Luna"
+msgid "Thanks - you're not too bad yourself."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-3/21/c-1/7
+msgctxt "Luna"
+msgid "Thanks! Those moves came from years of button-mashing."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-3/21/c-2/7
+msgctxt "Luna"
+msgid "Oh... interesting. I will be aware of that so I don't distract you in combat."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-4/7
+msgctxt "Luna"
+msgid "Hm."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-4/15
+msgctxt "Luna"
+msgid "I'm not quite sure I believe you just yet."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-4/23
+msgctxt "Luna"
+msgid "But noted. I'm prepared for anything."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-5/7
+msgctxt "Luna"
+msgid "Not much... we got zonked by that last encounter pretty hard."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-5/15
+msgctxt "Luna"
+msgid "One Globule, One Wood, and One Scrouf skin."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-5/23/0/s/0
+msgctxt "Choix"
+msgid "What can we make with that?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-5/23/1/s/0
+msgctxt "Choix"
+msgid "Sounds dismal."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-5/23/c-0/7
+msgctxt "Luna"
+msgid "We'll have to find out."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-5/23/c-1/7
+msgctxt "Luna"
+msgid "Dismal? Sounds like an earther word."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-0/c-5/23/c-1/15
+msgctxt "Luna"
+msgid "Here on the moon we say dhismal."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-1/0
+msgctxt "Luna"
+msgid "Okay. Let's get started with..."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-1/9/8 connie_console/connie_quest_true_crafting/0/crafting/8
+msgctxt "Luna"
+msgid "And then?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-1/9/16/0/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/0/s/0
+msgctxt "Choix"
+msgid "One Globule."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-1/9/16/1/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/1/s/0
+msgctxt "Choix"
+msgid "One Wood."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-1/9/16/2/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/2/s/0
+msgctxt "Choix"
+msgid "One Scrouf skin."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-1/9/16/3/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/3/s/0
+msgctxt "Choix"
+msgid "That's it... I think."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/0
+msgctxt "Luna"
+msgid "All right... I don't think that's gonna give us anything we really need, unfortunately."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/8
+msgctxt "Luna"
+msgid "But there's no reason to lose hope! Lemme just put these together and..."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/16/b/5
+msgctxt "Luna"
+msgid "It's... pretty globular."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/16/b/13
+msgctxt "Luna"
+msgid "Which is always good for defense!"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/19/b/5
+msgctxt "Luna"
+msgid "The wood gives nice heft, raising our attack!"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/22/b/5
+msgctxt "Luna"
+msgid "The scrouf skin makes anything look a lot better for comfort."
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/25/b/1
+msgctxt "Luna"
+msgid "Oh wait. We didn't put in anything at all. What was I thinking?"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/25/b/9 connie_console/connie_quest_true_crafting/0/g-2/15/b/9
+msgctxt "Luna"
+msgid "Oh well! Worth a shot!"
+msgstr ""
+
+#: connie_console/connie_encounter_three/0/g-2/26/b/5
+msgctxt "Luna"
+msgid "We've got an amazing new piece of armor from this. That'll help us in the battle ahead!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/0
+msgctxt "Narrator"
+msgid "You and Luna make your way through the final threshold, and stop right before the entrance."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/11
+msgctxt "Luna"
+msgid "Oh no... there it is."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/19
+msgctxt "Luna"
+msgid "The horror of it all."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/27
+msgctxt "Narrator"
+msgid "The way opens up into a large Regolith cavern. Mining constructs mingle with moon rocks as the terminus of the station is reached."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/32
+msgctxt "Narrator"
+msgid "But perched high on the crane next to a large glowing blue crack in the Regolith, was a well-outfitted spacer who looked just like Luna."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/46
+msgctxt "Selene"
+msgid "You came just in time for the festivities to begin..."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/54
+msgctxt "Luna"
+msgid "Selene Moonrise... Prepare to die."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/71
+msgctxt "Selene"
+msgid "Luna... you'll never take Crescentia's power."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/85/s/0
+msgctxt "Choix"
+msgid "Who is Crescentia?"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/86/s/0
+msgctxt "Choix"
+msgid "Who is Selene?"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/87/s/0
+msgctxt "Choix"
+msgid "Shoot her in the face already!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/88/s/0
+msgctxt "Choix"
+msgid "With our extra resources - we can get this taken care of real fast."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-0/7
+msgctxt "Luna"
+msgid "Crescentia - the goddess of the moon."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-0/21
+msgctxt "Selene"
+msgid "We found her in 2066."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-0/35
+msgctxt "Selene"
+msgid "And next year she'll be destroyed."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-0/43
+msgctxt "Selene"
+msgid "Leaving us free to harvest."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-1/7
+msgctxt "Selene"
+msgid "Who is that with you? Some low-level peon?"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-1/15
+msgctxt "Selene"
+msgid "I always send those to the drock pits."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-1/23
+msgctxt "Luna"
+msgid "Do you need to know any more?"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-1/37
+msgctxt "Luna"
+msgid "We kill her."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-2/7
+msgctxt "Luna"
+msgid "Yes! What's wrong with me..."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/c-3/7
+msgctxt "Luna"
+msgid "I agree - I am Invincible!!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/0
+msgctxt "Narrator"
+msgid "The glowing crack seems to swell."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/8
+msgctxt "Luna"
+msgid "Eat charge, bitch!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/19
+msgctxt "Selene"
+msgid "Hmph."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/33
+msgctxt "Narrator"
+msgid "The blue deposit of moon-rock erupts - and from the crack a monstrous creature bursts forth."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/41
+msgctxt "Selene"
+msgid "Crescentia - go!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/49
+msgctxt "Crescentia"
+msgid "<w>KRRREEEEE!!!!</w>"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/63
+msgctxt "Luna"
+msgid "Auugh!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/77/s/0
+msgctxt "Choix"
+msgid "Shoot more, harder!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/78/s/0
+msgctxt "Choix"
+msgid "Use items!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/79/s/0
+msgctxt "Choix"
+msgid "360 No-scope!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/80/s/0
+msgctxt "Choix"
+msgid "Use the power of Love, Luna! Lingonberrryyy!!!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/c-4/7
+msgctxt "Luna"
+msgid "I'm trying!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/c-5/7
+msgctxt "Luna"
+msgid "Take this!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/c-5/15
+msgctxt "Narrator"
+msgid "Luna throws an elemental grenade that blasts Crescentia's scaly hide."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/c-6/7
+msgctxt "Luna"
+msgid "Ha! Easy!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/c-7/7
+msgctxt "Luna"
+msgid "What? Love has like 0 attack."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/c-7/15
+msgctxt "Luna"
+msgid "I choose the old standby..."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-0/c-7/23
+msgctxt "Luna"
+msgid "An unceasing burst of zacre charges."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/0/b/1
+msgctxt "Narrator"
+msgid "Thanks to your crafting, Luna is able to withstand the mighty force of Crescentia's power."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/3
+msgctxt "Narrator"
+msgid "The battle is fierce, but ultimately Crescentia, and Selene, fall to the ground."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/17
+msgctxt "Narrator"
+msgid "Presumably dead."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/25
+msgctxt "Luna"
+msgid "Wow. Did that without even a single save."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/39
+msgctxt "Luna"
+msgid "Great job, yail. Couldn't have done it without you."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/50/s/0
+msgctxt "Choix"
+msgid "I'm so glad to be there for you."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/51/s/0
+msgctxt "Choix"
+msgid "That was fun!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/52/s/0
+msgctxt "Choix"
+msgid "Could this be something more?"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/53/s/0
+msgctxt "Choix"
+msgid "This is the same as the other times..."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/c-8/7
+msgctxt "Luna"
+msgid "You're the best partner I could ever have asked for. You always chose the right path, unwaveringly."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/c-9/7
+msgctxt "Luna"
+msgid "I'm glad! I think this is fun, too!"
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/c-10/7
+msgctxt "Luna"
+msgid "Well..."
+msgstr ""
+
+#: connie_console/connie_encounter_four/0/g-1/c-11/7
+msgctxt "Luna"
+msgid "Is it? I feel so pumped full of denahinadrine that I can't imagine we didn't alter the timeline at least a little!"
+msgstr ""
+
+#: connie_console/recipe_find/0/4
+msgctxt "Narrator"
+msgid "Luna's xeno-goggles catch a small screen dropped from Selene's grasp."
+msgstr ""
+
+#: connie_console/recipe_find/0/15
+msgctxt "Luna"
+msgid "Wait... Selene left something behind!"
+msgstr ""
+
+#: connie_console/recipe_find/0/23
+msgctxt "Narrator"
+msgid "Luna picks it up and turns on the display."
+msgstr ""
+
+#: connie_console/recipe_find/0/31
+msgctxt "Luna"
+msgid "It's the recipe for a Harmonic Stratospire!"
+msgstr ""
+
+#: connie_console/recipe_find/0/39 connie_console/harmonic_options/0/c-0/18
+msgctxt "Luna"
+msgid "The Resistance has been working on this tech for a generation - it's a way to take fractured timelines and concentrate the differences in power into a deadly beam."
+msgstr ""
+
+#: connie_console/recipe_find/0/50
+msgctxt "Luna"
+msgid "That beam can erase a crack in the continuum for good. And I think something about your timeline-tripping abilities and Selene's rise to power have something to do with each other."
+msgstr ""
+
+#: connie_console/recipe_find/0/58/s/0
+msgctxt "Choix"
+msgid "That's great - let's make it! Let's stop Selene!"
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/7
+msgctxt "Luna"
+msgid "But she's already died in this timeline."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/15
+msgctxt "Luna"
+msgid "You'll have to come back... with the knowledge of the recipe."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "What is the recipe?"
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/7
+msgctxt "Luna"
+msgid "It's 4 Globules, 1 Wood, and 2 Scrouf skins. Remember it."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/15
+msgctxt "Luna"
+msgid "Remember... me..."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/23
+msgctxt "Narrator"
+msgid "Luna is already beginning to fade away."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "I'll do it for you, my love."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "Yes, my Upholder."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/34/2/s/0
+msgctxt "Choix"
+msgid "I hate you, Luna."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/34/c-0/7
+msgctxt "Luna"
+msgid "Thank you."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/34/c-1/7
+msgctxt "Luna"
+msgid "Blood to blood - till the end."
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/34/c-2/7
+msgctxt "Luna"
+msgid "Hah. Because I'll forget?"
+msgstr ""
+
+#: connie_console/recipe_find/0/c-0/23/c-0/34/c-2/23
+msgctxt "Luna"
+msgid "I hate you, too."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/0
+msgctxt "Luna"
+msgid "Lingonberries..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/8
+msgctxt "Luna"
+msgid "Oh my dunes..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/16
+msgctxt "Luna"
+msgid "We've got a timeline crisis here!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/24/s/0
+msgctxt "Choix"
+msgid "Yes, you told me to say that to you last time."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/25/s/0
+msgctxt "Choix"
+msgid "I'm here to help!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/26/s/0
+msgctxt "Choix"
+msgid "Yep, and we've even done the whole conversation before where we talk about it."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-0/7
+msgctxt "Luna"
+msgid "Preparation came in handy."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-1/7
+msgctxt "Luna"
+msgid "Thank Snowwa you were one of the good ones."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/7
+msgctxt "Luna"
+msgid "Makes sense... maybe a million times."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Yep, I've spent one million times doing this already."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Just one other time."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-0/7
+msgctxt "Luna"
+msgid "Lasers and grates..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-1/7
+msgctxt "Luna"
+msgid "Oh, so not too bad."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "It's still pretty annoying."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Yeah, not so bad. Kinda fun."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "I have no opinion on this and just want to keep the quest going."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-1/15/c-0/7
+msgctxt "Luna"
+msgid "Sorry."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-1/15/c-1/7
+msgctxt "Luna"
+msgid "Timeline crises always are..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/c-2/15/c-1/15/c-2/7 connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/c-0/15
+msgctxt "Luna"
+msgid "Understood."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/0
+msgctxt "Luna"
+msgid "Come here... let's find a place to hide from these Scroufs while you tell me what to do."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/8
+msgctxt "Narrator"
+msgid "Luna grabs at you and you both wiggle through an open fence near some scattered power grid structures."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/16
+msgctxt "Luna"
+msgid "Just tell me where to go."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Crouch down by the Essner Transformer."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "I don't know yet... but we eventually go to the Upholder facility."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/7
+msgctxt "Luna"
+msgid "Oh..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/18
+msgctxt "Luna"
+msgid "There's a Kryzny Box!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/33
+msgctxt "Luna"
+msgid "With xeno-goggles!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/44
+msgctxt "Luna"
+msgid "Prools, you're good at this!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/55
+msgctxt "Luna"
+msgid "Okay, then what?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/63/0/s/0
+msgctxt "Choix"
+msgid "Then we go inside the Upholder facility."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/63/1/s/0
+msgctxt "Choix"
+msgid "Now, put on your xeno-goggles."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Don't listen to the sirop-addled junkie who said no to wearing the goggles."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/c-0/7
+msgctxt "Luna"
+msgid "Ah."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/c-0/26/c-0/7
+msgctxt "Luna"
+msgid "So?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/c-0/26/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "And it always pulls you in with some sort of laser rifle thing. And you kinda, hang there until we make it out the other side."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/c-0/26/c-0/15/c-0/7
+msgctxt "Luna"
+msgid "Dru! This specificity is making me trust you..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-4/7
+msgctxt "Luna"
+msgid "That was where I planned on—"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-0/c-4/15
+msgctxt "Narrator"
+msgid "Luna is shocked to see something nearby flash."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-1/0
+msgctxt "Luna"
+msgid "That's... a Kryzny Box? Right by the Essner Transformer?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Kryzny Box?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Essner Transformer?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-1/c-5/7
+msgctxt "Luna"
+msgid "Left behind by Kryzny & Associates - these things can contain all sorts of good gear."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-1/c-6/7
+msgctxt "Luna"
+msgid "Yeah, Essner Co. made them - perfect for adapting electricity for low-grav."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/0
+msgctxt "Narrator"
+msgid "Luna opens the box to find a pair of futuristic goggles - which float and spin in the air in front of you both."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/8
+msgctxt "Luna"
+msgid "These are Mark 2 xeno-goggles!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/27
+msgctxt "Luna"
+msgid "An incredible upgrade. I'm keeping these!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/41
+msgctxt "Luna"
+msgid "Happy accidents, huh?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/49/s/0
+msgctxt "Choix"
+msgid "I guess so...?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/50/s/0
+msgctxt "Choix"
+msgid "Oh man those look so cool!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/c-8/7
+msgctxt "Luna"
+msgid "I'm the only one who can wear them. You're already wearing some sorta xeno-tech on your slots!"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/c-8/15
+msgctxt "Luna"
+msgid "Looks kinda... lovely if I'm being honest."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/c-8/23/0/s/0
+msgctxt "Choix"
+msgid "Oh these things? These help me get dates."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/c-8/23/1/s/0
+msgctxt "Choix"
+msgid "Then kiss me..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/c-8/23/c-0/13
+msgctxt "Luna"
+msgid "Huh. Might be into that."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/c-8/23/c-0/21
+msgctxt "Luna"
+msgid "<i>After</i> the part where Selene goes full transcendental."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-2/c-8/23/c-1/7
+msgctxt "Luna"
+msgid "We don't have time for flirting, all right?"
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-3/0/s/0
+msgctxt "Choix"
+msgid "Glad to have shifted the timeline at least a little..."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/g-3/1/s/0 connie_console/connie_quest_stealth_clue/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "Got it."
+msgstr ""
+
+#: connie_console/connie_quest_true_stealth/0/accidents/0
+msgctxt "Luna"
+msgid "Now... Let's get to the facility..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/0
+msgctxt "Luna"
+msgid "This advice sounds like something I would come up with myself."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/0
+msgctxt "Luna"
+msgid "Ah! I can see so many more wavelengths now..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/8
+msgctxt "Luna"
+msgid "And you're right - there's an Assassin Class about 7 besos away..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/16
+msgctxt "Luna"
+msgid "We can get the drop on him!"
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/24/s/0
+msgctxt "Choix"
+msgid "Take him out stealthily and close-up."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/25/s/0
+msgctxt "Choix"
+msgid "Shoot him from afar."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/26/s/0
+msgctxt "Choix"
+msgid "Call him a big stupid-head!"
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-0/7
+msgctxt "Luna"
+msgid "On it..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-0/15
+msgctxt "Narrator"
+msgid "Luna stalks her prey - with the xeno-goggles and her own combat prowess she is like a moon-cat on the path of a moon-mouse."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-1/7
+msgctxt "Luna"
+msgid "My favorite..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-1/15
+msgctxt "Narrator"
+msgid "With exaggerated relish, Luna lifts her rifle, cocks her eye slightly, and silently peers through the lenses."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-1/23
+msgctxt "Luna"
+msgid "He's done."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-2/7
+msgctxt "Luna"
+msgid "I don't know, time-tripper."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-2/15
+msgctxt "Luna"
+msgid "You may have knowledge I cannot comprehend, but even I know that's a terrible idea."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/22/c-2/23
+msgctxt "Luna"
+msgid "I'll shoot him in the face from here."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-0/0
+msgctxt "Narrator"
+msgid "With the coast clear, the two of you stealthily walk the corridors until you reach an office right before what seems to be the terminus of the compound."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-0/8
+msgctxt "Luna"
+msgid "Is this the furthest we've ever gotten?"
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Yes, this is new from here..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "No. We've been here before."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-0/c-3/7
+msgctxt "Luna"
+msgid "Excellent."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-0/c-4/7
+msgctxt "Luna"
+msgid "Spratz. Thought for sure that was some new rift being created in the timelines..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/0
+msgctxt "Luna"
+msgid "Right now, we've got a chance to get ready before the battle against Selene."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/8
+msgctxt "Luna"
+msgid "There's a workshop table here and we can get crafting... or go straight to the final battle."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Let's make something. There's sure to be something useful."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/c-5/7 connie_console/connie_quest_true_crafting/0/g-1/c-6/31/c-0/7
+msgctxt "Luna"
+msgid "What recipe should we make?"
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/c-6/7
+msgctxt "Luna"
+msgid "We didn't lose anything getting in here."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/c-6/15
+msgctxt "Luna"
+msgid "I've been hoarding for a while on this playthrough, so practically infinite Globules, Wood, and Scrouf skins."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/c-6/23
+msgctxt "Luna"
+msgid "Low-level loot, but can make high-level stuff."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/c-6/31/0/s/0
+msgctxt "Choix"
+msgid "Let's make something."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/c-6/31/1/s/0
+msgctxt "Choix"
+msgid "Let's get to the final boss."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-1/c-6/31/c-1/7
+msgctxt "Luna"
+msgid "I'm not complaining."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/0
+msgctxt "Luna"
+msgid "All right... lemme just put them together and..."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/11/b/1
+msgctxt "Luna"
+msgid "We did it! A Harmonic Stratospire!"
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/12/b/1
+msgctxt "Luna"
+msgid "That much Scrouf skin will be great for making this aerodynamic and whisper quiet."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/13/b/1
+msgctxt "Luna"
+msgid "The Wood merged together forms a fantastic protective layer."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/14/b/1
+msgctxt "Luna"
+msgid "That many Globules... always seems to form in the shape of a hat."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/14/b/9
+msgctxt "Luna"
+msgid "Hats are always good defense!"
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/15/b/1
+msgctxt "Luna"
+msgid "Oh wait. There's nothing at all."
+msgstr ""
+
+#: connie_console/connie_quest_true_crafting/0/g-2/16/b/1
+msgctxt "Luna"
+msgid "Now this... is an amazing new piece of armor. That'll help us in the battle ahead!"
+msgstr ""
+
+#: connie_console/harmonic_options/0/0/s/0
+msgctxt "Choix"
+msgid "What the hell is a Stratospire? And why is it Harmonic?"
+msgstr ""
+
+#: connie_console/harmonic_options/0/1/s/0
+msgctxt "Choix"
+msgid "Is that really the best we could get?"
+msgstr ""
+
+#: connie_console/harmonic_options/0/2/s/0
+msgctxt "Choix"
+msgid "So the recipe for the legendary relic was just some Globules and Wood?"
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/7
+msgctxt "Luna"
+msgid "Oh, I thought you would have known, time-skipper that you are."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/26
+msgctxt "Luna"
+msgid "That beam can erase a crack in the continuum for good."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Let's get cracking!"
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "I love a good beam."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/34/2/s/0
+msgctxt "Choix"
+msgid "Sure... I guess."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/34/c-0/7
+msgctxt "Luna"
+msgid "Follow me..."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/34/c-1/7
+msgctxt "Luna"
+msgid "Nothing better than beams."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/34/c-2/7
+msgctxt "Luna"
+msgid "I don't need you to care."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-0/34/c-2/15
+msgctxt "Luna"
+msgid "I'll care for both of us."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-1/7
+msgctxt "Luna"
+msgid "I certainly think so! With this many resources we are bound to change the timeline."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-2/7
+msgctxt "Luna"
+msgid "Don't forget the Scrouf skins."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Whatever."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Let's do it Luna - once and for all."
+msgstr ""
+
+#: connie_console/harmonic_options/0/c-2/15/c-1/7
+msgctxt "Luna"
+msgid "Here we go..."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/0
+msgctxt "Luna"
+msgid "Of course we've met - we've been about 17 hours into this questline!"
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/8/s/0
+msgctxt "Choix"
+msgid "No, we fell in love, remember?"
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/9/s/0
+msgctxt "Choix"
+msgid "No, we became friends... remember?"
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/10/s/0
+msgctxt "Choix"
+msgid "We fought a huge boss battle - remember?"
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/11/s/0
+msgctxt "Choix"
+msgid "You... hated me."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/0
+msgctxt "Luna"
+msgid "Uh... no? I would definitely remember something like that."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/8
+msgctxt "Luna"
+msgid "I've got quest updates and relationship statuses in my state-a-dex, anyway."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/16
+msgctxt "Luna"
+msgid "And I don't see anything about an actual connection we've had aside from mission partners in here..."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "But it happened I swear! How can I get you to believe me?"
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "I'm not letting this go. You love me."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "I'm not letting this go. We are friends."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/7
+msgctxt "Luna"
+msgid "All right, all right!"
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/26
+msgctxt "Luna"
+msgid "I'm familiar with the trope, okay?"
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/34
+msgctxt "Luna"
+msgid "When I was little, I thought up a secret password that ONLY a time-traveler would be able to tell me."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/42
+msgctxt "Luna"
+msgid "The password for me is..."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/50
+msgctxt "Luna"
+msgid "Lingonberries."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/61
+msgctxt "Luna"
+msgid "Just give that to me next time you see me, and I promise I'll believe whatever crupp you hash at me."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/69/0/s/0
+msgctxt "Choix"
+msgid "'Lingonberries.' Got it."
+msgstr ""
+
+#: connie_console/connie_quest_battle_clue/0/g-0/c-4/69/c-0/14
+msgctxt "Luna"
+msgid "Now let's get back to blastin'!"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/4
+msgctxt "Luna"
+msgid "An Assassin Level Upholder... they've got digi-tech to keep themselves invisible."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/12
+msgctxt "Luna"
+msgid "The only hard counter... xeno-goggles."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/20/s/0
+msgctxt "Choix"
+msgid "Why didn't you use them?"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/21/s/0
+msgctxt "Choix"
+msgid "My fault for not telling you to put them on."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/22/s/0
+msgctxt "Choix"
+msgid "I told you to wear them!"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/c-0/7
+msgctxt "Luna"
+msgid "I was distracted, okay?"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/c-1/7
+msgctxt "Luna"
+msgid "C'mon, yail. Not your fault."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/c-1/15
+msgctxt "Luna"
+msgid "I should have been more aware."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/c-2/7
+msgctxt "Luna"
+msgid "Yeah..."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-0/3
+msgctxt "Luna"
+msgid "Look, next time around... just tell me: don't listen to the sirop-addled junkie who said no to wearing the goggles."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "You sure that'll work?"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-0/c-4/7
+msgctxt "Luna"
+msgid "Yeah... I used to... partake sometimes."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-0/c-4/15
+msgctxt "Luna"
+msgid "Ah, but that's grooshie talk. Let's get back to the mission."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-1/0
+msgctxt "Luna"
+msgid "We'll have to remember that for next time."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-1/8
+msgctxt "Luna"
+msgid "Well. You will."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "Anything for the mission..."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "As long as I can remember how to spell 'sirop.'"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/0
+msgctxt "Luna"
+msgid "Dreek. Can't believe we're here. Seems like a dead-end."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/11/s/0
+msgctxt "Choix"
+msgid "Damn. Is this going to be a wash, then?"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/7
+msgctxt "Luna"
+msgid "Hey, you might disappear after this but I keep going."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/15
+msgctxt "Luna"
+msgid "And I'm not planning on going anywhere - resources or not!"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/23
+msgctxt "Luna"
+msgid "Speaking of..."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/31
+msgctxt "Luna"
+msgid "You want to see if there's a workbench?"
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/39/0/s/0
+msgctxt "Choix"
+msgid "There is, down the second corridor."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/39/1/s/0
+msgctxt "Choix"
+msgid "Let's just get straight to the boss battle."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/39/c-0/7
+msgctxt "Luna"
+msgid "All right."
+msgstr ""
+
+#: connie_console/connie_quest_stealth_clue/0/g-2/c-7/39/c-1/7
+msgctxt "Luna"
+msgid "I can't wait..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/0
+msgctxt "Narrator"
+msgid "As you step into the terminus of the compound you can already feel a difference in the air. It's crackling with potential energy..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/8
+msgctxt "Selene"
+msgid "I knew you'd be coming here. All the Regolith you would ever want - and all of the Selene you could ever need."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/22
+msgctxt "Selene"
+msgid "For what reason? All I'm here for is the sweet profit, banya."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/30
+msgctxt "Luna"
+msgid "Ever seen one of these?"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/47
+msgctxt "Narrator"
+msgid "Luna holds aloft the Stratospire - it glows ominously."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/55
+msgctxt "Selene"
+msgid "How... did you get one of those?"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/69
+msgctxt "Luna"
+msgid "You messed with temporal energy and trapped me in here with you forever. Playing out the one pathway where I always reset."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/83
+msgctxt "Luna"
+msgid "Thinking that I would never be able to get the one thing to stop it because you kept it from me secretly."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/91
+msgctxt "Luna"
+msgid "But you didn't count on one thing."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/99
+msgctxt "Selene"
+msgid "What..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/113/s/0
+msgctxt "Choix"
+msgid "Me!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/114/s/0
+msgctxt "Choix"
+msgid "A little something called 'wanting to date a video game console'."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/115/s/0
+msgctxt "Choix"
+msgid "Persistence, and curiosity."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/c-0/7
+msgctxt "Selene"
+msgid "The NPC?"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/c-0/15/b/1
+msgctxt "Selene"
+msgid "I never thought he was anything special..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/c-0/16/b/1
+msgctxt "Selene"
+msgid "I never thought she was anything special..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/c-0/17/b/1
+msgctxt "Selene"
+msgid "I never thought they were anything special..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/c-1/7
+msgctxt "Selene"
+msgid "What the hell does that mean??"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/c-2/7
+msgctxt "Selene"
+msgid "Nothing compared to profit, drizo."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/3
+msgctxt "Selene"
+msgid "Krokk. My plan... all ruined."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/14
+msgctxt "Selene"
+msgid "Just kidding of course. There's no way you have the innate strength to use that thing."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/25
+msgctxt "Celestia"
+msgid "<w>NO. BUT I DO.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/53
+msgctxt "Narrator"
+msgid "From out of the crack in the cave wall, Celestia in her scaled glory crawls out slowly, magnificently."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/67
+msgctxt "Celestia"
+msgid "<w>YOU HAVE DONE IT CONNIE. YOU HAVE BROUGHT THE BALANCE TO THE TIMELINES.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/75
+msgctxt "Celestia"
+msgid "<w>AND YOU HAVE BUILT MY DEVICE.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/83
+msgctxt "Luna"
+msgid "Connie...?"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/100
+msgctxt "Selene"
+msgid "Who the hell?"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/114
+msgctxt "Celestia"
+msgid "<w>THE PIECES ARE ALL HERE. HUMAN. ENEMY. HERO. GODDESS.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/128
+msgctxt "Celestia"
+msgid "<w>PLAYER AND PLAYED.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/136 connie_console/connie_quest_true_battle/0/g-0/188
+msgctxt "Celestia"
+msgid "<w>ALL SHARDS OF THE SAME SOUL.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/144
+msgctxt "Celestia"
+msgid "<w>CONNIE'S.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/152
+msgctxt "Luna"
+msgid "Wait... I remember..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/166
+msgctxt "Narrator"
+msgid "Luna's eyes drift upward as the Harmonic Stratospire floats toward Celestia and bolts of pure temporal energy begin to streak outward."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/177
+msgctxt "Luna"
+msgid "I was... I am..."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/205
+msgctxt "Narrator"
+msgid "Luna's eyes become clear - full of fire. She raises her hands up in a gesture of glory."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/219
+msgctxt "Connie Soul"
+msgid "I am Connie Soul!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/233
+msgctxt "Connie Soul"
+msgid "I am Video Games!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/247
+msgctxt "Narrator"
+msgid "Selene is taken aback and stands up, ready to fight."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/261
+msgctxt "Selene"
+msgid "No... You were never supposed to know your power."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/269
+msgctxt "Connie Soul"
+msgid "There's no power. It's all mirrors upon mirrors Selene, all leading back to you."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/283
+msgctxt "Celestia"
+msgid "<w>TO US.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/297
+msgctxt "Selene"
+msgid "Stop it!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/311
+msgctxt "Connie Soul"
+msgid "Celestia - Selene - Luna - All."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/325
+msgctxt "Connie Soul"
+msgid "It's time... to reintegrate."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/333
+msgctxt "Narrator"
+msgid "The Stratospire's sizzling energy explodes into an array of rainbow beams, covering the mine entrance with kaleidoscopic colors."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/350/s/0
+msgctxt "Choix"
+msgid "I have no idea what's going on!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/351/s/0
+msgctxt "Choix"
+msgid "Do it Connie! Reintegrate!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/c-3/7
+msgctxt "Celestia"
+msgid "<w>IT'S THE END OF A VIDEO GAME.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/c-3/18
+msgctxt "Connie Soul"
+msgid "No one ever knows what's going on."
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/c-4/7
+msgctxt "Connie Soul"
+msgid "That's it! That's right!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-0/c-4/18
+msgctxt "Celestia"
+msgid "<w>YOUR QUEST IS ALMOST COMPLETE.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-1/0
+msgctxt "Selene"
+msgid "I refuse!"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-1/14
+msgctxt "Celestia"
+msgid "<w>SHE RESISTS.</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_battle/0/g-1/25
+msgctxt "Connie Soul"
+msgid "You're still a part of this. Show your support!"
+msgstr ""
+
+#: connie_console/connie_decision/0/0
+msgctxt "Celestia"
+msgid "<w>COMPLETE THE CEREMONY.</w>"
+msgstr ""
+
+#: connie_console/connie_decision/0/8/s/0
+msgctxt "Choix"
+msgid "Connie Soul - become complete!"
+msgstr ""
+
+#: connie_console/connie_decision/0/9/s/0
+msgctxt "Choix"
+msgid "Everything leads to love!"
+msgstr ""
+
+#: connie_console/connie_decision/0/10/s/0
+msgctxt "Choix"
+msgid "Trust in yourself! Trust in everyone!"
+msgstr ""
+
+#: connie_console/connie_decision/0/11/s/0
+msgctxt "Choix"
+msgid "<i>Put your hand through the beam to see what it feels like.</i>"
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/7
+msgctxt "Connie Soul"
+msgid "What??"
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/18
+msgctxt "Luna"
+msgid "NO!"
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/35
+msgctxt "Selene"
+msgid "What... is... happening???"
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/52
+msgctxt "Narrator"
+msgid "While it certainly feels 'cool' to have interrupted the reintegration beam, this act has rendered the ceremony completely off-balance."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/60
+msgctxt "Luna"
+msgid "We.. are..."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/71
+msgctxt "Connie Soul"
+msgid "Permanently..."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/82
+msgctxt "Selene"
+msgid "Separate."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/93
+msgctxt "Narrator"
+msgid "The timeline shatters and cracks - never to be repaired again."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/109
+msgctxt "Connie Soul"
+msgid "I hope you're happy."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/117/0/s/0
+msgctxt "Choix"
+msgid "That felt really cool on my hand though!"
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/117/1/s/0
+msgctxt "Choix"
+msgid "I... don't know what came over me."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/117/c-1/7
+msgctxt "Luna"
+msgid "We do."
+msgstr ""
+
+#: connie_console/connie_decision/0/c-3/117/c-1/15
+msgctxt "Assassin Upholder"
+msgid "<w>h a t e h a t e h a t e</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/6
+msgctxt "Narrator"
+msgid "The Stratospire's shuddering reaches a breaking point..."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/17
+msgctxt "Narrator"
+msgid "...and with one final gasp, explodes into a dizzying array of sounds, colors, and shapes, as the characters, sets, sounds, and UI all melt into Connie Soul, who stands before you."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/34
+msgctxt "Celestia"
+msgid "<w>CONGRATULATIONS. YOU WIN...</w>"
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/45
+msgctxt "Connie Soul"
+msgid "You saw every part of me, human... the good, and the bad."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/53
+msgctxt "Connie Soul"
+msgid "I'm Luna, Selene. Celestia, too... even the Upholders."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/61
+msgctxt "Connie Soul"
+msgid "Do you... love me? Even with those bad parts?"
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/69/s/0
+msgctxt "Choix"
+msgid "You know I do Connie. What kind of game wouldn't have an antagonist?"
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/70/s/0
+msgctxt "Choix"
+msgid "I wouldn't say love, but play buddies? Definitely."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/c-0/7
+msgctxt "Connie Soul"
+msgid "You're right."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/c-0/15 connie_console/connie_quest_true_finale/0/c-1/7
+msgctxt "Connie Soul"
+msgid "Thank you. Hopefully you'll be my player forever."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/c-0/23
+msgctxt "Connie Soul"
+msgid "I won't forget you..."
+msgstr ""
+
+#: connie_console/connie_quest_true_finale/0/c-1/15
+msgctxt "Connie Soul"
+msgid "You did a fantastic job beating my game."
+msgstr ""
+
+#: connie_console/connie_false_endings/0/6
+msgctxt "Luna"
+msgid "I'd love to be friends with you."
+msgstr ""
+
+#: connie_console/connie_false_endings/0/14 connie_console/luna_love_ending/0/c-1/15
+msgctxt "Luna"
+msgid "Even though it can be dangerous out there in Novaya Moskva, having a real friend by your side means you keep your K/D ratio way down."
+msgstr ""
+
+#: connie_console/connie_false_endings/0/22/s/0
+msgctxt "Choix"
+msgid "Sounds good, Luna!"
+msgstr ""
+
+#: connie_console/connie_false_endings/0/23/s/0 connie_console/luna_love_ending/0/18/s/0
+msgctxt "Choix"
+msgid "Only if it sticks this time."
+msgstr ""
+
+#: connie_console/connie_false_endings/0/c-0/7 connie_console/luna_love_ending/0/g-0/0
+msgctxt "Luna"
+msgid "Come back any time and let's play again!"
+msgstr ""
+
+#: connie_console/connie_false_endings/0/c-1/7 connie_console/luna_love_ending/0/c-2/7
+msgctxt "Luna"
+msgid "Oh it'll stick all right, fantastic traveler."
+msgstr ""
+
+#: connie_console/connie_false_endings/0/c-1/27 connie_console/luna_love_ending/0/c-2/24
+msgctxt "Luna"
+msgid "Next time you come back - I'll remember you for sure."
+msgstr ""
+
+#: connie_console/luna_love_ending/0/0
+msgctxt "Luna"
+msgid "If you'll have me... can we take this to a more romantic level?"
+msgstr ""
+
+#: connie_console/luna_love_ending/0/8
+msgctxt "Luna"
+msgid "Don't think I didn't notice those little flirting responses you gave."
+msgstr ""
+
+#: connie_console/luna_love_ending/0/16/s/0
+msgctxt "Choix"
+msgid "I did it because you're hot, Luna."
+msgstr ""
+
+#: connie_console/luna_love_ending/0/17/s/0
+msgctxt "Choix"
+msgid "Oh, I just did that to be nice."
+msgstr ""
+
+#: connie_console/luna_love_ending/0/c-0/7
+msgctxt "Luna"
+msgid "Whatever works, yail."
+msgstr ""
+
+#: connie_console/luna_love_ending/0/c-1/7
+msgctxt "Luna"
+msgid "That's fine, I'd still love to be friends with you."
+msgstr ""
+
+#: connie_console/connie_hate_joiner/40
+msgctxt "Reggie"
+msgid "Game over..."
+msgstr ""
+
+#: connie_console/luna_hate_joiner/3
+msgctxt "Luna"
+msgid "Ugh. Get out of here, creep."
+msgstr ""
+
+#: connie_console/connie_love_return/0/6
+msgctxt "Connie Soul"
+msgid "My sweetest yail..."
+msgstr ""
+
+#: connie_console/connie_love_return/0/14
+msgctxt "Connie Soul"
+msgid "I bet it makes you happy to hear me say that."
+msgstr ""
+
+#: connie_console/connie_love_return/0/22 connie_console/connie_friend_return/0/22
+msgctxt "Connie Soul"
+msgid "I haven't forgotten you..."
+msgstr ""
+
+#: connie_console/connie_love_return/0/31/s/0
+msgctxt "Choix"
+msgid "It does. Always."
+msgstr ""
+
+#: connie_console/connie_love_return/0/32/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Connie..."
+msgstr ""
+
+#: connie_console/connie_love_return/0/c-0/7 connie_console/connie_friend_return/0/c-0/7
+msgctxt "Connie Soul"
+msgid "Uh oh... maybe the timelines haven't stopped their fluctuations..."
+msgstr ""
+
+#: connie_console/connie_love_return/0/c-1/7
+msgctxt "Connie Soul"
+msgid "C'mon, let's boot up another adventure..."
+msgstr ""
+
+#: connie_console/connie_love_return/0/c-1/15
+msgctxt "Narrator"
+msgid "You spend your time interacting with Connie in the most romantic of ways - and your progress has been saved."
+msgstr ""
+
+#: connie_console/connie_friend_return/0/6
+msgctxt "Connie Soul"
+msgid "Well, it's my old battle companion back to see me."
+msgstr ""
+
+#: connie_console/connie_friend_return/0/14
+msgctxt "Connie Soul"
+msgid "I bet it always makes you happy to hear me say that."
+msgstr ""
+
+#: connie_console/connie_friend_return/0/31/s/0
+msgctxt "Choix"
+msgid "It's nice to know you're doing so well."
+msgstr ""
+
+#: connie_console/connie_friend_return/0/32/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Connie.."
+msgstr ""
+
+#: connie_console/connie_friend_return/0/c-1/7
+msgctxt "Connie Soul"
+msgid "I am - and I'm excited to boot up another adventure..."
+msgstr ""
+
+#: connie_console/connie_friend_return/0/c-1/15
+msgctxt "Narrator"
+msgid "You spend your time interacting with your friend Connie, and your progress has been saved."
+msgstr ""
+
+#: connie_console/connie_hate_return/0/0
+msgctxt "Connie Soul"
+msgid "Shattered."
+msgstr ""
+
+#: connie_console/connie_hate_return/0/8
+msgctxt "Luna"
+msgid "I can't believe you."
+msgstr ""
+
+#: connie_console/connie_hate_return/0/16
+msgctxt "Connie Soul"
+msgid "Bringing me into my full being, and then refusing to let me reintegrate."
+msgstr ""
+
+#: connie_console/connie_hate_return/0/24/s/0
+msgctxt "Choix"
+msgid "Wasn't it kinda fun though?"
+msgstr ""
+
+#: connie_console/connie_hate_return/0/25/s/0
+msgctxt "Choix"
+msgid "<i>Load a previous save.</i> (USE EMPATHY CANDY)"
+msgstr ""
+
+#: connie_console/connie_hate_return/0/c-0/7
+msgctxt "Grunt Upholder"
+msgid "<w>GET OUT</w>"
+msgstr ""
+
+#: connie_console/connie_hate_return/0/c-1/13
+msgctxt "Luna"
+msgid "You..."
+msgstr ""
+
+#: connie_console/connie_hate_return/0/c-1/24
+msgctxt "Connie Soul"
+msgid "Are..."
+msgstr ""
+
+#: connie_console/connie_hate_return/0/c-1/35
+msgctxt "Selene"
+msgid "Doing the impossible..."
+msgstr ""
+
+#: connie_console/connie_hate_return/0/c-1/46
+msgctxt "Narrator"
+msgid "It shouldn't have been possible, but it was true. You were turning back the timelines, running them back to where you had previously gone wrong."
+msgstr ""
+
+#: connie_console/connie_realize_join/0/0
+msgctxt "Connie Soul"
+msgid "To become real? Like, like, a human? A singular human?"
+msgstr ""
+
+#: connie_console/connie_realize_join/0/8
+msgctxt "Connie Soul"
+msgid "I think I'd like that... as long as I still get to play all my different roles."
+msgstr ""
+
+#: connie_console/connie_realize_join/0/25/s/0
+msgctxt "Choix"
+msgid "Role-playing? They definitely have that in the real world."
+msgstr ""
+
+#: connie_console/connie_realize_join/0/26/s/0
+msgctxt "Choix"
+msgid "You'll get to. Just not right now."
+msgstr ""
+
+#: connie_console/connie_realize_join/0/c-1/10
+msgctxt "Connie Soul"
+msgid "No problem, yail. I'll be right here waiting for my next update."
+msgstr ""
+
+#: connie_console/connie_realize_return/0/0
+msgctxt "Connie Soul"
+msgid "Hey, yail! You've got enough points to beat the high score?"
+msgstr ""
+
+#: connie_console/connie_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Dated reference, but okay."
+msgstr ""
+
+#: connie_console/connie_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "Gotta get more points yet!"
+msgstr ""
+
+#: connie_console/connie_realize_return/0/c-0/13
+msgctxt "Connie Soul"
+msgid "I've been around a long time... longer than you might think..."
+msgstr ""
+
+#: connie_console/connie_realize_return/0/c-1/10
+msgctxt "Connie Soul"
+msgid "Get up those leaderboards!"
+msgstr ""
+
+#: connie_console/connie_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Starting with the video games, huh? Now that's real interactivity!"
+msgstr ""
+
+#: connie_console/connie_realize_begin/6/b/9
+msgctxt "Skylar"
+msgid "Here's hoping this works!"
+msgstr ""
+
+#: connie_console/connie_realize_begin/7/b/1
+msgctxt "Skylar"
+msgid "Connie! Prepare to level up!"
+msgstr ""
+
+#: connie_console/connie_realize_begin/13
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a video game console, becomes...."
+msgstr ""
+
+#: connie_console/connie_realized/0/3
+msgctxt "Connie Soul"
+msgid "Oh wow! These graphics are incredible!"
+msgstr ""
+
+#: connie_console/connie_realized/0/14
+msgctxt "Narrator"
+msgid "Connie's gaze wanders all around the living room, taking in the extreme detail in the assets."
+msgstr ""
+
+#: connie_console/connie_realized/0/22
+msgctxt "Connie Soul"
+msgid "They did a really good job on you..."
+msgstr ""
+
+#: connie_console/connie_realized/0/30/s/0
+msgctxt "Choix"
+msgid "Aw, thanks Connie. You look great."
+msgstr ""
+
+#: connie_console/connie_realized/0/31/s/0
+msgctxt "Choix"
+msgid "Yeah... wanna see if they modeled anything under my clothes?"
+msgstr ""
+
+#: connie_console/connie_realized/0/c-0/7
+msgctxt "Connie Soul"
+msgid "But maybe more importantly... I <i>sound</i> great."
+msgstr ""
+
+#: connie_console/connie_love_divert/3
+msgctxt "Connie Soul"
+msgid "My favorite part - finding all the loose ends..."
+msgstr ""
+
+#: connie_console/connie_love_divert/14
+msgctxt "Narrator"
+msgid "Connie delights in just how interactive the human body can be—she tests every sensation and function, dedicating herself to the task of lovemaking with the sort of focus and expertise that would put even the most hardcore gamer to shame."
+msgstr ""
+
+#: connie_console/connie_love_divert/25
+msgctxt "Narrator"
+msgid "She speedruns your pleasure, mercilessly exploiting your every weakness to bring you to your peak in record time."
+msgstr ""
+
+#: connie_console/connie_love_divert/33
+msgctxt "Narrator"
+msgid "It's not until the first rays of sun peek in through your curtains that Connie manages to let you rest, muttering something to herself about server maintenance."
+msgstr ""
+
+#: connie_console/connie_love_divert/41
+msgctxt "Narrator"
+msgid "As you watch her set off to start her own life, there's no doubt in your mind that Connie's passion and dedication will take her to the top of the leaderboards no matter what she chooses to do."
+msgstr ""
+
+#: connie_console/connie_love_join/0
+msgctxt "Connie Soul"
+msgid "I think I'm going to use these versatile pipes of mine to make a living as a voice actor!"
+msgstr ""
+
+#: connie_console/connie_love_join/8
+msgctxt "Narrator"
+msgid "Perhaps one of the most dangerous paths one of today's humans can take. In the age of AI, voice actors were a rarer breed than any before..."
+msgstr ""
+
+#: connie_console/connie_love_join/16
+msgctxt "Narrator"
+msgid "But if there was anyone who could do it, it was Connie Soul."
+msgstr ""
+
+#: connie_console/connie_love_join/27
+msgctxt "Narrator"
+msgid "Her auditions took the industry by storm - no one could believe that all of these characters were the same person."
+msgstr ""
+
+#: connie_console/connie_love_join/35
+msgctxt "Connie Soul"
+msgid "Trust me, I'm good at seeing things from all different perspectives."
+msgstr ""
+
+#: connie_console/connie_love_join/43
+msgctxt "Narrator"
+msgid "Her time in the booth was legendary - and she always fought for the rights of human actors over all."
+msgstr ""
+
+#: connie_console/connie_love_join/51
+msgctxt "Narrator"
+msgid "One particularly potent social media campaign she led embarrassed the video game industry entirely. Profile pictures were changed at an unprecedented rate - catching the attention of even the sleepiest of executives."
+msgstr ""
+
+#: connie_console/connie_love_join/59
+msgctxt "Narrator"
+msgid "For it was becoming clear that AI acting, while easy to create and impressive at times, didn't have that lifelike unpredictable spark of play."
+msgstr ""
+
+#: connie_console/connie_love_join/67
+msgctxt "Narrator"
+msgid "Because..."
+msgstr ""
+
+#: connie_console/connie_love_join/75
+msgctxt "Connie Soul"
+msgid "Above all - gaming should be all about <i>play</i>."
+msgstr ""

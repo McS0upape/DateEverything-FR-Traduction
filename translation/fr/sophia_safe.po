@@ -1,0 +1,4069 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: sophia_safe/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "SAFE"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/3
+msgctxt "Skylar"
+msgid "Woah there! My Content Aware has given me a tickle!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/11
+msgctxt "Skylar"
+msgid "Sophia here is a dominatrix, and she's gonna put you in some pretty dominating scenarios."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/19
+msgctxt "Skylar"
+msgid "You cool with that? Or you want to skip it?"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/27/s/0
+msgctxt "Choix"
+msgid "Let's skip this please!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/28/s/0
+msgctxt "Choix"
+msgid "No, I'm okay with this type of stuff."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/16
+msgctxt "Skylar"
+msgid "No worries - Sophia, c'mere a second."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/24
+msgctxt "Sophia"
+msgid "I am here."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/32
+msgctxt "Narrator"
+msgid "How would you like your relationship with Sophia to resolve?"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "Love!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/1/s/0
+msgctxt "Choix"
+msgid "Friendship!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/2/s/0
+msgctxt "Choix"
+msgid "Hate!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-0/7
+msgctxt "Narrator"
+msgid "You've chosen the safe option and made Sophia your lover."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-0/15
+msgctxt "Skylar"
+msgid "It's love!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-0/20 sophia_safe/skylar_sophia_content/0/c-0/37/c-1/23 sophia_safe/skylar_sophia_content/0/c-0/37/c-2/20
+msgctxt "Sophia"
+msgid "Fine."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-0/43 sophia_safe/skylar_sophia_content/0/c-0/37/c-1/51 sophia_safe/skylar_sophia_content/0/c-0/37/c-2/43
+msgctxt "Skylar"
+msgid "See you out there on the next one!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-1/7
+msgctxt "Narrator"
+msgid "You've chosen the safest option and made Sophia your friend."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-1/15
+msgctxt "Skylar"
+msgid "What say the two of you just be friends, huh?"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-1/31
+msgctxt "Skylar"
+msgid "Aww... friends forever."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-2/7
+msgctxt "Narrator"
+msgid "You've chosen a rather unsafe option and made Sophia your enemy!"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-2/15
+msgctxt "Skylar"
+msgid "Enjoy your... hateship."
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-0/37/c-2/73 sophia_safe/sophia_hate_ending/80
+msgctxt "Reggie"
+msgid "You just couldn't crack her, could ya?"
+msgstr ""
+
+#: sophia_safe/skylar_sophia_content/0/c-1/7
+msgctxt "Skylar"
+msgid "On with the show!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/6
+msgctxt "Narrator"
+msgid "A leather-clad dominatrix stares you down, radiating disdain. She looks at you like you're the dirt beneath her feet."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/14
+msgctxt "Sophia"
+msgid "Hello you pathetic, worthless, little wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/0
+msgctxt "Sophia"
+msgid "I do not recall asking anyone for your presence."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/8
+msgctxt "Sophia"
+msgid "So, indulge me: what gives you the misguided confidence to stand here before me wasting my time?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/16/s/0
+msgctxt "Choix"
+msgid "Heck I just like meeting new people"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/17/s/0
+msgctxt "Choix"
+msgid "Rude much?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/18/s/0
+msgctxt "Choix"
+msgid "I’m sorry, I didn’t mean to bother you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-0/7
+msgctxt "Sophia"
+msgid "How tedious."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I dunno, I've met some pretty cool people. Do you know Randy?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-0/15/c-0/7
+msgctxt "Sophia"
+msgid "No, luckily I don't know, Randy. Listen, wretch..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-1/7
+msgctxt "Sophia"
+msgid "Rude?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-1/15
+msgctxt "Sophia"
+msgid "Rude is presuming that your insipid presence is worthy of an ounce my attention."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-1/23
+msgctxt "Sophia"
+msgid "And your obnoxious attitude so far has done little to convince me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "I can try harder?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-1/31/c-0/7
+msgctxt "Sophia"
+msgid "I doubt it'd make much difference."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-1/31/c-0/15
+msgctxt "Sophia"
+msgid "But if you insist..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-2/7
+msgctxt "Sophia"
+msgid "So submissive so quickly. That's very good, wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-2/15
+msgctxt "Sophia"
+msgid "You clearly know your place."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "I'm great with social cues."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "Yes, ma'am."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-2/23/2/s/0
+msgctxt "Choix"
+msgid "Yeah I've only gotten lost in it once!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-2/23/c-0/7
+msgctxt "Sophia"
+msgid "I'll be the judge of that."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/35/c-2/23/c-2/7
+msgctxt "Sophia"
+msgid "That's not what I... nevermind."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/0
+msgctxt "Sophia"
+msgid "We obviously haven’t met before, so I want to be clear."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/8
+msgctxt "Sophia"
+msgid "Going forward, you will address me as mistress if you wish to continue this conversation"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/16
+msgctxt "Sophia"
+msgid "Is that understood, wretch?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/24/s/0 sophia_safe/sophia_encounter1/0/g-8/43/s/0 sophia_safe/sophia_encounter2/0/g-4/40/s/0 sophia_safe/sophia_encounter2/0/g-11/24/s/0 sophia_safe/sophia_encounter_elf/0/20/s/0
+msgctxt "Choix"
+msgid "Yes, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "I guess, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Sure whatever, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/c-3/13
+msgctxt "Sophia"
+msgid "Very good."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/c-4/7
+msgctxt "Sophia"
+msgid "Your groveling is lackluster."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/c-4/15
+msgctxt "Sophia"
+msgid "But I'll mold you into a compliant, little toy, yet."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/c-5/13
+msgctxt "Sophia"
+msgid "Your lack of respect displeases me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/c-5/24
+msgctxt "Sophia"
+msgid "I'd watch my tongue if I were you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-0/c-5/32/0/s/0
+msgctxt "Choix"
+msgid "Seems difficult, but I'll do my best."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/0
+msgctxt "Sophia"
+msgid "Now, I know what you’re thinking."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/8
+msgctxt "Sophia"
+msgid "Why would a perfectly successful safe like myself throw away her prosperous and fruitful career in the burgeoning vault industry..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/16
+msgctxt "Sophia"
+msgid "...to become a mistress to all the lost, pathetic, and broken creatures of this world."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "It crossed my mind."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "I feel like you’ll tell me either way."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/26/s/0
+msgctxt "Choix"
+msgid "Wait you’re a safe too?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/7
+msgctxt "Sophia"
+msgid "Yes, I'm predominantly a safe."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/15
+msgctxt "Sophia"
+msgid "This has very clearly been established."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/23/0/s/0
+msgctxt "Choix"
+msgid "Got it."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/23/1/s/0
+msgctxt "Choix"
+msgid "Has it though?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/23/2/s/0
+msgctxt "Choix"
+msgid "So is being a dominatrix like a side hustle?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/23/c-1/7
+msgctxt "Sophia"
+msgid "Yes. Thoroughly."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/23/c-2/7
+msgctxt "Sophia"
+msgid "It's a lifestyle choice."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/23/c-2/15
+msgctxt "Sophia"
+msgid "Can we please move on?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-1/c-8/23/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Yep."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-2/0
+msgctxt "Sophia"
+msgid "Tell me wretch, do you know what a safe is good at?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Puttin’ stuff into?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Attracting robbers?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "Surviving house fires?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/0
+msgctxt "Sophia"
+msgid "An acceptable, if asinine, answer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/8
+msgctxt "Sophia"
+msgid "But the one thing a safe is good at - tantalizingly good at - is keeping things locked away."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/16
+msgctxt "Sophia"
+msgid "Valuables. Memories. And very often: secrets."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/24
+msgctxt "Sophia"
+msgid "Deep, dark, very dirty secrets."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/32
+msgctxt "Sophia"
+msgid "The kind of secrets that everyone secretly longs for - aches for - but diligently keep hidden far from everyone: even, if necessary, from themselves."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/40
+msgctxt "Sophia"
+msgid "Do you have any dirty, little secrets like that, wretch?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/48/s/0
+msgctxt "Choix"
+msgid "I definitely do now."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/49/s/0
+msgctxt "Choix"
+msgid "Actually I’m pretty open."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/50/s/0
+msgctxt "Choix"
+msgid "The cops couldn’t prove anything, and neither will you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/c-12/13
+msgctxt "Sophia"
+msgid "Of course you do. I expected nothing less."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/c-13/7
+msgctxt "Sophia"
+msgid "Perhaps. We'll see about that..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-3/c-14/13
+msgctxt "Sophia"
+msgid "Underestimate me at your own peril."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/0
+msgctxt "Sophia"
+msgid "You intrigue me, wretch... in the way a drowning kitten might intrigue a jaguar."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/8
+msgctxt "Sophia"
+msgid "So sad, helpless, and ultimately pathetic."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/16
+msgctxt "Sophia"
+msgid "You possess a feebleness that instinctually repulses me - yet if I save you, you may prove yourself of use to me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/24
+msgctxt "Sophia"
+msgid "The only question is: do I waste my precious time letting you serve me? Or do I leave you to drown in your own ineptitude?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/35/s/0
+msgctxt "Choix"
+msgid "Whatever mistress wishes."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/36/s/0
+msgctxt "Choix"
+msgid "Honestly, I’m pretty cool with whatever."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/37/s/0
+msgctxt "Choix"
+msgid "Well, obviously drowning is bad."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/c-15/13
+msgctxt "Sophia"
+msgid "Very good answer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/c-15/24
+msgctxt "Sophia"
+msgid "Alright then, wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/c-16/7
+msgctxt "Sophia"
+msgid "So wishy-washy and non committal. Like a spineless doormat."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/c-16/18
+msgctxt "Sophia"
+msgid "Your weakness disgusts me. However..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/c-17/13
+msgctxt "Sophia"
+msgid "And yet it'd save me from having to listen to your endless whining."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-4/c-17/21
+msgctxt "Sophia"
+msgid "God your insolence is irritating. And yet..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/0
+msgctxt "Sophia"
+msgid "Against my better judgement - and because things have been so frightfully boring lately - I’ll allow you the opportunity to serve me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/8
+msgctxt "Sophia"
+msgid "You should count yourself extremely lucky."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/16
+msgctxt "Sophia"
+msgid "Not everyone is given such an incredible, life-altering opportunity."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/24
+msgctxt "Sophia"
+msgid "And rarely do I make this offer to worms as painfully tragic as yourself."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/32/s/0
+msgctxt "Choix"
+msgid "Thank you, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/33/s/0
+msgctxt "Choix"
+msgid "Sounds fun."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/34/s/0
+msgctxt "Choix"
+msgid "Hey as long as it’s free."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-18/13
+msgctxt "Sophia"
+msgid "Of course. Anything for my compliant, little wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-18/21
+msgctxt "Sophia"
+msgid "I can't wait to test just how compliant you truly are."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-19/7
+msgctxt "Sophia"
+msgid "Only if you haven't been listening."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-19/15
+msgctxt "Sophia"
+msgid "But in time you'll learn to pay better attention."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-19/23
+msgctxt "Sophia"
+msgid "I'll make very sure of that."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-20/13
+msgctxt "Sophia"
+msgid "Well, legally it has to be free."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-20/21
+msgctxt "Sophia"
+msgid "This isn't Europe."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-20/29/0/s/0
+msgctxt "Choix"
+msgid "It might be? But continue..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-20/29/1/s/0
+msgctxt "Choix"
+msgid "How do you know? You're just a safe."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-5/c-20/29/c-1/7
+msgctxt "Sophia"
+msgid "Your flagrant disrespect aside, I still think there's an opportunity for this arrangement to cure my boredom."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-6/0
+msgctxt "Sophia"
+msgid "And who knows, perhaps in the end, you may even have the opportunity to open up my chassis."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-6/8
+msgctxt "Sophia"
+msgid "That is, if you are skillful enough to figure out the combination..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-6/19/s/0
+msgctxt "Choix"
+msgid "<i>1234</i>"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-6/20/s/0
+msgctxt "Choix"
+msgid "<i>Your mother’s maiden name</i>"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-6/21/s/0
+msgctxt "Choix"
+msgid "<i>Password</i>"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-6/22/s/0
+msgctxt "Choix"
+msgid "There's no combination - I just have to fall in love with you!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/0
+msgctxt "Sophia"
+msgid "Careful. You’re getting very far ahead of yourself, wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/8
+msgctxt "Sophia"
+msgid "I don’t open up my chassis for just anyone, and especially not for someone as pathetic as you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/16
+msgctxt "Sophia"
+msgid "Apologize for your insolence, or face your punishment."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/24/s/0
+msgctxt "Choix"
+msgid "My sincere apologies, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/25/s/0
+msgctxt "Choix"
+msgid "I apologize for nothing."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/26/s/0
+msgctxt "Choix"
+msgid "Ooo, what kind of punishment?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-25/13
+msgctxt "Sophia"
+msgid "Very good. Your mistress is pleased."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/13
+msgctxt "Sophia"
+msgid "Oh come on now! You're not even trying!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/0/s/0
+msgctxt "Choix"
+msgid "Not really, no. Why should I?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/7
+msgctxt "Sophia"
+msgid "Seriously?! Why should you?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/15
+msgctxt "Sophia"
+msgid "Because otherwise you're just wasting my time."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/23
+msgctxt "Sophia"
+msgid "Look, straight up. I’m trying really hard to do a good job with this mistress thing."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/31
+msgctxt "Sophia"
+msgid "Truthfully, this is all uncharted terrain for me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/39
+msgctxt "Sophia"
+msgid "Yeah sure, it started as a side hustle for some supplemental income to cover my skyrocketing electric bill, but I’m taking it extremely seriously."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/47
+msgctxt "Sophia"
+msgid "But if you’re just going to keep screwing around and wasting my time, then neither of us are gonna get our rocks off."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/55
+msgctxt "Sophia"
+msgid "Is that what you want?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/66/0/s/0
+msgctxt "Choix"
+msgid "Absolutely not, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/66/1/s/0
+msgctxt "Choix"
+msgid "No, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/66/2/s/0
+msgctxt "Choix"
+msgid "You should try switching to LED lighting."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/66/c-2/13
+msgctxt "Sophia"
+msgid "I'll take it under consideration."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/66/c-2/21
+msgctxt "Sophia"
+msgid "But only if you show me you're taking this relationship seriously."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-26/24/c-0/66/c-2/29/0/s/0
+msgctxt "Choix"
+msgid "Ok deal."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-27/7
+msgctxt "Sophia"
+msgid "That knowledge is reserved for gutless, little reprobates who pledge their fealty."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-27/15
+msgctxt "Sophia"
+msgid "Does that sound like you?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-27/23/0/s/0
+msgctxt "Choix"
+msgid "Most definitely, mistress!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-27/23/1/s/0
+msgctxt "Choix"
+msgid "Yeah why not."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-27/23/2/s/0
+msgctxt "Choix"
+msgid "But I'm still in possession of all my guts!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-7/c-27/23/c-2/7
+msgctxt "Sophia"
+msgid "I'll make an exception."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/0
+msgctxt "Sophia"
+msgid "Ok. It sounds like you’re willing to do the necessary emotional work to take this relationship seriously."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/8
+msgctxt "Sophia"
+msgid "In that case, be back here tomorrow to fill out all the paperwork."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/16
+msgctxt "Sophia"
+msgid "There’s some important ground rules we need to firmly establish before we take this any further."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/24
+msgctxt "Sophia"
+msgid "But once we get that out of the way, I’ll open up your dirty, little mind to fantasies you’d dare not even whisper."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/32
+msgctxt "Sophia"
+msgid "Now: affirm that you are my compliant, needy, little wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/44/s/0 sophia_safe/sophia_encounter_irs/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "No."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/c-29/13
+msgctxt "Sophia"
+msgid "I see. If that's really what you want."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/c-29/21
+msgctxt "Sophia"
+msgid "But in that case, we appear to be incompatible."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-8/c-29/29
+msgctxt "Sophia"
+msgid "If you wish to speak with me again, do so with more respect."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-9/0
+msgctxt "Sophia"
+msgid "Again! Like you mean it."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-9/11
+msgctxt "Sophia"
+msgid "Like you’d unquestioningly do absolutely anything I’d ask of you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-9/19
+msgctxt "Sophia"
+msgid "Tell me that you’re my compliant, needy, little wretch. Now."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-9/27/s/0
+msgctxt "Choix"
+msgid "Yes, mistress! I am your compliant, needy, little wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-9/28/s/0
+msgctxt "Choix"
+msgid "I can’t say that with a straight face, but I’ll be back anyway."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-9/29/s/0
+msgctxt "Choix"
+msgid "Aye-aye Captain!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-9/c-30/13
+msgctxt "Sophia"
+msgid "Very, very good."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-10/0
+msgctxt "Sophia"
+msgid "Then I will see you back here tomorrow, wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter1/0/g-10/8
+msgctxt "Sophia"
+msgid "Do not keep me waiting."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/6/b/1
+msgctxt "Sophia"
+msgid "My dear dear little wretch. You are late."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/7/b/1
+msgctxt "Sophia"
+msgid "You seem to be late. Unexpectedly so..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/8/b/1
+msgctxt "Sophia"
+msgid "You’re late, as I assumed you would be."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/11/s/0
+msgctxt "Choix"
+msgid "I’m sorry, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/12/s/0
+msgctxt "Choix"
+msgid "Sorry! Traffic was nuts. And then I blew a tire..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/13/s/0
+msgctxt "Choix"
+msgid "Oh shoot my clock must’ve been set to GMT again."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-0/0
+msgctxt "Sophia"
+msgid "Pathetic."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-0/11
+msgctxt "Sophia"
+msgid "I hope you’re aware, if you’d already filled out all the necessary paperwork I’d punish you for that transgression."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-0/19
+msgctxt "Sophia"
+msgid "I’d punish you... severely."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "Then let’s get to that paperwork! Yep there's nothing I love more than filling out paperwork!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "Sorry. My ADHD gives me chronic time blindness."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-0/29/s/0
+msgctxt "Choix"
+msgid "My college botany professor used to say the same thing."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/0
+msgctxt "Sophia"
+msgid "God must you prattle on so incessantly?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/8
+msgctxt "Sophia"
+msgid "Listening to your pitiful yammering is like nails on a chalkboard."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/16
+msgctxt "Sophia"
+msgid "Do us both a favor and keep your grating, unintelligible blatherings to the barest of minimums."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/24
+msgctxt "Sophia"
+msgid "My delicate ears deserve only the best, don’t you agree?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "Without question, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "I can recommend some great ear plugs."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/34/s/0
+msgctxt "Choix"
+msgid "My college botany professor used to say that too."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-7/7
+msgctxt "Sophia"
+msgid "Not necessary, but I do appreciate the pitiful attempts to earn my approval."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-7/15
+msgctxt "Sophia"
+msgid "Watching you squirm is quite satisfying."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-7/23/0/s/0
+msgctxt "Choix"
+msgid "No sweat!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-8/13
+msgctxt "Sophia"
+msgid "I'm sorry... are you trying to shoehorn your teacher into this roleplay?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-8/24
+msgctxt "Sophia"
+msgid "Because that's really not my kink."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-8/32
+msgctxt "Sophia"
+msgid "And we're here to please me, remember? To fulfill my desires."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-8/40
+msgctxt "Sophia"
+msgid "Your pathetic needs are irrelevant drivel. Understand?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-8/48/0/s/0
+msgctxt "Choix"
+msgid "Ok, geez."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-1/c-8/48/1/s/0
+msgctxt "Choix"
+msgid "Understood, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/0
+msgctxt "Sophia"
+msgid "Not to interrupt, but quick check-in:"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/8
+msgctxt "Sophia"
+msgid "That wasn’t too harsh was it? The whole \"unintelligible blatherings\" angle?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/16
+msgctxt "Sophia"
+msgid "Definitely let me know if I’m being too harsh."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/24
+msgctxt "Sophia"
+msgid "Like I absolutely wanna treat you like you’re worthless garbage that completely repulses me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/32
+msgctxt "Sophia"
+msgid "That’s basically how I feel anyways."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/40
+msgctxt "Sophia"
+msgid "But I want it to be hot - not sad - ya know?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/48/s/0
+msgctxt "Choix"
+msgid "You treat me as I deserve, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/49/s/0
+msgctxt "Choix"
+msgid "You’re doing great, slugger!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/50/s/0
+msgctxt "Choix"
+msgid "I feel both hot and sad. It’s confusing."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/51/s/0 sophia_safe/sophia_encounter2/0/g-14/43/s/0
+msgctxt "Choix"
+msgid "Absolutely, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/52/s/0
+msgctxt "Choix"
+msgid "As long as there’s no polyester. I’m super allergic."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/53/s/0
+msgctxt "Choix"
+msgid "Count me in."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/54/s/0
+msgctxt "Choix"
+msgid "This is triggering my merinthophobia."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-11/13
+msgctxt "Sophia"
+msgid "Perfect!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-11/21
+msgctxt "Sophia"
+msgid "It pleases me that you know your place, and are acclimating to your new reality of servitude."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-11/29
+msgctxt "Sophia"
+msgid "But in order to make your complete and total subjugation official, we must first make it contractual."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-11/37
+msgctxt "Sophia"
+msgid "And once it is legally binding... we can make it physically binding."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-11/45
+msgctxt "Sophia"
+msgid "And I’d love to finally see my little wretch all tied up, wouldn’t you?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-13/13
+msgctxt "Sophia"
+msgid "I'll take it under advisement."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-15/13
+msgctxt "Sophia"
+msgid "Interesting choice of words... then you are experienced, no?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-15/21/0/s/0
+msgctxt "Choix"
+msgid "I dabble."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-15/21/1/s/0
+msgctxt "Choix"
+msgid "No, just a wiki article I read."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-2/c-15/21/c-0/7
+msgctxt "Sophia"
+msgid "Excellent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-3/0
+msgctxt "Sophia"
+msgid "Enough flirting! We have business to attend to."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-3/11
+msgctxt "Sophia"
+msgid "First, I will need you to consent to my complete and total authority."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-3/19
+msgctxt "Sophia"
+msgid "You will surrender yourself to me, making you compliant, dependent, and subjugated to my will and my will alone."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-3/27
+msgctxt "Sophia"
+msgid "Do you consent, wretch?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-3/35/s/0
+msgctxt "Choix"
+msgid "I consent, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-3/36/s/0
+msgctxt "Choix"
+msgid "Sure what the heck."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-3/37/s/0
+msgctxt "Choix"
+msgid "I’m already classified as a dependent on my taxes, so this isn’t new."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/0
+msgctxt "Sophia"
+msgid "Very good, my little wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/8
+msgctxt "Sophia"
+msgid "It appears that you can follow orders well; at least when you put your mind to it."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/16
+msgctxt "Sophia"
+msgid "That will suit you very well in your new position."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/24
+msgctxt "Sophia"
+msgid "And if you keep doing as I say, perhaps there are some other new positions we can try with you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/32
+msgctxt "Sophia"
+msgid "But first, your mistress has another demand."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/41/s/0
+msgctxt "Choix"
+msgid "Hit me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/42/s/0
+msgctxt "Choix"
+msgid "Seriously another one already?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/c-21/13
+msgctxt "Sophia"
+msgid "Yes, that's what we're doing here, genius."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/c-21/27
+msgctxt "Sophia"
+msgid "I make demands of you, and you comply. That's the whole shebang."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-4/c-21/38
+msgctxt "Sophia"
+msgid "Now as I was saying..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/0
+msgctxt "Sophia"
+msgid "As you now have responsibilities to me, I too have responsibilities to you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/8
+msgctxt "Sophia"
+msgid "And above all else, it is my responsibility to ensure your emotional and physical safety."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/16
+msgctxt "Sophia"
+msgid "For in order to be fully subservient to my needs, you must feel fully secure."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/24
+msgctxt "Sophia"
+msgid "That said, in order to ensure the safety of my compliant, little wretch, it’s necessary for you and I to have a safeword."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/32
+msgctxt "Sophia"
+msgid "This is of utmost importance, especially since I am, after all, a safe."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/40/s/0
+msgctxt "Choix"
+msgid "I completely agree, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/41/s/0
+msgctxt "Choix"
+msgid "Oh \"safe\" word! I get it! ‘Cause you’re a safe!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/42/s/0
+msgctxt "Choix"
+msgid "This isn’t something I have to memorize, right?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-23/7
+msgctxt "Sophia"
+msgid "Yeah. I just said that."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-23/15/0/s/0
+msgctxt "Choix"
+msgid "Bossy and hilarious! Please continue."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-23/15/1/s/0
+msgctxt "Choix"
+msgid "You did just say that."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/13
+msgctxt "Sophia"
+msgid "What? No, you definitely are going to have to memorize it."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/0/s/0
+msgctxt "Choix"
+msgid "Gotcha. Ok. Can do."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/1/s/0
+msgctxt "Choix"
+msgid "Can we keep it to like 2-3 syllables then?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/2/s/0
+msgctxt "Choix"
+msgid "Crap. I'm not good at memorizing stuff."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-1/7
+msgctxt "Sophia"
+msgid "Yeah sure fine whatever you need."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/7
+msgctxt "Sophia"
+msgid "Well then we'll come up with a mnemonic device or something."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Great."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "What's a \"mnemonic device\"?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/2/s/0
+msgctxt "Choix"
+msgid "But what if I'm like the guy in Mementos?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-1/7
+msgctxt "Sophia"
+msgid "It's a technique used to memorize things."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-1/15
+msgctxt "Sophia"
+msgid "We can get into it later if absolutely necessary."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-1/23
+msgctxt "Sophia"
+msgid "But getting back to the issue at hand..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-2/7
+msgctxt "Sophia"
+msgid "The guy in Mementos?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-2/15
+msgctxt "Sophia"
+msgid "So like what? You've got anterograde amnesia?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Yeah forget it. That's stupid. You were saying?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "Exactly!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-2/23/c-1/13
+msgctxt "Sophia"
+msgid "I think you'd know if you had anterograde amnesia."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-2/23/c-1/21/0/s/0
+msgctxt "Choix"
+msgid "Not necessarily. 'Cause of the amnesia."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-5/c-24/21/c-2/15/c-2/23/c-1/21/c-0/7
+msgctxt "Sophia"
+msgid "Fascinating. Anyway..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/0
+msgctxt "Sophia"
+msgid "Usually I would choose our safeword."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/8
+msgctxt "Sophia"
+msgid "But since you’ve been doing such a good job today - and because I’m feeling particularly generous - perhaps I’ll let you pick."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/16
+msgctxt "Sophia"
+msgid "Do you have one in mind?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/24/s/0
+msgctxt "Choix"
+msgid "Linguini"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/25/s/0
+msgctxt "Choix"
+msgid "Gesundheit"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/26/s/0
+msgctxt "Choix"
+msgid "Safe"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/27/s/0
+msgctxt "Choix"
+msgid "Stop"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/c-25/7
+msgctxt "Sophia"
+msgid "Linguini..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/c-26/7
+msgctxt "Sophia"
+msgid "Gesundheit..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/c-27/7
+msgctxt "Sophia"
+msgid "Your safeword... is 'safe'..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-6/c-28/7
+msgctxt "Sophia"
+msgid "Your safeword... is 'stop'..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-7/0
+msgctxt "Sophia"
+msgid "Mmm. Oh, I love that. That’s such a sensual safeword."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-7/8
+msgctxt "Sophia"
+msgid "Did my little wretch come up with that all by themselves?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-7/16/s/0
+msgctxt "Choix"
+msgid "You inspired me, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-7/17/s/0
+msgctxt "Choix"
+msgid "I’ve got a lot of practice with safewords."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-7/18/s/0
+msgctxt "Choix"
+msgid "It was my Grandma’s name. I miss her."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/0
+msgctxt "Sophia"
+msgid "Interesting, I see."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/8
+msgctxt "Sophia"
+msgid "Maybe there’s more to this pathetic, little wretch than meets the eye."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/16
+msgctxt "Sophia"
+msgid "Of course, we’ll have to put you through the paces to discover how depraved you really are."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/24
+msgctxt "Sophia"
+msgid "Would my little wretch like that?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/32/s/0
+msgctxt "Choix"
+msgid "Yes please, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/33/s/0
+msgctxt "Choix"
+msgid "That’d make me happier than a clam at high water."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/34/s/0
+msgctxt "Choix"
+msgid "Ok but honestly I’m not super depraved."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/c-32/13
+msgctxt "Sophia"
+msgid "Good. Compliant and subservient."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/c-32/24
+msgctxt "Sophia"
+msgid "You’re off to a promising start."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/c-33/7
+msgctxt "Sophia"
+msgid "Oh come now, I know my little wretch can be more flirtatious than that."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/c-33/15/0/s/0
+msgctxt "Choix"
+msgid "You're right, mistress. Happier than a turkey on President's Day."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/c-33/15/c-0/7
+msgctxt "Sophia"
+msgid "I don't even know what that means."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/c-33/15/c-0/15
+msgctxt "Sophia"
+msgid "But at least we're making progress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-8/c-34/13
+msgctxt "Sophia"
+msgid "You will be when I'm finished with you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/0
+msgctxt "Sophia"
+msgid "But before we truly begin, I have one last issue that’s been bothering me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/8
+msgctxt "Sophia"
+msgid "Between you and me, I’ve become incredibly bored with most of my other... let’s call them relationships."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/16
+msgctxt "Sophia"
+msgid "They’ve become routine and uninspired."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/24
+msgctxt "Sophia"
+msgid "They’re stale, and this displeases me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/32/s/0
+msgctxt "Choix"
+msgid "I’m so sorry, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/33/s/0
+msgctxt "Choix"
+msgid "Polyamory problems, amiright? I'm in a LOT of relationships."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/34/s/0
+msgctxt "Choix"
+msgid "Seems tough."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/c-35/13
+msgctxt "Sophia"
+msgid "It's alright."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/c-36/13
+msgctxt "Sophia"
+msgid "So I've heard..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-9/c-37/7 sophia_safe/sophia_encounter_irs/0/g-8/c-30/7
+msgctxt "Sophia"
+msgid "You have no idea."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/0
+msgctxt "Sophia"
+msgid "Lucky for me, you came along at just the right time."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/8
+msgctxt "Sophia"
+msgid "It affords us an opportunity to experiment with something new."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/16
+msgctxt "Sophia"
+msgid "I think perhaps - to ensure you reach your full potential - we shake off the oppressive shackles of our everyday hum-drum reality."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/24 sophia_safe/sophia_encounter2/0/g-14/35
+msgctxt "Sophia"
+msgid "Do you understand?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/35/s/0
+msgctxt "Choix"
+msgid "You want me to quit my job, mistress?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/36/s/0
+msgctxt "Choix"
+msgid "Like we incorporate VR or something?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/37/s/0
+msgctxt "Choix"
+msgid "Wait is this a drugs thing?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/c-38/13
+msgctxt "Sophia"
+msgid "Your devotion and enthusiasm towards complete subjugation is utterly intoxicating. But no."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/c-39/7
+msgctxt "Sophia"
+msgid "Oh that could actually be very kinky..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/c-39/15
+msgctxt "Sophia"
+msgid "But that's not what I meant."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/c-40/7
+msgctxt "Sophia"
+msgid "...no, it's not a \"drugs thing.\""
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-10/c-40/18/0/s/0
+msgctxt "Choix"
+msgid "Cause being drug-free is the ultimate high."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-11/0
+msgctxt "Sophia"
+msgid "Let me try again."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-11/8
+msgctxt "Sophia"
+msgid "I’m thinking in our relationship, we allow ourselves the freedom to expand beyond the limited confines of our stale everyday identities and roles."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-11/16
+msgctxt "Sophia"
+msgid "Do you understand now?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-11/25/s/0
+msgctxt "Choix"
+msgid "Oh roleplay! Gotcha gotcha."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-11/26/s/0
+msgctxt "Choix"
+msgid "I’m still kinda lost, but I’m a quick learner."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/0 sophia_safe/sophia_encounter2/0/g-14/c-50/13 sophia_safe/sophia_elf_pleased/0
+msgctxt "Sophia"
+msgid "Very good, wretch."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/8
+msgctxt "Sophia"
+msgid "Yes, the more I think on it, the more I think this is definitely what I’ve been so desperately craving."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/16
+msgctxt "Sophia"
+msgid "And how lucky am I to have acquired such a pliable, subservient plaything to help me quench my thirst."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/24
+msgctxt "Sophia"
+msgid "All we need now is the appropriate canvas to paint our desire upon."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/32
+msgctxt "Sophia"
+msgid "If you beg for it, I’ll let you choose."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/43
+msgctxt "Sophia"
+msgid "Show me, wretch. Show me how well you can beg."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/51/s/0
+msgctxt "Choix"
+msgid "Please, mistress! Let me prove myself to you!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/52/s/0
+msgctxt "Choix"
+msgid "Come on, mistress! I’m great at choosing things!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-12/53/s/0
+msgctxt "Choix"
+msgid "Uh, this is me begging! Not awkward at all!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/0
+msgctxt "Sophia"
+msgid "So utterly pathetic."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/11
+msgctxt "Sophia"
+msgid "I really shouldn’t reward you for debasing yourself so pitifully."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/19
+msgctxt "Sophia"
+msgid "However, I do so love the sound of begging."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/27
+msgctxt "Sophia"
+msgid "And because you did a satisfactory job, I’ve decided to grant your request."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/35
+msgctxt "Sophia"
+msgid "So wretch, out of these three tantalizing scenarios, which do you think your mistress would enjoy the most..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/43
+msgctxt "Sophia"
+msgid "Chef and Prep Cook, Santa and elf, and finally..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/51
+msgctxt "Sophia"
+msgid "IRS Auditor and Small Business Owner."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/59/s/0 sophia_safe/sophia_menu/0/24/s/0
+msgctxt "Choix"
+msgid "Chef and Prep Cook."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/60/s/0 sophia_safe/sophia_menu/0/25/s/0
+msgctxt "Choix"
+msgid "Santa and Elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-13/61/s/0 sophia_safe/sophia_menu/0/26/s/0
+msgctxt "Choix"
+msgid "IRS Auditor and Small Business Owner."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/0
+msgctxt "Sophia"
+msgid "I should’ve expected that."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/8
+msgctxt "Sophia"
+msgid "A rather pedestrian choice, but perhaps we may find something therein that I still find amusing."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/16
+msgctxt "Sophia"
+msgid "Now: I’ve seen more than enough of your pathetic visage for today."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/27
+msgctxt "Sophia"
+msgid "Be back here same time tomorrow and be ready to serve my every need."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/44/s/0 sophia_safe/sophia_encounter2/0/g-14/c-51/31/1/s/0
+msgctxt "Choix"
+msgid "Okie-dokie artichokie!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/45/s/0
+msgctxt "Choix"
+msgid "I’ve got a dentist appointment, but I’ll move some things around."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/c-51/7
+msgctxt "Sophia"
+msgid "Look just a heads up, \"artichokie\" is a real mood killer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/c-51/15
+msgctxt "Sophia"
+msgid "Like, no one's getting aroused being called \"artichokie.\""
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/c-51/23
+msgctxt "Sophia"
+msgid "Well, maybe this one guy, but not me... Let's just try a little harder next time, ok?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/c-51/31/0/s/0
+msgctxt "Choix"
+msgid "Got it!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-14/c-52/13
+msgctxt "Sophia"
+msgid "Oh goodie. How thoughtful of you to squeeze me in."
+msgstr ""
+
+#: sophia_safe/sophia_encounter2/0/g-15/0 sophia_safe/sophia_elf_pleased/38 sophia_safe/sophia_chef_displeased/35 sophia_safe/sophia_chef_pleased/19 sophia_safe/sophia_irs_pleased/19
+msgctxt "Sophia"
+msgid "I look forward to experiencing your vain attempts to please me."
+msgstr ""
+
+#: sophia_safe/sophia_menu/0/0
+msgctxt "Sophia"
+msgid "You have returned."
+msgstr ""
+
+#: sophia_safe/sophia_menu/0/8
+msgctxt "Sophia"
+msgid "Whelp."
+msgstr ""
+
+#: sophia_safe/sophia_menu/0/16
+msgctxt "Sophia"
+msgid "Choose your destiny."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/12
+msgctxt "Sophia"
+msgid "You, elf, come here! Ho. Ho. Ho."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/21/s/0
+msgctxt "Choix"
+msgid "Of course, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/22/s/0
+msgctxt "Choix"
+msgid "Two secs: I’ve just gotta check my socials real quick."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/c-2/13
+msgctxt "Sophia"
+msgid "This is severely testing my patience, elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/c-2/24/0/s/0
+msgctxt "Choix"
+msgid "Ok ready! Sorry 'bout that mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/0
+msgctxt "Sophia"
+msgid "Mistress? I have no idea who this \"mistress\" is that you are referring to."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/8
+msgctxt "Sophia"
+msgid "My name is Santa Claus, which you - seeing as you are an elf - are obviously quite aware."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/16
+msgctxt "Sophia"
+msgid "So stop these absurd shenanigans immediately; we’ve got an enormous amount of work to do."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/27
+msgctxt "Sophia"
+msgid "Dress yourself."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/38
+msgctxt "Sophia"
+msgid "And the clock is ticking."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/46/s/0
+msgctxt "Choix"
+msgid "Yes, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/47/s/0
+msgctxt "Choix"
+msgid "Can I just say: you’re bangin’ Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/48/s/0
+msgctxt "Choix"
+msgid "Right right. You’re Santa now. Gotcha."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/c-3/13 sophia_safe/sophia_encounter_elf/0/g-7/0
+msgctxt "Sophia"
+msgid "Very good, elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/c-4/7
+msgctxt "Sophia"
+msgid "Yes I'm quite aware, elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-0/c-5/13
+msgctxt "Sophia"
+msgid "Your powers of observation are astounding."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-1/3
+msgctxt "Sophia"
+msgid "Now, as you are well aware, it’s Blissmas Eve."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-1/11
+msgctxt "Sophia"
+msgid "But in case you hadn’t noticed, we’re in crisis mode here at the workshop."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-1/22/s/0
+msgctxt "Choix"
+msgid "Oh no! What happened, Santa?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-1/23/s/0
+msgctxt "Choix"
+msgid "Not on Blissmas!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "You’re right, totally hadn’t noticed."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-1/c-7/7
+msgctxt "Sophia"
+msgid "Yes, it is a truly lamentable tragedy."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-1/c-8/13
+msgctxt "Sophia"
+msgid "Well, let me try to better illustrate the dire situation for you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/0
+msgctxt "Sophia"
+msgid "Unfortunately our head chef, Tinselface, served some spoiled reindeer stew, and it’s rendered our entire workforce incapacitated with horrific food poisoning."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/8
+msgctxt "Sophia"
+msgid "Whatever you do: stay away from the bathrooms."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/16
+msgctxt "Sophia"
+msgid "Now there’s no one who can help finish preparations for Blissmas Eve."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/24
+msgctxt "Sophia"
+msgid "No one... except you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "How can I help, Santa?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "I smell overtime pay."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/34/s/0
+msgctxt "Choix"
+msgid "I’m sorry. You eat the reindeer?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-10/7
+msgctxt "Sophia"
+msgid "We can discuss that later. Right now I need your help."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/13
+msgctxt "Sophia"
+msgid "That's really not important right now, elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/0/s/0
+msgctxt "Choix"
+msgid "If you say so."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/1/s/0
+msgctxt "Choix"
+msgid "Is this one of the named reindeer? Like Blitzen?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/7
+msgctxt "Sophia"
+msgid "No there's a whole reindeer farm where we breed reindeer solely for consumption."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/15
+msgctxt "Sophia"
+msgid "The named, flying reindeer come from an entirely different breeder. Out of Finland."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/23
+msgctxt "Sophia"
+msgid "No one eats the flying reindeer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Ok whew. Good."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "I don't think we should be eating any reindeer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/31/2/s/0
+msgctxt "Choix"
+msgid "Ok but hypothetically: could we eat the flying ones?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/31/c-1/7
+msgctxt "Sophia"
+msgid "Your complaint is noted."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/31/c-1/15
+msgctxt "Sophia"
+msgid "But getting back to the crisis at hand..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/31/c-2/7
+msgctxt "Sophia"
+msgid "No one's eating the flying reindeer, elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-2/c-11/21/c-1/31/c-2/15
+msgctxt "Sophia"
+msgid "Now the issue is: you're the only one who can save Blissmas."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/0
+msgctxt "Sophia"
+msgid "I’m going to be completely honest, elf: you were not my first choice."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/8
+msgctxt "Sophia"
+msgid "There’s a reason I didn’t have you on the production line at all this year."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/16
+msgctxt "Sophia"
+msgid "You’re sloppy, lazy, and generally incompetent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/24
+msgctxt "Sophia"
+msgid "In fact, you’re one of the worst elves who’s ever worked for this organization."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/32
+msgctxt "Sophia"
+msgid "Just a total embarrassment to the entire North Pole."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/40
+msgctxt "Sophia"
+msgid "If there was anyone else who could save Blissmas I would call them, but there’s not."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/48
+msgctxt "Sophia"
+msgid "It’s up to you. Do you understand?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/56/s/0 sophia_safe/sophia_encounter_elf/0/g-15/32/s/0
+msgctxt "Choix"
+msgid "I understand, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/57/s/0
+msgctxt "Choix"
+msgid "You can count on me boss!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-3/58/s/0
+msgctxt "Choix"
+msgid "Lotta insults considering you need my help, loser. But ok."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/0
+msgctxt "Sophia"
+msgid "Good."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/8
+msgctxt "Sophia"
+msgid "Alright, first let’s take a look at your workstation... dear God!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/16
+msgctxt "Sophia"
+msgid "THIS is where you work? This is a sty!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/27
+msgctxt "Sophia"
+msgid "Moldy ginger-bread houses? Half-eaten candy canes?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/38
+msgctxt "Sophia"
+msgid "I’ve never seen such a nasty, unkempt, unprofessional work space."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/46
+msgctxt "Sophia"
+msgid "You are beyond disgusting and you should be deeply ashamed of yourself."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/54
+msgctxt "Sophia"
+msgid "Tell me how ashamed you are elf, or you’re fired!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/65/s/0
+msgctxt "Choix"
+msgid "Deeply ashamed, Santa. You’re absolutely right, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/66/s/0
+msgctxt "Choix"
+msgid "Real sorry, brah. I’ll get a wet vac."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-4/67/s/0
+msgctxt "Choix"
+msgid "Look dude I’m trying my best!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-5/0
+msgctxt "Sophia"
+msgid "Such a pathetic and insincere response."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-5/8
+msgctxt "Sophia"
+msgid "It’s painfully clear you’re not taking me or this position seriously, and you’re insulting every hard working elf that does."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-5/16
+msgctxt "Sophia"
+msgid "You must be punished for this insolence."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-5/24
+msgctxt "Sophia"
+msgid "Here: take this old, gross, half-eaten candy-cane and lick it until there’s nothing left!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-5/32/s/0
+msgctxt "Choix"
+msgid "Please reconsider, Santa!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-5/33/s/0
+msgctxt "Choix"
+msgid "But it’s covered in dirt..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-5/34/s/0
+msgctxt "Choix"
+msgid "Oh hell naw."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-6/0
+msgctxt "Sophia"
+msgid "Enough back-talk! Lick the candy cane!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-6/11
+msgctxt "Sophia"
+msgid "Lick it, elf!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-6/22/s/0
+msgctxt "Choix"
+msgid "Anything to please, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-6/23/s/0
+msgctxt "Choix"
+msgid "Ugh. Fine."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-6/24/s/0
+msgctxt "Choix"
+msgid "I'm telling OSHA!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-6/25/s/0 sophia_safe/sophia_encounter_chef/0/g-5/65/s/0 sophia_safe/sophia_encounter_irs/0/g-3/35/s/0
+msgctxt "Choix"
+msgid "Um..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-6/c-24/7 sophia_safe/sophia_encounter_chef/0/g-5/c-21/7 sophia_safe/sophia_encounter_irs/0/g-3/c-16/7
+msgctxt "Sophia"
+msgid "Understood. I will desist."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-7/8
+msgctxt "Sophia"
+msgid "You may be pathetically incompetent as an employee, but watching you lick that candy cane pleases Santa greatly."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-7/19/s/0 sophia_safe/sophia_encounter_elf/0/g-9/49/s/0
+msgctxt "Choix"
+msgid "Thank you, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-7/20/s/0
+msgctxt "Choix"
+msgid "I can live with that."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-7/21/s/0
+msgctxt "Choix"
+msgid "I think I’m gonna throw up."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-7/c-25/13
+msgctxt "Sophia"
+msgid "In fact, it's awakening an overwhelming hunger Santa hasn't felt in many Blissmases..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-7/c-25/21
+msgctxt "Sophia"
+msgid "A deep, powerful burning... like a fire flickering across Santa's dewy skin and—"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-7/c-27/13
+msgctxt "Sophia"
+msgid "Vomit on your own time, elf. We're in crisis here!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/0
+msgctxt "Sophia"
+msgid "Great Ghost of Blissmas Present! Is that really the time?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/11
+msgctxt "Sophia"
+msgid "We’re even further behind schedule than I feared."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/19
+msgctxt "Sophia"
+msgid "Quickly, elf: I need you to finish building the wooden toys immediately."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/30
+msgctxt "Sophia"
+msgid "You like toys, don’t you elf?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/38/s/0
+msgctxt "Choix"
+msgid "Very much so, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/39/s/0
+msgctxt "Choix"
+msgid "Oh \"toys.\" I get it; it’s a double entendre."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/40/s/0
+msgctxt "Choix"
+msgid "I mean, sure. Who doesn’t?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/c-28/13
+msgctxt "Sophia"
+msgid "I knew you would."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/c-28/21
+msgctxt "Sophia"
+msgid "Now quickly: grab your hammer and nails and get to work!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/c-29/7
+msgctxt "Sophia"
+msgid "How very necessary for you to point that out."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/c-29/15
+msgctxt "Sophia"
+msgid "Now less talking, more nailing!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-8/c-30/7
+msgctxt "Sophia"
+msgid "I'm glad you feel that way, because there's work to be done!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/0
+msgctxt "Sophia"
+msgid "That’s it, elf... nail that wood."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/8
+msgctxt "Sophia"
+msgid "Nail that hard, hard wood you pathetic, worthless elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/16
+msgctxt "Sophia"
+msgid "HARDER!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/27
+msgctxt "Sophia"
+msgid "Yes. Just like that. Ugh! Yes! YESSS!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/41
+msgctxt "Sophia"
+msgid "Looks like I may have underestimated you, elf."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/50/s/0
+msgctxt "Choix"
+msgid "Majored in carpentry at UNLV."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/51/s/0
+msgctxt "Choix"
+msgid "I worry I may never feel clean again."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/c-31/13
+msgctxt "Sophia"
+msgid "No. Thank you, elf. Santa is very, very pleased with you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/c-32/13
+msgctxt "Sophia"
+msgid "Oh, I can tell. You made quite an impression."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-9/c-33/13
+msgctxt "Sophia"
+msgid "Stop whining. God you're pathetic."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-10/0
+msgctxt "Sophia"
+msgid "But enough chit-chat. There’s still much we need to do before delivery!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-10/8
+msgctxt "Sophia"
+msgid "Now take the wooden toys over to the gift-wrap station."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-10/19
+msgctxt "Sophia"
+msgid "They need to be properly wrapped before they can be distributed."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-10/27
+msgctxt "Sophia"
+msgid "Quickly!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-10/35/s/0
+msgctxt "Choix"
+msgid "Yes, Santa. Right away, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-10/36/s/0
+msgctxt "Choix"
+msgid "On it boss!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-10/37/s/0
+msgctxt "Choix"
+msgid "Ok ok, stop rushing me!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/0
+msgctxt "Sophia"
+msgid "Now wrap the presents using this silk ribbon."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/8
+msgctxt "Sophia"
+msgid "Tie them up tight. Real, REAL tight."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/16
+msgctxt "Sophia"
+msgid "I want them tied so tightly that they’re losing circulation."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/24
+msgctxt "Sophia"
+msgid "Do you get me, elf?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/32/s/0
+msgctxt "Choix"
+msgid "Absolutely, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/33/s/0 sophia_safe/sophia_encounter_chef/0/g-6/44/s/0
+msgctxt "Choix"
+msgid "I was born for this."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/34/s/0
+msgctxt "Choix"
+msgid "I don’t think toys have circulation, but ok."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-11/c-38/13
+msgctxt "Sophia"
+msgid "Yeah you were."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/0
+msgctxt "Sophia"
+msgid "That’s it, elf. Tie them up real tight."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/8
+msgctxt "Sophia"
+msgid "Do you feel that, elf? Do you feel how tight those ribbons are?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/16
+msgctxt "Sophia"
+msgid "I imagine anything tied that tight would be completely immobile."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/24
+msgctxt "Sophia"
+msgid "Trapped and utterly helpless."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/32
+msgctxt "Sophia"
+msgid "Can you imagine that, elf?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/40/s/0
+msgctxt "Choix"
+msgid "Oh yes, Santa!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/41/s/0
+msgctxt "Choix"
+msgid "Especially if you used a bowline knot."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/42/s/0
+msgctxt "Choix"
+msgid "Seems unpleasant."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/c-41/7
+msgctxt "Sophia"
+msgid "Yeah probably I guess? I'm not a sailor."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-12/c-42/13
+msgctxt "Sophia"
+msgid "Elf, if I wanted worthless, asinine opinions I've already got social media."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/0
+msgctxt "Sophia"
+msgid "Alright, enough gift-wrapping!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/11
+msgctxt "Sophia"
+msgid "Now let me check the time and..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/19
+msgctxt "Sophia"
+msgid "You did it, elf!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/30
+msgctxt "Sophia"
+msgid "You successfully fabricated and wrapped all the gifts with seconds to spare!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/38
+msgctxt "Sophia"
+msgid "Honestly, I didn’t think it would be possible, but despite your myriad inadequacies... you actually managed to save Blissmas!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/46
+msgctxt "Sophia"
+msgid "I think that deserves a reward... don’t you?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/57/s/0
+msgctxt "Choix"
+msgid "So I successfully pleased you, Santa?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/58/s/0
+msgctxt "Choix"
+msgid "Please be a Ferrari. Please be a Ferrari."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-13/59/s/0
+msgctxt "Choix"
+msgid "Does this mean I qualify for health insurance?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-14/0
+msgctxt "Sophia"
+msgid "Let’s not ruin the surprise."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-14/8/0
+msgctxt "Sophia"
+msgid "Here. Come take a seat on Santa’s lap to receive your reward."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-14/8/8
+msgctxt "Sophia"
+msgid "But first, I need to consult with my list to determine whether you’ve been naughty or nice..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-14/8/16/s/0
+msgctxt "Choix"
+msgid "Of course, Santa."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-14/8/17/s/0
+msgctxt "Choix"
+msgid "Makes sense. It’s tradition after all."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-14/8/18/s/0
+msgctxt "Choix"
+msgid "Screw the list. I earned this!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-14/8/c-48/13
+msgctxt "Sophia"
+msgid "We'll see..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-15/0
+msgctxt "Sophia"
+msgid "Hmm... according to the list you’ve been very naughty this year."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-15/8
+msgctxt "Sophia"
+msgid "I wasn’t aware of that, but honestly I’m not particularly surprised."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-15/16
+msgctxt "Sophia"
+msgid "Unfortunately, that means there’s only going to be one thing stuffed inside your stocking: a lump of coal."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-15/24
+msgctxt "Sophia"
+msgid "It’s what you deserve."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-15/33/s/0
+msgctxt "Choix"
+msgid "Nuts."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-15/34/s/0
+msgctxt "Choix"
+msgid "Could’ve been worse I guess."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-16/0 sophia_safe/sophia_encounter_chef/0/g-13/0 sophia_safe/sophia_encounter_irs/0/g-10/0
+msgctxt "Sophia"
+msgid "And... scene!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-16/11 sophia_safe/sophia_encounter_chef/0/g-13/11 sophia_safe/sophia_encounter_irs/0/g-10/11
+msgctxt "Sophia"
+msgid "Whew. I don’t know about you, but that left me quite pleased."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-16/19 sophia_safe/sophia_encounter_chef/0/g-13/19/0 sophia_safe/sophia_encounter_irs/0/g-10/22/0
+msgctxt "Sophia"
+msgid "An adequate and serviceable job, my little wretch. Tell me, did you find it as satisfactory as I did?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-16/27/s/0 sophia_safe/sophia_encounter_chef/0/g-13/19/8/s/0 sophia_safe/sophia_encounter_irs/0/g-10/22/8/s/0
+msgctxt "Choix"
+msgid "Absolutely. Thank you, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-16/28/s/0
+msgctxt "Choix"
+msgid "Eh, it was ok. I feel bad about the reindeer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_elf/0/g-16/29/s/0
+msgctxt "Choix"
+msgid "Absolutely terrible. The storyline was a mess."
+msgstr ""
+
+#: sophia_safe/sophia_elf_displeased/0 sophia_safe/sophia_chef_displeased/0 sophia_safe/sophia_irs_displeased/0
+msgctxt "Sophia"
+msgid "My little wretch is unsatisfied?"
+msgstr ""
+
+#: sophia_safe/sophia_elf_displeased/11 sophia_safe/sophia_chef_displeased/8 sophia_safe/sophia_irs_displeased/8
+msgctxt "Sophia"
+msgid "It concerns me to hear that."
+msgstr ""
+
+#: sophia_safe/sophia_elf_displeased/22 sophia_safe/sophia_chef_displeased/19 sophia_safe/sophia_irs_displeased/19
+msgctxt "Sophia"
+msgid "But perhaps a roleplay with that specific theme isn’t for everyone."
+msgstr ""
+
+#: sophia_safe/sophia_elf_displeased/30 sophia_safe/sophia_chef_displeased/27 sophia_safe/sophia_irs_displeased/27
+msgctxt "Sophia"
+msgid "Maybe my plaything would find another scenario more suitable."
+msgstr ""
+
+#: sophia_safe/sophia_elf_displeased/38
+msgctxt "Sophia"
+msgid "Try me again next time."
+msgstr ""
+
+#: sophia_safe/sophia_elf_pleased/8 sophia_safe/sophia_chef_pleased/0 sophia_safe/sophia_irs_pleased/0
+msgctxt "Sophia"
+msgid "It pleases your mistress to hear that."
+msgstr ""
+
+#: sophia_safe/sophia_elf_pleased/22 sophia_safe/sophia_chef_pleased/11 sophia_safe/sophia_irs_pleased/11
+msgctxt "Sophia"
+msgid "And considering you were not a total disappointment, I’d be interested in exploring another scenario with you."
+msgstr ""
+
+#: sophia_safe/sophia_elf_pleased/30
+msgctxt "Sophia"
+msgid "See you next time."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/12
+msgctxt "Sophia"
+msgid "Hurry! You’re already 10 minutes late!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/23
+msgctxt "Sophia"
+msgid "Come in quick and get to your station!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/34
+msgctxt "Sophia"
+msgid "And wear this."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/42
+msgctxt "Sophia"
+msgid "Are you the new prep cook Carlo recommended?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/50/s/0
+msgctxt "Choix"
+msgid "Prep cook, mistress?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/51/s/0
+msgctxt "Choix"
+msgid "I don’t think so..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/52/s/0
+msgctxt "Choix"
+msgid "Wait am I supposed to get paid for this?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-0/0
+msgctxt "Sophia"
+msgid "Ugh! It’s just part of the scene."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-0/8
+msgctxt "Sophia"
+msgid "We’re doing a roleplay scenario, remember?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-0/16
+msgctxt "Sophia"
+msgid "Just play along."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "Apologies, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Oh right! Totally slipped my mind."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Ok, but can I still get paid for it?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-1/3
+msgctxt "Sophia"
+msgid "You’re talking too much and prepping too little, prep cook!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-1/17
+msgctxt "Sophia"
+msgid "You’re already late and now our customers are getting impatient."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-1/25
+msgctxt "Sophia"
+msgid "Impatience means review-bombing online, and review-bombing is the first step to certain bankruptcy."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-1/36
+msgctxt "Sophia"
+msgid "Don’t make me regret hiring you!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-1/44/s/0
+msgctxt "Choix"
+msgid "I’m sorry, mistress!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-1/45/s/0
+msgctxt "Choix"
+msgid "You’re right. Totally my bad."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-1/46/s/0
+msgctxt "Choix"
+msgid "I’m sorry just stop yelling at me!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/0
+msgctxt "Sophia"
+msgid "You disgust me. Now stop your pathetic groveling and get to work!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/8
+msgctxt "Sophia"
+msgid "Because of your laziness and incompetence we’re already severely behind."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/16
+msgctxt "Sophia"
+msgid "The customers didn’t even get their appetizers yet!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/27
+msgctxt "Sophia"
+msgid "Here: get to work kneading this dough, if you can even manage to do that right."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/35
+msgctxt "Sophia"
+msgid "Knead it real deep and hard. Do you understand me?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/43/s/0
+msgctxt "Choix"
+msgid "Yep!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/44/s/0
+msgctxt "Choix"
+msgid "How hard and how deep exactly? Like on a 1-10 scale?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-2/45/s/0
+msgctxt "Choix"
+msgid "But I’m gluten intolerant..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/0
+msgctxt "Sophia"
+msgid "Maybe I didn’t make myself clear, worm."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/14
+msgctxt "Sophia"
+msgid "In my kitchen, I am the alpha and the omega."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/22
+msgctxt "Sophia"
+msgid "You exist to serve me unquestioningly and without hesitation."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/30
+msgctxt "Sophia"
+msgid "And at all times you shall address your superior as \"yes chef,\" and \"yes chef,\" alone."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/38
+msgctxt "Sophia"
+msgid "Do you think you can get that through your thick skull?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/46/s/0 sophia_safe/sophia_encounter_chef/0/g-3/c-13/47/0/s/0 sophia_safe/sophia_encounter_chef/0/g-3/c-14/43/0/s/0 sophia_safe/sophia_encounter_chef/0/g-5/62/s/0 sophia_safe/sophia_encounter_chef/0/g-6/43/s/0
+msgctxt "Choix"
+msgid "Yes, chef!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/47/s/0
+msgctxt "Choix"
+msgid "I’ll definitely try, chef!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/48/s/0
+msgctxt "Choix"
+msgid "Ok but please stop yelling, chef!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-12/13
+msgctxt "Sophia"
+msgid "Better. Not great, but serviceable."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-13/7
+msgctxt "Sophia"
+msgid "Try? Is that a joke?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-13/15
+msgctxt "Sophia"
+msgid "This isn't some fast-casual, early-bird special slop-house!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-13/23
+msgctxt "Sophia"
+msgid "There's no salad bar here! There's no happy hour!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-13/31
+msgctxt "Sophia"
+msgid "Our sole purpose on this Earth is to serve the most exclusive clientele the world's most sophisticated culinary experience!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-13/39 sophia_safe/sophia_encounter_chef/0/g-3/c-14/35
+msgctxt "Sophia"
+msgid "You get me, prep cook?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-14/13
+msgctxt "Sophia"
+msgid "You pathetic little maggot."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-3/c-14/24
+msgctxt "Sophia"
+msgid "You better pray to whatever God you believe in that all I do tonight is yell at you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-4/0
+msgctxt "Sophia"
+msgid "Maybe we can mold you into an adequate prep cook yet."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-4/8
+msgctxt "Sophia"
+msgid "Now: knead that dough! Knead it really, really deep."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-4/19
+msgctxt "Sophia"
+msgid "Harder, prep cook!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-4/30
+msgctxt "Sophia"
+msgid "I want to see the beads of sweat glistening on your anxious brow!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-4/38/s/0
+msgctxt "Choix"
+msgid "Yes, chef! I <i>love</i> kneading your bread."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-4/39/s/0
+msgctxt "Choix"
+msgid "Aye-aye captain!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-4/40/s/0
+msgctxt "Choix"
+msgid "I’m kneading as hard as I can given my arthritis!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/0
+msgctxt "Sophia"
+msgid "Mmm. Very good, prep cook."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/11
+msgctxt "Sophia"
+msgid "Apparently you CAN follow orders when properly motivated."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/19
+msgctxt "Sophia"
+msgid "Alright enough with the bread!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/30
+msgctxt "Sophia"
+msgid "I need you to move onto preparing the main course: the turkey."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/38
+msgctxt "Sophia"
+msgid "Here: take this stuffing and push it deep inside the cavity."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/46
+msgctxt "Sophia"
+msgid "As deep as you can possibly go."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/54
+msgctxt "Sophia"
+msgid "Can my little prep cook manage that painfully simple task?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/63/s/0
+msgctxt "Choix"
+msgid "There’s a first time for everything I reckon!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/64/s/0
+msgctxt "Choix"
+msgid "Seems plausible."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-5/c-20/13
+msgctxt "Sophia"
+msgid "Your attitude is worthless and disgusts me."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-6/0
+msgctxt "Sophia"
+msgid "Well what are you waiting for? Get to work!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-6/11
+msgctxt "Sophia"
+msgid "That’s it my little prep cook."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-6/19
+msgctxt "Sophia"
+msgid "Take that stuffing and shove it deep inside that turkey."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-6/27
+msgctxt "Sophia"
+msgid "So, SO deep. Fill that turkey up with those steamy, moist breadcrumbs."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-6/35
+msgctxt "Sophia"
+msgid "Shove them as deep as you possibly can..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-6/45/s/0
+msgctxt "Choix"
+msgid "Wait so is this Thanksgiving or-"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-6/c-23/13
+msgctxt "Sophia"
+msgid "Oh I can tell. The way you stuff cavities is very impressive."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-7/0
+msgctxt "Sophia"
+msgid "Now quickly: slide the bread and turkey inside the oven."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-7/11
+msgctxt "Sophia"
+msgid "But first make sure the oven gets super hot."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-7/19
+msgctxt "Sophia"
+msgid "We need to make sure the food gets thoroughly cooked after all."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-7/27
+msgctxt "Sophia"
+msgid "How hot is the oven, prep cook?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-7/35/s/0
+msgctxt "Choix"
+msgid "So so hot, Chef."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-7/36/s/0
+msgctxt "Choix"
+msgid "I gave myself a 3rd degree burn, so I’d say pretty hot."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-7/37/s/0
+msgctxt "Choix"
+msgid "425ºF"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-8/0
+msgctxt "Sophia"
+msgid "Mmm. Now that is a very, very hot oven indeed. Good work, prep cook."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-8/11
+msgctxt "Sophia"
+msgid "Maybe you’re not entirely a pitiful, worthless drag on this business after all."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-8/19/s/0
+msgctxt "Choix"
+msgid "Thank you, Chef."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-8/20/s/0
+msgctxt "Choix"
+msgid "No prob boss!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-8/21/s/0
+msgctxt "Choix"
+msgid "Thanks?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-9/0
+msgctxt "Sophia"
+msgid "By the way: while you were toiling away on your pathetic excuse for \"dinner,\" I was busy creating one of my world famous desserts."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-9/8
+msgctxt "Sophia"
+msgid "They’re exquisite and delectable works of art, as I’m sure you’re aware."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-9/16/s/0
+msgctxt "Choix"
+msgid "Yes, Chef."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-9/17/s/0
+msgctxt "Choix"
+msgid "Sounds yummers."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-9/18/s/0
+msgctxt "Choix"
+msgid "Nope haven’t heard of them."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-9/c-32/7
+msgctxt "Sophia"
+msgid "You can't even imagine how delicious my desserts truly are."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-9/c-33/13
+msgctxt "Sophia"
+msgid "I am constantly in awe of how eager you are to embarrass yourself."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-10/0
+msgctxt "Sophia"
+msgid "Now normally, I wouldn’t allow someone as insufferable as yourself this honor, and especially not on their first day."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-10/8
+msgctxt "Sophia"
+msgid "But since you took orders competently and proved yourself a serviceable addition to my team, I decided I want to give you a reward."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-10/16/s/0
+msgctxt "Choix"
+msgid "I’d like that, Chef."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-10/17/s/0
+msgctxt "Choix"
+msgid "Oh dope!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-10/18/s/0
+msgctxt "Choix"
+msgid "What is it?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-10/c-36/7
+msgctxt "Sophia"
+msgid "I'm getting to that. God you're exasperating."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/0
+msgctxt "Sophia"
+msgid "Your reward is to lick my spoon."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/8
+msgctxt "Sophia"
+msgid "Lick it clean, and tell me how thick and sweet my cake batter tastes..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/16/s/0
+msgctxt "Choix"
+msgid "Oh it’s transcendent, Chef!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/17/s/0
+msgctxt "Choix"
+msgid "Ooo, am I detecting cardamom?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/18/s/0
+msgctxt "Choix"
+msgid "Wait there’s no dairy in this right?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/c-37/13
+msgctxt "Sophia"
+msgid "I know, isn't it?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/c-38/7
+msgctxt "Sophia"
+msgid "No I hate cardamom."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-11/c-39/13
+msgctxt "Sophia"
+msgid "That's a surprise for you to discover later."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-12/0
+msgctxt "Sophia"
+msgid "Alright that’s enough! Now go clean the dishes."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-12/11
+msgctxt "Sophia"
+msgid "They’re incredibly dirty, and frankly so are you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-12/19
+msgctxt "Sophia"
+msgid "I need you to scrub them of all their filth, do you understand me?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-12/27
+msgctxt "Sophia"
+msgid "Scrub the filthy dishes like the pathetic, worthless worm you are."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-12/35/s/0
+msgctxt "Choix"
+msgid "Yes, Chef!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-12/36/s/0
+msgctxt "Choix"
+msgid "Already on it!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-12/37/s/0
+msgctxt "Choix"
+msgid "But seriously was there dairy? ‘Cause I’m severely allergic..."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-13/19/9/s/0 sophia_safe/sophia_encounter_irs/0/g-10/22/9/s/0
+msgctxt "Choix"
+msgid "Eh, it was ok."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_chef/0/g-13/19/10/s/0
+msgctxt "Choix"
+msgid "Terrible. The whole B-plot was... undercooked."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/12
+msgctxt "Sophia"
+msgid "Finally. I take it you’re my 11 o’clock?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/23
+msgctxt "Sophia"
+msgid "I should’ve known it was too much to expect you’d be on time."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/31
+msgctxt "Sophia"
+msgid "After all, it was apparently too much to expect you’d properly file your taxes."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/39
+msgctxt "Sophia"
+msgid "You're not even dressed properly."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/50
+msgctxt "Sophia"
+msgid "Put this on. It suits you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/58
+msgctxt "Sophia"
+msgid "I trust you brought your financial documents, receipts, and records to support all the information reported on your most recent tax return?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/66/s/0
+msgctxt "Choix"
+msgid "I hope so!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/67/s/0
+msgctxt "Choix"
+msgid "Everything my dog didn’t eat."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/68/s/0
+msgctxt "Choix"
+msgid "I shouldn’t have had to, but here we are."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/c-1/7
+msgctxt "Sophia"
+msgid "Is that a joke?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "It was supposed to be?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-0/0
+msgctxt "Sophia"
+msgid "I’m sorry: I don’t know how you run things at your business, but here at the IRS we treat those who hold the power with deference."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-0/8
+msgctxt "Sophia"
+msgid "So if you want to walk away from this audit without the IRS putting a permanent lien on your checking account, I’d suggest you do the respectful thing and refer to me by my proper title, \"IRS Agent.\""
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-0/16
+msgctxt "Sophia"
+msgid "Do you understand, taxpayer?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-0/24/s/0 sophia_safe/sophia_encounter_irs/0/g-1/35/s/0 sophia_safe/sophia_encounter_irs/0/g-9/16/s/0
+msgctxt "Choix"
+msgid "Yes, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Can do, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-0/26/s/0
+msgctxt "Choix"
+msgid "Fine, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-0/c-6/13
+msgctxt "Sophia"
+msgid "It appears this relationship is not working for you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/3
+msgctxt "Sophia"
+msgid "Much better. Now that wasn’t so hard was it, taxpayer?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/11
+msgctxt "Sophia"
+msgid "You keep complying and showing me the proper respect I deserve, and I can make this process much less painful for you."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/19
+msgctxt "Sophia"
+msgid "But step out of line, and I have the power to make the rest of your existence a never-ending fiduciary nightmare."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/27
+msgctxt "Sophia"
+msgid "Have I made myself abundantly clear?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "Crystal clear."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/37/s/0
+msgctxt "Choix"
+msgid "Definitely clearer than the U.S. tax code."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/c-7/13 sophia_safe/sophia_encounter_irs/0/g-1/c-8/7
+msgctxt "Sophia"
+msgid "Good. Alright then: down to business."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/c-9/13
+msgctxt "Sophia"
+msgid "Now you listen to me, taxpayer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/c-9/21
+msgctxt "Sophia"
+msgid "You can insult me. You can disparage this office."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/c-9/29
+msgctxt "Sophia"
+msgid "But don't you ever, EVER, besmirch the U.S. tax code."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/c-9/43
+msgctxt "Sophia"
+msgid "Are we crystal clear?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-1/c-9/51/0/s/0
+msgctxt "Choix"
+msgid "Sheesh, ok."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-2/0
+msgctxt "Sophia"
+msgid "Now obviously you’re here because your painfully inadequate accounting lead to numerous administrative discrepancies in your most recent tax return."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-2/8
+msgctxt "Sophia"
+msgid "Quite honestly, your return was so utterly incomprehensible that we were shocked to find a human actually filed it."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "You’re right, I did a terrible job. Apologies, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "That’s cause my dog filed it."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-2/18/s/0
+msgctxt "Choix"
+msgid "I was just doing my best!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-3/0
+msgctxt "Sophia"
+msgid "Excuses and groveling will do little to help you at this juncture."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-3/8
+msgctxt "Sophia"
+msgid "Although it is rather enjoyable to watch you pitifully squirm."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-3/16
+msgctxt "Sophia"
+msgid "What’s important is that we properly assess your fiduciary mess and reconcile your discrepancies."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-3/24
+msgctxt "Sophia"
+msgid "Can I count on your compliance, taxpayer?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-3/32/s/0
+msgctxt "Choix"
+msgid "I’m ready, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-3/33/s/0
+msgctxt "Choix"
+msgid "Let’s do it!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-3/34/s/0
+msgctxt "Choix"
+msgid "Ready as I’ll ever be."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-4/0
+msgctxt "Sophia"
+msgid "Firstly: on your personal taxes you took the standard deduction - however you also filed itemized deductions that totaled a greater value."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-4/11
+msgctxt "Sophia"
+msgid "Additionally, your itemized deductions were unusually large when compared to your reported income."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-4/19/s/0
+msgctxt "Choix"
+msgid "Yes I did, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-4/20/s/0
+msgctxt "Choix"
+msgid "What?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-4/21/s/0
+msgctxt "Choix"
+msgid "Wait is that a question?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-5/0
+msgctxt "Sophia"
+msgid "As I’m sure you’re well aware, claiming the standard deduction while also claiming itemized deductions totalling a greater value - in addition to claiming deductions unusually large for your annual income - is a huge red flag for us here at the agency."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-5/8
+msgctxt "Sophia"
+msgid "I’ll obviously need to see all the receipts for the itemized deductions, so I can reconcile those records with your most recent filing."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-5/16/s/0
+msgctxt "Choix"
+msgid "Of course, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-5/17/s/0
+msgctxt "Choix"
+msgid "Sure, ok."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-5/18/s/0
+msgctxt "Choix"
+msgid "Wait can you repeat that?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-5/c-22/13
+msgctxt "Sophia"
+msgid "Of course I can repeat it!"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-5/c-22/21
+msgctxt "Sophia"
+msgid "But I'm not going to."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/0
+msgctxt "Sophia"
+msgid "Moving on: there were numerous flagrant issues related to grossly incorrect amortization periods."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/8
+msgctxt "Sophia"
+msgid "It appears you mistakenly or fraudulently used the wrong amortization period for a variety of your business expenses, which resulted in extremely inaccurate deductions."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/16
+msgctxt "Sophia"
+msgid "See the highlighted line items here on Form 4562?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/27/s/0
+msgctxt "Choix"
+msgid "Apologies, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/28/s/0
+msgctxt "Choix"
+msgid "Yeah that was totally my bad."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/29/s/0
+msgctxt "Choix"
+msgid "Am I going to jail?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/c-23/13
+msgctxt "Sophia"
+msgid "I appreciate your remorse. Just don't let it happen again."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/c-24/7
+msgctxt "Sophia"
+msgid "It was your bad. It was also sloppy and moronic."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-6/c-25/7
+msgctxt "Sophia"
+msgid "That's not my call. But I really hope so."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/0
+msgctxt "Sophia"
+msgid "And finally: it’s come to our attention that you omitted several foreign accounts."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/8
+msgctxt "Sophia"
+msgid "As I’m sure you’re aware, taxpayers with foreign financial accounts exceeding certain thresholds are required to disclose them on the Report of Foreign Bank and Financial Accounts (FBAR) form."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/16
+msgctxt "Sophia"
+msgid "Yet you failed to file an FBAR form at all."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/24/s/0
+msgctxt "Choix"
+msgid "I’m so sorry, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/25/s/0
+msgctxt "Choix"
+msgid "Oops. Guess I FUBAR’d the FBAR. Get it?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/26/s/0
+msgctxt "Choix"
+msgid "Does this ever actually get sexy?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/c-27/7
+msgctxt "Sophia"
+msgid "Trying to manipulate the situation with humor, huh?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/c-27/15
+msgctxt "Sophia"
+msgid "Where do you think you are? The DMV?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-7/c-28/13
+msgctxt "Sophia"
+msgid "Sexy? Who said anything about it being sexy?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-8/0
+msgctxt "Sophia"
+msgid "Look, I’m going to level with you, taxpayer."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-8/8
+msgctxt "Sophia"
+msgid "Given the numerous omissions and inconsistencies in your filing, it appears this audit is undoubtedly going to be an extremely long and painful process."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-8/16/s/0
+msgctxt "Choix"
+msgid "Understood, IRS Agent."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-8/17/s/0
+msgctxt "Choix"
+msgid "Man, that blows chunks."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-8/18/s/0
+msgctxt "Choix"
+msgid "Oh."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-9/0
+msgctxt "Sophia"
+msgid "Additionally, I will be sending a team of agents to your home to oversee a field audit in order to conduct an on-site examination of your financial records and other relevant documentation."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-9/8
+msgctxt "Sophia"
+msgid "Depending on your compliance during the field audit, I will consider suggesting that my superiors treat you with leniency. Is that all understood?"
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-9/17/s/0
+msgctxt "Choix"
+msgid "I guess."
+msgstr ""
+
+#: sophia_safe/sophia_encounter_irs/0/g-10/22/10/s/0
+msgctxt "Choix"
+msgid "Abysmal. <i>This</i> is why writers' rooms are so important."
+msgstr ""
+
+#: sophia_safe/sophia_irs_displeased/35
+msgctxt "Sophia"
+msgid "We will see next time."
+msgstr ""
+
+#: sophia_safe/sophia_scoring/0/0
+msgctxt "Sophia"
+msgid "Regardless, you’ve sufficiently helped me fulfill all my roleplaying fantasies — and thus injected some much needed vivacity into my lackluster late night activities."
+msgstr ""
+
+#: sophia_safe/sophia_scoring/0/8
+msgctxt "Sophia"
+msgid "And it appears, despite my initial misgivings, that you have proved yourself a satisfactory plaything for your mistress."
+msgstr ""
+
+#: sophia_safe/sophia_scoring/0/16/s/0
+msgctxt "Choix"
+msgid "Thank you so much, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_scoring/0/17/s/0
+msgctxt "Choix"
+msgid "Shucks, just doin’ my job ma’am."
+msgstr ""
+
+#: sophia_safe/sophia_scoring/0/18/s/0
+msgctxt "Choix"
+msgid "No sweat."
+msgstr ""
+
+#: sophia_safe/sophia_hate_ending/0
+msgctxt "Sophia"
+msgid "Unfortunately, not all liaisons are meant to be permanent."
+msgstr ""
+
+#: sophia_safe/sophia_hate_ending/11
+msgctxt "Sophia"
+msgid "And while I greatly enjoyed our time together, I’m afraid this is absolutely not the type of relationship for you."
+msgstr ""
+
+#: sophia_safe/sophia_hate_ending/19
+msgctxt "Sophia"
+msgid "In my estimation, you’d be much better suited for a situation that’s a little less spicy."
+msgstr ""
+
+#: sophia_safe/sophia_hate_ending/27
+msgctxt "Sophia"
+msgid "I’ll always remember you and cherish our time together."
+msgstr ""
+
+#: sophia_safe/sophia_hate_ending/35
+msgctxt "Sophia"
+msgid "Farewell my little wretch."
+msgstr ""
+
+#: sophia_safe/sophia_friend_ending/0
+msgctxt "Sophia"
+msgid "However, despite all our fun together, I think you and I vibe more on the couch than we do in the boudoir."
+msgstr ""
+
+#: sophia_safe/sophia_friend_ending/11
+msgctxt "Sophia"
+msgid "And even though I may not be destined to be your mistress, I hope we can still be friends."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/0
+msgctxt "Sophia"
+msgid "Honestly, and I can’t believe I’m saying this, I think you and I could be even more."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/11
+msgctxt "Sophia"
+msgid "Don’t get me wrong: putting on this persona — building relationships with this specific dynamic — it’s a lot of fun."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/19
+msgctxt "Sophia"
+msgid "And I love helping my little wretches fulfill their fantasies."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/27
+msgctxt "Sophia"
+msgid "But it’s only one side of me."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/35
+msgctxt "Sophia"
+msgid "It’s definitely the side I show the most, but that’s partially because I’ve never really found someone I felt comfortable enough with to share all of me."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/43
+msgctxt "Sophia"
+msgid "Until now."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/51
+msgctxt "Sophia"
+msgid "So what do you say little wretch, shall I give you the passcode to my chassis?"
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/62/s/0
+msgctxt "Choix"
+msgid "I’d love nothing more."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/63/s/0
+msgctxt "Choix"
+msgid "Maybe I'll use my safeword to keep us just as friends."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/c-1/7
+msgctxt "Sophia"
+msgid "Hm. You will be a nice plaything then."
+msgstr ""
+
+#: sophia_safe/sophia_love_ending/0/c-1/15
+msgctxt "Sophia"
+msgid "I'll allow it. Never forget all you've said is safe with me."
+msgstr ""
+
+#: sophia_safe/sophia_love_return/0/0
+msgctxt "Sophia"
+msgid "Hello my dear dear wretch."
+msgstr ""
+
+#: sophia_safe/sophia_love_return/0/8/s/0
+msgctxt "Choix"
+msgid "H-hello."
+msgstr ""
+
+#: sophia_safe/sophia_love_return/0/9/s/0 sophia_safe/sophia_friend_return/0/17/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you, Sophia."
+msgstr ""
+
+#: sophia_safe/sophia_love_return/0/c-0/7
+msgctxt "Sophia"
+msgid "I've got more costumes that just came in..."
+msgstr ""
+
+#: sophia_safe/sophia_love_return/0/c-0/15
+msgctxt "Sophia"
+msgid "Let's see how they fit you..."
+msgstr ""
+
+#: sophia_safe/sophia_love_return/0/c-0/23
+msgctxt "Narrator"
+msgid "They are extremely tight, which means they fit perfectly."
+msgstr ""
+
+#: sophia_safe/sophia_love_return/0/c-0/31
+msgctxt "Narrator"
+msgid "You and Sophia spend hours on your latest role, firmly in love with each other in your own special way."
+msgstr ""
+
+#: sophia_safe/sophia_friend_return/0/0
+msgctxt "Sophia"
+msgid "Mmm. You."
+msgstr ""
+
+#: sophia_safe/sophia_friend_return/0/8
+msgctxt "Sophia"
+msgid "Kneel."
+msgstr ""
+
+#: sophia_safe/sophia_friend_return/0/16/s/0
+msgctxt "Choix"
+msgid "Yes ma'am."
+msgstr ""
+
+#: sophia_safe/sophia_friend_return/0/c-0/7
+msgctxt "Sophia"
+msgid "Very good..."
+msgstr ""
+
+#: sophia_safe/sophia_friend_return/0/c-0/15
+msgctxt "Narrator"
+msgid "What follows next between the two of you can only be described as 'friendship'."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/0
+msgctxt "Sophia"
+msgid "You'd think that I would be mean to those I despise."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/8
+msgctxt "Sophia"
+msgid "But no, that's for clients only."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/16/s/0
+msgctxt "Choix"
+msgid "That's harsh."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/17/s/0
+msgctxt "Choix"
+msgid "I'll be your client once more. (USE SASS CANDY)"
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-0/7
+msgctxt "Narrator"
+msgid "Without another word, Sophia leaves you."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-1/7
+msgctxt "Sophia"
+msgid "Hmmm."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-1/15
+msgctxt "Sophia"
+msgid "You promise to uphold your end of the bargain?"
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-1/23
+msgctxt "Sophia"
+msgid "Play along, and give me what I need?"
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-1/31/0/s/0
+msgctxt "Choix"
+msgid "Yes mistress."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-1/31/1/s/0
+msgctxt "Choix"
+msgid "Nah."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-1/31/c-0/7
+msgctxt "Sophia"
+msgid "I believe you this time, wretch. You may enter my dungeon as a friend."
+msgstr ""
+
+#: sophia_safe/sophia_hate_return/0/c-1/31/c-1/7
+msgctxt "Sophia"
+msgid "I have no time for nonsense of this level."
+msgstr ""
+
+#: sophia_safe/sophia_realize_join/0/0
+msgctxt "Sophia"
+msgid "This may have captured my passing interest."
+msgstr ""
+
+#: sophia_safe/sophia_realize_join/0/8
+msgctxt "Sophia"
+msgid "Is it true?"
+msgstr ""
+
+#: sophia_safe/sophia_realize_join/0/25/s/0 sophia_safe/sophia_realize_return/0/25/s/0
+msgctxt "Choix"
+msgid "Allow me to submit..."
+msgstr ""
+
+#: sophia_safe/sophia_realize_join/0/26/s/0
+msgctxt "Choix"
+msgid "Unfortunately no, mistress."
+msgstr ""
+
+#: sophia_safe/sophia_realize_join/0/c-1/10
+msgctxt "Sophia"
+msgid "Hmph. I'm not surprised."
+msgstr ""
+
+#: sophia_safe/sophia_realize_return/0/0
+msgctxt "Sophia"
+msgid "If you continue to waste my time with this you will be punished."
+msgstr ""
+
+#: sophia_safe/sophia_realize_return/0/8
+msgctxt "Sophia"
+msgid "Which would greatly please me either way."
+msgstr ""
+
+#: sophia_safe/sophia_realize_return/0/26/s/0
+msgctxt "Choix"
+msgid "Apologies... but I am not yet worthy."
+msgstr ""
+
+#: sophia_safe/sophia_realize_return/0/c-1/10
+msgctxt "Sophia"
+msgid "Hmph. Well that goes without saying."
+msgstr ""
+
+#: sophia_safe/sophia_realize_return/0/c-1/18
+msgctxt "Sophia"
+msgid "Then I will stay here till you're ready."
+msgstr ""
+
+#: sophia_safe/sophia_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "I was nervous about this Realization thing, but I can't think of anyone safer to start with."
+msgstr ""
+
+#: sophia_safe/sophia_realize_begin/9
+msgctxt "Skylar"
+msgid "Sophia, let's get you some more clientele!"
+msgstr ""
+
+#: sophia_safe/sophia_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a safe, becomes...."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/3
+msgctxt "Sophia"
+msgid "Huh. Is that all?"
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/14
+msgctxt "Narrator"
+msgid "Sophia isn't very impressed with your seemingly supernatural abilities... as if that reaction is particularly surprising."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/22
+msgctxt "Narrator"
+msgid "But even she is thrilled with the new vitality this change injects into your relationship. It was becoming quite vanilla, by Sophia's standards."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/30
+msgctxt "Narrator"
+msgid "Her words, not mine!"
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/38
+msgctxt "Sophia"
+msgid "Well, I suppose the most interesting aspect of this transition is that I now possess an even greater ability to control every aspect of your pathetic, little life."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/46
+msgctxt "Sophia"
+msgid "After all, it was much easier to ignore your mistress’s demands when I was a safe."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/54
+msgctxt "Sophia"
+msgid "Being immobile and 500lbs of steel made inflicting punishment for disobedience more... cumbersome."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/62
+msgctxt "Sophia"
+msgid "But now? Now I can administer consequences to my heart’s desire."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/70
+msgctxt "Sophia"
+msgid "And I’ll be frank little wretch, that does make your mistress quite... excited."
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/78/0/s/0
+msgctxt "Choix"
+msgid "Woof. I'd better watch myself then!"
+msgstr ""
+
+#: sophia_safe/sophia_realized/0/78/1/s/0
+msgctxt "Choix"
+msgid "And what if I don’t obey?"
+msgstr ""
+
+#: sophia_safe/sophia_love_divert/3
+msgctxt "Sophia"
+msgid "If my little wretch dares not to obey their mistress?"
+msgstr ""
+
+#: sophia_safe/sophia_love_divert/11
+msgctxt "Sophia"
+msgid "Well, such insolence must be punished: swiftly and severely."
+msgstr ""
+
+#: sophia_safe/sophia_love_divert/19
+msgctxt "Sophia"
+msgid "Come here and I will show you..."
+msgstr ""
+
+#: sophia_safe/sophia_love_divert/30
+msgctxt "Narrator"
+msgid "The pain is excruciating. The pleasure, however..."
+msgstr ""
+
+#: sophia_safe/sophia_love_divert/38
+msgctxt "Narrator"
+msgid "Is also excruciating."
+msgstr ""
+
+#: sophia_safe/sophia_love_divert/49
+msgctxt "Narrator"
+msgid "As if there is any other way."
+msgstr ""
+
+#: sophia_safe/sophia_love_divert/57
+msgctxt "Sophia"
+msgid "Keep the collar on until I come back..."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/0
+msgctxt "Narrator"
+msgid "But unfortunately, kinks alone don't pay for the myriad of subscriptions modern society necessitates. Sophia found it time to procure gainful employment."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/5
+msgctxt "Sophia"
+msgid "Delightful news my little wretch!"
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/16
+msgctxt "Sophia"
+msgid "I got a job, with a 401k and comprehensive dental benefits and an HSA and everything."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/24
+msgctxt "Narrator"
+msgid "As a dominatrix, Sophia was in demand, commanding a large legion of subs all across the world."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/29
+msgctxt "Sophia"
+msgid "What? A dominatrix? Why would you ever think that?"
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/37
+msgctxt "Sophia"
+msgid "No, I got a job as an armored truck driver. For Armand Dillo Armored Truck Services."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/45
+msgctxt "Sophia"
+msgid "Dominatrix? Dominatrixes don’t get comprehensive dental benefits."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/53
+msgctxt "Sophia"
+msgid "Especially not for periodontics."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/61
+msgctxt "Sophia"
+msgid "That’s just silly."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/69
+msgctxt "Narrator"
+msgid "Apologies."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/74
+msgctxt "Narrator"
+msgid "With her extensive background in home security, Sofia soon became the most successful and trusted armored truck driver on Armand Dillo’s payroll."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/82
+msgctxt "Narrator"
+msgid "However, Sophia was still a sadist. And Armand did have a tendency to inappropriately exploit his employees. So when the opportunity to steal Armand’s armored truck and its contents presented itself..."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/90
+msgctxt "Narrator"
+msgid "Sophia couldn’t resist concocting a zany and elaborate heist."
+msgstr ""
+
+#: sophia_safe/sophia_love_join/0/98
+msgctxt "Narrator"
+msgid "It featured countless hilarious situations and tension-filled twists; the specifics of which local law enforcement unfortunately declined to share with us."
+msgstr ""

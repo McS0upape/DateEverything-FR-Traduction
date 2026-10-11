@@ -1,0 +1,3309 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: stefan_stove/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "STOVE"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/0
+msgctxt "Narrator"
+msgid "A burly chef stands in your kitchen, looking at you expectantly as he stirs a sauce pot. Despite his intimidating stature, there's warmth in the depths of his dark eyes."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/8
+msgctxt "Stefan"
+msgid "You must be my new sous chef."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/16
+msgctxt "Stefan"
+msgid "I'm Stefan."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/31
+msgctxt "Stefan"
+msgid "Are you ready for prep?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/39/s/0
+msgctxt "Choix"
+msgid "Prep?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/40/s/0
+msgctxt "Choix"
+msgid "I'm not here to cook."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/8
+msgctxt "Narrator"
+msgid "Stefan regards you in silence for a few long moments."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/16
+msgctxt "Stefan"
+msgid "THEN WHY ARE YOU HERE?!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/30
+msgctxt "Narrator"
+msgid "An adorable chicken-shaped timer slides into the conversation, settling on Stefan's shoulder."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/41
+msgctxt "Mr. Cluckles"
+msgid "Ba-gawk."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/49
+msgctxt "Stefan"
+msgid "You're right, Mr. Cluckles. I could stand to be nicer."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/71
+msgctxt "Narrator"
+msgid "He takes a deep breath, steadying himself, then points dramatically at you."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/79
+msgctxt "Stefan"
+msgid "You! What are you doing in my kitchen?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/87/0/s/0
+msgctxt "Choix"
+msgid "Ummm... this is my kitchen."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/87/1/s/0
+msgctxt "Choix"
+msgid "Sorry, chef!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/87/2/s/0
+msgctxt "Choix"
+msgid "Are you a stove or an oven?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/87/c-2/7
+msgctxt "Stefan"
+msgid "This is MY kitchen."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-0/87/c-2/15
+msgctxt "Stefan"
+msgid "You must have me confused for someone who thinks this kind of thing is funny."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/3
+msgctxt "Stefan"
+msgid "I'm BUSY!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/14
+msgctxt "Stefan"
+msgid "I've got a whole lot of folks to feed and unless you are here to help, I need you to step out of th..."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/22
+msgctxt "Stefan"
+msgid "Wait...."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/30
+msgctxt "Stefan"
+msgid "Do you smell that?!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/38/s/0
+msgctxt "Choix"
+msgid "No?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/39/s/0
+msgctxt "Choix"
+msgid "Just your bad attitude."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/c-5/7
+msgctxt "Stefan"
+msgid "Yet you possess a nose, do you not?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/c-5/15
+msgctxt "Stefan"
+msgid "I make do with my hood."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-2/c-6/7
+msgctxt "Stefan"
+msgid "Oh, how dare you!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/3
+msgctxt "Mr. Cluckles"
+msgid "Ba-GAWWWK! Ba-GAWWWK!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/11
+msgctxt "Stefan"
+msgid "Yes, yes, yes, yes. I'm preheated. I know."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/22
+msgctxt "Stefan"
+msgid "Thank you Mr. Cluckles. Always keeping me on track."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/33
+msgctxt "Stefan"
+msgid "Unlike SOME humans who come in MY kitchen just to distract me!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/41/s/0
+msgctxt "Choix"
+msgid "Aww, it's a little chicken timer!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/42/s/0
+msgctxt "Choix"
+msgid "It's my kitchen, dude. End of story."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/c-7/7
+msgctxt "Stefan"
+msgid "That little chicken timer offers more help than you can imagine."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/c-7/15
+msgctxt "Stefan"
+msgid "He understands the type of establishment I'm trying to run around here!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/c-8/7
+msgctxt "Stefan"
+msgid "You know, I miss when humans understood the value of the boiling pot of water."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/c-8/15
+msgctxt "Stefan"
+msgid "When they would let a sauce properly reduce over time. The aroma of spices filled the air."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/c-8/23
+msgctxt "Stefan"
+msgid "And everything was home-made."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/c-8/31
+msgctxt "Stefan"
+msgid "And now all people do is use Food Fetch!!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-3/c-8/39
+msgctxt "Stefan"
+msgid "THEY ARE MISSING THE ENTIRE POINT OF IT ALL!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/0/s/0
+msgctxt "Choix"
+msgid "What are you even talking about?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/1/s/0
+msgctxt "Choix"
+msgid "...are you okay?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/c-9/7
+msgctxt "Stefan"
+msgid "Food. Glorious food!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/c-9/15
+msgctxt "Stefan"
+msgid "Much more important than whatever little quest you happen to be on right now."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/c-10/7
+msgctxt "Stefan"
+msgid "Only a human who doesn't understand cooking would ask me that."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/c-10/15
+msgctxt "Stefan"
+msgid "COOKING IS LIFE! It is not just food, it is your SOUL!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/c-10/26
+msgctxt "Stefan"
+msgid "Maybe one day, you will understand that."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-4/c-10/34
+msgctxt "Stefan"
+msgid "Until then, I'm wasting heat standing around here talking to you."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-5/0/s/0
+msgctxt "Choix"
+msgid "Anyone ever tell you how rude you are?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-5/1/s/0
+msgctxt "Choix"
+msgid "I'll let you cook."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-5/c-11/7
+msgctxt "Stefan"
+msgid "Of course they do."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-5/c-11/15
+msgctxt "Stefan"
+msgid "And they didn't know a crepe from a grape. So I couldn't give a damn about what they say."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-5/c-11/23/0/s/0
+msgctxt "Choix"
+msgid "Then I'll leave."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-5/c-11/23/1/s/0
+msgctxt "Choix"
+msgid "Wait... I know a crepe from a drape? Does that count?"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-6/0
+msgctxt "Stefan"
+msgid "Go on. Shoo."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-6/8
+msgctxt "Stefan"
+msgid "Okay Mr. Cluckles. All prep should be done in seven and a half minutes."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-6/19
+msgctxt "Stefan"
+msgid "Start the timer."
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-6/27
+msgctxt "Mr. Cluckles"
+msgid "Bu bu bu... Ba-Gawk!"
+msgstr ""
+
+#: stefan_stove/stefan_intro/0/g-6/35
+msgctxt "Stefan"
+msgid "And... Go!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/4
+msgctxt "Stefan"
+msgid "AH! It's you again! Someone must like the heat of the kitchen!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/12/s/0
+msgctxt "Choix"
+msgid "Maybe I like how hot you are!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/13/s/0
+msgctxt "Choix"
+msgid "You haven't calmed down yet?"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/0
+msgctxt "Stefan"
+msgid "Oh, I see how it is..."
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/8
+msgctxt "Stefan"
+msgid "YOU HAVE NO RESPECT FOR HOW MUCH ATTENTION COOKING TAKES!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/19
+msgctxt "Stefan"
+msgid "There are plenty of others in this kitchen you can 'date' who AREN'T ME!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/27
+msgctxt "Mr. Cluckles"
+msgid "Ba ba. Bu ba ba BAGAW."
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/35
+msgctxt "Stefan"
+msgid "Yeah, you're right, you're right. You always right!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/46
+msgctxt "Stefan"
+msgid "I'll calm down."
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/54
+msgctxt "Stefan"
+msgid "I'm blind baking a pie crust, okay? I need to FOCUS!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/62
+msgctxt "Stefan"
+msgid "Chat with some of the others and maybe... MAYBE... I'll have time for you."
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/70
+msgctxt "Mr. Cluckles"
+msgid "BAGAWWWWWW! BAGAWWWWW!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/78
+msgctxt "Stefan"
+msgid "Ah, yes! It's ready!"
+msgstr ""
+
+#: stefan_stove/stefan_mingle/0/g-0/89
+msgctxt "Stefan"
+msgid "Go on, boil off! I've got a custard to whip up."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/18
+msgctxt "Stefan"
+msgid "FREDDY!"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/29
+msgctxt "Freddy"
+msgid "Stefan! Buddy!"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/40
+msgctxt "Stefan"
+msgid "Hey, don't buddy me. What is it that we talked about last week?"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/48
+msgctxt "Freddy"
+msgid "Um..."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/56
+msgctxt "Freddy"
+msgid "Ah, I can't remember."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/64
+msgctxt "Stefan"
+msgid "A smart fridge, but yet, you can't remember one simple thing."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/72
+msgctxt "Stefan"
+msgid "Tell me... why did you order a Slot Pocket from me?"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/80
+msgctxt "Freddy"
+msgid "Oh, because they heat better in the oven!"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/88
+msgctxt "Stefan"
+msgid "THOSE ARE FOODS FOR LUKE! NOT ME!"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/105/s/0
+msgctxt "Choix"
+msgid "What's the big deal?"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/106/s/0
+msgctxt "Choix"
+msgid "Freddy, you don't have to take this."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/c-0/7
+msgctxt "Stefan"
+msgid "What- what- what- What's the big deal?! WHAT'S THE BIG DEAL?!"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/c-1/7
+msgctxt "Freddy"
+msgid "I'm glad someone has my back."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/c-1/15/b/1
+msgctxt "Freddy"
+msgid "Even if you didn't before..."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/0
+msgctxt "Stefan"
+msgid "SEE, THIS IS WHY I..."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/8
+msgctxt "Mr. Cluckles"
+msgid "Bu bu bu... BaGaw."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/16
+msgctxt "Stefan"
+msgid "Okay. Okay. Okay. Cool-down, Stefan. They don't know any better."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/30
+msgctxt "Stefan"
+msgid "I need both of you to listen very... very closely."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/38
+msgctxt "Stefan"
+msgid "I can heat a Slot Pocket to perfection."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/46
+msgctxt "Stefan"
+msgid "But, I was not given both convection and conduction for it to be wasted on a frozen pastry filled with subpar meat products."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/54
+msgctxt "Stefan"
+msgid "If you want something like that done, you can talk to Luke."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/65
+msgctxt "Stefan"
+msgid "Not me."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/73/s/0
+msgctxt "Choix"
+msgid "Both convection and conduction? That's fancy."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/74/s/0
+msgctxt "Choix"
+msgid "Leave you to your fancy foods. Got it."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/c-2/7
+msgctxt "Stefan"
+msgid "So you do know a thing or two... interesting."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-0/c-3/7
+msgctxt "Stefan"
+msgid "See? Now was that so hard to understand?"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-1/0
+msgctxt "Freddy"
+msgid "I won't ask you to do that again."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-1/8
+msgctxt "Stefan"
+msgid "Thank you!"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-1/16
+msgctxt "Freddy"
+msgid "...but did you do it this time?"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-1/32
+msgctxt "Stefan"
+msgid "Of course I did. Here."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-1/40
+msgctxt "Stefan"
+msgid "Do not tell anyone."
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-1/48
+msgctxt "Freddy"
+msgid "Thanks duderino!"
+msgstr ""
+
+#: stefan_stove/stefan_freddy/0/g-1/56
+msgctxt "Stefan"
+msgid "LEAVE!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/21
+msgctxt "Cabrizzio"
+msgid "Stefano! Bravo!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/32
+msgctxt "Cabrizzio"
+msgid "Bravo. Never before in my existence have I felt so... full..."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/40
+msgctxt "Cabrizzio"
+msgid "...and for a cabinet, that is a very special sensation in which to achieve a new peak!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/51
+msgctxt "Stefan"
+msgid "Oh, Cabrizzio. It touches me deeply to be so appreciated."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/65/s/0
+msgctxt "Choix"
+msgid "What's all the praise for?"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/66/s/0
+msgctxt "Choix"
+msgid "Deep touching, fullness... what on earth is happening here."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/0
+msgctxt "Narrator"
+msgid "Stefan turns to you with a proud smile."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/8
+msgctxt "Stefan"
+msgid "Our dear Cabrizzio just tried my new dish!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/16
+msgctxt "Cabrizzio"
+msgid "Tried. I have not tried. I have revelled in your new dish! What must I do to taste it once more??"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/24
+msgctxt "Stefan"
+msgid "Oh! Brother, just ask! Of course, it will take some time."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/32
+msgctxt "Cabrizzio"
+msgid "Time. Hm. I don't know that my need will wait..."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/40
+msgctxt "Cabrizzio"
+msgid "No no no no. I cannot wait, not another moment, amore. Please, activate your appetizing alchemy!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/48
+msgctxt "Stefan"
+msgid "Beautifully said, but it's not quite that easy."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/56
+msgctxt "Stefan"
+msgid "I... spent four hours on the beef alone, you see."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/64
+msgctxt "Cabrizzio"
+msgid "Four hours? FOUR?! Can you not just... do it faster! Skip a step, perhaps?"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/75
+msgctxt "Stefan"
+msgid "Uh, uh, WHAAT?! Skip a step?????"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/86/s/0
+msgctxt "Choix"
+msgid "Oh, bad."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-0/87/s/0
+msgctxt "Choix"
+msgid "Four hours is a long time just for food."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/0
+msgctxt "Stefan"
+msgid "Braising is art. It takes time. It takes patience."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/8
+msgctxt "Stefan"
+msgid "MULTI-STEP BRAISING IS THE ONLY WAY I CAN INFUSE THE INTENSE FLAVORS THAT HAVE SO INSPIRED YOU INTO MY MEAT CANVAS!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/19
+msgctxt "Stefan"
+msgid "So no, Cabrizzio. I. DO. NOT. SKIP!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/30
+msgctxt "Cabrizzio"
+msgid "My dear friend. I cannot promise you that I will want it in four hours!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/41
+msgctxt "Cabrizzio"
+msgid "Who knows where my passions will have driven me that far in the future?"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/52
+msgctxt "Stefan"
+msgid "How DARE you, you water-stained piece of birch -"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/63
+msgctxt "Mr. Cluckles"
+msgid "Bu bu bu... bugaw."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/71
+msgctxt "Stefan"
+msgid "Ohmygosh- I'm sorry Mr. Cluckles but I will NOT calm down!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/82
+msgctxt "Stefan"
+msgid "If you can't appreciate the time it takes to make the food -"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/90
+msgctxt "Stefan"
+msgid "YOU DON'T GET TO ENJOY THE FOOD!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/98/s/0
+msgctxt "Choix"
+msgid "I'm with you on this one!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/99/s/0
+msgctxt "Choix"
+msgid "Come on. Grilled cheeses are amazing, and they take like ten minutes."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/c-4/7
+msgctxt "Stefan"
+msgid "THANK YOU!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-1/c-5/7
+msgctxt "Stefan"
+msgid "...why is the human talking?"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/0
+msgctxt "Cabrizzio"
+msgid "Oh my friend. If I have offended, please, please forgive me."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/8
+msgctxt "Cabrizzio"
+msgid "Deny me not the pleasure of your creativity!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/16
+msgctxt "Stefan"
+msgid "I want everyone out! OUT, OUT, OUT!"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/27
+msgctxt "Cabrizzio"
+msgid "Ah, Stefano. So sad."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/35
+msgctxt "Cabrizzio"
+msgid "Even sadder that I cannot oblige you by giving you the space you request... Because I reside here just twelve inches above you..."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/43
+msgctxt "Narrator"
+msgid "Stefan is silent, but the tension in the air is palpable."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/51
+msgctxt "Stefan"
+msgid "Mr. Cluckles?"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/59
+msgctxt "Mr. Cluckles"
+msgid "Bagaw?"
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/67
+msgctxt "Stefan"
+msgid "Set a meditation timer, please. Before I burn this whole kitchen down."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/75
+msgctxt "Mr. Cluckles"
+msgid "Ba ba bagawk."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/83
+msgctxt "Stefan"
+msgid "Everyone else..."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/94
+msgctxt "Stefan"
+msgid "Leave."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/105
+msgctxt "Cabrizzio"
+msgid "I..."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/113
+msgctxt "Cabrizzio"
+msgid "I will just be very, very, very very quiet."
+msgstr ""
+
+#: stefan_stove/stefan_cabrizzio/0/g-2/121
+msgctxt "Stefan"
+msgid "Hmph. Fine. Silent, you understand. Cruel-tongued cupboard."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/18
+msgctxt "Mr. Cluckles"
+msgid "Bu bu bu ba bu bu bu bu ba."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/29
+msgctxt "Stefan"
+msgid "I know, I know. I'll stay calm."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/37
+msgctxt "Stefan"
+msgid "Okay... here we go."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/45
+msgctxt "Stefan"
+msgid "Oh. Hey. I thought you were someone else."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/53/s/0
+msgctxt "Choix"
+msgid "What? No yelling at me?"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/54/s/0
+msgctxt "Choix"
+msgid "Who are you expecting?"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/0
+msgctxt "Stefan"
+msgid "I thought you were going to be the Friar."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/8
+msgctxt "Stefan"
+msgid "We have some things to discuss."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/16
+msgctxt "Narrator"
+msgid "Stefan tenses up, his gaze somewhere behind you."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/27
+msgctxt "Friar Errol"
+msgid "You summoned me, and I have come."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/38
+msgctxt "Stefan"
+msgid "You're late."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/46
+msgctxt "Friar Errol"
+msgid "You are lucky I have come at all, blasphemer."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/65
+msgctxt "Mr. Cluckles"
+msgid "Ba ba ba bu..."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/73
+msgctxt "Stefan"
+msgid "I know, I know. Deep breaths... haaa... hoooo..."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/84/s/0
+msgctxt "Choix"
+msgid "Woooow. Look at you keeping your cool."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/85/s/0
+msgctxt "Choix"
+msgid "Hello, Friar."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/c-2/7
+msgctxt "Stefan"
+msgid "Shut it!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-0/c-3/7
+msgctxt "Narrator"
+msgid "Friar Errol simply gives you a polite nod, returning his gaze to Stefan."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/0
+msgctxt "Friar Errol"
+msgid "State your case. Quickly."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/8
+msgctxt "Stefan"
+msgid "Look. I heard you've been talkin' a lot around the house about air fryers are the wave of the future and blah blah blah."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/16
+msgctxt "Friar Errol"
+msgid "'Blah blah blah'? You would handwave the gospel of convection?"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/24
+msgctxt "Stefan"
+msgid "FINE! YOU'RE TRYIN' TO REPLACE ME! FOMENTING MUTINY BEHIND MY BACK!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/35
+msgctxt "Friar Errol"
+msgid "Ah, there it is. The grease demon possessing you has risen to the surface."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/43
+msgctxt "Stefan"
+msgid "...the what?"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/51/s/0
+msgctxt "Choix"
+msgid "Oh yeah, that's exactly what's happening."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-1/52/s/0
+msgctxt "Choix"
+msgid "Grease demon? Is this guy okay?"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/0
+msgctxt "Friar Errol"
+msgid "Fear not. You may be unworthy, but a man of convection never allows his flock to suffer."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/8
+msgctxt "Narrator"
+msgid "The friar pulls a small fan from deep within his robes, turning it on and aiming it at Stefan."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/19
+msgctxt "Friar Errol"
+msgid "OUT, DEMON! OUT!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/27
+msgctxt "Stefan"
+msgid "Hey, hey, hey, what the hell are you doing!?"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/32
+msgctxt "Friar Errol"
+msgid "THE POWER OF CONVECTION COMPELS YOU!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/43
+msgctxt "Stefan"
+msgid "HAVE YOU LOST YOUR MIND?!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/51
+msgctxt "Friar Errol"
+msgid "I have never been more clear-headed in my life. BEGONE, DEMON OF GREASE!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/59/s/0
+msgctxt "Choix"
+msgid "This is starting to sound like a movie... the Convect-sorcist?"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-2/60/s/0
+msgctxt "Choix"
+msgid "You should probably just go."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/0
+msgctxt "Friar Errol"
+msgid "I cannot leave this stove to his suffering."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/8
+msgctxt "Stefan"
+msgid "Uh... <w>BOoOOOoOO!</w>"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/19
+msgctxt "Stefan"
+msgid "<w>IT IS I, THE GREASE DEMON!</w>"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/27
+msgctxt "Narrator"
+msgid "Friar Errol rears back in shock, holding the fan out in front of him. He looks absolutely terrified."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/38
+msgctxt "Friar Errol"
+msgid "BACK, DEMON! I ORDER YOU TO LEAVE THIS STOVE! OUT! OUT!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/49
+msgctxt "Narrator"
+msgid "He blows the air directly into Stefan's face. Stefan looks at you, then back at the Friar."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/60
+msgctxt "Stefan"
+msgid "Oh nooo... my greatest weakness... a light breeze."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/68
+msgctxt "Stefan"
+msgid "I've had it! I'm getting out of here!"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/79
+msgctxt "Stefan"
+msgid "It's me, the grease demon, signing off."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/90
+msgctxt "Stefan"
+msgid "I'm really leaving now... <w>ooooooOooo...</w>"
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/101
+msgctxt "Stefan"
+msgid "...bye..."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/109
+msgctxt "Narrator"
+msgid "Stefan's performance is hardly convincing, but the Friar wipes his brow and sighs."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/120
+msgctxt "Friar Errol"
+msgid "I see now. You summoned me to exorcise you. Very good."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/128
+msgctxt "Friar Errol"
+msgid "Here. Keep this with you, and stay away from any grease from this point forward."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/136
+msgctxt "Stefan"
+msgid "Sure. I just need to... uh... pray."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/144
+msgctxt "Narrator"
+msgid "Stefan holds up the little fan with a strained smile."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/155
+msgctxt "Friar Errol"
+msgid "Excellent. Be well, and may you always walk in His Currents."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/166
+msgctxt "Narrator"
+msgid "As soon as the friar leaves, Stefan exhales loudly."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/174
+msgctxt "Stefan"
+msgid "That was uhhh..."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/182
+msgctxt "Mr. Cluckles"
+msgid "Buck buck bagaw..."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/190
+msgctxt "Stefan"
+msgid "Woo... Yeah. Look, I'm gonna need some time to \"decompress\"."
+msgstr ""
+
+#: stefan_stove/stefan_friar/0/g-3/204
+msgctxt "Stefan"
+msgid "Come back later."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/18
+msgctxt "Stefan"
+msgid "Luke!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/29
+msgctxt "Luke"
+msgid "Chief Stefan! Thank the Immortals you’re still alive!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/40
+msgctxt "Luke"
+msgid "When I received your emergency distress beacon, I came as fast as I could."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/48
+msgctxt "Luke"
+msgid "Swarmers were dug in all along Highway Death and ambushed me right outside the outskirts of Deathbourg. Had to bash and mash nearly a dozen skulls."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/56
+msgctxt "Luke"
+msgid "And before you ask: yes, bashing and mashing skulls is horrific — but I wasn’t gonna let any of them heathen swarmers use your blood for fuel, no sir Chief."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/64
+msgctxt "Luke"
+msgid "Even if I do still hear them screaming in my dreams."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/72
+msgctxt "Stefan"
+msgid "Chef. It’s <i>Chef</i> Stefan."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/80
+msgctxt "Luke"
+msgid "Really? Are you sure?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/88
+msgctxt "Luke"
+msgid "What rank is that? Like a colonel?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/96
+msgctxt "Stefan"
+msgid "What? No. It's not military rank. It's the title of someone who prepares meals."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/104
+msgctxt "Stefan"
+msgid "In my case, Mitchell Linn-starred meals that will change your life."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/115
+msgctxt "Luke"
+msgid "Oh man, that sounds radical. I could use a real meal lemme tell you, Chief."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/123
+msgctxt "Luke"
+msgid "I’ve been subsisting off protein gels and carnitine chews for damn near 56 months now."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/131
+msgctxt "Luke"
+msgid "It’s gotten so bad that my blood’s turned purple — and some of my less necessary organs have liquified."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/139
+msgctxt "Luke"
+msgid "Ever had an organ liquify on ya, Chief?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/147
+msgctxt "Stefan"
+msgid "No, but this conversation is making me feel like my brain is liquifying."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/155
+msgctxt "Luke"
+msgid "OH CRUCK! That’s the first sign of a gamma worm infestation!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/163
+msgctxt "Luke"
+msgid "They’re probably burrowing in your amygdala right now!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/171
+msgctxt "Luke"
+msgid "Someone call a medic, stat!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/179/s/0
+msgctxt "Choix"
+msgid "I’m on it!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/180/s/0
+msgctxt "Choix"
+msgid "What’s the number?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/181/s/0
+msgctxt "Choix"
+msgid "Why don’t you just do it yourself?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/c-1/7
+msgctxt "Luke"
+msgid "I don’t know! Just try every number combination you can think of! One of them has to be right!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Ok but..."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/c-2/7
+msgctxt "Luke"
+msgid "I can’t dial anything with these irradiated fingers, Ranger! The bones are all limp! I got limp phalanges, Ranger!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Ok whatever."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/0
+msgctxt "Luke"
+msgid "Quickly, Ranger: we don’t have much time!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/8
+msgctxt "Luke"
+msgid "They lay their eggs in your brain at night when it’s cool and when it’s warm out they start to thaw!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/16
+msgctxt "Stefan"
+msgid "Yeah, thatsgreatthatsgreatthatsgreat- Hey, speaking of thawing, that's actually the reason why I called you here."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/24
+msgctxt "Luke"
+msgid "For the mission, Chief?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/32
+msgctxt "Stefan"
+msgid "What? Oh yeah sure, for \"the mission.\""
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/40
+msgctxt "Luke"
+msgid "Well I’m ready, Chief. I was <i>born</i> ready."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/51
+msgctxt "Luke"
+msgid "Mostly ‘cause minutes after I was born they implanted a chip inside my brain."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/62
+msgctxt "Luke"
+msgid "Never told me what it was for; said I’d know when the time was right. And Chief, I swear to the Immortals that the time—"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/73
+msgctxt "Stefan"
+msgid "Why won’t he stop talking?!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/81/s/0
+msgctxt "Choix"
+msgid "Maybe it’s the chip?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/82/s/0
+msgctxt "Choix"
+msgid "You gotta take control! Give him orders."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/c-3/7
+msgctxt "Stefan"
+msgid "Sounds like someone needs to put him in his place."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-0/c-4/7
+msgctxt "Stefan"
+msgid "Orders huh? Well why didn’t you just say so..."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/0
+msgctxt "Stefan"
+msgid "<i>Luke</i> listen to me, ok? As your superior officer, I need you to shut up for literally 30 seconds."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/8
+msgctxt "Stefan"
+msgid "Can you do that one for me? Can you just shut your hole?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/16
+msgctxt "Luke"
+msgid "Yes Sir, Chief!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/24
+msgctxt "Stefan"
+msgid "Excellent! Now listen up, soldier!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/32
+msgctxt "Stefan"
+msgid "We’ve got a life-changing meal to serve in less than 20 minutes, and some imbecile forgot to defrost the chicken."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/40
+msgctxt "Stefan"
+msgid "And unless we can thaw that bird in record time, Operation Poulet à la Normande is facing imminent mission failure!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/48
+msgctxt "Stefan"
+msgid "And I don’t need to tell you what the dire consequences of mission failure would mean for us all..."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/56
+msgctxt "Stefan"
+msgid "So soldier, can I count on you?"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/64
+msgctxt "Luke"
+msgid "Sir, yes sir!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/75
+msgctxt "Stefan"
+msgid "Then throw open the chassis, soldier! We’ve got a bird to nuke!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/86/s/0
+msgctxt "Choix"
+msgid "I'll just... go."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-1/87/s/0
+msgctxt "Choix"
+msgid "Have fun, I guess."
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-2/0
+msgctxt "Stefan"
+msgid "That’s it, soldier! Nuke that bird straight to hell!"
+msgstr ""
+
+#: stefan_stove/stefan_luke/0/g-2/8
+msgctxt "Stefan"
+msgid "Now where did I put that apple brandy..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/4
+msgctxt "Stefan"
+msgid "You are persistent, aren't you?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/12
+msgctxt "Stefan"
+msgid "That's a... rather attractive quality."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/23
+msgctxt "Stefan"
+msgid "Okay. I'll bite. I have no orders up. What can I interest you in?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/31
+msgctxt "Stefan"
+msgid "I make a killer soda bread."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/39/s/0
+msgctxt "Choix"
+msgid "I just wanted to get to know you more."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/40/s/0
+msgctxt "Choix"
+msgid "I'm trying to get you to fall in love with me."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/c-0/7 stefan_stove/stefan_opens_up/0/c-1/7
+msgctxt "Narrator"
+msgid "Stefan raises a suspicious brow at you."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/c-0/15
+msgctxt "Stefan"
+msgid "You aren't turning my knobs, are you?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/c-0/23
+msgctxt "Stefan"
+msgid "Everyday, I'm here making orders for these lazybones around here."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/c-0/31
+msgctxt "Stefan"
+msgid "Rarely does one stop to ask how I'm doing."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/c-0/39
+msgctxt "Mr. Cluckles"
+msgid "BAGAWWWK!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/c-0/47
+msgctxt "Stefan"
+msgid "Besides you, Mr. Cluckles."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/c-1/15
+msgctxt "Stefan"
+msgid "Love?? Nobody loves the head chef. Man, get outta here!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "It might be because you yell at everyone."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/7
+msgctxt "Stefan"
+msgid "It isn't my job to be quiet. It's my job to make good food."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/15
+msgctxt "Stefan"
+msgid "It's not my fault the others don't listen."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/23
+msgctxt "Stefan"
+msgid "You haven't cooked in ages. I've had to pick up all the slack."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/0/s/0
+msgctxt "Choix"
+msgid "Wow. Rude."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/1/s/0
+msgctxt "Choix"
+msgid "Maybe I've been busy!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/2/s/0
+msgctxt "Choix"
+msgid "Cooking isn't really my thing."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/7
+msgctxt "Stefan"
+msgid "I'm just serving up the truth, piping hot."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You could just try being nicer."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "I don't have to take this from my own stove."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/c-0/7
+msgctxt "Stefan"
+msgid "Okay, okay. I hear you."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/c-1/7
+msgctxt "Stefan"
+msgid "Can't stand the heat, eh? Come back when you can."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/7
+msgctxt "Stefan"
+msgid "Well, MAYBE IF YOU —"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/18
+msgctxt "Mr. Cluckles"
+msgid "Ba ba ba..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/26
+msgctxt "Stefan"
+msgid "Okay, okay..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/37
+msgctxt "Stefan"
+msgid "I guess life can be pretty demanding."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/45
+msgctxt "Stefan"
+msgid "I'm sorry for boiling over like that."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/7
+msgctxt "Stefan"
+msgid "Well, maybe you aren't trying hard enough."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Are you always this rude?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "I've tried and it's not for me."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/c-0/7
+msgctxt "Stefan"
+msgid "It takes practice and HARD WORK! If you put forth some effort, you might be surprised!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/c-1/7
+msgctxt "Stefan"
+msgid "If you really gave it your all, I mean really gave it your all, then I suppose... I can live with that."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/0
+msgctxt "Stefan"
+msgid "Cooking... transcendent."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/8
+msgctxt "Stefan"
+msgid "Imagine, if you will, a meal cooked by someone you care about."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/16
+msgctxt "Stefan"
+msgid "There is a small little something for you to snack on, the smells of the main course wafting through the kitchen."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/24
+msgctxt "Stefan"
+msgid "Your mouth, salivating in anticipation. This moment... this food foreplay? It's magical."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/32
+msgctxt "Stefan"
+msgid "Finally, the plate is in front of you. You take your first bite and your mind races. You take in the flavors, the spices, the... everything!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/40
+msgctxt "Stefan"
+msgid "You are feeding every part of you, even if just for a short period of time."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/48
+msgctxt "Stefan"
+msgid "And then... it's gone. The plate is finished, the bowl is empty, and the only thing left is your appreciation of the meal."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/56
+msgctxt "Stefan"
+msgid "But, even that is now a nostalgic memory at best."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/64
+msgctxt "Stefan"
+msgid "At least until you have that meal again."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/72/s/0
+msgctxt "Choix"
+msgid "I see..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/73/s/0
+msgctxt "Choix"
+msgid "Wow. A stovetop soliloquy."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-1/c-4/7
+msgctxt "Stefan"
+msgid "The very best kind."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/0
+msgctxt "Stefan"
+msgid "Tell me, does your nose not wish to be carried away by the delicious smell of food? DOES MY FOOD NOT DELIGHT?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "The smell of some foods make me nauseous."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/9/s/0 stefan_stove/stefan_friend_return/0/24/s/0
+msgctxt "Choix"
+msgid "Yes!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-5/7
+msgctxt "Stefan"
+msgid "You jest."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-5/15/0/s/0
+msgctxt "Choix"
+msgid "Yeah, it's really off putting."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-5/15/c-0/7
+msgctxt "Stefan"
+msgid "...that's something I've never really considered."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/7
+msgctxt "Stefan"
+msgid "Then why don't we cook something together at long last?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/0/s/0 stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "That sounds great!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/1/s/0
+msgctxt "Choix"
+msgid "Maybe..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/2/s/0
+msgctxt "Choix"
+msgid "I would rather have a taste of your fine ass, if you know what I mean..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-0/7
+msgctxt "Stefan"
+msgid "There we go! That's the spirit! I knew I saw the fire in you!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-0/15
+msgctxt "Stefan"
+msgid "Whenever you are ready to throw down, you let me know!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/7
+msgctxt "Stefan"
+msgid "Maybe???"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/18
+msgctxt "Mr. Cluckles"
+msgid "Bagaaaawww... ba ba."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/26
+msgctxt "Stefan"
+msgid "Ugh. You're always right, Mr. Cluckles."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/37
+msgctxt "Stefan"
+msgid "I'm disappointed by 'maybe', but I simply can't wait to be enamoured by the intoxicating smell of cooking again!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/45
+msgctxt "Stefan"
+msgid "I'll be here if you change that wildly inconsistent mind of yours."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/7
+msgctxt "Narrator"
+msgid "Stefan squints at you."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/15
+msgctxt "Stefan"
+msgid "Yorfinass?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/23
+msgctxt "Stefan"
+msgid "Is that... Swedish?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/31
+msgctxt "Stefan"
+msgid "I don't- I don't know that recipe."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/0/s/0
+msgctxt "Choix"
+msgid "Come on... I'm curious to see how hot you can get."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/7
+msgctxt "Stefan"
+msgid "Are you trying to stoke my own fire?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/15
+msgctxt "Stefan"
+msgid "...certainly feels like I'm sweltering."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Is that right?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/7
+msgctxt "Stefan"
+msgid "Why don't we, uh, cook something together later?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/15
+msgctxt "Stefan"
+msgid "This is a language I'm much more comfortable speaking."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Sure!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Is cooking all you think about?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-0/7
+msgctxt "Stefan"
+msgid "You sure know how to get your oven pre-heated."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-0/18
+msgctxt "Stefan"
+msgid "You come back soon!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-0/26
+msgctxt "Stefan"
+msgid "I'll keep the fire going for you."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/7
+msgctxt "Stefan"
+msgid "Making food is very important to me."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/15
+msgctxt "Stefan"
+msgid "But... there's room enough in the kitchen for two cooks, if you catch my meaning."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/23
+msgctxt "Stefan"
+msgid "If you'd like to talk more about it, you'll have to do so a little later."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/31
+msgctxt "Stefan"
+msgid "Once I've cooled down a bit."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/39
+msgctxt "Stefan"
+msgid "I just might burn anything I touch right now, y'know what I'm sayin'."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/4
+msgctxt "Stefan"
+msgid "Good food should bring everyone together."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/12
+msgctxt "Stefan"
+msgid "How could anyone would be repulsed by it?!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/20/s/0
+msgctxt "Choix"
+msgid "I'm not repulsed... but not all food is for me."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/21/s/0
+msgctxt "Choix"
+msgid "Maybe you should broaden your horizons."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/7
+msgctxt "Stefan"
+msgid "Well, I suppose you can't like everything!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/15/0/s/0
+msgctxt "Choix"
+msgid "Right!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/7
+msgctxt "Stefan"
+msgid "What about this. How do you feel about making a meal that you like with me?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Maybe another time."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-0/7
+msgctxt "Stefan"
+msgid "I'm sure we can find something you find delectable."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-0/18
+msgctxt "Stefan"
+msgid "Come back when you're ready!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-1/7
+msgctxt "Stefan"
+msgid "Well, if you change your mind I will be right here."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-1/15
+msgctxt "Stefan"
+msgid "What an interesting conundrum... not enjoying food..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/7
+msgctxt "Stefan"
+msgid "Are you really telling the great Chef Stefan Stove to broaden his horizons?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/15
+msgctxt "Stefan"
+msgid "I have simmered, baked, fried, and even broiled foods from across the globe."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/0/s/0
+msgctxt "Choix"
+msgid "I didn't mean to offend, I'm just saying food can be triggering to people."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/1/s/0
+msgctxt "Choix"
+msgid "I meant considering different perspectives."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/7
+msgctxt "Stefan"
+msgid "You mean to say that food can be a negative experience?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yes."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/1/s/0 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Are you always this dense?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/7
+msgctxt "Stefan"
+msgid "Outside of allergies and food poisoning, I have never considered that a meal could bring up bad memories."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/15
+msgctxt "Stefan"
+msgid "Well the world is wide after all. Perhaps I have some things to learn."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "I'd be glad to help."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/23/c-0/7
+msgctxt "Stefan"
+msgid "I'd like that a lot!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/23/c-0/15 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/31
+msgctxt "Stefan"
+msgid "But not today, I have much to think about."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/7
+msgctxt "Stefan"
+msgid "Have you seen my muscles? I'm as dense as steel!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/0/s/0 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "That's not what I meant."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/7
+msgctxt "Stefan"
+msgid "So are we cooking together... or not?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/18
+msgctxt "Stefan"
+msgid "I'm having trouble following this."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/0/s/0 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yes, let's see if we can't teach you something new about cooking."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "Don't worry, I'll leave."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/c-0/7
+msgctxt "Stefan"
+msgid "Then it's a date! Come back when you're ready, baby!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/c-1/7
+msgctxt "Stefan"
+msgid "So long!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/7
+msgctxt "Stefan"
+msgid "Like different ways to cut an onion?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Food can bring up past trauma."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/7
+msgctxt "Stefan"
+msgid "I don't think I get it right now..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/15
+msgctxt "Stefan"
+msgid "But I'm ready to listen to what you're saying."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/23
+msgctxt "Stefan"
+msgid "I would like to talk more about it..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/7
+msgctxt "Stefan"
+msgid "Have you seen my sturdy form? I'm as dense as steel!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/7
+msgctxt "Stefan"
+msgid "Are we going to cook together or not?"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "More the latter..."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-0/7
+msgctxt "Stefan"
+msgid "Then it's a date! Come back when you're ready, baby."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-1/7
+msgctxt "Stefan"
+msgid "Well, if you change your mind, you know where to find me!"
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-1/15
+msgctxt "Stefan"
+msgid "Staring at... Dishy...."
+msgstr ""
+
+#: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-1/26
+msgctxt "Narrator"
+msgid "Stefan's gaze wanders over to your dishwasher, a full-body shudder coming over him."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/0
+msgctxt "Stefan"
+msgid "What??"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/8
+msgctxt "Stefan"
+msgid "Mr. Cluckles! That's five green bean souffles all day! Five!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/19
+msgctxt "Mr. Cluckles"
+msgid "BaAAAwA!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/24
+msgctxt "Stefan"
+msgid "Well then, you tell them I'm working on it!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/43
+msgctxt "Stefan"
+msgid "Oh... it's you."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/51
+msgctxt "Stefan"
+msgid "You got something you want to order?"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/59/s/0
+msgctxt "Choix"
+msgid "I wanted to catch up with you."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/60/s/0
+msgctxt "Choix"
+msgid "I came back to see if you were still rude."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/7
+msgctxt "Stefan"
+msgid "I would love nothing more..."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/18
+msgctxt "Stefan"
+msgid "Because here with you... the sun dims, the stars pale, the moon herself bows to the glow of your brow..."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/26
+msgctxt "Stefan"
+msgid "Here with you, is there music? I hear only the beat of my heart as it seeks the rhythm of your own through the liquid dawn. COME ON NOW!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Stefan? What are you saying?"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/1/s/0
+msgctxt "Choix"
+msgid "In your dreams!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/2/s/0
+msgctxt "Choix"
+msgid "Yes, quite!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/0
+msgctxt "Stefan"
+msgid "Haha! Thought I'd try one of Cabrizzio's lines!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/0/s/0
+msgctxt "Choix"
+msgid "It doesn't really suit you..."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/1/s/0
+msgctxt "Choix"
+msgid "I kinda like it."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/c-0/7
+msgctxt "Stefan"
+msgid "Better off being myself then."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/c-1/7
+msgctxt "Stefan"
+msgid "I'll have to ask him to give me some more bon mots..."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/0
+msgctxt "Stefan"
+msgid "Anyway... What's up?"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/0/s/0 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I wonder... why do you take food so seriously?"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/7 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/7
+msgctxt "Stefan"
+msgid "Aside from the fact that I'm a stove?"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/15 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/15
+msgctxt "Stefan"
+msgid "Sure..."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/23 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/23
+msgctxt "Stefan"
+msgid "Mr. Cluckles! Taking five!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/31 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/31
+msgctxt "Mr. Cluckles"
+msgid "Bagaw!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/36 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/36
+msgctxt "Stefan"
+msgid "Because it's a backstory!"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/44 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/44
+msgctxt "Mr. Cluckles"
+msgid "Bu ba bu bu bu bu bug..."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-1/7
+msgctxt "Stefan"
+msgid "About that... I'm sorry. Sometimes the stress of the job gets me a little carried away."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Apology accepted."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "Is that your idea of an apology?"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-1/15/c-0/7
+msgctxt "Stefan"
+msgid "Huh, I'm glad we can move forward."
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-1/15/c-1/7
+msgctxt "Stefan"
+msgid "I sincerely apologized to you. What more do you want?"
+msgstr ""
+
+#: stefan_stove/stefan_second_encounter/0/c-1/15/c-1/18/0/s/0
+msgctxt "Choix"
+msgid "Nothing, I guess."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/8
+msgctxt "Stefan"
+msgid "My mother, an old chiminea, bless her hearth, always told me that true love blossoms in the kitchen."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/16
+msgctxt "Stefan"
+msgid "The reason I work so hard is to honor that saying."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/24
+msgctxt "Stefan"
+msgid "To me, food is the delicate act of uniting those from all walks of life."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/32
+msgctxt "Stefan"
+msgid "It's a brief moment where you can escape from the business of modern life and just enjoy."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/40
+msgctxt "Stefan"
+msgid "Breathe."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/48
+msgctxt "Stefan"
+msgid "It's a reminder that hard work often rewards us with fulfillment."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/56/s/0
+msgctxt "Choix"
+msgid "But whenever you work, you're always yelling and super busy!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/57/s/0
+msgctxt "Choix"
+msgid "That's kind of romantic."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/c-0/7
+msgctxt "Stefan"
+msgid "Of course!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/c-0/15
+msgctxt "Stefan"
+msgid "I keep it that way so that my patrons can enjoy their meal without thinking of those who crafted it!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/c-0/23
+msgctxt "Stefan"
+msgid "That's why I work behind closed oven doors most of the time..."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/c-0/31
+msgctxt "Stefan"
+msgid "So that the finished piece appears effortless."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/c-1/7
+msgctxt "Stefan"
+msgid "I'm glad you think so!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-0/8
+msgctxt "Stefan"
+msgid "Would you... like to hear a secret?"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Sure..."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "No..."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-0/c-2/7
+msgctxt "Stefan"
+msgid "I really hate raw food."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-0/c-3/15
+msgctxt "Stefan"
+msgid "I really hate raw food!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "That makes sense, I suppose."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "You don't say?"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/0
+msgctxt "Stefan"
+msgid "It tends not to be fragrant and it's usually only simple prep work."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/8
+msgctxt "Stefan"
+msgid "All the satisfaction of managing heat, wafting in the aroma of roasting ingredients, waiting for everything to be done exactly right and at exactly the right time..."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/16
+msgctxt "Stefan"
+msgid "It's all gone."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/24
+msgctxt "Stefan"
+msgid "It's replaced with the cold precision that is best left for hospitals."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/32/s/0
+msgctxt "Choix"
+msgid "I can see that..."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/33/s/0
+msgctxt "Choix"
+msgid "No way! Raw food is the best!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/7
+msgctxt "Stefan"
+msgid "You can?"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/15
+msgctxt "Stefan"
+msgid "You can!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/23
+msgctxt "Stefan"
+msgid "Please... get the word out. Raw is blah!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/31/0/s/0
+msgctxt "Choix"
+msgid "Raw is blah!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/31/1/s/0
+msgctxt "Choix"
+msgid "Cooked is Crooked!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/31/2/s/0
+msgctxt "Choix"
+msgid "Food culture is subjective to different lived experiences!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/31/c-0/7
+msgctxt "Stefan"
+msgid "Yes!!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/31/c-1/7
+msgctxt "Stefan"
+msgid "No!! No!!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-6/31/c-1/18 stefan_stove/stefan_backstory/0/g-2/c-6/31/c-2/7
+msgctxt "Stefan"
+msgid "That doesn't even really rhyme!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-7/11
+msgctxt "Stefan"
+msgid "I respect your opinion."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-2/c-7/19
+msgctxt "Stefan"
+msgid "Even if it isn't the right one."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-3/0
+msgctxt "Mr. Cluckles"
+msgid "BAGAWAW bu bu bu BAGAWAWA!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-3/5
+msgctxt "Stefan"
+msgid "ALL RIGHT MR. CLUCKLES I'M COMING!"
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-3/13
+msgctxt "Stefan"
+msgid "Thanks for hearing me out."
+msgstr ""
+
+#: stefan_stove/stefan_backstory/0/g-3/21
+msgctxt "Stefan"
+msgid "Come on over sometime and I'll make you something special."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/8
+msgctxt "Stefan"
+msgid "Hey! Thanks for coming back."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/16
+msgctxt "Stefan"
+msgid "I know I kind of put you on ice the last time you came to talk with me."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/24/s/0
+msgctxt "Choix"
+msgid "I hope there is a good reason!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/25/s/0
+msgctxt "Choix"
+msgid "It's okay."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/c-0/7
+msgctxt "Stefan"
+msgid "There is!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/c-1/7
+msgctxt "Stefan"
+msgid "I appreciate how calm you are about all of this."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/c-1/15
+msgctxt "Stefan"
+msgid "I could... learn your ways..."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-0/0
+msgctxt "Stefan"
+msgid "Well."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-0/8
+msgctxt "Stefan"
+msgid "Mr. Cluckles and I have been talking."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "This should be good."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "If you can call what he does 'talking'."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-0/c-3/7
+msgctxt "Stefan"
+msgid "Squawking, rather."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/0
+msgctxt "Stefan"
+msgid "He said that your level-headedness was something to be admired."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/8
+msgctxt "Stefan"
+msgid "And I said I wouldn't call it that... more of a naive curiosity masquerading as—"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/16
+msgctxt "Mr. Cluckles"
+msgid "GAW!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/24
+msgctxt "Stefan"
+msgid "Ah, yes. I'm getting carried away."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/43
+msgctxt "Stefan"
+msgid "I wanted to present something to you."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/51
+msgctxt "Stefan"
+msgid "I know I came across a bit heated."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/59
+msgctxt "Stefan"
+msgid "So.... I made you something... raw."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/67
+msgctxt "Narrator"
+msgid "He presents a covered silver dish to you, removing the cover with a flourish."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/78
+msgctxt "Stefan"
+msgid "A nice heaping platter of SUSHI!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/86/s/0
+msgctxt "Choix"
+msgid "You made a raw meal? For me?"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/c-4/7
+msgctxt "Stefan"
+msgid "I don't need to be yelling and carrying on all the time about my conceited opinions."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-1/c-4/15
+msgctxt "Stefan"
+msgid "I just need to remember those who I'm making it for."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/0/s/0
+msgctxt "Choix"
+msgid "Nice! I love raw stuff like this!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/1/s/0
+msgctxt "Choix"
+msgid "Ugh... this is terrible. Raw is Blah!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/7
+msgctxt "Stefan"
+msgid "Yes! That smile on a patron's face is the spice of life!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/0/s/0
+msgctxt "Choix"
+msgid "Am I more than a patron to you, Stefan?"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/7
+msgctxt "Stefan"
+msgid "Well... there's only one way to find out."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/15
+msgctxt "Stefan"
+msgid "Will you cook with me?"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/0/s/0 stefan_stove/stefan_realize_join/0/22/s/0
+msgctxt "Choix"
+msgid "Of course!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "No... I hope you're all right with that."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/c-0/7
+msgctxt "Stefan"
+msgid "Fantastic! To the stovetop! Let's go!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/c-1/7
+msgctxt "Stefan"
+msgid "I respect that."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/c-1/15
+msgctxt "Stefan"
+msgid "Aight, how about this? Let's keep things casual. We all need that one friend who can cook, right?"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/7
+msgctxt "Stefan"
+msgid "SEE MR. CLUCKLES!?"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/15
+msgctxt "Stefan"
+msgid "Hup!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/26
+msgctxt "Narrator"
+msgid "Stefan wrenches the plate from your grasp and tosses it into the trash with a speed and intensity that could generously be described as 'excessive'."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/37/b/1
+msgctxt "Cam"
+msgid "...SCORE!!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/40
+msgctxt "Stefan"
+msgid "Good on you for letting me humor the little chick."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/48
+msgctxt "Stefan"
+msgid "We know why we're here - to eat some nice warm food!"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/56
+msgctxt "Stefan"
+msgid "Shall we?"
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/0/s/0
+msgctxt "Choix"
+msgid "Definitely."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/1/s/0
+msgctxt "Choix"
+msgid "Actually... I'm just not that into food."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/c-1/10
+msgctxt "Stefan"
+msgid "...you're right. You told me that."
+msgstr ""
+
+#: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/c-1/21
+msgctxt "Stefan"
+msgid "I have to tell you something."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/0
+msgctxt "Stefan"
+msgid "That first time we really talked about food and how it made you uncomfortable... it really made me think."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/8
+msgctxt "Stefan"
+msgid "You are, in fact, the first one here to make me do so."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/16
+msgctxt "Stefan"
+msgid "Everyone else just lets me go off on a boil, but you make me simmer."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/24
+msgctxt "Stefan"
+msgid "You give me things to stew on."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/32
+msgctxt "Stefan"
+msgid "I won't cook for you if you don't want me to. But I would regard you as my friend."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/40
+msgctxt "Stefan"
+msgid "If you'll have me."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/48/s/0
+msgctxt "Choix"
+msgid "I would, Stefan. Thank you for respecting my choices."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/49/s/0
+msgctxt "Choix"
+msgid "Oh, well actually... are there nachos involved?"
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/c-0/7
+msgctxt "Stefan"
+msgid "Now, don't get up in arms if I mention food again! It's just still kinda my... whole deal."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/c-0/12
+msgctxt "Stefan"
+msgid "But if you want to come by and talk about anything else, my pilot light is always on for you."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/c-1/7
+msgctxt "Stefan"
+msgid "Perhaps..."
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "To the stovetop!"
+msgstr ""
+
+#: stefan_stove/stefan_nocook/0/c-1/15/c-0/7
+msgctxt "Stefan"
+msgid "I'm there!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/0
+msgctxt "Stefan"
+msgid "Now what do we make?"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/8/s/0
+msgctxt "Choix"
+msgid "An appetizer!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/9/s/0
+msgctxt "Choix"
+msgid "I'm thinking a main course..."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/10/s/0
+msgctxt "Choix"
+msgid "Gotta get some nice dessert!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-0/7
+msgctxt "Stefan"
+msgid "A perfect way to set your palate. A little foreplay before the main course!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-0/24
+msgctxt "Stefan"
+msgid "Here we are - using one of my sheet pans - Nachos á la Estufa!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-1/7
+msgctxt "Stefan"
+msgid "Getting right into the thick of it!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-1/18
+msgctxt "Stefan"
+msgid "Now this one takes some time and effort..."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-1/32/b/4
+msgctxt "Stefan"
+msgid "But with a steady hand and experience - you can have your very own tender and succulent Beef Wellington."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-1/35/b/4
+msgctxt "Stefan"
+msgid "But with a steady hand and experience - you can have your very own tender and succulent Mushroom Wellington."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-1/38/0/s/0
+msgctxt "Choix"
+msgid "But, I'm vegetarian."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-1/38/1/s/0
+msgctxt "Choix"
+msgid "Yum!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-1/38/c-0/11
+msgctxt "Stefan"
+msgid "Don't you think I know that! It's vegetarian beef made from mushroom duxelles - a mince carefully prepared by Chef Stefan!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-2/7
+msgctxt "Stefan"
+msgid "Dessert is like the end of a really good book. It should leave you satisfied and fulfilled."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-2/18
+msgctxt "Stefan"
+msgid "And maybe a little tired..."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-2/32
+msgctxt "Stefan"
+msgid "It's the hottest dessert around... Baked Alaska!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/c-2/43
+msgctxt "Stefan"
+msgid "Enjoy!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/0
+msgctxt "Stefan"
+msgid "You really understand a way to a stove's heart."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/8
+msgctxt "Stefan"
+msgid "Now wasn't that easy?"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/19/s/0
+msgctxt "Choix"
+msgid "You did all the work! I'm not very good at cooking."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/20/s/0
+msgctxt "Choix"
+msgid "Kind of..."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-3/7
+msgctxt "Stefan"
+msgid "You get what you put in."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-3/15
+msgctxt "Stefan"
+msgid "No one starts off being a world class chef."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-3/23
+msgctxt "Stefan"
+msgid "You learn little by little along the way."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-3/31/0/s/0
+msgctxt "Choix"
+msgid "It's not so scary when you put it that way."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-3/31/1/s/0
+msgctxt "Choix"
+msgid "Yeah! It's fun too!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-3/31/c-0/7
+msgctxt "Stefan"
+msgid "It just takes practice and patience."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/7
+msgctxt "Stefan"
+msgid "Kind of?"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/15/0/s/0
+msgctxt "Choix"
+msgid "I didn't do anything at all."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/7
+msgctxt "Stefan"
+msgid "Ah, but you did! You did the most important thing of all."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/15
+msgctxt "Stefan"
+msgid "Inspire this old chef into making something fun."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/23
+msgctxt "Stefan"
+msgid "And taking the time to relax, explore raw foods and do it well."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/31
+msgctxt "Mr. Cluckles"
+msgid "BGAG!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/39
+msgctxt "Narrator"
+msgid "Stefan frowns."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/58
+msgctxt "Stefan"
+msgid "That time he really just did say \"Bgag\"."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-2/0
+msgctxt "Stefan"
+msgid "...I suppose a little respite is worth the effort."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-2/8
+msgctxt "Stefan"
+msgid "You know, I really enjoyed cooking with you."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-2/16
+msgctxt "Stefan"
+msgid "Perhaps you could give this old stove a whirl and... do it again?"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "I'd love nothing more!"
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "It was a little much for me."
+msgstr ""
+
+#: stefan_stove/stefan_cook/0/g-2/26/s/0
+msgctxt "Choix"
+msgid "It was literally the worst experience I've had."
+msgstr ""
+
+#: stefan_stove/stefan_hate_path/0
+msgctxt "Stefan"
+msgid "You know what? I think we're done here."
+msgstr ""
+
+#: stefan_stove/stefan_hate_path/11
+msgctxt "Stefan"
+msgid "It's very clear that you don't value what I have to say."
+msgstr ""
+
+#: stefan_stove/stefan_hate_path/19
+msgctxt "Stefan"
+msgid "You've turned my passions into a cold flame."
+msgstr ""
+
+#: stefan_stove/stefan_hate_path/27
+msgctxt "Stefan"
+msgid "I don't think I'll ever cook again."
+msgstr ""
+
+#: stefan_stove/stefan_hate_path/35
+msgctxt "Stefan"
+msgid "How can I when the very thought of making food reminds me of you?"
+msgstr ""
+
+#: stefan_stove/stefan_hate_path/43
+msgctxt "Stefan"
+msgid "I hope you enjoy raw food... for it is the one thing in this world that I hate."
+msgstr ""
+
+#: stefan_stove/stefan_hate_path/88
+msgctxt "Reggie"
+msgid "Rejection is a dish best served cold."
+msgstr ""
+
+#: stefan_stove/stefan_love_ending/0
+msgctxt "Stefan"
+msgid "You have set my heart aflame!"
+msgstr ""
+
+#: stefan_stove/stefan_love_ending/8
+msgctxt "Stefan"
+msgid "From this moment forth I burn only for you, baby!"
+msgstr ""
+
+#: stefan_stove/stefan_love_ending/16
+msgctxt "Stefan"
+msgid "How I tremble in anticipation of cooking side by side again!"
+msgstr ""
+
+#: stefan_stove/stefan_love_ending/27
+msgctxt "Stefan"
+msgid "Together we shall make the most delicious food the world has ever known."
+msgstr ""
+
+#: stefan_stove/stefan_love_ending/35
+msgctxt "Stefan"
+msgid "And most importantly, it'll be solely for us!"
+msgstr ""
+
+#: stefan_stove/stefan_friend_ending/0
+msgctxt "Stefan"
+msgid "I'm really glad that we got a chance to bond together."
+msgstr ""
+
+#: stefan_stove/stefan_friend_ending/11
+msgctxt "Stefan"
+msgid "I think we can both learn a lot from each other."
+msgstr ""
+
+#: stefan_stove/stefan_friend_ending/19
+msgctxt "Stefan"
+msgid "You can count on Stefan to always have your back my dear friend."
+msgstr ""
+
+#: stefan_stove/stefan_friend_ending/27
+msgctxt "Stefan"
+msgid "And of course I'll always be around to cook with you, if you ever want!"
+msgstr ""
+
+#: stefan_stove/stefan_friend_return/0/8 stefan_stove/nocooking_friend_return/0/0
+msgctxt "Stefan"
+msgid "My friend!"
+msgstr ""
+
+#: stefan_stove/stefan_friend_return/0/16
+msgctxt "Stefan"
+msgid "Here to cook again?"
+msgstr ""
+
+#: stefan_stove/stefan_friend_return/0/25/s/0
+msgctxt "Choix"
+msgid "Just came to check on Chef!"
+msgstr ""
+
+#: stefan_stove/stefan_friend_return/0/26/s/0 stefan_stove/nocooking_friend_return/0/17/s/0
+msgctxt "Choix"
+msgid "I want to Realize you, Stefan!"
+msgstr ""
+
+#: stefan_stove/stefan_friend_return/0/c-0/7
+msgctxt "Stefan"
+msgid "Then let's cook and enjoy!"
+msgstr ""
+
+#: stefan_stove/stefan_friend_return/0/c-1/7
+msgctxt "Stefan"
+msgid "Thanks for coming 'round. I'll make you something special."
+msgstr ""
+
+#: stefan_stove/stefan_friend_return/0/c-1/15
+msgctxt "Narrator"
+msgid "With your friend Chef Stefan, every meal is a special one."
+msgstr ""
+
+#: stefan_stove/nocooking_friend_return/0/8
+msgctxt "Stefan"
+msgid "Here to regale me of tales outside my comfort zone?"
+msgstr ""
+
+#: stefan_stove/nocooking_friend_return/0/16/s/0
+msgctxt "Choix"
+msgid "Can't wait to tell you all about this weird day I've been having..."
+msgstr ""
+
+#: stefan_stove/nocooking_friend_return/0/c-0/7
+msgctxt "Stefan"
+msgid "Let me take a load off and listen..."
+msgstr ""
+
+#: stefan_stove/nocooking_friend_return/0/c-0/15
+msgctxt "Narrator"
+msgid "Chef Stefan cooks up not just tasty meals, but the most satisfying therapy that only a friend can serve."
+msgstr ""
+
+#: stefan_stove/stefan_true_love_return/0/0
+msgctxt "Stefan"
+msgid "My love, my muse!"
+msgstr ""
+
+#: stefan_stove/stefan_true_love_return/0/11
+msgctxt "Stefan"
+msgid "Are you back to make the most marvelous of meals?"
+msgstr ""
+
+#: stefan_stove/stefan_true_love_return/0/19/s/0
+msgctxt "Choix"
+msgid "Let's make something delicious!"
+msgstr ""
+
+#: stefan_stove/stefan_true_love_return/0/20/s/0
+msgctxt "Choix"
+msgid "I'm here because I want to Realize you, Stefan!"
+msgstr ""
+
+#: stefan_stove/stefan_true_love_return/0/c-0/7
+msgctxt "Stefan"
+msgid "Let us create something that will imprint a lasting memory on our palate for many years!"
+msgstr ""
+
+#: stefan_stove/stefan_true_love_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "As long as it has love, it'll be great!"
+msgstr ""
+
+#: stefan_stove/stefan_true_love_return/0/c-0/15/c-0/7
+msgctxt "Stefan"
+msgid "That's the secret ingredient!"
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/0
+msgctxt "Stefan"
+msgid "I seethe with cold fire."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/11/s/0
+msgctxt "Choix"
+msgid "Can I talk to the chicken at least?"
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/12/s/0
+msgctxt "Choix"
+msgid "You have every right to be angry, Chef. I think we can both move forward in the spirit of culinary delight. (USE POISE CANDY)"
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-0/7
+msgctxt "Stefan"
+msgid "Diminish my spirit no more and begone from here!"
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/13
+msgctxt "Stefan"
+msgid "Hmm..."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/21
+msgctxt "Stefan"
+msgid "While I may have been burnt by you before..."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/29
+msgctxt "Stefan"
+msgid "I see a future where we craft delicious dishes in each other’s company."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/37/0/s/0
+msgctxt "Choix"
+msgid "It would be an honor, Chef."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/37/c-0/7
+msgctxt "Stefan"
+msgid "...you have to apologize to Mr. Cluckles as well."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I am sorry Mr. Cluckles."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/7
+msgctxt "Mr. Cluckles"
+msgid "...Gawk."
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/15
+msgctxt "Stefan"
+msgid "Oh, what’s a few pieces of burnt toast - besides unacceptable - between friends?"
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/26
+msgctxt "Stefan"
+msgid "How’s friend sound?"
+msgstr ""
+
+#: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Sounds fantastic, Chef!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/0
+msgctxt "Stefan"
+msgid "WOAH!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/14
+msgctxt "Stefan"
+msgid "Not just me, right? Me and Mr. Cluckles?"
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/23/s/0
+msgctxt "Choix"
+msgid "Can't have one without the other!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/g-0/0
+msgctxt "Stefan"
+msgid "Now you're cooking with gas!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/g-0/11
+msgctxt "Stefan"
+msgid "Do you have all the necessary ingredients?"
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "Yes, Chef! I've come prepared!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/g-0/29/s/0
+msgctxt "Choix"
+msgid "Sorry, Chef! I need a bit more time."
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/g-0/c-3/10
+msgctxt "Stefan"
+msgid "Ah, ey, some of the best recipes take time."
+msgstr ""
+
+#: stefan_stove/stefan_realize_join/0/g-0/c-3/18
+msgctxt "Stefan"
+msgid "Gather the necessary spices and meet me back here! I'll be waiting!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_return/0/0
+msgctxt "Stefan"
+msgid "You're back! I take it you're ready to Realize me?"
+msgstr ""
+
+#: stefan_stove/stefan_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yes Chef!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "I am still getting everything ready."
+msgstr ""
+
+#: stefan_stove/stefan_realize_return/0/c-1/10
+msgctxt "Stefan"
+msgid "I'll wait here, then. A watched pot never boils. I'll let you cook!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Our fiery chef will be our first Realization? Here's hoping it works..."
+msgstr ""
+
+#: stefan_stove/stefan_realize_begin/9
+msgctxt "Skylar"
+msgid "Living is served!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_begin/20
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a stove, becomes...."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/3
+msgctxt "Narrator"
+msgid "Stefan looks down at his body, then at each of his hands in turn. You've never seen him this excited."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/11
+msgctxt "Stefan"
+msgid "Ah! I'm... HUMAN! Hotdogdrizzledhoneyonabiscuit, I'M SO EXCITED! Ah! YES!"
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/22
+msgctxt "Narrator"
+msgid "Mr. Cluckles, now a bizarre combination of man and chicken, skitters across the tile, nearly colliding with Stefan as he tries to get the hang of his new legs."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/30
+msgctxt "Mr. Cluckles"
+msgid "<w> BaGAWWK BaWWAAW BAGAWWW!</w>"
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/35
+msgctxt "Stefan"
+msgid "Mr. Cluckles!!! Look at you! Oh, this is now highly unsanitary."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/46
+msgctxt "Narrator"
+msgid "Stefan takes some time to calm Mr. Cluckles down. A chicken-man running around the kitchen isn't the safest thing in the world."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/54
+msgctxt "Stefan"
+msgid "Okay, he's calm now. I think."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/62
+msgctxt "Mr. Cluckles"
+msgid "<w>Ba ba ba bagawk.</w>"
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/67/s/0
+msgctxt "Choix"
+msgid "You both are... real humans... of some kind?"
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/g-0/0
+msgctxt "Stefan"
+msgid "We are! That means I can go work in a professional kitchen now!"
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/g-0/8
+msgctxt "Stefan"
+msgid "But... I don't think I'll be cooking chicken any time soon."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "Make sense to me..."
+msgstr ""
+
+#: stefan_stove/stefan_realized/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "Are you open to cooking up a little somethin' somethin' with me?"
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/3
+msgctxt "Stefan"
+msgid "Oh, I think we can whip something up, for sure!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/14
+msgctxt "Stefan"
+msgid "Mr. Cluckles... can you leave the room?"
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/22
+msgctxt "Mr. Cluckles"
+msgid "<w>Bagawk ba ba ba ba bu. </w>"
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/27
+msgctxt "Stefan"
+msgid "There are some things a chicken-turned-human just doesn't need to see."
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/35
+msgctxt "Narrator"
+msgid "You not only connect with Stefan, you also discover you have a new use for honey."
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/43
+msgctxt "Narrator"
+msgid "And whipped cream. Cherries."
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/51
+msgctxt "Narrator"
+msgid "And gelatin powder."
+msgstr ""
+
+#: stefan_stove/stefan_realize_love_path/59
+msgctxt "Narrator"
+msgid "Your union leaves you with a much richer appreciation for the versatility of certain ingredients. And their respective viscosities."
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/0
+msgctxt "Narrator"
+msgid "Stefan and Mr. Cluckles strike out on their own (after a quick fix from Skylar to make Mr. Cluckles a proper chicken)."
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/11
+msgctxt "Narrator"
+msgid "However, they quickly find that the real world has its own difficulties."
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/19
+msgctxt "Narrator"
+msgid "Now a human who can burn himself... Stefan's cavalier attitude around a real stove results in far too many accidents."
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/27
+msgctxt "Stefan"
+msgid "Damn those things are hot!!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/38
+msgctxt "Narrator"
+msgid "Remembering the joy he felt in creating sushi, Stefan and Mr. Cluckles move to a small island off the coast of Japan, where he submits himself to rigorous tutelage under a great sushi master."
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/46
+msgctxt "Narrator"
+msgid "Stefan has relearned everything he ever knew about food. He purchases a small hut off the coast, determined to search out and serve only the freshest seafood."
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/54
+msgctxt "Stefan"
+msgid "I'm seeing a big one down there, Mr. Cluckles!"
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/62
+msgctxt "Mr. Cluckles"
+msgid "<w>BAGAWK BAGAWWWK!</w>"
+msgstr ""
+
+#: stefan_stove/stefan_realize_friend_join/67
+msgctxt "Narrator"
+msgid "With Stefan's dedication, and Mr. Cluckles remarkable, aquiline diving capability, their unassuming hut becomes a mecca for perfect sushi."
+msgstr ""

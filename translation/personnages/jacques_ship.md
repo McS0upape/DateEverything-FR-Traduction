@@ -1,0 +1,32 @@
+# Captain Jacques Pierrot
+
+<!-- Fiche de voix pour la traduction. Les champs « À compléter » sont remplis par l'étape « bible » puis relus par un humain. -->
+
+## Identité (Date-A-Dex)
+
+- **Fichier** : `jacques_ship.po`
+- **Objet** : Ship-in-a-Bottle
+- **Doublage VO** : JB Blanc
+- **Aime** : Being Feared
+- **N'aime pas** : Smug Adventurers Who Think They Know Everything
+- **Le saviez-vous ?** : Here be dragons! Jacques has the fearsome attitude of a veteran captain, with the biting wit to back it up. Stick around this one if you like locking horns, loud voices, and short kings.
+
+## Intervenants dans ce fichier
+
+- Jacques (506 répliques)
+- Choix (301 répliques)
+- Beau (90 répliques)
+- Narrator (37 répliques)
+- Reggie (2 répliques)
+- Skylar (2 répliques)
+- Tag Nom d'objet (MAJUSCULES) (1 répliques)
+
+## Voix en français
+
+- **Genre grammatical du personnage** : À compléter
+- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Le joueur ou la joueuse lui parle avec** : tu
+- **Registre** : À compléter
+- **Personnalité, manière de parler** : À compléter
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
+- **Exemples de répliques traduites (référence de ton)** : À compléter

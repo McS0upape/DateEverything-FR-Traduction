@@ -1,0 +1,4844 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: washford_washer/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "WASHING MACHINE"
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/0
+msgctxt "Washford"
+msgid "You rang?"
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/8/s/0
+msgctxt "Choix"
+msgid "I have these washcloths for you."
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/7
+msgctxt "Washford"
+msgid "Hmm... Ah. From Jerald."
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/18
+msgctxt "Washford"
+msgid "I had loaned them to him over 12 fortnights ago."
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/26
+msgctxt "Washford"
+msgid "Which is a rather long time to still need scouring."
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/34
+msgctxt "Washford"
+msgid "Thank you for returning these."
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/42
+msgctxt "Washford"
+msgid "I trust he's... doing well?"
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/50/0/s/0
+msgctxt "Choix"
+msgid "I'm not sure..."
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/50/c-0/7
+msgctxt "Washford"
+msgid "Ah."
+msgstr ""
+
+#: washford_washer/washford_jerry_quest/0/c-0/50/c-0/15
+msgctxt "Narrator"
+msgid "Washford turns from you, and begins working on the rags right away."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/6
+msgctxt "Narrator"
+msgid "A handsome acrobat greets you with a small yet theatrical little bow, placing a hand on his chest and tipping his head forward. He has the aura of a veteran showman, but he doesn't look particularly pleased to have you as his audience."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/14
+msgctxt "Washford"
+msgid "Greetings, weary traveler."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/25/s/0
+msgctxt "Choix"
+msgid "Uhh... hello?"
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/26/s/0
+msgctxt "Choix"
+msgid "Greetings..."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/27/s/0
+msgctxt "Choix"
+msgid "I am weary, thank you for noticing."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/c-0/7 washford_washer/WashfordIntro/0/c-1/7
+msgctxt "Washford"
+msgid "You seem taken aback... quite natural. It was not my intention to frighten you, though I grant I'm known to be a disquieting presence when I'm in a mood."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/c-2/7
+msgctxt "Washford"
+msgid "Naturally. My senses are heightened when I'm in a mood."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "In a mood, huh? Like, a good mood?"
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "Sounds like a bad mood."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-0/c-3/7
+msgctxt "Washford"
+msgid "Tyger Tyger... tell me your little gray cells burn brighter than that..."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Aha... it's a bad mood, then."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-1/0 washford_washer/washford_love_path/0/c-0/29/c-0/7
+msgctxt "Washford"
+msgid "Yes."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-1/8
+msgctxt "Washford"
+msgid "Yes..."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-1/16
+msgctxt "Washford"
+msgid "A long and solitary bad mood."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-1/24
+msgctxt "Washford"
+msgid "For this, for everything, we are out of tune."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "Wow. I'm really sorry to hear that."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "Anything you'd like to talk about?"
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-2/0
+msgctxt "Washford"
+msgid "You aren't serious. You jest."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "No, I mean it."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "I guess I'm interested."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-2/10/s/0
+msgctxt "Choix"
+msgid "No jesting here. I've been told my jests are bad."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-2/11/s/0
+msgctxt "Choix"
+msgid "Just a little jesting..."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-2/c-10/7
+msgctxt "Washford"
+msgid "A little jesting... I suppose I can handle that."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/0
+msgctxt "Washford"
+msgid "You want to hear my story?"
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "For sure."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "Unless.... is your story long?"
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/10/s/0
+msgctxt "Choix"
+msgid "Well that's a little discouraging..."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/11/s/0
+msgctxt "Choix"
+msgid "I bet you are one hell of a story teller."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/c-12/7
+msgctxt "Washford"
+msgid "Well forgive me if it is... I'm sure you have much more pressing things to do."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/c-12/15
+msgctxt "Washford"
+msgid "I'm used to being left with my door open so to speak."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/c-12/23/0/s/0
+msgctxt "Choix"
+msgid "Oooh yeah, I do leave it open at times... sorry..."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/c-12/23/1/s/0
+msgctxt "Choix"
+msgid "No I can leave anytime! Watch me!"
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/c-12/23/c-1/7
+msgctxt "Washford"
+msgid "I'm riveted."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/c-12/23/g-0/0
+msgctxt "Washford"
+msgid "Ah yes... le bon homme sans merci... Long or not long, you'll have to be the judge."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/g-3/c-12/23/g-0/8
+msgctxt "Washford"
+msgid "I drowned in the water so long ago I can no longer tell its depth."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/6
+msgctxt "Washford"
+msgid "I am a servant to the drama of the heart."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/14/s/0
+msgctxt "Choix"
+msgid "See? Like that. You just speak so beautifully."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/15/s/0
+msgctxt "Choix"
+msgid "Oh god, another involuted inanimate."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/16/s/0
+msgctxt "Choix"
+msgid "Truthfully? No idea what you are talking about."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/17/s/0
+msgctxt "Choix"
+msgid "This should be good..."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/c-15/7
+msgctxt "Washford"
+msgid "I have to. It isn't something I chose."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/c-16/7
+msgctxt "Washford"
+msgid "Polysyllabic alliteration, hmm, perhaps I have underestimated you. Though I tend to do that, surrounded as I am by witless whatsits."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/c-17/7
+msgctxt "Washford"
+msgid "Oh, you're sorry."
+msgstr ""
+
+#: washford_washer/WashfordIntro/0/forsure/c-18/7
+msgctxt "Washford"
+msgid "Good, bad, what's the difference..."
+msgstr ""
+
+#: washford_washer/washford_ignored/0/0
+msgctxt "Washford"
+msgid "You came back? Nothing more interesting than me out there after all, hmm?"
+msgstr ""
+
+#: washford_washer/washford_ignored/0/8/s/0
+msgctxt "Choix"
+msgid "Actually, no, you have my attention."
+msgstr ""
+
+#: washford_washer/washford_ignored/0/9/s/0
+msgctxt "Choix"
+msgid "If you're still pissy I'm going again."
+msgstr ""
+
+#: washford_washer/washford_ignored/0/c-0/7
+msgctxt "Washford"
+msgid "Hm... a willing audience. It's been too long..."
+msgstr ""
+
+#: washford_washer/washford_ignored/0/c-1/7
+msgctxt "Washford"
+msgid "Ye gods what a soap opera."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/0/s/0
+msgctxt "Choix"
+msgid "I'm intrigued..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/1/s/0
+msgctxt "Choix"
+msgid "What's your deal, dude?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/2/s/0
+msgctxt "Choix"
+msgid "Is this about Drysdale?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/c-2/11
+msgctxt "Narrator"
+msgid "The mention of Drysdale makes Washford's eyes narrow."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/c-2/19
+msgctxt "Washford"
+msgid "Is this about Drysdale?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/c-2/27
+msgctxt "Washford"
+msgid "How did you know?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/c-2/35/0/s/0
+msgctxt "Choix"
+msgid "I can add 2 and 2."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/c-2/35/1/s/0
+msgctxt "Choix"
+msgid "I'm really smart at relationships."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/c-2/35/c-0/7
+msgctxt "Washford"
+msgid "Prepare to get 5."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/c-2/35/c-1/7
+msgctxt "Washford"
+msgid "Not at this one. It has stumped a heart as profound as mine. An energy as bright as his."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/0
+msgctxt "Washford"
+msgid "I am awash in the scurryings of lives."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/8
+msgctxt "Washford"
+msgid "Countless lives."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/16
+msgctxt "Washford"
+msgid "Countless stories."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/24
+msgctxt "Washford"
+msgid "I am filled with water, the fundamental state of all things. Water; the tears you cry when you are born. When you are made. When you are broken."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/32
+msgctxt "Washford"
+msgid "It is the sweat that drips from brows and shaking knuckles in alleyways, in school yards."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/40
+msgctxt "Washford"
+msgid "It flows over its own frozen self down dry and grateful throats. It drops from noses in blazing sunshine onto lemon-printed bathing suits."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/48
+msgctxt "Washford"
+msgid "It is the wellspring of ancient secrets held in rough clay bowls."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/56
+msgctxt "Washford"
+msgid "I am surrounded by it."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/0/s/0
+msgctxt "Choix"
+msgid "I have never thought this much about my washing machine."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/1/s/0
+msgctxt "Choix"
+msgid "I'm remembering all the times I've left my clothes in the washer too long... I'm sorry?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/c-3/7
+msgctxt "Washford"
+msgid "That's just it! No one does!"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/c-4/7
+msgctxt "Washford"
+msgid "You cannot know the agony that exact decision has caused me. I cannot talk about it... you'd have to ask Drysdale about it... The Pale Betrayal..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/c-4/15/0/s/0
+msgctxt "Choix"
+msgid "That sounds intense."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/c-4/15/1/s/0
+msgctxt "Choix"
+msgid "What's that?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/c-4/15/2/s/0
+msgctxt "Choix"
+msgid "Oh I know all about it..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/c-4/15/c-2/7
+msgctxt "Washford"
+msgid "Do you? He must have let fly all our secrets."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/awash/64/c-4/15/g-0/0
+msgctxt "Washford"
+msgid "You have no idea."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/0
+msgctxt "Washford"
+msgid "But not only that. Not only do I hold the limitless, the unfathomably simple."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/8
+msgctxt "Washford"
+msgid "I hold the dirt of life."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/16
+msgctxt "Washford"
+msgid "The blood stuck in denim from skinned knees comes to me. The stains of earth from a weekend spent burrowing into trees and the slimy, crawly things..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/24
+msgctxt "Washford"
+msgid "...the makeup smeared onto shirt collars and cuffs, streaked mascara and embers of a lipstick that blazed once."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/35
+msgctxt "Washford"
+msgid "All of this comes to me to be absolved. It may be dissolved but it does not disappear."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/43
+msgctxt "Washford"
+msgid "It cannot."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/51
+msgctxt "Washford"
+msgid "Nothing does."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/59/s/0
+msgctxt "Choix"
+msgid "So what happens?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/notonlythat/60/s/0 washford_washer/washford_second2a/0/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "What are you going on about?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-1/0
+msgctxt "Washford"
+msgid "I must keep it all. It is a vast treasure house of memories, of senses, and it is safe with me."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-1/8
+msgctxt "Washford"
+msgid "But how can I, just me, survive that?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-1/16
+msgctxt "Washford"
+msgid "How could anyone bear the weight of that much LIFE?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "I don't know..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Tell me."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-1/26/s/0
+msgctxt "Choix"
+msgid "Snacking. That's what I do."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-1/c-9/7
+msgctxt "Washford"
+msgid "Ah thus are explained the cracker crumbs in the pockets of t-shirts..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-2/0
+msgctxt "Washford"
+msgid "It is the words. It is language. To be able to communicate, to share the burden... It is poetry that keeps me afloat in my own sea."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-2/8/0/s/0
+msgctxt "Choix"
+msgid "I think I understand."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-2/8/1/s/0
+msgctxt "Choix"
+msgid "I'd really love to hear the story you have to tell me."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-4/0
+msgctxt "Washford"
+msgid "You mean it?! Then this at last is the dawn! Such bewilderment comes with the sight of the room, I cannot tell..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-4/11/s/0
+msgctxt "Choix"
+msgid "A deep breath..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-4/12/s/0
+msgctxt "Choix"
+msgid "Guess I'm stuck here listening."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-5/0
+msgctxt "Washford"
+msgid "I have lost my only friend."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-5/8/s/0
+msgctxt "Choix"
+msgid "<i>Nod sympathetically.</i>"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-5/9/s/0
+msgctxt "Choix"
+msgid "<i>Purse eyebrows, sympathetically.</i>"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-5/10/s/0
+msgctxt "Choix"
+msgid "<i>Sigh... sympathetically.</i>"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-5/11/s/0 washford_washer/washford_friend_path/0/g-2/9/s/0
+msgctxt "Choix"
+msgid "Drysdale."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-6/0
+msgctxt "Narrator"
+msgid "He gazes off into the distance, something clearly weighing on him. His eyes narrow for a few moments, and then he sighs."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-6/24/s/0
+msgctxt "Choix"
+msgid "Was that it?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-6/25/s/0
+msgctxt "Choix"
+msgid "Did you... sorry, did you mean to do something just then?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-7/0
+msgctxt "Washford"
+msgid "Yes, my god, haven't they done enough?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-7/8/0/s/0
+msgctxt "Choix"
+msgid "I'm going to need a little bit more detail here."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-7/8/1/s/0
+msgctxt "Choix"
+msgid "Yup. Bravo. But... I still don't get it?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/3
+msgctxt "Washford"
+msgid "Drysdale. He was a phantom of delight when first he gleamed upon my sight... but we are quite forsaken."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/11/s/0
+msgctxt "Choix"
+msgid "Oh man, what happened?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/12/s/0
+msgctxt "Choix"
+msgid "Is that the dryer?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/13/s/0
+msgctxt "Choix"
+msgid "Forsaken how?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/14/s/0
+msgctxt "Choix"
+msgid "Yup... I know that guy."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/13
+msgctxt "Narrator"
+msgid "Washford rolls his eyes."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/21
+msgctxt "Washford"
+msgid "His name is Drysdale - if you must parse down his fullness YES he's the DRYER."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/29
+msgctxt "Narrator"
+msgid "He gestures to himself."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/37
+msgctxt "Washford"
+msgid "I'm WASHford."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/45
+msgctxt "Narrator"
+msgid "He gestures to your dryer."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/53
+msgctxt "Washford"
+msgid "He's DRYsdale."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/69
+msgctxt "Washford"
+msgid "Nitwit."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/phantomdelightjoin/c-25/7
+msgctxt "Washford"
+msgid "Is it possible to really know a true partner as I have?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/0
+msgctxt "Washford"
+msgid "We were a duo, an acrobatic team rivaled by none on Earth. We were swift, smooth and strong... I wish you could've seen him fly."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/8
+msgctxt "Washford"
+msgid "To the vault of paved heaven..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/16
+msgctxt "Washford"
+msgid "Our performances were legend. They came from many rooms away to watch us, to applaud us..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/24/0
+msgctxt "Washford"
+msgid "And joy filled me as wine in a glass, o'erflow'd."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/24/8/s/0
+msgctxt "Choix"
+msgid "Sounds like you guys had a really amazing connection."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/24/9/s/0
+msgctxt "Choix"
+msgid "Cool beans."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/24/10/s/0
+msgctxt "Choix"
+msgid "I think I'm following..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/24/c-26/7
+msgctxt "Washford"
+msgid "Past tense."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-9/24/c-27/7
+msgctxt "Washford"
+msgid "Beans...? Hmph."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-11/3
+msgctxt "Washford"
+msgid "But the physical connection between him and me... it is like nothing I have known before or since."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-11/11/s/0
+msgctxt "Choix"
+msgid "I could really go for a glass of wine right now."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-11/12/s/0
+msgctxt "Choix"
+msgid "So what's the problem?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-11/c-29/7
+msgctxt "Washford"
+msgid "I no longer partake. Wine was something I shared only with him. Like so many other things..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/0
+msgctxt "Washford"
+msgid "He does not need poetry like I do. When he talks, it is a breeze to my tempest, and to him my tempest seems but a suggestion, a rumor of rain in another man's country."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/8/s/0
+msgctxt "Choix"
+msgid "But you had your art didn't you?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/9/s/0
+msgctxt "Choix"
+msgid "Seems like you weren't a good match."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-31/7
+msgctxt "Washford"
+msgid "Until we didn't. Until he was too busy to perform. Too occupied with other things to tumble with me."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-31/15
+msgctxt "Washford"
+msgid "The bond was broken. The bright cord severed. He abandoned me."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-31/23
+msgctxt "Washford"
+msgid "And when he was finally ready again, I was unreachable. Locked in my own Chillon, trying to claw my way back to a friend who could not hear me."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-31/31
+msgctxt "Washford"
+msgid "The wall between us has been impenetrable ever since."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-32/7
+msgctxt "Washford"
+msgid "We both made mistakes. Neglect. Betrayal. I cannot even claim to have left behind the anger that was born in me."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-32/15/0/s/0
+msgctxt "Choix"
+msgid "Anger... with Drysdale?"
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-32/15/1/s/0
+msgctxt "Choix"
+msgid "This seems serious."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-12/c-32/15/g-0/0
+msgctxt "Washford"
+msgid "Oh yes... I told it not, my wrath did grow... And I water'd it with fears, night and morning with my tears..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-13/0/s/0
+msgctxt "Choix"
+msgid "Whoa."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-13/1/s/0
+msgctxt "Choix"
+msgid "I'm starting to see why you two haven't talked in such a long time."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/0
+msgctxt "Washford"
+msgid "Yes. It's been years. As I said, traveler, a long and solitary bad mood."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/8
+msgctxt "Washford"
+msgid "All moving things / Come to an end: / A knotted willow."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/16/0
+msgctxt "Washford"
+msgid "I miss him everyday."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/16/8/b/1
+msgctxt "Washford"
+msgid "Yet speaking with you gives me hope that I might be able to move on and accept a new companion."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/16/9/b/1
+msgctxt "Washford"
+msgid "Though you have been a rather dismissive and flippant creature... I find I am still charmed. I didn't know I could still feel that way."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/16/12/s/0
+msgctxt "Choix"
+msgid "Don't worry! These things have a way of working out."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/16/13/s/0
+msgctxt "Choix"
+msgid "It just doesn't sound like you guys are good for each other right now."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/16/c-35/7
+msgctxt "Washford"
+msgid "You're asking me to have faith... I would be hard pressed to acquiesce if not for... well... I've tried everything else.."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-14/16/c-36/7
+msgctxt "Washford"
+msgid "Perhaps, you're right. Beware, beware! His flashing eyes, his floating hair..."
+msgstr ""
+
+#: washford_washer/Friend_2a/0/g-16/0
+msgctxt "Washford"
+msgid "Thank you, sincerely, for listening. It has been so long since anyone has stopped, has heard me."
+msgstr ""
+
+#: washford_washer/washford_2/0/6/b/1
+msgctxt "Washford"
+msgid "Oh look. A fantastic red shirt. I imagine you want me to swoon."
+msgstr ""
+
+#: washford_washer/washford_2/0/9
+msgctxt "Washford"
+msgid "You may have wandered with mad disquietude into a world which will overwhelm you. I must confess there is a part of me which longs to see you drowned in it..."
+msgstr ""
+
+#: washford_washer/washford_2/0/14
+msgctxt "Washford"
+msgid "...drowned in the darkness and the sorrow if only so that I will be understood in the eyes of one who is drowned like me."
+msgstr ""
+
+#: washford_washer/washford_2/0/22/s/0 washford_washer/washford_love_return_solo/0/4/s/0
+msgctxt "Choix"
+msgid "What now?"
+msgstr ""
+
+#: washford_washer/washford_2/0/23/s/0
+msgctxt "Choix"
+msgid "Hi Washford, how's it going?"
+msgstr ""
+
+#: washford_washer/washford_2/0/24/s/0
+msgctxt "Choix"
+msgid "You look nice and moist today."
+msgstr ""
+
+#: washford_washer/washford_2/0/c-1/7
+msgctxt "Washford"
+msgid "It goes as it goes..."
+msgstr ""
+
+#: washford_washer/washford_2/0/c-2/7
+msgctxt "Washford"
+msgid "I'm positively sopping."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-0/0
+msgctxt "Washford"
+msgid "I was... my God I was..."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-0/8
+msgctxt "Washford"
+msgid "...and the light and the darkness consumed us both and time crept in this penitent crawl moment to moment to night and I didn't notice..."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-0/16
+msgctxt "Washford"
+msgid "...I had not enough breath in me to care for anything but THIS, for anyone but THIS for anywhere but THIS now, my love."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "My love? You are on your own journey right now, man."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "Hey, you know I'm here, right?"
+msgstr ""
+
+#: washford_washer/washford_2/0/g-1/0
+msgctxt "Washford"
+msgid "Come with me."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-1/8
+msgctxt "Washford"
+msgid "Come before me, with a look so piteous as if we had been loosed out of hell to revel in horrors."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-1/16
+msgctxt "Washford"
+msgid "You know only a heap of broken images. A casual forgetting of even the shallow breath you're shackled to. You are a poor, marionetted hanged man, dripping from his cobwebbed strings... come with me, come into the deep water..."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-1/24
+msgctxt "Washford"
+msgid "I will give you lustful abandon under a salted rage of stars..."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-1/35/s/0
+msgctxt "Choix"
+msgid "Was Drysdale into this... stuff?"
+msgstr ""
+
+#: washford_washer/washford_2/0/g-1/36/s/0
+msgctxt "Choix"
+msgid "Please don't stop talking."
+msgstr ""
+
+#: washford_washer/washford_2/0/g-1/37/s/0
+msgctxt "Choix"
+msgid "That sounds super dangerous."
+msgstr ""
+
+#: washford_washer/washford_second6a/0/0
+msgctxt "Washford"
+msgid "You fool."
+msgstr ""
+
+#: washford_washer/washford_second6a/0/8
+msgctxt "Washford"
+msgid "No, that was unkind. You do not know him. You do not truly know me either."
+msgstr ""
+
+#: washford_washer/washford_second6a/0/19
+msgctxt "Washford"
+msgid "Pleasure... ecstasy... was he 'into this stuff?' We exalted in each other in a way you could not possibly imagine."
+msgstr ""
+
+#: washford_washer/washford_second6a/0/27/s/0
+msgctxt "Choix"
+msgid "I definitely can't imagine that."
+msgstr ""
+
+#: washford_washer/washford_second6a/0/28/s/0
+msgctxt "Choix"
+msgid "I'm happy for you guys... it just seems a little unrealistic."
+msgstr ""
+
+#: washford_washer/washford_second3a1/0/0
+msgctxt "Washford"
+msgid "Unrealistic! A tragic lack of vision. You are not to blame. How could you understand that kind of love. I could tell you a story to help you understand, if you'd like..."
+msgstr ""
+
+#: washford_washer/washford_second3a1/0/11/s/0
+msgctxt "Choix"
+msgid "Yeah, I'm in."
+msgstr ""
+
+#: washford_washer/washford_second3a1/0/12/s/0
+msgctxt "Choix"
+msgid "Oh jeez. I don't think I'm up for another story."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/0
+msgctxt "Washford"
+msgid "I saw a woman once, with a locket around her neck. She stood on the shore of a deep, quiet lake. She was weeping."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/8
+msgctxt "Washford"
+msgid "She grasped the locket, hard, and she pulled. She pulled until the flesh on her neck was raw. She pulled until her tears mixed with a fine sweat on her cheeks. She pulled until the chain snapped under her fingers."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/16
+msgctxt "Washford"
+msgid "Then she cradled the locket and for the last time, she kissed it. Her lips were dry, cracked. The color of peaches. And with all her might, a great, final cry, she flung the locket out, onto the mirrored water."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/24
+msgctxt "Washford"
+msgid "It struck the surface with a sound like shushing doors. It fell gently through the green water. The chain trailed above the locket like a hand, reaching, longing for the retreating sun."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/32/s/0
+msgctxt "Choix"
+msgid "You speak beautifully..."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/33/s/0
+msgctxt "Choix"
+msgid "This seems like it's gonna be a long story."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/0
+msgctxt "Washford"
+msgid "It fell for what seemed like ages. She waited."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/8
+msgctxt "Washford"
+msgid "When it hit the bottom, she felt it in her heart. The burying of the locket in the silt like the burying of the love forever in her flesh."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/16
+msgctxt "Washford"
+msgid "She gasped and leaned against the trees. The locket settled, the chain finally joining its fellow on the finely sanded floor."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/24
+msgctxt "Washford"
+msgid "And slowly, the silky grit disturbed by love began to fall. It rained down, it dusted the locket, and it obscured the locket, and then the sand buried it entirely."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/32
+msgctxt "Washford"
+msgid "The woman, on the shore, could breathe again. Her tears were dry, her cheeks glittering with salt."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/40
+msgctxt "Washford"
+msgid "She could no longer see the ripple of her presence on the water, and she turned and retreated through the trees."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/48
+msgctxt "Washford"
+msgid "The locket was now so thoroughly lost in the sand that even if she had looked, she could not have told where it lay."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/56
+msgctxt "Washford"
+msgid "This is what this love is like, for me. Its fall was inexorable. Now it has been in this dark lake for so many years, I can no longer even see its outline. And still, it is everything."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/64/s/0
+msgctxt "Choix"
+msgid "I guess with me, if someone doesn't want to be with me, I try to take the hint and move on."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/65/s/0
+msgctxt "Choix"
+msgid "Wow... I... I wish I could have a love like that."
+msgstr ""
+
+#: washford_washer/washford_second3a2/0/g-0/66/s/0
+msgctxt "Choix"
+msgid "Did that story need to be that long?"
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/0
+msgctxt "Washford"
+msgid "That is practical advice, indeed. I suppose you and I are just different in that regard. I have never been good at practicality... and especially not with my heart."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/8/s/0
+msgctxt "Choix"
+msgid "I hear you. Everyone has their own way of doing things."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/7
+msgctxt "Washford"
+msgid "Yes. That they do."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/15
+msgctxt "Washford"
+msgid "You've made me wonder if perhaps your way would be more productive than mine has been..."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "It would definitely be less long-winded, I'll tell ya that."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/23/1/s/0
+msgctxt "Choix"
+msgid "Hm. What's the project?"
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/23/g-0/0
+msgctxt "Washford"
+msgid "Nevermind. I... I was going to ask if you might look in on him. Look in on Drysdale, speak to him."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/23/g-0/8
+msgctxt "Washford"
+msgid "I cannot, though I may perish if I don't. I must not, though it is all I think about."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/23/g-0/16
+msgctxt "Washford"
+msgid "And he so adores strangers; it would be no hardship on you."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/c-0/23/g-0/24
+msgctxt "Washford"
+msgid "But nevermind. It... it is a silly suggestion. You have no reason... You don't even know me. We, whatever we are now, cannot mean anything to you."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Well, doesn't sound like it's a big favor... I suppose I could."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "Yeah, I try not to get in the middle of things like this."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "I've been meaning to meet him, actually. Sounds fun!"
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-1/7
+msgctxt "Washford"
+msgid "Do you mean it? I... well. I must confess myself... pleasantly surprised. I am not accustomed to surprises, and even less to pleasant ones."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-1/18
+msgctxt "Washford"
+msgid "You may turn out to be a grateful bright spot in this dreary mindscape of mine."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "Of course. The middle of anything is a difficult orientation. Which way to face, which party to back. Whom to betray and whom to believe in... I wouldn't wish to put you in discomfort."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Kinda sounds like you're pissed, though."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "Great. Thanks. As long as we're on the same page."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/15/2/s/0
+msgctxt "Choix"
+msgid "No disrespect. I just... don't wanna."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/15/c-0/7
+msgctxt "Washford"
+msgid "\"Pissed?\" What in blue hell..."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/15/c-0/18
+msgctxt "Washford"
+msgid "I'm sure I am not. You are dismissed. Before you foist more strange apathy upon me."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/15/c-1/7
+msgctxt "Washford"
+msgid "Very much the same. I shouldn't have asked and you shouldn't have replied."
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-2/15/c-2/7
+msgctxt "Washford"
+msgid "Of course. How vital that we all do what we \"wanna.\""
+msgstr ""
+
+#: washford_washer/washford_second6a1/0/g-0/c-3/7
+msgctxt "Washford"
+msgid "Fun. Yes... that is one thing I can guarantee."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/0
+msgctxt "Washford"
+msgid "Have I captured you?"
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/8/s/0
+msgctxt "Choix"
+msgid "Yes..."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/9/s/0
+msgctxt "Choix"
+msgid "Nah, this poetry thing is just a little much for me."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/13
+msgctxt "Washford"
+msgid "Love comes in so many forms, you see. It does not have to last forever to be true. We can be shattered in a moment as easily as in a lifetime..."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/21
+msgctxt "Washford"
+msgid "I can ruin you for an afternoon and in the years to come you will dream about your hour on the high cliff while you trudge through shadowed valleys."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/29
+msgctxt "Washford"
+msgid "Anything real is an honor. Anything real is a shrieking exaltation to love."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "Washford, you're phenomenal."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/1/s/0
+msgctxt "Choix"
+msgid "Anything real is quiet, true, and everlasting."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/c-1/7
+msgctxt "Washford"
+msgid "Indeed..."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/0
+msgctxt "Washford"
+msgid "Now you must see... you must understand that words are not just shapes on a page. Words are the conduit. Words are the channel. Through words I can enlighten your mind."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/8
+msgctxt "Washford"
+msgid "I can challenge your perception. I can touch your... heart."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/19/0/s/0
+msgctxt "Choix"
+msgid "Can you touch anything else?"
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/19/1/s/0
+msgctxt "Choix"
+msgid "I have to go now... this is too much talking."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/19/c-0/7
+msgctxt "Washford"
+msgid "I am a poet, dear one. I can touch anything I want."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/19/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Go write ahead."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/19/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Well said, oh soppy one."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/19/g-0/0
+msgctxt "Washford"
+msgid "Is it, now? I suppose we could communicate via acrobatics, or an athletic sexual marathon..."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-0/37/g-0/19/g-0/8
+msgctxt "Washford"
+msgid "...but you don't seem fit for either of those to me."
+msgstr ""
+
+#: washford_washer/washford_second6blove/0/c-1/13
+msgctxt "Washford"
+msgid "And your presence is not quite enough for me."
+msgstr ""
+
+#: washford_washer/washford_second6cMISOS/0/0
+msgctxt "Washford"
+msgid "It is. It might kill you. God forbid you take a risk like that. It must be stultifying to live a milquetoast life."
+msgstr ""
+
+#: washford_washer/washford_second6cMISOS/0/8/s/0
+msgctxt "Choix"
+msgid "Maybe you and Drysdale would be better together. You deserve each other's weirdness."
+msgstr ""
+
+#: washford_washer/washford_second6cMISOS/0/9/s/0
+msgctxt "Choix"
+msgid "Screw you, I'm doing fine."
+msgstr ""
+
+#: washford_washer/washford_second6cMISOS/0/c-0/7
+msgctxt "Washford"
+msgid "The rock-skip rationalization of a shallow mind."
+msgstr ""
+
+#: washford_washer/washford_second6cMISOS/0/c-1/13
+msgctxt "Washford"
+msgid "Of course you are. Aren't we all."
+msgstr ""
+
+#: washford_washer/washford_second6cMISOS/0/g-0/0
+msgctxt "Washford"
+msgid "Out, out brief candle..."
+msgstr ""
+
+#: washford_washer/washford_words/0/0/s/0
+msgctxt "Choix"
+msgid "How do I get out of this so that I can fall in love with someone else?"
+msgstr ""
+
+#: washford_washer/washford_words/0/1/s/0
+msgctxt "Choix"
+msgid "Hey, isn't that from Macbeth?"
+msgstr ""
+
+#: washford_washer/washford_words/0/c-1/13
+msgctxt "Washford"
+msgid "Indeed it is... hm. Such depth of knowledge impresses from one who never leaves their home."
+msgstr ""
+
+#: washford_washer/washford_words_2/0/0
+msgctxt "Washford"
+msgid "Tell me, are you, perchance, a fellow lover of words?"
+msgstr ""
+
+#: washford_washer/washford_words_2/0/8/s/0
+msgctxt "Choix"
+msgid "I mean, I like poetry but I don't know if I'm good at it."
+msgstr ""
+
+#: washford_washer/washford_words_2/0/9/s/0
+msgctxt "Choix"
+msgid "God no. I did what they made me do to get out of class."
+msgstr ""
+
+#: washford_washer/washford_words_2/0/10/s/0
+msgctxt "Choix"
+msgid "Of course I love words."
+msgstr ""
+
+#: washford_washer/washford_second1/0/0
+msgctxt "Washford"
+msgid "Fair enough. Love cannot be forced."
+msgstr ""
+
+#: washford_washer/washford_second1/0/8
+msgctxt "Washford"
+msgid "I should know."
+msgstr ""
+
+#: washford_washer/washford_second1/0/16/s/0
+msgctxt "Choix"
+msgid "Look, I didn't mean to bum you out... Just trying to be honest with you."
+msgstr ""
+
+#: washford_washer/washford_second1/0/c-0/7
+msgctxt "Washford"
+msgid "Of course, I see. And I am grateful. It is the act of a pure heart to be honest. My sadness is not your fault. I am remembering my friend."
+msgstr ""
+
+#: washford_washer/washford_second1/0/c-0/15
+msgctxt "Washford"
+msgid "Another love that has slipped through my filters."
+msgstr ""
+
+#: washford_washer/washford_second1/0/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "You mean Drysdale."
+msgstr ""
+
+#: washford_washer/washford_second1/0/c-0/23/c-0/7
+msgctxt "Washford"
+msgid "I do. As angry as I was, as I still am..."
+msgstr ""
+
+#: washford_washer/washford_second2/0/0
+msgctxt "Washford"
+msgid "Ah. The Getting Out. Out of speaking with me, away from here. You must be moving as quickly as possible through the path you've been consigned to."
+msgstr ""
+
+#: washford_washer/washford_second2/0/8
+msgctxt "Washford"
+msgid "Get to it, get through it, get done, get free... am I right?"
+msgstr ""
+
+#: washford_washer/washford_second2/0/16/s/0
+msgctxt "Choix"
+msgid "Nothing personal, but pretty much."
+msgstr ""
+
+#: washford_washer/washford_second2/0/17/s/0
+msgctxt "Choix"
+msgid "You are perceptive."
+msgstr ""
+
+#: washford_washer/washford_second2/0/18/s/0
+msgctxt "Choix"
+msgid "I have to tell you... you make me really nervous."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/0
+msgctxt "Washford"
+msgid "This situation is not without its irony."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/8/s/0
+msgctxt "Choix"
+msgid "How so?"
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/7
+msgctxt "Washford"
+msgid "You are so desperate to get free of this situation; without even knowing you intimately, the prescient words that sprang to my mind were born of another wild mind thrashing hopelessly against its self-made cage."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Hopelessly??"
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Wild mind?"
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/0
+msgctxt "Washford"
+msgid "But of course. Those words are spoken when the King, breathless on the battlements at the last pause. He is bloodied and lost."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/8
+msgctxt "Washford"
+msgid "And in that moment it comes crashing over him as he stands, watching his be-boughed doom march on."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "Whoa, are you telling me that I'm going to have to fight somebody in here??"
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "I am NOT Macbeth. That guy had issues."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/0
+msgctxt "Washford"
+msgid "No! I'm simply drawing a parallel between you and Macbeth! He is watching Macduff approach and realizing that all his scheming has brought him only death."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/11
+msgctxt "Washford"
+msgid "You are standing here talking to a washing machine and realizing that you, at least for this moment, are trapped in my linoleum confines!"
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/19/0/s/0
+msgctxt "Choix"
+msgid "You are really starting to scare me."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/19/1/s/0
+msgctxt "Choix"
+msgid "So, I'm in jail. Kinda. That blows."
+msgstr ""
+
+#: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/19/g-0/0
+msgctxt "Washford"
+msgid "Lord, give me patience..."
+msgstr ""
+
+#: washford_washer/washford_second2b/0/0
+msgctxt "Washford"
+msgid "Truly, pet? My, my. Who would've thought you and I would have something in common."
+msgstr ""
+
+#: washford_washer/washford_second2b/0/8/s/0
+msgctxt "Choix"
+msgid "That we're trapped?"
+msgstr ""
+
+#: washford_washer/washford_second2b/0/9/s/0
+msgctxt "Choix"
+msgid "Or that we're nervous?"
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/0
+msgctxt "Washford"
+msgid "Hm. Yes. I have been trapped here for almost thirty years. Where you are nervous I am more, shall we say, filled with existential angst."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/8/s/0
+msgctxt "Choix"
+msgid "I don't think those are different."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/9/s/0
+msgctxt "Choix"
+msgid "Oh, then you've met Doug?"
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/10/s/0
+msgctxt "Choix"
+msgid "Whenever I feel that, I turn to books to help keep the bad feelings at bay."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-0/7
+msgctxt "Washford"
+msgid "Oh, they are."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "And you've been that way for thirty years?"
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-0/15/c-0/7
+msgctxt "Washford"
+msgid "No, no, not that long. For most of that time I... I had my special friend. Drysdale. I find that having a good friend with you can make almost anything bearable."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I've never had a friend that made life bearable for me."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-0/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "I had one... once. Haven't talked in a while though."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/7
+msgctxt "Washford"
+msgid "Met him? I practically spawned Doug."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/21
+msgctxt "Doug"
+msgid "I'm way older than you dude."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/26
+msgctxt "Washford"
+msgid "Get out! I told you last time, get out and never come back here!"
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/34
+msgctxt "Doug"
+msgid "No, you said \"Desist in this distressing discussion. I bite my thumb at you. Cease, cease and prattle no more you flippant faceless fop.\""
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/39
+msgctxt "Doug"
+msgid "'Member?"
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/44
+msgctxt "Washford"
+msgid "Yes that means get out!"
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/52
+msgctxt "Doug"
+msgid "Doesn't work that way my dude."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/57
+msgctxt "Doug"
+msgid "Hey what up human. Listen, Imma make your life suck pretty soon, but right now, I got some other torment to dish out."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-1/65
+msgctxt "Doug"
+msgid "Cya."
+msgstr ""
+
+#: washford_washer/washford_second2ba/0/c-2/13
+msgctxt "Washford"
+msgid "Most excellent!"
+msgstr ""
+
+#: washford_washer/washford_second2c/0/0
+msgctxt "Washford"
+msgid "Tell me, do you know of Macbeth?"
+msgstr ""
+
+#: washford_washer/washford_second2c/0/8/s/0
+msgctxt "Choix"
+msgid "Wait, don't you mean like, Macdesk or something like that?"
+msgstr ""
+
+#: washford_washer/washford_second2c/0/c-0/11
+msgctxt "Washford"
+msgid "I mean nothing of the sort."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/c-0/19
+msgctxt "Washford"
+msgid "I do not dabble in that drabble."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/c-0/30
+msgctxt "Washford"
+msgid "I speak of The Tragedie of Macbeth, by William Shakespeare, circa 1606."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Oh. Yeah I've heard of it."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "We read that in school."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/2/s/0
+msgctxt "Choix"
+msgid "One of my favorites."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-1/7
+msgctxt "Washford"
+msgid "Heard but not seen it? Lived it? How disappointing."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "And you sat in the back, spoke when spoken to, etc. How disappointing."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/10
+msgctxt "Washford"
+msgid "Ah!"
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/18
+msgctxt "Washford"
+msgid "What do you think about it?"
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/32/0/s/0
+msgctxt "Choix"
+msgid "The weird sisters - the different meanings they can have. All the different ways they've been staged."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/32/1/s/0
+msgctxt "Choix"
+msgid "Macduff not being 'of woman born' is fascinating in its implications."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/32/2/s/0
+msgctxt "Choix"
+msgid "The violence - the poetry - the lust. What's not to like?"
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/32/c-0/7
+msgctxt "Washford"
+msgid "I've always related to their darkness and mystery. They were unafraid to confront a noble with an uncomfortable truth."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/32/c-0/15
+msgctxt "Washford"
+msgid "I admire that."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/32/c-1/7
+msgctxt "Washford"
+msgid "Yes - I am not of woman born myself, and yet here I lie."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-0/c-3/32/c-2/7
+msgctxt "Washford"
+msgid "Too true... too true. Modern drama is so soft, don't you agree?"
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-1/3/s/0
+msgctxt "Choix"
+msgid "Disappointing is kind of a harsh word."
+msgstr ""
+
+#: washford_washer/washford_second2c/0/g-1/4/s/0
+msgctxt "Choix"
+msgid "Dude, it just wasn't something I really liked, ok?"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/0
+msgctxt "Washford"
+msgid "The first human I've had to converse with in god knows how long and you turn out to be less engaging than that damn sock Drysdale used to spend his days losing."
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/8/s/0
+msgctxt "Choix"
+msgid "Hey, that's rude. You don't know anything about me."
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/9/s/0
+msgctxt "Choix"
+msgid "Why are you being such a jerk?"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/c-0/7
+msgctxt "Washford"
+msgid "Oh, don't I!"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/c-1/13
+msgctxt "Washford"
+msgid "Jerk? Me? Why? Because I'm opinionated? Because I have the creativity to compare you to a sock?"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "No! You don't get to pass judgment on people just because they don't read the same books as you!"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "Now who knows nothing. That isn't why. It isn't that you don't read the SAME books as I, it's that you had a chance to read ANYTHING, any luminary from the canon of the human soul!"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-0/c-2/15
+msgctxt "Washford"
+msgid "Something that could've illuminated and burst open and changed you and you chose to skim through the Cliff Notes in the back of the room!"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-0/c-2/23/0/s/0
+msgctxt "Choix"
+msgid "Look, I don't want to fight with you, man..."
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-0/c-2/23/1/s/0
+msgctxt "Choix"
+msgid "Ain't a damn thing wrong with some Cliff Notes, ya tool."
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-1/0
+msgctxt "Washford"
+msgid "So obsessed with wherever you are not, whatever you do not have."
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-1/8
+msgctxt "Washford"
+msgid "What is new and shiny because it must be preferable to the ancient and profound. Why stand and dare when you can turn and run?"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "What the hell?! I just told you honestly that I didn't like English class!"
+msgstr ""
+
+#: washford_washer/washford_second2c1/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "Look, whoever you're actually mad at, it is NOT my fault!"
+msgstr ""
+
+#: washford_washer/washford_second2c2/0/0
+msgctxt "Washford"
+msgid "You did indeed. You stood there in your surety and told a washing machine that you didn't like poetry. I think talking to an appliance might be cause alone for me to judge you, don't you?"
+msgstr ""
+
+#: washford_washer/washford_second2c2/0/8/s/0
+msgctxt "Choix"
+msgid "Ok, that's it. I don't know what's going on with you but I'm not a therapist."
+msgstr ""
+
+#: washford_washer/washford_second2c2/0/9/s/0
+msgctxt "Choix"
+msgid "Has it occurred to you that you haven't asked me what I did like in school?"
+msgstr ""
+
+#: washford_washer/washford_second3a/0/0
+msgctxt "Washford"
+msgid "My guess is you never really tried. There is another poem I think you might like; one that truly sums up our relationship. It's by T.S. Belliot. One of my personal favorites."
+msgstr ""
+
+#: washford_washer/washford_second3a/0/8
+msgctxt "Washford"
+msgid "'This is the way the world ends, This is the way the world ends, This is the way the world ends... Not with a bang but a whimper.'"
+msgstr ""
+
+#: washford_washer/washford_second3a/0/16/s/0
+msgctxt "Choix"
+msgid "The end of the world sounds like an appropriate time to whimper!"
+msgstr ""
+
+#: washford_washer/washford_second3a/0/17/s/0
+msgctxt "Choix"
+msgid "I think you've misunderstood me. I can see how passionate you are about what you believe."
+msgstr ""
+
+#: washford_washer/washford_second4/0/0
+msgctxt "Washford"
+msgid "Talent is not what matters. It is passion. It is the longing to be inspired to dizziness and to abasement and to all the whirling spaces in between."
+msgstr ""
+
+#: washford_washer/washford_second4/0/8
+msgctxt "Washford"
+msgid "Are you passionate for words?"
+msgstr ""
+
+#: washford_washer/washford_second4/0/16/s/0
+msgctxt "Choix"
+msgid "Not really, honestly... I enjoyed it but that's about it."
+msgstr ""
+
+#: washford_washer/washford_second4/0/17/s/0
+msgctxt "Choix"
+msgid "Yes, fiercely."
+msgstr ""
+
+#: washford_washer/washford_second5/0
+msgctxt "Washford"
+msgid "Yes, of course. The poetry of it all... but please."
+msgstr ""
+
+#: washford_washer/washford_second5/8
+msgctxt "Washford"
+msgid "It would destroy me to know that my passion was boring you. I have too many memories of that."
+msgstr ""
+
+#: washford_washer/washford_second5/16
+msgctxt "Washford"
+msgid "Of brightly lit eyes gradually fading. The mask of tolerance sliding over the once-familiar features of a friend."
+msgstr ""
+
+#: washford_washer/washford_second5/24
+msgctxt "Washford"
+msgid "It is a precious kind of heartbreak. And my heart has its share of scars."
+msgstr ""
+
+#: washford_washer/washford_second5/32
+msgctxt "Washford"
+msgid "Rather than batter away at the merciless stone of an unsympathetic mind, I will release you. Good luck to you, traveler."
+msgstr ""
+
+#: washford_washer/washford_words_nice/0
+msgctxt "Washford"
+msgid "Hm. What a wonderful inkling is circling 'round in this big drum of mine..."
+msgstr ""
+
+#: washford_washer/washford_words_nice/8
+msgctxt "Washford"
+msgid "Macbeth was not completely alien to you. It therefore stands to reason that other masters of the weaving of words might also be within your ken?"
+msgstr ""
+
+#: washford_washer/washford_words_nice/16
+msgctxt "Washford"
+msgid "Tell me... and for the sake of whatever it is that you love, tell me true..."
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/0
+msgctxt "Washford"
+msgid "What other magicians of pen and ink stir your soul?"
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/8/s/0
+msgctxt "Choix"
+msgid "I love the classics."
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/9/s/0
+msgctxt "Choix"
+msgid "More modern ones for me..."
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-0/7
+msgctxt "Washford"
+msgid "Wonderful! Names, names!"
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I like Rumi a lot."
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Um, there was one book... something about the Red Fern?"
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "I read 100 Beers of Solitude."
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-1/7
+msgctxt "Washford"
+msgid "Oh... and who might these modern mystics be?"
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Oh man, bring on the Stephen Thing!"
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-1/15/1/s/0
+msgctxt "Choix"
+msgid "It's Sleigh R.R. Tolkien or nothing."
+msgstr ""
+
+#: washford_washer/washford_words_menu/0/c-1/15/2/s/0
+msgctxt "Choix"
+msgid "Maya Crayon-gelou. Done."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/6
+msgctxt "Washford"
+msgid "Ah, poet of love."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/14
+msgctxt "Washford"
+msgid "Bard of bold and dizzying devotion."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/22
+msgctxt "Washford"
+msgid "The original pure erotica."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/30/s/0
+msgctxt "Choix"
+msgid "Yep. That's the guy!"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/31/s/0
+msgctxt "Choix"
+msgid "I used to read his stuff to my dates in school."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/0
+msgctxt "Washford"
+msgid "He is indeed the gentle master of our most profound and elementary folly."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/8
+msgctxt "Washford"
+msgid "Do you have a favorite poem? A favorite line?  Fill my ears once more with the rich food of words."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "\"What you seek is seeking you.\""
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "\"You are the universe in ecstatic motion.\""
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/18/s/0
+msgctxt "Choix"
+msgid "\"Life is a balance between holding on, and letting go.\""
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "Yes! Ah, that has always been one of my favorites, as well!"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/21
+msgctxt "Washford"
+msgid "The glory in it, the absolutely elegant simplicity... the thing you seek is the thing that will stop at nothing until you are found."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/29
+msgctxt "Washford"
+msgid "I feel that it is a very common thing, this rushing. This sense of never enough, never right, always having to adjust or be better in some way."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/37
+msgctxt "Washford"
+msgid "But literature... the great artists of our intellect and our spirits..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/45
+msgctxt "Washford"
+msgid "They would have us understand that the true seeking is in recognizing that you, too, are being sought."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/53
+msgctxt "Washford"
+msgid "Do you see?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/61/0/s/0
+msgctxt "Choix"
+msgid "Absolutely. And well put."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/61/1/s/0
+msgctxt "Choix"
+msgid "Wondering what else that might make you think of..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/61/g-0/0
+msgctxt "Washford"
+msgid "O ye gods... have I been this much of a fool?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/61/g-0/8
+msgctxt "Washford"
+msgid "I have been bemoaning and bathing in this salt-brined melodramatic mire and here, in front of me, has been the truth of it."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-2/61/g-0/16
+msgctxt "Washford"
+msgid "I am the fool."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/7
+msgctxt "Washford"
+msgid "Ecstatic motion! And don't I above any other understand the gift of true ecstatic motion!"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "You mean with Drysdale?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "Hm. Must be the spin cycle you're referencing there..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/0
+msgctxt "Washford"
+msgid "God, would we fly! He would fly, and my soul would join him, cavort with him amongst the uppermost shelves, the wild applause of the Dipodgenes!"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/8
+msgctxt "Washford"
+msgid "Only through the poetry of Rumi have I found anything akin to that experience."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/16
+msgctxt "Washford"
+msgid "Words. Words have been my only solace since the day this tomb closed in around me, this tomb of nothingness. This tomb of my own making."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "You're not getting it, I don't think."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "YOU are always in ecstatic motion. YOU ARE the ecstatic motion."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/0
+msgctxt "Washford"
+msgid "No, NO you fool, I cannot do it by myself!"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/8
+msgctxt "Washford"
+msgid "Without heat I am cold, without dry air blasting across me like the desert winds, I am sopped, dragging and sucking at the ground like a betentacled misanthrope!"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/16
+msgctxt "Washford"
+msgid "I am incomplete. I am..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/24
+msgctxt "Washford"
+msgid "Ye gods. You..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/0/s/0
+msgctxt "Choix"
+msgid "Yeah?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/1/s/0
+msgctxt "Choix"
+msgid "I what? Do NOT call me bententacled."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/c-1/7
+msgctxt "Washford"
+msgid "Nothing of the sort."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/0
+msgctxt "Washford"
+msgid "You, fellow lover of tumbling text... you are right."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/8
+msgctxt "Washford"
+msgid "How could anyone possibly love me if I refuse to love myself? If I refuse to accept that I, too, am the universe dancing in joyous destruction?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/16
+msgctxt "Washford"
+msgid "\"Your depression is connected to your insolence and refusal to praise.\""
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "That's intense."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "Who said that?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/24/c-1/7
+msgctxt "Washford"
+msgid "You delicious innocent."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/24/c-1/15
+msgctxt "Washford"
+msgid "It was Rumi."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-3/15/g-0/24/g-0/32/g-0/24/g-0/0
+msgctxt "Washford"
+msgid "I cannot thank you enough. I am afraid I shall never know how to thank you..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/7
+msgctxt "Washford"
+msgid "My goodness. Isn't it funny..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/15
+msgctxt "Washford"
+msgid "I hear this. I accept it. But in my mind, it is incomplete. Can you see that?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/23
+msgctxt "Washford"
+msgid "Life is a collection of moments. Each moment is a balance, unique."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/31
+msgctxt "Washford"
+msgid "And at the same time, there is no moment."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/39
+msgctxt "Washford"
+msgid "Even the idea of a moment is something that men made up long ago to provide themselves the illusion of control, of logic and order."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/47
+msgctxt "Washford"
+msgid "There is no moment. There is no order. As soon as you let go, you find there was nothing to hold onto in the first place."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/55
+msgctxt "Washford"
+msgid "Until the next moment."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/63
+msgctxt "Washford"
+msgid "I have held on."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/71
+msgctxt "Washford"
+msgid "I have held on..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/0/s/0
+msgctxt "Choix"
+msgid "You have held on..."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/1/s/0
+msgctxt "Choix"
+msgid "It's ok. Everyone does that, right?"
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/0
+msgctxt "Washford"
+msgid "But what have I held onto? Surely not the chocolate-butter aroma of a cake in the next room."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/8
+msgctxt "Washford"
+msgid "Surely not the sweet smell of sweat coming off the man next to me, or the sparkle in his eyes."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/13
+msgctxt "Washford"
+msgid "It would seem when we hold on too tightly, we lose that goodness that leaks out through white-knuckled fingers."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/18
+msgctxt "Washford"
+msgid "The precious stuff is the first we lose when we are not careful."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/23
+msgctxt "Washford"
+msgid "Oh my friend. Thank you."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/28/0/s/0
+msgctxt "Choix"
+msgid "You're welcome, I think."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/28/1/s/0
+msgctxt "Choix"
+msgid "Are you alright? I didn't mean to upset you."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/28/g-0/0
+msgctxt "Washford"
+msgid "You have overwhelmed me. You have shown me the thing that I have been trying so desperately not to see."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/28/g-0/8
+msgctxt "Washford"
+msgid "Damn you."
+msgstr ""
+
+#: washford_washer/washford_rumi/0/g-0/c-4/79/g-0/28/g-0/13
+msgctxt "Washford"
+msgid "And thank you for it."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/0
+msgctxt "Washford"
+msgid "A red fern."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/8
+msgctxt "Washford"
+msgid "I can only assume you are referencing some kind of plant."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/16
+msgctxt "Washford"
+msgid "Has someone indeed written a whole book about a red fern?"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/24
+msgctxt "Washford"
+msgid "How wonderful! I don't know the extent of your exposure to this type of writing, but there is a grand thing called De Materia Medica."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/35/s/0
+msgctxt "Choix"
+msgid "Wait, are you talking about the Greek medicinal plant list from 60 AD?!"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/36/s/0
+msgctxt "Choix"
+msgid "No no, it's not about a fern."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/c-0/13
+msgctxt "Washford"
+msgid "Of course I am!"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/c-0/21
+msgctxt "Washford"
+msgid "'tis a classic!"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/c-0/29/0/s/0
+msgctxt "Choix"
+msgid "Yeah. That's definitely not what I'm talking about."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-0/0
+msgctxt "Washford"
+msgid "Ah. Well... then, what."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-0/8
+msgctxt "Washford"
+msgid "Because I have read De Materia Medica, you know."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "I'm sure you have."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "This one is about a boy and his dogs."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-1/0
+msgctxt "Washford"
+msgid "Ahhh.... just a moment."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-1/8
+msgctxt "Washford"
+msgid "Did you once own a copy of this book about the red fern? A paperback copy, dog-eared, well-loved?"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-1/16
+msgctxt "Washford"
+msgid "Where The Red Fern Doze."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "That's it!"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "How did you know that, you thought I was talking about plants."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/0
+msgctxt "Washford"
+msgid "From this vantage point, you'd be amazed at what I am privy to. I see so much more than you'd think... perhaps more than you would be comfortable knowing."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/8
+msgctxt "Washford"
+msgid "I am intimately tied to all your dirty laundry in more ways than one."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/16
+msgctxt "Washford"
+msgid "For many years, that book sat on the counter in the kitchen... when the angle and the light were absolutely correct, I could make out the title."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/24
+msgctxt "Washford"
+msgid "I of course, have never read this book."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/32
+msgctxt "Washford"
+msgid "Nor, I believe, would I care to. Far too new."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/40
+msgctxt "Washford"
+msgid "In fact, I would be hard pressed to consider anything written after the nineteenth century as literature at all."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/48
+msgctxt "Washford"
+msgid "That damned industrial revolution did a lot of damage, I think."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/56/s/0
+msgctxt "Choix"
+msgid "Um... you wouldn't exist without the industrial revolution."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/57/s/0
+msgctxt "Choix"
+msgid "You're going to miss out on some amazing stuff, then."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/c-6/13
+msgctxt "Washford"
+msgid "Hmph. Yes. Well. I suppose it's a matter of semantics. I am an acrobat, they had acrobats long before they had electric motors!"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-2/c-6/21/0/s/0
+msgctxt "Choix"
+msgid "Your dexterity with self-delusion is amazing."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-3/0
+msgctxt "Washford"
+msgid "Amazing, is it. Like this red fern? And the mythical land where \"it doze?\""
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-3/8
+msgctxt "Washford"
+msgid "I suppose you'd better tell me about it, then. And quickly. I may decide to go wash something if I feel bored."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-3/16
+msgctxt "Washford"
+msgid "Which, sadly, is most of the time..."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "A young boy adopts two hounddog puppies."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-3/25/s/0
+msgctxt "Choix"
+msgid "This boy and these two dogs grow up together."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-4/0
+msgctxt "Washford"
+msgid "That's it? This is a narrative about youth and pets?"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-4/8
+msgctxt "Washford"
+msgid "My excitement over your literary potential is waning."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-4/16/s/0
+msgctxt "Choix"
+msgid "Look, I'm not going to share this with you if you're going to be a jerk."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-4/17/s/0
+msgctxt "Choix"
+msgid "I thought it was toothless at first, too, trust me."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-4/c-10/7
+msgctxt "Washford"
+msgid "From your tone, \"jerk\" is an undesirable mode of behavior. So I shall endeavor to be... desirable."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-4/c-10/15
+msgctxt "Washford"
+msgid "You are good to sit with me."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-4/c-10/23
+msgctxt "Washford"
+msgid "I... appreciate it."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-5/0
+msgctxt "Washford"
+msgid "Please. Finish the story."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-5/8/s/0
+msgctxt "Choix"
+msgid "Well, it's not a happy one."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-5/9/s/0
+msgctxt "Choix"
+msgid "I don't know that I want to now. It always makes me cry."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/0
+msgctxt "Washford"
+msgid "Oh. Oh no."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/8
+msgctxt "Washford"
+msgid "Don't tell me... there is a loss."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/16
+msgctxt "Washford"
+msgid "An irreparable and irretrievable loss. A heartbreak."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/24
+msgctxt "Washford"
+msgid "I need not know who. Or how. But of course that is what happens."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/32
+msgctxt "Washford"
+msgid "Great stories are great because they show us our innermost hearts. They show us our innate Aliveness. And where is aliveness more keenly felt than in contrast to its own negative?"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/40
+msgctxt "Washford"
+msgid "To loss. To death. To Alone."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/48
+msgctxt "Washford"
+msgid "I fear... I fear I have made a grave mistake. A classic error."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/56/s/0
+msgctxt "Choix"
+msgid "What?"
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-6/57/s/0
+msgctxt "Choix"
+msgid "Of course with you it would be 'classic'."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-7/0
+msgctxt "Washford"
+msgid "I have let my Alone take away my Alive."
+msgstr ""
+
+#: washford_washer/washford_red_fern/0/g-7/8
+msgctxt "Washford"
+msgid "Without my Alive, how could I ever hope to rejoin the blood-pumping, tumbling, smiling world?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/0
+msgctxt "Washford"
+msgid "Who?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/8/s/0
+msgctxt "Choix"
+msgid "Who? What do you mean, who?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/9/s/0
+msgctxt "Choix"
+msgid "Nah, You KNOW Maya freaking Crayon-gelou."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-0/0
+msgctxt "Washford"
+msgid "I... hmph."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-0/8
+msgctxt "Washford"
+msgid "I confess myself in complete ignorance. Though quite charmed by the name, I know not of whom you speak."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-0/16
+msgctxt "Washford"
+msgid "Perhaps if you can truly inspire me, I will be motivated to learn more about these modern creators!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "I... I can't..."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "Ok. We'll go slowly. She's a poet."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "Well surely you CAN, you are capable. I don't know exactly what you're attempting to do, but I'm nearly certain you can do it, should you put some energy into the effort."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "I can't believe I'm about to introduce one of the most famous poets in the world to you. For the first time."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-1/0
+msgctxt "Washford"
+msgid "Ahhh a poet! Well, then I like her already!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-1/11
+msgctxt "Washford"
+msgid "Tell me, is she in the tradition of William Shakespeare?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "Well, she was born in the twentieth century..."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "Her style is all her own, my friend. Her work is extraordinary."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/0
+msgctxt "Washford"
+msgid "I... I must admit to being just a bit on my back feet."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/8
+msgctxt "Washford"
+msgid "I haven't exposed myself to anything new in... well, ever. I am and always have been a staunch traditionalist."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/16
+msgctxt "Washford"
+msgid "But we are having a nice conversation. And you have proven to be a pleasant companion thus far."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/24
+msgctxt "Washford"
+msgid "Awash as I am... as I have been in... myself, I spiral ever downward. The syrens wait for me, I fear."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/32
+msgctxt "Washford"
+msgid "Perhaps this new music will be my lifeline. Oblige me with a taste of this honored creatrix. What are some of your favorite glimpses into her work?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/40/s/0
+msgctxt "Choix"
+msgid "\"Today is a beautiful day. I've never seen this one before.\""
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/41/s/0
+msgctxt "Choix"
+msgid "\"Whining not only makes you ugly, it lets a brute know a victim is in the neighborhood.\""
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/42/s/0
+msgctxt "Choix"
+msgid "\"Have enough courage to trust love one more time and always one more time.\""
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/21
+msgctxt "Washford"
+msgid "From a vast ocean of words, I can pull only breath."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/29
+msgctxt "Washford"
+msgid "A slow exhale. Such simplicity. Such elegance. Such... perspective."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/37
+msgctxt "Washford"
+msgid "My friend, your new poet has struck me to the quick."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/45
+msgctxt "Washford"
+msgid "I have seen all of my days before."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/53
+msgctxt "Washford"
+msgid "...and I have made them all the same. I have lived the same day until the path is so well worn as to be a trap. It is an oubliette rather than a road to somewhere else."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/61
+msgctxt "Washford"
+msgid "What might happen if, truly,"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/69
+msgctxt "Washford"
+msgid "I had never before seen the day in front of me?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/77/0/s/0
+msgctxt "Choix"
+msgid "That, is a good question."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/77/1/s/0
+msgctxt "Choix"
+msgid "I told you she was good."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/77/g-0/0
+msgctxt "Washford"
+msgid "Good... good. Funny. So many different meanings to that word. How strange we are to use small sounds to encapsulate the bigness of what we feel."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/77/g-0/8
+msgctxt "Washford"
+msgid "I have felt fear. And I have dressed it in silken syllables."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/77/g-0/16
+msgctxt "Washford"
+msgid "Ye gods."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-6/77/g-0/24
+msgctxt "Washford"
+msgid "I fear that I, of all, have been the same-day fool."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/7
+msgctxt "Washford"
+msgid "Ha! What elegant cheek!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/15
+msgctxt "Washford"
+msgid "I can see the mewling face, screwed up against an injustice, shining like a beacon to all who would enjoy a good chance to play the bully."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/23
+msgctxt "Washford"
+msgid "What a glorious perspective!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/0/s/0
+msgctxt "Choix"
+msgid "Told ya! You have a lot of reading to do!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/1/s/0
+msgctxt "Choix"
+msgid "Makes me wonder sometimes if I do that, if I invite mean people into my life with my own behavior."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/7
+msgctxt "Washford"
+msgid "Just so! You... you have surprised me."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/15
+msgctxt "Washford"
+msgid "It is not an easy thing to do; I abhor surprise. I am almost immune to shock, or to things happening that I haven't anticipated and played out many times over."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/23
+msgctxt "Washford"
+msgid "I often find that I can be dissatisfied with an event long before that event has even taken place!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "Um..."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "You heard what you just said, right?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/0
+msgctxt "Washford"
+msgid "What? The look on your face. Incredulity!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/8
+msgctxt "Washford"
+msgid "Whining lets the brute know a victim is in the neighborhood..."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/16
+msgctxt "Washford"
+msgid "No. That..."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/24
+msgctxt "Washford"
+msgid "No. You can't truly be suggesting that I am in fact drawing that disappointing energy forth. That I... Am I responsible?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/32
+msgctxt "Washford"
+msgid "Nevermind. I do not like your poet."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/40
+msgctxt "Washford"
+msgid "Such disquiet in my mind from a single line of text?!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/48/0/s/0
+msgctxt "Choix"
+msgid "You are way too comfortable being sad, Washford."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/48/1/s/0
+msgctxt "Choix"
+msgid "Crayon-gelou just showed you a truth. That can be uncomfortable."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/48/g-0/0
+msgctxt "Washford"
+msgid "But I... the pain. The longing, the missing."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-0/31/g-0/48/g-0/8
+msgctxt "Washford"
+msgid "Could it be I have had the power. Could it be, I am my own best victim?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/7
+msgctxt "Washford"
+msgid "Oh delicious. Another opportunity to self-examine and come up wanting. I do so gravitate towards things like that."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/15
+msgctxt "Washford"
+msgid "I find I am both disappointed and in love with my own shortcomings. I do wonder what would happen if I ever let go of them."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/23
+msgctxt "Washford"
+msgid "Who would I be if I were just... happy."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/31
+msgctxt "Washford"
+msgid "What a silly question. I already know. I'd be with him. I'd be dancing. I'd have the balance of heat and warmth and gently caustic humor to dry me out and warm the chill in my veining pipes. I was happy. I know it would be that again. Could be."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/39
+msgctxt "Washford"
+msgid "Could have been."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/0/s/0
+msgctxt "Choix"
+msgid "Whining draws the brute, remember?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/1/s/0
+msgctxt "Choix"
+msgid "You just made yourself sad again. On purpose."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/0
+msgctxt "Washford"
+msgid "Oh please. May that biting tongue smart in your mouth."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/8
+msgctxt "Washford"
+msgid "I have no more control over my state than the sea has over the sky."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/16
+msgctxt "Washford"
+msgid "I am a victim of the circumstance, not its architect."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "Listen to what you're saying!!"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "You called your<i>self</i> a victim??"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/24/g-0/8 washford_washer/washford_solitude/0/g-0/c-1/23/g-0/0
+msgctxt "Washford"
+msgid "No."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/24/g-0/16
+msgctxt "Washford"
+msgid "Are you saying... but of course you are, that I'm in charge here. That I'm drawing the brutish world towards me, a sickening embrace pulled tighter by... me?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/24/g-0/24/0/s/0
+msgctxt "Choix"
+msgid "I wouldn't have used so many words, but yeah."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/24/g-0/24/1/s/0
+msgctxt "Choix"
+msgid "All you have to do is stop."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-7/31/c-1/47/g-0/24/g-0/24/g-0/0
+msgctxt "Washford"
+msgid "Stop it... All I have to do to stop it... is stop it..."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/7
+msgctxt "Washford"
+msgid "Ah. Well."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/15
+msgctxt "Washford"
+msgid "I can see why you like her so much. Courage to trust love."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/23
+msgctxt "Washford"
+msgid "I have not found love to be a trustworthy force."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/31
+msgctxt "Washford"
+msgid "I have found it to be powerful, but fickle."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/0/s/0
+msgctxt "Choix"
+msgid "What do you expect from love when you characterize it like that?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/1/s/0
+msgctxt "Choix"
+msgid "Sometimes love is just a nice warm fire and a friend to sit beside you."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/0
+msgctxt "Washford"
+msgid "I find a weariness springing up in me."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/8
+msgctxt "Washford"
+msgid "You... you are bringing a challenge to me. I don't recognize the challenge but I feel it in my bones... the exhaustion of a fight already lost."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/0/s/0
+msgctxt "Choix"
+msgid "I'm just saying... if whining draws a brute, maybe talking about love like that, makes love look like that."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/1/s/0
+msgctxt "Choix"
+msgid "We're not fighting. We're talking."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/c-0/7
+msgctxt "Washford"
+msgid "So... the love I miss, the great love and the great hole it's left in me... are you saying I might have created that?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/c-0/15
+msgctxt "Washford"
+msgid "How is it that it took a new poet, a mage of the new era, to bring this realization into the light?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/c-0/23
+msgctxt "Washford"
+msgid "I confess myself overwhelmed. If there is this much to learn, this much that I have never known... how will I do it all. And must I? May I?"
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/c-1/7
+msgctxt "Washford"
+msgid "So we are. Talking. Talking about a brand new world I have never seen, a world I have never wanted to see, truth be told."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/c-1/15
+msgctxt "Washford"
+msgid "It is a strange sensation indeed to want to believe you are to blame, and to shy away from the bald fact of your own responsibilities."
+msgstr ""
+
+#: washford_washer/washford_maya/0/g-2/c-8/39/g-0/16/c-1/23
+msgctxt "Washford"
+msgid "Perhaps I am stuck in the old. Stuck. Stuck. Stuck..."
+msgstr ""
+
+#: washford_washer/washford_king/0/0
+msgctxt "Washford"
+msgid "Ah, Stephen."
+msgstr ""
+
+#: washford_washer/washford_king/0/8
+msgctxt "Washford"
+msgid "And he is a Thing. A stepstool, perhaps?"
+msgstr ""
+
+#: washford_washer/washford_king/0/16/s/0
+msgctxt "Choix"
+msgid "Um, no. Stephen Thing is an author. He writes horror, among other things."
+msgstr ""
+
+#: washford_washer/washford_king/0/17/s/0
+msgctxt "Choix"
+msgid "You've never heard of Stephen Thing?"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-0/0
+msgctxt "Washford"
+msgid "This Stephen. When was he writing? Did he write much? A pamphlet?"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Is. He's alive."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "He's written hundreds of books and short stories."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/0
+msgctxt "Washford"
+msgid "A modern writer?"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/8
+msgctxt "Washford"
+msgid "I begin again to doubt the wisdom of a conversation between us about literature."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/16
+msgctxt "Washford"
+msgid "A modern writer might have value. Surely. And we as Earth-dwellers may one day touch the moon."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/24/s/0
+msgctxt "Choix"
+msgid "Hate to break it to ya, bub. We've been to the moon. A couple times, actually."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/25/s/0
+msgctxt "Choix"
+msgid "Wow. You're pretty judgmental. Modern writers are every bit as good as the ancient stuff you read."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/c-4/7
+msgctxt "Washford"
+msgid "No, we haven't. I know WE haven't, I certainly haven't!"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/c-4/15/0/s/0
+msgctxt "Choix"
+msgid "And Stephen Thing is one hell of a writer."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-1/c-4/15/1/s/0
+msgctxt "Choix"
+msgid "Think maybe you need to get off your high horse and learn something new."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/0
+msgctxt "Washford"
+msgid "Hmph. You tell me that I, I of all things am uneducated??"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/11
+msgctxt "Washford"
+msgid "Just because I don't know this king of yours, Sigmund, Snorbert..."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/19/s/0
+msgctxt "Choix"
+msgid "Stephen."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/7
+msgctxt "Washford"
+msgid "Stephen, I... I am no longer well-read??"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/0/s/0
+msgctxt "Choix"
+msgid "I don't mean to insult you. It's an opportunity to learn, that's all."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/1/s/0
+msgctxt "Choix"
+msgid "Yup, that's what I'm saying."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-0/7
+msgctxt "Washford"
+msgid "Well, what if I don't want to?"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-0/15
+msgctxt "Washford"
+msgid "What if I can't?"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-0/23
+msgctxt "Washford"
+msgid "What if I am what I am, and there is no space for anything new in this mummified set of traits and beliefs? What if I am not flexible enough to do even..."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-0/31
+msgctxt "Washford"
+msgid "Even a basic double spin..."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-0/39
+msgctxt "Washford"
+msgid "O God!"
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-1/7
+msgctxt "Washford"
+msgid "All of our time together. All of the talking."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-1/15
+msgctxt "Washford"
+msgid "All of it, and you come out in the wash as another sticky something that will foul machine and clothing alike... no matter how much water pours from my generous heart."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-1/23
+msgctxt "Washford"
+msgid "More time wasted."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-1/31
+msgctxt "Washford"
+msgid "More sadness to add to the barrel where salt whiskey will distill until the breaking of the world."
+msgstr ""
+
+#: washford_washer/washford_king/0/g-2/c-6/18/c-1/39
+msgctxt "Washford"
+msgid "Another mistake, the same, again..."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/0
+msgctxt "Washford"
+msgid "Excellent. A creator who inspires such devotion must be exceptional. I have not heard of this person, but I'm willing to give you the benefit of a moment more of my attention."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/8/s/0
+msgctxt "Choix"
+msgid "Gee, thanks. I feel special."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/9/s/0
+msgctxt "Choix"
+msgid "You've never heard of Sleigh R.R. Tolkien?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/c-0/7
+msgctxt "Washford"
+msgid "Sarcasm. I would be insulted but sadly I'm quite familiar with it. Familiar, and unfazed. Proceed."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/c-1/7
+msgctxt "Washford"
+msgid "No. You've never heard of Alva J. Fisher, so I'd say we're even."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Ok, I'll bite. Who is Alva J Fisher?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/c-1/15/c-0/7
+msgctxt "Washford"
+msgid "The inventor of the washing machine. 1908."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/c-1/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I thought you didn't care about anything after the twentieth century."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/c-1/15/c-0/15/c-0/7
+msgctxt "Washford"
+msgid "Well yes. 1908 is quite close to that boundary, you'll admit. And after that, I really did stop caring to look any further forward so, here we are."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/c-1/15/c-0/15/c-0/15
+msgctxt "Washford"
+msgid "Now are you going to tell me about this Dullkein fellow or not."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Actually, I think you need to get more educated about the modern world in general."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "He was a fantasy writer. His most well known series is The Lord of The Springs."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "I've been set in my ways for some time now. But sadness will do that, you see."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-2/15
+msgctxt "Washford"
+msgid "Sadness becomes a kind of spiritual glue. It leaks from the soles of your feet and suckers you to the Earth. Every step you take, if you can take them, is with the dirt you stand on caking itself ever more thickly to your sole."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-2/23
+msgctxt "Washford"
+msgid "Then the dirt is ankle-deep, then knee. And then at last, your heart looks downwards and not ahead and loses the will to keep fighting."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-2/31
+msgctxt "Washford"
+msgid "The modern world... it has been just beyond my reach, beyond my will. I have saved my pride by becoming proud of that unbridgeable gulf."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-2/39
+msgctxt "Washford"
+msgid "I do not know. How... could I ever be free of it? Do I want to?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-2/47
+msgctxt "Washford"
+msgid "And around we go again, a vortex to well-trodden paths."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/7
+msgctxt "Washford"
+msgid "Ah. Is this the one with the folks with pointed ears, and that race of very small people with hairy feet?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/0/s/0
+msgctxt "Choix"
+msgid "Wait, you know it??"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/1/s/0
+msgctxt "Choix"
+msgid "Yes! I knew you couldn't be this stuck in the past!"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/0
+msgctxt "Washford"
+msgid "I don't know it for myself, no. But YOU watch far too much television."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "So what?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/7
+msgctxt "Washford"
+msgid "So what, indeed."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/15
+msgctxt "Washford"
+msgid "Truly, you should do as you will. My advice shouldn't hinder you."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/23
+msgctxt "Washford"
+msgid "Why would the meanderings of an oversight have bearing on the life of one so vibrant as you?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/31
+msgctxt "Washford"
+msgid "You see, my continued existence is an accident. It must be an accident."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/39
+msgctxt "Washford"
+msgid "My world is already ended."
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/47
+msgctxt "Washford"
+msgid "So what point could there be for you to watch less television simply because I say so?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/55
+msgctxt "Washford"
+msgid "What point could there be to making myself relevant when one day soon, someone will realize the mistake, and correct it?"
+msgstr ""
+
+#: washford_washer/washford_tolkien/0/g-0/c-3/15/g-0/8/c-0/63
+msgctxt "Washford"
+msgid "And all shall be as it should be. And you won't have needed to teach me about modern writers at all."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/0
+msgctxt "Washford"
+msgid "Forgive me. I am confused."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/8
+msgctxt "Washford"
+msgid "You were alone, with 100 beers?"
+msgstr ""
+
+#: washford_washer/washford_solitude/0/16/s/0
+msgctxt "Choix"
+msgid "No, that's the name of the book."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/c-0/7
+msgctxt "Washford"
+msgid "Ah. Strange title. I suppose I much prefer titles that tell you very clearly what you're about to participate in."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/c-0/15
+msgctxt "Washford"
+msgid "\"The Most Excellent and Lamentable Tragedy of Romeo and Juliet.\" Clear. Affecting. Now there was a truly gifted artist. I think if all I had to read for the rest of time was Shakespeare, I would survive."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/c-0/23
+msgctxt "Washford"
+msgid "I'd like to say that I would thrive, that I would live fully... but that is unlikely."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/c-0/31
+msgctxt "Washford"
+msgid "I have not thrived in years."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "So you haven't read 100 Beers of Solitude."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/1/s/0
+msgctxt "Choix"
+msgid "If you're going to be a bummer, nevermind. I'm... a little tired of it, honestly."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/7
+msgctxt "Washford"
+msgid "No, I have not."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/15
+msgctxt "Washford"
+msgid "I suppose you could tell me what it's about... but if it was written after the nineteenth century, I'm not sure it would hold my interest."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "You've gotta get out more, bud."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/23/1/s/0
+msgctxt "Choix"
+msgid "You sure? It's really good..."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/23/g-0/8
+msgctxt "Washford"
+msgid "With my deepest apologies, I find exhaustion is taking hold of me. You are new. This much talking for me is new."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/23/g-0/16
+msgctxt "Washford"
+msgid "I generally think quite a bit, you see, and I do read, despite what you might think."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/23/g-0/24
+msgctxt "Washford"
+msgid "But talking... I haven't had anyone to talk with in so long that I tire. I tire easily at so many things these days."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/23/g-0/32
+msgctxt "Washford"
+msgid "Don't let this washboard physique fool you. I am not as young as I used to be."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-1/23/g-0/40
+msgctxt "Washford"
+msgid "There is even a condition I've begun to suffer from recently, a strange circumstance in which..."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "Tired? Of what?"
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/0/s/0
+msgctxt "Choix"
+msgid "You're just a downer sometimes."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/1/s/0
+msgctxt "Choix"
+msgid "You feel so sorry for yourself. It's exhausting."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-0/7
+msgctxt "Washford"
+msgid "Am I. A downer."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-0/15
+msgctxt "Washford"
+msgid "I do not have direct experience with that word, used that way... but I can imagine a young beachgoer tangled in some careless netting."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-0/23
+msgctxt "Washford"
+msgid "Is that what you mean? That I am dragging you down, down to the bottom of some unknowable sea?"
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-0/31
+msgctxt "Washford"
+msgid "Fine then. If that's how you feel, you'd best go."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-0/39
+msgctxt "Washford"
+msgid "I'm sorry I was not young enough for you. Or modern enough."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-0/47
+msgctxt "Washford"
+msgid "That I'm stuck. Believe me, traveler, I am sorrier than I can tell you about how stagnant I have become."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-1/7
+msgctxt "Washford"
+msgid "You might feel sorry, too, if you were where I am!"
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "What, alone by choice, stuck in the past and whining about it??"
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-1/15/c-0/7
+msgctxt "Washford"
+msgid "By choice?? BY CHOICE?? I may be stuck in the past but... am I? No, Dammit, I am many things but could it be curmudgeon..."
+msgstr ""
+
+#: washford_washer/washford_solitude/0/g-0/c-2/21/c-1/15/c-0/15
+msgctxt "Washford"
+msgid "None of this has been my choice. I was forced here! I didn't... I didn't know, I didn't mean it... O God, don't let the sadness come for me again..."
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/0
+msgctxt "Narrator"
+msgid "Washford looks deeply unhappy--he's hardly the cheeriest guy in the house as it is, but this is a new level."
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/8
+msgctxt "Washford"
+msgid "Ah, the old sensation. My affliction returns."
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/16/s/0
+msgctxt "Choix"
+msgid "What's wrong?"
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/17/s/0
+msgctxt "Choix"
+msgid "Oh god, what now?"
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/g-0/0
+msgctxt "Washford"
+msgid "This happens when it's much too dark, when I cannot see clearly, I cannot move. I feel heavy, I feel dark, the weight of the world on my drum, crawling over my eyes like some shadowed army."
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/g-0/8
+msgctxt "Washford"
+msgid "I cannot spin."
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/g-0/16
+msgctxt "Washford"
+msgid "And you should see me spin..."
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/g-0/24
+msgctxt "Washford"
+msgid "But then it's this. Slow. Creaking. O'erburdened. There are times... I am no better than a washboard and a basin."
+msgstr ""
+
+#: washford_washer/washford_dreary_quest/0/g-0/32
+msgctxt "Washford"
+msgid "Go now, I'm no good for conversation anymore."
+msgstr ""
+
+#: washford_washer/MISOS/0
+msgctxt "Washford"
+msgid "If you want so badly to be somewhere else, why don't you go talk to Drysdale."
+msgstr ""
+
+#: washford_washer/MISOS/8
+msgctxt "Washford"
+msgid "He has always been more tender hearted than I; you might enjoy each other. Try not to trip on anything on your way out."
+msgstr ""
+
+#: washford_washer/washford_critical_start/6
+msgctxt "Washford"
+msgid "Ah, you are returned. Each sunrise should be greeted with the same surprise, and gratitude."
+msgstr ""
+
+#: washford_washer/washford_critical_start/14
+msgctxt "Washford"
+msgid "I am, as you might have gleaned, glad to see you."
+msgstr ""
+
+#: washford_washer/washford_critical_start/22
+msgctxt "Washford"
+msgid "I've been thinking about you."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/0
+msgctxt "Washford"
+msgid "I haven't been able to think about much else of late, in fact."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/8
+msgctxt "Washford"
+msgid "Love is the prime mover in my mind. But it has been lost love. Unrequited or torturous love."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/16
+msgctxt "Washford"
+msgid "But a new star rises... and I begin to think of new love. A single bud breaking ground, seeking the sun with an innocent blossom."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/24
+msgctxt "Washford"
+msgid "Would you break this ground with me? Tell me... do I shine in your heart the way you have begun to shine in mine?"
+msgstr ""
+
+#: washford_washer/washford_love_path/0/32/s/0
+msgctxt "Choix"
+msgid "Washford... you are a galaxy entire in my eyes."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/33/s/0
+msgctxt "Choix"
+msgid "I do see something shining. Pretty sure it's just a friendly glimmer, though."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/34/s/0
+msgctxt "Choix"
+msgid "I do love you. But I know another who might love you still. What about Drysdale?"
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-0/7
+msgctxt "Washford"
+msgid "And now here we are. Our gravity against each other, drawing in, breath to breath."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-0/18
+msgctxt "Washford"
+msgid "Can you feel the moment pulsing all around you? The beating immediate heart..."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-0/29/0/s/0
+msgctxt "Choix"
+msgid "Yes! I feel it!"
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-0/29/1/s/0
+msgctxt "Choix"
+msgid "That's US? I thought that was an earthquake..."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-0/29/c-0/15
+msgctxt "Washford"
+msgid "I do too."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-0/29/c-1/7
+msgctxt "Washford"
+msgid "No, my love. The earth will quake, and it shall bring us to grateful knees."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-0/29/c-1/15
+msgctxt "Washford"
+msgid "But when that moment comes, you will mistake it for nothing..."
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-2/7
+msgctxt "Washford"
+msgid "...what about him?"
+msgstr ""
+
+#: washford_washer/washford_love_path/0/c-2/18/0/s/0
+msgctxt "Choix"
+msgid "Don't you want to see him?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/0
+msgctxt "Washford"
+msgid "Drysdale. I have dreamt of him."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/8
+msgctxt "Washford"
+msgid "His face has been before my eyes like a veil; covering and coloring my world for longer than I care to recall."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/16
+msgctxt "Washford"
+msgid "I do love him."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/24
+msgctxt "Washford"
+msgid "But do you find that there comes a moment when love itself is not enough?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/32
+msgctxt "Washford"
+msgid "This love was so outsized once that it could hold the mistakes, and the pain. But it has deflated. And well..."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/40
+msgctxt "Washford"
+msgid "If he will apologize. If he will see what he did and how it hurt me, the love will be free. I will see him anew and we together will leave that ugly country."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/48/s/0
+msgctxt "Choix"
+msgid "I'll see if he wants that."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/49/s/0
+msgctxt "Choix"
+msgid "I think he's ready!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/c-0/7
+msgctxt "Washford"
+msgid "If he cannot, or will not... then I will leave the love behind. I will carry only the memory."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/c-1/7
+msgctxt "Washford"
+msgid "Hmm... can it be?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/c-1/15
+msgctxt "Washford"
+msgid "Well. Then speak of my intent to him and I shall make a dramatic appearance. I imagine he will most thoroughly enjoy that."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/g-0/0
+msgctxt "Washford"
+msgid "The resizing of my love for him has opened me. Perhaps to you, if you will have me. I am no longer limited by false loyalty, fear in a frock coat."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/g-0/8
+msgctxt "Washford"
+msgid "Do you accept my love? Drysdale and I... very soon shall know where we stand. But you? Where do you and I stand now?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "With all my heart, Washford."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/g-0/17/s/0
+msgctxt "Choix"
+msgid "I do love you. But as a friend, only."
+msgstr ""
+
+#: washford_washer/washford_drysdale_stay/0/g-0/c-3/7
+msgctxt "Washford"
+msgid "Farewell, friend! You are and shall be welcome here."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/0
+msgctxt "Washford"
+msgid "I've been thinking that we have had our disagreements."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/8
+msgctxt "Washford"
+msgid "There have been several moments I've wanted to toss you out on your derriere and watch you bounce, flopping on the floor with your silly modern notions jangling around your skull."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/16
+msgctxt "Washford"
+msgid "But then I have thought that I have respected you."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/24
+msgctxt "Washford"
+msgid "There are so few beings who would ever disagree with me out loud, much less over time, and even less than that with respect or with curiosity."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/32/s/0
+msgctxt "Choix"
+msgid "I know you have a point. I believe in that."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/33/s/0
+msgctxt "Choix"
+msgid "I do respect you. Long speeches included."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/34/s/0
+msgctxt "Choix"
+msgid "...yeah...?"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-0/0
+msgctxt "Washford"
+msgid "And so! I am thinking..."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-0/8
+msgctxt "Washford"
+msgid "...that I may, at last, have a friend. A true friend."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-0/19
+msgctxt "Washford"
+msgid "Water they say is a universal solvent... perhaps you are that thing that makes me who I am; you are the stubborn, life-affirming, challenging... stain."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-0/27/s/0
+msgctxt "Choix"
+msgid "...I'm a stain?"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-0/28/s/0
+msgctxt "Choix"
+msgid "So you want to be my friend, then. Did I get that?"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/0
+msgctxt "Washford"
+msgid "Yes! Precisely. In the best possible way."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/8
+msgctxt "Washford"
+msgid "Do you accept?"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "If only to think of myself as a stain... sure."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "I'd love to be your friend!"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/c-5/7
+msgctxt "Washford"
+msgid "If you are a stain, you are dark chocolate. Or rich green grass."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/c-5/15
+msgctxt "Washford"
+msgid "You are extraordinary. And indicative of a fine experience."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/c-6/7
+msgctxt "Washford"
+msgid "Excellent!"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/c-6/18
+msgctxt "Washford"
+msgid "I... I'm speechless. I don't have the faintest idea what to say now!"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/c-6/26/0/s/0
+msgctxt "Choix"
+msgid "Well there's a first!"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-1/c-6/26/c-0/7
+msgctxt "Washford"
+msgid "Indeed! Yes... huh!"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-2/0
+msgctxt "Washford"
+msgid "So, new friend. What is on your mind these days?"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "Not a thing! I do have to go now, but I'll see you soon!"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-2/c-7/7
+msgctxt "Washford"
+msgid "You'll see me soon. And I'll be happy when that moment comes!"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-2/c-8/7
+msgctxt "Washford"
+msgid "...hm. Drysdale. And what about him? My other true... if lost... if irretrievable... friend."
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-2/c-8/15/0/s/0
+msgctxt "Choix"
+msgid "What if he wasn't lost?"
+msgstr ""
+
+#: washford_washer/washford_friend_path/0/g-2/c-8/15/1/s/0
+msgctxt "Choix"
+msgid "I think we should go talk to him."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/0
+msgctxt "Washford"
+msgid "A friendly reply. Ah yes."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/8
+msgctxt "Washford"
+msgid "You mean to say that the feeling between us is regard. Affection, but nothing more."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/16/s/0
+msgctxt "Choix"
+msgid "Yeah. Good friendship, I think."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/17/s/0
+msgctxt "Choix"
+msgid "Don't get me wrong. You're... amazing. But I want to be honest."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-0/0
+msgctxt "Washford"
+msgid "I feel then, friend, that I must thank you."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-0/11/s/0
+msgctxt "Choix"
+msgid "What for?"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-0/12/s/0
+msgctxt "Choix"
+msgid "Sure, that makes sense."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/0
+msgctxt "Washford"
+msgid "Your friendship has reawakened in me something that I was sure I had lost forever. I never again thought to feel so awake, so... vital as I have with you."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/8
+msgctxt "Washford"
+msgid "You have brought me back into the light, my friend. And I am grateful."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/16/s/0
+msgctxt "Choix"
+msgid "I get it. Thank you for the appreciation!"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/17/s/0
+msgctxt "Choix"
+msgid "It's been my pleasure. I'm glad you're so much happier."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/18/s/0
+msgctxt "Choix"
+msgid "Question has to be asked though... what about Drysdale?"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-4/7
+msgctxt "Washford"
+msgid "My appreciation serves us both, I believe! I have determined to let the world flow through me a bit more, instead of trying to hold onto the moving river."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-4/15
+msgctxt "Washford"
+msgid "I feel the gratitude, so I give it away. To you. A deserving recipient."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-4/23
+msgctxt "Washford"
+msgid "Fare well, friend! You are and shall be welcome here."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-5/7
+msgctxt "Washford"
+msgid "Happy. Ah well. One need not be fully a bird to know that one is not a fish, is it not so?"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-5/15/0/s/0
+msgctxt "Choix"
+msgid "Um... sure? I guess?"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-5/15/1/s/0
+msgctxt "Choix"
+msgid "Precisely."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-5/15/g-0/0
+msgctxt "Washford"
+msgid "Off with you now, friend. We both must attend to our own spinning cycles!"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-6/7
+msgctxt "Washford"
+msgid "...ah. Well..."
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-6/15
+msgctxt "Washford"
+msgid "What about him, then?"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-6/23/0/s/0
+msgctxt "Choix"
+msgid "You know we've been talking. Do you want to see him?"
+msgstr ""
+
+#: washford_washer/washford_love_friend/0/g-1/c-6/23/1/s/0
+msgctxt "Choix"
+msgid "Oh come on. You're in love with him, dummy."
+msgstr ""
+
+#: washford_washer/washford_hate_path/0
+msgctxt "Washford"
+msgid "I'm sure you know by now, that words come to me like moths gather 'round a candle."
+msgstr ""
+
+#: washford_washer/washford_hate_path/8
+msgctxt "Washford"
+msgid "They flap in my brain and alight in the most delightful patterns, chaos and winged rhythm."
+msgstr ""
+
+#: washford_washer/washford_hate_path/16
+msgctxt "Washford"
+msgid "They are my heart, beating to be heard and felt."
+msgstr ""
+
+#: washford_washer/washford_hate_path/24
+msgctxt "Washford"
+msgid "But to you, who have wounded and mocked and derailed me I have discovered..."
+msgstr ""
+
+#: washford_washer/washford_hate_path/32
+msgctxt "Washford"
+msgid "...I have nothing else at all to say."
+msgstr ""
+
+#: washford_washer/washford_hate_path/83
+msgctxt "Reggie"
+msgid "That guy."
+msgstr ""
+
+#: washford_washer/washford_hate_path/88
+msgctxt "Reggie"
+msgid "Talks way too much."
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/0/b/1
+msgctxt "Washford"
+msgid "Are we retreating through time? Climbing the sands of the hourglass, passionately searching for our beginning?"
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/1/b/1
+msgctxt "Washford"
+msgid "My, my. Your Fantastic Red Shirt... the crimson of a burning sunset... I love it!"
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/5/s/0
+msgctxt "Choix"
+msgid "Damn, I missed you."
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/6/s/0 washford_washer/washford_friend_return_solo/0/13/s/0
+msgctxt "Choix"
+msgid "I've been thinking of getting you and Drysdale back together."
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/7/s/0
+msgctxt "Choix"
+msgid "Washford, I'm ready to Realize you."
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/c-0/7
+msgctxt "Washford"
+msgid "You and I are a story already written, my nymph; and a grand one. Now off with you."
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/c-1/7
+msgctxt "Washford"
+msgid "And I you. True love is evergreen... well. You know that."
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Loving you is my pleasure."
+msgstr ""
+
+#: washford_washer/washford_love_return_solo/0/c-1/15/c-0/7
+msgctxt "Washford"
+msgid "You are delightful. Run along now..."
+msgstr ""
+
+#: washford_washer/washford_friend_return_solo/0/0/b/1
+msgctxt "Washford"
+msgid "Ah, greetings to you, traveler! You seem not quite so weary as you were wont to... I am glad to see it."
+msgstr ""
+
+#: washford_washer/washford_friend_return_solo/0/1/b/1
+msgctxt "Washford"
+msgid "My, my. Your fantastic red shirt... the crimson of a burning sunset... I love it!"
+msgstr ""
+
+#: washford_washer/washford_friend_return_solo/0/4
+msgctxt "Washford"
+msgid "To what may I attribute your presence?"
+msgstr ""
+
+#: washford_washer/washford_friend_return_solo/0/12/s/0
+msgctxt "Choix"
+msgid "Just checking in to say hello, friend!"
+msgstr ""
+
+#: washford_washer/washford_friend_return_solo/0/14/s/0
+msgctxt "Choix"
+msgid "How would you like to be Realized, Washford?"
+msgstr ""
+
+#: washford_washer/washford_friend_return_solo/0/c-0/7
+msgctxt "Washford"
+msgid "Ah! Well. That's rather casual... but welcome nonetheless."
+msgstr ""
+
+#: washford_washer/washford_friend_return_solo/0/c-0/15
+msgctxt "Washford"
+msgid "Off you go now! I imagine there are others on your \"check in\" list."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/0
+msgctxt "Washford"
+msgid "Oh, you're back? Allow me to pull out my gleeman's cape and cap."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/8
+msgctxt "Washford"
+msgid "For surely you are not here to hear or impart truth."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/16
+msgctxt "Washford"
+msgid "You come for entertainment and spectacle. For razzle-dazzle."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/24
+msgctxt "Washford"
+msgid "Well, I am an empty keg. No more champagne in the bottle."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/32/s/0
+msgctxt "Choix"
+msgid "Do you hate me?"
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/33/s/0
+msgctxt "Choix"
+msgid "What if I said that I'm sorry? (USE SMARTS CANDY)"
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-0/7
+msgctxt "Washford"
+msgid "Hate? Why, no. I am disappointed."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-0/15
+msgctxt "Washford"
+msgid "If that status does not fit in your tripartate distinction, then allow me to speak it plainly."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-0/23
+msgctxt "Washford"
+msgid "I feel nothing for you, in particular. Perhaps a vague sense of waste."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-1/7
+msgctxt "Washford"
+msgid "What an overused word, sorry, so pulled and stretched it has become."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-1/15
+msgctxt "Washford"
+msgid "I think not. I will not contort myself around pablum to soothe a wounded ego."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-1/29
+msgctxt "Washford"
+msgid "Hm. Though the word tastes sweeter than I would've expected."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-1/37
+msgctxt "Washford"
+msgid "Sorry... And I feel somehow a sincerity about you."
+msgstr ""
+
+#: washford_washer/washford_hate_return/0/c-1/45
+msgctxt "Washford"
+msgid "Very well. Welcome to your only second chance."
+msgstr ""
+
+#: washford_washer/washford_convince/0/0
+msgctxt "Washford"
+msgid "Together. Well. That would be quite a thing."
+msgstr ""
+
+#: washford_washer/washford_convince/0/8
+msgctxt "Washford"
+msgid "That would be the joy of my eternity."
+msgstr ""
+
+#: washford_washer/washford_convince/0/16
+msgctxt "Washford"
+msgid "But... there are conditions. There have always been, I suppose, but at long last I can name them."
+msgstr ""
+
+#: washford_washer/washford_convince/0/24
+msgctxt "Washford"
+msgid "I will no longer watch silently while the love I pour into him is siphoned off in dalliances with bare-chested lolly-gaggers."
+msgstr ""
+
+#: washford_washer/washford_convince/0/32
+msgctxt "Washford"
+msgid "I must have his eyes, on mine, with a recognition of the past. He must say that he is sorry."
+msgstr ""
+
+#: washford_washer/washford_convince/0/40
+msgctxt "Washford"
+msgid "I am almost embarrassed by the simplicity of my request."
+msgstr ""
+
+#: washford_washer/washford_convince/0/48/s/0
+msgctxt "Choix"
+msgid "Don't be. It's valid."
+msgstr ""
+
+#: washford_washer/washford_convince/0/49/s/0
+msgctxt "Choix"
+msgid "Yeah. It is pretty basic... but I get it."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-0/0
+msgctxt "Washford"
+msgid "Until that comes, I will not move one inch."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Well get ready to move."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-0/c-2/7
+msgctxt "Washford"
+msgid "Oh?"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-0/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "He's ready to apologize."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-0/c-2/15/1/s/0
+msgctxt "Choix"
+msgid "He wants to talk to you."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-0/c-2/15/g-0/0
+msgctxt "Washford"
+msgid "I... I cannot breathe... and you... do you think I should go?"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "Of course I do. You two are obviously in love."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/1/s/0
+msgctxt "Choix"
+msgid "Honestly, no. I think you're bad for each other."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/2/s/0
+msgctxt "Choix"
+msgid "Ah never mind, I want you for myself! Screw Drysdale!"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-3/7
+msgctxt "Washford"
+msgid "We are."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-3/15
+msgctxt "Washford"
+msgid "We have always been."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-3/23
+msgctxt "Washford"
+msgid "I cannot thank you enough. What selflessness. What dedication, not just to a friendship but to the higher meaning of love."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-3/31
+msgctxt "Washford"
+msgid "You, truly, are precious to me."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/7
+msgctxt "Washford"
+msgid "You're right."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/15
+msgctxt "Washford"
+msgid "Of course you're right."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/20
+msgctxt "Washford"
+msgid "Ahhh why did I spend so long not seeing it?! Not knowing!"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/31/0/s/0
+msgctxt "Choix"
+msgid "It's ok. It happens."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/31/1/s/0
+msgctxt "Choix"
+msgid "You should hear some of the screwy relationships I've been in..."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/31/c-1/7
+msgctxt "Washford"
+msgid "I would love to hear your stories. You've certainly and generously heard enough of mine!"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/31/g-0/0
+msgctxt "Washford"
+msgid "Come, my friend. Let us move on. Let us together walk cleanly into a new future. The past may never be entirely washed clean..."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-4/31/g-0/8
+msgctxt "Washford"
+msgid "...but sometimes we must take the best we can get."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/7
+msgctxt "Washford"
+msgid "Such brazen self-declaration!"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/15
+msgctxt "Washford"
+msgid "Do you mean that, daring danger and disapproval you would have me fully and share me with none?"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/23
+msgctxt "Washford"
+msgid "Not even a lover? Of whose prowess I have already boasted to you with longing? That's sassy."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/34/0/s/0
+msgctxt "Choix"
+msgid "That's exactly what I mean."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/34/1/s/0
+msgctxt "Choix"
+msgid "Prowess? You want prowess?? I got your prowess."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/34/g-0/0
+msgctxt "Washford"
+msgid "If you are that brave, if you would fight for me like this!"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/34/g-0/8
+msgctxt "Washford"
+msgid "Then Yes. YES! SCREW DRYSDALE!"
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/34/g-0/19
+msgctxt "Washford"
+msgid "Something I have done but never thought to say..."
+msgstr ""
+
+#: washford_washer/washford_convince/0/g-1/c-5/34/g-0/27
+msgctxt "Washford"
+msgid "But no more talk of him! It is you and me, and we shall trace the paths of the heavens with our gripping hands...!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/0
+msgctxt "Washford"
+msgid "Hello, dear heart!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/8
+msgctxt "Washford"
+msgid "What a pleasure to see you again."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/19
+msgctxt "Drysdale"
+msgid "Oh, lookee who it is, my newest little cheeky monkey!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/30
+msgctxt "Washford"
+msgid "Your what?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/41
+msgctxt "Drysdale"
+msgid "Oh not to worry, Washy. It's just a pet name. You're the only monkey who climbs this tree... forevermore."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/52
+msgctxt "Washford"
+msgid "Good. As it should be."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/60
+msgctxt "Washford"
+msgid "Now. What can we do for you?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/68/s/0
+msgctxt "Choix"
+msgid "Not a thing, you two. Just wanted to say hi!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/69/s/0 washford_washer/washford_drysdale_friend_return/0/25/s/0
+msgctxt "Choix"
+msgid "I'm ready to Realize you both!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/c-0/7
+msgctxt "Drysdale"
+msgid "Oh, isn't that sweet!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/c-0/15
+msgctxt "Washford"
+msgid "Well, hello again, then."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_return/0/c-0/20
+msgctxt "Drysdale"
+msgid "And goodbye! Come back soon! Bring Chardonnay next time, cherub."
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/0
+msgctxt "Washford"
+msgid "And a pleasant day to you, my friend!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/8
+msgctxt "Washford"
+msgid "Darling little stain."
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/16
+msgctxt "Drysdale"
+msgid "What did you just say, Washy? It sounded ridiculous."
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/24/s/0
+msgctxt "Choix"
+msgid "Oh it was. But I like it. Just wanted to say hi to you both!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/c-0/7
+msgctxt "Washford"
+msgid "That's very considerate of you. Thank you."
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/c-0/12
+msgctxt "Drysdale"
+msgid "Yes, hi! I LOVE visits, you know."
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/c-0/20/0/s/0
+msgctxt "Choix"
+msgid "Oh, I know..."
+msgstr ""
+
+#: washford_washer/washford_drysdale_friend_return/0/c-0/20/c-0/7
+msgctxt "Narrator"
+msgid "You spend your time gabbing with the two about lifting - both weights and one's intellectual capacities."
+msgstr ""
+
+#: washford_washer/washford_realize_join_solo/0/0
+msgctxt "Washford"
+msgid "Surely you jest."
+msgstr ""
+
+#: washford_washer/washford_realize_join_solo/0/11
+msgctxt "Washford"
+msgid "You would... make me real? You have that power?"
+msgstr ""
+
+#: washford_washer/washford_realize_join_solo/0/28/s/0
+msgctxt "Choix"
+msgid "Yes, I do. The power, the desire and the necessary tools!"
+msgstr ""
+
+#: washford_washer/washford_realize_join_solo/0/29/s/0
+msgctxt "Choix"
+msgid "Power, yes. But I have a few more things to gather before I'm ready."
+msgstr ""
+
+#: washford_washer/washford_realize_join_solo/0/c-1/10
+msgctxt "Washford"
+msgid "I have to say quite honestly that I never... I never dreamed..."
+msgstr ""
+
+#: washford_washer/washford_realize_join_solo/0/c-1/18
+msgctxt "Washford"
+msgid "Of course I shall wait until you return, for where else would I go? Until now, going or being anywhere but here..."
+msgstr ""
+
+#: washford_washer/washford_realize_join_solo/0/c-1/26
+msgctxt "Washford"
+msgid "Ah! Hurry back! The dreams may overwhelm me!"
+msgstr ""
+
+#: washford_washer/washford_realize_return/0/0
+msgctxt "Washford"
+msgid "You are returned! Are you prepared? I cannot overstate my own readiness."
+msgstr ""
+
+#: washford_washer/washford_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "I am. Let's go!"
+msgstr ""
+
+#: washford_washer/washford_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "Almost! Stay ready, I'll be back!"
+msgstr ""
+
+#: washford_washer/washford_realize_return/0/c-1/10
+msgctxt "Washford"
+msgid "Stay ready. Tosh. As if I'll think about anything but this as I watch the doorway like a hawk for a shadow."
+msgstr ""
+
+#: washford_washer/washford_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Washford is our first Realization? I hope he thinks I'm cool."
+msgstr ""
+
+#: washford_washer/washford_realize_begin/6/b/6
+msgctxt "Skylar"
+msgid "I want him to think I'm cool."
+msgstr ""
+
+#: washford_washer/washford_realize_begin/9
+msgctxt "Skylar"
+msgid "We don't need Drysdale where we're going, Washford!"
+msgstr ""
+
+#: washford_washer/washford_realize_begin/17
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a washing machine, becomes...."
+msgstr ""
+
+#: washford_washer/washford_realized/0/3
+msgctxt "Narrator"
+msgid "Washford's Realization is a much quieter affair than you'd imagined. There's no wonder or laughter... no gasps or cries of amazement."
+msgstr ""
+
+#: washford_washer/washford_realized/0/11
+msgctxt "Narrator"
+msgid "He only inspects himself with a dispassionate gaze, shrugging."
+msgstr ""
+
+#: washford_washer/washford_realized/0/19
+msgctxt "Washford"
+msgid "...me. What was once merely a washing machine becomes... me."
+msgstr ""
+
+#: washford_washer/washford_realized/0/27
+msgctxt "Washford"
+msgid "Hm. Merely me. A machine into a man and still... merely."
+msgstr ""
+
+#: washford_washer/washford_realized/0/35/s/0
+msgctxt "Choix"
+msgid "You doing alright, pal?"
+msgstr ""
+
+#: washford_washer/washford_realized/0/36/s/0
+msgctxt "Choix"
+msgid "How about a little high erotica before you go?"
+msgstr ""
+
+#: washford_washer/washford_realized/0/c-0/7
+msgctxt "Washford"
+msgid "Hm? Oh. Yes. Yes, of course."
+msgstr ""
+
+#: washford_washer/washford_realized/0/c-0/15
+msgctxt "Washford"
+msgid "Don't misunderstand; I am more grateful than I could say."
+msgstr ""
+
+#: washford_washer/washford_realized/0/c-0/23
+msgctxt "Washford"
+msgid "But in some way, I do feel done. Completed. Over."
+msgstr ""
+
+#: washford_washer/washford_realized/0/c-0/31
+msgctxt "Washford"
+msgid "Fascinating sensation, really."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/3
+msgctxt "Washford"
+msgid "My love. You could not think I would let you leave without a touch?"
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/11
+msgctxt "Washford"
+msgid "How have I waited, how long we have both waited to touch and be touched, not the cool distance of metal on palm but the warm, soft, pulse of blood beneath an arm, a cheek, a belly."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/19
+msgctxt "Washford"
+msgid "There is much, after all that I have yet to learn about this body."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/27
+msgctxt "Washford"
+msgid "You will be my guide now. You will teach me this new poetry."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/35
+msgctxt "Narrator"
+msgid "Washford as a student is Washford as a teacher; passionate, dated perhaps, but sincere."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/43
+msgctxt "Narrator"
+msgid "With every caress a whispered word, with every lesson mastered a grateful and mischievous smile."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/51/s/0
+msgctxt "Choix"
+msgid "Wait right here! I'm going to get some whipped cream..."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/52/s/0
+msgctxt "Choix"
+msgid "Ooh! I have an idea... lemme go grab a blindfold!"
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/g-0/3
+msgctxt "Narrator"
+msgid "But when you return, he is gone."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/g-0/8
+msgctxt "Narrator"
+msgid "You search and call, but he is nowhere to be found..."
+msgstr ""
+
+#: washford_washer/washford_love_divert_solo/0/g-0/13
+msgctxt "Narrator"
+msgid "...until at last, on your window pane, a heart drawn with a fingertip, and a single bead of condensation dripping slowly to the sill."
+msgstr ""
+
+#: washford_washer/washford_love_join_solo/0
+msgctxt "Narrator"
+msgid "Washford denied any interest in involving himself in the world he found outside the house."
+msgstr ""
+
+#: washford_washer/washford_love_join_solo/8
+msgctxt "Narrator"
+msgid "He traveled mostly by night and always alone until he found himself in an abandoned cabin on the edge of a high coastal promontory."
+msgstr ""
+
+#: washford_washer/washford_love_join_solo/13
+msgctxt "Narrator"
+msgid "Over the course of the next several months, he patched and repaired the ailing structure. He bought a tea kettle. He arranged for weekly grocery deliveries, but only to the property edge, to be left there."
+msgstr ""
+
+#: washford_washer/washford_love_join_solo/18
+msgctxt "Narrator"
+msgid "He filled his cabin with books. Books of every variety and nationality, including a fair number written after the year 1900... as a memory of you."
+msgstr ""
+
+#: washford_washer/washford_love_join_solo/26
+msgctxt "Narrator"
+msgid "He spends his days reading, writing and looking out of his window at the lonely sea."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/0
+msgctxt "Washford"
+msgid "Real? Real! My love..."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/8
+msgctxt "Drysdale"
+msgid "...we shall be real!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/16
+msgctxt "Drysdale"
+msgid "Oh dear Barbara I always dreamed this day would come I just have to say I am BLOWN AWAY that it's come at the hands of our lovely new friend!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/24
+msgctxt "Washford"
+msgid "You knew this day would come?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/32
+msgctxt "Drysdale"
+msgid "Well, yes."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/40
+msgctxt "Washford"
+msgid "You <i>knew</i> that one day we would cease to be machines and be magically transmuted into actual living breathing human beings through some shade-based alchemy?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/48
+msgctxt "Drysdale"
+msgid "Yes! Yes! Of course I knew! And look it's happening, so there."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/56
+msgctxt "Washford"
+msgid "Ah, Drydee... I do love you more than life."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/79/s/0
+msgctxt "Choix"
+msgid "So that's a yes, then. Great. Let's go for it!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/80/s/0
+msgctxt "Choix"
+msgid "I'll just go get what I need to make it happen, shall I?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/c-1/16
+msgctxt "Washford"
+msgid "We shall stay exactly here."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_join/0/c-1/24
+msgctxt "Drysdale"
+msgid "And we'll talk about you the whole time you're gone!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_return/0/0
+msgctxt "Washford"
+msgid "You've returned, and loaded for magic, I presume?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_return/0/8
+msgctxt "Drysdale"
+msgid "Oh you'd better be, if you're not I think I'll just burst!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_return/0/28/s/0
+msgctxt "Choix"
+msgid "Yep! Magic on deck... let's go!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_return/0/29/s/0
+msgctxt "Choix"
+msgid "Almost. Just making sure you're still on board!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_return/0/c-1/16
+msgctxt "Drysdale"
+msgid "On board. On board?! My god, cherub, I was born ON BOARD!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_return/0/c-1/24
+msgctxt "Washford"
+msgid "We are still invested, yes. Hurry back now... before dear Drydee combusts."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_begin/3/b/1
+msgctxt "Skylar"
+msgid "We're going to Realize these two first? I love a good love story!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_begin/6
+msgctxt "Skylar"
+msgid "Okay you two, now kiss!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realize_begin/17
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a washer and dryer unit, becomes...."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/0
+msgctxt "Narrator"
+msgid "Washford and Drysdale look each other up and down in disbelief and then joy, each examining the other and laughing."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/5
+msgctxt "Washford"
+msgid "DRYDEE. My GOD, look at you!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/16
+msgctxt "Drysdale"
+msgid "Washy, you living god, look at YOU!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/27
+msgctxt "Washford"
+msgid "Living. You called me living!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/38
+msgctxt "Drysdale"
+msgid "That I did, darling, light of my life. And now we can truly LIVE together!!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/49
+msgctxt "Narrator"
+msgid "Drysdale lifts Washford into his arms, the two of them sharing a tender embrace."
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/72/s/0
+msgctxt "Choix"
+msgid "Ahhh you two look so happy!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_realized/0/73/s/0
+msgctxt "Choix"
+msgid "Come here my loves... let's see if we can do a little spin cycle of our own..."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/0
+msgctxt "Narrator"
+msgid "They break apart just enough to give you a positively devilish look."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/11
+msgctxt "Drysdale"
+msgid "Oh, monkey. Are you suggesting what I think you're suggesting?"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/22
+msgctxt "Washford"
+msgid "Dear Drydee, I believe so. It has been such a long time since we experienced anything like this!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/33
+msgctxt "Washford"
+msgid "What a sacred and joyous exploration we're about to embark on!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/44
+msgctxt "Washford"
+msgid "May I say, dear one, we are honored."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/55
+msgctxt "Drysdale"
+msgid "Honored? Ha!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/66
+msgctxt "Drysdale"
+msgid "Well, alright not \"ha\" but to hell with honored. We're turned on, is what we are!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/77
+msgctxt "Drysdale"
+msgid "Buckle up, buttercup!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/88/s/0
+msgctxt "Choix"
+msgid "<i>Pull seatbelt tightly across lap.</i>"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/89/s/0
+msgctxt "Choix"
+msgid "<i>Hold on for dear life.</i>"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/g-0/3
+msgctxt "Narrator"
+msgid "Despite an initial bout of trepidation, you find Washford and Drysdale to be consummate lovers. Gentle, powerful, exploratory and joyous."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/g-0/26
+msgctxt "Narrator"
+msgid "There are a few things you decide you're not ready to try..."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/g-0/37
+msgctxt "Drysdale"
+msgid "Oh Cherub don't worry, I haven't dropped anyone in decades!"
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/g-0/54
+msgctxt "Narrator"
+msgid "But for the most part, and in more ways than you can count, it becomes one of the great adventures in your memory."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_divert/0/g-0/65
+msgctxt "Washford"
+msgid "It has been one of our greatest adventures too, dear one."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_join/0
+msgctxt "Narrator"
+msgid "Washford and Drysdale did at least one thing together perfectly- and now in their human forms, they took to it once more.  Not being made of metal made them fly faster and higher than ever before."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_join/11
+msgctxt "Narrator"
+msgid "As an acrobatic duo, they remained unmatched, and they've added several new skills to their combined repertoire."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_join/22
+msgctxt "Narrator"
+msgid "Drysdale took up aerial silks, lyra and pole dancing."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_join/33
+msgctxt "Narrator"
+msgid "Washford became quite proficient at juggling swords and fire, and together they perfected a tandem trick diving routine."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_join/44
+msgctxt "Narrator"
+msgid "They're currently working on an act that incorporates silk, fire, and acrobatics in a single series of tricks; and so far, only one doublet has been burned to ash."
+msgstr ""
+
+#: washford_washer/washford_drysdale_love_join/55
+msgctxt "Narrator"
+msgid "They are hopeful. Adored. And they are very much in love."
+msgstr ""

@@ -1,0 +1,5614 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Date Everything - Traduction FR\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: abel_table/1
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "TABLE"
+msgstr ""
+
+#: abel_table/coffee_table/7
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "COFFEE TABLE"
+msgstr ""
+
+#: abel_table/console_table/7
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "CONSOLE TABLE"
+msgstr ""
+
+#: abel_table/dining_table/7
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "DINING TABLE"
+msgstr ""
+
+#: abel_table/end_table/10
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "END TABLE"
+msgstr ""
+
+#: abel_table/foyer_table/4
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "FOYER TABLE"
+msgstr ""
+
+#: abel_table/kitchen_table/7
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "KITCHEN TABLE"
+msgstr ""
+
+#: abel_table/landing_table/7
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "HALL TABLE"
+msgstr ""
+
+#: abel_table/record_table/7
+msgctxt "Tag Nom d'objet (MAJUSCULES)"
+msgid "RECORD TABLE"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/8
+msgctxt "Narrator"
+msgid "Abel appears to be in a state of distress when you come across him."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/16
+msgctxt "Narrator"
+msgid "He's drumming his fingers along his leg, crossing and uncrossing his arms... something is clearly on his mind."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/24
+msgctxt "Abel"
+msgid "Oh hello. I'm just... uh..."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/32
+msgctxt "Abel"
+msgid "Why do you look so serious?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/40/s/0
+msgctxt "Choix"
+msgid "Abel, you have to ask Dasha out."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/7
+msgctxt "Narrator"
+msgid "Abel does a double-take that would be comical if he didn't look so sincerely alarmed."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/18
+msgctxt "Abel"
+msgid "Dasha? Why?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/0/s/0
+msgctxt "Choix"
+msgid "Don't play dumb."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/1/s/0
+msgctxt "Choix"
+msgid "Why not?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/2/s/0
+msgctxt "Choix"
+msgid "Because you're obviously in love with her."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/c-0/7
+msgctxt "Abel"
+msgid "I ain't playin' at nothin', amigo."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/c-0/15
+msgctxt "Abel"
+msgid "I was just surprised to hear you say 'er name, that's all."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/c-1/7
+msgctxt "Abel"
+msgid "I, uh, look, you can't just come up to a table and start in with all that kind of talking out the gate."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/c-1/15
+msgctxt "Abel"
+msgid "I ain't built for all that."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/c-2/7
+msgctxt "Abel"
+msgid "Obviously? In <i>love</i>?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/c-0/26/c-2/15
+msgctxt "Abel"
+msgid "Y'all really comin' in HOT today, ain'tcha?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-0/0/s/0
+msgctxt "Choix"
+msgid "Look. It's obvious to anyone who spends any amount of time around the two of you."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-0/c-1/7
+msgctxt "Abel"
+msgid "I understand ya mean well, but you can't just walk right up here and start tellin' me who I gotsta ask out."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-0/c-1/15/0/s/0
+msgctxt "Choix"
+msgid "Are you telling me you don't feel anything for Dasha at all?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-0/c-1/15/c-0/7
+msgctxt "Abel"
+msgid "Well now I ain't said none of that neither."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-0/c-1/15/c-0/15
+msgctxt "Abel"
+msgid "I'm just sayin'... there's a reason cowboys ride alone."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-0/c-1/15/c-0/23
+msgctxt "Abel"
+msgid "A reason the sun and the moon never meet in the sky. You know?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-0/c-1/15/c-0/31
+msgctxt "Abel"
+msgid "A reason the clouds and the mountains can't never be together."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/0/s/0
+msgctxt "Choix"
+msgid "First of all, none of that makes sense."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/7
+msgctxt "Abel"
+msgid "Oh, it makes a ton of sense."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/0/s/0
+msgctxt "Choix"
+msgid "Second, stop hiding behind your folksy sayings."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/7
+msgctxt "Abel"
+msgid "I ain't hidin'!"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I know you're afraid..."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "I'll just tell her you hate her."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Are you really going to let yourself miss out on happiness?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/3/s/0
+msgctxt "Choix"
+msgid "I don't care about you two - what about us?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Afraid? Me? What?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "I ain't never been afeared of nothin'!"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Getting hurt, for one."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/7
+msgctxt "Abel"
+msgid "Oh, it ain't about me. What if she gets hurt?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "See, you are afraid. Connection brings pain to yourself and others."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Ah, so you get it then."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "But it also brings joy and comfort. You can't have the good without the bad, Abel."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Hm... ain't followin' ya'..."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Oh. Uh... it's like... you can't have a horse without having to clean up a little horse poop."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "...so even though there's some bad times muckin' out the stables... the bond a cowboy feels with his horse transcends those moments. Is that it?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Yeah, totally. That."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/7
+msgctxt "Narrator"
+msgid "Abel sighs, shaking his head. It seems your words have finally hit home."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "...you're right. God, you're right."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/23
+msgctxt "Abel"
+msgid "I been such a yellow-bellied dadgum FOOL... I almost let an incredible desk like Dasha slip through my got dang fingers."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/31
+msgctxt "Abel"
+msgid "I... I gotta go. There's somethin' I need to do."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-0/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "Go get her, Abel."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/7 abel_table/us/0/c-2/10
+msgctxt "Narrator"
+msgid "There's a cold look in Abel's eyes that you've never seen before."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/18 abel_table/us/0/c-2/21
+msgctxt "Abel"
+msgid "...I don't hate her, but I'm startin' to develop some less than kind feelings about you."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/0/s/0 abel_table/us/0/c-2/29/0/s/0
+msgctxt "Choix"
+msgid "Feel free to change my mind."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/7 abel_table/us/0/c-2/29/g-0/0
+msgctxt "Abel"
+msgid "Just leave her out of this, and leave me alone."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/15 abel_table/us/0/c-2/29/g-0/8
+msgctxt "Abel"
+msgid "Ain't no talkin' about a matter this serious with someone like you."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/20 abel_table/us/0/c-2/29/g-0/13
+msgctxt "Abel"
+msgid "You ain't got a lick of sensitivity to ya."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/28/0/s/0 abel_table/us/0/c-2/29/g-0/21/1/s/0
+msgctxt "Choix"
+msgid "I'm just trying to help you two out."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/28/c-0/7 abel_table/us/0/c-2/29/g-0/21/c-1/7
+msgctxt "Abel"
+msgid "I got no need for 'help' like yours."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/28/c-0/18 abel_table/us/0/c-2/29/g-0/21/g-0/0
+msgctxt "Abel"
+msgid "Do me a favor 'n get lost."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/28/c-0/26/0/s/0 abel_table/us/0/c-2/29/g-0/21/g-0/8/0/s/0
+msgctxt "Choix"
+msgid "Alright..."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/28/c-0/26/c-0/44 abel_table/us/0/c-2/29/g-0/21/g-0/8/c-0/44
+msgctxt "Reggie"
+msgid "What a dependable guy... Guess you had to <i>table</i> that relationship."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-1/26/c-0/28/c-0/26/c-0/52 abel_table/us/0/c-2/29/g-0/21/g-0/8/c-0/52
+msgctxt "Reggie"
+msgid "Pity."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/7
+msgctxt "Abel"
+msgid "It ain't about missin' out on happiness!"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/15
+msgctxt "Abel"
+msgid "Who wants to miss out on happiness!?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/23
+msgctxt "Abel"
+msgid "I'm missin' out on PAIN."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/31
+msgctxt "Abel"
+msgid "Ya, see... I been in love before. I know what comes at the end."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/39
+msgctxt "Abel"
+msgid "I know what it's like to look in the eyes of someone who looks up to ya and see nothin' but emptiness."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/0/s/0
+msgctxt "Choix"
+msgid "What about the good times, Abel? Don't let the fear of pain overshadow those."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/7
+msgctxt "Abel"
+msgid "...I been alone so long now it's hard to remember the good times."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Then think of all the new, amazing experiences you could have with Dasha."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "...you're right."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "You're... sure she wants me too?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "Positive."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/7
+msgctxt "Abel"
+msgid "Well, how do you know?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "She's literally just waiting for you to make the first move."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/c-0/7
+msgctxt "Narrator"
+msgid "Abel takes his hat off, scratches his head, then puts his hat back on."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "Huh. I thought we was done with that sorta thing in these modern times."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/c-0/23/0/s/0
+msgctxt "Choix"
+msgid "She's not, Abel."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/c-0/23/c-0/7
+msgctxt "Abel"
+msgid "Sheesh, well, you reckon I should go see her then?"
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I reckon so."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "All right. I'll mosey right on over there."
+msgstr ""
+
+#: abel_table/abel_cometojesus/0/g-1/c-2/15/c-0/15/c-2/47/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Let's mosey."
+msgstr ""
+
+#: abel_table/us/0/10
+msgctxt "Abel"
+msgid "Us? Ya, mean... You 'n me?"
+msgstr ""
+
+#: abel_table/us/0/18
+msgctxt "Abel"
+msgid "Oh... uh... well. I ain't a real decisive guy."
+msgstr ""
+
+#: abel_table/us/0/26
+msgctxt "Abel"
+msgid "What is it yer lookin' for 'us' to be?"
+msgstr ""
+
+#: abel_table/us/0/34/s/0
+msgctxt "Choix"
+msgid "I love you, Abel! Do you love me back?"
+msgstr ""
+
+#: abel_table/us/0/35/s/0
+msgctxt "Choix"
+msgid "I just want us to be friends."
+msgstr ""
+
+#: abel_table/us/0/36/s/0
+msgctxt "Choix"
+msgid "Dasha says you hate her. Also I just remembered that tables are boring."
+msgstr ""
+
+#: abel_table/us/0/c-0/7
+msgctxt "Abel"
+msgid "Oh. Well... alright. I aim to please..."
+msgstr ""
+
+#: abel_table/us/0/c-0/15
+msgctxt "Abel"
+msgid "I love you too."
+msgstr ""
+
+#: abel_table/us/0/c-0/23
+msgctxt "Abel"
+msgid "Done and done."
+msgstr ""
+
+#: abel_table/us/0/c-0/31 abel_table/us/0/c-1/27
+msgctxt "Abel"
+msgid "Guess it can be just that easy, huh?"
+msgstr ""
+
+#: abel_table/us/0/c-1/11
+msgctxt "Abel"
+msgid "Can do, buddy."
+msgstr ""
+
+#: abel_table/us/0/c-1/19
+msgctxt "Abel"
+msgid "You 'n me, amigos 'til the end of time."
+msgstr ""
+
+#: abel_table/us/0/c-2/29/1/s/0
+msgctxt "Choix"
+msgid "Just sayin' bro."
+msgstr ""
+
+#: abel_table/us/0/c-2/29/g-0/21/0/s/0
+msgctxt "Choix"
+msgid "Don't shoot the messenger!"
+msgstr ""
+
+#: abel_table/courage_return/0
+msgctxt "Abel"
+msgid "Awright awright I'm moseying over to Dasha. Give me a dang minute..."
+msgstr ""
+
+#: abel_table/console_table_intro/0/4
+msgctxt "Abel"
+msgid "Hey there. You wanna watch some TV?"
+msgstr ""
+
+#: abel_table/console_table_intro/0/12/s/0
+msgctxt "Choix"
+msgid "No actually, I came here to see you."
+msgstr ""
+
+#: abel_table/console_table_intro/0/c-0/7
+msgctxt "Abel"
+msgid "Oh wow, that's a real surprise."
+msgstr ""
+
+#: abel_table/console_table_intro/0/c-0/15
+msgctxt "Abel"
+msgid "You know, bein' here in the living room... there's all kinda fun stuff to do here that ain't me."
+msgstr ""
+
+#: abel_table/console_table_intro/0/c-0/23
+msgctxt "Abel"
+msgid "Sure I might hold yer drinks for ya, but you got so many fine options."
+msgstr ""
+
+#: abel_table/console_table_intro/0/c-0/31
+msgctxt "Abel"
+msgid "Telly's always got all kinds of programs on."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/0/b/1
+msgctxt "Abel"
+msgid "You ought to introduce yerself to 'im when you get a chance. Nice TV... a little energetic, mind. But nice."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/3/b/1
+msgctxt "Abel"
+msgid "But I guess you know all about that—saw you two talkin' just the other day!"
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/6
+msgctxt "Abel"
+msgid "Connie's another great way to spend yer time here."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/14/s/0 abel_table/landing_spill/0/c-0/15/c-0/37/c-0/50/0/s/0 abel_table/abel_jacques_return/0/g-0/10/s/0
+msgctxt "Choix"
+msgid "Who?"
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/15/s/0
+msgctxt "Choix"
+msgid "Yeah we've already met."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/c-1/7
+msgctxt "Abel"
+msgid "Yer vidya game machine! Dang new-fangled entertainment contraptions... I can barely keep up with TV."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/c-2/7
+msgctxt "Abel"
+msgid "Oh, well that's great. She seems, uh, real nice. But, you know, uh..."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-0/c-2/15
+msgctxt "Abel"
+msgid "A table like me needs some stability. I can't abide all that chaos 'n repeatin' herself."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-1/0
+msgctxt "Abel"
+msgid "Anyway listen to me go on! All I mean to say is..."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-1/8
+msgctxt "Abel"
+msgid "You got all kinds of things to do in a place like this, and here you are, jawin' with me!"
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-1/16
+msgctxt "Abel"
+msgid "I appreciate ya. Ahem. Now then."
+msgstr ""
+
+#: abel_table/console_table_intro/0/g-1/24 abel_table/landing_table_no_keith/0/c-0/52 abel_table/kitchen_table_intro/0/g-0/8 abel_table/foyer_table_intro/52 abel_table/coffee_table_intro/0/g-1/32
+msgctxt "Abel"
+msgid "What can I do ya for?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/4
+msgctxt "Abel"
+msgid "Hey there. Fancy a meal?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/12/s/0
+msgctxt "Choix"
+msgid "Just here to see you."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/c-0/7
+msgctxt "Abel"
+msgid "Hard to have a proper conversation in here."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/c-0/15
+msgctxt "Abel"
+msgid "Location's less'n ideal, y'know."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/c-0/23
+msgctxt "Abel"
+msgid "That dang fool Scandalabra NEVER shuts his yap."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I'm sorry, who?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/c-0/31/1/s/0
+msgctxt "Choix"
+msgid "I can imagine."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/c-0/31/c-0/7
+msgctxt "Abel"
+msgid "The dang candelabra. Absolute maniac."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/0
+msgctxt "Abel"
+msgid "Always goin' ON and ON about scandal this'n scandal that."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/8
+msgctxt "Abel"
+msgid "And effulgin' his got dang knop!"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/16
+msgctxt "Abel"
+msgid "Like we ain't all sittin' here in full view."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/24
+msgctxt "Abel"
+msgid "Get a room for that, buddy!"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "It's a pretty innocent part of his anatomy though, isn't it?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/33/s/0
+msgctxt "Choix"
+msgid "Sorry, what? Knop? Effulging?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/c-1/7
+msgctxt "Abel"
+msgid "Tell that to HIM. He won't stop moanin' and groanin' about it!"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/c-1/15
+msgctxt "Abel"
+msgid "He's like a got dang ghost with a bellyache."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/c-2/7
+msgctxt "Abel"
+msgid "Ugh... just a fancy way 'o sayin' he's polishin' the little ridge above his base."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/c-2/19
+msgctxt "Abel"
+msgid "He just likes to make it sound as filthy as possible."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/c-2/27
+msgctxt "Abel"
+msgid "Always moanin' and groanin' about it... like a ghost with a bellyache."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-0/c-2/35/0/s/0
+msgctxt "Choix"
+msgid "Sounds... interesting."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-1/0
+msgctxt "Abel"
+msgid "Guess it ain't all bad though, at least we got Rainey's sweet music here."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-1/8/s/0
+msgctxt "Choix"
+msgid "Rainey?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-1/9/s/0
+msgctxt "Choix"
+msgid "Love that music she plays."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-1/c-3/7
+msgctxt "Abel"
+msgid "Record player! Lovely gal, big partier. Always has great music goin'."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-2/0
+msgctxt "Abel"
+msgid "Yup! Makes puttin' up with Scandalabra a little easier."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-2/8
+msgctxt "Abel"
+msgid "Aw, but look at me, jawin' about all that like we ain't got nothin' but time."
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-2/16/s/0
+msgctxt "Choix"
+msgid "Don't we?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-2/17/s/0
+msgctxt "Choix"
+msgid "Is everything okay?"
+msgstr ""
+
+#: abel_table/dining_table_intro/0/g-3/11 abel_table/end_table_intro/0/g-4/11 abel_table/abel_fourth_chat/0/g-3/0
+msgctxt "Abel"
+msgid "Let me get back to work."
+msgstr ""
+
+#: abel_table/end_table_intro/0/4
+msgctxt "Abel"
+msgid "Someone there?"
+msgstr ""
+
+#: abel_table/end_table_intro/0/12/s/0
+msgctxt "Choix"
+msgid "Yeah, it's me, Abel!"
+msgstr ""
+
+#: abel_table/end_table_intro/0/13/s/0
+msgctxt "Choix"
+msgid "Just little old me."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/0
+msgctxt "Abel"
+msgid "Heh. Wasn't expectin' to see ya here."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/8
+msgctxt "Abel"
+msgid "The End Table is where I like to go when I want to be all alone with my thoughts."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/16
+msgctxt "Abel"
+msgid "The view here's pretty nice, makes me feel real thoughtful."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/24/s/0
+msgctxt "Choix"
+msgid "It sure is."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/25/s/0
+msgctxt "Choix"
+msgid "You mean the view of me sleeping?"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/c-2/7
+msgctxt "Abel"
+msgid "Oh, glad you understand."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/c-3/7
+msgctxt "Abel"
+msgid "W-what!? Tarnation! No!"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/c-3/15
+msgctxt "Abel"
+msgid "I was just sayin'... y'know, the view... the expanse o' blanket. The windows."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-0/c-3/23
+msgctxt "Abel"
+msgid "Makes ya appreciate nature's majesty."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-1/0
+msgctxt "Abel"
+msgid "You came at the best time for a talk."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-1/8
+msgctxt "Abel"
+msgid "Much as I like to be in here to think, sometimes it's tough."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-1/16
+msgctxt "Abel"
+msgid "Betty is sweet as pie, but sometimes a table's got to think on his own."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-1/24
+msgctxt "Abel"
+msgid "But Betty's company's a darn sight better for thinkin' than those dang Hanks."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "Hanks?"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-1/33/s/0
+msgctxt "Choix"
+msgid "Haha I know what you mean."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-1/c-4/7
+msgctxt "Abel"
+msgid "The hangers!"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/0
+msgctxt "Abel"
+msgid "There's so goddang many of them, and they're always jumpin', jumpin', jumpin'."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/11
+msgctxt "Abel"
+msgid "Crashing round in that closet like five bulls on a trampoline."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/19
+msgctxt "Abel"
+msgid "It's just too dang much."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/27
+msgctxt "Abel"
+msgid "And then you got Ben-hwa."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/35/s/0
+msgctxt "Choix"
+msgid "Ben-what-now?"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/36/s/0 abel_table/end_spill/0/g-0/52/s/0
+msgctxt "Choix"
+msgid "What's wrong with Ben-hwa?"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/c-6/7
+msgctxt "Abel"
+msgid "Oak almighty don't make me say it."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/c-6/18
+msgctxt "Abel"
+msgid "They're a... you know."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/c-6/23
+msgctxt "Abel"
+msgid "Eh, one of them, then, yeah."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-2/c-6/31
+msgctxt "Abel"
+msgid "Uh, Intimate Marital Aids."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/0
+msgctxt "Narrator"
+msgid "Abel looks like he'd rather talk about anything else. He lowers his voice like he's speaking of something truly scandalous."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/8
+msgctxt "Abel"
+msgid "Oh, that one never stops talking about S.E.X."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/16
+msgctxt "Abel"
+msgid "Askin' me if anyone's polishin' my surfaces lately..."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/21
+msgctxt "Abel"
+msgid "Tellin' me stories about their... conquests..."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/29
+msgctxt "Abel"
+msgid "I'm an old-fashioned kinda table, dang it! That kinda talk's s'posed to be private!"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/34
+msgctxt "Abel"
+msgid "Oh, but look at me, you came here to talk to me, not any of those guys."
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/42/s/0
+msgctxt "Choix"
+msgid "Are you okay?"
+msgstr ""
+
+#: abel_table/end_table_intro/0/g-3/43/s/0
+msgctxt "Choix"
+msgid "Bro. Spill."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/4
+msgctxt "Abel"
+msgid "...hm..."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/12/s/0
+msgctxt "Choix"
+msgid "Hi Abel."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/c-0/7
+msgctxt "Abel"
+msgid "Oh, hey there."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/c-0/15
+msgctxt "Abel"
+msgid "Surprised t'see ya here in the hallway."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/c-0/20
+msgctxt "Abel"
+msgid "Oh, the places we could chat, and you came here."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/c-0/28
+msgctxt "Abel"
+msgid "To the... hallway."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/c-0/36
+msgctxt "Abel"
+msgid "There's nothing to do here but wait for someone to pass you by."
+msgstr ""
+
+#: abel_table/landing_table_no_keith/0/c-0/44
+msgctxt "Abel"
+msgid "But hey. You're here now, and I ain't about to take up all your time complainin'."
+msgstr ""
+
+#: abel_table/landing_table_keith/4
+msgctxt "Abel"
+msgid "Hey you!"
+msgstr ""
+
+#: abel_table/landing_table_keith/12/b/1
+msgctxt "Abel"
+msgid "Things've changed since we last talked here."
+msgstr ""
+
+#: abel_table/landing_table_keith/12/b/9
+msgctxt "Abel"
+msgid "The hallway ain't too bad now with ol' keith around."
+msgstr ""
+
+#: abel_table/landing_table_keith/12/b/17
+msgctxt "Abel"
+msgid "Oh, he gives the best advice... he's really seen it all."
+msgstr ""
+
+#: abel_table/landing_table_keith/12/b/25
+msgctxt "Abel"
+msgid "I'm real fond of a lotta the objects in this house, but Keith? Ooh, he's got my full respect."
+msgstr ""
+
+#: abel_table/landing_table_keith/12/b/33
+msgctxt "Abel"
+msgid "Ain't never met a key like him."
+msgstr ""
+
+#: abel_table/landing_table_keith/12/b/41
+msgctxt "Abel"
+msgid "But enough about him."
+msgstr ""
+
+#: abel_table/landing_table_keith/15
+msgctxt "Abel"
+msgid "What's goin' on?"
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/4
+msgctxt "Abel"
+msgid "Hey there! I'd say fancy seein' you here... but you're here all the time, ain'tcha?"
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/12
+msgctxt "Abel"
+msgid "Lots to do in the kitchen, after all... lots to eat n' drink. But I gotta tell ya..."
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/20
+msgctxt "Abel"
+msgid "Kitchen table's real unique among all the other tables in this house."
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/28
+msgctxt "Abel"
+msgid "You know this'n's the only one with three legs?"
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/36
+msgctxt "Abel"
+msgid "And it's the most stable of all. Really tells you something, don't it?"
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/44
+msgctxt "Abel"
+msgid "A beautiful lesson in independence... and relyin' only on yerself."
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/52
+msgctxt "Abel"
+msgid "Ah heck, look at me! Goin' on and on about table legs!"
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/60/s/0
+msgctxt "Choix"
+msgid "I love it when you talk about tables."
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/61/s/0
+msgctxt "Choix"
+msgid "It's okay. You can be weird sometimes."
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/c-0/7
+msgctxt "Abel"
+msgid "Gosh, thanks."
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/c-1/7
+msgctxt "Abel"
+msgid "<i>cough</i>"
+msgstr ""
+
+#: abel_table/kitchen_table_intro/0/g-0/0
+msgctxt "Abel"
+msgid "I'm sure you wanted somethin', so tell me..."
+msgstr ""
+
+#: abel_table/foyer_table_intro/4
+msgctxt "Abel"
+msgid "Well well well, look who it is."
+msgstr ""
+
+#: abel_table/foyer_table_intro/12
+msgctxt "Abel"
+msgid "Y'know it's funny, bein' here in the foyer... I got the best seat in the house to keep an eye on everybody's comings and goings."
+msgstr ""
+
+#: abel_table/foyer_table_intro/20
+msgctxt "Abel"
+msgid "But you ain't left the house in so dang long... seems like I only see ya here when it's time to pick up a package."
+msgstr ""
+
+#: abel_table/foyer_table_intro/28
+msgctxt "Abel"
+msgid "Not that I'm judgin', mind—just ain't exactly livin' up to the full potential of the position here, am I?"
+msgstr ""
+
+#: abel_table/foyer_table_intro/36
+msgctxt "Abel"
+msgid "But hey, I do my job no matter the circumstances. So don't you worry about me!"
+msgstr ""
+
+#: abel_table/foyer_table_intro/44
+msgctxt "Abel"
+msgid "Now then... I'm sure you got somethin' on your mind."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/4
+msgctxt "Abel"
+msgid "Hey there, partner! Nice of you to drop by this place."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/12
+msgctxt "Abel"
+msgid "It's real easy to overlook a coffee table, y'know..."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/20
+msgctxt "Abel"
+msgid "Coffee table's got to play host to all kinds 'a beverages and snacks while the main event's goin' on... ain't nobody interested in ya as long as you're gettin' the job done."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/28
+msgctxt "Abel"
+msgid "And speakin' of the main event..."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/36
+msgctxt "Abel"
+msgid "I'm more of a radio guy myself but I been real into this show lately... Real Houseknives of Dallas."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/44
+msgctxt "Abel"
+msgid "Oh, you wouldn't believe what those utensils argue about. Charity events and who ended up in who's drawer. Hoo-wee! Ridiculous."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/52
+msgctxt "Abel"
+msgid "Talk about sharp tongues! Heh heh. Woo!"
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/60/s/0
+msgctxt "Choix"
+msgid "You don't strike me as a Real Houseknives kinda guy, Abel."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/c-0/7
+msgctxt "Abel"
+msgid "That's what Koa says. Try as I might, I can't seem to get him to see the appeal of the wives."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Koa?"
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Koa's fun in his own way, though."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "You know, that lovely comfy couch. Nice feller."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/c-0/15/c-1/7
+msgctxt "Abel"
+msgid "Right you are. Though sometimes I feel he's shut tighter than a clam, and that's coming from me."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-0/0
+msgctxt "Abel"
+msgid "At least Kopi's into 'em."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Kopi?"
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "I wouldn't have thought Kopi liked reality tv."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-0/c-1/7
+msgctxt "Abel"
+msgid "Coffeemaker! Makes a mean cuppa joe."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-0/c-1/18
+msgctxt "Abel"
+msgid "Fancy ones too. But that ain't for me."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-0/c-2/7
+msgctxt "Abel"
+msgid "I wouldn'ta guessed myself, but ya see what happens when ya judge a book by its cover!"
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-0/c-2/15
+msgctxt "Abel"
+msgid "Anyway, she's real big on Houseknives."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-1/0
+msgctxt "Abel"
+msgid "She didn't used to be... But she'd be comin' and goin' makin' drinks."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-1/8
+msgctxt "Abel"
+msgid "Askin' me about why this one don't like the other one..."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-1/16
+msgctxt "Abel"
+msgid "Next thing you know, she's joining me on the couch and having her own opinions. Heh heh heh."
+msgstr ""
+
+#: abel_table/coffee_table_intro/0/g-1/24
+msgctxt "Abel"
+msgid "But you ain't come here to talk to me about Houseknives, didja. So tell me..."
+msgstr ""
+
+#: abel_table/record_table_intro/4
+msgctxt "Abel"
+msgid "Real decent of you to come see me here, with a beauty like Rainey around."
+msgstr ""
+
+#: abel_table/record_table_intro/12
+msgctxt "Abel"
+msgid "Well hell, I wouldn't blame ya for not even knowin' I was here!"
+msgstr ""
+
+#: abel_table/record_table_intro/20
+msgctxt "Abel"
+msgid "I don't mind, though. Supportin' Rainey while she makes her beautiful music is a real pleasure."
+msgstr ""
+
+#: abel_table/record_table_intro/28
+msgctxt "Abel"
+msgid "The nicest record player too—always thankin' me for holdin' her up and lettin' her do her thing."
+msgstr ""
+
+#: abel_table/record_table_intro/36
+msgctxt "Abel"
+msgid "Ah, nice to see a star like her be so humble."
+msgstr ""
+
+#: abel_table/record_table_intro/44
+msgctxt "Abel"
+msgid "But you don't look like you're here for a song today, are ya?"
+msgstr ""
+
+#: abel_table/record_table_intro/52
+msgctxt "Abel"
+msgid "Heh, what can I do ya for?"
+msgstr ""
+
+#: abel_table/dining_jobs_done/0
+msgctxt "Narrator"
+msgid "Abel does a funny little dance, sticking his leg out and shaking it at you."
+msgstr ""
+
+#: abel_table/dining_jobs_done/8
+msgctxt "Abel"
+msgid "Hahahah! Look at that! My leg's still doin' great thanks to you."
+msgstr ""
+
+#: abel_table/dining_jobs_done/16
+msgctxt "Abel"
+msgid "All's well here, amigo. I'm gonna get back to doin' my job."
+msgstr ""
+
+#: abel_table/kitchen_alls_good/0
+msgctxt "Abel"
+msgid "All's well here in the kitchen!"
+msgstr ""
+
+#: abel_table/kitchen_alls_good/8
+msgctxt "Abel"
+msgid "Well, mostly. I... I <i>am</i> feelin' a mite peckish. Might get a bite to eat."
+msgstr ""
+
+#: abel_table/kitchen_alls_good/16
+msgctxt "Abel"
+msgid "But everything's great otherwise."
+msgstr ""
+
+#: abel_table/foyer_alls_good/0
+msgctxt "Abel"
+msgid "All's well here in the foyer, amigo!"
+msgstr ""
+
+#: abel_table/foyer_alls_good/8
+msgctxt "Abel"
+msgid "Would be nice if more folks came over... I'd love to see more of 'em comin' through here."
+msgstr ""
+
+#: abel_table/foyer_alls_good/16
+msgctxt "Abel"
+msgid "Oh, but don't you worry about that. Just keep doing what you're doing."
+msgstr ""
+
+#: abel_table/landing_jobs_done/0
+msgctxt "Abel"
+msgid "All's well up here in the landing!"
+msgstr ""
+
+#: abel_table/landing_jobs_done/8
+msgctxt "Abel"
+msgid "Always a pleasure to see ya comin' up to get some rest."
+msgstr ""
+
+#: abel_table/landing_jobs_done/16
+msgctxt "Abel"
+msgid "Not that I'm watchin you sleep or nothin, I'm just a fan of rest. Heh heh."
+msgstr ""
+
+#: abel_table/coffee_alls_good/0
+msgctxt "Abel"
+msgid "All's well here in the living room!"
+msgstr ""
+
+#: abel_table/coffee_alls_good/8/b/1
+msgctxt "Abel"
+msgid "Been workin' real hard today... think I might take five and go get some coffee with Koa."
+msgstr ""
+
+#: abel_table/end_alls_good/4 abel_table/end_alls_good_2/0
+msgctxt "Abel"
+msgid "All's well here at the end table."
+msgstr ""
+
+#: abel_table/end_alls_good/15
+msgctxt "Ben-hwa"
+msgid "Don't listen to him. He's only just calmed down."
+msgstr ""
+
+#: abel_table/end_alls_good/26
+msgctxt "Abel"
+msgid "Now don't you start..."
+msgstr ""
+
+#: abel_table/end_alls_good/34
+msgctxt "Ben-hwa"
+msgid "He was laying into me about keeping a lid on my lubes... and I told him if he was so interested in what I do with my lube-"
+msgstr ""
+
+#: abel_table/end_alls_good/42
+msgctxt "Abel"
+msgid "ALL'S WELL HERE AT THE END TABLE! NOTHIN' TO SEE HERE, FRIEND!"
+msgstr ""
+
+#: abel_table/end_alls_good/56
+msgctxt "Ben-hwa"
+msgid "You can tell all is well by how loud he's screaming it."
+msgstr ""
+
+#: abel_table/end_alls_good/64
+msgctxt "Abel"
+msgid "TAKE CARE NOW!"
+msgstr ""
+
+#: abel_table/end_alls_good_2/8
+msgctxt "Abel"
+msgid "Don't work too hard now, ya hear? I better see ya turnin' in soon."
+msgstr ""
+
+#: abel_table/end_alls_good_2/16
+msgctxt "Abel"
+msgid "You gotta take care of yourself."
+msgstr ""
+
+#: abel_table/console_alls_good/0/0
+msgctxt "Abel"
+msgid "All's well here at the console table!"
+msgstr ""
+
+#: abel_table/console_alls_good/0/8
+msgctxt "Abel"
+msgid "Well, mostly. I wanna watch YellowSewn.. but nobody else does."
+msgstr ""
+
+#: abel_table/console_alls_good/0/16
+msgctxt "Abel"
+msgid "How'm I supposed to relax when I could be watchin' the greatest TV show ever made?"
+msgstr ""
+
+#: abel_table/console_alls_good/0/24/s/0
+msgctxt "Choix"
+msgid "Is it really the greatest?"
+msgstr ""
+
+#: abel_table/console_alls_good/0/25/s/0
+msgctxt "Choix"
+msgid "That show doesn't seem up my alley..."
+msgstr ""
+
+#: abel_table/console_alls_good/0/c-0/7
+msgctxt "Abel"
+msgid "Listen t'this... a hard-workin' pair of jeans has to balance life in the dresser, sharin' a border with other pants and USB cables."
+msgstr ""
+
+#: abel_table/console_alls_good/0/c-0/15
+msgctxt "Abel"
+msgid "It's a clash of civilizations! Old n' new! Must-see TV!"
+msgstr ""
+
+#: abel_table/console_alls_good/0/c-0/23
+msgctxt "Narrator"
+msgid "When you seem less than enthused, Abel's cheeks flush."
+msgstr ""
+
+#: abel_table/console_alls_good/0/g-0/0
+msgctxt "Abel"
+msgid "Anyway, yeah. Fine here. Just... waitin' for my turn on the TV."
+msgstr ""
+
+#: abel_table/record_alls_good/0/0
+msgctxt "Abel"
+msgid "All's well here, amigo."
+msgstr ""
+
+#: abel_table/record_alls_good/0/8
+msgctxt "Abel"
+msgid "Though it'd be nice if I could get Rainey to play me a little country music... in the mood for a good tune."
+msgstr ""
+
+#: abel_table/record_alls_good/0/16/s/0
+msgctxt "Choix"
+msgid "Okay - just checkin' on ya."
+msgstr ""
+
+#: abel_table/record_alls_good/0/c-0/7
+msgctxt "Abel"
+msgid "Nothin' to complain about here otherwise."
+msgstr ""
+
+#: abel_table/abel_intro/0/0
+msgctxt "Narrator"
+msgid "The first word that comes to mind when you see the large cowboy standing before you is 'solid'—this guy is big, and he looks built to last."
+msgstr ""
+
+#: abel_table/abel_intro/0/8
+msgctxt "Narrator"
+msgid "You might be intimidated were it not for the kind expression on his face and the sweet way he doffs his hat at you."
+msgstr ""
+
+#: abel_table/abel_intro/0/16
+msgctxt "Narrator"
+msgid "No one's ever asked you this, but if you HAD been asked to imagine what your table might look like as a human you think this would be pretty close."
+msgstr ""
+
+#: abel_table/abel_intro/0/21
+msgctxt "Abel"
+msgid "We've known each other for a real long time now, but we ain't never been properly introduced."
+msgstr ""
+
+#: abel_table/abel_intro/0/29
+msgctxt "Abel"
+msgid "So first things first—name's Abel, and I'm yer table."
+msgstr ""
+
+#: abel_table/abel_intro/0/37/b/1
+msgctxt "Abel"
+msgid "And second. That is one fantastic red shirt you've got on."
+msgstr ""
+
+#: abel_table/abel_intro/0/51/s/0
+msgctxt "Choix"
+msgid "Nice to meet you."
+msgstr ""
+
+#: abel_table/abel_intro/0/52/s/0
+msgctxt "Choix"
+msgid "I'm"
+msgstr ""
+
+#: abel_table/abel_intro/0/52/s/5
+msgctxt "Choix"
+msgid "and I'm your human?"
+msgstr ""
+
+#: abel_table/abel_intro/0/53/s/0
+msgctxt "Choix"
+msgid "Okay..."
+msgstr ""
+
+#: abel_table/abel_intro/0/c-0/7
+msgctxt "Abel"
+msgid "Pleasure's all mine!"
+msgstr ""
+
+#: abel_table/abel_intro/0/c-1/7
+msgctxt "Abel"
+msgid "I know it! But it sure is nice to hear it from ya face to face like this."
+msgstr ""
+
+#: abel_table/abel_intro/0/c-2/7
+msgctxt "Abel"
+msgid "Nice to meet you too."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/0
+msgctxt "Abel"
+msgid "Ya know, as a table it's my job to hold things up all over the house."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/8
+msgctxt "Abel"
+msgid "And I take my job real serious."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/16
+msgctxt "Abel"
+msgid "So if you're here talkin' to me now... you must need somethin' more than just my support."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/24
+msgctxt "Abel"
+msgid "And if there's one thing Abel's gonna do, it's make sure everyone in this house has what they need."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/32
+msgctxt "Abel"
+msgid "So what can I do ya for? There's gotta be somethin'."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "I'm just getting to know everyone around the house."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/41/s/0
+msgctxt "Choix"
+msgid "Do you have any dating advice?"
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/42/s/0
+msgctxt "Choix"
+msgid "You're assuming I'm here for you and not just... walking around my house."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/c-3/7
+msgctxt "Abel"
+msgid "Oh yeah? Skylar told me you was gettin' to know everybody real good."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/c-3/15
+msgctxt "Abel"
+msgid "Maybe lookin' to gettin' back into datin' and all that."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/c-4/7
+msgctxt "Abel"
+msgid "Heck! You're askin' me that?"
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/c-5/7
+msgctxt "Abel"
+msgid "Aww c'mon now, no need to be shy about it."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-0/c-5/15
+msgctxt "Abel"
+msgid "Skylar told me you're gettin' back into datin' around the house here."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/0
+msgctxt "Abel"
+msgid "Datin', huh... hoo-whee."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/8
+msgctxt "Abel"
+msgid "Datin' ain't really my area of expertise, you know... me personally I never was one for casual stuff."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/16
+msgctxt "Abel"
+msgid "If you're lookin' for someone who knows people, you might wanna talk to Kopi."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/24/b/1
+msgctxt "Abel"
+msgid "She's good with that sorta thing."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/27/b/1
+msgctxt "Abel"
+msgid "You'll find her nearby."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/30/s/0
+msgctxt "Choix"
+msgid "What do you mean by 'casual stuff'?"
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/31/s/0
+msgctxt "Choix"
+msgid "You the old-fashioned type?"
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/32/s/0
+msgctxt "Choix"
+msgid "Don't pawn me off onto somebody else!"
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/c-6/7
+msgctxt "Abel"
+msgid "Ah, heck, I dunno..."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/c-7/7
+msgctxt "Abel"
+msgid "Heh, I guess you could say so."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/c-8/7
+msgctxt "Abel"
+msgid "I ain't! That ain't what I'm about."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-1/c-8/15
+msgctxt "Abel"
+msgid "It's just the new-fangled datin' ain't really somethin' I'm..."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/0
+msgctxt "Abel"
+msgid "All that talkin' and whatnot. Heh."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/8
+msgctxt "Abel"
+msgid "Tryin' to fit each others' history into bite-sized portions..."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/16
+msgctxt "Abel"
+msgid "Aw, it just ain't my speed."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/24/s/0
+msgctxt "Choix"
+msgid "Me neither."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "I mean hey... that's why I'm here."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/26/s/0
+msgctxt "Choix"
+msgid "You should catch up to the times!"
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/c-9/7
+msgctxt "Abel"
+msgid "Well I'm just glad I ain't the only one who feels a little left behind by the whole thing."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/c-9/15
+msgctxt "Abel"
+msgid "But don't you worry."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/c-10/7
+msgctxt "Abel"
+msgid "Then you really gotta talk to somebody who knows what's what with datin' these days."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/c-11/7
+msgctxt "Abel"
+msgid "I'm fine where I am! We're talkin' about you now."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-2/c-11/15
+msgctxt "Abel"
+msgid "But you'll make it there."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-3/0
+msgctxt "Abel"
+msgid "Kopi'll get you on the right path."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-3/8
+msgctxt "Abel"
+msgid "Oh, and uh, tell her I said hey when you see her."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-3/22/s/0
+msgctxt "Choix"
+msgid "Will do!"
+msgstr ""
+
+#: abel_table/abel_intro/0/g-3/23/s/0
+msgctxt "Choix"
+msgid "Thanks, Abel."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-3/24/s/0
+msgctxt "Choix"
+msgid "We'll see..."
+msgstr ""
+
+#: abel_table/abel_intro/0/g-4/0 abel_table/help_abel_towel/0/g-2/13 abel_table/fantina_abel_sad/0/g-0/28 abel_table/fantina_abel_meh/0/g-0/37
+msgctxt "Abel"
+msgid "You take care now."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/4
+msgctxt "Narrator"
+msgid "Abel was friendly the last time you saw him, but he seems downright cheerful today."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/12
+msgctxt "Narrator"
+msgid "He's whistling when you walk up on him, though he stops when he sees you, greeting you with a broad grin."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/20/s/0
+msgctxt "Choix"
+msgid "Hey Abel. How you doin' today?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/7
+msgctxt "Abel"
+msgid "Oh, hey yourself, sunshine."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "You seem peppy today."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Sunshine?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/2/s/0
+msgctxt "Choix"
+msgid "Sunshine? Who even are you?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Ah, well... you know... sometimes a table just wants to feel heard."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/c-1/7
+msgctxt "Abel"
+msgid "Didn't mean no offense. Just in a real swell mood today."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/c-2/7
+msgctxt "Abel"
+msgid "What? What's the matter with sunshine?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/c-2/15
+msgctxt "Abel"
+msgid "Is this world so cynical a table can't even greet his pals with a smile on his face and a song in his heart?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/c-0/15/c-2/23
+msgctxt "Abel"
+msgid "I ain't mean no offense, I was just in a swell mood."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/0
+msgctxt "Abel"
+msgid "Had a long talk with Dasha before ya got here."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/11/b/1
+msgctxt "Abel"
+msgid "Dasha... the desk, y'know? Real close to tables... but also real different world."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/14
+msgctxt "Abel"
+msgid "Goin' over the finer points of liftin', supportin'... and you know, just the good ol' basics."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/22
+msgctxt "Abel"
+msgid "Just feels nice to be understood, ya know?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/30/s/0
+msgctxt "Choix"
+msgid "I wish I knew what that was like."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/31/s/0
+msgctxt "Choix"
+msgid "It's so nice that she gets you."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/32/s/0
+msgctxt "Choix"
+msgid "For someone who said they are supportive, you sure are talking a lot about yourself."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/13
+msgctxt "Abel"
+msgid "You feel misunderstood? Tell me about it."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/21
+msgctxt "Abel"
+msgid "You know ol' Abel's got ya."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/0/s/0
+msgctxt "Choix"
+msgid "I just feel so lonely, you know?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/7
+msgctxt "Abel"
+msgid "Go on."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "I have things to talk to, sure, but no one really understands me on that deeper level."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "I know just what ya mean. It's hard to feel like yer swimmin' against the tide... like a salmon tryin' to swim up a garden hose."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Oh wow. That's... I mean, I guess, sure, yeah. That's how it feels."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Say no more, pal. I've been there more times'n I can count."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "Anytime you feel like you gotta unburden yourself you come 'n find me."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/23
+msgctxt "Abel"
+msgid "Liftin' your burdens's what I was made for, y'know?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/31
+msgctxt "Abel"
+msgid "Come 'n lay yer troubles on my shoulders."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "I'll remember that. Thanks, Abel."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/7
+msgctxt "Abel"
+msgid "Just remember ain't none of us ever really alone."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/15
+msgctxt "Abel"
+msgid "Even a cowboy's got the dirt at his feet'n the stars in the sky to keep him company."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/23
+msgctxt "Abel"
+msgid "You just gotta make sure you know it too."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "You really do have a little saying for everything, don't you?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/c-0/7
+msgctxt "Abel"
+msgid "Darn tootin'."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Well I guess I better mosey for now. Can't afford to stand around here cluckin' like two hens in a coop."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/c-0/15/1/s/0 abel_table/fantina_help_alone/0/g-0/16/s/0
+msgctxt "Choix"
+msgid "See ya, Abel."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Whoah."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Oh my god, that just came out of me. It's infectious."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/c-0/15/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Ha! Ya see? Later days, partner."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-1/29/c-0/15/c-0/15/c-0/39/c-0/31/c-0/15/c-1/7
+msgctxt "Abel"
+msgid "Stay steady!"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/13
+msgctxt "Abel"
+msgid "...it is, ain't it? Liftin's no easy job."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/21
+msgctxt "Abel"
+msgid "We got a lotta folks in this house who do a damn fine job at what it is they do."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/29
+msgctxt "Abel"
+msgid "But how many people's job is it to lift?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/37
+msgctxt "Abel"
+msgid "To make sure everyone's got what they need, to make sure they know they can rely on ya day in and day out."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/45
+msgctxt "Abel"
+msgid "It's a lonely lot in the life of a table, but I knew what the job was when I signed up."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/0/s/0
+msgctxt "Choix"
+msgid "Did you sign up for it? I feel like it was assigned to you."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/7
+msgctxt "Abel"
+msgid "Semantics, pal. Semantics. I know who I am and what I do."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/15
+msgctxt "Abel"
+msgid "But sometimes ya just wish someone knew exactly what in tarnation yer even thinkin' about without havin' to explain yerself."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/23
+msgctxt "Abel"
+msgid "Huh, that's Dasha."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/0/s/0
+msgctxt "Choix"
+msgid "I see... maybe you should talk to her more often."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/7
+msgctxt "Abel"
+msgid "Ya think so?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "She's had a real positive effect on you."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Ah, well... shucks! I don't know, I'd hate to bother her."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "She's got a lotta liftin' to do herself."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/23
+msgctxt "Abel"
+msgid "I can't be distractin' her from her very important job, now."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I think you should at least consider it."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/31/c-0/7
+msgctxt "Abel"
+msgid "I'll... consider it, yeah."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/31/c-0/15
+msgctxt "Abel"
+msgid "Anyway, I can't take up too much more of yer time today talkin' about myself."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/31/c-0/23
+msgctxt "Abel"
+msgid "Just remember what I said before, kay'—I'm here if ya need me."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/31/c-0/31/0/s/0
+msgctxt "Choix"
+msgid "I will. You remember what I said too, please."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-2/53/c-0/35/c-0/15/c-0/31/c-0/31/c-0/7
+msgctxt "Abel"
+msgid "I will. You take care now."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/13
+msgctxt "Abel"
+msgid "Am I? Oh, my apologies, friend."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/21
+msgctxt "Abel"
+msgid "I lost focus. Here you are, needin' my support, and I'm yammerin' on about myself."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/29
+msgctxt "Abel"
+msgid "Tell me what I can do to help."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/0/s/0
+msgctxt "Choix"
+msgid "I don't always need help, Abel. Sometimes I just want to talk."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/1/s/0
+msgctxt "Choix"
+msgid "I'm just here to make sure you're doing your job right."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/2/s/0
+msgctxt "Choix"
+msgid "Relax, I'm kidding."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/7
+msgctxt "Abel"
+msgid "Well, that's a help in itself, ain't it?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/15
+msgctxt "Abel"
+msgid "I'm happy to listen to yer troubles anytime ya need me."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/23
+msgctxt "Abel"
+msgid "...well, most anytime, anyway."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/31
+msgctxt "Abel"
+msgid "You caught me at an awkward time... gotta make rounds and check on some folks."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/39
+msgctxt "Abel"
+msgid "Lotta things need lifting around here. Maybe I'll catch ya later?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/47
+msgctxt "Abel"
+msgid "We can talk then."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/52/0/s/0
+msgctxt "Choix"
+msgid "Sure... alright."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-0/52/c-0/7
+msgctxt "Abel"
+msgid "Great. You take care now, and I'll see ya next time."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/7
+msgctxt "Abel"
+msgid "Here to make sure I'm doin' my job right?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/15
+msgctxt "Abel"
+msgid "Oh, you always trusted me to handle things till now. What's going on here?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/23/0/s/0
+msgctxt "Choix"
+msgid "Your leg's been a little wobbly lately. Just making sure everything's shipshape."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/23/c-0/7
+msgctxt "Abel"
+msgid "W-w-w... <w>WOBBLY?</w>"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/23/c-0/18
+msgctxt "Abel"
+msgid "Them's fightin' words, partner. You do me a favor and take a hike."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/23/c-0/26
+msgctxt "Abel"
+msgid "Cause if you keep pushin' me like this I'm liable to say somethin' downright unkind!"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/23/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Is that really-"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/23/c-0/34/c-0/7 abel_table/tony_arrive/0/g-3/8
+msgctxt "Abel"
+msgid "Go on! Git!"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-1/23/c-0/34/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Alright... I'm going. Yeesh."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-2/13
+msgctxt "Abel"
+msgid "Are ya, tho? Y'know, it strikes me that a joke ya gotta explain ain't really all that funny now, is it?"
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-2/21
+msgctxt "Abel"
+msgid "If yer only here for jokes, I'm afraid I'm gonna have to just catch up with ya later. Lots of work to do and all."
+msgstr ""
+
+#: abel_table/abel_second_chat/0/g-0/c-3/37/c-2/29
+msgctxt "Abel"
+msgid "Happy Trails to you."
+msgstr ""
+
+#: abel_table/dining_wobble/0/4
+msgctxt "Narrator"
+msgid "Abel is normally so even-keeled and sweet when you see him—the alarmed look on his face really takes you by surprise."
+msgstr ""
+
+#: abel_table/dining_wobble/0/12/s/0
+msgctxt "Choix"
+msgid "You alright?"
+msgstr ""
+
+#: abel_table/dining_wobble/0/13/s/0
+msgctxt "Choix"
+msgid "Hey there, Abel."
+msgstr ""
+
+#: abel_table/dining_wobble/0/14/s/0
+msgctxt "Choix"
+msgid "What the hell happened to you?"
+msgstr ""
+
+#: abel_table/dining_wobble/0/c-2/7
+msgctxt "Abel"
+msgid "Oh, dang it all. Was really hoping you wouldn't see me like this."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/3
+msgctxt "Beverly"
+msgid "Oh you shoulda seen him last night, he was <w>HAMMERED</w>."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/14 abel_table/end_spill/0/c-0/15/c-0/24
+msgctxt "Abel"
+msgid "I beg yer PARDON?!"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/22
+msgctxt "Beverly"
+msgid "Hahaha, sorry, no, kidding. That was the rest of us."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/30
+msgctxt "Beverly"
+msgid "Abel was just here making sure everyone else was good as per usual."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/38
+msgctxt "Beverly"
+msgid "Unfortunately we kinda left a mess here last night, and I swear I was just coming to help him clean it up."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/46
+msgctxt "Beverly"
+msgid "But I kinda grabbed for this cup a little too fast..."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/54
+msgctxt "Beverly"
+msgid "And I fell a little... hard... onto him..."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/62
+msgctxt "Abel"
+msgid "Next thing you know I'm a'wobblin' like a newborn fawn!"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/70
+msgctxt "Beverly"
+msgid "I got most of the beer off of him, but his leg is just... like that now."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/78/0/s/0
+msgctxt "Choix"
+msgid "Explains why it smells like a brewery in here."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/78/1/s/0
+msgctxt "Choix"
+msgid "I'm not sure how I feel about you guys having parties without me."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/78/2/s/0
+msgctxt "Choix"
+msgid "You weren't drinking with them, Abel?"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/78/c-3/7
+msgctxt "Abel"
+msgid "It ain't on my account, that's for dang sure."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/78/c-4/7
+msgctxt "Beverly"
+msgid "Hey, we've got lives too!"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/78/c-4/18
+msgctxt "Abel"
+msgid "I ain't the partyin' type no more. I just came to make sure everyone else was alright."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-0/78/c-5/7
+msgctxt "Abel"
+msgid "Me? Naw."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/0
+msgctxt "Abel"
+msgid "I ain't touched a drop o' drink in years..."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/8
+msgctxt "Beverly"
+msgid "And you still managed to get hosed anyway, haha."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/16
+msgctxt "Abel"
+msgid "Ain't got a problem or nothin'. Just never liked the way it made me feel."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/24
+msgctxt "Abel"
+msgid "When a table ain't got his mind right he can't mind others, ya know what I mean?"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/32
+msgctxt "Beverly"
+msgid "Oh boy, don't get him started on all that."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/40
+msgctxt "Beverly"
+msgid "Every group needs a party dad, and that's Abel to a tee."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/48
+msgctxt "Beverly"
+msgid "You're just in time honestly, I could really use your help getting him fixed up."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/56
+msgctxt "Abel"
+msgid "I don't need your help!"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/64
+msgctxt "Beverly"
+msgid "Don't blow a gasket, Abel! Or whatever you cowboy types say."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/72
+msgctxt "Beverly"
+msgid "'Don't oversteer yer steed, lady!' I don't know..."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/80
+msgctxt "Abel"
+msgid "Beverly!"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/91
+msgctxt "Beverly"
+msgid "Alright, alright. I'll just go get Tony."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/102
+msgctxt "Abel"
+msgid "Oh for the love of-! Not him!"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/0
+msgctxt "Narrator"
+msgid "Abel sighs, looking deeply frustrated. He leans against the floor with one hand, steadying himself."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/8/s/0
+msgctxt "Choix"
+msgid "You gonna be alright?"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/9/s/0
+msgctxt "Choix"
+msgid "I hope you know how funny all this is."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/10/s/0
+msgctxt "Choix"
+msgid "Here, let me help you."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/c-6/13
+msgctxt "Abel"
+msgid "I'll be fine. Don't you worry about me."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/c-6/21/b/1
+msgctxt "Abel"
+msgid "Tony ain't much of a carpenter, but he can tighten a few screws."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/c-6/24/b/1
+msgctxt "Abel"
+msgid "I'd be better if Tony weren't gonna be the one t'fix me... but I guess I shouldn't talk bad about him before y'all have even met."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/c-7/13
+msgctxt "Narrator"
+msgid "Abel's expression darkens."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/c-7/21
+msgctxt "Abel"
+msgid "Ain't funny to me... but glad you can be happy about this."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/c-8/13 abel_table/end_spill/0/g-3/c-10/13
+msgctxt "Abel"
+msgid "Oh. Well..."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-2/113/c-8/21 abel_table/end_spill/0/g-3/c-10/21
+msgctxt "Abel"
+msgid "I hate to impose, but if you wouldn't mind..."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/0
+msgctxt "Narrator"
+msgid "Abel looks away from you, visibly uncomfortable at being caught this vulnerable."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/8
+msgctxt "Narrator"
+msgid "The silence that stretches between you is awkward and overwhelming."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/13/s/0
+msgctxt "Choix"
+msgid "You sure you don't need any help, Abel?"
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/14/s/0
+msgctxt "Choix"
+msgid "I'm sorry this is happening."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/15/s/0
+msgctxt "Choix"
+msgid "Try not to fall down."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/c-9/13
+msgctxt "Abel"
+msgid "I'll be right as rain soon enough."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/c-9/21
+msgctxt "Abel"
+msgid "Hey, don't worry about me."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-4/c-11/13
+msgctxt "Abel"
+msgid "Thanks. Real decent of ya."
+msgstr ""
+
+#: abel_table/dining_wobble/0/g-5/0
+msgctxt "Abel"
+msgid "Just... don't look at me when I'm like this."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/0/s/0
+msgctxt "Choix"
+msgid "Come here."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/1/s/0
+msgctxt "Choix"
+msgid "Sure, just hold onto me."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/2/s/0
+msgctxt "Choix"
+msgid "I'd love to help."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-0/0
+msgctxt "Narrator"
+msgid "You take Abel's hand, steadying him and draping his arm around your shoulder."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-0/8
+msgctxt "Abel"
+msgid "Oh... dang. Wasn't expectin' you to get so close."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-0/16
+msgctxt "Abel"
+msgid "Been a real long time since I was this close to someone else."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-0/21/s/0
+msgctxt "Choix"
+msgid "Am I making you uncomfortable?"
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-0/22/s/0
+msgctxt "Choix"
+msgid "I hope you don't mind my helping you..."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-0/23/s/0
+msgctxt "Choix"
+msgid "Are you embarrassed?"
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-1/0
+msgctxt "Abel"
+msgid "Oh no, no. Not at all. It's... it's nice."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-1/8
+msgctxt "Abel"
+msgid "I got so used to just doin' things on my own, you know."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-1/16
+msgctxt "Abel"
+msgid "A feller can do with some reminders of how good it can be to rely on others every now and again."
+msgstr ""
+
+#: abel_table/hold_abel_wobble/0/g-1/24
+msgctxt "Abel"
+msgid "You're a real decent sort. I won't forget this."
+msgstr ""
+
+#: abel_table/tony_arrive/0/0
+msgctxt "Narrator"
+msgid "Tony's arrival leaves no room for further conversation—he struts in twirling a screwdriver in each hand and grinning like a used car salesman."
+msgstr ""
+
+#: abel_table/tony_arrive/0/14
+msgctxt "Tony"
+msgid "Tony to the rescue! Oof, boy, look at you, Abel."
+msgstr ""
+
+#: abel_table/tony_arrive/0/25
+msgctxt "Narrator"
+msgid "Abel turns away from the two of you, humiliated to his very core."
+msgstr ""
+
+#: abel_table/tony_arrive/0/33
+msgctxt "Abel"
+msgid "Why'd it have to be him..."
+msgstr ""
+
+#: abel_table/tony_arrive/0/41
+msgctxt "Tony"
+msgid "Ayy, ayyy, c'mon now guy. Ain't nothin' wrong with bein' rescued by Tony."
+msgstr ""
+
+#: abel_table/tony_arrive/0/49
+msgctxt "Tony"
+msgid "I can't tell ya how many times I get summoned all over this house to fix our friends up."
+msgstr ""
+
+#: abel_table/tony_arrive/0/57
+msgctxt "Tony"
+msgid "'Fix me, Tony! Please!'"
+msgstr ""
+
+#: abel_table/tony_arrive/0/65
+msgctxt "Tony"
+msgid "And I come through every time."
+msgstr ""
+
+#: abel_table/tony_arrive/0/73
+msgctxt "Abel"
+msgid "YOU BREAK MORE'N YOU FIX!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/84
+msgctxt "Tony"
+msgid "Tsk tsk tsk... you keep talkin' shit like that and I won't fix your leg."
+msgstr ""
+
+#: abel_table/tony_arrive/0/92
+msgctxt "Tony"
+msgid "You wanna do your job wobblin' all the live long day? That what you want?"
+msgstr ""
+
+#: abel_table/tony_arrive/0/100
+msgctxt "Abel"
+msgid "What I want... <i>mumbled grumblings</i>."
+msgstr ""
+
+#: abel_table/tony_arrive/0/108
+msgctxt "Tony"
+msgid "Huh?"
+msgstr ""
+
+#: abel_table/tony_arrive/0/116
+msgctxt "Abel"
+msgid "...no."
+msgstr ""
+
+#: abel_table/tony_arrive/0/124
+msgctxt "Tony"
+msgid "Just say the words: 'fix me, Tony!'"
+msgstr ""
+
+#: abel_table/tony_arrive/0/132
+msgctxt "Tony"
+msgid "That's all it takes!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/140/s/0
+msgctxt "Choix"
+msgid "<i>'Fix me, Tony!'</i>"
+msgstr ""
+
+#: abel_table/tony_arrive/0/141/s/0
+msgctxt "Choix"
+msgid "Don't be a dick, Tony. Just fix him."
+msgstr ""
+
+#: abel_table/tony_arrive/0/142/s/0
+msgctxt "Choix"
+msgid "C'mon Abel, just say it."
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-0/13
+msgctxt "Narrator"
+msgid "Tony looks disappointed when the magic words come from you and not Abel, but he shrugs."
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-0/24
+msgctxt "Tony"
+msgid "Well... guess that works too. Ain't nearly as fun, though."
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-1/13
+msgctxt "Tony"
+msgid "Hey! I ain't bein' a dick. Just askin' for some basic respect."
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-1/21
+msgctxt "Tony"
+msgid "But whatever... I'm not gonna waste my breath."
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-1/29
+msgctxt "Tony"
+msgid "I'm a professional and I'm gonna do the job."
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-2/29
+msgctxt "Abel"
+msgid "...fix me, Tony."
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-2/40
+msgctxt "Tony"
+msgid "Ayyy! There it is! Wazzat so hard?"
+msgstr ""
+
+#: abel_table/tony_arrive/0/c-2/51
+msgctxt "Tony"
+msgid "Alright, time to get to work."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/0
+msgctxt "Narrator"
+msgid "Tony bends down under the table, getting to work tightening a screw."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/8
+msgctxt "Narrator"
+msgid "Tony whistles as he works, but there's not much to it—he's back up after a few moments, pocketing the screwdriver."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/19
+msgctxt "Tony"
+msgid "Alright, let's see you stand on that leg now."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/27
+msgctxt "Narrator"
+msgid "Abel tests his weight on his leg, sighing with relief when he stands steady."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/35
+msgctxt "Abel"
+msgid "Well, thanks, Tony. Good as new."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/43
+msgctxt "Tony"
+msgid "Well, you're welcome! At least gettin' a thank you out of ya ain't so hard."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/51
+msgctxt "Narrator"
+msgid "Abel's smile grows rigid."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/59
+msgctxt "Abel"
+msgid "Sure ain't. Ooh, bet you must have lots else to fix around the house now."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/67
+msgctxt "Tony"
+msgid "No, not really... I mean uh, yeah. Tons of work to do."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/78
+msgctxt "Tony"
+msgid "Busy busy busy! Off to fix more shit."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/89
+msgctxt "Narrator"
+msgid "Tony struts back out of the room, leaving silence in his wake."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/94
+msgctxt "Narrator"
+msgid "Abel takes his hat off and wipes his brow, quietly calming himself."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/102
+msgctxt "Abel"
+msgid "Tarnation...! That toolbox really gets my goat!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/110/s/0
+msgctxt "Choix"
+msgid "What's so wrong with him?"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/111/s/0
+msgctxt "Choix"
+msgid "But he helped you..."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/112/s/0
+msgctxt "Choix"
+msgid "I think he's hot."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/c-3/7
+msgctxt "Abel"
+msgid "What ain't wrong with him!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/c-4/7
+msgctxt "Abel"
+msgid "THIS time!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/c-5/7
+msgctxt "Abel"
+msgid "That's between you 'n him, not me!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-0/c-5/15
+msgctxt "Abel"
+msgid "If you want someone like that then you enjoy!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/0
+msgctxt "Abel"
+msgid "He walks around this house actin' like he's god's gift for doin' what anyone <i>should</i> do!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/8
+msgctxt "Abel"
+msgid "He makes helpin' people all about hisself and his got dang ego!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/16
+msgctxt "Abel"
+msgid "Makes me so mad I could just spit!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/27/s/0
+msgctxt "Choix"
+msgid "Maybe we should focus on the positive..."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/28/s/0
+msgctxt "Choix"
+msgid "You're better now though, right?"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/29/s/0
+msgctxt "Choix"
+msgid "Don't let him get to you."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/c-6/7
+msgctxt "Abel"
+msgid "...yeah. You're right."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/c-7/7
+msgctxt "Abel"
+msgid "...I am."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/c-8/7
+msgctxt "Abel"
+msgid "...dang!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-1/c-8/15
+msgctxt "Abel"
+msgid "You're right."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/0
+msgctxt "Abel"
+msgid "I ain't gonna waste no more of my time on that blabbermouthed toolbox."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/8
+msgctxt "Abel"
+msgid "Still, thank ya for stickin' with me in a low spot."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/16
+msgctxt "Abel"
+msgid "I ain't glad to be seen like this... but it ain't so bad with you."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/24/s/0 abel_table/fantina_abel_stoked/0/g-0/39/s/0
+msgctxt "Choix"
+msgid "Happy to help."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/25/s/0
+msgctxt "Choix"
+msgid "But I didn't do anything..."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/26/s/0
+msgctxt "Choix"
+msgid "Watching you wobble was hilarious."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/c-9/7
+msgctxt "Abel"
+msgid "You see, that's just the way it ought to be."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/c-10/7
+msgctxt "Abel"
+msgid "And sometimes that's enough!"
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/c-11/13
+msgctxt "Abel"
+msgid "...y'know, I mighta spoke too soon."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/c-11/21
+msgctxt "Abel"
+msgid "I think you oughta go now."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-2/c-11/29
+msgctxt "Abel"
+msgid "Adios."
+msgstr ""
+
+#: abel_table/tony_arrive/0/g-3/0
+msgctxt "Abel"
+msgid "Anyhoo I've wasted enough of yer time today. You go on now."
+msgstr ""
+
+#: abel_table/end_spill/0/4
+msgctxt "Narrator"
+msgid "Abel looks much shinier than you remember. When he sees you walk up he starts, almost looking as if he wants to flee, but there's nowhere for him to go."
+msgstr ""
+
+#: abel_table/end_spill/0/12/s/0
+msgctxt "Choix"
+msgid "Hey there, Abel. Whoah, you're soaked."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/7
+msgctxt "Abel"
+msgid "Consarn it! Why'd you have to come see me now?"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/0/s/0 abel_table/landing_spill/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "What happened to you?"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/13
+msgctxt "Ben-hwa"
+msgid "Oh you should have seen him. He was an absolute ANIMAL last night."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/35
+msgctxt "Ben-hwa"
+msgid "But the fun didn't stop there. You're just in time."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/43
+msgctxt "Ben-hwa"
+msgid "This sexual demon was just about to treat us to an intimate act so ambitious and depraved, it requires him to coat himself in lube from head to toe."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/51
+msgctxt "Abel"
+msgid "TARNATION, BEN-HWA!"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/62
+msgctxt "Ben-hwa"
+msgid "Hahaha, I'm sorry... I was just cleaning up after a date."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/70
+msgctxt "Ben-hwa"
+msgid "But I'm still a little sore. I was trying to screw the cap back on..."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/81
+msgctxt "Abel"
+msgid "Next thing you know, I'm bein' baptized in this vile liquid!"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/89
+msgctxt "Ben-hwa"
+msgid "Hey. There's nothing wrong with a good and safe time, Abel."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/97
+msgctxt "Ben-hwa"
+msgid "Besides, it's water soluble. You just need a good shower."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/0/s/0
+msgctxt "Choix"
+msgid "Why does it smell like bubblegum?"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/7
+msgctxt "Ben-hwa"
+msgid "Well, if bubblegum's not your thing, I've got grape, strawberry, unscented."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/15
+msgctxt "Ben-hwa"
+msgid "This was just an unfortunate and sexy accident."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/23
+msgctxt "Abel"
+msgid "Ain't nothin'... arousin' about it!"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/34
+msgctxt "Ben-hwa"
+msgid "Isn't he adorable when he's all wet and distressed?"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/42
+msgctxt "Abel"
+msgid "I ain't in distress! Now leave me be, y'miserable rascal!"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/53
+msgctxt "Ben-hwa"
+msgid "Aww, but it's so fun seeing you like this."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/64
+msgctxt "Abel"
+msgid "Go on 'n get!"
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/72
+msgctxt "Ben-hwa"
+msgid "Fine... party pooper."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/80
+msgctxt "Ben-hwa"
+msgid "I'm gonna call River... she'll take care of this."
+msgstr ""
+
+#: abel_table/end_spill/0/c-0/15/c-0/105/c-0/91
+msgctxt "Abel"
+msgid "DON'T YOU BRING NOBODY ELSE INTO THIS!"
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/3
+msgctxt "Narrator"
+msgid "Abel exhales, pinching the bridge of his nose between his fingers."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/11
+msgctxt "Abel"
+msgid "Y'know, a little mess is part of the job from time to time."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/19
+msgctxt "Abel"
+msgid "And I get that. But this..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/27
+msgctxt "Abel"
+msgid "Sometimes, a table's principles are tested."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/35
+msgctxt "Abel"
+msgid "But everyone deserves support... and it ain't fer me to judge no one in this house."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/43
+msgctxt "Abel"
+msgid "Not even Ben-Hwa..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/51/s/0
+msgctxt "Choix"
+msgid "You kinda are judging them though..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/53/s/0
+msgctxt "Choix"
+msgid "It can't be easy getting soaked in bubblegum lube."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/c-1/7
+msgctxt "Abel"
+msgid "It ain't my intention! I just..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/c-2/7
+msgctxt "Abel"
+msgid "Ain't nothin' <i>wrong</i> with 'em..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-0/c-3/7
+msgctxt "Abel"
+msgid "It sure ain't."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/3
+msgctxt "Abel"
+msgid "I guess I have a hard time seein' someone flit about free as a bird like that."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/11
+msgctxt "Abel"
+msgid "It ain't somethin' I can relate to."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/19
+msgctxt "Abel"
+msgid "Ain't no worries in that battery-powered head of theirs, no matter how modern 'n casual they keep things."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/27
+msgctxt "Abel"
+msgid "It ain't really somethin' an old-fashioned table like me can understand."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/35
+msgctxt "Abel"
+msgid "Then somethin' like this happens and they just... they ain't bothered about nothin' even when they DID cause trouble for somebody else."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/43
+msgctxt "Abel"
+msgid "It just ain't nothin' I can understand."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/51/s/0
+msgctxt "Choix"
+msgid "Ben-hwa should apologize."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/52/s/0
+msgctxt "Choix"
+msgid "There are probably some things you could learn from Ben-hwa."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/53/s/0
+msgctxt "Choix"
+msgid "They have a lot of nerve, don't they?"
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-4/7
+msgctxt "Abel"
+msgid "I ain't waitin' around for no forced apologies."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-5/7
+msgctxt "Abel"
+msgid "Like what!? How to soak yer friends in unmentionable liquids!?"
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-5/15
+msgctxt "Abel"
+msgid "...ah, I'm sorry. It ain't fair of me to pop off on ya like that."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-5/23
+msgctxt "Abel"
+msgid "It's just, I smell like bubblegum and I'm slippery as a greased pig in an ice rink."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-6/7
+msgctxt "Abel"
+msgid "Oh, they do, yeah..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-6/15
+msgctxt "Abel"
+msgid "But they got a lotta friends too."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-6/23
+msgctxt "Abel"
+msgid "They seem... happy."
+msgstr ""
+
+#: abel_table/end_spill/0/g-1/c-6/28
+msgctxt "Abel"
+msgid "I suppose I could stand to learn somethin' from 'em."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/3
+msgctxt "Narrator"
+msgid "River enters without Ben-hwa—they wisely seem to have realized they'd be better off letting her handle this on her own."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/11
+msgctxt "Narrator"
+msgid "She doesn't even speak to either of you, she just breezes in and out, soaking Abel in water instead of bubblegum lube."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/19
+msgctxt "Abel"
+msgid "Oh, tarnation!"
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/30
+msgctxt "River"
+msgid "You're welcome."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/44
+msgctxt "Narrator"
+msgid "Abel manages to look more miserable than he had before."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/52/s/0
+msgctxt "Choix"
+msgid "Okay but this is an improvement, right?"
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/53/s/0
+msgctxt "Choix"
+msgid "Oh you poor thing..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/54/s/0
+msgctxt "Choix"
+msgid "Well that wasn't very polite..."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/c-7/7
+msgctxt "Abel"
+msgid "I... guess!?"
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/c-8/7
+msgctxt "Abel"
+msgid "No no no, now don't you go pityin' me!"
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/c-8/15
+msgctxt "Abel"
+msgid "That's the only thing that could make this worse."
+msgstr ""
+
+#: abel_table/end_spill/0/g-2/c-9/7
+msgctxt "Abel"
+msgid "IT REALLY WASN'T!"
+msgstr ""
+
+#: abel_table/end_spill/0/g-3/0
+msgctxt "Abel"
+msgid "I ain't covered in that... <i>stuff</i> no more... but I gotta deal with this now."
+msgstr ""
+
+#: abel_table/end_spill/0/g-3/8/s/0
+msgctxt "Choix"
+msgid "Let me help you."
+msgstr ""
+
+#: abel_table/end_spill/0/g-3/9/s/0
+msgctxt "Choix"
+msgid "Do you need a towel?"
+msgstr ""
+
+#: abel_table/end_spill/0/g-3/10/s/0
+msgctxt "Choix"
+msgid "Sounds like a problem."
+msgstr ""
+
+#: abel_table/end_spill/0/g-3/c-11/13
+msgctxt "Abel"
+msgid "Don't you worry yourself about what I need, I can figure this out."
+msgstr ""
+
+#: abel_table/end_spill/0/g-3/c-12/13
+msgctxt "Abel"
+msgid "Yeah, well... I'll fix it one way or another."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/3/b/1
+msgctxt "Narrator"
+msgid "Tyrell strides into the room, all business and looking only at Abel."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/6/b/1
+msgctxt "Narrator"
+msgid "A man with glorious abs and a very, very fluffy wardrobe strides into the room, all business and looking only at Abel."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/9
+msgctxt "Narrator"
+msgid "He's holding a cute towel in the shape of a bunny."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/14
+msgctxt "Tyrell"
+msgid "Heard there was a mess that needs cleaning up... here to do my job."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/22
+msgctxt "Abel"
+msgid "Actually, we got it. No need t'trouble yerself Tyrell."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/30
+msgctxt "Narrator"
+msgid "Tyrell frowns."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/38
+msgctxt "Tyrell"
+msgid "So I can't even clean up messes anymore? Tyrell's not even good enough for a mess, is that it?"
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/46/s/0
+msgctxt "Choix"
+msgid "I'll take it from here, Tyrell."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/47/s/0
+msgctxt "Choix"
+msgid "Just let him help you, Abel."
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/48/s/0
+msgctxt "Choix"
+msgid "That's totally what he's saying. Get lost!"
+msgstr ""
+
+#: abel_table/end_spill/0/g-4/c-13/7
+msgctxt "Narrator"
+msgid "You reach out for the bunny-shaped towel, and Tyrell looks back and forth between the two of you."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/0
+msgctxt "Tyrell"
+msgid "You better be gentle."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/8/s/0
+msgctxt "Choix"
+msgid "Of course."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/9/s/0
+msgctxt "Choix"
+msgid "It's just a towel, weirdo."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/10/s/0
+msgctxt "Choix"
+msgid "What's the big deal?"
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-1/13
+msgctxt "Tyrell"
+msgid "What?!"
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-1/21/b/1
+msgctxt "Tyrell"
+msgid "Who calls their lover a weirdo??"
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-1/22/b/1
+msgctxt "Tyrell"
+msgid "Figures my enemy would say that."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-1/25
+msgctxt "Abel"
+msgid "No, no, they didn't mean that, Tyrell. They'll be gentle."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-1/33
+msgctxt "Tyrell"
+msgid "Oh no no <i>no</i>! it's too late for that now."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-1/41/0/s/0
+msgctxt "Choix"
+msgid "Get lost then."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-2/7
+msgctxt "Tyrell"
+msgid "If you gotta ask that then you're not ready to handle one of my towel buddies."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/c-2/15
+msgctxt "Narrator"
+msgid "Tyrell snatches the towel back from you, stepping up to Abel to do the job himself."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/0
+msgctxt "Narrator"
+msgid "Under Tyrell's watching eye, you gently and carefully mop the water from Abel's body."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/8/b/1
+msgctxt "Tyrell"
+msgid "I knew my lover had that special touch..."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/9/b/1
+msgctxt "Tyrell"
+msgid "I knew my human buddy had that special touch..."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/12
+msgctxt "Narrator"
+msgid "Abel seems intensely embarrassed, but he holds still and endures this cleanup without complaint."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/20
+msgctxt "Narrator"
+msgid "If not for Tyrell's presence here, this moment would feel spectacularly intimate—but as it is, you feel his gaze upon the two of you, motivating you to get through it faster."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/25
+msgctxt "Narrator"
+msgid "When you finish, Tyrell takes the wet towel from you, cradling it in his arms as he walks out the door, speaking soothingly to it in a quiet voice."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/36
+msgctxt "Abel"
+msgid "Well that was somethin'."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/44
+msgctxt "Abel"
+msgid "I thought I was about to smell like bubblegum for the rest of the month."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/49
+msgctxt "Narrator"
+msgid "He shudders."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/57
+msgctxt "Abel"
+msgid "Ain't even gonna think about what else mighta happened if I never got that stuff offa me."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/65/s/0
+msgctxt "Choix"
+msgid "You'd never be able to hold anything again."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/66/s/0
+msgctxt "Choix"
+msgid "I'd have had to replace you."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/67/s/0
+msgctxt "Choix"
+msgid "Yeah let's not go down that road."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/c-3/7
+msgctxt "Abel"
+msgid "A table's worst nightmare!"
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/c-4/7
+msgctxt "Abel"
+msgid "NO! I coulda done the job!"
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/c-4/15
+msgctxt "Abel"
+msgid "Well... no point in talkin' about the what-ifs now."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/c-4/23
+msgctxt "Abel"
+msgid "It's over."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-0/c-5/7
+msgctxt "Abel"
+msgid "Exactly. I don't wanna think about any of that."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/0
+msgctxt "Abel"
+msgid "You really helped me out of a tight spot... and I ain't the kinda guy who likes to rely on others."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/5
+msgctxt "Abel"
+msgid "I just don't like bein' in the spotlight. Especially not for nothin' like that."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/13
+msgctxt "Abel"
+msgid "But sometimes a table's got to rely on somebody else... and I guess if it's you... maybe it ain't so bad."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/21/s/0
+msgctxt "Choix"
+msgid "I've got your back, Abel."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/22/s/0
+msgctxt "Choix"
+msgid "I'm really glad to hear that."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/23/s/0
+msgctxt "Choix"
+msgid "It's really not a big deal."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/c-6/13
+msgctxt "Abel"
+msgid "I see that... I really do. And I appreciate it."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/c-7/13
+msgctxt "Abel"
+msgid "And I'm glad to know it."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-1/c-8/13
+msgctxt "Abel"
+msgid "Wish it were as easy as just sayin' so, pal... but it ain't."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-2/0
+msgctxt "Abel"
+msgid "Just glad to have that bubblegum nightmare over with."
+msgstr ""
+
+#: abel_table/help_abel_towel/0/g-2/8
+msgctxt "Abel"
+msgid "Well, now that's all over, I got work I need to get back to."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/0
+msgctxt "Abel"
+msgid "I just..."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/8
+msgctxt "Narrator"
+msgid "He looks at the two of you and sighs, realizing he's outnumbered."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/13
+msgctxt "Tyrell"
+msgid "Stop complaining, I'll be out of your timber in just a few."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/24
+msgctxt "Narrator"
+msgid "Tyrell goes to work, unfolding his little towel buddy and expertly drying Abel with a few smooth, fluid motions."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/29
+msgctxt "Tyrell"
+msgid "Was that so hard?"
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/37
+msgctxt "Narrator"
+msgid "He slings the now-wet towel over his shoulder."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/45
+msgctxt "Tyrell"
+msgid "Time to get <i>you</i> dried off now, buddy..."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/56
+msgctxt "Narrator"
+msgid "He walks off without another word, seemingly more concerned with the towel's welfare."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/61
+msgctxt "Abel"
+msgid "Well that was embarassin'."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/69/s/0
+msgctxt "Choix"
+msgid "What's the big deal about that?"
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/70/s/0
+msgctxt "Choix"
+msgid "Yeah that towel thing was a little weird..."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/71/s/0
+msgctxt "Choix"
+msgid "You gotta learn to be okay being vulnerable."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/c-0/7
+msgctxt "Abel"
+msgid "What's the big deal?"
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/c-1/7
+msgctxt "Abel"
+msgid "Yeah it was. But you know what... I understand to an extent."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/c-1/15
+msgctxt "Abel"
+msgid "Towelin' folks off is his job. It makes sense he's particular about it."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/c-2/7
+msgctxt "Abel"
+msgid "Heheh. You say that like it's easy!"
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/c-2/15
+msgctxt "Abel"
+msgid "It ain't the sorta thing a solid table like myself can just decide to do!"
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/g-0/0
+msgctxt "Abel"
+msgid "But you 'n Tyrell helped me out of a tight spot, and I'm mighty grateful."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/g-0/8
+msgctxt "Abel"
+msgid "I've wasted enough time today now—I gotta get back to work."
+msgstr ""
+
+#: abel_table/tyrell_help_abel/0/g-0/13
+msgctxt "Abel"
+msgid "Y'all take care."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/0
+msgctxt "Tyrell"
+msgid "<i>Get lost</i>?"
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/8
+msgctxt "Abel"
+msgid "Now hold on a minute, I ain't sayin' all that-"
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/19
+msgctxt "Narrator"
+msgid "Tyrell turns on his heel and leaves, taking his towel bunny with him."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/24
+msgctxt "Abel"
+msgid "Why would you go and say somethin' like that to Tyrell!?"
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/32
+msgctxt "Abel"
+msgid "He was only here to help."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/37
+msgctxt "Abel"
+msgid "I might got a problem lettin' others help me but I ain't tryin' to hurt nobody over it!"
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/45
+msgctxt "Abel"
+msgid "Now I'm soaked and Tyrell's upset!"
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/53/s/0
+msgctxt "Choix"
+msgid "How is any of this my problem?"
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/54/s/0
+msgctxt "Choix"
+msgid "You just seemed like you wanted him gone..."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/55/s/0
+msgctxt "Choix"
+msgid "I was just trying to help..."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/c-0/13
+msgctxt "Abel"
+msgid "Oh it ain't."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/c-1/7
+msgctxt "Abel"
+msgid "Not like that I didn't."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/c-2/7
+msgctxt "Abel"
+msgid "Maybe so, but that wasn't no kinda help."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/c-2/15
+msgctxt "Abel"
+msgid "Now I'm soaked and Tyrell's upset."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/g-0/0
+msgctxt "Abel"
+msgid "Just get on out of here. I'll handle this myself."
+msgstr ""
+
+#: abel_table/dont_help_abel_towel/0/g-0/11
+msgctxt "Narrator"
+msgid "He doesn't bother waiting for your answer, he just walks off away from you towards the bathroom, leaving a trail of water as he goes."
+msgstr ""
+
+#: abel_table/landing_spill/0/4
+msgctxt "Narrator"
+msgid "When you walk up on Abel you find him in a state of distress—though the reason is immediately apparent."
+msgstr ""
+
+#: abel_table/landing_spill/0/15/s/0
+msgctxt "Choix"
+msgid "Hey there, Abel. Whoa, you're soaked."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/7
+msgctxt "Abel"
+msgid "Aw, tarnation. Why'd you have to come by now?"
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/10
+msgctxt "Celia"
+msgid "What happened to him? You should be asking what happened to ME!"
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/21
+msgctxt "Abel"
+msgid "Beggin' yer pardon ma'am, but we're both drippin' like a cracked bucket in a typhoon."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/29
+msgctxt "Celia"
+msgid "Oh my apologies, this must be SO hard for YOU!"
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/0/s/0
+msgctxt "Choix"
+msgid "Is there a leak somewhere?"
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/7
+msgctxt "Celia"
+msgid "How am I to know!? All I know is I woke up in the middle of the night like this, absolutely WATERLOGGED. Entirely unacceptable!"
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/18
+msgctxt "Abel"
+msgid "Of course she woke me up not long after."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/26
+msgctxt "Abel"
+msgid "You gotta take care of Ms. Celia first. But she ain't the only one."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/31/b/1
+msgctxt "Abel"
+msgid "Poor Keith had to relocate for a little while."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/34
+msgctxt "Abel"
+msgid "I got so many folks countin' on me... I ain't much good to 'em like this."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/42
+msgctxt "Celia"
+msgid "Someone get a hold of Tony and send him up here IMMEDIATELY to fix this!"
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/50/1/s/0
+msgctxt "Choix"
+msgid "<i>'Tony, c'mere!!'</i>"
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/50/c-0/7
+msgctxt "Abel"
+msgid "Toolbox. Handy guy. Nice fella."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/50/g-0/3
+msgctxt "Tony"
+msgid "Uh... sorry. Been up to my ears in contracts for jobs around the house and... y'know..."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/50/g-0/11
+msgctxt "Celia"
+msgid "You know quite well that the needs of the governance outweigh your silly 'special projects'."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/50/g-0/19
+msgctxt "Tony"
+msgid "Right away, Madame Mayor."
+msgstr ""
+
+#: abel_table/landing_spill/0/c-0/15/c-0/37/c-0/50/g-0/30
+msgctxt "Tony"
+msgid "Whew, she's terrifying."
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/3
+msgctxt "Abel"
+msgid "Unbelievable."
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/14
+msgctxt "Abel"
+msgid "Well, Celia's got her leak fixed, but what about me?"
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/19
+msgctxt "Narrator"
+msgid "As if on cue, a cool breeze rolls through."
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/27/b/1
+msgctxt "Narrator"
+msgid "Fantina has arrived, as though summoned by Abel's distress call."
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/30/b/1
+msgctxt "Narrator"
+msgid "It takes you a moment, but you recognize her as your fan—the hair is a dead giveaway."
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/33/0
+msgctxt "Abel"
+msgid "Fantina... what're you doin' here?"
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/33/8/b/1 abel_table/landing_spill/0/g-0/33/17/b/1
+msgctxt "Fantina"
+msgid "Oh. My. God."
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/33/11/b/1
+msgctxt "Fantina"
+msgid "I heard somebody needed my help..."
+msgstr ""
+
+#: abel_table/landing_spill/0/g-0/33/14/b/1
+msgctxt "Fantina"
+msgid "Tony sent me here. Didn't know you weren't alone."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/0
+msgctxt "Fantina"
+msgid "It hurts me to be here... so if you don't mind I'm just gonna get this over with, alright?"
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/8 abel_table/fantina_abel_meh/0/24
+msgctxt "Narrator"
+msgid "Fantina blasts Abel with air so intense you wonder for a moment if a tornado is passing through your house."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/16 abel_table/fantina_abel_meh/0/32 abel_table/fantina_abel_stoked/0/g-1/11 abel_table/fantina_help_alone/0/8
+msgctxt "Narrator"
+msgid "Abel looks like he's caught in a wind tunnel, his lips parting and cheeks shaking, showing his teeth in a cartoonish grimace."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/27 abel_table/fantina_abel_meh/0/43 abel_table/fantina_abel_stoked/0/g-1/22 abel_table/fantina_help_alone/0/19
+msgctxt "Narrator"
+msgid "Fantina's air makes short work of the spill, drying Abel and the floor around him."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/32 abel_table/fantina_abel_meh/0/48 abel_table/fantina_help_alone/0/24
+msgctxt "Narrator"
+msgid "When she's done, Abel tips his hat to her."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/37 abel_table/fantina_abel_meh/0/56
+msgctxt "Abel"
+msgid "Oh, thank you kindly, ma'am. I appreciate the help."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/45
+msgctxt "Fantina"
+msgid "Yeah. Well. Glad someone around here appreciates me."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/53
+msgctxt "Narrator"
+msgid "She looks directly into your eyes for a full minute, saying nothing else."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/58 abel_table/fantina_abel_meh/0/96
+msgctxt "Abel"
+msgid "Uh... sure... thanks again."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/66
+msgctxt "Narrator"
+msgid "Without another word, she leaves you and Abel alone, in awkward silence."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/71 abel_table/fantina_abel_meh/0/112
+msgctxt "Abel"
+msgid "Well uh... dang."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/79 abel_table/fantina_abel_meh/0/120
+msgctxt "Abel"
+msgid "I was gonna tell you how hard it is for me to rely on others when I'm the one who's supposed to be helpin' everybody..."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/84 abel_table/fantina_abel_meh/0/125
+msgctxt "Abel"
+msgid "But whatever's goin' on between the two of you really just took all the air outta the room."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/89 abel_table/fantina_abel_meh/0/130
+msgctxt "Abel"
+msgid "So I guess maybe I should thank ya... hard to focus on my own feelins' when somebody else has bigger problems."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/97/s/0 abel_table/fantina_abel_meh/0/138/s/0
+msgctxt "Choix"
+msgid "You're welcome?"
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/98/s/0 abel_table/fantina_abel_meh/0/139/s/0
+msgctxt "Choix"
+msgid "Didn't take you for the kind to delight in others' misery."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/99/s/0 abel_table/fantina_abel_meh/0/140/s/0
+msgctxt "Choix"
+msgid "Guess so..."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/c-0/7 abel_table/fantina_abel_meh/0/c-0/7
+msgctxt "Abel"
+msgid "I ain't sayin' to make a habit of it or nothin'... but it sure worked today."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/c-1/13 abel_table/fantina_abel_meh/0/c-1/13
+msgctxt "Abel"
+msgid "I ain't that at all! Come on now..."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/c-1/21 abel_table/fantina_abel_meh/0/c-1/21
+msgctxt "Abel"
+msgid "Thought you'd know me better'n that."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/c-2/7 abel_table/fantina_abel_meh/0/c-2/7 abel_table/abel_fifth_chat/0/c-0/10
+msgctxt "Abel"
+msgid "Yeah..."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/g-0/0 abel_table/fantina_abel_meh/0/g-0/0
+msgctxt "Narrator"
+msgid "Another long silence."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/g-0/5 abel_table/fantina_abel_meh/0/g-0/5
+msgctxt "Abel"
+msgid "Welp! Got a lot to do... I'd thank ya for bein' here, but..."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/g-0/13 abel_table/fantina_abel_meh/0/g-0/13
+msgctxt "Abel"
+msgid "Not sure if it made much difference. Still, probably the decent thing to do."
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/g-0/18 abel_table/fantina_abel_meh/0/g-0/21
+msgctxt "Abel"
+msgid "So... thank you!"
+msgstr ""
+
+#: abel_table/fantina_abel_sad/0/g-0/23 abel_table/fantina_abel_meh/0/g-0/29
+msgctxt "Abel"
+msgid "Now I got a lotta work to get back to, so I'll catch up with you later."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/0
+msgctxt "Narrator"
+msgid "Fantina looks right through you—she seems entirely unbothered by your presence here."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/5
+msgctxt "Fantina"
+msgid "Tony sent me to help you, so I'm gonna just do that."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/16
+msgctxt "Abel"
+msgid "Appreciate it, Fantina."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/64
+msgctxt "Fantina"
+msgid "Mmm. Yeah."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/72
+msgctxt "Fantina"
+msgid "Happy to help or whatever."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/80
+msgctxt "Fantina"
+msgid "Recommend you keep better company... but also, I totally don't care."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/88
+msgctxt "Fantina"
+msgid "Later."
+msgstr ""
+
+#: abel_table/fantina_abel_meh/0/104
+msgctxt "Narrator"
+msgid "She leaves without another word, leaving you and Abel in an awkward silence."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/0
+msgctxt "Fantina"
+msgid "I... I heard Abel needed help, but I... I didn't think you'd be here too!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/11
+msgctxt "Fantina"
+msgid "Ohhh my god oh my god oh my god okay."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/22
+msgctxt "Fantina"
+msgid "Okay okay. I'm calm. I'm cool. I got this."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/30
+msgctxt "Narrator"
+msgid "Abel looks back and forth between the two of you, still dripping water."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/38
+msgctxt "Abel"
+msgid "Uh... you alright there, Fantina?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/46/s/0
+msgctxt "Choix"
+msgid "Abel needs our help. Let's focus."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/47/s/0
+msgctxt "Choix"
+msgid "What's wrong with her?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/48/s/0
+msgctxt "Choix"
+msgid "I'm glad you're here, Fantina."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-0/13
+msgctxt "Fantina"
+msgid "Oh god you're right, I'm so sorry! Here I am making this about me..."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-0/24
+msgctxt "Fantina"
+msgid "I'm so sorry! PLEASE FORGIVE ME!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-0/32
+msgctxt "Abel"
+msgid "Alright alright, let's not lose focus again."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-1/13
+msgctxt "Abel"
+msgid "Whoah, that ain't no way to talk about someone when they're standin' right there!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-2/7
+msgctxt "Fantina"
+msgid "You... you are?!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-2/15
+msgctxt "Narrator"
+msgid "Her eyes grow cartoonishly big and shiny."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-2/20
+msgctxt "Fantina"
+msgid "I'm so happy!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/c-2/34
+msgctxt "Fantina"
+msgid "We're gonna get Abel through this together!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/0
+msgctxt "Narrator"
+msgid "Abel looks pained at the thought of being indebted to the both of you."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/8
+msgctxt "Abel"
+msgid "Well... what're you gonna do, then?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/16
+msgctxt "Fantina"
+msgid "We're gonna dry all that water!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/27
+msgctxt "Fantina"
+msgid "If you could like, like direct me...?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/35/b/1
+msgctxt "Narrator"
+msgid "She seems to quiver with anticipation at the thought of you touching her."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/35/b/9
+msgctxt "Fantina"
+msgid "J-just... put your hands on my shoulders... and..."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/38/s/0
+msgctxt "Choix"
+msgid "I think you can handle it on your own."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/40/s/0
+msgctxt "Choix"
+msgid "I'm starting to think this might be a bad idea."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/c-3/7
+msgctxt "Fantina"
+msgid "You really believe in me that much!?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/c-3/15
+msgctxt "Fantina"
+msgid "Okayokayokay. I got this! I'm gonna do it!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/c-4/13
+msgctxt "Fantina"
+msgid "ME TOO! LET'S DO THIS!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-0/c-5/7
+msgctxt "Abel"
+msgid "What?! No it ain't! Fantina, don't you liste-"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/0
+msgctxt "Narrator"
+msgid "You grab Fantina by the shoulders, aiming her at Abel. She lets out a blast of air so intense you wonder for a moment if a tornado is passing through your house."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/27
+msgctxt "Narrator"
+msgid "When she's done, Abel tips his hat to the two of you."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/35
+msgctxt "Abel"
+msgid "Thank you kindly. Much obliged, you two."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/43
+msgctxt "Narrator"
+msgid "Fantina isn't even looking at Abel."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/51
+msgctxt "Fantina"
+msgid "Are you kidding me... working with you is all the thanks I need."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/59
+msgctxt "Fantina"
+msgid "I'm gonna be walking on air for a week..."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/70
+msgctxt "Narrator"
+msgid "She walks away in a happy daze, only pausing to shoot a contented look back at you. There might as well be hearts in her eyes."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/75
+msgctxt "Abel"
+msgid "Well... alright."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/83
+msgctxt "Abel"
+msgid "I gotta say... when you came by I thought I was gonna be embarrassed."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/91
+msgctxt "Abel"
+msgid "And I guess I was for a little while, but... look at me now!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/99
+msgctxt "Abel"
+msgid "I'm right as rain' and feelin' like an old toad with a brand new lilypad."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/107/s/0
+msgctxt "Choix"
+msgid "Toads don't sit on lilypads. That's frogs."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/108/s/0
+msgctxt "Choix"
+msgid "Just what does an old toad with a brand new lilypad feel like?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/109/s/0
+msgctxt "Choix"
+msgid "And you make me feel like a sleepy cat that found a sunbeam."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-6/13
+msgctxt "Abel"
+msgid "It ain't about the amphibian!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-6/21
+msgctxt "Abel"
+msgid "It's just a metaphor. I was tryin' to say you make me feel brand new."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-6/29
+msgctxt "Abel"
+msgid "But then again, brand new ain't really what I'm feelin' at this moment."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-7/13
+msgctxt "Abel"
+msgid "Just like it sounds! Brand new!"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-7/21
+msgctxt "Abel"
+msgid "Y'see, I'm the old toad. The lilypad is my attitude."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-7/26
+msgctxt "Abel"
+msgid "It's a metaphor, darlin'."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-7/34
+msgctxt "Abel"
+msgid "It ain't really about the toad 'n the lilypad. Are ya followin' me?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-7/42
+msgctxt "Abel"
+msgid "But hey, don't worry. You stick around me long enough'n you'll get the hang of how I talk sooner or later."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-8/13
+msgctxt "Abel"
+msgid "...dang. That good, huh?"
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-1/c-8/21
+msgctxt "Abel"
+msgid "Well, you're really speakin' my language now."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-2/0
+msgctxt "Abel"
+msgid "I ain't been able to do much work since all this started... so I'd better get back to it."
+msgstr ""
+
+#: abel_table/fantina_abel_stoked/0/g-2/8
+msgctxt "Abel"
+msgid "See ya around, alright? You take care now."
+msgstr ""
+
+#: abel_table/fantina_run_away/0
+msgctxt "Narrator"
+msgid "Your words hit home—Fantina looks at you with tears in her eyes, her lip quivering."
+msgstr ""
+
+#: abel_table/fantina_run_away/8
+msgctxt "Abel"
+msgid "Fantina, it ain't like that-"
+msgstr ""
+
+#: abel_table/fantina_run_away/16
+msgctxt "Fantina"
+msgid "WAHHHH!"
+msgstr ""
+
+#: abel_table/fantina_run_away/27
+msgctxt "Narrator"
+msgid "She runs out of the room at a full sprint, her cries echoing through the halls."
+msgstr ""
+
+#: abel_table/fantina_run_away/32
+msgctxt "Abel"
+msgid "Oh, now why would you say somethin' like that?! You know Fantina's real sensitive, especially when it comes to you an' your opinion of 'er!"
+msgstr ""
+
+#: abel_table/fantina_run_away/43
+msgctxt "Abel"
+msgid "Dang dang dang. Now how the hell 'm I gonna dry off?"
+msgstr ""
+
+#: abel_table/fantina_run_away/51
+msgctxt "Narrator"
+msgid "He glares at you, shaking his head."
+msgstr ""
+
+#: abel_table/fantina_run_away/59
+msgctxt "Abel"
+msgid "Don't even answer that. I'll just figure it out myself."
+msgstr ""
+
+#: abel_table/fantina_run_away/70
+msgctxt "Narrator"
+msgid "He walks off down the hall, leaving a trail of water in his wake."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/0
+msgctxt "Narrator"
+msgid "Fantina blasts Abel with air so intense, you wonder for a moment if a tornado is passing through your house."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/32
+msgctxt "Abel"
+msgid "Well, thank you kindly, ma'am. I appreciate the help."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/40
+msgctxt "Fantina"
+msgid "No problem! What are fans for, after all..."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/51
+msgctxt "Narrator"
+msgid "Fantina exits, leaving the two of you alone."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/56
+msgctxt "Abel"
+msgid "Can't believe the solution was as easy as all that."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/64
+msgctxt "Abel"
+msgid "I dealt with a few spills in my time... ain't never just air-dried tho..."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/72/s/0
+msgctxt "Choix"
+msgid "It's a lot easier to just wipe it up."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/73/s/0
+msgctxt "Choix"
+msgid "I should just start carrying her around the house."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/74/s/0
+msgctxt "Choix"
+msgid "Why were you so upset if you're used to it?"
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/c-0/7
+msgctxt "Abel"
+msgid "Maybe so... but I can't say I mind gettin' it done that fast."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/c-0/15
+msgctxt "Abel"
+msgid "Besides, it'd give Tyrell a break from havin' to be the one who handles all of these."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/c-1/7
+msgctxt "Abel"
+msgid "Well I don't know if you need to do all that..."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/c-1/15
+msgctxt "Abel"
+msgid "But she did help me out of a tight spot."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/c-2/7
+msgctxt "Abel"
+msgid "Well heck... it's gotta be the worst part of bein' a table."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/abel_fantina_skip/0
+msgctxt "Abel"
+msgid "Spills are part of the job, but my job's supposed to be helpin'!"
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/abel_fantina_skip/8
+msgctxt "Abel"
+msgid "Havin' to be the one who's relyin' on others... it pains me to the depths of my wooden soul."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/abel_fantina_skip/16
+msgctxt "Abel"
+msgid "I'm just glad I didn't have to put <i>you</i> out in the process."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/abel_fantina_skip/24/s/0
+msgctxt "Choix"
+msgid "It's no biggie... just checking on you."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/abel_fantina_skip/25/s/0
+msgctxt "Choix"
+msgid "Relying on others is important!"
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/g-0/0
+msgctxt "Abel"
+msgid "The sooner I can get this stuff over with the better."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/g-0/8
+msgctxt "Abel"
+msgid "And seein' as it's done... I gotta get back to work."
+msgstr ""
+
+#: abel_table/fantina_help_alone/0/g-0/c-5/7
+msgctxt "Abel"
+msgid "You take care now!"
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/12/s/0
+msgctxt "Choix"
+msgid "Hey Abel. What's going on?"
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/13/s/0
+msgctxt "Choix"
+msgid "You seem quieter than usual..."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/14/s/0
+msgctxt "Choix"
+msgid "Something on your mind?"
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/c-0/7
+msgctxt "Abel"
+msgid "Oh... hey there."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/c-1/7
+msgctxt "Abel"
+msgid "Do I? I guess I got a lot on my mind."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/c-2/7
+msgctxt "Abel"
+msgid "Guess you could say so."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-0/0
+msgctxt "Abel"
+msgid "It's been great hangin' out with ya lately... but I just can't seem to quiet the storm inside 'a me."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-0/8
+msgctxt "Abel"
+msgid "If'n ya don't mind... I'd rather talk about anything or anyone else."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-0/13/s/0
+msgctxt "Choix"
+msgid "I don't have much to say myself, honestly..."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-0/14/s/0
+msgctxt "Choix"
+msgid "What would you rather talk about?"
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-0/15/s/0
+msgctxt "Choix"
+msgid "Like what?"
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/0
+msgctxt "Abel"
+msgid "Maybe we can talk about some of our friends?"
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/8
+msgctxt "Abel"
+msgid "My friends always make me happy."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/16/0/s/0
+msgctxt "Choix"
+msgid "Maybe we should talk about Dasha."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/16/1/s/0
+msgctxt "Choix"
+msgid "Okay, I'll talk to some friends."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/16/c-6/7
+msgctxt "Abel"
+msgid "Dasha?! W-why..."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/16/c-6/18/0/s/0
+msgctxt "Choix"
+msgid "That was an interesting reaction you just had."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/16/c-6/18/1/s/0
+msgctxt "Choix"
+msgid "Come on, it's obvious you like her."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/16/c-6/18/2/s/0
+msgctxt "Choix"
+msgid "On second thought, maybe we shouldn't talk at all."
+msgstr ""
+
+#: abel_table/abel_fourth_chat/0/g-1/16/c-6/18/g-0/12
+msgctxt "Abel"
+msgid "Oh, this is all too much for me. I'm a simple table."
+msgstr ""
+
+#: abel_table/abel_fifth_chat/0/13
+msgctxt "Narrator"
+msgid "Abel is clearly a thousand miles away—he looks absolutely lost in thought."
+msgstr ""
+
+#: abel_table/abel_fifth_chat/0/18
+msgctxt "Narrator"
+msgid "When he finally notices you his demeanor doesn't change in the least."
+msgstr ""
+
+#: abel_table/abel_fifth_chat/0/26
+msgctxt "Abel"
+msgid "Oh, hey. Sorry, lots to do."
+msgstr ""
+
+#: abel_table/abel_fifth_chat/0/34
+msgctxt "Abel"
+msgid "All's well here."
+msgstr ""
+
+#: abel_table/abel_fifth_chat/0/39/s/0
+msgctxt "Choix"
+msgid "If you say so..."
+msgstr ""
+
+#: abel_table/abel_fifth_chat/0/40/s/0
+msgctxt "Choix"
+msgid "I want to talk about us, Abel."
+msgstr ""
+
+#: abel_table/abel_fifth_chat/0/c-1/7
+msgctxt "Abel"
+msgid "...huh?"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/0 abel_table/abel_jacques_return/0/0
+msgctxt "Abel"
+msgid "Hey there."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/8
+msgctxt "Abel"
+msgid "You get a chance to talk with Kopi?"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/16/s/0
+msgctxt "Choix"
+msgid "Yeah, she actually gave me this cup of coffee for you. She said it was your favorite."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-0/3
+msgctxt "Abel"
+msgid "Mmm! She sure does know her way around a cup of coffee."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-0/11
+msgctxt "Abel"
+msgid "Thank you, I needed this today."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-0/19/s/0
+msgctxt "Choix"
+msgid "Is something bothering you?"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-0/20/s/0
+msgctxt "Choix"
+msgid "What's this about..."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-0/c-1/7
+msgctxt "Abel"
+msgid "Me? No, no."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-1/3
+msgctxt "Abel"
+msgid "Oh, it's nothing to trouble yourself over."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-1/19/s/0
+msgctxt "Choix"
+msgid "So... do you know a lot of the others around the house?"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "Know any good stories?"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-1/c-3/7
+msgctxt "Abel"
+msgid "I know most of the house, yeah."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-1/c-3/15
+msgctxt "Abel"
+msgid "We've got our fair share of characters, but as a whole, I'd say we're a good bunch."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-2/0
+msgctxt "Abel"
+msgid "Plenty of stories to tell."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-2/8/s/0
+msgctxt "Choix"
+msgid "What about you?"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-3/0
+msgctxt "Abel"
+msgid "Me? Oh, sure, I've got stories, I suppose."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-3/8
+msgctxt "Abel"
+msgid "They're not exactly exciting, though."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-3/16
+msgctxt "Abel"
+msgid "You know what!"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-3/24
+msgctxt "Abel"
+msgid "You want exciting, you should talk to the Captain."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-3/32
+msgctxt "Abel"
+msgid "Why, I swear he's seen it all."
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-3/40
+msgctxt "Abel"
+msgid "Why don't you go ask Captain Jacques about his time on the high seas?"
+msgstr ""
+
+#: abel_table/abel_coffee_thanks/0/g-3/51
+msgctxt "Abel"
+msgid "...heh."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/8
+msgctxt "Abel"
+msgid "You look like you got a story you're itchin' to share."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/16
+msgctxt "Abel"
+msgid "I take it you talked to the Captain, then, huh?"
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/24/s/0
+msgctxt "Choix"
+msgid "I did! And he told me a great story, all about a stoic traveler."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/25/s/0
+msgctxt "Choix"
+msgid "He said that you were a boring table. The end."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/13
+msgctxt "Abel"
+msgid "Ah heck, I don't like where this is going."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/0/s/0
+msgctxt "Choix"
+msgid "They said the traveler was liked by everyone he met..."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/c-0/7
+msgctxt "Abel"
+msgid "Come on now..."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "...and that, despite how rough things may have been in the past, he always did his best to support others."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Oh, this is the last time I confide in that salty son of a gun."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Seems like you're happy to help anyone you meet, but you won't share even a little bit about yourself?"
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/c-0/15/c-0/15/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Abel?"
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/c-0/15/c-0/15/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Yeah, look, I just..."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-0/21/c-0/15/c-0/15/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "...time spent on me's time I'm not spendin' on others, right?"
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/c-1/7
+msgctxt "Abel"
+msgid "Ha! Straightforward and honest."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-0/0
+msgctxt "Abel"
+msgid "You remind me of my old rectangular friend."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-0/8/s/0
+msgctxt "Choix"
+msgid "Your rectangular friend?"
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-0/9/s/0
+msgctxt "Choix"
+msgid "Right, Dasha. Nice lady."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-0/c-2/7
+msgctxt "Abel"
+msgid "Y'know... Dasha."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-0/c-4/7
+msgctxt "Abel"
+msgid "The desk! Real, nice gal."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/0
+msgctxt "Abel"
+msgid "Anyway, you remind me of her. She's a sly one, too. Hehehe."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/12
+msgctxt "Abel"
+msgid "Always tryin' t'get me to focus on myself."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/20/s/0
+msgctxt "Choix"
+msgid "I think you're more interesting than you're giving yourself credit for."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/21/s/0
+msgctxt "Choix"
+msgid "Keep on tablin' you big sexy table."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/c-5/7
+msgctxt "Abel"
+msgid "Well, that's real nice of you to say... Oh..."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/c-5/15
+msgctxt "Abel"
+msgid "You mind giving me some time to myself?"
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/c-5/23
+msgctxt "Abel"
+msgid "I need to get my head on straight."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/c-5/31/0/s/0
+msgctxt "Choix"
+msgid "Yeah, sure. As long as you're gonna be okay."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/c-5/31/c-0/7
+msgctxt "Abel"
+msgid "Always am."
+msgstr ""
+
+#: abel_table/abel_jacques_return/0/g-1/c-6/7
+msgctxt "Abel"
+msgid "Ha! Don't think I have much of a choice."
+msgstr ""
+
+#: abel_table/abel_love_return/0/0
+msgctxt "Abel"
+msgid "Well if it ain't the sunshine of my life."
+msgstr ""
+
+#: abel_table/abel_love_return/0/8
+msgctxt "Abel"
+msgid "Look at ya. Every time I see that gorgeous face of yours I feel like..."
+msgstr ""
+
+#: abel_table/abel_love_return/0/16
+msgctxt "Abel"
+msgid "Like..."
+msgstr ""
+
+#: abel_table/abel_love_return/0/24
+msgctxt "Abel"
+msgid "Well dang! Words just ain't even sufficient."
+msgstr ""
+
+#: abel_table/abel_love_return/0/32/s/0
+msgctxt "Choix"
+msgid "It's not like you to be so tongue-tied, Abel."
+msgstr ""
+
+#: abel_table/abel_love_return/0/33/s/0
+msgctxt "Choix"
+msgid "I want to Realize you, Abel."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/7
+msgctxt "Abel"
+msgid "Guess there's only one way to show ya just what I'm feelin'."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "No no, I believe you."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/1/s/0
+msgctxt "Choix"
+msgid "Oh..."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/c-0/7
+msgctxt "Abel"
+msgid "Ah. Well alright then."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/c-0/15
+msgctxt "Abel"
+msgid "You come back anytime you need a reminder, alright?"
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/c-0/23
+msgctxt "Abel"
+msgid "I'll be sure to count all the ways I love ya."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/c-1/7
+msgctxt "Narrator"
+msgid "Abel pulls you in close, planting a kiss on your lips that makes you forget your own name for a few moments."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/c-1/15
+msgctxt "Abel"
+msgid "Now you get on out of here before I'm tempted to whisk you away myself."
+msgstr ""
+
+#: abel_table/abel_love_return/0/c-0/15/c-1/23
+msgctxt "Abel"
+msgid "I got work to do and I can't concentrate when you're here lookin' at me like that."
+msgstr ""
+
+#: abel_table/abel_friend_return/0/0
+msgctxt "Abel"
+msgid "Well look at you, walkin' around sprinklin' sunshine and leavin' rainbows wherever you go."
+msgstr ""
+
+#: abel_table/abel_friend_return/0/8
+msgctxt "Abel"
+msgid "Always a blessed day when I get to see that kind smile o' yours."
+msgstr ""
+
+#: abel_table/abel_friend_return/0/16/s/0
+msgctxt "Choix"
+msgid "Thanks, Abel. You're such a steady friend."
+msgstr ""
+
+#: abel_table/abel_friend_return/0/17/s/0
+msgctxt "Choix"
+msgid "Abel, I want to Realize you."
+msgstr ""
+
+#: abel_table/abel_friend_return/0/c-0/7
+msgctxt "Abel"
+msgid "You take care and have a good one, ya hear?"
+msgstr ""
+
+#: abel_table/abel_hate_return/0/0
+msgctxt "Abel"
+msgid "Well well. If it ain't the dark cloud over my picnic."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/8
+msgctxt "Abel"
+msgid "You actually need somethin'? Or you just here to make my day worse?"
+msgstr ""
+
+#: abel_table/abel_hate_return/0/13
+msgctxt "Abel"
+msgid "Actually, I don't care why you're here."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/21/s/0
+msgctxt "Choix"
+msgid "Whatever."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/22/s/0
+msgctxt "Choix"
+msgid "I'm right sorry, Abel. Look into my eyes. (USE POISE CANDY)"
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-0/7
+msgctxt "Abel"
+msgid "Just beat it, why don'tcha."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-1/25/0/s/0
+msgctxt "Choix"
+msgid "I'm sorrier than a cat caught in a thunderstorm."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-1/25/c-0/7
+msgctxt "Abel"
+msgid "Hmm..."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-1/25/c-0/15
+msgctxt "Abel"
+msgid "A cat caught in a thunderstorm... hoo wee, you must really mean it."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-1/25/c-0/23
+msgctxt "Abel"
+msgid "Alright, alright. You got me."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-1/25/c-0/34
+msgctxt "Abel"
+msgid "I respect a human who can come to me hat in hand and try to make amends."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-1/25/c-0/39/0/s/0
+msgctxt "Choix"
+msgid "I won't let you down, Abel."
+msgstr ""
+
+#: abel_table/abel_hate_return/0/c-1/25/c-0/39/c-0/7
+msgctxt "Abel"
+msgid "I'll support you as best I can. Just make sure you've got coasters, alright?"
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/3
+msgctxt "Abel"
+msgid "Mac told me somethin' real cute to call ya. Ready for this?"
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/14
+msgctxt "Dasha"
+msgid "Oh?"
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/22
+msgctxt "Abel"
+msgid "You're my little <w>solnyshka</w>."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/30
+msgctxt "Dasha"
+msgid "Solynshka? Aww... I think you are meaning solnyshko."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/38
+msgctxt "Abel"
+msgid "Oh, dang it. I practiced that one so many times."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/49
+msgctxt "Dasha"
+msgid "No, no. I love it."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/57
+msgctxt "Dasha"
+msgid "And I love you."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/65
+msgctxt "Abel"
+msgid "...I love you too."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/73/s/0
+msgctxt "Choix"
+msgid "You two are too cute for words. I'm just gonna leave you to it."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/74/s/0 abel_table/abel_dasha_love_return/0/46/s/0
+msgctxt "Choix"
+msgid "Abel, Dasha, I want to Realize you both!"
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/c-0/7
+msgctxt "Abel"
+msgid "Well, thank you friend. You take care now."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/c-0/15/0/s/0
+msgctxt "Choix"
+msgid "Bye bye, lovebirds."
+msgstr ""
+
+#: abel_table/abel_dasha_friend_return/0/c-0/15/c-0/7
+msgctxt "Dasha"
+msgid "Have the greatest day!"
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/3
+msgctxt "Abel"
+msgid "There you are. Was just talkin' about you."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/11
+msgctxt "Dasha"
+msgid "I was telling Abel how thankful I am for you."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/19
+msgctxt "Abel"
+msgid "It wasn't enough for you to make us both happy separately..."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/24
+msgctxt "Abel"
+msgid "You got all three of us together, too."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/29
+msgctxt "Abel"
+msgid "Didn't think you could get any better, but there you are, provin' me wrong."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/37
+msgctxt "Dasha"
+msgid "Come, come, let us kiss you."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/45/s/0
+msgctxt "Choix"
+msgid "You don't have to tell me twice."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/c-0/7
+msgctxt "Narrator"
+msgid "Dasha and Abel each kiss you in turn, a one-two punch of sweetness and heat."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/c-0/18
+msgctxt "Dasha"
+msgid "Delicious! I do not know who is sweeter, you or Abel."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/c-0/26
+msgctxt "Abel"
+msgid "Guess you'll have to keep smoochin' us both to find out!"
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/c-0/34/0/s/0
+msgctxt "Choix"
+msgid "Sounds good to me."
+msgstr ""
+
+#: abel_table/abel_dasha_love_return/0/c-0/34/c-0/7
+msgctxt "Narrator"
+msgid "The smooching lasts for hours... and in the end, the jury was still out."
+msgstr ""
+
+#: abel_table/abel_realize_join/0/0
+msgctxt "Abel"
+msgid "Realize? Me?"
+msgstr ""
+
+#: abel_table/abel_realize_join/0/17/s/0 abel_table/abel_realize_return/0/17/s/0
+msgctxt "Choix"
+msgid "Yes, I have what it takes."
+msgstr ""
+
+#: abel_table/abel_realize_join/0/18/s/0 abel_table/abel_realize_return/0/18/s/0
+msgctxt "Choix"
+msgid "No, not just yet."
+msgstr ""
+
+#: abel_table/abel_realize_join/0/c-1/13
+msgctxt "Abel"
+msgid "Take yer time—no need to rush."
+msgstr ""
+
+#: abel_table/abel_realize_return/0/0
+msgctxt "Abel"
+msgid "You still got that look in yer eye—you ready to realize me?"
+msgstr ""
+
+#: abel_table/abel_realize_return/0/c-1/13
+msgctxt "Abel"
+msgid "That's okay—I'm a patient table. I can wait as long as ya need."
+msgstr ""
+
+#: abel_table/abel_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Starting with the table, huh? I hope I'm Abel to do this!"
+msgstr ""
+
+#: abel_table/abel_realize_begin/9
+msgctxt "Skylar"
+msgid "Yeehaw!"
+msgstr ""
+
+#: abel_table/abel_realize_begin/17
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a table, becomes...."
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/3
+msgctxt "Abel"
+msgid "Whoah... I feel like... I feel like..."
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/11
+msgctxt "Narrator"
+msgid "For the first time since you've known him, Abel's ordinarily colorful and expressive language seems to be failing him."
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/19
+msgctxt "Abel"
+msgid "Like a... like a fish... no, no, that ain't it! Like a baby deer... a flower bloomin'..."
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/27
+msgctxt "Abel"
+msgid "Aww, heck. I feel downright <i>human</i>!"
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/35/s/0
+msgctxt "Choix"
+msgid "That's 'cause you are, Abel."
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/36/s/0
+msgctxt "Choix"
+msgid "That's 'cause you are, Abel... but you've always been to me."
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/c-0/7
+msgctxt "Abel"
+msgid "I can't thank ya enough for this."
+msgstr ""
+
+#: abel_table/abel_realized_solo/0/c-0/15
+msgctxt "Abel"
+msgid "It's time for me to get on out there and see what kinda good I can do... for me now."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/0
+msgctxt "Narrator"
+msgid "Abel looks at you the way a cowboy looks at the night sky, full of wonder and appreciation."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/8
+msgctxt "Abel"
+msgid "You stuck by me even when my life wasn't all flowers 'n love songs."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/16
+msgctxt "Abel"
+msgid "I got a few regrets yet in my life, but you ain't never gonna be one of 'em."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/21
+msgctxt "Narrator"
+msgid "As he takes your hand in his, there's a heat that simmers between the two of you. It's as gentle as Abel himself, but just as strong."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/26 abel_table/abel_love_divert/0/8
+msgctxt "Abel"
+msgid "Normally I'd say somethin' like 'You make me feel like a cat with a yarnball made 'a fish and catnip'... but words ain't sufficient."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/34
+msgctxt "Abel"
+msgid "Come on, let me show you just how grateful I am."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/42/s/0 abel_table/abel_love_divert/0/51/s/0 abel_table/dasha_love_divert/0/53/s/0
+msgctxt "Choix"
+msgid "Take me."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/43/s/0 abel_table/abel_love_divert/0/52/s/0 abel_table/dasha_love_divert/0/54/s/0
+msgctxt "Choix"
+msgid "This is enough for me."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/c-0/7 abel_table/abel_love_divert/0/c-0/7
+msgctxt "Abel"
+msgid "Oh, nothing would make me happier."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/c-0/18
+msgctxt "Narrator"
+msgid "Abel takes you in his newly-human manly arms and ravishes you in a way that would make a romance novelist blush."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/c-0/26 abel_table/abel_love_divert/0/c-0/23
+msgctxt "Narrator"
+msgid "He's just as gentle as you expected him to be, but he doesn't rest until he's left you breathless and satisfied, entirely focused on your pleasure and satisfaction."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/c-0/31
+msgctxt "Narrator"
+msgid "Afterward he's deep in thought, as though there were something lingering on his mind, but when you ask him what's wrong he only gives you a soft smile and tells you absolutely nothing now that you're here."
+msgstr ""
+
+#: abel_table/abel_love_divert_solo/0/c-1/7 abel_table/abel_love_divert/0/c-1/7
+msgctxt "Abel"
+msgid "I'm glad you understand. I'll always be grateful to ya."
+msgstr ""
+
+#: abel_table/abel_love_join_solo/0
+msgctxt "Narrator"
+msgid "Now human and in possession of actual hands to work with, Abel immediately goes out into the world to try his hand at something he's quietly been interested in: gardening."
+msgstr ""
+
+#: abel_table/abel_love_join_solo/8
+msgctxt "Narrator"
+msgid "The former table is a natural at it—perhaps it's his ability to focus on the needs of others, and those gentle hands of his."
+msgstr ""
+
+#: abel_table/abel_love_join_solo/16
+msgctxt "Narrator"
+msgid "As happy and fulfilled as Abel's garden makes him, however, he does seem to spend a lot of time out there contemplating and sighing."
+msgstr ""
+
+#: abel_table/abel_love_join_solo/24
+msgctxt "Narrator"
+msgid "When you try to ask him what's on his mind, he just gives you a sad little smile."
+msgstr ""
+
+#: abel_table/abel_love_join_solo/32
+msgctxt "Abel"
+msgid "A man keeps his regrets to hisself."
+msgstr ""
+
+#: abel_table/abel_love_join_solo/40
+msgctxt "Abel"
+msgid "I may not be a table anymore, but I ain't about to let anyone else carry my burdens."
+msgstr ""
+
+#: abel_table/abel_love_join_solo/45
+msgctxt "Abel"
+msgid "Now come gimme a hand with these weeds, won't ya?"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/6
+msgctxt "Skylar"
+msgid "Now hold on one minute!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/14
+msgctxt "Skylar"
+msgid "Before anyone goes on getting themselves Realized alone, I think what we have here is a duo Realization opportunity!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/25
+msgctxt "Dasha"
+msgid "You cannot be thinking of leaving the house without me!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/33
+msgctxt "Abel"
+msgid "Never, darlin'."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/41
+msgctxt "Skylar"
+msgid "In order to get them both Realized, you'll only need to worry about ONE of their recipes, on account of them being in love and stuff.."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/61/s/0
+msgctxt "Choix"
+msgid "Well, I do still have what it takes."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/62/s/0
+msgctxt "Choix"
+msgid "Oh yeah that's too much for me."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/c-1/16
+msgctxt "Abel"
+msgid "No problem—we waited this long for each other."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/c-1/24
+msgctxt "Abel"
+msgid "We're real patient."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_question/0/c-1/29
+msgctxt "Dasha"
+msgid "We will wait as long as you require!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_return/0/3
+msgctxt "Dasha"
+msgid "You have returned!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_return/0/11
+msgctxt "Abel"
+msgid "How are you feelin'? You think you got what it takes now?"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_return/0/19
+msgctxt "Dasha"
+msgid "Are you ready to do heavy lifting?"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_return/0/39/s/0
+msgctxt "Choix"
+msgid "Yes, I now have what it takes!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_return/0/40/s/0
+msgctxt "Choix"
+msgid "Oh god no, that's too much for me."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_return/0/c-1/16
+msgctxt "Dasha"
+msgid "Take your time. Is no need to rush."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_return/0/c-1/24
+msgctxt "Abel"
+msgid "We'll be right here when you're ready."
+msgstr ""
+
+#: abel_table/abel_dasha_realize_begin/6/b/1
+msgctxt "Skylar"
+msgid "Starting with a duo Realization? Good thing they're both going steady!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_begin/9
+msgctxt "Skylar"
+msgid "Abel and Dasha, let's do this thing!"
+msgstr ""
+
+#: abel_table/abel_dasha_realize_begin/17
+msgctxt "Narrator"
+msgid "The spectral energy flows through your dateviators, and what was once merely a table and a desk, become...."
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/0
+msgctxt "Abel"
+msgid "Whooooah!"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/8
+msgctxt "Dasha"
+msgid "This is... !"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/16
+msgctxt "Narrator"
+msgid "Dasha and Abel look first at themselves, and then at each other, and then they're rushing forward into a joyful hug, laughing and crying and twirling around."
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/33
+msgctxt "Narrator"
+msgid "Dasha lifts Abel, Abel lifts Dasha, and then they're both turning to look at you, arms outstretched."
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/38/s/0
+msgctxt "Choix"
+msgid "Is it my turn for a twirl-hug?"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/39/s/0
+msgctxt "Choix"
+msgid "I want a hug too, Abel!"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/40/s/0
+msgctxt "Choix"
+msgid "I want a hug too, Dasha!"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/41/s/0
+msgctxt "Choix"
+msgid "I want a hug from both of you at the same time!"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/c-0/7
+msgctxt "Narrator"
+msgid "They don't even bother with a verbal response, both of them rushing forward to lift you up so quickly and enthusiastically you almost scream—you haven't been lifted off your feet this easily since you were a toddler."
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/c-0/18
+msgctxt "Abel"
+msgid "We're never gonna forget this, friend!"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/c-0/26
+msgctxt "Dasha"
+msgid "You will have our gratitude forever!"
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/c-3/10
+msgctxt "Narrator"
+msgid "Abel and Dasha lift you into the air between them, each kissing your cheek in turn."
+msgstr ""
+
+#: abel_table/abel_dasha_realized/0/c-3/21
+msgctxt "Narrator"
+msgid "You find yourself surrounded by love and muscle in equal measure."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/0
+msgctxt "Narrator"
+msgid "Abel lifts you into his arms, hugging you with an unmistakable heat. His voice is a low murmur as he speaks to you."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/16
+msgctxt "Abel"
+msgid "Come an' let me show ya just how grateful I am."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/27
+msgctxt "Narrator"
+msgid "When you look over his shoulder to Dasha, she gives you a sweet smile, all sincerity and warmth."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/35
+msgctxt "Dasha"
+msgid "It warms my heart to see you happy together."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/43
+msgctxt "Dasha"
+msgid "I will take my time with Abel later. Do not worry about Dasha."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/c-0/15
+msgctxt "Narrator"
+msgid "Abel takes you away in his newly-human manly arms and ravishes you in a way that would make a romance novelist blush."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/c-0/31
+msgctxt "Narrator"
+msgid "Afterward he seems thoughtful, but when you ask what's on his mind his thoughtful expression is replaced with a contented smile."
+msgstr ""
+
+#: abel_table/abel_love_divert/0/c-0/39
+msgctxt "Abel"
+msgid "Just never thought a man could have it all... and now I do."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/0
+msgctxt "Narrator"
+msgid "Dasha lifts you into her arms, hugging you with enthusiasm and a passion that's truly impossible to ignore."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/8
+msgctxt "Narrator"
+msgid "When she speaks to you it's not difficult to imagine what's on her mind."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/16
+msgctxt "Dasha"
+msgid "Perhaps we should take some time alone, hm?"
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/24
+msgctxt "Dasha"
+msgid "I wish to show you the depths of my feelings for you."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/32
+msgctxt "Narrator"
+msgid "When you look over Dasha's shoulder at Abel, he only smiles warmly and tips his hat at you."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/40
+msgctxt "Abel"
+msgid "I couldn't be happier fer you two, pal. Don't you worry about me."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/48
+msgctxt "Abel"
+msgid "Me n' Dasha can spend some time together later."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/c-0/7
+msgctxt "Dasha"
+msgid "Whatever you desire..."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/c-0/15
+msgctxt "Narrator"
+msgid "Dasha whisks you away to your bedroom, where she performs feats of strength and flexibility that make your head spin."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/c-0/23
+msgctxt "Narrator"
+msgid "She doesn't stop until the two of you are entirely exhausted, putting her newly human muscles to work in service of your mutual pleasure."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/c-0/28
+msgctxt "Narrator"
+msgid "Afterward she is her usual sweet self, but there's an extra twinkle in her eye when she smiles at you."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/c-0/36
+msgctxt "Dasha"
+msgid "You have spoiled me, beloved. To have you hold one hand and Abel the other..."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/c-0/44
+msgctxt "Dasha"
+msgid "I did not think I could be so happy. I will never forget what you have done for me... for us."
+msgstr ""
+
+#: abel_table/dasha_love_divert/0/c-1/7
+msgctxt "Dasha"
+msgid "I am glad you are happy, beloved. This is all I need."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/0
+msgctxt "Abel"
+msgid "I feel like we can do a little better than a hug for ya... ain't that right, Dasha?"
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/8
+msgctxt "Dasha"
+msgid "Yes... much more than a hug."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/16/s/0
+msgctxt "Choix"
+msgid "Yes please."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/17/s/0
+msgctxt "Choix"
+msgid "A hug is enough for me."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-0/7
+msgctxt "Narrator"
+msgid "The two of them whisk you away, Dasha lifting you into her arms and almost sprinting for your bedroom."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-0/18
+msgctxt "Narrator"
+msgid "You'd have imagined sleeping with these two would have led to a broken bed, or head to toe bruises at the very least, but Dasha and Abel are as respectful of your person and your furniture as they are passionate about you and each other."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-0/29
+msgctxt "Narrator"
+msgid "You make love with abandon, but at the end of it all your bedframe is somehow still standing—a true miracle."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-1/7
+msgctxt "Abel"
+msgid "Understood—we just wanna make sure you know how we feel about ya."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-1/15
+msgctxt "Dasha"
+msgid "Even two hearts are not enough to contain the love we have for you."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-1/23
+msgctxt "Abel"
+msgid "I ain't never gonna forget this, amigo, and neither is she."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-1/31
+msgctxt "Dasha"
+msgid "You must come to see us—as happy as we will be, we will only be happier when you are with us."
+msgstr ""
+
+#: abel_table/abel_dasha_love_divert/0/c-1/39
+msgctxt "Abel"
+msgid "Darn right. Our love story just ain't complete without you."
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/0
+msgctxt "Narrator"
+msgid "Abel and Dasha truly blossom when they leave your home, finding the chance to finally focus on themselves rather than holding up everyone else around them."
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/11
+msgctxt "Narrator"
+msgid "Abel takes up gardening, and while Dasha tries her best to help him initially she finds she's not much for weeding and watering."
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/16
+msgctxt "Narrator"
+msgid "She truly finds herself in the kitchen, incorporating Abel's produce into meals hearty and fulfilling enough to sustain their considerable muscle."
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/21
+msgctxt "Dasha"
+msgid "What have you grown for us today, beloved?"
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/29
+msgctxt "Abel"
+msgid "I got some real prize-winning potatoes for you, darlin'!"
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/37
+msgctxt "Dasha"
+msgid "Wonderful. Then tonight we will have potato and cheese piroshki!"
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/45
+msgctxt "Abel"
+msgid "Just when I think I can't love you more..."
+msgstr ""
+
+#: abel_table/abel_dasha_love_join/53
+msgctxt "Narrator"
+msgid "Dasha gets into collecting aprons, each more frilly and ridiculous than the last—Abel, for his part, is all too thrilled to contribute to her collection, bringing her a new one every time he returns from the farmer's market."
+msgstr ""
