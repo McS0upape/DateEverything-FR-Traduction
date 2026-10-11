@@ -31,11 +31,20 @@ def main(dump):
         po.metadata = {"Language": "fr", "Content-Type": "text/plain; charset=UTF-8"}
     have = {e.msgid for e in po}
     known = known_dialogue()
+    regex_src = os.path.join(PO_DIR, "_ui_regex.tsv")
+    patterns = []
+    if os.path.exists(regex_src):
+        for line in open(regex_src, encoding="utf-8"):
+            if "\t" in line and not line.startswith("#"):
+                patterns.append(re.compile(line.split("\t", 1)[0]))
     added = 0
     for line in open(dump, encoding="utf-8"):
         s = line.rstrip("\n").replace("\\n", "\n").replace("\\\\", "\\")
         plain = re.sub(r"<[^>]+>", "", s).strip()
         if not plain or not re.search(r"[A-Za-z]{2}", plain) or s in have or plain in known:
+            continue
+        core = s.strip(" \t\n\r​﻿")
+        if any(p.fullmatch(core) for p in patterns):
             continue
         po.append(polib.POEntry(msgid=s, msgstr=""))
         have.add(s)

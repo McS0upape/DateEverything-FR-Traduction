@@ -23,6 +23,10 @@ namespace DateEverythingFR
         /// <summary>texte d'interface anglais -> français</summary>
         public readonly Dictionary<string, string> Ui = new Dictionary<string, string>(StringComparer.Ordinal);
 
+        /// <summary>motif (regex complète) -> remplacement ($1, $2...)</summary>
+        public readonly List<KeyValuePair<System.Text.RegularExpressions.Regex, string>> UiRegex =
+            new List<KeyValuePair<System.Text.RegularExpressions.Regex, string>>();
+
         public string SourceHash = "";
 
         public static string KnotKey(string knot, string original) => knot + "\u0001" + original;
@@ -47,6 +51,24 @@ namespace DateEverythingFR
                     data.ByPath[cols[0]] = entry;
                     if (cols[2] == "1")
                         data.ByKnotText[KnotKey(cols[1], entry.Original)] = entry.Translation;
+                }
+            }
+
+            var uiRegex = Path.Combine(dir, "ui_regex.tsv");
+            if (File.Exists(uiRegex))
+            {
+                foreach (var line in File.ReadLines(uiRegex, Encoding.UTF8))
+                {
+                    var cols = line.Split('\t');
+                    if (cols.Length != 2) continue;
+                    try
+                    {
+                        data.UiRegex.Add(new KeyValuePair<System.Text.RegularExpressions.Regex, string>(
+                            new System.Text.RegularExpressions.Regex("^(?:" + Unescape(cols[0]) + ")$",
+                                System.Text.RegularExpressions.RegexOptions.Compiled),
+                            postProcess(Unescape(cols[1]))));
+                    }
+                    catch (ArgumentException) { }
                 }
             }
 

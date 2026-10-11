@@ -18,25 +18,44 @@ namespace DateEverythingFR
         private static readonly List<string> Pending = new List<string>();
         private static bool _fontInstalled;
 
+        public static int Calls, Hits;
+
         public static string Translate(string text)
         {
             if (string.IsNullOrEmpty(text) || Data == null) return text;
-            if (Data.Ui.TryGetValue(text, out var fr)) return fr;
+            Calls++;
+            if (Data.Ui.TryGetValue(text, out var fr)) { Hits++; return fr; }
 
-            // essaie sans les espaces de début/fin, puis réinjecte-les
-            var trimmed = text.Trim();
-            if (trimmed.Length != text.Length && trimmed.Length > 0 && Data.Ui.TryGetValue(trimmed, out fr))
+            // sans les espaces / espaces de largeur nulle (U+200B, BOM) de début et de fin, réinjectés ensuite
+            int start = 0, end = text.Length;
+            while (start < end && IsPad(text[start])) start++;
+            while (end > start && IsPad(text[end - 1])) end--;
+            var trimmed = text.Substring(start, end - start);
+            if (trimmed.Length == 0) return text;
+            string core = null;
+            if (trimmed.Length != text.Length && Data.Ui.TryGetValue(trimmed, out fr)) core = fr;
+            if (core == null && trimmed.Length < 300)
             {
-                int start = text.IndexOf(trimmed, System.StringComparison.Ordinal);
-                return text.Substring(0, start) + fr + text.Substring(start + trimmed.Length);
+                foreach (var kv in Data.UiRegex)
+                {
+                    var m = kv.Key.Match(trimmed);
+                    if (m.Success) { core = m.Result(kv.Value); break; }
+                }
+            }
+            if (core != null)
+            {
+                Hits++;
+                return text.Substring(0, start) + core + text.Substring(end);
             }
 
-            if (Dump && trimmed.Length > 0 && Seen.Add(trimmed))
+            if (Dump && Seen.Add(trimmed))
             {
                 lock (Pending) Pending.Add(trimmed);
             }
             return text;
         }
+
+        private static bool IsPad(char c) => char.IsWhiteSpace(c) || c == '​' || c == '﻿';
 
         public static void FlushDump()
         {

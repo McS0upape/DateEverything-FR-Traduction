@@ -21,6 +21,8 @@ def main(version):
             for f in files:
                 full = os.path.join(base, f)
                 z.write(full, os.path.relpath(full, BEPINEX).replace(os.sep, "/"))
+        # BepInEx.cfg avec HideManagerGameObject = true (le jeu détruit sinon l'objet du plugin)
+        z.write(os.path.join(ROOT, "release_extra", "BepInEx", "config", "BepInEx.cfg"), "BepInEx/config/BepInEx.cfg")
         z.write(PLUGIN_DLL, f"{PLUGIN_DIR}/DateEverythingFR.dll")
         for f in ("dialogues.tsv", "ui.tsv"):
             z.write(os.path.join(DATA, f), f"{PLUGIN_DIR}/fr/{f}")

@@ -122,6 +122,18 @@ def main(src, po_dir, out_dir):
             ui_lines.append(esc(entry.msgid) + "\t" + esc(entry.msgstr))
     with open(os.path.join(out_dir, "ui.tsv"), "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(ui_lines) + ("\n" if ui_lines else ""))
+    # règles par motif (regex complète \t remplacement)
+    regex_src = os.path.join(po_dir, "_ui_regex.tsv")
+    regex_lines = []
+    if os.path.exists(regex_src):
+        for line in open(regex_src, encoding="utf-8"):
+            line = line.rstrip("\n")
+            if line and not line.startswith("#"):
+                pat, rep = line.split("\t", 1)
+                re.compile(pat)  # erreur immédiate si le motif est invalide
+                regex_lines.append(line)
+    with open(os.path.join(out_dir, "ui_regex.tsv"), "w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(regex_lines) + ("\n" if regex_lines else ""))
 
     with open(os.path.join(out_dir, "..", "build_report.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(report))

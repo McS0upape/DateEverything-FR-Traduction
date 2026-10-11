@@ -1,5 +1,5 @@
 using System;
-using System.Collections;
+
 using System.IO;
 using BepInEx;
 using BepInEx.Configuration;
@@ -64,25 +64,23 @@ namespace DateEverythingFR
             UiTranslator.FallbackFontName = _fallbackFont.Value;
 
             new Harmony(Guid).PatchAll(typeof(Plugin).Assembly);
-            SceneManager.sceneLoaded += (s, m) => UiTranslator.TryInstallFallbackFont();
-            StartCoroutine(Housekeeping());
-        }
-
-        private IEnumerator Housekeeping()
-        {
-            var wait = new WaitForSecondsRealtime(5f);
-            while (true)
+            // Événements statiques et minuteur : ils survivent même si le jeu détruit l'objet du plugin.
+            SceneManager.sceneLoaded += (s, m) =>
             {
                 UiTranslator.TryInstallFallbackFont();
-                try { UiTranslator.FlushDump(); }
-                catch (Exception e) { Log.LogWarning("Dump UI : " + e.Message); }
-                yield return wait;
-            }
+                Log.LogInfo($"Scène « {s.name} » : {UiTranslator.Calls} textes d'interface vus, {UiTranslator.Hits} traduits.");
+                Flush();
+            };
+            Application.quitting += Flush;
+            _flushTimer = new System.Threading.Timer(_ => Flush(), null, 10000, 10000);
         }
 
-        private void OnApplicationQuit()
+        private static System.Threading.Timer _flushTimer;
+
+        private static void Flush()
         {
-            try { UiTranslator.FlushDump(); } catch { }
+            try { UiTranslator.FlushDump(); }
+            catch (Exception e) { Log.LogWarning("Dump UI : " + e.Message); }
         }
     }
 
