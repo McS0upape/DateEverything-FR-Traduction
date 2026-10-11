@@ -8,1312 +8,1574 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: airyn_air/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "AIR"
-msgstr ""
+msgstr "AIR"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/6
 msgctxt "Narrator"
 msgid "The very air you breathe has taken form, and <i>what form</i>. Ringlet curls and a barely-there dress frame a figure that leaves you short of breath."
-msgstr ""
+msgstr "L'air même que vous respirez a pris forme, et <i>quelle forme</i>. Des boucles en anglaises et une robe qui tient à peine encadrent une silhouette qui vous coupe le souffle."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/11
 msgctxt "Narrator"
 msgid "She stares at you in complete silence, and you're suddenly intensely aware of your own breathing. It's more than a little awkward."
-msgstr ""
+msgstr "Elle vous fixe dans un silence absolu, et vous prenez soudain douloureusement conscience de votre propre respiration. C'est plus qu'un peu gênant."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/33/s/0
 msgctxt "Choix"
 msgid "What? Who are you?"
-msgstr ""
+msgstr "Quoi ? T'es qui, toi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/34/s/0
 msgctxt "Choix"
 msgid "Hey sexy."
-msgstr ""
+msgstr "Salut, beauté."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Okay...?"
-msgstr ""
+msgstr "D'accord... ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "Are you, like, the air I'm breathing?"
-msgstr ""
+msgstr "T'es genre... l'air que je respire ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "I guess I'm gonna go?"
-msgstr ""
+msgstr "Bon, je crois que je vais y aller ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-1/2/s/0
 msgctxt "Choix"
 msgid "What is your deal?"
-msgstr ""
+msgstr "C'est quoi, ton problème ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/4
 msgctxt "Airyn"
 msgid "I am Airyn."
-msgstr ""
+msgstr "Je suis Airyn."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/12
 msgctxt "Airyn"
 msgid "The air you breathe."
-msgstr ""
+msgstr "L'air que tu respires."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/23
 msgctxt "Airyn"
 msgid "From the moment your existence was fiercely ripped from the great void, I have been there."
-msgstr ""
+msgstr "Depuis l'instant où ton existence fut violemment arrachée au grand néant, j'ai été là."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/31
 msgctxt "Airyn"
 msgid "During every breath, every heartbeat."
-msgstr ""
+msgstr "À chaque souffle, à chaque battement de cœur."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/39
 msgctxt "Airyn"
 msgid "Every chittering shudder that marks the high and low points of your life."
-msgstr ""
+msgstr "À chaque frémissement qui marque les hauts et les bas de ta vie."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/50/s/0
 msgctxt "Choix"
 msgid "Wow. I'm in love."
-msgstr ""
+msgstr "Waouh. Je suis {{amoureux|amoureuse|amoureux·se}}."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/51/s/0
 msgctxt "Choix"
 msgid "Damn, that's cool."
-msgstr ""
+msgstr "Purée, c'est trop cool."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/52/s/0
 msgctxt "Choix"
 msgid "I like having you inside me."
-msgstr ""
+msgstr "J'aime bien t'avoir en moi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/c-9/7
 msgctxt "Airyn"
 msgid "You may love me, you may not. It matters not to me."
-msgstr ""
+msgstr "Que tu m'aimes ou non, peu m'importe."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/c-10/7
 msgctxt "Airyn"
 msgid "I do not care what you think."
-msgstr ""
+msgstr "Ce que tu penses m'indiffère."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-2/3/c-11/7
 msgctxt "Airyn"
 msgid "A juvenile attempt at charming me? Pointless."
-msgstr ""
+msgstr "Une tentative puérile de me charmer ? Vaine."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/0
 msgctxt "Airyn"
 msgid "You mean very little to me, human."
-msgstr ""
+msgstr "Tu ne comptes guère à mes yeux, {{humain|humaine|humain·e}}."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/8
 msgctxt "Airyn"
 msgid "In my current state in this hovel, I am an admixture of several elements that provide your lungs the capacity to transport oxygen through your bloodstream."
-msgstr ""
+msgstr "Dans mon état actuel, au sein de ce taudis, je suis un mélange de plusieurs éléments qui permettent à tes poumons de faire passer l'oxygène dans ton sang."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/16
 msgctxt "Airyn"
 msgid "But had we met several million years ago you would not have been able to survive for more than a few moments before my intoxicating melange would annihilate you."
-msgstr ""
+msgstr "Mais si nous nous étions rencontrés il y a quelques millions d'années, tu n'aurais pas survécu plus de quelques instants avant que mon enivrant mélange ne t'anéantisse."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/24
 msgctxt "Airyn"
 msgid "I shift with the wind, I melt with the tides, I shield this rock with a layer of fragrant bloom."
-msgstr ""
+msgstr "Je change avec le vent, je fonds avec les marées, je protège ce rocher d'une couche de floraison parfumée."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/35
 msgctxt "Airyn"
 msgid "I Am."
-msgstr ""
+msgstr "Je Suis."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/43/s/0
 msgctxt "Choix"
 msgid "Huh, never thought of air in that way."
-msgstr ""
+msgstr "Ah, j'avais jamais vu l'air sous cet angle."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/44/s/0
 msgctxt "Choix"
 msgid "Okay, definitely falling in love with all this here."
-msgstr ""
+msgstr "OK, je suis carrément en train de tomber {{amoureux|amoureuse|amoureux·se}} de tout ça."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/45/s/0
 msgctxt "Choix"
 msgid "I Am just as much as you are."
-msgstr ""
+msgstr "Je Suis, tout autant que toi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/c-12/7
 msgctxt "Airyn"
 msgid "I have never thought of you."
-msgstr ""
+msgstr "Je n'ai jamais pensé à toi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/c-13/7
 msgctxt "Airyn"
 msgid "You waste your breath."
-msgstr ""
+msgstr "Tu gâches ton souffle."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/c-14/15
 msgctxt "Airyn"
 msgid "Correct."
-msgstr ""
+msgstr "Exact."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_intro/0/g-3/c-14/40
 msgctxt "Airyn"
 msgid "I will think on this. But do not think that you can simply overcome me by a single well-spoken word."
-msgstr ""
+msgstr "Je méditerai là-dessus. Mais ne crois pas pouvoir me conquérir d'un seul mot bien tourné."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/6
 msgctxt "Airyn"
 msgid "You return. Still you prattle. I have seen you around your lair speaking endlessly to the others. To yourself."
-msgstr ""
+msgstr "Te revoilà. Toujours à jacasser. Je t'ai vu{{|e|·e}} dans ton antre, à parler sans fin aux autres. À toi-même."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/14
 msgctxt "Airyn"
 msgid "This is a waste of breath."
-msgstr ""
+msgstr "Quel gâchis de souffle."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/28
 msgctxt "Airyn"
 msgid "I notice each time that you choose not to speak, and it gives me solace that there is hope for you."
-msgstr ""
+msgstr "Je remarque chaque fois que tu choisis de te taire, et cela me console : il y a de l'espoir pour toi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/37/s/0
 msgctxt "Choix"
 msgid "That's super weird."
-msgstr ""
+msgstr "C'est super bizarre."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/c-0/13
 msgctxt "Airyn"
 msgid "Yes, much like that. Breathe. Take in my current solution, treat the elements with your alveoli, make me anew."
-msgstr ""
+msgstr "Oui, exactement ainsi. Respire. Inspire ma composition actuelle, traite ses éléments dans tes alvéoles, et renouvelle-moi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/3
 msgctxt "Airyn"
 msgid "Though I suppose it has been a while since one of your kind has spoken to me directly in such a way."
-msgstr ""
+msgstr "Encore que, je l'admets, cela fait longtemps que l'un des tiens ne m'a pas adressé la parole de façon si directe."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/11
 msgctxt "Airyn"
 msgid "I can respond to your queries."
-msgstr ""
+msgstr "Je peux répondre à tes questions."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/19
 msgctxt "Airyn"
 msgid "I certainly have the time."
-msgstr ""
+msgstr "Ce n'est certes pas le temps qui me manque."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "Uh, I'm good actually."
-msgstr ""
+msgstr "Euh, ça ira, en fait."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "Is there anything that you are afraid of?"
-msgstr ""
+msgstr "Est-ce qu'il y a quelque chose qui te fait peur ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "What can you tell me about life?"
-msgstr ""
+msgstr "Qu'est-ce que tu peux me dire sur la vie ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/c-2/7
 msgctxt "Airyn"
 msgid "Farewell."
-msgstr ""
+msgstr "Adieu."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/c-3/7
 msgctxt "Airyn"
 msgid "Fear..."
-msgstr ""
+msgstr "La peur..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_second/0/g-0/c-4/7
 msgctxt "Airyn"
 msgid "Life."
-msgstr ""
+msgstr "La vie."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/0
 msgctxt "Airyn"
 msgid "I feel a deep gratitude for the forces of the earth's internal rotation that keep me seated firmly around this grand orb."
-msgstr ""
+msgstr "J'éprouve une profonde gratitude envers les forces de la rotation interne de la Terre, qui me maintiennent fermement autour de ce grand globe."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/8
 msgctxt "Airyn"
 msgid "If it were not for her, my separate parts would disperse into the vacuum."
-msgstr ""
+msgstr "Sans elle, mes différentes parties se disperseraient dans le vide."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/16/s/0
 msgctxt "Choix"
 msgid "Oh, like Hoove? He's a vacuum."
-msgstr ""
+msgstr "Oh, comme Hoove ? Lui aussi, il fait le vide."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/17/s/0
 msgctxt "Choix"
 msgid "What would happen if you didn't have the internal rotation?"
-msgstr ""
+msgstr "Qu'est-ce qui se passerait sans cette rotation interne ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/18/s/0
 msgctxt "Choix"
 msgid "What's so scary about that?"
-msgstr ""
+msgstr "Qu'est-ce qu'il y a de si effrayant là-dedans ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/c-0/7
 msgctxt "Airyn"
 msgid "No, not like... Hoove."
-msgstr ""
+msgstr "Non, pas comme... Hoove."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/0
 msgctxt "Airyn"
 msgid "My concentration now is of a rate that I can stay within myself and keep this form you see before you. My density is in coherence."
-msgstr ""
+msgstr "Ma concentration actuelle me permet de rester en moi-même et de garder la forme que tu vois devant toi. Ma densité est cohérente."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/8
 msgctxt "Airyn"
 msgid "If I were to disperse... The volume of the universe is so vast and expanding that I would lose touch with my constituent parts. And the parts of this earth that I enjoy touching."
-msgstr ""
+msgstr "Si je venais à me disperser... L'univers est si vaste, et son expansion si grande, que je perdrais le contact avec mes parties constitutives. Et avec les parties de cette Terre que j'aime effleurer."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/16
 msgctxt "Airyn"
 msgid "It... frightens me to think of that occurring, which it must, one day."
-msgstr ""
+msgstr "Cela... m'effraie de penser que cela se produira, comme il le faudra bien, un jour."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "Do you try not to think about it?"
-msgstr ""
+msgstr "T'essaies de ne pas y penser ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "I'm sorry to hear that."
-msgstr ""
+msgstr "Je suis {{désolé|désolée|désolé·e}} de l'apprendre."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "At least you get to live longer than me!"
-msgstr ""
+msgstr "Au moins, tu vivras plus longtemps que moi !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/c-3/7
 msgctxt "Airyn"
 msgid "I think about it every moment. It gives me more appreciation for my current form. I am in profound awe of the sliver of being I have been awarded."
-msgstr ""
+msgstr "J'y pense à chaque instant. Cela me fait d'autant plus apprécier ma forme actuelle. Je suis profondément émerveillée par cette parcelle d'existence qui m'a été accordée."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/g-0/c-4/7
 msgctxt "Airyn"
 msgid "My plight simply is, no more than that."
-msgstr ""
+msgstr "Mon sort est ce qu'il est, rien de plus."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/tire/0
 msgctxt "Airyn"
 msgid "I tire of this."
-msgstr ""
+msgstr "Cela me lasse."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/tire/8
 msgctxt "Airyn"
 msgid "Before you attempt to speak with me again, you must show me you can be silent and thoughtful. As always, I listen, I hear, I see, I breathe you."
-msgstr ""
+msgstr "Avant de tenter de me reparler, tu devras me prouver que tu sais être {{silencieux|silencieuse|silencieux·se}} et {{réfléchi|réfléchie|réfléchi·e}}. Comme toujours, je t'écoute, je t'entends, je te vois, je te respire."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/tire/17/s/0 airyn_air/gasp/0/47/s/0 airyn_air/gasp_fail/0/36/s/0
 msgctxt "Choix"
 msgid "I'll try."
-msgstr ""
+msgstr "Je vais essayer."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/tire/c-6/13 airyn_air/gasp/0/c-0/13
 msgctxt "Airyn"
 msgid "Yes, like that. Goodbye."
-msgstr ""
+msgstr "Oui, exactement ainsi. Au revoir."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fear/0/tire/c-7/7 airyn_air/gasp/0/c-1/7 airyn_air/gasp_fail/0/c-1/7
 msgctxt "Airyn"
 msgid "Hm. We will see."
-msgstr ""
+msgstr "Hm. Nous verrons."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/0
 msgctxt "Airyn"
 msgid "Your life is completely mine in every way. Without the circulation of my form through your body, you would perish in moments."
-msgstr ""
+msgstr "Ta vie m'appartient entièrement, en tout point. Sans la circulation de ma forme dans ton corps, tu périrais en quelques instants."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/8
 msgctxt "Airyn"
 msgid "After one minute without my presence, your brain cells, your <i>neurons</i>, begin dying off."
-msgstr ""
+msgstr "Après une minute sans ma présence, tes cellules cérébrales, tes <i>neurones</i>, commencent à mourir."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/16
 msgctxt "Airyn"
 msgid "Your neurons require glucose - they transmute glucose into energy to power themselves to keep going."
-msgstr ""
+msgstr "Tes neurones ont besoin de glucose : ils le transforment en énergie pour s'alimenter et continuer à fonctionner."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/24
 msgctxt "Airyn"
 msgid "But the key ingredient to allow them this power is <i>oxygen</i>."
-msgstr ""
+msgstr "Mais l'ingrédient clé qui leur donne ce pouvoir, c'est l'<i>oxygène</i>."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/35
 msgctxt "Airyn"
 msgid "Your respiration allows that flow of oxygen - and thus allows your neurons to survive."
-msgstr ""
+msgstr "Ta respiration assure ce flux d'oxygène, et permet ainsi à tes neurones de survivre."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/43
 msgctxt "Airyn"
 msgid "After a mere five minutes without my presence, your neurons will slow... and your death will be imminent."
-msgstr ""
+msgstr "Après à peine cinq minutes sans ma présence, tes neurones ralentiront... et ta mort sera imminente."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/65
 msgctxt "Airyn"
 msgid "The more you know..."
-msgstr ""
+msgstr "Tu te coucheras moins bête ce soir..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/73/s/0
 msgctxt "Choix"
 msgid "I guess you're pretty powerful..."
-msgstr ""
+msgstr "J'imagine que t'es plutôt puissante..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/74/s/0
 msgctxt "Choix"
 msgid "Thanks for keeping me alive."
-msgstr ""
+msgstr "Merci de me garder en vie."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/75/s/0
 msgctxt "Choix"
 msgid "I am going to hold my breath and prove you wrong."
-msgstr ""
+msgstr "Je vais retenir ma respiration pour te prouver que t'as tort."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/c-0/7
 msgctxt "Airyn"
 msgid "Indeed. Tell that to River for me..."
-msgstr ""
+msgstr "En effet. Va donc dire ça à River de ma part..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/c-1/7
 msgctxt "Airyn"
 msgid "You are welcome."
-msgstr ""
+msgstr "Il n'y a pas de quoi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/c-2/10
 msgctxt "Airyn"
 msgid "Go ahead. Try."
-msgstr ""
+msgstr "Vas-y. Essaie."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/c-2/18
 msgctxt "Narrator"
 msgid "You exhale one last time, and then you take as deep a breath as you can, filling your lungs to capacity."
-msgstr ""
+msgstr "Vous expirez une dernière fois, puis prenez une inspiration aussi profonde que possible, en remplissant vos poumons au maximum."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_life_trivia/0/c-2/26
 msgctxt "Narrator"
 msgid "Airyn looks at you with skepticism and disdain—you silently vow to show her just how long you can go without her help."
-msgstr ""
+msgstr "Airyn vous toise avec scepticisme et dédain. Vous vous jurez en silence de lui montrer combien de temps vous pouvez tenir sans son aide."
 
+# Traduction IA – à relire
 #: airyn_air/hold_breath/0/1/s/0 airyn_air/hold_breath/0/g-0/12/s/0 airyn_air/hold_breath/0/g-1/23/s/0 airyn_air/hold_breath/0/g-2/20/s/0 airyn_air/hold_breath/0/g-3/12/s/0
 msgctxt "Choix"
 msgid "<i>Gasp for breath.</i>"
-msgstr ""
+msgstr "<i>Chercher son souffle.</i>"
 
+# Traduction IA – à relire
 #: airyn_air/hold_breath/0/g-1/0
 msgctxt "Narrator"
 msgid "Airyn lifts a finger to her lips, poking idly at them as she watches you."
-msgstr ""
+msgstr "Airyn porte un doigt à ses lèvres, les tapotant distraitement tout en vous observant."
 
+# Traduction IA – à relire
 #: airyn_air/hold_breath/0/g-1/8 airyn_air/airyn_hate_path/0/c-1/15/c-0/15/c-0/7
 msgctxt "Airyn"
 msgid "Hm."
-msgstr ""
+msgstr "Hm."
 
+# Traduction IA – à relire
 #: airyn_air/hold_breath/0/g-2/0
 msgctxt "Narrator"
 msgid "She raises a brow—it seems like you're beginning to catch her notice now."
-msgstr ""
+msgstr "Elle hausse un sourcil : on dirait que vous commencez à attirer son attention."
 
+# Traduction IA – à relire
 #: airyn_air/hold_breath/0/g-2/8
 msgctxt "Airyn"
 msgid "Now this... this is not bad."
-msgstr ""
+msgstr "Voilà qui... voilà qui n'est pas mal."
 
+# Traduction IA – à relire
 #: airyn_air/hold_breath/0/g-3/0
 msgctxt "Airyn"
 msgid "I'm listening..."
-msgstr ""
+msgstr "Je t'écoute..."
 
+# Traduction IA – à relire
 #: airyn_air/gasp/0/0
 msgctxt "Narrator"
 msgid "You can't take it any longer—you gasp for breath, your chest heaving as you do your best to recover."
-msgstr ""
+msgstr "Vous n'en pouvez plus : vous cherchez votre souffle, la poitrine haletante, en faisant de votre mieux pour récupérer."
 
+# Traduction IA – à relire
 #: airyn_air/gasp/0/8
 msgctxt "Narrator"
 msgid "Airyn grants you a rare smile, small but dazzling all the same."
-msgstr ""
+msgstr "Airyn vous accorde un rare sourire, discret mais éblouissant malgré tout."
 
+# Traduction IA – à relire
 #: airyn_air/gasp/0/16
 msgctxt "Airyn"
 msgid "Well done, human. I must say I'm impressed with the spectacle."
-msgstr ""
+msgstr "Bien joué, {{humain|humaine|humain·e}}. Je dois avouer que le spectacle m'a impressionnée."
 
+# Traduction IA – à relire
 #: airyn_air/gasp/0/27
 msgctxt "Airyn"
 msgid "Still you must know that I hold all the power in this relationship."
-msgstr ""
+msgstr "Mais tu dois savoir que c'est moi qui détiens tout le pouvoir dans cette relation."
 
+# Traduction IA – à relire
 #: airyn_air/gasp/0/38 airyn_air/gasp_fail/0/27 airyn_air/breath_success/0/g-0/24
 msgctxt "Airyn"
 msgid "You must show me you can be silent and thoughtful. As always, I listen, I hear, I see, I breathe you."
-msgstr ""
+msgstr "Tu dois me prouver que tu sais être {{silencieux|silencieuse|silencieux·se}} et {{réfléchi|réfléchie|réfléchi·e}}. Comme toujours, je t'écoute, je t'entends, je te vois, je te respire."
 
+# Traduction IA – à relire
 #: airyn_air/gasp/0/g-0/0 airyn_air/gasp_fail/0/g-0/0
 msgctxt "Airyn"
 msgid "Keep that in mind if you decide to speak with me again."
-msgstr ""
+msgstr "Garde-le à l'esprit si tu décides de me reparler."
 
+# Traduction IA – à relire
 #: airyn_air/gasp_fail/0/0
 msgctxt "Narrator"
 msgid "You release the breath you were holding with an undignified gasp, pressing a hand to your chest as you desperately try to recover. Airyn looks positively disgusted in her detached way."
-msgstr ""
+msgstr "Vous relâchez votre souffle dans un hoquet peu digne, une main pressée sur la poitrine, en essayant désespérément de récupérer. Airyn a l'air franchement dégoûtée, à sa manière détachée."
 
+# Traduction IA – à relire
 #: airyn_air/gasp_fail/0/8
 msgctxt "Airyn"
 msgid "Hm. Typical of your kind - a few seconds without my presence is enough to instill panic."
-msgstr ""
+msgstr "Hm. Typique de ton espèce : quelques secondes sans ma présence suffisent à semer la panique."
 
+# Traduction IA – à relire
 #: airyn_air/gasp_fail/0/19
 msgctxt "Airyn"
 msgid "A worthy attempt, but it falls short."
-msgstr ""
+msgstr "Une tentative louable, mais insuffisante."
 
+# Traduction IA – à relire
 #: airyn_air/gasp_fail/0/c-0/13
 msgctxt "Airyn"
 msgid "Yes, like that."
-msgstr ""
+msgstr "Oui, exactement ainsi."
 
+# Traduction IA – à relire
 #: airyn_air/gasp_fail/0/g-0/8
 msgctxt "Airyn"
 msgid "Goodbye."
-msgstr ""
+msgstr "Au revoir."
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/0
 msgctxt "Narrator"
 msgid "Airyn holds a hand up, commanding you with what almost feels like a touch of concern."
-msgstr ""
+msgstr "Airyn lève une main pour vous arrêter, avec ce qui ressemble presque à une pointe d'inquiétude."
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/8
 msgctxt "Airyn"
 msgid "All right, all right! Stop this at once!"
-msgstr ""
+msgstr "Ça suffit, ça suffit ! Arrête ça tout de suite !"
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/20/s/0
 msgctxt "Choix"
 msgid "Gotcha there, Airyn."
-msgstr ""
+msgstr "Je t'ai bien eue, Airyn."
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/c-0/13 airyn_air/breath_success/0/c-1/7
 msgctxt "Narrator"
 msgid "You let out the breath you were holding, but even though your heart rate has quickened and your chest heaves you still manage to hold onto your dignity. Airyn looks pleased."
-msgstr ""
+msgstr "Vous relâchez votre souffle, et même si votre cœur s'est emballé et que votre poitrine se soulève, vous parvenez à garder votre dignité. Airyn a l'air satisfaite."
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/c-0/21
 msgctxt "Airyn"
 msgid "Take a gust of wind of mine, and desist your asphyxiative tendencies."
-msgstr ""
+msgstr "Prends donc une bouffée de moi, et cesse ces penchants asphyxiants."
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/g-0/0
 msgctxt "Airyn"
 msgid "I'm impressed, human. Quite impressed."
-msgstr ""
+msgstr "Je suis impressionnée, {{humain|humaine|humain·e}}. Fort impressionnée."
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/g-0/8
 msgctxt "Airyn"
 msgid "But this does not mean that my predilections have changed."
-msgstr ""
+msgstr "Mais cela ne signifie pas que mes inclinations ont changé."
 
+# Traduction IA – à relire
 #: airyn_air/breath_success/0/g-0/16
 msgctxt "Airyn"
 msgid "When you return, make sure you have shown me enough that you can refrain from quick-witted speech."
-msgstr ""
+msgstr "Quand tu reviendras, veille à m'avoir suffisamment prouvé que tu sais t'abstenir de tes discours spirituels."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/6
 msgctxt "Airyn"
 msgid "You return again? Why?"
-msgstr ""
+msgstr "Encore toi ? Pourquoi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/14/s/0
 msgctxt "Choix"
 msgid "I thought I was doing okay with the no talking thing."
-msgstr ""
+msgstr "Je pensais m'en sortir pas mal avec le coup du silence."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/15/s/0
 msgctxt "Choix"
 msgid "I was curious as to how you felt about me."
-msgstr ""
+msgstr "Je me demandais ce que tu ressentais pour moi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/0
 msgctxt "Airyn"
 msgid "Truly?"
-msgstr ""
+msgstr "Vraiment ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/8/b/1
 msgctxt "Airyn"
 msgid "You have not been doing nearly enough."
-msgstr ""
+msgstr "Tu es encore loin d'en faire assez."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/11/b/1
 msgctxt "Airyn"
 msgid "I have seen you do some. Keep going."
-msgstr ""
+msgstr "Je t'ai vu{{|e|·e}} en faire un peu. Continue."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/14/b/1
 msgctxt "Airyn"
 msgid "I have been pleased. Though it is still not enough."
-msgstr ""
+msgstr "J'ai été satisfaite. Mais ce n'est pas encore assez."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/17
 msgctxt "Airyn"
 msgid "But you should not be keeping quiet for my own approval. The practice of mindfulness is its own reward."
-msgstr ""
+msgstr "Cela dit, tu ne devrais pas te taire pour obtenir mon approbation. La pleine conscience est sa propre récompense."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "Just wanted to see how to get through to you."
-msgstr ""
+msgstr "Je voulais juste voir comment t'atteindre."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/7
 msgctxt "Airyn"
 msgid "Do you enjoy gazing at my form? Is that it?"
-msgstr ""
+msgstr "Tu aimes contempler ma forme ? C'est cela ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Yes, you're beautiful."
-msgstr ""
+msgstr "Oui, t'es magnifique."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "No, I like the way you talk about your own ideas."
-msgstr ""
+msgstr "Non, j'aime ta façon de parler de tes idées."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-0/7
 msgctxt "Airyn"
 msgid "Then gaze as it blows you out of your nonsensical obsession with appearance forthwith."
-msgstr ""
+msgstr "Alors contemple-la tandis qu'elle souffle sur-le-champ ton obsession absurde pour l'apparence."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/7
 msgctxt "Airyn"
 msgid "These ideas are not my own. They are merely the truth plucked from existence and communicated clearly."
-msgstr ""
+msgstr "Ces idées ne sont pas les miennes. Ce ne sont que des vérités cueillies dans l'existence et énoncées clairement."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "That's not true. Your perspective is inherently filtered through your own being."
-msgstr ""
+msgstr "C'est faux. Ton point de vue passe forcément par le filtre de ton propre être."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Regardless, they really make me think."
-msgstr ""
+msgstr "Peu importe, elles me font vraiment réfléchir."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/15/c-0/7
 msgctxt "Airyn"
 msgid "Hm. I will think on this."
-msgstr ""
+msgstr "Hm. Je méditerai là-dessus."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/15/c-1/7
 msgctxt "Airyn"
 msgid "Yet you continue to <i>speak</i> to me about this thinking that you are doing."
-msgstr ""
+msgstr "Et pourtant tu continues de me <i>parler</i> de ces réflexions que tu mènes."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/15/c-1/15
 msgctxt "Airyn"
 msgid "I have no need for this. I expect the silent gratitude that is becoming of one of my powers."
-msgstr ""
+msgstr "Je n'ai que faire de cela. J'attends la gratitude silencieuse qui sied à une entité de ma puissance."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/15/c-1/23
 msgctxt "Airyn"
 msgid "I expect living beings not wasting my gift with dialogue."
-msgstr ""
+msgstr "J'attends des êtres vivants qu'ils ne gaspillent pas mon don en bavardages."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-0/c-2/15/c-1/15/c-1/31
 msgctxt "Airyn"
 msgid "And this placating of me makes my molecules lose vibration, making me cold."
-msgstr ""
+msgstr "Et ces flatteries font perdre leur vibration à mes molécules, ce qui me refroidit."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "I want to talk to you more."
-msgstr ""
+msgstr "Je veux te parler davantage."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-1/2/s/0
 msgctxt "Choix"
 msgid "See you around then."
-msgstr ""
+msgstr "À plus tard, alors."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_third/0/g-1/c-4/7
 msgctxt "Airyn"
 msgid "Indeed."
-msgstr ""
+msgstr "En effet."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/6
 msgctxt "Airyn"
 msgid "I grow weary of these encounters, human."
-msgstr ""
+msgstr "Ces rencontres me lassent, {{humain|humaine|humain·e}}."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/14/s/0
 msgctxt "Choix"
 msgid "I'm sorry?"
-msgstr ""
+msgstr "Pardon ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/15/s/0
 msgctxt "Choix"
 msgid "I just want to know... how do we stand with each other?"
-msgstr ""
+msgstr "Je veux juste savoir... on en est où, toi et moi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-0/7
 msgctxt "Airyn"
 msgid "You can show me a better apology by not wasting breath."
-msgstr ""
+msgstr "Tu me présenterais de meilleures excuses en ne gaspillant pas ton souffle."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/15
 msgctxt "Airyn"
 msgid "As in... a 'score' of some form?"
-msgstr ""
+msgstr "Tu veux dire... une sorte de « score » ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "Yeah, that."
-msgstr ""
+msgstr "Oui, voilà."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/15/b/1
 msgctxt "Airyn"
 msgid "Not one single time have you taken breath. Breathe, child, breathe."
-msgstr ""
+msgstr "Pas une seule fois tu n'as pris le temps de respirer. Respire, enfant, respire."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/18/b/1
 msgctxt "Airyn"
 msgid "I have seen you take breath only once. It is a start, however unpromising."
-msgstr ""
+msgstr "Je ne t'ai vu{{|e|·e}} respirer qu'une seule fois. C'est un début, si peu prometteur soit-il."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/21/b/1
 msgctxt "Airyn"
 msgid "Two breaths become a pattern. You must continue this pattern."
-msgstr ""
+msgstr "Deux respirations forment un motif. Tu dois perpétuer ce motif."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/24/b/1
 msgctxt "Airyn"
 msgid "You have not been doing nearly any mindful breathing. Merely three times by my count."
-msgstr ""
+msgstr "Tu n'as quasiment pas pratiqué la respiration consciente. Trois fois à peine, selon mes comptes."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/27/b/1
 msgctxt "Airyn"
 msgid "The promise of your inner awakening bears fruit. Four breaths - continue."
-msgstr ""
+msgstr "La promesse de ton éveil intérieur porte ses fruits. Quatre respirations. Continue."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/30/b/1
 msgctxt "Airyn"
 msgid "I am beginning to feel your mindfulness awaken. Five breaths shows good promise."
-msgstr ""
+msgstr "Je commence à sentir ta pleine conscience s'éveiller. Cinq respirations, c'est prometteur."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/33/b/1
 msgctxt "Airyn"
 msgid "I have seen you do much mindful breathing, but not nearly enough. Six times is not nearly enough."
-msgstr ""
+msgstr "Je t'ai vu{{|e|·e}} beaucoup pratiquer la respiration consciente, mais pas assez. Six fois, c'est loin d'être assez."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/36/b/1
 msgctxt "Airyn"
 msgid "Mmm... Seven breaths. It... makes a difference."
-msgstr ""
+msgstr "Mmm... Sept respirations. Cela... fait une différence."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/39/b/1
 msgctxt "Airyn"
 msgid "It is true you have done much mindful breathing, and for this I am grateful. But eight times is still not yet enough for my tastes."
-msgstr ""
+msgstr "Il est vrai que tu as beaucoup pratiqué la respiration consciente, et je t'en suis reconnaissante. Mais huit fois, ce n'est pas encore assez à mon goût."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/c-1/23/c-0/42/b/1
 msgctxt "Airyn"
 msgid "Do I count nine separate silences from you, human? I am quite nearly pleased."
-msgstr ""
+msgstr "Est-ce bien neuf silences distincts que je compte, {{humain|humaine|humain·e}} ? Me voilà presque satisfaite."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/0
 msgctxt "Airyn"
 msgid "Does this satisfy you?"
-msgstr ""
+msgstr "Cela te satisfait-il ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "This is tedious and weird."
-msgstr ""
+msgstr "C'est pénible et bizarre."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "Sorry, I didn't quite get it."
-msgstr ""
+msgstr "Pardon, j'ai pas bien compris."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-2/7
 msgctxt "Airyn"
 msgid "Good."
-msgstr ""
+msgstr "Bien."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-3/7
 msgctxt "Airyn"
 msgid "A direct attack."
-msgstr ""
+msgstr "Une attaque frontale."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-3/15
 msgctxt "Airyn"
 msgid "The salvo passes through me, echoes off the walls behind me, and passes back to your own self."
-msgstr ""
+msgstr "La salve me traverse, résonne sur les murs derrière moi, et te revient en pleine face."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-3/23/0/s/0
 msgctxt "Choix"
 msgid "You're rubber, I'm glue, everything I say bounces back to me?"
-msgstr ""
+msgstr "C'est celui qui dit qui l'est... donc c'est moi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-3/23/1/s/0
 msgctxt "Choix"
 msgid "Sorry, Airyn."
-msgstr ""
+msgstr "Pardon, Airyn."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-3/23/c-0/7
 msgctxt "Airyn"
 msgid "I'm air."
-msgstr ""
+msgstr "Je suis l'air."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-3/23/c-0/15 airyn_air/airyn_fourth/0/g-0/c-3/23/c-1/7
 msgctxt "Airyn"
 msgid "Leave."
-msgstr ""
+msgstr "Va-t'en."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-4/10
 msgctxt "Airyn"
 msgid "I understand. You mock me."
-msgstr ""
+msgstr "Je comprends. Tu te moques de moi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-4/18
 msgctxt "Airyn"
 msgid "One day I will leave you, gasping for my presence. And I will not return."
-msgstr ""
+msgstr "Un jour, je te quitterai, et tu suffoqueras en me cherchant. Et je ne reviendrai pas."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-4/60 airyn_air/airyn_hate_path/0/c-0/49 airyn_air/airyn_love_path_start/0/c-0/18/g-0/27/g-0/53
 msgctxt "Reggie"
 msgid "Does she take your breath away or <i>what</i>?!"
-msgstr ""
+msgstr "Elle te coupe le souffle ou <i>quoi</i> ?!"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_fourth/0/g-0/c-4/68 airyn_air/airyn_love_path_start/0/c-0/18/g-0/27/g-0/61
 msgctxt "Reggie"
 msgid "Too bad you sucked the energy right out of her!"
-msgstr ""
+msgstr "Dommage que tu lui aies complètement pompé l'air !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_four_b/0
 msgctxt "Airyn"
 msgid "I leave you to your remaining days. I am always listening, always recycled with every breath."
-msgstr ""
+msgstr "Je te laisse à tes derniers jours. J'écoute toujours, toujours recyclée à chaque respiration."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/0
 msgctxt "Airyn"
 msgid "How many times I ask you to leave me be? I use my own precious essence to communicate to you to take a moment, take in each breath and not waste it on ceaseless prattle."
-msgstr ""
+msgstr "Combien de fois t'ai-je demandé de me laisser en paix ? J'use de ma précieuse essence pour te demander de prendre un instant, d'inspirer chaque souffle sans le gaspiller en bavardages incessants."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/8
 msgctxt "Airyn"
 msgid "Yet it falls against your being like a gale against a crag."
-msgstr ""
+msgstr "Et pourtant mes paroles se heurtent à toi comme une bourrasque contre un rocher."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/16/s/0
 msgctxt "Choix"
 msgid "I don't like being quiet, okay?"
-msgstr ""
+msgstr "J'aime pas me taire, OK ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/17/s/0
 msgctxt "Choix"
 msgid "You're being unfair."
-msgstr ""
+msgstr "T'es injuste."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-0/7
 msgctxt "Airyn"
 msgid "Then I don't like you."
-msgstr ""
+msgstr "Alors je ne t'aime pas."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-0/57
 msgctxt "Reggie"
 msgid "Too bad you sucked the energy out of her!"
-msgstr ""
+msgstr "Dommage que tu lui aies pompé l'air !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-1/7
 msgctxt "Airyn"
 msgid "Oh? Your manner tells me you have meaning behind your words at last."
-msgstr ""
+msgstr "Oh ? Ta façon d'être me dit que tes paroles ont enfin un sens."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I have only a limited time to speak my words, to use my breath."
-msgstr ""
+msgstr "Je n'ai qu'un temps limité pour dire mes mots, pour utiliser mon souffle."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-1/15/c-0/7
 msgctxt "Airyn"
 msgid "Go on."
-msgstr ""
+msgstr "Continue."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "But with these words I am able to change the world around me. They are powerful."
-msgstr ""
+msgstr "Mais avec ces mots, je peux changer le monde qui m'entoure. Ils sont puissants."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-1/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You have given me life. And life should not be passively lived."
-msgstr ""
+msgstr "Tu m'as donné la vie. Et la vie ne doit pas être vécue passivement."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-1/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "My thoughts cry out to be spoken."
-msgstr ""
+msgstr "Mes pensées réclament d'être dites."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/c-1/15/c-0/15/c-0/15/g-0/0
 msgctxt "Airyn"
 msgid "You speak truly. I feel as if you do understand the importance of your breath in a transformative way I did not expect."
-msgstr ""
+msgstr "Tu dis vrai. J'ai le sentiment que tu comprends l'importance de ton souffle, d'une manière transformatrice que je n'attendais pas."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/g-0/3
 msgctxt "Airyn"
 msgid "Human, you may enjoy my company as you wish."
-msgstr ""
+msgstr "{{Humain|Humaine|Humain·e}}, tu peux profiter de ma compagnie autant que tu le souhaites."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/g-0/11/s/0
 msgctxt "Choix"
 msgid "I'd like to be your lover."
-msgstr ""
+msgstr "J'aimerais être ton amant{{|e|·e}}."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/g-0/12/s/0
 msgctxt "Choix"
 msgid "Can we be friends?"
-msgstr ""
+msgstr "On peut être amis ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/g-0/c-2/7
 msgctxt "Airyn"
 msgid "In a silent way, then. Because a goddess has her preferences as well."
-msgstr ""
+msgstr "En silence, alors. Car une déesse a, elle aussi, ses préférences."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_path/0/g-0/c-3/7
 msgctxt "Airyn"
 msgid "Of course. I will accompany you til the end of your days."
-msgstr ""
+msgstr "Bien sûr. Je t'accompagnerai jusqu'à la fin de tes jours."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/0
 msgctxt "Airyn"
 msgid "I have taken notice of your exploits."
-msgstr ""
+msgstr "J'ai remarqué tes exploits."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/8
 msgctxt "Airyn"
 msgid "Lately you have been choosing to remain still. To breathe."
-msgstr ""
+msgstr "Ces derniers temps, tu as choisi de rester immobile. De respirer."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/16
 msgctxt "Airyn"
 msgid "To take in the world around you."
-msgstr ""
+msgstr "D'accueillir le monde qui t'entoure."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/24
 msgctxt "Airyn"
 msgid "This pleases me."
-msgstr ""
+msgstr "Cela me plaît."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/32/s/0
 msgctxt "Choix"
 msgid "I didn't mean it. I accidentally chose not to speak."
-msgstr ""
+msgstr "C'était pas exprès. J'ai choisi de me taire par accident."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/7
 msgctxt "Airyn"
 msgid "You... what?"
-msgstr ""
+msgstr "Tu... quoi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "I take back all those times that I said dot dot dot or whatever."
-msgstr ""
+msgstr "Je retire toutes les fois où j'ai dit « point point point » ou je sais pas quoi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/1/s/0
 msgctxt "Choix"
 msgid "I didn't know you were listening! That's weird!"
-msgstr ""
+msgstr "Je savais pas que tu écoutais ! C'est bizarre !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/g-0/0
 msgctxt "Airyn"
 msgid "I... I..."
-msgstr ""
+msgstr "Je... je..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/g-0/8
 msgctxt "Airyn"
 msgid "Never have I been treated with such disrespect. You had me taking heed of your every exhalation. The silence you gave was exquisite."
-msgstr ""
+msgstr "Jamais on ne m'a traitée avec un tel manque de respect. Tu m'as fait guetter chacune de tes expirations. Le silence que tu m'offrais était exquis."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/g-0/19
 msgctxt "Airyn"
 msgid "And yet it was all for laughs? Not to give favor to your goddess?"
-msgstr ""
+msgstr "Et tout cela n'était qu'une plaisanterie ? Pas un hommage à ta déesse ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/g-0/27/0/s/0
 msgctxt "Choix"
 msgid "Yeah, you're kinda mean."
-msgstr ""
+msgstr "Ouais, t'es un peu méchante."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/g-0/27/1/s/0
 msgctxt "Choix"
 msgid "I just didn't know okay?"
-msgstr ""
+msgstr "Je savais pas, d'accord ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/g-0/27/g-0/3
 msgctxt "Airyn"
 msgid "I am speechless... and not in the way that I enjoy."
-msgstr ""
+msgstr "J'en reste sans voix... et pas de la manière qui me plaît."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_path_start/0/c-0/18/g-0/27/g-0/11
 msgctxt "Airyn"
 msgid "Human, keep your breath to yourself. I will stay for now but quit you at your grave."
-msgstr ""
+msgstr "{{Humain|Humaine|Humain·e}}, garde ton souffle pour toi. Je resterai pour l'instant, mais je te quitterai sur ta tombe."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love/0/0
 msgctxt "Narrator"
 msgid "You fall silent, choosing not to waste your breath, and Airyn too falls silent."
-msgstr ""
+msgstr "Vous vous taisez, choisissant de ne pas gaspiller votre souffle, et Airyn se tait à son tour."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love/0/g-4/0
 msgctxt "Narrator"
 msgid "You could almost swear you can see the conflict within Airyn—she evaluates you in the silence, each of you unyielding. Could this be it? The culmination of whatever has been building between the two of you?"
-msgstr ""
+msgstr "Vous pourriez presque jurer voir le conflit qui l'agite : elle vous jauge dans le silence, aucun de vous deux ne cédant. Serait-ce le moment ? L'aboutissement de ce qui se construit entre vous deux ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love/0/g-4/17/s/0
 msgctxt "Choix"
 msgid "Wait... are you falling in love with me?"
-msgstr ""
+msgstr "Attends... tu es en train de tomber amoureuse de moi ?"
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/0
 msgctxt "Airyn"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/8/s/0
 msgctxt "Choix"
 msgid "Can we be friends instead?"
-msgstr ""
+msgstr "On pourrait plutôt être amis ?"
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/9/s/0
 msgctxt "Choix"
 msgid "Okay. Just checking."
-msgstr ""
+msgstr "D'accord. Je vérifiais, c'est tout."
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/g-0/0
 msgctxt "Airyn"
 msgid "Friends?"
-msgstr ""
+msgstr "Amis ?"
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Yes, friends."
-msgstr ""
+msgstr "Oui, amis."
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "I was feeling that you were coming on to me, and I'm not comfortable with that."
-msgstr ""
+msgstr "J'avais l'impression que tu me draguais, et ça me met mal à l'aise."
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/g-1/0
 msgctxt "Airyn"
 msgid "I... I see."
-msgstr ""
+msgstr "Je... je vois."
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/g-1/8
 msgctxt "Airyn"
 msgid "Yes. Yes, I was falling for you. I get quite charmed by silence."
-msgstr ""
+msgstr "Oui. Oui, j'étais en train de tomber sous ton charme. Le silence me séduit énormément."
 
+# Traduction IA – à relire
 #: airyn_air/friends_backout/0/g-1/16
 msgctxt "Airyn"
 msgid "But I am not a cruel goddess, so as you wish. I will stuff my feelings into my being and treat you as a companion."
-msgstr ""
+msgstr "Mais je ne suis pas une déesse cruelle, alors qu'il en soit ainsi. J'enfouirai mes sentiments au fond de mon être et te traiterai en compagnon{{|ne|·ne}}."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_return/0/9/s/0 airyn_air/airyn_friend_return/0/10/s/0
 msgctxt "Choix"
 msgid "Airyn, I want to bring you to life."
-msgstr ""
+msgstr "Airyn, je veux te donner vie."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_love_return/0/c-0/7
 msgctxt "Airyn"
 msgid "The pleasure is all mine."
-msgstr ""
+msgstr "Tout le plaisir est pour moi."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_friend_return/0/8/s/0
 msgctxt "Choix"
 msgid "Hey friend-o!"
-msgstr ""
+msgstr "Salut, l'amie !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_friend_return/0/c-1/7
 msgctxt "Airyn"
 msgid "Exquisite."
-msgstr ""
+msgstr "Exquis."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_return/0/8/s/0
 msgctxt "Choix"
 msgid "Ugh so dumb."
-msgstr ""
+msgstr "Pff, trop débile."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_return/0/9/s/0
 msgctxt "Choix"
 msgid "... (USE POISE CANDY)"
-msgstr ""
+msgstr "... (UTILISER UN BONBON DE PRESTANCE)"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_return/0/c-0/7
 msgctxt "Narrator"
 msgid "Impervious of your feelings towards her, Airyn whisks you away."
-msgstr ""
+msgstr "Insensible à ce que vous ressentez pour elle, Airyn vous emporte dans un tourbillon."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_hate_return/0/c-1/21/c-0/15/c-0/7
 msgctxt "Airyn"
 msgid "Thank you for understanding."
-msgstr ""
+msgstr "Merci de ta compréhension."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/6
 msgctxt "Airyn"
 msgid "To taste breath as you do? Intriguing..."
-msgstr ""
+msgstr "Goûter au souffle comme toi ? Intrigant..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/14
 msgctxt "Airyn"
 msgid "It would mean unshackling myself from immortality."
-msgstr ""
+msgstr "Cela signifierait renoncer à mon immortalité."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/22/s/0
 msgctxt "Choix"
 msgid "But even you said you will eventually disperse into nothingness as you are."
-msgstr ""
+msgstr "Mais tu disais toi-même que tu finirais par te disperser dans le néant, telle que tu es."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/23/s/0
 msgctxt "Choix"
 msgid "Please?"
-msgstr ""
+msgstr "S'il te plaît ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/24/s/0
 msgctxt "Choix"
 msgid "Immortality is overrated."
-msgstr ""
+msgstr "L'immortalité, c'est surfait."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/c-0/7
 msgctxt "Airyn"
 msgid "...that's correct. I shudder as I think of that fate."
-msgstr ""
+msgstr "... c'est exact. Je frémis en songeant à ce destin."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/g-0/0
 msgctxt "Airyn"
 msgid "Perhaps living as a human will give me a new perspective."
-msgstr ""
+msgstr "Peut-être que vivre en humaine m'apportera une nouvelle perspective."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/g-0/8
 msgctxt "Airyn"
 msgid "And new feelings."
-msgstr ""
+msgstr "Et de nouveaux sentiments."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/g-0/16
 msgctxt "Airyn"
 msgid "Do you have the necessary ingredients?"
-msgstr ""
+msgstr "As-tu les ingrédients nécessaires ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "Yes, I do."
-msgstr ""
+msgstr "Oui, je les ai."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/g-0/34/s/0
 msgctxt "Choix"
 msgid "No, not yet."
-msgstr ""
+msgstr "Non, pas encore."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realize_start/0/g-0/c-4/13
 msgctxt "Airyn"
 msgid "Then I will wait as I always have."
-msgstr ""
+msgstr "Alors j'attendrai, comme je l'ai toujours fait."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_commit_return/0/0
 msgctxt "Airyn"
 msgid "Shall we commence the process?"
-msgstr ""
+msgstr "Commençons-nous le processus ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_commit_return/0/17/s/0
 msgctxt "Choix"
 msgid "Let's begin."
-msgstr ""
+msgstr "Allons-y."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_commit_return/0/18/s/0
 msgctxt "Choix"
 msgid "Not yet..."
-msgstr ""
+msgstr "Pas encore..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/6
 msgctxt "Skylar"
 msgid "Wow, Airyn is a frosty one. I am amazed at your love prowess!"
-msgstr ""
+msgstr "Wow, Airyn est vraiment glaciale. Je suis bluffée par tes talents en amour !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/22
 msgctxt "Skylar"
 msgid "Yeah, hi to you too?"
-msgstr ""
+msgstr "Ouais, salut à toi aussi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/33/b/1
 msgctxt "Skylar"
 msgid "Anyway I'm gonna get started with all my science stuff. Let's make some wind!"
-msgstr ""
+msgstr "Bref, je lance tout mon bazar scientifique. Faisons du vent !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/34/b/1
 msgctxt "Skylar"
 msgid "From air to human... seems difficult but I hope this works out for our first one..."
-msgstr ""
+msgstr "De l'air à l'humain... ça a l'air difficile, mais j'espère que ça va marcher pour notre premier essai..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/40
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely a puff of air becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était qu'une simple bouffée d'air devient..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/62
 msgctxt "Narrator"
 msgid "Gorgeous and still retaining that phosphorescent appeal, it's Airyn, now reborn as a human."
-msgstr ""
+msgstr "Superbe, et toujours dotée de cet attrait phosphorescent, voici Airyn, renée en humaine."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/67
 msgctxt "Narrator"
 msgid "You gaze into each other's eyes, and there's only one thing to be said."
-msgstr ""
+msgstr "Vous vous regardez dans les yeux, et il n'y a qu'une chose à dire."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/c-0/15
 msgctxt "Airyn"
 msgid "I FEEL AMAZING!!!"
-msgstr ""
+msgstr "JE ME SENS INCROYABLEMENT BIEN !!!"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/c-0/35
 msgctxt "Narrator"
 msgid "In fact, one of the reasons Airyn was so cold was because she was at the mercy of the elements at all times. Completely wrapped up in the whims of other elements, she believed that she could not act on her own."
-msgstr ""
+msgstr "En fait, si Airyn était si froide, c'était entre autres parce qu'elle était sans cesse à la merci des éléments. Entièrement soumise aux caprices des autres éléments, elle se croyait incapable d'agir par elle-même."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/c-0/43
 msgctxt "Airyn"
 msgid "I can do... anything?"
-msgstr ""
+msgstr "Je peux faire... n'importe quoi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/c-0/51
 msgctxt "Narrator"
 msgid "Airyn lifts her arms, spins around, and even does an incredible backflip!"
-msgstr ""
+msgstr "Airyn lève les bras, tourbillonne sur elle-même et enchaîne même un salto arrière incroyable !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/c-0/62
 msgctxt "Narrator"
 msgid "And all at once, she speaks."
-msgstr ""
+msgstr "Et soudain, elle parle."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/c-0/70
 msgctxt "Airyn"
 msgid "My love! My love my love my love oh boy oh boy it feels awfully nice to speak."
-msgstr ""
+msgstr "Mon amour ! Mon amour mon amour mon amour oh là là oh là là que c'est bon de parler."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/c-0/78
 msgctxt "Airyn"
 msgid "I get it! I get it now! I can doooooooooooooooooo...."
-msgstr ""
+msgstr "J'ai compris ! J'ai compris maintenant ! Je peux tout faiiiiiiiiiiiiiiiiiiiiiire..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "... me?"
-msgstr ""
+msgstr "... avec moi ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "I can't believe this is who you became!"
-msgstr ""
+msgstr "J'arrive pas à croire que c'est ça que tu es devenue !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "I'm not so sure this was a good idea."
-msgstr ""
+msgstr "Je suis pas {{sûr|sûre|sûr·e}} que c'était une bonne idée."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/c-1/10
 msgctxt "Airyn"
 msgid "Goodness yes. My stars, yes! I want to see what this body can do!"
-msgstr ""
+msgstr "Oh que oui. Par toutes les étoiles, oui ! Je veux voir ce que ce corps sait faire !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/c-1/21
 msgctxt "Narrator"
 msgid "Airyn is a spirited one, and she is eager to explore all that her new body can do."
-msgstr ""
+msgstr "Airyn est pleine d'entrain, et elle a hâte d'explorer tout ce dont son nouveau corps est capable."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/c-1/29
 msgctxt "Narrator"
 msgid "Breath play becomes her favorite, and the two of you gasp for air with incredible satisfaction."
-msgstr ""
+msgstr "Les jeux de souffle deviennent son passe-temps préféré, et vous haletez tous les deux avec une satisfaction incroyable."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/c-2/7
 msgctxt "Airyn"
 msgid "Me neither! Eons spent being an absolute toad to everyone I met. For what?"
-msgstr ""
+msgstr "Moi non plus ! Des éternités passées à être une vraie peau de vache avec tous ceux que je croisais. Pour quoi faire ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-0/c-3/7
 msgctxt "Airyn"
 msgid "No it was the best idea! The best!"
-msgstr ""
+msgstr "Non, c'était la meilleure idée ! La meilleure !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/0
 msgctxt "Narrator"
 msgid "Airyn speaks to you, to the air, to the couch, to the people she sees on the streets."
-msgstr ""
+msgstr "Airyn parle à vous, à l'air, au canapé, aux gens qu'elle croise dans la rue."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/8
 msgctxt "Airyn"
 msgid "<w>Hey hey hey hey hey hey hey</w>"
-msgstr ""
+msgstr "<w>Hé hé hé hé hé hé hé</w>"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/19
 msgctxt "Airyn"
 msgid "Hey everybody talking is really really fun huh?"
-msgstr ""
+msgstr "Hé tout le monde, parler c'est vraiment vraiment trop génial, hein ?"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/33
 msgctxt "Narrator"
 msgid "With boundless energy, Airyn embarks on the career that gives her the most joy..."
-msgstr ""
+msgstr "Débordante d'énergie, Airyn se lance dans la carrière qui lui apporte le plus de joie..."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/41
 msgctxt "Narrator"
 msgid "Auctioneering."
-msgstr ""
+msgstr "Commissaire-priseuse."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/49
 msgctxt "Airyn"
 msgid "We've-got-lot-405-lot-405-staying-alive-with-405-bidding-starts-at-three-do-I-hear-a-threepointone-do-I-hear-a-yes-it's-all-the-way-to-four-do-I-hear-a-five-anyone-for-five-no-SOLD!"
-msgstr ""
+msgstr "On-a-le-lot-405-le-lot-405-qui-respire-encore-avec-le-405-les-enchères-démarrent-à-trois-qui-dit-trois-virgule-un-qui-dit-oui-on-monte-à-quatre-qui-dit-cinq-quelqu'un-pour-cinq-non-ADJUGÉ !"
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/60
 msgctxt "Narrator"
 msgid "She moves to the city where the best auctions are held, and rents an apartment high in the stratosphere."
-msgstr ""
+msgstr "Elle part s'installer dans la ville où se tiennent les meilleures ventes aux enchères, et loue un appartement perché dans la stratosphère."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/68
 msgctxt "Narrator"
 msgid "She is ready to talk your ear off anytime you want to chat."
-msgstr ""
+msgstr "Elle est prête à vous tenir la jambe dès que vous avez envie de discuter."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/79/b/1
 msgctxt "Narrator"
 msgid "As a lover, her energy is unstoppable, and she is always ready for action."
-msgstr ""
+msgstr "En amante, son énergie est inépuisable, et elle est toujours partante."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/82/b/1
 msgctxt "Narrator"
 msgid "As a friend, she always perks your spirits up with long talks that go deep into the night."
-msgstr ""
+msgstr "En amie, elle vous remonte toujours le moral avec de longues conversations qui se prolongent tard dans la nuit."
 
+# Traduction IA – à relire
 #: airyn_air/airyn_realized/0/g-1/85
 msgctxt "Narrator"
 msgid "For her, she is truly happy, for the first time in her limitless existence."
-msgstr ""
+msgstr "Quant à elle, elle est vraiment heureuse, pour la première fois de sa vie sans limites."
