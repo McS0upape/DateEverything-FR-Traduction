@@ -8,1005 +8,1205 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: diana_diary/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "DIARY"
-msgstr ""
+msgstr "JOURNAL INTIME"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/3
 msgctxt "Skylar"
 msgid "Hang on! My Content Aware is going off!"
-msgstr ""
+msgstr "Attends ! Mon Alerte Contenu se déclenche !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/11
 msgctxt "Skylar"
 msgid "Diana, your diary, experiences some mental health concerns that might be too much for some players. Including things like hallucinations, paranoia, extreme mood swings, loss of sense of self, and executive dysfunction."
-msgstr ""
+msgstr "Diana, ton journal intime, présente des troubles de santé mentale qui pourraient être difficiles pour certains joueurs. Notamment des hallucinations, de la paranoïa, des sautes d'humeur extrêmes, une perte du sentiment d'identité et des troubles des fonctions exécutives."
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/19
 msgctxt "Skylar"
 msgid "You cool with that? Or you want to skip it?"
-msgstr ""
+msgstr "Ça te va ? Ou tu préfères passer ?"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/27/s/0
 msgctxt "Choix"
 msgid "Let's skip it please!"
-msgstr ""
+msgstr "Passons, s'il te plaît !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/28/s/0
 msgctxt "Choix"
 msgid "No, I'm okay with this type of stuff."
-msgstr ""
+msgstr "Non, ça me va, ce genre de trucs."
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/7
 msgctxt "Skylar"
 msgid "No worries - hey, Diana!"
-msgstr ""
+msgstr "Pas de souci... Coucou, Diana !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/27
 msgctxt "Narrator"
 msgid "How would you like your relationship with Diana to resolve?"
-msgstr ""
+msgstr "Comment souhaitez-vous que votre relation avec Diana se conclue ?"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/0/s/0
 msgctxt "Choix"
 msgid "Love!"
-msgstr ""
+msgstr "L'amour !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/1/s/0
 msgctxt "Choix"
 msgid "Friendship!"
-msgstr ""
+msgstr "L'amitié !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/2/s/0
 msgctxt "Choix"
 msgid "Hate!"
-msgstr ""
+msgstr "La haine !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-0/7
 msgctxt "Narrator"
 msgid "Diana is elated to find that you love her as much as she believes she does!"
-msgstr ""
+msgstr "Diana est aux anges de découvrir que vous l'aimez autant qu'elle croit vous aimer !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-0/15
 msgctxt "Skylar"
 msgid "It's love!"
-msgstr ""
+msgstr "C'est l'amour !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-0/35 diana_diary/skylar_diana_content/0/c-0/35/c-1/35 diana_diary/skylar_diana_content/0/c-0/35/c-2/35
 msgctxt "Skylar"
 msgid "See you out there on the next one!"
-msgstr ""
+msgstr "On se retrouve au prochain !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-1/7
 msgctxt "Narrator"
 msgid "Diana's pages whirl in a torrent of friendship!"
-msgstr ""
+msgstr "Les pages de Diana tourbillonnent dans un torrent d'amitié !"
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-1/15
 msgctxt "Skylar"
 msgid "Aww... friends forever."
-msgstr ""
+msgstr "Ooh... {{amis|amies|ami·es}} pour la vie."
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-2/7
 msgctxt "Narrator"
 msgid "On the last of Diana's pages - a new entry: enemies."
-msgstr ""
+msgstr "Sur la dernière page de Diana, une nouvelle entrée : ennemis."
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-2/15
 msgctxt "Skylar"
 msgid "Enjoy your... hateship."
-msgstr ""
+msgstr "Profite bien de ta... haine-mitié."
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-0/35/c-2/68 diana_diary/diana_ending_hate/82
 msgctxt "Reggie"
 msgid "We can close the book on this side of your past."
-msgstr ""
+msgstr "On peut tourner la page sur ce pan de ton passé."
 
+# Traduction IA – à relire
 #: diana_diary/skylar_diana_content/0/c-1/7
 msgctxt "Skylar"
 msgid "Carry on, then!"
-msgstr ""
+msgstr "Bon, eh bien, on continue !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/0
 msgctxt "Narrator"
 msgid "A strange figure stands before you, a whirlwind of conflicting energies and vibes. Manic and dignified, friendly and intimidating—she's dressed like some sort of quasi-Victorian text-themed aristocrat."
-msgstr ""
+msgstr "Une étrange silhouette se dresse devant vous, un tourbillon d'énergies et d'ondes contradictoires. Maniaque et digne, amicale et intimidante : elle est habillée comme une sorte d'aristocrate quasi victorienne au thème littéraire."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/8
 msgctxt "Narrator"
 msgid "You couldn't have imagined what the dateviators might make of your thoughts transcribed on paper, but if you could it likely would not have been this."
-msgstr ""
+msgstr "Vous n'auriez jamais pu imaginer ce que les Dateviators feraient de vos pensées couchées sur papier, mais si vous l'aviez pu, ce n'aurait probablement pas été ça."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/16
 msgctxt "Narrator"
 msgid "As you approach her she launches right into what feels like the middle of a one-sided conversation."
-msgstr ""
+msgstr "Quand vous vous approchez, elle se lance directement dans ce qui ressemble au beau milieu d'une conversation à sens unique."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/30
 msgctxt "Diana"
 msgid "Why do you ask?"
-msgstr ""
+msgstr "Pourquoi tu demandes ça ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/38/s/0
 msgctxt "Choix"
 msgid "Hey there, new friend!"
-msgstr ""
+msgstr "Salut, nouvelle amie !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/39/s/0
 msgctxt "Choix"
 msgid "Ask what? I haven't asked anything. Haven't SAID anything."
-msgstr ""
+msgstr "Demande quoi ? J'ai rien demandé. J'ai rien DIT."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/40/s/0
 msgctxt "Choix"
 msgid "Good point."
-msgstr ""
+msgstr "Bonne question."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/0
 msgctxt "Diana"
 msgid "Aaaahhhhh!"
-msgstr ""
+msgstr "Aaaahhhhh !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/8
 msgctxt "Diana"
 msgid "But the blue one. The blue one, and then the butterfly. Why is there so much sand?"
-msgstr ""
+msgstr "Mais le bleu. Le bleu, et puis le papillon. Pourquoi il y a autant de sable ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/0
 msgctxt "Diana"
 msgid "Why is there always sand in places where sand should never be??"
-msgstr ""
+msgstr "Pourquoi il y a toujours du sable là où le sable ne devrait jamais être ??"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/8/s/0
 msgctxt "Choix"
 msgid "Excuse me?"
-msgstr ""
+msgstr "Pardon ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/9/s/0
 msgctxt "Choix"
 msgid "I have no idea what you want from me..."
-msgstr ""
+msgstr "J'ai aucune idée de ce que tu veux de moi..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/10/s/0
 msgctxt "Choix"
 msgid "You are so weird, and I'm totally into it!"
-msgstr ""
+msgstr "T'es tellement bizarre, et j'adore ça !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/11/s/0
 msgctxt "Choix"
 msgid "Wow, I really don't need this craziness right now."
-msgstr ""
+msgstr "Waouh, j'ai vraiment pas besoin de cette folie en ce moment."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/7
 msgctxt "Diana"
 msgid "The sand on the beach was stuck under my nails... but I've never been to, I've never been..."
-msgstr ""
+msgstr "Le sable de la plage était coincé sous mes ongles... mais je ne suis jamais allée, je ne suis jamais..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/15
 msgctxt "Diana"
 msgid "Have I been to a beach? Why would I have been to a beach, why can't I remember?"
-msgstr ""
+msgstr "Est-ce que je suis allée à la plage ? Pourquoi est-ce que je serais allée à la plage, pourquoi je ne m'en souviens pas ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/0/s/0
 msgctxt "Choix"
 msgid "You might have been to a beach, I'm not sure."
-msgstr ""
+msgstr "T'es peut-être allée à la plage, je sais pas trop."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/1/s/0
 msgctxt "Choix"
 msgid "I think it's normal for people to forget things."
-msgstr ""
+msgstr "Je crois que c'est normal d'oublier des choses."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/c-1/7
 msgctxt "Diana"
 msgid "None of it's normal! If everything is normal nothing is normal, and why won't you tell me?! NOW you keep a secret!"
-msgstr ""
+msgstr "Rien de tout ça n'est normal ! Si tout est normal, rien n'est normal, et pourquoi tu ne veux pas me le dire ?! MAINTENANT tu gardes un secret !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/0
 msgctxt "Diana"
 msgid "Funny timing, band leader... it's a bad bad rhythm you're leading."
-msgstr ""
+msgstr "Drôle de tempo, chef d'orchestre... c'est un mauvais, mauvais rythme que tu mènes là."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/8
 msgctxt "Diana"
 msgid "Too much percussion. Far too much booming and banging around in here!"
-msgstr ""
+msgstr "Trop de percussions. Beaucoup trop de boum et de badaboum là-dedans !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "I didn't mean anything bad, whatever I said!"
-msgstr ""
+msgstr "Je voulais rien dire de mal, quoi que j'aie dit !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/1/s/0
 msgctxt "Choix"
 msgid "You're not making any sense..."
-msgstr ""
+msgstr "Ce que tu dis n'a aucun sens..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-0/7
 msgctxt "Diana"
 msgid "Oh nobody ever MEANS it. Nobody ever means ANYTHING!"
-msgstr ""
+msgstr "Oh, personne ne veut JAMAIS rien dire. Personne ne veut jamais RIEN dire !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-0/15
 msgctxt "Diana"
 msgid "That's the problem. Pushing the button, I didn't mean it. Smiling at the man across the room and when he comes over with a laced drink in his hand I didn't mean it."
-msgstr ""
+msgstr "C'est ça, le problème. Appuyer sur le bouton, je ne voulais pas. Sourire à l'homme à l'autre bout de la salle et quand il arrive avec un verre drogué à la main, je ne voulais pas."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-0/23
 msgctxt "Diana"
 msgid "It's mean, it's mean to not mean what you mean... and a side of applesauce, please..."
-msgstr ""
+msgstr "C'est méchant, c'est méchant de ne pas vouloir dire ce qu'on veut dire... et avec une portion de compote, s'il vous plaît..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-0/34 diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-1/34 diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/66 diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/c-1/34 diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/c-2/18 diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-0/18 diana_diary/openthebelljar/0/g-0/22/c-5/23/c-1/50 diana_diary/openthebelljar/0/g-2/43 diana_diary/third_encounter/0/c-0/31/c-0/39/g-0/40/c-0/39/c-1/15/g-0/24/g-0/43 diana_diary/third_encounter/0/c-1/47/c-1/39/c-0/39/g-0/24 diana_diary/third_encounter/0/c-1/47/c-1/39/c-1/23 diana_diary/fourth_encounter/0/c-2/55/c-0/39/c-1/43
 msgctxt "Narrator"
 msgid "And with that, she is gone."
-msgstr ""
+msgstr "Et sur ces mots, elle disparaît."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-1/7
 msgctxt "Diana"
 msgid "Sense, cents, scents haven't you noticed?"
-msgstr ""
+msgstr "Sens, cent, sang, tu n'as pas remarqué ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-1/15
 msgctxt "Diana"
 msgid "Nevermind. At this point, since I've made my point, it doesn't matter."
-msgstr ""
+msgstr "Peu importe. À ce stade, puisque j'ai fait valoir mon point, ça n'a plus d'importance."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-3/23/g-0/16/c-1/23
 msgctxt "Diana"
 msgid "Come back for the county fair, if you want a real point. The illusionist has a cane!"
-msgstr ""
+msgstr "Reviens pour la foire du comté, si tu veux un vrai point. L'illusionniste a une canne !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/7
 msgctxt "Diana"
 msgid "What does anyone want?"
-msgstr ""
+msgstr "Qu'est-ce que tout le monde veut ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/15
 msgctxt "Diana"
 msgid "I wanted a pair of shoes once, it was such a beautiful pair, the color,"
-msgstr ""
+msgstr "J'ai voulu une paire de chaussures, une fois, elle était si belle, la couleur,"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/23
 msgctxt "Diana"
 msgid "It was molten. I could feel them melting right through the shop window!"
-msgstr ""
+msgstr "Elle était en fusion. Je les sentais fondre à travers la vitrine !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/31
 msgctxt "Diana"
 msgid "I never went back."
-msgstr ""
+msgstr "Je n'y suis jamais retournée."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/39
 msgctxt "Diana"
 msgid "Aren't you afraid of getting burned?"
-msgstr ""
+msgstr "Tu n'as pas peur de te brûler ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/0/s/0
 msgctxt "Choix"
 msgid "Yeah, actually. I hate fire."
-msgstr ""
+msgstr "Si, en fait. Je déteste le feu."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/1/s/0
 msgctxt "Choix"
 msgid "Drowning is what gets me."
-msgstr ""
+msgstr "Moi, c'est la noyade qui me terrifie."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/7
 msgctxt "Diana"
 msgid "NO I've never been fired! How dare you, who gave you the right, how could you know that??"
-msgstr ""
+msgstr "NON, je n'ai jamais tout flambé ! Comment oses-tu, qui t'a donné le droit, comment tu peux savoir ça ??"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/15
 msgctxt "Diana"
 msgid "Take your magic away from me... take these words with you. Could you? Can you do that?"
-msgstr ""
+msgstr "Éloigne ta magie de moi... emporte ces mots avec toi. Tu pourrais ? Tu peux faire ça ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/23
 msgctxt "Diana"
 msgid "TAKE YOUR DAMN HANDS OFF THEM, they're mine. They're mine. What else would you have me have, me have, me have... oops, I got lost!"
-msgstr ""
+msgstr "BAS LES PATTES, PUTAIN, ils sont à moi. Ils sont à moi. Que voudrais-tu que j'aie d'autre, que j'aie, que j'aie... oups, je me suis perdue !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/31
 msgctxt "Diana"
 msgid "Sometimes the road less travelled is less travelled for a reason."
-msgstr ""
+msgstr "Parfois, le chemin le moins fréquenté est moins fréquenté pour une bonne raison."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/39
 msgctxt "Diana"
 msgid "They won't build a gas station if there's an ogre down the way!"
-msgstr ""
+msgstr "On ne construit pas de station-service s'il y a un ogre un peu plus loin !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/47
 msgctxt "Diana"
 msgid "God, to drown, just to drown and dissolve and the ink swirls around me in the water like a shroud..."
-msgstr ""
+msgstr "Mon Dieu, se noyer, juste se noyer et se dissoudre, et l'encre tourbillonne autour de moi dans l'eau comme un linceul..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-0/55
 msgctxt "Diana"
 msgid "I've been drowning forever."
-msgstr ""
+msgstr "Ça fait une éternité que je me noie."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/7
 msgctxt "Diana"
 msgid "Wouldn't YOU love to know."
-msgstr ""
+msgstr "Ça te plairait bien de le savoir, hein."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/15
 msgctxt "Diana"
 msgid "Wouldn't your little heart just burst if you thought you could fill it all the way up..."
-msgstr ""
+msgstr "Ton petit coeur n'exploserait-il pas si tu croyais pouvoir le remplir jusqu'au bord..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/23
 msgctxt "Diana"
 msgid "...and that would take away the loneliness and make you less confused, more like you belonged somewhere."
-msgstr ""
+msgstr "... et que ça chasserait la solitude, que tu serais moins {{perdu|perdue|perdu·e}}, que tu aurais l'impression d'avoir ta place quelque part."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/31
 msgctxt "Diana"
 msgid "Have you ever belonged? Belonged, anywhere, really? There was an ice cream parlor once where I thought I'd be happy to die as a piece of cookie dough in a deep freeze."
-msgstr ""
+msgstr "Tu as déjà eu ta place ? Ta place, n'importe où, vraiment ? Il y avait un glacier, une fois, où je me disais que je serais heureuse de mourir en morceau de pâte à cookie dans un congélateur."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/0/s/0
 msgctxt "Choix"
 msgid "I can't do this right now. Good luck."
-msgstr ""
+msgstr "Je peux pas gérer ça maintenant. Bonne chance."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/1/s/0
 msgctxt "Choix"
 msgid "I like cookie dough. I could die as cookie dough."
-msgstr ""
+msgstr "J'aime la pâte à cookie. Je pourrais mourir en pâte à cookie."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/2/s/0
 msgctxt "Choix"
 msgid "Why am I hungry?"
-msgstr ""
+msgstr "Pourquoi j'ai faim ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/c-0/10
 msgctxt "Narrator"
 msgid "It is far too difficult to make sense of what your diary is saying, and you take your leave."
-msgstr ""
+msgstr "Il est bien trop difficile de comprendre ce que raconte votre journal intime, et vous prenez congé."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/c-1/7
 msgctxt "Diana"
 msgid "Then go. Go and get some."
-msgstr ""
+msgstr "Alors vas-y. Va t'en chercher."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/c-1/15
 msgctxt "Diana"
 msgid "Hot pizza apple pie, the American Nightmare!"
-msgstr ""
+msgstr "Pizza chaude et tarte aux pommes, le Cauchemar Américain !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/c-1/23
 msgctxt "Diana"
 msgid "Come back and tell me all about it for 15 cents a copy!"
-msgstr ""
+msgstr "Reviens tout me raconter pour 15 centimes l'exemplaire !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-4/47/c-1/39/c-2/7
 msgctxt "Diana"
 msgid "Because the dragon told you to be..."
-msgstr ""
+msgstr "Parce que le dragon t'a dit de l'être..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/7
 msgctxt "Diana"
 msgid "Into it, out of it, it's all the same."
-msgstr ""
+msgstr "Dedans, dehors, c'est pareil."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/15
 msgctxt "Diana"
 msgid "Into one thing is out of another and on and on until you're dizzy and there's nobody to catch you because the basketball game started late."
-msgstr ""
+msgstr "Être dans une chose, c'est être hors d'une autre, et ainsi de suite jusqu'à ce que la tête te tourne et qu'il n'y ait personne pour te rattraper parce que le match de basket a commencé en retard."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/0/s/0
 msgctxt "Choix"
 msgid "Oof, yeah. Sports. They suck."
-msgstr ""
+msgstr "Ouf, ouais. Le sport. Ça me pompe."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/1/s/0
 msgctxt "Choix"
 msgid "I'd catch you."
-msgstr ""
+msgstr "Moi, je te rattraperais."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/7
 msgctxt "Diana"
 msgid "Suck?! SUCK?! Oh come on, have you ever actually thought about a straw?"
-msgstr ""
+msgstr "Pompe ?! POMPE ?! Oh, allez, tu as déjà vraiment réfléchi à une paille ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/15
 msgctxt "Diana"
 msgid "I had to use one once after they took those teeth away..."
-msgstr ""
+msgstr "J'ai dû en utiliser une, une fois, après qu'ils m'ont retiré ces dents..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/23
 msgctxt "Diana"
 msgid "No, no no... that's... that's not right, I... I wanted to. I wanted to but they told me I would bleed if I did, bleed and die and have to go back so they could take more from me, take more because I had more to lose."
-msgstr ""
+msgstr "Non, non non... c'est... ce n'est pas ça, je... je voulais. Je voulais, mais ils m'ont dit que je saignerais si je le faisais, que je saignerais et mourrais et devrais revenir pour qu'ils m'en prennent encore, encore plus parce que j'avais encore plus à perdre."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/31
 msgctxt "Diana"
 msgid "But it wasn't me! I counted my teeth. I counted my teeth and they're all there."
-msgstr ""
+msgstr "Mais ce n'était pas moi ! J'ai compté mes dents. J'ai compté mes dents et elles sont toutes là."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/39
 msgctxt "Diana"
 msgid "Thoughts on the other hand... somehow I have too many of those."
-msgstr ""
+msgstr "Les pensées, en revanche... j'en ai trop, allez savoir pourquoi."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/47
 msgctxt "Diana"
 msgid "INVENTORY IS OFF, PEOPLE! START THE COUNT AGAIN!"
-msgstr ""
+msgstr "L'INVENTAIRE EST FAUX, LES GENS ! ON RECOMPTE TOUT !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/0/s/0
 msgctxt "Choix"
 msgid "Ok, I'm losing you a little here..."
-msgstr ""
+msgstr "Ok, là, je commence à te perdre un peu..."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/1/s/0
 msgctxt "Choix"
 msgid "Wisdom teeth! Yeah! They said that to me, too, kind of."
-msgstr ""
+msgstr "Les dents de sagesse ! Ouais ! On m'a dit ça aussi, en gros."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-0/7
 msgctxt "Diana"
 msgid "That's alright. Haven't I lost you somewhere before?"
-msgstr ""
+msgstr "Pas grave. Je ne t'ai pas déjà {{perdu|perdue|perdu·e}} quelque part ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-1/7
 msgctxt "Diana"
 msgid "Wisdom. What an overrated quality."
-msgstr ""
+msgstr "La sagesse. Quelle qualité surestimée."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-1/15
 msgctxt "Diana"
 msgid "Quali-tea, boil me up. Quali-tee, but it's cheap and ill-fitting and you're gonna throw it out in a month."
-msgstr ""
+msgstr "Quali-thé, fais-moi bouillir. Quali-tee-shirt, mais il est bon marché, il taille mal et tu le jetteras dans un mois."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-1/23
 msgctxt "Diana"
 msgid "It's ok to stare at my chest if I'm making a point!"
-msgstr ""
+msgstr "Tu as le droit de fixer ma poitrine si c'est pour faire valoir un point !"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-1/31
 msgctxt "Diana"
 msgid "A feminist point. Ha! The point of a nipple through the shirt but if I've noticed it, aren't I the bad guy? Even if I'm not a guy. I don't think."
-msgstr ""
+msgstr "Un point féministe. Ha ! La pointe d'un téton à travers le chemisier, mais si je l'ai remarqué, est-ce que ce n'est pas moi, le méchant ? Même si je ne suis pas un mec. Enfin, je crois pas."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-1/39
 msgctxt "Diana"
 msgid "I'm tired. I'm a tired feminist. Come back again when I've rested and grown my armor back."
-msgstr ""
+msgstr "Je suis fatiguée. Je suis une féministe fatiguée. Reviens quand je me serai reposée et que mon armure aura repoussé."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-0/55/c-1/50 diana_diary/third_encounter/0/c-2/47/g-0/56
 msgctxt "Narrator"
 msgid "And with that, she's gone."
-msgstr ""
+msgstr "Et sur ces mots, elle disparaît."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-1/7
 msgctxt "Diana"
 msgid "aha. ahahahaha. AHAHAHAHAHAHAHAHA! Ahhhh, my god."
-msgstr ""
+msgstr "aha. ahahahaha. AHAHAHAHAHAHAHAHA ! Ahhhh, mon Dieu."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-1/15
 msgctxt "Diana"
 msgid "I've been falling... I fall so much I can't even remember the last time I landed. It's all falling."
-msgstr ""
+msgstr "Je tombe... je tombe tellement que je ne me souviens même plus de la dernière fois que j'ai atterri. Tout n'est que chute."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-1/23
 msgctxt "Diana"
 msgid "But you said, already, that you'd be there."
-msgstr ""
+msgstr "Mais tu as déjà dit que tu serais là."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-1/31
 msgctxt "Diana"
 msgid "Wasn't that you? At the Italian place that Saturday in New York, wasn't that you? It should've been."
-msgstr ""
+msgstr "Ce n'était pas toi ? À l'italien, ce samedi-là à New York, ce n'était pas toi ? Ça aurait dû être toi."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-5/23/c-1/39
 msgctxt "Diana"
 msgid "Tomatoes. Yes. Come back when you've had enough tomatoes."
-msgstr ""
+msgstr "Des tomates. Oui. Reviens quand tu auras mangé assez de tomates."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-6/7
 msgctxt "Diana"
 msgid "Ah but of course, that poor little pony could never make the jump."
-msgstr ""
+msgstr "Ah, mais bien sûr, ce pauvre petit poney n'aurait jamais pu sauter l'obstacle."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-6/15
 msgctxt "Diana"
 msgid "What do you do with a drunken sailor but SHOOT HIM and pat yourself on the back for \"doing your duty.\""
-msgstr ""
+msgstr "Que faire d'un marin ivre, sinon l'ABATTRE et se féliciter d'avoir « fait son devoir »."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-6/23/0/s/0
 msgctxt "Choix"
 msgid "Ponies?? How the hell did we get there?"
-msgstr ""
+msgstr "Des poneys ?? Comment on en est arrivés là, bordel ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-0/22/c-6/23/1/s/0
 msgctxt "Choix"
 msgid "Shooting something is super traumatic actually, thanks."
-msgstr ""
+msgstr "Tirer sur quelque chose, c'est super traumatisant en fait, merci bien."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-1/0
 msgctxt "Diana"
 msgid "Doesn't matter. None of it matters."
-msgstr ""
+msgstr "Peu importe. Rien de tout ça n'a d'importance."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-1/8
 msgctxt "Diana"
 msgid "The trick is to realize that it never did, and content yourself with the dark corners of the cave, staring at the reflected firelight and judging the world you'll never see."
-msgstr ""
+msgstr "L'astuce, c'est de comprendre que ça n'en a jamais eu, et de se contenter des coins sombres de la caverne, à fixer le reflet du feu en jugeant le monde qu'on ne verra jamais."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-1/16
 msgctxt "Diana"
 msgid "Ha. Funny. Fun, knee, thigh, thigh-slapper, slap, slit, flap, knit me back up like an old sweater."
-msgstr ""
+msgstr "Ha. Marrant. Mare, rang, genou, tape-cuisse, tape, tapis, tricot, retricote-moi comme un vieux pull."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-1/24/s/0
 msgctxt "Choix"
 msgid "Wow. Ok. I... have to go."
-msgstr ""
+msgstr "Waouh. Ok. Je... dois y aller."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-1/25/s/0
 msgctxt "Choix"
 msgid "Word play. This is fever dream stuff."
-msgstr ""
+msgstr "Des jeux de mots. On dirait un délire de fièvre."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-1/26/s/0
 msgctxt "Choix"
 msgid "Can you even hear me?"
-msgstr ""
+msgstr "Tu m'entends, au moins ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-1/c-7/10
 msgctxt "Narrator"
 msgid "It is too difficult to make sense out of your own diary, and you take your leave."
-msgstr ""
+msgstr "Il est trop difficile de comprendre votre propre journal intime, et vous prenez congé."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-2/0
 msgctxt "Diana"
 msgid "I swear to god I could hear a pin drop... does anyone have a pin?"
-msgstr ""
+msgstr "Je jure devant Dieu qu'on entendrait une mouche voler... quelqu'un a une mouche ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-2/8
 msgctxt "Diana"
 msgid "So many things are happening all the time, it's like snow in the globe. It's dust floating through the burning light in the window."
-msgstr ""
+msgstr "Il se passe tellement de choses tout le temps, c'est comme la neige dans la boule. C'est la poussière qui flotte dans la lumière brûlante de la fenêtre."
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-2/16
 msgctxt "Diana"
 msgid "So you closed the shades, but did you know the neigbors can still see? There's always someone watching,"
-msgstr ""
+msgstr "Alors tu as fermé les stores, mais tu savais que les voisins peuvent quand même voir ? Il y a toujours quelqu'un qui regarde,"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-2/24
 msgctxt "Diana"
 msgid "Did you know?"
-msgstr ""
+msgstr "Tu savais ?"
 
+# Traduction IA – à relire
 #: diana_diary/openthebelljar/0/g-2/32
 msgctxt "Diana"
 msgid "Call me when you're in town again, we'll get tea and laugh at the peasants!"
-msgstr ""
+msgstr "Appelle-moi quand tu repasses en ville, on prendra le thé en se moquant des gueux !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/0
 msgctxt "Narrator"
 msgid "Diana is fully absorbed in her own endless monologue when you find her again."
-msgstr ""
+msgstr "Quand vous la retrouvez, Diana est entièrement absorbée par son propre monologue sans fin."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/8
 msgctxt "Diana"
 msgid "Round and round the mulberry tree, round and round the mulberry tree..."
-msgstr ""
+msgstr "Autour du mûrier, autour du mûrier..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/16
 msgctxt "Diana"
 msgid "I ate a mulberry once! Actually I had them dried, in a trail mix with cashews and some cousin to chocolate."
-msgstr ""
+msgstr "J'ai mangé une mûre, une fois ! En fait, c'étaient des mûres séchées, dans un mélange montagnard avec des noix de cajou et un cousin du chocolat."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/24
 msgctxt "Diana"
 msgid "But then I bought the trail mix at a different store and I chomped down and there was glass in it. Glass falling out of my mouth!"
-msgstr ""
+msgstr "Mais après, j'ai acheté le mélange dans un autre magasin, j'ai croqué dedans et il y avait du verre. Du verre qui me tombait de la bouche !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/32
 msgctxt "Diana"
 msgid "Have you ever chewed on glass...?"
-msgstr ""
+msgstr "Tu as déjà mâché du verre... ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/40
 msgctxt "Narrator"
 msgid "Finally, her gaze darts over to you—it appears you've finally caught her notice."
-msgstr ""
+msgstr "Enfin, son regard file vers vous : il semble que vous ayez finalement attiré son attention."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/48
 msgctxt "Diana"
 msgid "Oh! Oh, there's a you there now. Oooh... Are you there? Is that you?"
-msgstr ""
+msgstr "Oh ! Oh, il y a un toi, là, maintenant. Oooh... Tu es là ? C'est toi ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/56/s/0
 msgctxt "Choix"
 msgid "Yeah, hey. Little nervous to be back here, but I came."
-msgstr ""
+msgstr "Ouais, salut. Un peu {{nerveux|nerveuse|nerveux·se}} de revenir ici, mais me voilà."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/57/s/0
 msgctxt "Choix"
 msgid "It's me. I missed your good gibberish!"
-msgstr ""
+msgstr "C'est moi. Ton bon charabia m'a manqué !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/58/s/0
 msgctxt "Choix"
 msgid "Oh bummer. You're still like this, huh?"
-msgstr ""
+msgstr "Oh, dommage. T'es toujours comme ça, hein ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/7
 msgctxt "Diana"
 msgid "You're nervous? Nerve, Us. Nerves is a part of Us, part of being an US."
-msgstr ""
+msgstr "Tu es {{nerveux|nerveuse|nerveux·se}} ? Nerf, nous. Les nerfs font partie de nous, ça fait partie d'être un NOUS."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/15
 msgctxt "Diana"
 msgid "Maybe it's me, maybe it's me that makes the US... I make you nerve-us."
-msgstr ""
+msgstr "C'est peut-être moi, c'est peut-être moi qui fais le NOUS... C'est moi qui te mets les nerfs à vif."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/23
 msgctxt "Diana"
 msgid "Which I get. I'm a goddamned broken fire hydrant, you should be nervous!"
-msgstr ""
+msgstr "Ce que je comprends. Je suis une putain de bouche d'incendie pétée, tu as raison d'avoir les nerfs !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/31
 msgctxt "Diana"
 msgid "Be careful, you're gonna get swept out to sea..."
-msgstr ""
+msgstr "Fais attention, la vague va t'emporter au large..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/0/s/0
 msgctxt "Choix"
 msgid "Think I'm probably ok, but thanks for checking in."
-msgstr ""
+msgstr "Je crois que ça va aller, mais merci de t'en inquiéter."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/1/s/0
 msgctxt "Choix"
 msgid "Thing is, I think we actually have a lot in common."
-msgstr ""
+msgstr "En fait, je crois qu'on a beaucoup de points communs."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/2/s/0
 msgctxt "Choix"
 msgid "That's possible? There's enough crazy in this house, I'm out."
-msgstr ""
+msgstr "C'est possible, ça ? Il y a déjà assez de folie dans cette maison, je me casse."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-0/7
 msgctxt "Diana"
 msgid "No problem."
-msgstr ""
+msgstr "Pas de problème."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-0/15
 msgctxt "Diana"
 msgid "I'll always check. I love checking things off. I never seem to be the one holding the pen, but I do feel it when things get checked off..."
-msgstr ""
+msgstr "Je m'inquiéterai toujours. J'adore cocher des cases. On dirait que ce n'est jamais moi qui tiens le stylo, mais je le sens quand on coche quelque chose..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-0/23
 msgctxt "Diana"
 msgid "scritch-SCRATCH and that's one more weight off my mind."
-msgstr ""
+msgstr "scritch-SCRATCH et c'est un poids de moins sur mon esprit."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-0/31
 msgctxt "Diana"
 msgid "Wait. MY mind? Is it mine? I thought..."
-msgstr ""
+msgstr "Attends. MON esprit ? Il est à moi ? Je croyais..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/7
 msgctxt "Diana"
 msgid "Huzzah! Really?"
-msgstr ""
+msgstr "Hourra ! Vraiment ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/15
 msgctxt "Diana"
 msgid "God you poor animal."
-msgstr ""
+msgstr "Mon Dieu, pauvre bête."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/23
 msgctxt "Diana"
 msgid "You should run."
-msgstr ""
+msgstr "Tu devrais fuir."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/31
 msgctxt "Diana"
 msgid "Did you know that all six wives of Henry the VIII thought they loved him in the beginning! ALL SIX!"
-msgstr ""
+msgstr "Tu savais que les six femmes d'Henri VIII croyaient toutes l'aimer au début ! TOUTES LES SIX !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/39
 msgctxt "Diana"
 msgid "You think one of them would've watched her sisters fall under the wheels of church, state, and ego and mad-dashed for a foreign court but NOOOOOOO."
-msgstr ""
+msgstr "On aurait pu croire que l'une d'elles, après avoir vu ses soeurs tomber sous les roues de l'Église, de l'État et de l'ego, aurait filé à toutes jambes vers une cour étrangère, mais NOOOOOOON."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/47
 msgctxt "Diana"
 msgid "You should've seen me coming. It has to be you who runs, I CAN'T MOVE. And what am I if not HERE, what am I if not blank, waiting, overflowing but never fucking full enough."
-msgstr ""
+msgstr "Tu aurais dû me voir venir. C'est forcément toi qui dois fuir, MOI JE NE PEUX PAS BOUGER. Et que suis-je, sinon ICI, que suis-je, sinon vierge, en attente, débordante mais jamais assez pleine, putain."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/55/0/s/0
 msgctxt "Choix"
 msgid "I think I see what you're saying... but you're wrong."
-msgstr ""
+msgstr "Je crois que je vois ce que tu veux dire... mais tu te trompes."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-1/55/1/s/0
 msgctxt "Choix"
 msgid "Can we just slow down for a minute?"
-msgstr ""
+msgstr "On peut ralentir une minute ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/7
 msgctxt "Diana"
 msgid "Crazy? Who's CRAZY?! Oh yeah, just because she can't stop she must be crazy, right?"
-msgstr ""
+msgstr "Folle ? Qui est FOLLE ?! Ah oui, juste parce qu'elle ne peut pas s'arrêter, elle doit être folle, c'est ça ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/18
 msgctxt "Diana"
 msgid "Just because she's never alone and she's always alone it must be her fault, right?"
-msgstr ""
+msgstr "Juste parce qu'elle n'est jamais seule et toujours seule, ça doit être sa faute, c'est ça ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/26
 msgctxt "Diana"
 msgid "Ahhhh god these contradictions are hurting my head... where is my head? I think I left it with my left foot somewhere on a dance floor..."
-msgstr ""
+msgstr "Ahhhh, mon Dieu, ces contradictions me font mal à la tête... où est ma tête ? Je crois que je l'ai laissée avec mon pied gauche quelque part sur une piste de danse..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/34
 msgctxt "Diana"
 msgid "I'll bet you've never lost your head, huh? Can't bake a pie with a lost head."
-msgstr ""
+msgstr "Je parie que toi, tu n'as jamais perdu la tête, hein ? On ne peut pas faire une tarte avec une tête perdue."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/42/0/s/0
 msgctxt "Choix"
 msgid "What pie?? What the hell are you talking about??"
-msgstr ""
+msgstr "Quelle tarte ?? Mais qu'est-ce que tu racontes, bordel ??"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/42/1/s/0
 msgctxt "Choix"
 msgid "For god's sake, will you make sense?"
-msgstr ""
+msgstr "Pour l'amour du ciel, tu peux dire un truc qui a du sens ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/42/g-0/0
 msgctxt "Diana"
 msgid "Fie! Am I talking? I didn't mean to talk. I never mean to talk."
-msgstr ""
+msgstr "Fi ! Je parle ? Je ne voulais pas parler. Je ne veux jamais parler."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/42/g-0/8
 msgctxt "Diana"
 msgid "I'm not even the one talking, I'm just trying to get a breath. I can't breathe in here!"
-msgstr ""
+msgstr "Ce n'est même pas moi qui parle, j'essaie juste de reprendre mon souffle. Je ne peux pas respirer, là-dedans !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/42/g-0/16
 msgctxt "Diana"
 msgid "Have you ever gone scuba diving? I did once... It was so cold down there. They don't tell you how alone you'll feel..."
-msgstr ""
+msgstr "Tu as déjà fait de la plongée ? J'en ai fait une fois... Il faisait si froid, là-dessous. On ne te dit pas à quel point on s'y sent seul..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-0/39/c-2/42/g-0/24
 msgctxt "Diana"
 msgid "I have to go, there's a reason I have to go... can't I stay? Wouldn't even if I could. You're the one leaving, not me. Again. Right?"
-msgstr ""
+msgstr "Je dois partir, il y a une raison pour laquelle je dois partir... je ne peux pas rester ? Je ne resterais pas, même si je pouvais. C'est toi qui pars, pas moi. Encore. Pas vrai ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/7
 msgctxt "Diana"
 msgid "Good gibberish. Gibber jibber on the jib, where they hang people!"
-msgstr ""
+msgstr "Bon charabia. Chara-bia, chara-bière, charivari sur la vergue, là où on pend les gens !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/15
 msgctxt "Diana"
 msgid "'twas a good hanging."
-msgstr ""
+msgstr "Ce fut une belle pendaison."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/23
 msgctxt "Diana"
 msgid "Arr! You missed a good hanging, chum! The fella's feet twitched for a full turn o' the clock HA or I'm a blown fool!"
-msgstr ""
+msgstr "Arrr ! T'as raté une belle pendaison, matelot ! Les pieds du gaillard ont gigoté un tour d'horloge entier, HA, ou je ne suis qu'un sombre crétin !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "See? That. Love that."
-msgstr ""
+msgstr "Tu vois ? Ça. J'adore ça."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "You sound like a pirate story I read once."
-msgstr ""
+msgstr "On dirait une histoire de pirates que j'ai lue une fois."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/0
 msgctxt "Diana"
 msgid "It's my pleasure to bring a smile to your face."
-msgstr ""
+msgstr "C'est un plaisir de te faire sourire."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/8
 msgctxt "Diana"
 msgid "At least I think it is. Who cares in the end. Everything fades and changes."
-msgstr ""
+msgstr "Du moins, je crois. On s'en fiche, au final. Tout s'efface et change."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/16
 msgctxt "Diana"
 msgid "Except for me! I don't get to change. I'm eternal."
-msgstr ""
+msgstr "Sauf moi ! Moi, je n'ai pas le droit de changer. Je suis éternelle."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/24
 msgctxt "Diana"
 msgid "And I'm not even a Me! I'm just a collection of words and mess swirling around..."
-msgstr ""
+msgstr "Et je ne suis même pas un Moi ! Je ne suis qu'un amas de mots et de bazar qui tourbillonne..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/32
 msgctxt "Diana"
 msgid "I am lonely again."
-msgstr ""
+msgstr "Je me sens seule, à nouveau."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/40
 msgctxt "Diana"
 msgid "I guess it's weird... weird you came back. If you're even really here which I still don't buy."
-msgstr ""
+msgstr "C'est bizarre, je crois... bizarre que tu sois {{revenu|revenue|revenu·e}}. Si tu es vraiment là, ce dont je ne suis toujours pas convaincue."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/48
 msgctxt "Diana"
 msgid "Do you really want more? Consider yourself warned."
-msgstr ""
+msgstr "Tu en veux vraiment encore ? Considère-toi comme {{prévenu|prévenue|prévenu·e}}."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/0/s/0
 msgctxt "Choix"
 msgid "Yes, I do. This all feels familiar somehow."
-msgstr ""
+msgstr "Oui. Tout ça me semble familier, je sais pas pourquoi."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/1/s/0
 msgctxt "Choix"
 msgid "Can I still bail?"
-msgstr ""
+msgstr "Je peux encore me tirer ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/7
 msgctxt "Diana"
 msgid "Familiar. Family-are. How could that be. That doesn't make sense at all."
-msgstr ""
+msgstr "Familier. Famille-ier. Comment ce serait possible. Ça n'a aucun sens."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/15
 msgctxt "Diana"
 msgid "Unless... are you made up of little pieces, too? Oh oh do they combine when you're not looking and then BAM suddenly there's a basilisk staring at you down the barrel of her jaw?"
-msgstr ""
+msgstr "À moins que... tu es {{fait|faite|fait·e}} de petits morceaux, toi aussi ? Oh oh, est-ce qu'ils s'assemblent quand tu ne regardes pas et puis BAM, d'un coup, il y a un basilic qui te fixe au bout du canon de sa mâchoire ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I mean... yeah. I am."
-msgstr ""
+msgstr "Enfin... ouais. C'est le cas."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "See... I wrote a story about a basilisk once. Why did you choose that?"
-msgstr ""
+msgstr "Tu vois... j'ai écrit une histoire sur un basilic, une fois. Pourquoi t'as choisi ça ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/0
 msgctxt "Diana"
 msgid "You... huh. You're making me bounce on my feet, pal, jab jab cross, boy-o."
-msgstr ""
+msgstr "Tu... hein. Tu me fais sautiller sur place, camarade, jab, jab, direct, mon gars."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "I get it. I'd use that image to describe being off balance."
-msgstr ""
+msgstr "Je comprends. J'utiliserais cette image pour décrire un déséquilibre."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/1/s/0
 msgctxt "Choix"
 msgid "You're confused. I think I have an answer."
-msgstr ""
+msgstr "T'es perdue. Je crois que j'ai une réponse."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/0
 msgctxt "Diana"
 msgid "Well bring it on, Captain Bligh. Captain Blight, blithely unaware, his crew making their mutiny right under his sweaty nose."
-msgstr ""
+msgstr "Eh bien, vas-y, Capitaine Bligh. Capitaine Blême, béatement inconscient, son équipage préparant sa mutinerie sous son nez en sueur."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/8
 msgctxt "Diana"
 msgid "You've seen that movie right?"
-msgstr ""
+msgstr "Tu as vu ce film, hein ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "Yep I have. You know it because I know it."
-msgstr ""
+msgstr "Ouais, je l'ai vu. Tu le connais parce que je le connais."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/1/s/0
 msgctxt "Choix"
 msgid "I loved it. I wrote in my diary about it after."
-msgstr ""
+msgstr "Je l'ai adoré. J'en ai parlé dans mon journal après."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/0
 msgctxt "Diana"
 msgid "I'm your diary."
-msgstr ""
+msgstr "Je suis ton journal."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Exactly."
-msgstr ""
+msgstr "Exactement."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/1/s/0
 msgctxt "Choix"
 msgid "So you know that movie... because I do."
-msgstr ""
+msgstr "Donc tu connais ce film... parce que moi, je le connais."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/0
 msgctxt "Diana"
 msgid "Ha. Ah. Ahahahahahahahahah!"
-msgstr ""
+msgstr "Ha. Ah. Ahahahahahahahahah !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/8
 msgctxt "Diana"
 msgid "So THAT'S why you've come back! You're looking for that old feeling."
-msgstr ""
+msgstr "Alors c'est POUR ÇA que tu es {{revenu|revenue|revenu·e}} ! Tu cherches cette vieille sensation."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/16
 msgctxt "Diana"
 msgid "You're wanting to write something down, get it off your mind, promise yourself you're going to go back and read it one day and never do."
-msgstr ""
+msgstr "Tu veux écrire quelque chose, te le sortir de la tête, te promettre que tu reviendras le relire un jour et ne jamais le faire."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/24
 msgctxt "Diana"
 msgid "Is it because I'm not funny?"
-msgstr ""
+msgstr "C'est parce que je ne suis pas drôle ?"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/32
 msgctxt "Diana"
 msgid "I'm definitely not funny. I've checked. People only laugh when they're walking away, putting me back on the shelf."
-msgstr ""
+msgstr "Je ne suis vraiment pas drôle. J'ai vérifié. Les gens ne rient que quand ils s'en vont, en me reposant sur l'étagère."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/40
 msgctxt "Diana"
 msgid "So they're not laughing with me. They're laughing at something they've taken with them when they leave. Something I'll never get back."
-msgstr ""
+msgstr "Donc ils ne rient pas avec moi. Ils rient de quelque chose qu'ils emportent en partant. Quelque chose que je ne récupérerai jamais."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/48
 msgctxt "Diana"
 msgid "You put so much down."
-msgstr ""
+msgstr "Tu déposes tant de choses."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/56
 msgctxt "Diana"
 msgid "You take so much when you go."
-msgstr ""
+msgstr "Tu emportes tant de choses en partant."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-0/23/g-0/8/g-0/16/g-0/8/g-0/64
 msgctxt "Diana"
 msgid "And I'm left with it all..."
-msgstr ""
+msgstr "Et moi, je reste avec tout ça..."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-1/7
 msgctxt "Diana"
 msgid "Bail. Bale! Hay bales! I hucked those once."
-msgstr ""
+msgstr "Se tirer. Tirer ! Tirer des bottes de foin ! J'en ai balancé, une fois."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-1/15
 msgctxt "Diana"
 msgid "Those stupid pants were covered but that's what I get for being too much of a coward to wear jeans."
-msgstr ""
+msgstr "Ce pantalon débile en était couvert, mais c'est bien fait pour moi, j'étais trop lâche pour porter un jean."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-1/23
 msgctxt "Diana"
 msgid "But yeah, get out."
-msgstr ""
+msgstr "Mais ouais, tire-toi."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-1/31
 msgctxt "Diana"
 msgid "Get out into the world, get up on that carousel and ride those ponies! Yeehaw!"
-msgstr ""
+msgstr "Va dans le monde, monte sur ce manège et chevauche ces poneys ! Yiiihaa !"
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-1/39
 msgctxt "Diana"
 msgid "I don't like carousels, I can't stand going around and round and round and round and round and round... stupid circles. I'm dizzy already."
-msgstr ""
+msgstr "Je n'aime pas les manèges, je ne supporte pas de tourner en rond et en rond et en rond et en rond et en rond et en rond... cercles débiles. J'ai déjà le tournis."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-1/47
 msgctxt "Diana"
 msgid "The music never stops."
-msgstr ""
+msgstr "La musique ne s'arrête jamais."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-1/31/g-0/56/c-1/55
 msgctxt "Diana"
 msgid "Go riding, I'm sure I'll hear all about it one day when you \"have a minute\"... Navel gazing prick."
-msgstr ""
+msgstr "Va faire ton tour, je suis sûre que j'en entendrai parler un jour quand tu « auras une minute »... Espèce de nombriliste à la con."
 
+# Traduction IA – à relire
 #: diana_diary/second_encounter/0/c-2/7
 msgctxt "Diana"
 msgid "Hahahahaha. Ahahahahahahahahah"
-msgstr ""
+msgstr "Hahahahaha. Ahahahahahahahahah"
 
 #: diana_diary/second_encounter/0/c-2/15
 msgctxt "Diana"

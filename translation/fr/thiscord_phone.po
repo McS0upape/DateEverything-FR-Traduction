@@ -8,1266 +8,1516 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_1/0/4 thiscord_phone/tfh_2/0/4 thiscord_phone/tfh_3/0/4 thiscord_phone/tfh_4/0/4 thiscord_phone/tfh_5/0/4 thiscord_phone/tfh_6/0/4 thiscord_phone/tfh_7/0/4 thiscord_phone/tfh_8/0/4 thiscord_phone/tfh_9/0/4 thiscord_phone/tfh_10/0/4 thiscord_phone/tfh_11/0/4 thiscord_phone/tfh_12/0/4 thiscord_phone/tfh_13/0/4 thiscord_phone/tfh_14/0/4 thiscord_phone/tfh_15/0/4 thiscord_phone/tfh_16/0/4
 msgctxt "Tag Appli"
 msgid "8x8bc.0b"
-msgstr ""
+msgstr "8x8bc.0b"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_1/0/6
 msgctxt "tinfoilhat"
 msgid "Hello,"
-msgstr ""
+msgstr "Bonjour,"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/16
 msgctxt "tinfoilhat"
 msgid "Okay. Here goes nothing..."
-msgstr ""
+msgstr "Bon. Advienne que pourra..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/21/s/0
 msgctxt "Choix"
 msgid "I'm scared."
-msgstr ""
+msgstr "J'ai peur."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/22/s/0
 msgctxt "Choix"
 msgid "Who are you?"
-msgstr ""
+msgstr "T'es qui ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/c-0/7
 msgctxt "Player"
 msgid "I'm scared."
-msgstr ""
+msgstr "J'ai peur."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/c-0/9
 msgctxt "tinfoilhat"
 msgid "No need to fear. Hi. I'm just an anonymous hacker sending you a package."
-msgstr ""
+msgstr "Inutile d'avoir peur. Salut. Je suis juste un hacker anonyme qui t'envoie un colis."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/c-1/7
 msgctxt "Player"
 msgid "Who are you?"
-msgstr ""
+msgstr "T'es qui ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/c-1/9
 msgctxt "tinfoilhat"
 msgid "Well, that’s not important. Think of me as a friendly yet anonymous hacker."
-msgstr ""
+msgstr "Eh bien, ce n'est pas important. Vois-moi comme un hacker sympathique, mais anonyme."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/0
 msgctxt "tinfoilhat"
 msgid "Any second now you will receive a delivery via drone to your front door. Tell absolutely no one it is in your possession."
-msgstr ""
+msgstr "D'une seconde à l'autre, tu vas recevoir une livraison par drone devant ta porte. Ne dis absolument à personne que tu l'as en ta possession."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/5
 msgctxt "tinfoilhat"
 msgid "I will return with further instructions when the time is right."
-msgstr ""
+msgstr "Je reviendrai avec d'autres instructions le moment venu."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "When’s that?"
-msgstr ""
+msgstr "C'est quand, ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/11/s/0
 msgctxt "Choix"
 msgid "Cool, sounds fun!"
-msgstr ""
+msgstr "Cool, ça a l'air marrant !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/12/s/0
 msgctxt "Choix"
 msgid "Boring."
-msgstr ""
+msgstr "Ennuyeux."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/c-2/7
 msgctxt "Player"
 msgid "When's that?"
-msgstr ""
+msgstr "C'est quand, ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/c-2/9
 msgctxt "tinfoilhat"
 msgid "Uh, well. Not now."
-msgstr ""
+msgstr "Euh, eh bien. Pas maintenant."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/c-3/7
 msgctxt "Player"
 msgid "Cool, sounds fun!"
-msgstr ""
+msgstr "Cool, ça a l'air marrant !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/c-3/9
 msgctxt "tinfoilhat"
 msgid "Perhaps."
-msgstr ""
+msgstr "Peut-être."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/c-4/7
 msgctxt "Player"
 msgid "Boring."
-msgstr ""
+msgstr "Ennuyeux."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_1/0/g-0/c-4/9
 msgctxt "tinfoilhat"
 msgid "I fear I may have made a mistake..."
-msgstr ""
+msgstr "Je crains d'avoir commis une erreur..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/6
 msgctxt "tinfoilhat"
 msgid "Impressive news out of Valfest. Really too bad that particular partnership is about to hit a rough patch."
-msgstr ""
+msgstr "Nouvelles impressionnantes en provenance du Valfest. Vraiment dommage que ce partenariat en particulier soit sur le point de traverser une mauvaise passe."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/11
 msgctxt "tinfoilhat"
 msgid "But then David’s never been great at partnerships."
-msgstr ""
+msgstr "Mais bon, David n'a jamais été doué pour les partenariats."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/16/s/0
 msgctxt "Choix"
 msgid "Ok?"
-msgstr ""
+msgstr "Ok ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/17/s/0
 msgctxt "Choix"
 msgid "Me neither."
-msgstr ""
+msgstr "Moi non plus."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/c-0/7
 msgctxt "Player"
 msgid "Ok?"
-msgstr ""
+msgstr "Ok ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/c-1/7
 msgctxt "Player"
 msgid "Me neither."
-msgstr ""
+msgstr "Moi non plus."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/c-1/9
 msgctxt "tinfoilhat"
 msgid "Yeah, fascinating, but we're not talking about you right now."
-msgstr ""
+msgstr "Oui, passionnant, mais on ne parle pas de toi, là."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/0
 msgctxt "tinfoilhat"
 msgid "I see you’ve had the opportunity to test out the prototype."
-msgstr ""
+msgstr "Je vois que tu as eu l'occasion de tester le prototype."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/5/s/0
 msgctxt "Choix"
 msgid "Yeah, it's been going okay."
-msgstr ""
+msgstr "Ouais, ça se passe plutôt bien."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/6/s/0
 msgctxt "Choix"
 msgid "You can see me?"
-msgstr ""
+msgstr "Tu peux me voir ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-2/13
 msgctxt "Player"
 msgid "Yeah, it's been going okay."
-msgstr ""
+msgstr "Ouais, ça se passe plutôt bien."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/7
 msgctxt "Player"
 msgid "You can see me?"
-msgstr ""
+msgstr "Tu peux me voir ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/9
 msgctxt "tinfoilhat"
 msgid "I have remote access. Allows me to analyze the back-end system data."
-msgstr ""
+msgstr "J'ai un accès à distance. Ça me permet d'analyser les données du système en back-end."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/14
 msgctxt "tinfoilhat"
 msgid "What’d you think, that I’d just hand over absolute control of a device this powerful?"
-msgstr ""
+msgstr "Tu croyais quoi, que j'allais te confier le contrôle absolu d'un appareil aussi puissant ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/19/0/s/0 thiscord_phone/tfh_14/0/g-1/20/s/0
 msgctxt "Choix"
 msgid "Makes sense."
-msgstr ""
+msgstr "Logique."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/19/1/s/0
 msgctxt "Choix"
 msgid "Whoa. Chill out."
-msgstr ""
+msgstr "Wow. Du calme."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/19/c-0/7 thiscord_phone/tfh_14/0/g-1/c-4/13
 msgctxt "Player"
 msgid "Makes sense."
-msgstr ""
+msgstr "Logique."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/19/c-1/13
 msgctxt "Player"
 msgid "Whoa. Chill out."
-msgstr ""
+msgstr "Wow. Du calme."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-0/c-3/19/c-1/15
 msgctxt "tinfoilhat"
 msgid "I’m sorry; that was rash."
-msgstr ""
+msgstr "Pardon, c'était irréfléchi."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/0
 msgctxt "tinfoilhat"
 msgid "I’m enormously grateful to you for concealing the prototype. And I’m sorry I dropped all this on you so unexpectedly."
-msgstr ""
+msgstr "Je te suis immensément reconnaissant de cacher le prototype. Et je suis désolé de t'avoir mis tout ça sur les bras sans prévenir."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/5
 msgctxt "tinfoilhat"
 msgid "I know protecting it is not a responsibility you asked for. Maybe not even a responsibility you want."
-msgstr ""
+msgstr "Je sais que le protéger n'est pas une responsabilité que tu as demandée. Peut-être même pas une responsabilité que tu veux."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/10
 msgctxt "tinfoilhat"
 msgid "But I had no other choice. Every other Valdivian employee’s allegiance was unknowable — except you."
-msgstr ""
+msgstr "Mais je n'avais pas le choix. La loyauté de tous les autres employés de Valdivian était impossible à déterminer, sauf la tienne."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/15/s/0
 msgctxt "Choix"
 msgid "You can count on me!"
-msgstr ""
+msgstr "Tu peux compter sur moi !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Why me?"
-msgstr ""
+msgstr "Pourquoi moi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-4/7
 msgctxt "Player"
 msgid "You can count on me!"
-msgstr ""
+msgstr "Tu peux compter sur moi !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-4/15
 msgctxt "tinfoilhat"
 msgid "I knew you were trustworthy."
-msgstr ""
+msgstr "Je savais que tu étais digne de confiance."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-4/20
 msgctxt "tinfoilhat"
 msgid "Your private HR record said as much."
-msgstr ""
+msgstr "Ton dossier RH confidentiel le disait."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-5/7
 msgctxt "Player"
 msgid "Why me?"
-msgstr ""
+msgstr "Pourquoi moi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-5/9
 msgctxt "tinfoilhat"
 msgid "Because you’re paid the least out of everyone."
-msgstr ""
+msgstr "Parce que c'est toi qui as le plus petit salaire de toute l'entreprise."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-5/14/0/s/0
 msgctxt "Choix"
 msgid "Wait seriously?"
-msgstr ""
+msgstr "Attends, sérieux ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-5/14/c-0/7
 msgctxt "Player"
 msgid "Wait seriously?"
-msgstr ""
+msgstr "Attends, sérieux ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-1/c-5/14/c-0/9
 msgctxt "tinfoilhat"
 msgid "I can’t get into that right now."
-msgstr ""
+msgstr "Je ne peux pas entrer dans les détails pour l'instant."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_2/0/g-2/0
 msgctxt "tinfoilhat"
 msgid "Anyway, it’s not safe to talk. I will return when the signal is secure."
-msgstr ""
+msgstr "Bref, ce n'est pas sûr de parler. Je reviendrai quand le signal sera sécurisé."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/6
 msgctxt "tinfoilhat"
 msgid "Based on how plastered David was in his last MostMail, he must’ve finally discovered the prototype is missing..."
-msgstr ""
+msgstr "Vu l'état d'ivresse de David dans son dernier MostMail, il a dû enfin découvrir que le prototype avait disparu..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/11
 msgctxt "tinfoilhat"
 msgid "He’ll sober up soon though, and when he does he’ll stop at nothing to ensure its retrieval."
-msgstr ""
+msgstr "Mais il va bientôt dessoûler, et à ce moment-là, il ne reculera devant rien pour le récupérer."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/16
 msgctxt "tinfoilhat"
 msgid "If he fails, he’ll be at the mercy of some very powerful people. He’ll never allow that."
-msgstr ""
+msgstr "S'il échoue, il sera à la merci de gens très puissants. Il ne le permettra jamais."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/21/s/0
 msgctxt "Choix"
 msgid "How do you know all this?"
-msgstr ""
+msgstr "Comment tu sais tout ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/22/s/0
 msgctxt "Choix"
 msgid "Do you trust me to do this? I'm just an average nobody..."
-msgstr ""
+msgstr "Tu me fais confiance pour faire ça ? Je suis personne, juste quelqu'un de banal..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/c-0/7
 msgctxt "Player"
 msgid "How do you know all this?"
-msgstr ""
+msgstr "Comment tu sais tout ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/c-1/7
 msgctxt "Player"
 msgid "Do you trust me to do this? I'm just an average nobody..."
-msgstr ""
+msgstr "Tu me fais confiance pour faire ça ? Je suis personne, juste quelqu'un de banal..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/5
 msgctxt "tinfoilhat"
 msgid "I guess it’s imperative that we trust each other. And I’ve been asking you to trust me, without being fully transparent. I know all this because..."
-msgstr ""
+msgstr "Je suppose qu'il est impératif qu'on se fasse confiance. Et je te demande de me faire confiance sans être totalement transparent. Je sais tout ça parce que..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/10
 msgctxt "tinfoilhat"
 msgid "I created the dateviators."
-msgstr ""
+msgstr "C'est moi qui ai créé les Dateviators."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/15/s/0
 msgctxt "Choix"
 msgid "That's awesome!"
-msgstr ""
+msgstr "Trop génial !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "Prove it."
-msgstr ""
+msgstr "Prouve-le."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Yeah I basically guessed that."
-msgstr ""
+msgstr "Ouais, je m'en doutais un peu."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/c-2/13
 msgctxt "Player"
 msgid "That's awesome!"
-msgstr ""
+msgstr "Trop génial !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/c-2/15
 msgctxt "tinfoilhat"
 msgid "I'm glad you think so. We are obviously in alignment."
-msgstr ""
+msgstr "Ravi que tu le penses. Nous sommes manifestement sur la même longueur d'onde."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/c-3/7
 msgctxt "Player"
 msgid "Prove it."
-msgstr ""
+msgstr "Prouve-le."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/c-3/15
 msgctxt "tinfoilhat"
 msgid "There's no time for that."
-msgstr ""
+msgstr "On n'a pas le temps pour ça."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/c-4/7
 msgctxt "Player"
 msgid "Yeah I basically guessed that."
-msgstr ""
+msgstr "Ouais, je m'en doutais un peu."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-0/c-4/15
 msgctxt "tinfoilhat"
 msgid "Hm. Sure. Whatever."
-msgstr ""
+msgstr "Hm. C'est ça. Si tu veux."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-1/0
 msgctxt "tinfoilhat"
 msgid "Anyway, I can’t talk now."
-msgstr ""
+msgstr "Bref, je ne peux pas parler maintenant."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-1/5 thiscord_phone/tfh_15/0/g-1/5
 msgctxt "tinfoilhat"
 msgid "I’m stealing coffeeshop wifi and the barista finally noticed I’m only ordering tap water."
-msgstr ""
+msgstr "Je vole le wifi d'un café et le barista a fini par remarquer que je ne commande que de l'eau du robinet."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_3/0/g-1/10
 msgctxt "tinfoilhat"
 msgid "Remember: under no circumstance allow David to know you possess the prototype!"
-msgstr ""
+msgstr "Souviens-toi : ne laisse en aucun cas David savoir que tu possèdes le prototype !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/6
 msgctxt "tinfoilhat"
 msgid "Unfortunate about Sandy in Corporate Events Planning. She was responsible for all the best casual Friday themes."
-msgstr ""
+msgstr "Dommage pour Sandy, de la planification des événements d'entreprise. C'est elle qui trouvait les meilleurs thèmes pour les vendredis décontractés."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/11
 msgctxt "tinfoilhat"
 msgid "Now that she’s gone, there’s finally nothing left of the 7 Pioneers."
-msgstr ""
+msgstr "Maintenant qu'elle est partie, il ne reste enfin plus rien des 7 Pionniers."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/16/s/0
 msgctxt "Choix"
 msgid "7 Pioneers?"
-msgstr ""
+msgstr "7 Pionniers ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/17/s/0
 msgctxt "Choix"
 msgid "This isn't going to be more lore is it?"
-msgstr ""
+msgstr "Ça va pas encore être du lore, si ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/c-0/13
 msgctxt "Player"
 msgid "7 Pioneers?"
-msgstr ""
+msgstr "7 Pionniers ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/c-1/7
 msgctxt "Player"
 msgid "This isn't going to be more lore is it?"
-msgstr ""
+msgstr "Ça va pas encore être du lore, si ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/c-1/15
 msgctxt "tinfoilhat"
 msgid "Lore? No, it's incredibly important and compelling background information that is <i>necessary</i> to understand the current situation."
-msgstr ""
+msgstr "Du lore ? Non, ce sont des informations de contexte extrêmement importantes et passionnantes, <i>nécessaires</i> pour comprendre la situation actuelle."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/0
 msgctxt "tinfoilhat"
 msgid "In the beginning there were seven of us. Working out of David’s dorm room. Stealing wifi from the neighbors and using cardboard boxes for chairs."
-msgstr ""
+msgstr "Au début, on était sept. On travaillait dans la chambre d'étudiant de David. On volait le wifi des voisins et on utilisait des cartons comme chaises."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/5
 msgctxt "tinfoilhat"
 msgid "We had no idea we were changing the world..."
-msgstr ""
+msgstr "On n'avait aucune idée qu'on était en train de changer le monde..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/10
 msgctxt "tinfoilhat"
 msgid "We just wanted to design a more efficient paperclip."
-msgstr ""
+msgstr "On voulait juste concevoir un trombone plus efficace."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/15
 msgctxt "tinfoilhat"
 msgid "But then the money started flowing and money always changes people."
-msgstr ""
+msgstr "Mais l'argent a commencé à couler à flots, et l'argent change toujours les gens."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/20
 msgctxt "tinfoilhat"
 msgid "Didn’t take long for the 7 Pioneers to be whittled down to one."
-msgstr ""
+msgstr "Il n'a pas fallu longtemps pour que les 7 Pionniers soient réduits à un seul."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "... David."
-msgstr ""
+msgstr "... David."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/26/s/0
 msgctxt "Choix"
 msgid "... you?"
-msgstr ""
+msgstr "... toi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "Sneezy!"
-msgstr ""
+msgstr "Atchoum !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-2/7
 msgctxt "Player"
 msgid "... David."
-msgstr ""
+msgstr "... David."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-2/9
 msgctxt "tinfoilhat"
 msgid "<i>Bingo.</i>"
-msgstr ""
+msgstr "<i>Bingo.</i>"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/7
 msgctxt "Player"
 msgid "... you?"
-msgstr ""
+msgstr "... toi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/9
 msgctxt "tinfoilhat"
 msgid "Not me."
-msgstr ""
+msgstr "Pas moi."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/14
 msgctxt "tinfoilhat"
 msgid "David. The CEO of Valdivian."
-msgstr ""
+msgstr "David. Le PDG de Valdivian."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/19
 msgctxt "tinfoilhat"
 msgid "Seems like you're not paying attention but I suppose it can't be helped."
-msgstr ""
+msgstr "On dirait que tu ne fais pas attention, mais je suppose que c'est inévitable."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/24
 msgctxt "tinfoilhat"
 msgid "I am mysterious and only message you sometimes."
-msgstr ""
+msgstr "Je suis mystérieux et je ne t'écris que de temps en temps."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/0/s/0 thiscord_phone/tfh_7/0/g-2/c-5/14/0/s/0
 msgctxt "Choix"
 msgid "Gotcha."
-msgstr ""
+msgstr "Compris."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/1/s/0
 msgctxt "Choix"
 msgid "I'm paying attention!"
-msgstr ""
+msgstr "Je fais attention !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/2/s/0
 msgctxt "Choix"
 msgid "Fine, whatever."
-msgstr ""
+msgstr "Ok, bref."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/c-0/7 thiscord_phone/tfh_7/0/g-2/c-5/14/c-0/7
 msgctxt "Player"
 msgid "Gotcha."
-msgstr ""
+msgstr "Compris."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/c-0/9
 msgctxt "tinfoilhat"
 msgid "Indeed."
-msgstr ""
+msgstr "En effet."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/c-1/7
 msgctxt "Player"
 msgid "I'm paying attention!"
-msgstr ""
+msgstr "Je fais attention !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/c-1/9
 msgctxt "tinfoilhat"
 msgid "So you say."
-msgstr ""
+msgstr "C'est toi qui le dis."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-3/29/c-2/7
 msgctxt "Player"
 msgid "Fine, whatever."
-msgstr ""
+msgstr "Ok, bref."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-4/7
 msgctxt "Player"
 msgid "Sneezy!"
-msgstr ""
+msgstr "Atchoum !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-0/c-4/15
 msgctxt "tinfoilhat"
 msgid "I <i>really</i> need you take this seriously."
-msgstr ""
+msgstr "J'ai <i>vraiment</i> besoin que tu prennes ça au sérieux."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-1/0
 msgctxt "tinfoilhat"
 msgid "And all this? The wretched, soul-sucking, corporate monster that Valdivian became? The Pioneers never wanted that."
-msgstr ""
+msgstr "Et tout ça ? Le monstre corporatiste, misérable et suceur d'âmes qu'est devenu Valdivian ? Les Pionniers n'ont jamais voulu ça."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-1/5
 msgctxt "tinfoilhat"
 msgid "One-by-one they left, but I stayed."
-msgstr ""
+msgstr "Ils sont partis un par un, mais moi, je suis resté."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-1/10
 msgctxt "tinfoilhat"
 msgid "Deep down I really believed David — the old David — was still in there somewhere."
-msgstr ""
+msgstr "Au fond de moi, je croyais vraiment que David, l'ancien David, était encore là quelque part."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-1/15
 msgctxt "tinfoilhat"
 msgid "But when he wanted to use the Dateviators for military applications, I knew more drastic action was necessary. Quickly."
-msgstr ""
+msgstr "Mais quand il a voulu utiliser les Dateviators à des fins militaires, j'ai compris qu'il fallait des mesures plus radicales. Et vite."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-1/20/s/0
 msgctxt "Choix"
 msgid "So you stole them?"
-msgstr ""
+msgstr "Donc tu les as volées ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-1/c-5/7
 msgctxt "Player"
 msgid "So you stole them?"
-msgstr ""
+msgstr "Donc tu les as volées ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-2/0
 msgctxt "tinfoilhat"
 msgid "I’m sorry, but there’s no time."
-msgstr ""
+msgstr "Désolé, mais on n'a pas le temps."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-2/5
 msgctxt "tinfoilhat"
 msgid "I’m using the display phone at a wireless store and they closed 30 minutes ago."
-msgstr ""
+msgstr "J'utilise le téléphone de démonstration d'une boutique de téléphonie et ils ont fermé il y a 30 minutes."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-2/10
 msgctxt "tinfoilhat"
 msgid "The sales associate is giving me the stink eye."
-msgstr ""
+msgstr "Le vendeur me regarde de travers."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_4/0/g-2/15
 msgctxt "tinfoilhat"
 msgid "I’ll follow up when I can!"
-msgstr ""
+msgstr "Je te recontacte dès que possible !"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_5/0/6
 msgctxt "tinfoilhat"
 msgid "I’m sorry for the abrupt intrusion"
-msgstr ""
+msgstr "Désolé pour cette intrusion soudaine"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_5/0/11
 msgctxt "Narration / joueur"
 msgid ", but there’s an urgent topic I need to discuss with you immediately."
-msgstr ""
+msgstr ", mais il y a un sujet urgent dont je dois te parler immédiatement."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/16/b/1
 msgctxt "tinfoilhat"
 msgid "Assuming you're going to take my questions seriously. Your commitment to this mission so far has been... questionable."
-msgstr ""
+msgstr "En supposant que tu prennes mes questions au sérieux. Ton implication dans cette mission jusqu'ici a été... discutable."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/19
 msgctxt "tinfoilhat"
 msgid "Is everything alright with the dateviators? Are they operating efficiently?"
-msgstr ""
+msgstr "Est-ce que tout va bien avec les Dateviators ? Est-ce qu'ils fonctionnent efficacement ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/24/s/0
 msgctxt "Choix"
 msgid "I think so. Why?"
-msgstr ""
+msgstr "Je crois. Pourquoi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/25/s/0
 msgctxt "Choix"
 msgid "No, they broke completely."
-msgstr ""
+msgstr "Non, ils sont complètement cassés."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/c-0/7
 msgctxt "Player"
 msgid "I think so. Why?"
-msgstr ""
+msgstr "Je crois. Pourquoi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/c-1/7
 msgctxt "Player"
 msgid "No, they broke completely."
-msgstr ""
+msgstr "Non, ils sont complètement cassés."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/c-1/9
 msgctxt "tinfoilhat"
 msgid "Completely? I don't believe that's correct."
-msgstr ""
+msgstr "Complètement ? Je ne crois pas que ce soit exact."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/c-1/14
 msgctxt "tinfoilhat"
 msgid "I'm not one to be trifled with."
-msgstr ""
+msgstr "Je ne suis pas quelqu'un avec qui on plaisante."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-0/0
 msgctxt "tinfoilhat"
 msgid "Well as you know, I’m able to remotely monitor their functionality, and I’ve been noticing some deeply troubling readings coming from the Quantum Catalyst Activator."
-msgstr ""
+msgstr "Eh bien, comme tu le sais, je peux surveiller leur fonctionnement à distance, et j'ai remarqué des relevés profondément inquiétants en provenance de l'Activateur Catalytique Quantique."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-0/5/s/0
 msgctxt "Choix"
 msgid "Nope the Quantum Catacomb Active-wear is all good."
-msgstr ""
+msgstr "Nan, l'Activewear Catacombique Quantique va très bien."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-0/6/s/0
 msgctxt "Choix"
 msgid "What’s that?"
-msgstr ""
+msgstr "C'est quoi, ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-0/c-2/7
 msgctxt "Player"
 msgid "Nope the Quantum Catacomb Active-wear is all good."
-msgstr ""
+msgstr "Nan, l'Activewear Catacombique Quantique va très bien."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-0/c-2/15
 msgctxt "tinfoilhat"
 msgid "<i>Quantum Catalyst Activator.</i>"
-msgstr ""
+msgstr "<i>Activateur Catalytique Quantique.</i>"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-0/c-2/20
 msgctxt "tinfoilhat"
 msgid "And I haven't even told you what it is yet."
-msgstr ""
+msgstr "Et je ne t'ai même pas encore dit ce que c'était."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-0/c-3/13
 msgctxt "Player"
 msgid "What's that?"
-msgstr ""
+msgstr "C'est quoi, ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/0
 msgctxt "tinfoilhat"
 msgid "It’s very sci-fi, but essentially the Quantum Catalyst Activator is the internal hardware that allows you to directly acknowledge a thing’s existence. And recently it’s started to emit metacognition readings unlike any I’ve ever seen before."
-msgstr ""
+msgstr "C'est très science-fiction, mais en gros, l'Activateur Catalytique Quantique est le composant interne qui te permet de reconnaître directement l'existence d'une chose. Et récemment, il s'est mis à émettre des relevés de métacognition comme je n'en ai jamais vu."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/5
 msgctxt "tinfoilhat"
 msgid "I’ll keep an eye on things over here, but please inform me if anything unusual happens."
-msgstr ""
+msgstr "Je vais garder un œil sur tout ça de mon côté, mais préviens-moi s'il se passe quoi que ce soit d'inhabituel."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/10
 msgctxt "tinfoilhat"
 msgid "Oh, and if they get too hot, throw them in the freezer immediately."
-msgstr ""
+msgstr "Ah, et s'ils chauffent trop, mets-les immédiatement au congélateur."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/15
 msgctxt "tinfoilhat"
 msgid "Your life depends on it."
-msgstr ""
+msgstr "Ta vie en dépend."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/20/s/0
 msgctxt "Choix"
 msgid "Wait why?"
-msgstr ""
+msgstr "Attends, pourquoi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/21/s/0
 msgctxt "Choix"
 msgid "Can I throw them in the fridge instead?"
-msgstr ""
+msgstr "Je peux les mettre au frigo, plutôt ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/22/s/0
 msgctxt "Choix"
 msgid "Thanks for letting me know."
-msgstr ""
+msgstr "Merci de me prévenir."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/c-4/7
 msgctxt "Player"
 msgid "Wait why?"
-msgstr ""
+msgstr "Attends, pourquoi ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/c-5/7
 msgctxt "Player"
 msgid "Can I throw them in the fridge instead?"
-msgstr ""
+msgstr "Je peux les mettre au frigo, plutôt ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/c-5/15
 msgctxt "tinfoilhat"
 msgid "Are you <i>insane?</i>"
-msgstr ""
+msgstr "Tu as <i>perdu la tête ?</i>"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-1/c-6/7
 msgctxt "Player"
 msgid "Thanks for letting me know."
-msgstr ""
+msgstr "Merci de me prévenir."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-2/0
 msgctxt "tinfoilhat"
 msgid "Sorry it’s not safe to talk anymore."
-msgstr ""
+msgstr "Désolé, ce n'est plus sûr de parler."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-2/5
 msgctxt "tinfoilhat"
 msgid "I’m in a really sketchy neighborhood and this phone is super, duper expensive."
-msgstr ""
+msgstr "Je suis dans un quartier vraiment craignos et ce téléphone coûte super, méga cher."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_5/0/g-2/13
 msgctxt "tinfoilhat"
 msgid "But I’ll keep analyzing the data."
-msgstr ""
+msgstr "Mais je vais continuer à analyser les données."
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_6/0/11
 msgctxt "Narration / joueur"
 msgid "are you there? Please answer! Hurry!"
-msgstr ""
+msgstr "tu es là ? Réponds, s'il te plaît ! Vite !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/16/s/0
 msgctxt "Choix"
 msgid "Yes, I'm here."
-msgstr ""
+msgstr "Oui, je suis là."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/17/s/0
 msgctxt "Choix"
 msgid "I don't work for you, dude."
-msgstr ""
+msgstr "Je bosse pas pour toi, mec."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/c-0/7
 msgctxt "Player"
 msgid "Yes, I'm here."
-msgstr ""
+msgstr "Oui, je suis là."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/c-1/7
 msgctxt "Player"
 msgid "I don't work for you, dude."
-msgstr ""
+msgstr "Je bosse pas pour toi, mec."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/c-1/15
 msgctxt "tinfoilhat"
 msgid "I understand that. But this can not wait."
-msgstr ""
+msgstr "Je le sais bien. Mais ça ne peut pas attendre."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-0/0
 msgctxt "tinfoilhat"
 msgid "There’s something we need to discuss. It’s of the utmost importance."
-msgstr ""
+msgstr "Il faut qu'on parle de quelque chose. C'est de la plus haute importance."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-0/5/b/1
 msgctxt "tinfoilhat"
 msgid "Besides, we both know you're just being a jerk with the toasters and whatever else, like you are with me."
-msgstr ""
+msgstr "Et puis, on sait tous les deux que tu fais juste le con avec les grille-pain et tout le reste, comme avec moi."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Go on!"
-msgstr ""
+msgstr "Vas-y !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Only if it's the utmost."
-msgstr ""
+msgstr "Seulement si c'est de la plus haute."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-0/c-2/13
 msgctxt "Player"
 msgid "Go on!"
-msgstr ""
+msgstr "Vas-y !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-0/c-3/7
 msgctxt "Player"
 msgid "Only if it's the utmost."
-msgstr ""
+msgstr "Seulement si c'est de la plus haute."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/0
 msgctxt "tinfoilhat"
 msgid "It’s the dateviators. As I mentioned, I’ve been closely monitoring the electromagnetic field anomalies emitting from the Quantum Catalyst Activator."
-msgstr ""
+msgstr "Ce sont les Dateviators. Comme je te l'ai dit, je surveille de près les anomalies du champ électromagnétique émises par l'Activateur Catalytique Quantique."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/5
 msgctxt "tinfoilhat"
 msgid "And I know this is going to sound completely insane, but it appears..."
-msgstr ""
+msgstr "Et je sais que ça va paraître complètement fou, mais il semblerait que..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/10
 msgctxt "tinfoilhat"
 msgid "Well it seems..."
-msgstr ""
+msgstr "Eh bien, on dirait que..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/15
 msgctxt "tinfoilhat"
 msgid "I can’t believe I’ve even typing this..."
-msgstr ""
+msgstr "Je n'arrive pas à croire que je suis en train de taper ça..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/20/s/0
 msgctxt "Choix"
 msgid "Yes?"
-msgstr ""
+msgstr "Oui ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/21/s/0
 msgctxt "Choix"
 msgid "Spit it out!"
-msgstr ""
+msgstr "Accouche !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/c-4/7
 msgctxt "Player"
 msgid "Yes?"
-msgstr ""
+msgstr "Oui ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/c-5/7
 msgctxt "Player"
 msgid "Spit it out!"
-msgstr ""
+msgstr "Accouche !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-1/c-5/15
 msgctxt "tinfoilhat"
 msgid "I'm attempting to!"
-msgstr ""
+msgstr "J'essaie !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-2/0
 msgctxt "tinfoilhat"
 msgid "Based on the data I’m looking at, you may actually be able to use the dateviators to..."
-msgstr ""
+msgstr "D'après les données que j'ai sous les yeux, tu pourrais réellement utiliser les Dateviators pour..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-2/5
 msgctxt "tinfoilhat"
 msgid "Bring objects... <i>to life.</i>"
-msgstr ""
+msgstr "Donner vie aux objets... <i>pour de vrai.</i>"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-2/10/0/s/0
 msgctxt "Choix"
 msgid "Yeah I'm doing that now. It's hot."
-msgstr ""
+msgstr "Ouais, c'est ce que je fais en ce moment. C'est sexy."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-2/10/1/s/0
 msgctxt "Choix"
 msgid "Isn't that what I've been doing?"
-msgstr ""
+msgstr "C'est pas ce que je fais depuis le début ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-2/10/c-6/7
 msgctxt "Player"
 msgid "Yeah I'm doing that now. It's hot."
-msgstr ""
+msgstr "Ouais, c'est ce que je fais en ce moment. C'est sexy."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-2/10/c-7/7
 msgctxt "Player"
 msgid "Isn't that what I've been doing?"
-msgstr ""
+msgstr "C'est pas ce que je fais depuis le début ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/0
 msgctxt "tinfoilhat"
 msgid "No you’re not <i>listening.</i>"
-msgstr ""
+msgstr "Non, tu n'<i>écoutes</i> pas."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/5/b/1
 msgctxt "tinfoilhat"
 msgid "Which, annoyingly, is becoming kind of a pattern with you..."
-msgstr ""
+msgstr "Ce qui, c'est agaçant, commence à devenir une habitude chez toi..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/8
 msgctxt "tinfoilhat"
 msgid "I don’t mean to engage with an object’s sentience during intended usage. That’s what the dateviators were created to do and they’ve been working perfectly."
-msgstr ""
+msgstr "Je ne parle pas d'interagir avec la conscience d'un objet dans le cadre d'une utilisation normale. C'est pour ça que les Dateviators ont été créés, et ils fonctionnent parfaitement."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/13
 msgctxt "tinfoilhat"
 msgid "I mean to — 100% literally — transform objects into living, breathing <i>humans.</i>"
-msgstr ""
+msgstr "Je parle de transformer, à 100 % littéralement, des objets en <i>humains</i> vivants qui respirent."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/18/s/0
 msgctxt "Choix"
 msgid "Whoa. That’s awesome!"
-msgstr ""
+msgstr "Wow. Trop génial !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/19/s/0
 msgctxt "Choix"
 msgid "Sounds cool!"
-msgstr ""
+msgstr "Ça a l'air cool !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/20/s/0
 msgctxt "Choix"
 msgid "This seems a little scary..."
-msgstr ""
+msgstr "Ça fait un peu peur..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/21/s/0
 msgctxt "Choix"
 msgid "My goodness... tell me more."
-msgstr ""
+msgstr "Mon Dieu... raconte-m'en plus."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/c-8/7
 msgctxt "Player"
 msgid "Whoa. That's awesome!"
-msgstr ""
+msgstr "Wow. Trop génial !"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_6/0/g-4/c-8/9 thiscord_phone/tfh_6/0/g-4/c-9/9 thiscord_phone/tfh_6/0/g-4/c-10/9
 msgctxt "tinfoilhat"
 msgid "Frankly"
-msgstr ""
+msgstr "Franchement"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_6/0/g-4/c-8/14
 msgctxt "Narration / joueur"
 msgid ", we don’t know if it’s awesome."
-msgstr ""
+msgstr ", on ne sait pas si c'est génial."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/c-9/7
 msgctxt "Player"
 msgid "Sounds cool!"
-msgstr ""
+msgstr "Ça a l'air cool !"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_6/0/g-4/c-9/14
 msgctxt "Narration / joueur"
 msgid ", we don’t know if it’s cool."
-msgstr ""
+msgstr ", on ne sait pas si c'est cool."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/c-10/7
 msgctxt "Player"
 msgid "This seems a little scary..."
-msgstr ""
+msgstr "Ça fait un peu peur..."
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_6/0/g-4/c-10/14
 msgctxt "Narration / joueur"
 msgid ", we don’t know if it’s scary."
-msgstr ""
+msgstr ", on ne sait pas si ça doit faire peur."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-4/c-11/7
 msgctxt "Player"
 msgid "My goodness... tell me more."
-msgstr ""
+msgstr "Mon Dieu... raconte-m'en plus."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/0
 msgctxt "tinfoilhat"
 msgid "We have absolutely no idea the ethical implications of turning objects into people."
-msgstr ""
+msgstr "On n'a absolument aucune idée des implications éthiques de la transformation d'objets en personnes."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/5
 msgctxt "tinfoilhat"
 msgid "Would they have rights? Do we need to feed them? And if so, how often would we need to feed them?"
-msgstr ""
+msgstr "Auraient-ils des droits ? Faudrait-il les nourrir ? Et si oui, à quelle fréquence ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/10
 msgctxt "tinfoilhat"
 msgid "Is only lunch enough if it’s a big lunch?"
-msgstr ""
+msgstr "Est-ce qu'un seul déjeuner suffit, si c'est un gros déjeuner ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/15
 msgctxt "tinfoilhat"
 msgid "We’re sleep-walking into a mine-field of existential dilemmas here."
-msgstr ""
+msgstr "On s'avance en somnambules dans un champ de mines de dilemmes existentiels."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/20/s/0
 msgctxt "Choix"
 msgid "Good point."
-msgstr ""
+msgstr "Bien vu."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/21/s/0
 msgctxt "Choix"
 msgid "I'm not that concerned."
-msgstr ""
+msgstr "Ça m'inquiète pas plus que ça."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/c-12/13
 msgctxt "Player"
 msgid "Good point."
-msgstr ""
+msgstr "Bien vu."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/c-13/13
 msgctxt "Player"
 msgid "I'm not that concerned."
-msgstr ""
+msgstr "Ça m'inquiète pas plus que ça."
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_6/0/g-5/c-13/15
 msgctxt "tinfoilhat"
 msgid "Well you should be"
-msgstr ""
+msgstr "Eh bien, ça devrait,"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-5/c-13/25
 msgctxt "tinfoilhat"
 msgid "Who's going to pay for all those big lunches? Not me, that's for sure."
-msgstr ""
+msgstr "Qui va payer pour tous ces gros déjeuners ? Pas moi, c'est sûr."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-6/0
 msgctxt "tinfoilhat"
 msgid "Not to mention I didn’t even program the dateviators with that functionality!"
-msgstr ""
+msgstr "Sans compter que je n'ai même pas programmé cette fonctionnalité dans les Dateviators !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-6/5
 msgctxt "tinfoilhat"
 msgid "Maybe the government augmented my original schematics with secret military tech... but I’d have to do more tests to be sure."
-msgstr ""
+msgstr "Peut-être que le gouvernement a enrichi mes schémas d'origine avec une technologie militaire secrète... mais il faudrait que je fasse d'autres tests pour en être sûr."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-6/10/s/0
 msgctxt "Choix"
 msgid "What kind of tests?"
-msgstr ""
+msgstr "Quel genre de tests ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-6/c-14/7
 msgctxt "Player"
 msgid "What kind of tests?"
-msgstr ""
+msgstr "Quel genre de tests ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-7/0
 msgctxt "tinfoilhat"
 msgid "I’m sorry, but we’ll have to pick this up later."
-msgstr ""
+msgstr "Désolé, mais on va devoir reprendre plus tard."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-7/5
 msgctxt "tinfoilhat"
 msgid "I’m not under any sort of duress or anything, but I had a huge enchilada for lunch and I’m just exhausted."
-msgstr ""
+msgstr "Je ne suis pas sous la contrainte ni rien, mais j'ai mangé une énorme enchilada à midi et je suis juste épuisé."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_6/0/g-7/10
 msgctxt "tinfoilhat"
 msgid "I’ll reach out again when I’m able."
-msgstr ""
+msgstr "Je te recontacterai dès que je pourrai."
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: thiscord_phone/tfh_7/0/11
 msgctxt "Narration / joueur"
 msgid ", it’s me."
-msgstr ""
+msgstr ", c'est moi."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/16
 msgctxt "tinfoilhat"
 msgid "Were you followed? Is this signal encrypted?"
-msgstr ""
+msgstr "Tu as été suivi{{|e|·e}} ? Ce signal est chiffré ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/21/s/0
 msgctxt "Choix"
 msgid "We're clear."
-msgstr ""
+msgstr "La voie est libre."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/22/s/0
 msgctxt "Choix"
 msgid "No idea."
-msgstr ""
+msgstr "Aucune idée."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/c-0/7
 msgctxt "Player"
 msgid "We're clear."
-msgstr ""
+msgstr "La voie est libre."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/c-1/7
 msgctxt "Player"
 msgid "No idea."
-msgstr ""
+msgstr "Aucune idée."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/c-1/15/b/1
 msgctxt "tinfoilhat"
 msgid "Why am I not surprised."
-msgstr ""
+msgstr "Pourquoi ça ne m'étonne pas."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/c-1/18
 msgctxt "tinfoilhat"
 msgid "It’ll have to do."
-msgstr ""
+msgstr "Ça fera l'affaire."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-0/0
 msgctxt "tinfoilhat"
 msgid "Listen, I’ve been giving more thought to our previous conversation. About the ethical implications of transforming inanimate objects into humans."
-msgstr ""
+msgstr "Écoute, j'ai beaucoup repensé à notre dernière conversation. Aux implications éthiques de la transformation d'objets inanimés en humains."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-0/5
 msgctxt "tinfoilhat"
 msgid "And I’ve come to a realization."
-msgstr ""
+msgstr "Et j'ai eu une révélation."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-0/c-2/7
 msgctxt "Player"
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-1/0
 msgctxt "tinfoilhat"
 msgid "It’s honestly not up to us whether an object should become human. It’s up to the object."
-msgstr ""
+msgstr "Honnêtement, ce n'est pas à nous de décider si un objet doit devenir humain. C'est à l'objet."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-1/5
 msgctxt "tinfoilhat"
 msgid "And if an object expresses desire for personhood, who are we to deny them?"
-msgstr ""
+msgstr "Et si un objet exprime le désir de devenir une personne, qui sommes-nous pour le lui refuser ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "Makes sense. I agree."
-msgstr ""
+msgstr "Logique. Je suis d'accord."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-1/11/s/0
 msgctxt "Choix"
 msgid "You sure about that?"
-msgstr ""
+msgstr "T'es sûr de ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-1/c-3/13
 msgctxt "Player"
 msgid "Makes sense. I agree."
-msgstr ""
+msgstr "Logique. Je suis d'accord."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-1/c-4/7
 msgctxt "Player"
 msgid "You sure about that?"
-msgstr ""
+msgstr "T'es sûr de ça ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-1/c-4/15
 msgctxt "tinfoilhat"
 msgid "Yep."
-msgstr ""
+msgstr "Ouaip."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/0
 msgctxt "tinfoilhat"
 msgid "I did discover one other interesting piece to all this."
-msgstr ""
+msgstr "J'ai découvert un autre élément intéressant dans tout ça."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/5/b/1
 msgctxt "tinfoilhat"
 msgid "At least <i>I</i> find the ability to transform inanimate objects into living humans interesting. Even if you're not super impressed."
-msgstr ""
+msgstr "En tout cas, <i>moi</i>, je trouve intéressante la capacité de transformer des objets inanimés en humains vivants. Même si toi, ça ne t'impressionne pas plus que ça."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/8
 msgctxt "tinfoilhat"
 msgid "After analyzing the data, it appears that certain objects can only become human if the Dateviator user possesses the necessary personality traits."
-msgstr ""
+msgstr "Après analyse des données, il semble que certains objets ne puissent devenir humains que si l'utilisateur des Dateviators possède les traits de personnalité nécessaires."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/13
 msgctxt "tinfoilhat"
 msgid "I’m not sure why... I theorize it’s because certain character attributes emit an energy vibration on the same resonant frequency as the molecules of a particular inanimate object."
-msgstr ""
+msgstr "Je ne sais pas pourquoi... Ma théorie, c'est que certains traits de caractère émettent une vibration énergétique sur la même fréquence de résonance que les molécules d'un objet inanimé donné."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/18
 msgctxt "tinfoilhat"
 msgid "But in all honesty it’s likely a mystery that science will never solve."
-msgstr ""
+msgstr "Mais en toute honnêteté, c'est sans doute un mystère que la science ne résoudra jamais."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/23/s/0
 msgctxt "Choix"
 msgid "Oh I have a theory!"
-msgstr ""
+msgstr "Oh, j'ai une théorie !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "Hm okay..."
-msgstr ""
+msgstr "Hm, ok..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "Guess we'll never know."
-msgstr ""
+msgstr "On saura jamais, alors."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/c-5/7
 msgctxt "Player"
 msgid "Oh I have a theory!"
-msgstr ""
+msgstr "Oh, j'ai une théorie !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/c-5/9
 msgctxt "tinfoilhat"
 msgid "THAT SCIENCE WILL NEVER SOLVE."
-msgstr ""
+msgstr "QUE LA SCIENCE NE RÉSOUDRA JAMAIS."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/c-6/7
 msgctxt "Player"
 msgid "Hm okay..."
-msgstr ""
+msgstr "Hm, ok..."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-2/c-7/7
 msgctxt "Player"
 msgid "Guess we'll never know."
-msgstr ""
+msgstr "On saura jamais, alors."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-3/0
 msgctxt "tinfoilhat"
 msgid "Regardless, I was able to discover which personality traits seem to resonate with each inanimate object, and I’ve uploaded that data into the dateviators."
-msgstr ""
+msgstr "Quoi qu'il en soit, j'ai réussi à découvrir quels traits de personnalité semblent entrer en résonance avec chaque objet inanimé, et j'ai téléversé ces données dans les Dateviators."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-3/5
 msgctxt "tinfoilhat"
 msgid "I’ve labeled it \"Realization Recipes.\" You should be able to access those files now."
-msgstr ""
+msgstr "Je les ai nommées « Recettes de Réalisation ». Tu devrais pouvoir accéder à ces fichiers maintenant."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-3/10/s/0
 msgctxt "Choix"
 msgid "Why \"Realization Recipes\"?"
-msgstr ""
+msgstr "Pourquoi « Recettes de Réalisation » ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-3/c-8/7
 msgctxt "Player"
 msgid "Why \"Realization Recipes\"?"
-msgstr ""
+msgstr "Pourquoi « Recettes de Réalisation » ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-4/0
 msgctxt "tinfoilhat"
 msgid "I’m so sorry but there’s no time."
-msgstr ""
+msgstr "Je suis vraiment désolé, mais on n'a pas le temps."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-4/5
 msgctxt "tinfoilhat"
 msgid "Valdivian’s goons were closing in — so I was forced to flee to a country in South America to avoid detection — and my cell carrier’s overseas data plan is very limited."
-msgstr ""
+msgstr "Les sbires de Valdivian se rapprochaient, alors j'ai dû fuir dans un pays d'Amérique du Sud pour ne pas être repéré, et le forfait data à l'étranger de mon opérateur est très limité."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-4/10
 msgctxt "tinfoilhat"
 msgid "Seriously, 10MB a day?! I can barely send a gif; what a joke!"
-msgstr ""
+msgstr "Sérieusement, 10 Mo par jour ?! J'arrive à peine à envoyer un gif, c'est une blague !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_7/0/g-4/18
 msgctxt "tinfoilhat"
 msgid "Remember: check the dateviators for the Realization Recipes!"
-msgstr ""
+msgstr "Souviens-toi : consulte les Recettes de Réalisation dans les Dateviators !"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_8/0/15
 msgctxt "tinfoilhat"
 msgid "David is obviously becoming desperate. And he doesn’t do well under pressure."
-msgstr ""
+msgstr "David devient manifestement désespéré. Et il gère mal la pression."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_8/0/20
 msgctxt "tinfoilhat"
 msgid "I’m worried his behavior will gradually become increasingly erratic, until he crosses a line he can’t come back from."
-msgstr ""
+msgstr "J'ai peur que son comportement devienne de plus en plus imprévisible, jusqu'à ce qu'il franchisse une limite sans retour possible."
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_8/0/25/s/0
 msgctxt "Choix"
 msgid "That sounds bad?"
-msgstr ""
+msgstr "Ça a l'air grave ?"
 
+# Traduction IA – à relire
 #: thiscord_phone/tfh_8/0/c-0/7
 msgctxt "Player"
 msgid "That sounds bad?"
-msgstr ""
+msgstr "Ça a l'air grave ?"
 
 #: thiscord_phone/tfh_8/0/g-0/0
 msgctxt "tinfoilhat"
