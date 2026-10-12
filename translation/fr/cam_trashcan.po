@@ -8,2605 +8,3125 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: cam_trashcan/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "TRASH CAN"
-msgstr ""
+msgstr "POUBELLE"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/0
 msgctxt "Cam"
 msgid "Yo. Are you here for the memory lady?"
-msgstr ""
+msgstr "Yo. T'es là pour la dame aux souvenirs ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/8/s/0
 msgctxt "Choix"
 msgid "Yes, can I see her?"
-msgstr ""
+msgstr "Oui, je peux la voir ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/9/s/0
 msgctxt "Choix"
 msgid "No, not now."
-msgstr ""
+msgstr "Non, pas maintenant."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/c-0/7 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-3/19/c-0/15/0/c-2/31/c-0/15/c-1/23/c-1/23/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Yeah."
-msgstr ""
+msgstr "Ouais."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/c-0/23
 msgctxt "Cam"
 msgid "You know she has a story for every <i>single</i> thing I own?"
-msgstr ""
+msgstr "Tu sais qu'elle a une histoire sur <i>chaque</i> truc que je possède ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/c-0/31
 msgctxt "Cam"
 msgid "It's annoying."
-msgstr ""
+msgstr "C'est saoulant."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/c-0/39
 msgctxt "Cam"
 msgid "Anyway."
-msgstr ""
+msgstr "Bref."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria_return/0/c-1/7
 msgctxt "Cam"
 msgid "Okay."
-msgstr ""
+msgstr "OK."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria/0/0
 msgctxt "Cam"
 msgid "Yo."
-msgstr ""
+msgstr "Yo."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria/0/8/s/0
 msgctxt "Choix"
 msgid "Memoria?"
-msgstr ""
+msgstr "Memoria ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria/0/c-0/7 cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-0/15/c-0/7 cam_trashcan/crazy_cam_condition/0/c-1/7
 msgctxt "Cam"
 msgid "K."
-msgstr ""
+msgstr "OK."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria/0/c-0/15/b/1
 msgctxt "Narrator"
 msgid "It appears that Cam is interested in helping with Lady Memoria. Artt is still required for her request."
-msgstr ""
+msgstr "On dirait que Cam veut bien aider Dame Memoria. Il vous faut encore Artt pour répondre à sa requête."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_memoria/0/c-0/16/b/1
 msgctxt "Narrator"
 msgid "And with that, your quest for Lady Memoria is complete."
-msgstr ""
+msgstr "Et sur ce, votre quête pour Dame Memoria est accomplie."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_jerry/0/0 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "Yeah?"
-msgstr ""
+msgstr "Ouais ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_jerry/0/8/s/0
 msgctxt "Choix"
 msgid "I've got some of Jerry's old things."
-msgstr ""
+msgstr "J'ai quelques vieux trucs de Jerry."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_jerry/0/c-0/10
 msgctxt "Cam"
 msgid "The junk dude? Sweet."
-msgstr ""
+msgstr "Le mec du bric-à-brac ? Cool."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_jerry/0/c-0/18
 msgctxt "Cam"
 msgid "He's been keeping all the good stuff for way too long."
-msgstr ""
+msgstr "Ça fait bien trop longtemps qu'il garde tous les bons trucs pour lui."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/6
 msgctxt "Narrator"
 msgid "When you turned your gaze on your trash can you were expecting shiny metal and black plastic—dammit, you expected the garbage."
-msgstr ""
+msgstr "En posant le regard sur votre poubelle, vous vous attendiez à du métal brillant et du plastique noir. Bon sang, vous vous attendiez à des ordures."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/14
 msgctxt "Narrator"
 msgid "What you weren't expecting was the handsome face, sculpted jaw and delicate peeks of skin artfully framed by actual garbage."
-msgstr ""
+msgstr "Ce à quoi vous ne vous attendiez pas, c'était ce beau visage, cette mâchoire sculptée et ces délicates touches de peau, savamment encadrés par de véritables ordures."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/22
 msgctxt "Narrator"
 msgid "This garbage lurker, for his part, seems far less impressed with you."
-msgstr ""
+msgstr "Ce rôdeur des détritus, quant à lui, semble bien moins impressionné par vous."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/46 cam_trashcan/cam_realized/0/g-0/0
 msgctxt "Cam"
 msgid "What."
-msgstr ""
+msgstr "Quoi."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/65/s/0
 msgctxt "Choix"
 msgid "Hey man, what's up?"
-msgstr ""
+msgstr "Salut mec, quoi de neuf ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/c-0/7
 msgctxt "Cam"
 msgid "Um, things that aren't down, I guess..."
-msgstr ""
+msgstr "Euh, des trucs pas vieux, j'imagine..."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Ha, yeah, good point!"
-msgstr ""
+msgstr "Ha, ouais, bien vu !"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Cool. Cryptic. Anyway..."
-msgstr ""
+msgstr "Cool. Énigmatique. Bref..."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "That was kind of antagonistic."
-msgstr ""
+msgstr "C'était un peu agressif, ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Yeah, I make those from time to time. Try not to look so shocked."
-msgstr ""
+msgstr "Ouais, ça m'arrive de temps en temps. Essaie de pas avoir l'air si {{choqué|choquée|choqué·e}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Oh, I get it. Delicate ego over here."
-msgstr ""
+msgstr "Oh, je vois. Ego fragile, par ici."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Aw. Whoops. I think you'll live."
-msgstr ""
+msgstr "Oh. Oups. Je crois que tu survivras."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/0
 msgctxt "Cam"
 msgid "Have anything for me today?"
-msgstr ""
+msgstr "T'as quelque chose pour moi aujourd'hui ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/8/s/0 cam_trashcan/cam_friendship/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/7/b/1
 msgctxt "Cam"
 msgid "We do this everyday, dude. What did you bring."
-msgstr ""
+msgstr "On fait ça tous les jours, mec. T'as apporté quoi."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/10/b/1
 msgctxt "Cam"
 msgid "We do this everyday, lady. What did you bring."
-msgstr ""
+msgstr "On fait ça tous les jours, ma grande. T'as apporté quoi."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/13/b/1
 msgctxt "Cam"
 msgid "We do this everyday, pal. What did you bring."
-msgstr ""
+msgstr "On fait ça tous les jours, toi. T'as apporté quoi."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/0/s/0
 msgctxt "Choix"
 msgid "Well, let me check..."
-msgstr ""
+msgstr "Eh bien, voyons voir..."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/7
 msgctxt "Cam"
 msgid "I'll just wait."
-msgstr ""
+msgstr "J'attends."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I've got a clementine peel."
-msgstr ""
+msgstr "J'ai une peau de clémentine."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I left a glove in one of the closet boxes about six months ago so I've got one glove now."
-msgstr ""
+msgstr "J'ai laissé un gant dans un des cartons du placard il y a six mois, alors maintenant, j'ai un gant tout seul."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "How about half of this day-old pinto burrito?"
-msgstr ""
+msgstr "Que dirais-tu de la moitié de ce burrito aux haricots de la veille ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Clementine, huh? Guessing you're not throwing away a song about the California Gold Rush in 1849."
-msgstr ""
+msgstr "Une clémentine, hein ? J'imagine que tu jettes pas une chanson sur la ruée vers l'or de 1849 en Californie."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Um, no. It's a fruit. It's like a sweet, tiny orange."
-msgstr ""
+msgstr "Euh, non. C'est un fruit. C'est comme une petite orange sucrée."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "They actually spontaneously evolved from an orange tree in the garden of an Algerian orphanage in the 1800's."
-msgstr ""
+msgstr "En fait, elles sont apparues spontanément sur un oranger dans le jardin d'un orphelinat algérien, dans les années 1800."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "And I ate it. I don't like eating the peel."
-msgstr ""
+msgstr "Et je l'ai mangée. Je n'aime pas manger la peau."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Wow. That was... detailed."
-msgstr ""
+msgstr "Waouh. C'était... détaillé."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Well, I do."
-msgstr ""
+msgstr "Ben moi, si."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Six months ago and you just bring it now?"
-msgstr ""
+msgstr "Il y a six mois, et tu me l'apportes que maintenant ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I kept hoping I'd get motivated to go through my stuff..."
-msgstr ""
+msgstr "J'espérais toujours trouver la motivation de trier mes affaires..."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "I forgot about it."
-msgstr ""
+msgstr "Je l'avais oublié."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "I didn't want it to feel abandoned."
-msgstr ""
+msgstr "Je ne voulais pas qu'il se sente abandonné."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "You didn't, did you."
-msgstr ""
+msgstr "T'as rien fait, hein."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "...no."
-msgstr ""
+msgstr "... non."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "That tracks."
-msgstr ""
+msgstr "Ça colle."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-1/15/c-2/7
 msgctxt "Cam"
 msgid "I feel the same way about the crumbs in the bottom of the Petito's bag."
-msgstr ""
+msgstr "Je ressens la même chose pour les miettes au fond du sachet de Petito's."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Sauce packet or nah?"
-msgstr ""
+msgstr "Avec le sachet de sauce, ou pas ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "I've got the sauce packet."
-msgstr ""
+msgstr "J'ai le sachet de sauce."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/c-0/7
 msgctxt "Cam"
 msgid "Score. What kind of sauce?"
-msgstr ""
+msgstr "Jackpot. Quel genre de sauce ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Mild."
-msgstr ""
+msgstr "Douce."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "The spicy kind."
-msgstr ""
+msgstr "La piquante."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "I don't know. I never use it, anyway."
-msgstr ""
+msgstr "Je ne sais pas. De toute façon, je ne l'utilise jamais."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "So, tomato flavored water."
-msgstr ""
+msgstr "Donc, de l'eau parfumée à la tomate."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Bring it on. Day-old pinto fiesta, let's go."
-msgstr ""
+msgstr "Envoie. Fiesta aux haricots de la veille, c'est parti."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-0/c-1/16/c-0/15/c-2/15/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Well there's a missed opportunity."
-msgstr ""
+msgstr "Ben voilà une occasion manquée."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/0
 msgctxt "Cam"
 msgid "Nice haul. I'll take it."
-msgstr ""
+msgstr "Belle prise. Je prends."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "Great. Enjoy."
-msgstr ""
+msgstr "Super. Régale-toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "You really want this grody trash?"
-msgstr ""
+msgstr "Tu veux vraiment ces ordures dégueu ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "Thanks. I'm glad to be rid of it!"
-msgstr ""
+msgstr "Merci. Je suis {{content|contente|content·e}} d'en être {{débarrassé|débarrassée|débarrassé·e}} !"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/c-3/7
 msgctxt "Cam"
 msgid "Watch your mouth."
-msgstr ""
+msgstr "Surveille ton langage."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "What's with the attitude?"
-msgstr ""
+msgstr "C'est quoi, cette attitude ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/c-3/15/c-0/7
 msgctxt "Cam"
 msgid "I'm sorry. Not into explaining myself."
-msgstr ""
+msgstr "Désolé. J'ai pas envie de me justifier."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/c-4/7
 msgctxt "Cam"
 msgid "Always glad to help you."
-msgstr ""
+msgstr "Toujours content de t'aider."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-1/c-4/15 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-1/15/g-0/16/g-0/8/c-1/23/c-1/15/c-0/31/g-0/8/c-0/15 cam_trashcan/chemistry/0/c-1/31/c-1/23/g-0/8
 msgctxt "Cam"
 msgid "I guess."
-msgstr ""
+msgstr "J'imagine."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/0
 msgctxt "Narrator"
 msgid "You hand your trash over to Cam, and he takes it from you, pocketing it without another word."
-msgstr ""
+msgstr "Vous tendez vos déchets à Cam, qui vous les prend et les empoche sans un mot de plus."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/16
 msgctxt "Cam"
 msgid "And you're still here."
-msgstr ""
+msgstr "Et t'es toujours là."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "Yeah. Aren't we going to talk, or hang out, or something?"
-msgstr ""
+msgstr "Ouais. On ne va pas discuter, traîner ensemble, ou un truc du genre ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "Okay, bye."
-msgstr ""
+msgstr "OK, salut."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/c-5/7
 msgctxt "Cam"
 msgid "Wasn't planning on it."
-msgstr ""
+msgstr "C'était pas prévu."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/c-5/15/0/s/0
 msgctxt "Choix"
 msgid "So then... now what?"
-msgstr ""
+msgstr "Alors... et maintenant ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/c-5/15/c-0/7
 msgctxt "Cam"
 msgid "Now you go."
-msgstr ""
+msgstr "Maintenant, tu t'en vas."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/c-5/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "But... you're hot."
-msgstr ""
+msgstr "Mais... tu es canon."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/c-5/15/c-0/15/g-0/0
 msgctxt "Cam"
 msgid "Go, go. Be free."
-msgstr ""
+msgstr "Allez, va. Sois libre."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-2/c-5/15/c-0/15/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "I am free. I'm free to be here."
-msgstr ""
+msgstr "Je suis libre. Libre d'être ici."
 
+# Traduction IA – à relire
 #: cam_trashcan/greetings_trash_man/0/g-3/0
 msgctxt "Cam"
 msgid "Damn, chuckles. BYE."
-msgstr ""
+msgstr "Bon sang, rayon de soleil. SALUT."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/6
 msgctxt "Cam"
 msgid "Oh. It's you."
-msgstr ""
+msgstr "Oh. C'est toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/14/s/0
 msgctxt "Choix"
 msgid "Yup, it's me!"
-msgstr ""
+msgstr "Eh oui, c'est moi !"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/15/s/0
 msgctxt "Choix"
 msgid "Salty again, huh?"
-msgstr ""
+msgstr "Encore d'humeur salée, hein ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/16/s/0
 msgctxt "Choix"
 msgid "Nice to see you, too."
-msgstr ""
+msgstr "Moi aussi, je suis {{content|contente|content·e}} de te voir."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/7
 msgctxt "Cam"
 msgid "Are you always this... happy?"
-msgstr ""
+msgstr "T'es toujours aussi... {{joyeux|joyeuse|joyeux·se}} ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I try to be. A positive attitude is good for you."
-msgstr ""
+msgstr "J'essaie. Une attitude positive, c'est bon pour la santé."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Sometimes I am, sometimes I'm not."
-msgstr ""
+msgstr "Parfois oui, parfois non."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Hell, no. Excitement is lame."
-msgstr ""
+msgstr "Carrément pas. L'enthousiasme, c'est nul."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "I dunno... I mostly can't tell the difference between positivity and a bad hangover."
-msgstr ""
+msgstr "J'sais pas... La plupart du temps, j'arrive pas à faire la différence entre la positivité et une grosse gueule de bois."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Same, I guess."
-msgstr ""
+msgstr "Pareil, j'imagine."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Really. Have I seen you happy?"
-msgstr ""
+msgstr "Vraiment. Est-ce que je t'ai déjà vu heureux ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "I doubt it."
-msgstr ""
+msgstr "J'en doute."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What are you like when you're happy?"
-msgstr ""
+msgstr "Tu es comment, quand tu es heureux ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/c-1/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "...I wear more pink."
-msgstr ""
+msgstr "... je porte plus de rose."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Hey, whatever you gotta tell yourself."
-msgstr ""
+msgstr "Hé, si ça peut te rassurer."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-1/7
 msgctxt "Cam"
 msgid "Salt adds flavor. Use liberally."
-msgstr ""
+msgstr "Le sel, ça donne du goût. À utiliser sans modération."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/c-2/7
 msgctxt "Cam"
 msgid "Sure, whatever."
-msgstr ""
+msgstr "Ouais, peu importe."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/3
 msgctxt "Cam"
 msgid "What did ya bring?"
-msgstr ""
+msgstr "T'as apporté quoi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/11/s/0
 msgctxt "Choix"
 msgid "Oh dammit, was I supposed to bring something?"
-msgstr ""
+msgstr "Oh, mince, j'étais censé{{|e|·e}} apporter quelque chose ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/12/s/0
 msgctxt "Choix"
 msgid "I'm trying to bring some good conversation but that's a two-person sport."
-msgstr ""
+msgstr "J'essaie d'apporter une conversation agréable, mais c'est un sport qui se joue à deux."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/7
 msgctxt "Cam"
 msgid "Having trouble coming up with another reason why you'd be talking to me."
-msgstr ""
+msgstr "J'ai du mal à trouver une autre raison pour que tu viennes me parler."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "I happen to like your company."
-msgstr ""
+msgstr "Il se trouve que j'aime ta compagnie."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/1/s/0
 msgctxt "Choix"
 msgid "Wow... um, do you want to talk? Or something?"
-msgstr ""
+msgstr "Waouh... euh, tu veux discuter ? Ou un truc du genre ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/7
 msgctxt "Cam"
 msgid "Sure you do. And on the inside, I'm Dolly Carton."
-msgstr ""
+msgstr "Bien sûr. Et à l'intérieur, je suis Dolly Carton."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You are?? Oh my god!"
-msgstr ""
+msgstr "C'est vrai ?? Oh mon dieu !"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "No you're not."
-msgstr ""
+msgstr "Non, c'est faux."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "See? That. I like it."
-msgstr ""
+msgstr "Tu vois ? Ça. J'adore."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Has anyone ever told you you're weird?"
-msgstr ""
+msgstr "On t'a déjà dit que t'étais bizarre ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Well, yeah."
-msgstr ""
+msgstr "Eh bien, oui."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "If loving her is weird, I don't want to be... not that."
-msgstr ""
+msgstr "Si l'aimer, c'est bizarre, alors je ne veux pas être... pas ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "What is weird anyway?"
-msgstr ""
+msgstr "C'est quoi, être bizarre, de toute façon ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "I figured."
-msgstr ""
+msgstr "Je m'en doutais."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "That sentence sure got messy."
-msgstr ""
+msgstr "Elle est partie dans tous les sens, cette phrase."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Comes from the old english word \"wyrd.\""
-msgstr ""
+msgstr "Ça vient du vieil anglais « wyrd »."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/c-2/15
 msgctxt "Cam"
 msgid "Originally meant \"having the power to control destiny,\" like the fates or god, or whatever."
-msgstr ""
+msgstr "À l'origine, ça voulait dire « qui a le pouvoir de contrôler le destin », comme les Parques ou Dieu, ou peu importe."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/c-2/23/c-0/7
 msgctxt "Cam"
 msgid "Bet you didn't think I'd know stuff like that, did you."
-msgstr ""
+msgstr "Je parie que tu pensais pas que je savais ce genre de trucs, hein."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-0/15/c-2/23/c-0/15
 msgctxt "Cam"
 msgid "So, chuckles, let's do some business."
-msgstr ""
+msgstr "Bon, rayon de soleil, passons aux affaires."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Busted."
-msgstr ""
+msgstr "Grillé."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Right. And mutual admiration society meeting... closed."
-msgstr ""
+msgstr "C'est ça. Et la séance du club d'admiration mutuelle est... levée."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/7
 msgctxt "Cam"
 msgid "Not a whole lot, actually."
-msgstr ""
+msgstr "Pas grand-chose, en fait."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "That's cool. I don't like to talk either."
-msgstr ""
+msgstr "Cool. Moi non plus, je n'aime pas parler."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "You're pretty closed off, you know that?"
-msgstr ""
+msgstr "Tu es plutôt renfermé, tu le sais, ça ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "What are you, a therapist?"
-msgstr ""
+msgstr "T'es quoi, psy ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/c-0/15/0/s/0 cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "No, I just..."
-msgstr ""
+msgstr "Non, c'est juste que..."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Look, how 'bout you don't try to fix me, and we'll just stick to you giving me peels and papers and old plastic bags, K?"
-msgstr ""
+msgstr "Écoute, et si t'essayais pas de me réparer, et qu'on s'en tenait au fait que tu me files des épluchures, des papiers et des vieux sacs plastique, OK ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "Figured that one out all on your own?"
-msgstr ""
+msgstr "T'as trouvé ça {{tout seul|toute seule|tout·e seul·e}} ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "Oh, but you did. Good for you. There's your gold star for the day."
-msgstr ""
+msgstr "Oh, mais si. Bravo. Voilà ton bon point du jour."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-3/15/c-1/15/c-1/15/c-0/15
 msgctxt "Cam"
 msgid "Now how's about you give me some coffee grounds and yesterday's coupon mailer and we conclude our business."
-msgstr ""
+msgstr "Maintenant, si tu me filais du marc de café et les bons de réduction d'hier, qu'on conclue notre affaire ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/7
 msgctxt "Cam"
 msgid "We-he-hell, now who's salty?"
-msgstr ""
+msgstr "Ha-ha-ha, qui c'est qui est d'humeur salée, maintenant ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/0/s/0
 msgctxt "Choix"
 msgid "You bring it out in me."
-msgstr ""
+msgstr "C'est toi qui fais ressortir ça chez moi."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/1/s/0
 msgctxt "Choix"
 msgid "Wait, you like that?"
-msgstr ""
+msgstr "Attends, tu aimes ça ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/2/s/0
 msgctxt "Choix"
 msgid "Ugh, forget this."
-msgstr ""
+msgstr "Pff, laisse tomber."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/7
 msgctxt "Cam"
 msgid "Everyone's got a skill."
-msgstr ""
+msgstr "Tout le monde a un talent."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Yours is inspiring peoples' inner jackass?"
-msgstr ""
+msgstr "Le tien, c'est de réveiller le connard qui sommeille en chacun ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I'm sure you have more skills than just being sarcastic."
-msgstr ""
+msgstr "Je suis sûr{{|e|·e}} que tu as d'autres talents que le sarcasme."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Kind of a lame skill..."
-msgstr ""
+msgstr "C'est un talent un peu nul..."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "There aren't enough true jackasses left. I'm doing my bit for humanity."
-msgstr ""
+msgstr "Il reste plus assez de vrais connards. Je fais ma part pour l'humanité."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Didn't realize you were keeping score."
-msgstr ""
+msgstr "Je savais pas que tu comptais les points."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Not keeping score... I just meant I'll bet you're good at a lot of other things."
-msgstr ""
+msgstr "Je ne compte pas les points... Je voulais juste dire que tu es sûrement doué pour plein d'autres choses."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "I didn't mean anything by it..."
-msgstr ""
+msgstr "Je ne voulais rien insinuer..."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "Well right now, I'm pretty happy being good at this thing."
-msgstr ""
+msgstr "Ben là, tout de suite, ça me va très bien d'être doué pour ce truc-là."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-1/15/c-0/15
 msgctxt "Cam"
 msgid "Maybe you could be good at bringing me what you owe me and leaving me alone."
-msgstr ""
+msgstr "Tu pourrais peut-être être {{doué|douée|doué·e}} pour m'apporter ce que tu me dois et me laisser tranquille."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "It's fine. Don't worry about it."
-msgstr ""
+msgstr "C'est bon. T'inquiète pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-1/15/c-1/15
 msgctxt "Cam"
 msgid "Look, I've got a lot of skilled labor to get back to, so let's move this along."
-msgstr ""
+msgstr "Écoute, j'ai plein de travail qualifié qui m'attend, alors avançons."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "You're right. Maybe I should redevote myself to macrame."
-msgstr ""
+msgstr "T'as raison. Je devrais peut-être me reconsacrer au macramé."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-1/7
 msgctxt "Cam"
 msgid "It's more fun than walking on eggshells around a kiss ass, I'll tell ya that."
-msgstr ""
+msgstr "C'est plus marrant que de marcher sur des oeufs avec un lèche-bottes, je te le dis."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-1/15
 msgctxt "Cam"
 msgid "Not that I've ever been good at walking on eggshells."
-msgstr ""
+msgstr "Pas que j'aie jamais été doué pour marcher sur des oeufs."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-1/23
 msgctxt "Cam"
 msgid "I break shit."
-msgstr ""
+msgstr "Je casse tout."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "I can see that about you."
-msgstr ""
+msgstr "Ça ne m'étonne pas de toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "I do, too! I break hearts."
-msgstr ""
+msgstr "Moi aussi ! Je brise des coeurs."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-1/31/c-1/7
 msgctxt "Cam"
 msgid "Don't say that to anyone you respect."
-msgstr ""
+msgstr "Dis jamais ça à quelqu'un que tu respectes."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-2/7
 msgctxt "Cam"
 msgid "You're right. Let's just keep it simple."
-msgstr ""
+msgstr "T'as raison. Restons simples."
 
+# Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-1/0
 msgctxt "Cam"
 msgid "So, aside from your sparkling conversation, whaddya got?"
-msgstr ""
+msgstr "Bon, à part ta conversation pétillante, t'as quoi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/6
 msgctxt "Cam"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/14
 msgctxt "Cam"
 msgid "You."
-msgstr ""
+msgstr "Toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/22
 msgctxt "Cam"
 msgid "Hey."
-msgstr ""
+msgstr "Salut."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/30/s/0
 msgctxt "Choix"
 msgid "Hey."
-msgstr ""
+msgstr "Salut."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/31/s/0
 msgctxt "Choix"
 msgid "Sorry about before."
-msgstr ""
+msgstr "Désolé{{|e|·e}} pour tout à l'heure."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/c-0/7
 msgctxt "Cam"
 msgid "Looks like we're finally on the same page."
-msgstr ""
+msgstr "On dirait qu'on est enfin sur la même longueur d'onde."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/c-0/15 cam_trashcan/cam_greet_3/0/c-1/23
 msgctxt "Cam"
 msgid "Whaddya got?"
-msgstr ""
+msgstr "T'as quoi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/c-1/7
 msgctxt "Cam"
 msgid "Whatever. When you're a trash can, you gotta have a pretty thick liner."
-msgstr ""
+msgstr "Peu importe. Quand t'es une poubelle, faut avoir un sac bien épais."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/c-1/15
 msgctxt "Cam"
 msgid "But let's not get all counsel-y, ok? Not big on 'feelings'."
-msgstr ""
+msgstr "Mais on va pas jouer aux psys, OK ? Les « sentiments », c'est pas mon truc."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/6
 msgctxt "Cam"
 msgid "Ah, jeez."
-msgstr ""
+msgstr "Ah, misère."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/14
 msgctxt "Cam"
 msgid "You're back."
-msgstr ""
+msgstr "T'es revenu{{|e|·e}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/22
 msgctxt "Cam"
 msgid "Hope you've got something really worth it for me..."
-msgstr ""
+msgstr "J'espère que t'as un truc qui en vaut vraiment la peine..."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/30
 msgctxt "Cam"
 msgid "You're beginning to puncture my bag, if you know what I mean."
-msgstr ""
+msgstr "Tu commences à me percer le sac, si tu vois ce que je veux dire."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/38/s/0
 msgctxt "Choix"
 msgid "Am I? Oops. Thought we were joshin'."
-msgstr ""
+msgstr "Ah bon ? Oups. Je croyais qu'on rigolait."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/39/s/0
 msgctxt "Choix"
 msgid "I don't, actually... but I do have cool stuff for you."
-msgstr ""
+msgstr "Pas vraiment, non... mais j'ai des trucs cool pour toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/g-0/3
 msgctxt "Cam"
 msgid "It's fine. I've already explained more than I usually do, so let's move on."
-msgstr ""
+msgstr "C'est bon. J'en ai déjà expliqué plus que d'habitude, alors passons."
 
+# Traduction IA – à relire
 #: cam_trashcan/cam_greet_4/0/g-0/11
 msgctxt "Cam"
 msgid "Display those wares, will ya? Lawn Stars is on in ten."
-msgstr ""
+msgstr "Montre ta marchandise, tu veux ? Lawn Stars commence dans dix minutes."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/0/s/0
 msgctxt "Choix"
 msgid "Look, I want to talk to you about how we've been getting along."
-msgstr ""
+msgstr "Écoute, je voudrais parler de la façon dont on s'entend, toi et moi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/1/s/0
 msgctxt "Choix"
 msgid "I guess I have something here I can throw out..."
-msgstr ""
+msgstr "Je crois que j'ai un truc à jeter..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-0/7
 msgctxt "Cam"
 msgid "All right, let's hear it."
-msgstr ""
+msgstr "OK, je t'écoute."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/7
 msgctxt "Cam"
 msgid "Let's see it."
-msgstr ""
+msgstr "Fais voir."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I've got a chopstick."
-msgstr ""
+msgstr "J'ai une baguette chinoise."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "I found an old parking ticket shoved between the sofa cushions."
-msgstr ""
+msgstr "J'ai trouvé une vieille contravention coincée entre les coussins du canapé."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "A ball I found made of a curious admixture of lint and hair."
-msgstr ""
+msgstr "Une boule que j'ai trouvée, faite d'un curieux mélange de peluches et de cheveux."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/3/s/0
 msgctxt "Choix"
 msgid "I'm not sure what it is... but it's sticky."
-msgstr ""
+msgstr "Je ne sais pas trop ce que c'est... mais ça colle."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/11
 msgctxt "Cam"
 msgid "That might be good. I've got a baller chopstick log cabin going and I want to build a deck for it. How old?"
-msgstr ""
+msgstr "Ça peut être bien. J'ai une cabane en baguettes d'enfer en cours, et je veux lui construire une terrasse. Elle date de quand ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/0/s/0
 msgctxt "Choix"
 msgid "From my kung pao tofu last night."
-msgstr ""
+msgstr "De mon tofu kung pao d'hier soir."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/1/s/0
 msgctxt "Choix"
 msgid "It's been on the coffee table for a couple of days."
-msgstr ""
+msgstr "Elle traîne sur la table basse depuis deux ou trois jours."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/2/s/0
 msgctxt "Choix"
 msgid "Oh god. There's really no way to tell."
-msgstr ""
+msgstr "Oh mon dieu. Impossible de le savoir."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/7
 msgctxt "Cam"
 msgid "You ordered Chinese food again? What is that, like three times this week?"
-msgstr ""
+msgstr "T'as encore commandé chinois ? Ça fait quoi, trois fois cette semaine ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What's your point?"
-msgstr ""
+msgstr "Où veux-tu en venir ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "I try not to make points. I just get bored of kung pao tofu."
-msgstr ""
+msgstr "J'essaie de jamais en venir nulle part. Juste, le tofu kung pao, ça me lasse."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What would you prefer?"
-msgstr ""
+msgstr "Tu préférerais quoi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Yeah, so do I."
-msgstr ""
+msgstr "Ouais, moi aussi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Kung pao tofu is proof that a benevolent god exists."
-msgstr ""
+msgstr "Le tofu kung pao est la preuve qu'il existe un dieu bienveillant."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Let's do sushi. Then you get all those little containers, and that weird grassy divider thing."
-msgstr ""
+msgstr "Prenons des sushis. Comme ça, t'as plein de petites barquettes, et ce drôle de séparateur en fausse herbe."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Wait. Are we having dinner together, then?"
-msgstr ""
+msgstr "Attends. On dîne ensemble, alors ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "No. No, that's not... shit."
-msgstr ""
+msgstr "Non. Non, c'est pas... merde."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "Yeah, we are! You want to have dinner with me!"
-msgstr ""
+msgstr "Mais si ! Tu veux dîner avec moi !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/1/s/0
 msgctxt "Choix"
 msgid "Back off faster, casanova."
-msgstr ""
+msgstr "Recule plus vite que ça, Casanova."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/c-0/7
 msgctxt "Cam"
 msgid "Don't get excited."
-msgstr ""
+msgstr "T'emballe pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/c-0/15
 msgctxt "Cam"
 msgid "I want the trash you'll throw away after you have dinner by yourself."
-msgstr ""
+msgstr "Je veux les déchets que tu jetteras après avoir dîné {{tout seul|toute seule|tout·e seul·e}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/c-0/23
 msgctxt "Cam"
 msgid "I'll be having dinner by myself, over here."
-msgstr ""
+msgstr "Moi, je dînerai tout seul, ici."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "One day I'll get you away from all this nonsense to have a meal with me."
-msgstr ""
+msgstr "Un jour, je te sortirai de tout ce bazar pour qu'on partage un repas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/c-1/7
 msgctxt "Cam"
 msgid "Trying to be upfront with you. Dinner with you is not high on my to-do list."
-msgstr ""
+msgstr "J'essaie d'être franc avec toi. Dîner avec toi, c'est pas en haut de ma liste."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-0/15/c-0/18/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Oh? What is? Collecting and cataloguing a bunch of dirty, useless garbage?"
-msgstr ""
+msgstr "Ah oui ? Et qu'est-ce qui l'est ? Collectionner et cataloguer un tas d'ordures sales et inutiles ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "There seems to be a pretty obvious solution to your problem."
-msgstr ""
+msgstr "Il me semble que ton problème a une solution assez évidente."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Learn to cook?"
-msgstr ""
+msgstr "Apprendre à cuisiner ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Branch out into curries?"
-msgstr ""
+msgstr "Me diversifier dans les currys ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "A juice fast?"
-msgstr ""
+msgstr "Une cure de jus ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "Yeah, maybe. As long as you don't cook kung pao tofu."
-msgstr ""
+msgstr "Ouais, peut-être. Tant que tu cuisines pas du tofu kung pao."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Why do you care so much about what I eat?"
-msgstr ""
+msgstr "Pourquoi tu t'intéresses autant à ce que je mange ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Because you're my major source."
-msgstr ""
+msgstr "Parce que t'es ma principale source."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "And let's be honest, the system works. I've got a thriving lifestyle going here. Nobody else around here lives this well."
-msgstr ""
+msgstr "Et soyons honnêtes, le système fonctionne. J'ai un mode de vie florissant, ici. Personne d'autre dans le coin ne vit aussi bien."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/15/c-0/23
 msgctxt "Cam"
 msgid "Just got a lot of old kung pao."
-msgstr ""
+msgstr "Juste, j'ai beaucoup de vieux kung pao."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "There seems to be a pretty obvious solution to your problem, too, genius."
-msgstr ""
+msgstr "Il me semble que ton problème aussi a une solution assez évidente, petit génie."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/15/c-0/31/c-0/7
 msgctxt "Cam"
 msgid "Oh yeah?"
-msgstr ""
+msgstr "Ah ouais ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-0/15/c-0/31/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Maybe get rid of some of this shit."
-msgstr ""
+msgstr "Débarrasse-toi de cette merde, peut-être."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "Hell yes. With naan. Those insulated bags are awesome."
-msgstr ""
+msgstr "Carrément. Avec du naan. Ces sacs isothermes sont géniaux."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "You want the bag? God, is there any of this refuse that you don't keep?"
-msgstr ""
+msgstr "Tu veux le sac ? Mon dieu, il y a un seul déchet que tu ne gardes pas ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/7
 msgctxt "Cam"
 msgid "That could work. However you slice it, that's a lot of good trash."
-msgstr ""
+msgstr "Ça peut marcher. Peu importe comment tu le découpes, ça fait plein de bonnes ordures."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "What would my juice fast have to do with you?"
-msgstr ""
+msgstr "Qu'est-ce que ma cure de jus a à voir avec toi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/7
 msgctxt "Cam"
 msgid "Well, you're my major supplier. Come on, you still don't get this? We're in business. You do a juice fast, I get the bottles, or the pulp, or whatever you have when you're done."
-msgstr ""
+msgstr "Ben, t'es mon principal fournisseur. Allez, t'as toujours pas compris ? On est en affaires. Tu fais une cure de jus, je récupère les bouteilles, ou la pulpe, ou ce qu'il te reste à la fin."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/15
 msgctxt "Cam"
 msgid "You can do multiple small bottles a day. Glass, plastic, whatever. That's one way."
-msgstr ""
+msgstr "Tu peux prendre plusieurs petites bouteilles par jour. En verre, en plastique, peu importe. Ça, c'est une option."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/23
 msgctxt "Cam"
 msgid "Or you do big bottles from the store and then I get them once they're empty. That's another."
-msgstr ""
+msgstr "Ou tu prends des grandes bouteilles au magasin, et je les récupère une fois vides. Ça, c'en est une autre."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/31
 msgctxt "Cam"
 msgid "Or you do a juicer and then it's a lot of pulp a few times a day. I kinda love that way because it's colorful and it means I still have a ton of space for the next haul."
-msgstr ""
+msgstr "Ou tu prends un extracteur, et là, c'est plein de pulpe plusieurs fois par jour. J'aime bien cette option, parce que c'est coloré et que ça me laisse plein de place pour le prochain arrivage."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/39
 msgctxt "Cam"
 msgid "So, like I said, however you do it, I'm in."
-msgstr ""
+msgstr "Bref, comme je disais, peu importe comment tu fais, je suis partant."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/47/0/s/0
 msgctxt "Choix"
 msgid "You... you're obsessed."
-msgstr ""
+msgstr "Tu... tu es obsédé."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/47/c-0/7
 msgctxt "Cam"
 msgid "...what does that mean?"
-msgstr ""
+msgstr "... ça veut dire quoi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-1/15/c-2/15/c-0/47/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You're obsessed with stuff. With trash. With crap."
-msgstr ""
+msgstr "Tu es obsédé par les choses. Par les ordures. Par la merde."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Uh-huh. I think Nie-cheese said that."
-msgstr ""
+msgstr "Mouais. Je crois que c'est Nietz-chèvre qui a dit ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Nietzscheese."
-msgstr ""
+msgstr "Nietzschèvre."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/7
 msgctxt "Cam"
 msgid "German philosopher. Really interesting guy, actually. Misunderstood. A lot of people think he's an atheist and a nihilist... oversimplification, in my book."
-msgstr ""
+msgstr "Philosophe allemand. Un mec vraiment intéressant, en fait. Incompris. Beaucoup de gens pensent que c'était un athée et un nihiliste... C'est simplifier un peu trop, à mon avis."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "...you know who Nietzscheese is?"
-msgstr ""
+msgstr "... tu sais qui est Nietzschèvre ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Yeah. Didn't I just... wait. You're surprised?"
-msgstr ""
+msgstr "Ouais. Je viens pas de... attends. Ça te surprend ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I wouldn't have thought that someone could collect all this old crap and study German philosophy at the same time."
-msgstr ""
+msgstr "Je n'aurais pas cru qu'on puisse collectionner toutes ces vieilles saletés et étudier la philosophie allemande en même temps."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "No, I'm not surprised. You and Nietzscheese share a \"whatever\" kind of attitude."
-msgstr ""
+msgstr "Non, ça ne me surprend pas. Nietzschèvre et toi, vous avez la même attitude « peu importe »."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "What is a \"whatever\" attitude?"
-msgstr ""
+msgstr "C'est quoi, une attitude « peu importe » ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Having no consequences to your actions, you can do whatever you want."
-msgstr ""
+msgstr "Tes actes n'ont aucune conséquence, tu peux faire tout ce que tu veux."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/c-0/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "I guess that describes me, but you say it like it's a bad thing."
-msgstr ""
+msgstr "J'imagine que ça me décrit, mais tu dis ça comme si c'était un défaut."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-0/15/c-0/15/c-2/15/c-0/15/c-0/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Kinda? You want to collect old chopsticks with bits of tofu stuck to them. Gross."
-msgstr ""
+msgstr "Un peu ? Tu veux collectionner de vieilles baguettes avec des bouts de tofu collés dessus. Dégueu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/7
 msgctxt "Cam"
 msgid "Ah, nice, so it's kinda dried out."
-msgstr ""
+msgstr "Ah, cool, donc elle est un peu sèche."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I guess so...?"
-msgstr ""
+msgstr "J'imagine...?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Nah, it's still juicy."
-msgstr ""
+msgstr "Non, elle est encore bien juteuse."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "That's a good thing. I mean, dry or not, I can use it."
-msgstr ""
+msgstr "Tant mieux. Enfin, sèche ou pas, je peux m'en servir."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I can't believe talking about this stuff doesn't gross you out."
-msgstr ""
+msgstr "Je n'arrive pas à croire que parler de ces trucs ne te dégoûte pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Why would it?"
-msgstr ""
+msgstr "Pourquoi ça me dégoûterait ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Because it's gross!"
-msgstr ""
+msgstr "Parce que c'est dégueu !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I don't know... I guess I don't have the tolerance for it that you do."
-msgstr ""
+msgstr "Je ne sais pas... Je n'ai sans doute pas la même tolérance que toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "What's so gross about it?"
-msgstr ""
+msgstr "Qu'est-ce qu'il y a de si dégueu ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Cam, it's an old chopstick. Come on."
-msgstr ""
+msgstr "Cam, c'est une vieille baguette. Enfin."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "So when it's a new chopstick that you use, it's ok. When it's an old chopstick that I use, it's gross. That sounds rational."
-msgstr ""
+msgstr "Donc quand c'est une baguette neuve que t'utilises, c'est OK. Quand c'est une vieille baguette que j'utilise, moi, c'est dégueu. Ça a l'air rationnel."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "No, that's not what I mean..."
-msgstr ""
+msgstr "Non, ce n'est pas ce que je veux dire..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Exactly. This garbage is gross."
-msgstr ""
+msgstr "Exactement. Ces ordures sont dégueu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Then explain it to me."
-msgstr ""
+msgstr "Alors explique-moi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Nevermind. I have other stuff. We're just getting bogged down in this crap."
-msgstr ""
+msgstr "Laisse tomber. J'ai d'autres trucs. On s'enlise dans ces saletés."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Tolerance. What the hell does that mean? Like we're talking about toxic waste or something?"
-msgstr ""
+msgstr "La tolérance. Ça veut dire quoi, bordel ? Comme si on parlait de déchets toxiques ou un truc du genre ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Maybe not toxic, but waste? Yeah!"
-msgstr ""
+msgstr "Peut-être pas toxiques, mais des déchets ? Ouais !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "I'm not trying to offend you or anything."
-msgstr ""
+msgstr "Je n'essaie pas de te vexer ou quoi que ce soit."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "Well, you suck at it."
-msgstr ""
+msgstr "Ben t'y arrives très mal."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-0/15/c-0/15/c-1/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I can't believe you're getting defensive about this nonsense!"
-msgstr ""
+msgstr "Je n'arrive pas à croire que tu te braques pour de telles bêtises !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "Huh. Pretty impressive shelf life. Makes you wonder what they put in your food, doesn't it?"
-msgstr ""
+msgstr "Tiens. Une durée de conservation plutôt impressionnante. Ça fait se demander ce qu'ils mettent dans ta bouffe, hein ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Well... yeah. Now it does."
-msgstr ""
+msgstr "Eh bien... oui. Maintenant, oui."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Not really. I savor the flavor."
-msgstr ""
+msgstr "Pas vraiment. Je savoure la saveur."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "Careful. This is a deep dark rabbit hole, right here. You'd be amazed how much of it is just straight up plastic."
-msgstr ""
+msgstr "Attention. Là, c'est un terrier de lapin bien profond et bien sombre. Tu serais surpris{{|e|·e}} de savoir combien c'est juste du plastique, purement et simplement."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Ooh, I love plastic!"
-msgstr ""
+msgstr "Oh, j'adore le plastique !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Maybe I'll just throw the whole thing away next time. You can take all this other nastiness."
-msgstr ""
+msgstr "La prochaine fois, je jetterai peut-être tout le truc. Tu pourras prendre toutes les autres saletés."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "...you do."
-msgstr ""
+msgstr "... ah ouais."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "For sure. Don't you?"
-msgstr ""
+msgstr "Carrément. Pas toi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Yeah... I'm cool with it, I guess. But..."
-msgstr ""
+msgstr "Si... ça me va, j'imagine. Mais..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/15/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "I don't know, I kind of assumed you'd be against plastic. Y'know, as a concept."
-msgstr ""
+msgstr "J'sais pas, je pensais que t'étais plutôt contre le plastique. Genre, en tant que concept."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-0/15/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Single-use plastic, sure. It's junk."
-msgstr ""
+msgstr "Le plastique à usage unique, d'accord. C'est de la camelote."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "Uh-huh. And what does plastic taste like, Rye Fieri?"
-msgstr ""
+msgstr "Mouais. Et ça a quel goût, le plastique, Rye Fieri ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/0/s/0 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Bananas."
-msgstr ""
+msgstr "La banane."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Tears of true sorrow."
-msgstr ""
+msgstr "Les larmes d'un vrai chagrin."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "You should know! Enough of this ickiness you're collecting is made of it."
-msgstr ""
+msgstr "C'est toi qui devrais le savoir ! Une bonne partie des saletés que tu collectionnes en est faite."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "See, I knew it. I've never liked bananas."
-msgstr ""
+msgstr "Tu vois, je le savais. J'ai jamais aimé les bananes."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-0/15
 msgctxt "Cam"
 msgid "Peels are cool though."
-msgstr ""
+msgstr "Les peaux, par contre, c'est cool."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Neither have I! Weird. I'll bet we have a lot of the same tastes."
-msgstr ""
+msgstr "Moi non plus ! Bizarre. Je parie qu'on a plein de goûts en commun."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "I kind of bet we don't..."
-msgstr ""
+msgstr "Je parierais plutôt que non..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I'll bet buried in this mountain of stinky mess is some stuff I'd think is pretty cool."
-msgstr ""
+msgstr "Je parie que, enfouis dans cette montagne de bazar puant, il y a des trucs que je trouverais plutôt cool."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-0/23/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Yeah, fair enough. You seem to like a lot of junk I'd never keep."
-msgstr ""
+msgstr "Ouais, c'est vrai. Tu as l'air d'aimer plein de camelote que je ne garderais jamais."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "That escalated quickly."
-msgstr ""
+msgstr "Ça a vite dégénéré."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/15
 msgctxt "Cam"
 msgid "Wouldn't tears of true sorrow taste more like... loss?"
-msgstr ""
+msgstr "Les larmes d'un vrai chagrin, ça aurait pas plutôt un goût de... perte ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "That would make sense."
-msgstr ""
+msgstr "Ce serait logique."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/7
 msgctxt "Cam"
 msgid "But what would loss taste like?"
-msgstr ""
+msgstr "Mais ça a quel goût, la perte ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Whiskey."
-msgstr ""
+msgstr "Le whisky."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Absinthe."
-msgstr ""
+msgstr "L'absinthe."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Maybe. We should test the theory. I might have some here, actually..."
-msgstr ""
+msgstr "Peut-être. Faudrait tester la théorie. J'en ai peut-être ici, d'ailleurs..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Yeah, there's probably a lot of good stuff buried in all this mountain of stinky mess."
-msgstr ""
+msgstr "Ouais, il y a sûrement plein de bonnes choses enfouies dans cette montagne de bazar puant."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Whoa. You go hard, huh? Let's check it out. I bet I have some."
-msgstr ""
+msgstr "Ouah. Tu y vas fort, toi. Allons voir. Je parie que j'en ai."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I'll bet you have some pretty special stuff lying forgotten in all this worthlessness."
-msgstr ""
+msgstr "Je parie que tu as des trucs vraiment spéciaux qui traînent, oubliés dans toute cette camelote sans valeur."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "You gotta let go of the bananas."
-msgstr ""
+msgstr "Faut que tu lâches l'affaire, avec les bananes."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Fair enough. I'll let go of the bananas and you let go of the two-day old chopstick."
-msgstr ""
+msgstr "D'accord. Je lâche l'affaire avec les bananes, et toi, tu lâches la baguette vieille de deux jours."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-2/15/c-0/7
 msgctxt "Cam"
 msgid "Why would I do that? Your obsession with bananas is deeply confusing. The chopstick works for me."
-msgstr ""
+msgstr "Pourquoi je ferais ça ? Ton obsession pour les bananes est profondément déroutante. La baguette, elle, me convient."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-1/15/c-1/15/c-1/15/c-1/23/c-0/15/c-2/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "The chopstick is just garbage, Cam."
-msgstr ""
+msgstr "Cette baguette n'est qu'un déchet, Cam."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/7
 msgctxt "Cam"
 msgid "Not sure I want to hear the explanation for that."
-msgstr ""
+msgstr "Pas sûr de vouloir entendre l'explication."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/0/s/0
 msgctxt "Choix"
 msgid "I order Chinese food... a lot."
-msgstr ""
+msgstr "Je commande chinois... souvent."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/1/s/0
 msgctxt "Choix"
 msgid "They're still in the bag, you skeptic."
-msgstr ""
+msgstr "Elles sont encore dans le sachet, espèce de sceptique."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/2/s/0
 msgctxt "Choix"
 msgid "Maybe that stuff stuck to them is old rice."
-msgstr ""
+msgstr "Ce qui est collé dessus, c'est peut-être du vieux riz."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/7
 msgctxt "Cam"
 msgid "Oh. That's ok. I went through a pizza phase. Everyday for two weeks. Pineapple and sausage, sriracha on the side. Trust me."
-msgstr ""
+msgstr "Oh. Pas de souci. J'ai eu une période pizza. Tous les jours pendant deux semaines. Ananas et saucisse, sriracha à part. Crois-moi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You're making me hungry."
-msgstr ""
+msgstr "Tu me donnes faim."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I'm a vegetarian."
-msgstr ""
+msgstr "Je suis {{végétarien|végétarienne|végétarien·ne}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Go for it! One of the gifts of the modern world, right there."
-msgstr ""
+msgstr "Fonce ! C'est l'un des cadeaux du monde moderne, ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I have a lot of food in the fridge already, though."
-msgstr ""
+msgstr "J'ai déjà plein de nourriture dans le frigo, cela dit."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "No worries. I can take it."
-msgstr ""
+msgstr "T'inquiète. Je peux la prendre."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "No, that's ok. I can have leftovers. Don't want to give you any more of my cast-offs."
-msgstr ""
+msgstr "Non, c'est bon. Je peux manger les restes. Je ne veux pas te refiler encore plus de mes rebuts."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Oh. Ok."
-msgstr ""
+msgstr "Oh. OK."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/15
 msgctxt "Cam"
 msgid "Why?"
-msgstr ""
+msgstr "Pourquoi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "Health reasons."
-msgstr ""
+msgstr "Pour des raisons de santé."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "Because cows are cuter than a hamburger."
-msgstr ""
+msgstr "Parce que les vaches sont plus mignonnes qu'un hamburger."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/2/s/0
 msgctxt "Choix"
 msgid "It was a new year's resolution and it stuck."
-msgstr ""
+msgstr "C'était une résolution du Nouvel An, et elle a tenu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/7
 msgctxt "Cam"
 msgid "Good for you, I guess. Sounds like a lot of work to me."
-msgstr ""
+msgstr "Tant mieux pour toi, j'imagine. Ça m'a l'air d'être beaucoup de boulot."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "No more work than not being one."
-msgstr ""
+msgstr "Pas plus que de ne pas l'être."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Yeah... don't you have to be picky, though? Like, choosy?"
-msgstr ""
+msgstr "Ouais... mais faut pas être difficile ? Genre, exigeant{{|e|·e}} ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Sure you do. But people are picky about everything, they just might not think of it as being picky."
-msgstr ""
+msgstr "Bien sûr que si. Mais les gens sont difficiles pour tout, ils ne le voient juste pas comme ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "How can you be picky without knowing you are? I'm not."
-msgstr ""
+msgstr "Comment tu peux être difficile sans le savoir ? Moi, je le suis pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Of course you are, a little."
-msgstr ""
+msgstr "Bien sûr que si, un peu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "A little?"
-msgstr ""
+msgstr "Un peu ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I bet now that you've seen how gross the chopstick is, you don't want it."
-msgstr ""
+msgstr "Je parie que maintenant que tu as vu à quel point cette baguette est dégueu, tu n'en veux plus."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "But I do."
-msgstr ""
+msgstr "Ben si."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Really? Even though it's... crusty?"
-msgstr ""
+msgstr "Vraiment ? Même si elle est... croûteuse ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Hell yeah. Crusty's good, clean's good. It's all good."
-msgstr ""
+msgstr "Carrément. Croûteux, c'est bien, propre, c'est bien. Tout est bien."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "Like I said."
-msgstr ""
+msgstr "Comme je disais."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15/c-0/23
 msgctxt "Cam"
 msgid "Not picky."
-msgstr ""
+msgstr "Pas difficile."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-0/15/c-0/15/c-0/15/c-0/15/c-0/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Huh. I stand corrected. I would never have wanted that disgusting thing."
-msgstr ""
+msgstr "Hein. Au temps pour moi. Je n'aurais jamais voulu de ce truc répugnant."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/7
 msgctxt "Cam"
 msgid "Aaaand that got dark."
-msgstr ""
+msgstr "Eeeet c'est devenu glauque."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "True, though."
-msgstr ""
+msgstr "C'est vrai, pourtant."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "Guess it depends on how much you like chewing."
-msgstr ""
+msgstr "Ça dépend si t'aimes mâcher, j'imagine."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/15
 msgctxt "Cam"
 msgid "And big, flat, poop patties."
-msgstr ""
+msgstr "Et les grosses bouses toutes plates."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Poop patties? That sounds disgusting."
-msgstr ""
+msgstr "Des bouses ? Ça a l'air répugnant."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "It is. Categorically. They poop in patties. Poop pie. Poop discus."
-msgstr ""
+msgstr "Ça l'est. Catégoriquement. Elles font des galettes de caca. Des tartes au caca. Des disques de caca."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Ok, it's a little... disgusting. But it's not like you aren't!"
-msgstr ""
+msgstr "OK, c'est un peu... répugnant. Mais toi aussi, tu l'es !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "...I never said I wasn't."
-msgstr ""
+msgstr "... j'ai jamais dit le contraire."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "You have a problem with things being disgusting?"
-msgstr ""
+msgstr "T'as un problème avec les choses répugnantes ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/23
 msgctxt "Cam"
 msgid "Disgusting is pretty normal, you know."
-msgstr ""
+msgstr "Le répugnant, c'est plutôt normal, tu sais."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Oh yeah, I know, of course."
-msgstr ""
+msgstr "Oh oui, je sais, bien sûr."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "No, it isn't. Clean is normal."
-msgstr ""
+msgstr "Non, ce n'est pas normal. Ce qui est propre est normal."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/c-0/7
 msgctxt "Cam"
 msgid "No, I get it now. You think dirt is bad."
-msgstr ""
+msgstr "Non, je vois, maintenant. Tu penses que la saleté, c'est mal."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/c-0/15
 msgctxt "Cam"
 msgid "Trashy, trash, is bad."
-msgstr ""
+msgstr "Ce qui est trash, les ordures, c'est mal."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "You can't tell me that you're not bothered being surrounded by all this grossness all the time."
-msgstr ""
+msgstr "Tu ne vas pas me dire que ça ne te dérange pas d'être entouré de toutes ces saletés en permanence."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/c-1/7
 msgctxt "Cam"
 msgid "Clean-ish is normal, sterile is not natural at all."
-msgstr ""
+msgstr "Plus ou moins propre, c'est normal. Stérile, c'est pas naturel du tout."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/c-1/15
 msgctxt "Cam"
 msgid "Wait. If clean is normal, dirty is abnormal..."
-msgstr ""
+msgstr "Attends. Si le propre est normal, le sale est anormal..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/c-1/23
 msgctxt "Cam"
 msgid "You think dirty is a bad thing, don't you?"
-msgstr ""
+msgstr "Tu penses que la saleté, c'est mal, hein ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-1/15/c-0/23/c-0/15/c-0/31/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "You can't tell me you like having all this rotten ickiness around you."
-msgstr ""
+msgstr "Tu ne vas pas me dire que tu aimes avoir toute cette pourriture autour de toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/7
 msgctxt "Cam"
 msgid "Huh. A new year's resolution that you actually kept? I'm impressed."
-msgstr ""
+msgstr "Hein. Une résolution du Nouvel An que t'as vraiment tenue ? Je suis impressionné."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Yeah, so was I. Do you ever make them?"
-msgstr ""
+msgstr "Ouais, moi aussi. Tu en prends, toi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/7
 msgctxt "Cam"
 msgid "Resolutions? No. If I wanna do something, I just do it."
-msgstr ""
+msgstr "Des résolutions ? Non. Si je veux faire un truc, je le fais, c'est tout."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/15
 msgctxt "Cam"
 msgid "And I usually don't wanna do stuff."
-msgstr ""
+msgstr "Et en général, j'ai pas envie de faire des trucs."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/23
 msgctxt "Cam"
 msgid "Plus I'm pretty busy."
-msgstr ""
+msgstr "En plus, je suis plutôt occupé."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Busy doing what?"
-msgstr ""
+msgstr "Occupé à quoi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/31/c-0/7
 msgctxt "Cam"
 msgid "My job."
-msgstr ""
+msgstr "Mon boulot."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/31/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You have a job?"
-msgstr ""
+msgstr "Tu as un boulot ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/31/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "...seriously?"
-msgstr ""
+msgstr "... sérieux ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/31/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "How do you still not get this."
-msgstr ""
+msgstr "Comment tu peux toujours pas piger ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/31/c-0/15/c-0/23
 msgctxt "Cam"
 msgid "I live here. You bring me stuff. I take it. Ringing any bells?"
-msgstr ""
+msgstr "Je vis ici. Tu m'apportes des trucs. Je les prends. Ça te dit quelque chose ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-0/15/c-1/23/c-2/15/c-0/31/c-0/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Wait. Collecting all this crap is your job?"
-msgstr ""
+msgstr "Attends. Collectionner toutes ces saletés, c'est ton boulot ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/7
 msgctxt "Cam"
 msgid "Skeptic. Not sure I'm a skeptic. Maybe, though. I'll think about it."
-msgstr ""
+msgstr "Sceptique. Pas sûr d'être sceptique. Peut-être, cela dit. J'y réfléchirai."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/15
 msgctxt "Cam"
 msgid "So you never used them. The chopsticks."
-msgstr ""
+msgstr "Donc tu t'en es jamais servi. Des baguettes."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "Apparently not."
-msgstr ""
+msgstr "Apparemment pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/7
 msgctxt "Cam"
 msgid "So you ordered Chinese food, got the chopsticks, and then walked all the way to the kitchen to get a fork."
-msgstr ""
+msgstr "Donc t'as commandé chinois, t'as eu les baguettes, et t'as marché jusqu'à la cuisine pour prendre une fourchette."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Had to get my steps in."
-msgstr ""
+msgstr "Il fallait bien que je fasse mes pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I didn't ask for them, they just put them in the bag."
-msgstr ""
+msgstr "Je ne les ai pas demandées, ils les ont mises dans le sac, c'est tout."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Well then, good. You do you, I guess."
-msgstr ""
+msgstr "Bon ben, tant mieux. Fais comme tu le sens, j'imagine."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "I'll take 'em."
-msgstr ""
+msgstr "Je les prends."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Great! Not sure what I would've done with them otherwise."
-msgstr ""
+msgstr "Super ! Je ne sais pas trop ce que j'en aurais fait, sinon."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "I don't care. Gimme."
-msgstr ""
+msgstr "Je m'en fiche. File."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Probably would've just stuffed them in the junk drawer with all the other cast-offs."
-msgstr ""
+msgstr "Je les aurais sans doute fourrées dans le tiroir à bazar avec tous les autres rebuts."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Yeah, they do that."
-msgstr ""
+msgstr "Ouais, ils font ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-1/15
 msgctxt "Cam"
 msgid "During your pizza phase, it was red pepper flakes."
-msgstr ""
+msgstr "Pendant ta période pizza, c'était les flocons de piment."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-1/23
 msgctxt "Cam"
 msgid "So many packets."
-msgstr ""
+msgstr "Tellement de sachets."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-1/31
 msgctxt "Cam"
 msgid "That was a good two weeks."
-msgstr ""
+msgstr "C'étaient deux bonnes semaines."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-1/39/0/s/0
 msgctxt "Choix"
 msgid "What on earth did you do with two weeks' worth of red pepper packets?"
-msgstr ""
+msgstr "Qu'est-ce que tu as bien pu faire de deux semaines de sachets de piment ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-1/39/c-0/7
 msgctxt "Cam"
 msgid "I kept 'em. Don't know if you've noticed yet, but that's kind of what I do."
-msgstr ""
+msgstr "Je les ai gardés. Je sais pas si t'as remarqué, mais c'est un peu ce que je fais."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-1/23/c-0/15/c-1/39/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Ha. Right. You keep worthless garbage. You do you."
-msgstr ""
+msgstr "Ha. C'est vrai. Tu gardes des ordures sans valeur. Fais comme tu le sens."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Then again, maybe not."
-msgstr ""
+msgstr "Ou peut-être pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/7
 msgctxt "Cam"
 msgid "Nice. A mystery. Fun to keep things interesting."
-msgstr ""
+msgstr "Cool. Un mystère. C'est sympa, ça garde les choses intéressantes."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "This is interesting? I thought it was kinda gross."
-msgstr ""
+msgstr "C'est intéressant, ça ? Je trouvais ça plutôt dégueu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Why can't it be both?"
-msgstr ""
+msgstr "Pourquoi ça pourrait pas être les deux ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Good point. I guess."
-msgstr ""
+msgstr "Bien vu. J'imagine."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Because it can't. Gross stuff is gross."
-msgstr ""
+msgstr "Parce que c'est impossible. Les trucs dégueu sont dégueu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "You guess. Well, YUP, I'm convinced."
-msgstr ""
+msgstr "T'imagines. Eh ben, OUAIS, je suis convaincu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What is your problem? I just don't think this yucky waste is interesting, that's all."
-msgstr ""
+msgstr "C'est quoi, ton problème ? Je ne trouve juste pas ces déchets dégoûtants intéressants, c'est tout."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Uh-huh. Sounds pretty judgmental to me."
-msgstr ""
+msgstr "Mouais. Ça m'a l'air plutôt plein de jugement."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-0/19/c-2/18/c-2/15/c-0/15/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Oh come on. Just because I don't think that a gross, ricey chopstick is interesting?"
-msgstr ""
+msgstr "Oh, ça va. Juste parce que je ne trouve pas intéressante une baguette dégueu pleine de riz ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/11
 msgctxt "Cam"
 msgid "You're supposed to pay those."
-msgstr ""
+msgstr "C'est censé se payer, ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/0/s/0
 msgctxt "Choix"
 msgid "I did. Honest."
-msgstr ""
+msgstr "Je l'ai payée. Promis."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/1/s/0
 msgctxt "Choix"
 msgid "Damn the man."
-msgstr ""
+msgstr "Au diable le système."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/2/s/0
 msgctxt "Choix"
 msgid "They kind of intimidate me... Wait, really...?"
-msgstr ""
+msgstr "Elles m'intimident un peu... Attends, vraiment... ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/7
 msgctxt "Cam"
 msgid "Then why haven't you thrown it out already?"
-msgstr ""
+msgstr "Alors pourquoi tu l'as pas encore jetée ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "...souvenir?"
-msgstr ""
+msgstr "... souvenir ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "It makes me feel accomplished to look at it."
-msgstr ""
+msgstr "La regarder me donne un sentiment d'accomplissement."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Ah, hell, I didn't pay it. I resented getting it so... yeah."
-msgstr ""
+msgstr "Ah, et puis zut, je ne l'ai pas payée. Ça m'a tellement énervé{{|e|·e}} de l'avoir que... voilà."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "I think you can up your level when it comes to memorabilia."
-msgstr ""
+msgstr "Je crois que tu peux relever le niveau, question souvenirs."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Probably right. Maybe we could do it together!"
-msgstr ""
+msgstr "Tu as sans doute raison. On pourrait le faire ensemble !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Um... I don't know that you're one to talk about upping the level."
-msgstr ""
+msgstr "Euh... je ne suis pas sûr{{|e|·e}} que tu sois le mieux placé pour parler de relever le niveau."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Together? Not really a joiner, don't know if you've noticed."
-msgstr ""
+msgstr "Ensemble ? Je suis pas trop du genre à m'associer, je sais pas si t'as remarqué."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "Plus, I'm pretty happy already with my style of memorabilia-collecting."
-msgstr ""
+msgstr "En plus, je suis déjà assez content de ma façon de collectionner les souvenirs."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-0/23
 msgctxt "Cam"
 msgid "Got a pretty bad-ass menagerie going on here."
-msgstr ""
+msgstr "J'ai une ménagerie plutôt classe, ici."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Seriously? You're happy with this disgusting collection you've got?"
-msgstr ""
+msgstr "Sérieusement ? Tu es content de cette collection répugnante ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Oh, really."
-msgstr ""
+msgstr "Oh, vraiment."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Yeah. I don't mean to be offensive but you're wearing a plastic bag as an undershirt."
-msgstr ""
+msgstr "Oui. Je ne veux pas te vexer, mais tu portes un sac plastique en guise de maillot de corps."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "Wow. That was kind of a dick comment."
-msgstr ""
+msgstr "Waouh. C'était un peu une remarque de connard, ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I mean come on - you're covered in crap."
-msgstr ""
+msgstr "Enfin quoi, tu es couvert de saletés."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "You feel accomplished looking at an old parking ticket?"
-msgstr ""
+msgstr "Tu te sens {{accompli|accomplie|accompli·e}} en regardant une vieille contravention ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/0/s/0 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-3/19/c-0/15/0/9/s/0
 msgctxt "Choix"
 msgid "Yup."
-msgstr ""
+msgstr "Yep."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "That was buried between the sofa cushions so you didn't actually see it, and feel \"accomplished\", until recently when you dug it out and put it on the coffee table?"
-msgstr ""
+msgstr "Une contravention qui était enfouie entre les coussins du canapé, donc que t'as pas vraiment vue, et qui te donnait pas de sentiment « d'accomplissement » jusqu'à ce que tu la ressortes récemment pour la poser sur la table basse ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "...yup."
-msgstr ""
+msgstr "... yep."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "And did it get lost in the couch before or after you paid it?"
-msgstr ""
+msgstr "Et elle s'est perdue dans le canapé avant ou après que tu l'aies payée ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Oh after, for sure. Paid it right away!"
-msgstr ""
+msgstr "Oh, après, c'est sûr. Payée tout de suite !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Before. I basically lost it as soon as I got home."
-msgstr ""
+msgstr "Avant. Je l'ai perdue presque dès que je suis rentré{{|e|·e}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Good for you."
-msgstr ""
+msgstr "Tant mieux pour toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "I think your bar for feeling good about yourself is... low."
-msgstr ""
+msgstr "Je crois que ta barre pour être {{content|contente|content·e}} de toi est... basse."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Maybe. But what makes you feel good about yourself?"
-msgstr ""
+msgstr "Peut-être. Mais qu'est-ce qui te rend content de toi, toi ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "I don't need to be made to feel good about myself."
-msgstr ""
+msgstr "J'ai pas besoin qu'on me rende content de moi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/15
 msgctxt "Cam"
 msgid "I just do. Pretty ok with how I am."
-msgstr ""
+msgstr "Je le suis, c'est tout. Je me trouve plutôt bien comme je suis."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "How is that possible."
-msgstr ""
+msgstr "Comment c'est possible."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/23/c-0/7 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-2/23/c-1/15/g-0/8/c-2/23/g-0/24/c-1/7
 msgctxt "Cam"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You just feel good? You just like yourself?"
-msgstr ""
+msgstr "Tu te sens bien, comme ça ? Tu t'aimes, c'est tout ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Mm hmm."
-msgstr ""
+msgstr "Mm-hmm."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/23/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I mean good for you, it's great, but I don't get it."
-msgstr ""
+msgstr "Enfin, tant mieux pour toi, c'est génial, mais je ne comprends pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/23/c-0/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "No one asked you to."
-msgstr ""
+msgstr "Personne te l'a demandé."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-0/23/c-0/23/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I get bummed when I don't do the dishes for four days in a row and you get excited by smelly garbage."
-msgstr ""
+msgstr "Moi, je déprime quand je ne fais pas la vaisselle quatre jours de suite, et toi, des ordures qui puent te mettent en joie."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Yeah. Saw that one coming."
-msgstr ""
+msgstr "Ouais. Je l'avais vue venir, celle-là."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-1/15
 msgctxt "Cam"
 msgid "So the feeling of accomplishment is coming from..."
-msgstr ""
+msgstr "Donc ce sentiment d'accomplissement vient de..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "Well... that I found it."
-msgstr ""
+msgstr "Eh bien... de l'avoir retrouvée."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-1/23/c-0/7 cam_trashcan/chemistry/0/c-0/31/c-0/23/c-1/15/c-0/23/c-0/15 cam_trashcan/cam_fight_encounter/0/c-0/15/c-1/15/c-1/15/c-1/15/c-0/39/c-2/39/c-2/31/c-0/31/g-0/32/c-0/15/g-0/16/g-0/32/g-0/0
 msgctxt "Cam"
 msgid "Huh."
-msgstr ""
+msgstr "Hein."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-1/23/c-0/15
 msgctxt "Cam"
 msgid "I was all ready to give you shit... but I've totally felt good when I find stuff I thought I'd lost."
-msgstr ""
+msgstr "J'allais te charrier... mais moi aussi, je me suis déjà senti bien en retrouvant un truc que je croyais perdu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-1/15/c-0/15/c-0/15/c-1/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "You have a lot of stuff. It must be easy to lose things in this mountain of waste."
-msgstr ""
+msgstr "Tu as beaucoup d'affaires. Ça doit être facile de perdre des choses dans cette montagne de déchets."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/7
 msgctxt "Cam"
 msgid "Ah. So if you don't pay it, somehow you're asserting your independence?"
-msgstr ""
+msgstr "Ah. Donc si tu la paies pas, t'affirmes ton indépendance, en quelque sorte ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Exactly!"
-msgstr ""
+msgstr "Exactement !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/7
 msgctxt "Cam"
 msgid "And what happens when they take away your car? Does that impact you being all independent?"
-msgstr ""
+msgstr "Et quand ils te retireront ta voiture, il se passe quoi ? Ça empiète sur ton indépendance ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "It might..."
-msgstr ""
+msgstr "Peut-être..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Well, if you're not gonna pay it, it won't help to be reminded of that dumbass decision all the time."
-msgstr ""
+msgstr "Bon, si tu comptes pas la payer, ça sert à rien de te rappeler sans arrêt cette décision débile."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "Pass it over here, I'll take it."
-msgstr ""
+msgstr "Passe-la-moi, je la prends."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Oh, no, that's ok. I've kind of been using it as a coaster. It has this weird brown ring on it."
-msgstr ""
+msgstr "Oh, non, c'est bon. Je m'en sers un peu comme sous-verre. Il y a une drôle de trace marron dessus."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "I'm pretty sure there's a dead spider on the underside of it."
-msgstr ""
+msgstr "Je suis presque sûr{{|e|·e}} qu'il y a une araignée morte en dessous."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/23/g-0/0 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-1/15/g-0/16/g-0/8/c-1/23/c-1/15/c-0/31/g-0/8/c-0/23
 msgctxt "Cam"
 msgid "So?"
-msgstr ""
+msgstr "Et alors ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/23/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Well, it's kinda gross. Don't wanna give you any more disgusting stuff than you need."
-msgstr ""
+msgstr "Eh bien, c'est un peu dégueu. Je ne veux pas te refiler plus de trucs répugnants que nécessaire."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/23/g-0/9/s/0
 msgctxt "Choix"
 msgid "It's sticky. I mean, I know we're not best buds or anything, but I'm not in the habit of gifting useless waste."
-msgstr ""
+msgstr "C'est collant. Enfin, je sais qu'on n'est pas les meilleurs potes du monde, mais je n'ai pas l'habitude d'offrir des déchets inutiles."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/7
 msgctxt "Cam"
 msgid "Haha. Hell yeah. They might eventually dock your license and take your car, but screw it. Make that quixotic stand."
-msgstr ""
+msgstr "Haha. Carrément. Ils finiront peut-être par te retirer des points et te prendre ta voiture, mais on s'en fout. Mène ton combat quichottesque."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Quixotic?"
-msgstr ""
+msgstr "Quichottesque ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Wait, they can take my car?"
-msgstr ""
+msgstr "Attends, ils peuvent me prendre ma voiture ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "Yeah, screw it."
-msgstr ""
+msgstr "Ouais, on s'en fout."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "From Crayon Quixote? It means idealistic. Unrealistic or impractical."
-msgstr ""
+msgstr "Comme Crayon Quichotte. Ça veut dire idéaliste. Irréaliste, ou pas pratique."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/15
 msgctxt "Cam"
 msgid "It means dumb."
-msgstr ""
+msgstr "Ça veut dire débile."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I know what it means. I just... nobody ever says that word."
-msgstr ""
+msgstr "Je sais ce que ça veut dire. C'est juste que... personne n'emploie jamais ce mot."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Oh. Good information. Kinda rude."
-msgstr ""
+msgstr "Oh. Bon à savoir. Un peu impoli."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "Yeah well. I'm an iconoclast."
-msgstr ""
+msgstr "Ouais, ben. Je suis un iconoclaste."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You are?"
-msgstr ""
+msgstr "Ah bon ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Yeah. I do things my own way."
-msgstr ""
+msgstr "Ouais. Je fais les choses à ma façon."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "Don't care what anybody else thinks of me."
-msgstr ""
+msgstr "Je me fiche de ce que les autres pensent de moi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Actually, that's not what that word means."
-msgstr ""
+msgstr "En fait, ce n'est pas ce que veut dire ce mot."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "It means someone who attacks cherished beliefs and institutions."
-msgstr ""
+msgstr "Ça désigne quelqu'un qui s'attaque aux croyances et aux institutions établies."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Oh. Well..."
-msgstr ""
+msgstr "Oh. Ben..."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "I do that, too, I guess."
-msgstr ""
+msgstr "Ça aussi, je le fais, j'imagine."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I gotta say... you're a really interesting thinker."
-msgstr ""
+msgstr "Je dois dire... tu as une façon de penser vraiment intéressante."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "You sound surprised."
-msgstr ""
+msgstr "T'as l'air {{surpris|surprise|surpris·e}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I kind of am. I wouldn't have thought that introspection and hoarding trash could ever go together."
-msgstr ""
+msgstr "Un peu, oui. Je n'aurais pas cru que l'introspection et l'accumulation d'ordures puissent aller de pair."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "What the hell is wrong with you."
-msgstr ""
+msgstr "Mais c'est quoi ton problème, bordel."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "You just called me dumb and insulted what I do in the same sentence."
-msgstr ""
+msgstr "Tu viens de me traiter de débile et d'insulter ce que je fais dans la même phrase."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Whoa, no, I didn't mean it that way."
-msgstr ""
+msgstr "Ouh là, non, ce n'est pas ce que je voulais dire."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Dude, you collect trash. It's weird that a can of dirty rubbish actually uses a word like quixotic!"
-msgstr ""
+msgstr "Mec, tu collectionnes des ordures. C'est bizarre qu'une poubelle pleine de détritus emploie un mot comme « quichottesque » !"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/2/s/0
 msgctxt "Choix"
 msgid "A little maybe. You just seem so self-assured."
-msgstr ""
+msgstr "Un peu, peut-être. Tu as l'air tellement sûr de toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "Well, how did you mean it then."
-msgstr ""
+msgstr "Ben, tu voulais dire quoi, alors."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15
 msgctxt "Cam"
 msgid "Gotta tell ya, you have about 6 seconds before I really stop caring about the answer to that question."
-msgstr ""
+msgstr "Je te préviens, t'as à peu près 6 secondes avant que la réponse à cette question m'intéresse plus du tout."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I mean... I would've thought the introspection would've made you want to change."
-msgstr ""
+msgstr "Je veux dire... j'aurais cru que l'introspection t'aurait donné envie de changer."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "Nah, I'm good here."
-msgstr ""
+msgstr "Nan, ça me va très bien."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I would've thought you'd want to grow out of being surrounded by useless junk all the time."
-msgstr ""
+msgstr "J'aurais cru que tu voudrais arrêter d'être entouré de camelote inutile en permanence."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-2/7
 msgctxt "Cam"
 msgid "Why wouldn't I be."
-msgstr ""
+msgstr "Pourquoi je le serais pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "I guess I expected you to be more insecure. You collect crap, I'd think your head would be fuller of... crap-level stuff."
-msgstr ""
+msgstr "Je m'attendais à ce que tu manques plus d'assurance. Tu collectionnes des saletés, je pensais que ta tête serait pleine de... trucs de niveau saleté."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-0/15/c-0/23/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "It's just surprising that you have such great self-esteem even though you're literally surrounded by smelly garbage."
-msgstr ""
+msgstr "C'est juste surprenant que tu aies une si bonne estime de toi alors que tu es littéralement entouré d'ordures qui puent."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/7
 msgctxt "Cam"
 msgid "Call em like I see em."
-msgstr ""
+msgstr "Je dis les choses comme je les vois."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I'm dumb because I'm choosing not to pay a ticket I didn't deserve in the first place?"
-msgstr ""
+msgstr "Je suis débile parce que je choisis de ne pas payer une amende que je n'ai même pas méritée ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/7
 msgctxt "Cam"
 msgid "Well yeah. It doesn't matter whether or not you deserved it. It's issued. So now, if you don't pay, they can come after you and punish you."
-msgstr ""
+msgstr "Ben ouais. Peu importe que tu l'aies méritée ou pas. Elle est émise. Donc maintenant, si tu paies pas, ils peuvent te poursuivre et te punir."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/15
 msgctxt "Cam"
 msgid "That's \"government.\" Ain't it grand?"
-msgstr ""
+msgstr "C'est ça, « l'État ». Magnifique, hein ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Is that why you live the way you do? Because you're like anti-establishment or something?"
-msgstr ""
+msgstr "C'est pour ça que tu vis comme ça ? Parce que tu es genre anti-système, ou un truc du genre ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Man, I hear ya. What do you do when you get a ticket, then?"
-msgstr ""
+msgstr "Mec, je te comprends. Tu fais quoi, toi, quand tu as une amende ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "If you mean living the way I feel like and doing whatever I want, then yeah."
-msgstr ""
+msgstr "Si tu veux dire vivre comme j'en ai envie et faire tout ce que je veux, alors ouais."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/15
 msgctxt "Cam"
 msgid "That just makes more sense to me than following a bunch of pedantic rules and breaking my neck trying to be a \"good citizen.\""
-msgstr ""
+msgstr "Ça me paraît juste plus logique que de suivre un tas de règles pointilleuses et de me casser le cou à essayer d'être un « bon citoyen »."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Just seems a little counterproductive."
-msgstr ""
+msgstr "Ça me semble juste un peu contre-productif."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/c-0/7
 msgctxt "Cam"
 msgid "How?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You're trying to improve your quality of life by not burdening yourself with stupid rules."
-msgstr ""
+msgstr "Tu essaies d'améliorer ta qualité de vie en ne t'encombrant pas de règles débiles."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "You rebel by being pissed off and thinking the ticket is unfair, but then you'd pay it anyway?"
-msgstr ""
+msgstr "Tu te rebelles en étant énervé et en trouvant l'amende injuste, mais au final, tu la paierais quand même ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/c-0/15/c-0/7 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/c-0/15/c-1/7
 msgctxt "Cam"
 msgid "Correct."
-msgstr ""
+msgstr "Exact."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You burden yourself instead with apple cores, crumpled receipts... it's just exchanging one kind of crap for another, isn't it?"
-msgstr ""
+msgstr "À la place, tu t'encombres de trognons de pomme, de tickets de caisse froissés... tu échanges juste une forme de merde contre une autre, non ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-0/23/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Just more useless shit in your life, something you believe in that you don't act on."
-msgstr ""
+msgstr "Juste encore plus de merdes inutiles dans ta vie, un truc auquel tu crois mais que tu n'appliques pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-1/7
 msgctxt "Cam"
 msgid "Dude."
-msgstr ""
+msgstr "Mec."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-1/15
 msgctxt "Cam"
 msgid "I don't drive."
-msgstr ""
+msgstr "Je conduis pas."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-1/20 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-2/23/c-0/15/g-0/24/c-0/15
 msgctxt "Cam"
 msgid "I'm a trash can."
-msgstr ""
+msgstr "Je suis une poubelle."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-1/25/0/s/0
 msgctxt "Choix"
 msgid "...Oh. Yeah, I get that."
-msgstr ""
+msgstr "... Oh. Ouais, je comprends."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-1/25/c-0/7
 msgctxt "Cam"
 msgid "You do."
-msgstr ""
+msgstr "Ah ouais."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-0/23/c-1/15/c-0/23/c-1/25/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I guess it would look weird, a sedan racing down the highway with all this disgusting garbage flying out the windows."
-msgstr ""
+msgstr "J'imagine que ce serait bizarre, une berline qui file sur l'autoroute avec toutes ces ordures dégoûtantes qui volent par les fenêtres."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/7
 msgctxt "Cam"
 msgid "Yup. They can do whatever they want, mostly. It's pretty spicy bullshit."
-msgstr ""
+msgstr "Yep. Ils peuvent faire à peu près tout ce qu'ils veulent. C'est des conneries bien épicées."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Well that sucks."
-msgstr ""
+msgstr "Eh bien, ça craint."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Spicy bullshit, indeed."
-msgstr ""
+msgstr "Des conneries bien épicées, en effet."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/0 cam_trashcan/cam_fight_encounter/0/c-0/15/c-1/15/c-1/15/c-1/15/c-0/39/c-2/39/c-2/31/c-0/31/g-0/32/c-1/7 cam_trashcan/cam_realized/0/3
 msgctxt "Cam"
 msgid "Yup."
-msgstr ""
+msgstr "Yep."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/8
 msgctxt "Cam"
 msgid "It's not that big of a deal right now, though. You could just pay it."
-msgstr ""
+msgstr "C'est pas si grave pour l'instant, cela dit. Tu pourrais juste la payer."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "I didn't even deserve it! Ugh, this pisses me off."
-msgstr ""
+msgstr "Je ne l'avais même pas méritée ! Pff, ça m'énerve."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/1/s/0
 msgctxt "Choix"
 msgid "It was such a ridiculous ticket though! The meter was broken."
-msgstr ""
+msgstr "Mais c'était une amende tellement ridicule ! Le parcmètre était cassé."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/0
 msgctxt "Cam"
 msgid "I get it. None of that matters, but I get it."
-msgstr ""
+msgstr "Je comprends. Rien de tout ça compte, mais je comprends."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "What do you do when you have stuff like this?"
-msgstr ""
+msgstr "Tu fais quoi, toi, avec ce genre de trucs ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/7
 msgctxt "Cam"
 msgid "Stuff like what? Being mad at stupid rules or getting parking tickets?"
-msgstr ""
+msgstr "Quel genre de trucs ? Être en rogne contre des règles débiles, ou avoir des amendes de stationnement ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Either. Both."
-msgstr ""
+msgstr "L'un ou l'autre. Les deux."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/c-0/7
 msgctxt "Cam"
 msgid "Well I don't get parking tickets because I don't have a car."
-msgstr ""
+msgstr "Ben moi, j'ai pas d'amendes de stationnement, parce que j'ai pas de voiture."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/c-0/15
 msgctxt "Cam"
 msgid "Because I'm a trash can."
-msgstr ""
+msgstr "Parce que je suis une poubelle."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/c-0/23
 msgctxt "Cam"
 msgid "As for stupid rules... eh, I just ignore 'em most of the time."
-msgstr ""
+msgstr "Quant aux règles débiles... bof, je les ignore la plupart du temps."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "You're kind of inspiring me."
-msgstr ""
+msgstr "Tu m'inspires un peu, en fait."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "Maybe I'll just say to hell with it and be like you."
-msgstr ""
+msgstr "Je devrais peut-être envoyer tout balader et être comme toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/c-0/31/g-0/0
 msgctxt "Cam"
 msgid "How would that work."
-msgstr ""
+msgstr "Comment ça marcherait."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-1/15/g-0/16/g-0/8/c-0/15/c-0/31/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Live outside the rules, just collect a bunch of useless junk and do whatever I feel like doing."
-msgstr ""
+msgstr "Vivre en dehors des règles, collectionner un tas de camelote inutile et faire tout ce dont j'ai envie."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/7
 msgctxt "Cam"
 msgid "There ya go. You rebel. You're basically an outlaw."
-msgstr ""
+msgstr "Et voilà. Rebelle, va. T'es {{un vrai hors-la-loi|une vraie hors-la-loi|un·e vrai·e hors-la-loi}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "I secretly always wanted to be a criminal."
-msgstr ""
+msgstr "En secret, j'ai toujours rêvé d'être {{un criminel|une criminelle|un·e criminel·le}}."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Hardly an outlaw. More of a... too-lazy-to-follow-the-law."
-msgstr ""
+msgstr "Pas vraiment hors-la-loi. Plutôt... trop flemmard{{|e|·e}} pour respecter la loi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/0
 msgctxt "Cam"
 msgid "Whatever you want to call yourself is fine by me."
-msgstr ""
+msgstr "Appelle-toi comme tu veux, ça me va."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/8
 msgctxt "Cam"
 msgid "Like I said, I don't really care."
-msgstr ""
+msgstr "Comme je disais, je m'en fiche un peu."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "I can see that."
-msgstr ""
+msgstr "Je vois ça."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/c-0/7
 msgctxt "Cam"
 msgid "Ah, damn. Here I thought I was being subtle."
-msgstr ""
+msgstr "Ah, mince. Et moi qui croyais être subtil."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Not a lot about you is subtle."
-msgstr ""
+msgstr "Il n'y a pas grand-chose de subtil chez toi."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Nah, not you. You're out loud."
-msgstr ""
+msgstr "Nan, pas toi. Toi, t'es tout sauf discret."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "I'll tell ya, that smell sure isn't subtle."
-msgstr ""
+msgstr "Je vais te dire, cette odeur n'a rien de subtil."
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/c-0/15/g-0/0
 msgctxt "Cam"
 msgid "What the hell does that mean?"
-msgstr ""
+msgstr "Ça veut dire quoi, ça, bordel ?"
 
+# Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/c-0/15/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Just that I can smell you from across the room."
-msgstr ""
+msgstr "Juste que je te sens depuis l'autre bout de la pièce."
 
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-1/15/c-2/15/g-0/16/c-0/15/g-0/8/1/s/0
 msgctxt "Choix"

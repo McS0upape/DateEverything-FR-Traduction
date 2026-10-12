@@ -28,10 +28,15 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (la chaise, comédienne). Intervenantes : Celia (le plafond, la Maire) et Florence (le sol, son assistante) = elle, voix fixées par la fiche `cf_cf.md` (elles vouvoient tout le monde ; Celia : « {{mon cher|ma chère|très cher·e}} », « ma très chère » pour Florence, « Par toutes les tuiles ! » ; Florence : « mon chou », « Bonté divine ! », « Ho ho ! »).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (complicité de troupe de théâtre). L'appelle « partenaire » (épicène), « mon cœur » (lover), « la nouille » (goob / goober). Elle **tutoie Florence** et **vouvoie Celia** (« Madame la Maire »).
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, jeune, pétillant (« genre », « trop », « carrément », « franchement »). Dans ses rôles, elle change totalement de registre : mamie de polar (« Mon Dieu, mon Dieu », « sapristi »), duchesse mélodramatique (« Ciel ! », passé simple), robot en MAJUSCULES (« BIP BOUP », « REQUÊTE : »), lutine de fantasy à l'ancienne (« Que nenni », « Salut à toi », « Morbleu »).
+- **Personnalité, manière de parler** : « theater kid » jusqu'au bout des pieds, toujours dans un rôle, enthousiaste, encourageante, très attachée au confort et au consentement des comédiens (mot de sécurité « Davenport », conservé tel quel). Devient bafouillante et gênée dès qu'il y a de la romance (« Aaaah ! », « J-je suis une chaise ! »). Ferme et sérieuse quand on franchit ses limites.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : vocabulaire de scène (« Lumière ! » = lights up, « Noir ! » = lights down, « ...et scène ! », « je te dis merde »). Jeux de mots de chaise : « four legs » → « quatre pieds » ; « lumbar support » → « soutenir les lombaires » ; « Musical chairs » → « chaises musicales » ; « Poly Esther » → « Poly Esther » (polyester) ; « high places » → « amis haut placés » ; « three-legged tryst » → « ménage à trois pieds ». Jours et pièces : SATURDAY NIGHT DEAD → LA FIÈVRE DU SAMEDI MORT ; TUESICAL → MARDICAL, LA COMÉDIE MUSICALE DU MARDI ; WEDDING WEDNESDAY → MERCREDI MARIAGE ; SCI-FI THURSDAY → JEUDI SCIENCE-FICTION ; FANTASY FRIDAY → VENDREDI FANTASY. « Throw it All Away » → « Sans laisser de housse » ; « Pleathers » → « Similis » (le gang des Similis, Scarlett Simili) ; « Marquis? More Kiss! » → « Marquis ? Mais qui bise ! » (« More-kiss-io » → « DeMarquis-bisou ») ; « Beyond the Starscape » → « Par-delà les étoiles » ; « Everblade » (épée) conservé. Noms conservés : Henry David Throw, Esther Chairabelle, DeMarquisio, Count Lionel → comte Lionel, Chairbot, Spindle, Scarlett, Skye. « Closetron 5 » → « Placardon 5 » ; Fourlegs → Quatrepattes ; Sword Lord → Seigneur des Épées ; sprite → lutine.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « I'm built for support. Specifically the lumbar variety. » → « Je suis faite pour soutenir les gens. Surtout les lombaires. »
+  - « I'm sure you'll break a leg! ...but don't break too many. I only have four of them. » → « Tu vas tout casser ! ...mais pas trop de pieds, hein. Je n'en ai que quatre. »
+  - « Aaaah! I can't believe I just said that!!! I'M A CHAIR!! » → « Aaaah ! J'arrive pas à croire que j'ai dit ça !!! JE SUIS UNE CHAISE !! »
+  - « BEEP BOOP. ALL SYSTEMS ARE GREEN CAPTAIN. » → « BIP BOUP. TOUS LES SYSTÈMES SONT AU VERT, CAPITAINE. »
+  - « Get it together, goob! » → « Reprends-toi, la nouille ! »
