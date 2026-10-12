@@ -8,1005 +8,1205 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: chance_d20/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "TWENTY SIDED DIE"
-msgstr ""
+msgstr "DÉ À VINGT FACES"
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/0
 msgctxt "Chance"
 msgid "Traveler! Thou hast returned!"
-msgstr ""
+msgstr "{{Voyageur|Voyageuse|Voyageur·se}} ! Te voilà de retour !"
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/8
 msgctxt "Chance"
 msgid "You may have been slain, but thou can play again!"
-msgstr ""
+msgstr "Tu as peut-être péri, mais tu peux rejouer !"
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/16
 msgctxt "Chance"
 msgid "Would you like to?"
-msgstr ""
+msgstr "Ça te dit ?"
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/24/s/0
 msgctxt "Choix"
 msgid "Yeah, I'm up for another shot!"
-msgstr ""
+msgstr "Ouais, je suis partant{{|e|·e}} pour un nouvel essai !"
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/25/s/0
 msgctxt "Choix"
 msgid "No, I'm good."
-msgstr ""
+msgstr "Non, ça ira."
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/c-0/7
 msgctxt "Chance"
 msgid "Zoom! Zorch! Profigliano!"
-msgstr ""
+msgstr "Zoum ! Zorch ! Profigliano !"
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What"
-msgstr ""
+msgstr "Quoi"
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Love ya, my dude."
-msgstr ""
+msgstr "Je t'adore, mon pote."
 
+# Traduction IA – à relire
 #: chance_d20/chance_return_after_death/0/c-0/15/g-0/0
 msgctxt "Chance"
 msgid "Onward!"
-msgstr ""
+msgstr "En avant !"
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/0/s/0
 msgctxt "Choix"
 msgid "Let's go with the Troubadour this time!"
-msgstr ""
+msgstr "On part sur le Troubadour, cette fois !"
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/1/s/0
 msgctxt "Choix"
 msgid "I'm sticking with the Troubadour."
-msgstr ""
+msgstr "Je reste sur le Troubadour."
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/2/s/0
 msgctxt "Choix"
 msgid "I've got a good feeling about the Guardian."
-msgstr ""
+msgstr "Je le sens bien, le Gardien."
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/3/s/0
 msgctxt "Choix"
 msgid "This time I'm taking Guardian all the way to the end."
-msgstr ""
+msgstr "Cette fois, je vais jusqu'au bout avec le Gardien."
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/4/s/0
 msgctxt "Choix"
 msgid "All right, time for the Enchanter..."
-msgstr ""
+msgstr "Bon, place à l'Enchanteur..."
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/5/s/0
 msgctxt "Choix"
 msgid "It's still the Enchanter for me."
-msgstr ""
+msgstr "Pour moi, ce sera encore l'Enchanteur."
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/c-0/7 chance_d20/victory_sorter/0/c-1/7
 msgctxt "Chance"
 msgid "Oooh la la...."
-msgstr ""
+msgstr "Oooh là là..."
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/c-2/7 chance_d20/victory_sorter/0/c-3/7
 msgctxt "Chance"
 msgid "I can't wait!"
-msgstr ""
+msgstr "J'ai trop hâte !"
 
+# Traduction IA – à relire
 #: chance_d20/victory_sorter/0/c-4/7 chance_d20/victory_sorter/0/c-5/7
 msgctxt "Chance"
 msgid "Enchante..."
-msgstr ""
+msgstr "Enchanté..."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/0
 msgctxt "Narrator"
 msgid "You've never been ashamed of your interest in tabletop games, but ever since you stopped seeing people you've spent far less time roleplaying than you used to."
-msgstr ""
+msgstr "Vous n'avez jamais eu honte de votre goût pour les jeux de rôle sur table, mais depuis que vous ne voyez plus personne, vous jouez bien moins qu'avant."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/5
 msgctxt "Narrator"
 msgid "The cloak-wearing nerd standing before you reminds you of days gone by, when you used to gather around a table with your college friends and pretend to be someone else."
-msgstr ""
+msgstr "Ce nerd en cape planté devant vous vous rappelle le bon vieux temps, quand vous vous réunissiez autour d'une table avec vos amis de fac pour faire semblant d'être quelqu'un d'autre."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/10
 msgctxt "Chance"
 msgid "Ho there, traveler!"
-msgstr ""
+msgstr "Holà, manant !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/18/s/0
 msgctxt "Choix"
 msgid "...what did you call me?"
-msgstr ""
+msgstr "... tu m'as traité{{|e|·e}} de quoi ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/c-0/7
 msgctxt "Chance"
 msgid "No! Ho as in, Hey!"
-msgstr ""
+msgstr "Non ! « Manant » comme dans... « Salut » !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/c-0/18
 msgctxt "Chance"
 msgid "Howdy..."
-msgstr ""
+msgstr "Bonjour..."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/c-0/26
 msgctxt "Chance"
 msgid "How are you... you know. A simple salutation."
-msgstr ""
+msgstr "Comme « Comment ça va »... enfin, tu vois. Une simple salutation."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "That might not be the best greeting."
-msgstr ""
+msgstr "C'est peut-être pas la meilleure façon de saluer."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/c-0/34/1/s/0
 msgctxt "Choix"
 msgid "Oh! Well then. A good day to you!"
-msgstr ""
+msgstr "Oh ! Fort bien. Le bonjour à toi !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/c-0/34/c-0/7
 msgctxt "Chance"
 msgid "Heh. You might be right."
-msgstr ""
+msgstr "Hé. T'as peut-être raison."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/c-0/34/c-1/7
 msgctxt "Chance"
 msgid "That's the spirit!"
-msgstr ""
+msgstr "Voilà l'esprit !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-0/0
 msgctxt "Chance"
 msgid "I'm Chance, your D20."
-msgstr ""
+msgstr "Je suis Chance, ton D20."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-0/8
 msgctxt "Narrator"
 msgid "The mysterious cloak comes off, and you see the friendly face beneath."
-msgstr ""
+msgstr "La mystérieuse cape tombe, et vous découvrez le visage avenant qui se cachait dessous."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-0/19
 msgctxt "Chance"
 msgid "Taking a tiny respite from the drudgery of work?"
-msgstr ""
+msgstr "Tu prends une petite pause dans la corvée du travail ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "You know what they say about all work and no play."
-msgstr ""
+msgstr "Tu connais le dicton : trop de boulot, pas assez de jeu..."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "Just getting up to stretch my legs. Walk around. Talk to my things."
-msgstr ""
+msgstr "Je me dégourdis juste les jambes. Je fais un tour. Je parle à mes affaires."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-0/c-1/7
 msgctxt "Chance"
 msgid "I actually have no idea. All I do is play."
-msgstr ""
+msgstr "En fait, j'en ai aucune idée. Moi, je ne fais que jouer."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-0/c-2/7
 msgctxt "Chance"
 msgid "Ah, yes. The usual."
-msgstr ""
+msgstr "Ah, oui. Le classique."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-1/0
 msgctxt "Chance"
 msgid "If you are up for a real adventure, I have just the thing for you."
-msgstr ""
+msgstr "Si tu es partant{{|e|·e}} pour une vraie aventure, j'ai exactement ce qu'il te faut."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-1/8
 msgctxt "Chance"
 msgid "Have you ever heard of..."
-msgstr ""
+msgstr "As-tu déjà entendu parler de..."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-1/16
 msgctxt "Chance"
 msgid "GROTTOS AND GARGOYLES??"
-msgstr ""
+msgstr "GROTTES & GARGOUILLES ??"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-1/24/s/0
 msgctxt "Choix"
 msgid "Never have I ever. What's that?"
-msgstr ""
+msgstr "Jamais de la vie. C'est quoi ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_first_encounter/0/g-1/25/s/0
 msgctxt "Choix"
 msgid "Are you kidding me? Of course I've heard of G and G!"
-msgstr ""
+msgstr "Tu te moques de moi ? Évidemment que je connais G&G !"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/0
 msgctxt "Chance"
 msgid "Really?? By the flowing waters of Socklandia, you are missing out!"
-msgstr ""
+msgstr "Sérieux ?? Par les eaux vives de Chaussetlandie, tu rates quelque chose !"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/8
 msgctxt "Chance"
 msgid "Can I tell you all about it?"
-msgstr ""
+msgstr "Je peux tout te raconter ?"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/16/s/0
 msgctxt "Choix"
 msgid "Tell me everything!"
-msgstr ""
+msgstr "Raconte-moi tout !"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/17/s/0
 msgctxt "Choix"
 msgid "You're going to anyway, aren't you?"
-msgstr ""
+msgstr "Tu vas le faire de toute façon, non ?"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/c-0/7
 msgctxt "Chance"
 msgid "Great!"
-msgstr ""
+msgstr "Génial !"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/c-1/7
 msgctxt "Chance"
 msgid "I mean... yeah."
-msgstr ""
+msgstr "Enfin... ouais."
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/GG_explain/0
 msgctxt "Chance"
 msgid "G and G is one of, if not THE greatest game that has ever been created. A game, forged by the imaginations of those who know that adventure and excitement can be around every corner."
-msgstr ""
+msgstr "G&G est l'un des plus grands jeux jamais créés, si ce n'est LE plus grand. Un jeu forgé par l'imagination de celles et ceux qui savent que l'aventure et l'excitation peuvent surgir au détour de chaque couloir."
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/GG_explain/8
 msgctxt "Chance"
 msgid "It's a role playing game, so part of the fun is really getting into it."
-msgstr ""
+msgstr "C'est un jeu de rôle, donc une partie du plaisir, c'est de vraiment se mettre dans la peau du personnage."
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/GG_explain/16/s/0
 msgctxt "Choix"
 msgid "What do you mean by role playing game?"
-msgstr ""
+msgstr "Comment ça, un jeu de rôle ?"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/GG_explain/17/s/0
 msgctxt "Choix"
 msgid "Get into it? How do you do that?"
-msgstr ""
+msgstr "Se mettre dans la peau ? Comment on fait ?"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/GG_explain/c-2/7
 msgctxt "Chance"
 msgid "You create a character... and live out their story! Every decision is yours to make and mine to harmonize!"
-msgstr ""
+msgstr "Tu crées un personnage... et tu vis son histoire ! Chaque décision t'appartient, et moi, je les orchestre !"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/g-0/0
 msgctxt "Chance"
 msgid "It's all about using your imagination! I, serving as your Chronicler, present the player with situations and scenarios filled with choices for you."
-msgstr ""
+msgstr "Tout repose sur l'imagination ! Moi, en tant que Chroniqueur, je présente au joueur des situations et des scénarios pleins de choix à faire."
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/g-0/8
 msgctxt "Chance"
 msgid "You could search the deep dark caves scattered across the Bookshelf Bluff. Or run along the bright and musk filled Shoelace Shores."
-msgstr ""
+msgstr "Tu pourrais explorer les grottes sombres et profondes qui parsèment la Falaise de l'Étagère. Ou courir le long des Rivages-Lacets, lumineux et parfumés de musc."
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/g-0/16
 msgctxt "Chance"
 msgid "Or, my personal favorite, start in the small village of Dec'or, listening to the stories of adventurers, waiting for a quest to pique your interest to start your own epic tale!"
-msgstr ""
+msgstr "Ou, mon préféré, commencer dans le petit village de Dec'or, à écouter les récits des aventuriers en attendant qu'une quête pique ta curiosité et lance ta propre épopée !"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "That sounds incredibly fun!"
-msgstr ""
+msgstr "Ça a l'air super marrant !"
 
+# Traduction IA – à relire
 #: chance_d20/GandG_explained/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "Eh... seems kind of lame to me."
-msgstr ""
+msgstr "Bof... ça m'a l'air un peu nul."
 
+# Traduction IA – à relire
 #: chance_d20/Dont_want_to_play/0/0
 msgctxt "Chance"
 msgid "Oh... I mean, it's fun if you try it out. I promise. It's my favorite thing to do."
-msgstr ""
+msgstr "Oh... Enfin, c'est marrant quand on essaie. Promis. C'est mon truc préféré."
 
+# Traduction IA – à relire
 #: chance_d20/Dont_want_to_play/0/8/s/0
 msgctxt "Choix"
 msgid "Hard pass. Way too nerdy for me."
-msgstr ""
+msgstr "Sans façon. Beaucoup trop geek pour moi."
 
+# Traduction IA – à relire
 #: chance_d20/Dont_want_to_play/0/9/s/0
 msgctxt "Choix"
 msgid "You really think I'd like it?"
-msgstr ""
+msgstr "Tu crois vraiment que ça me plairait ?"
 
+# Traduction IA – à relire
 #: chance_d20/Dont_want_to_play/0/c-1/7
 msgctxt "Chance"
 msgid "You never know until you try."
-msgstr ""
+msgstr "On ne sait jamais avant d'avoir essayé."
 
+# Traduction IA – à relire
 #: chance_d20/Dont_want_to_play/0/c-1/15
 msgctxt "Chance"
 msgid "What do ya say?"
-msgstr ""
+msgstr "T'en dis quoi ?"
 
+# Traduction IA – à relire
 #: chance_d20/Dont_want_to_play/0/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "I wouldn't know where to start. I'll play if you help me."
-msgstr ""
+msgstr "Je ne saurais pas par où commencer. Je joue si tu m'aides."
 
+# Traduction IA – à relire
 #: chance_d20/Dont_want_to_play/0/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "Yeah, definitely not into playing dumb games."
-msgstr ""
+msgstr "Non, clairement, les jeux débiles, c'est pas mon truc."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/0
 msgctxt "Chance"
 msgid "That's great! What's your favorite monster? Oh! What about your favorite mystical weapon? Or class? I have so many questions!"
-msgstr ""
+msgstr "Génial ! C'est quoi, ton monstre préféré ? Oh ! Et ton arme mystique préférée ? Ou ta classe ? J'ai tellement de questions !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/8/s/0
 msgctxt "Choix"
 msgid "I'm partial to... all of them, actually. How could I possibly choose?"
-msgstr ""
+msgstr "J'ai un faible pour... tous, en fait. Comment veux-tu que je choisisse ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/9/s/0
 msgctxt "Choix"
 msgid "I've only heard of it. I haven't actually played it. Seems complicated."
-msgstr ""
+msgstr "J'en ai juste entendu parler. J'y ai jamais joué. Ça a l'air compliqué."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/10/s/0
 msgctxt "Choix"
 msgid "I lied, what's Goblins and Gangrene?"
-msgstr ""
+msgstr "J'ai menti, c'est quoi Gobelins et Gangrène ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/c-0/7
 msgctxt "Chance"
 msgid "Wow. Someone else who feels the same as me! It's so hard to pick a favorite. Everything about G and G is so cool!"
-msgstr ""
+msgstr "Waouh. Quelqu'un qui pense comme moi ! C'est tellement dur de choisir un préféré. Tout est trop cool dans G&G !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/c-1/7
 msgctxt "Chance"
 msgid "Oh, that's okay. The fact that you know about it is already pretty awesome. I get so excited to talk about this stuff with people."
-msgstr ""
+msgstr "Oh, c'est pas grave. Le simple fait que tu connaisses, c'est déjà génial. Ça m'enthousiasme tellement de parler de ces trucs avec les gens."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/c-2/7
 msgctxt "Chance"
 msgid "Grottos and GARGOYLES..."
-msgstr ""
+msgstr "Grottes & GARGOUILLES..."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/0
 msgctxt "Chance"
 msgid "You wouldn't want to... maybe... kinda..."
-msgstr ""
+msgstr "Tu voudrais pas... peut-être... genre..."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/8
 msgctxt "Chance"
 msgid "Play with me, would you?"
-msgstr ""
+msgstr "Jouer avec moi, dis ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/16
 msgctxt "Chance"
 msgid "It would only be the single greatest thing you could do for me."
-msgstr ""
+msgstr "Ce serait juste la plus belle chose que tu puisses faire pour moi."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "That would be a lot of fun, Chance!"
-msgstr ""
+msgstr "Ce serait super marrant, Chance !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "Me? Play G and G? I don't really think I want to."
-msgstr ""
+msgstr "Moi ? Jouer à G&G ? Je crois pas que j'en aie envie."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/c-4/7
 msgctxt "Chance"
 msgid "Really? Why not?"
-msgstr ""
+msgstr "Ah bon ? Pourquoi ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/c-4/15/0/s/0
 msgctxt "Choix"
 msgid "I've never played before. I don't want to make a fool of myself."
-msgstr ""
+msgstr "J'ai jamais joué. J'ai pas envie de me ridiculiser."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-0/c-4/15/c-0/7
 msgctxt "Chance"
 msgid "I would be here with you the whole time. It's my job as your Chronicler to guide you through the game! You can trust me."
-msgstr ""
+msgstr "Je serai avec toi tout du long. C'est mon rôle de Chroniqueur de te guider dans le jeu ! Tu peux me faire confiance."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "It doesn't really sound like a good time."
-msgstr ""
+msgstr "Ça a pas l'air très amusant."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "Why won't you take no for an answer?"
-msgstr ""
+msgstr "Pourquoi tu refuses d'entendre un non ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-1/2/s/0
 msgctxt "Choix"
 msgid "I mean... you think I'd be any good?"
-msgstr ""
+msgstr "Enfin... tu crois que je serais {{doué|douée|doué·e}} ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_impressed/0/g-1/3/s/0
 msgctxt "Choix"
 msgid "You know what... sure! Tell me all about it!"
-msgstr ""
+msgstr "Tu sais quoi... d'accord ! Raconte-moi tout !"
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/0
 msgctxt "Chance"
 msgid "I'm positive you will be. This game can take you to far off lands where the last thing you have to think about is being good."
-msgstr ""
+msgstr "J'en suis certain. Ce jeu peut t'emmener dans des contrées lointaines où être doué, c'est vraiment le dernier de tes soucis."
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/8
 msgctxt "Chance"
 msgid "Think of it this way, you get to build a story with me. Hopefully, it won't be the last."
-msgstr ""
+msgstr "Vois ça comme ça : tu vas construire une histoire avec moi. Et j'espère que ce ne sera pas la dernière."
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/16/s/0
 msgctxt "Choix"
 msgid "We would play another campaign after this?"
-msgstr ""
+msgstr "On ferait une autre campagne après celle-là ?"
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/17/s/0
 msgctxt "Choix"
 msgid "Oh... do you have any other games in mind, handsome?"
-msgstr ""
+msgstr "Oh... tu as d'autres jeux en tête, beau gosse ?"
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/c-0/7
 msgctxt "Chance"
 msgid "Oh I've got oodles of campaigns in this noodle..."
-msgstr ""
+msgstr "Oh, j'ai des tonnes de campagnes dans la caboche..."
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/c-1/13
 msgctxt "Chance"
 msgid "Well, I mean..."
-msgstr ""
+msgstr "Enfin, je veux dire..."
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/c-1/21
 msgctxt "Chance"
 msgid "Let's just say that this isn't the only role play I like to do."
-msgstr ""
+msgstr "Disons que ce n'est pas le seul jeu de rôle que j'aime pratiquer."
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/g-0/0
 msgctxt "Chance"
 msgid "So... what do you say? Roll with me?"
-msgstr ""
+msgstr "Alors... t'en dis quoi ? Tu lances les dés avec moi ?"
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Not to be witty but... no dice."
-msgstr ""
+msgstr "Sans vouloir faire de jeu de mots... je passe mon tour."
 
+# Traduction IA – à relire
 #: chance_d20/Convince_to_play/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Sounds more fun than I thought. I'm in!"
-msgstr ""
+msgstr "Ça a l'air plus marrant que je pensais. J'en suis !"
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/0
 msgctxt "Narrator"
 msgid "Chance's eyes light up, his hands balling into fists as he does his best to contain his excitement."
-msgstr ""
+msgstr "Les yeux de Chance s'illuminent ; il serre les poings en faisant de son mieux pour contenir son excitation."
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/8
 msgctxt "Chance"
 msgid "REALLY? Holy Crit! Someone to play with me! You have no idea how hard it is to find someone to play with."
-msgstr ""
+msgstr "C'EST VRAI ? Nom d'un crit ! Quelqu'un pour jouer avec moi ! Tu n'as pas idée à quel point c'est dur de trouver des partenaires de jeu."
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/16/s/0
 msgctxt "Choix"
 msgid "Can we play with just the two of us?"
-msgstr ""
+msgstr "On peut jouer juste tous les deux ?"
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/17/s/0
 msgctxt "Choix"
 msgid "Should we have a group for this game?"
-msgstr ""
+msgstr "Il nous faudrait un groupe pour ce jeu ?"
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/c-0/7
 msgctxt "Chance"
 msgid "Sure can! Don't you worry about that. Your Chronicler will balance everything for solo play!"
-msgstr ""
+msgstr "Bien sûr ! Ne t'inquiète pas pour ça. Ton Chroniqueur va tout équilibrer pour une partie en solo !"
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/c-1/7
 msgctxt "Chance"
 msgid "Ideally, but hey! One-on-one sessions can be a really great way to learn the game!"
-msgstr ""
+msgstr "Ce serait l'idéal, mais bon ! Les parties en tête-à-tête, c'est génial pour apprendre le jeu !"
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/c-1/15
 msgctxt "Chance"
 msgid "Depending on what class you pick though, I might have a few friends around the house who might want to hop in..."
-msgstr ""
+msgstr "Selon la classe que tu choisis, j'ai peut-être quelques amis dans la maison qui voudront se joindre à nous..."
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/g-0/0
 msgctxt "Chance"
 msgid "Regardless, it'll give us some time to get to know each other better!"
-msgstr ""
+msgstr "Dans tous les cas, ça nous laissera le temps de mieux nous connaître !"
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "I can roll with that! What's next?"
-msgstr ""
+msgstr "Ça roule ! Et ensuite ?"
 
+# Traduction IA – à relire
 #: chance_d20/Wannaplay/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "One-on-one? I like those odds! What do we do now?"
-msgstr ""
+msgstr "En tête-à-tête ? Ça me plaît, comme probabilités ! On fait quoi, maintenant ?"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/0
 msgctxt "Chance"
 msgid "It's time to get you your character!"
-msgstr ""
+msgstr "C'est l'heure de te créer un personnage !"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/8
 msgctxt "Chance"
 msgid "All we have to do is choose your stats, your powers, and your weapons."
-msgstr ""
+msgstr "Il suffit de choisir tes caractéristiques, tes pouvoirs et tes armes."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/16
 msgctxt "Chance"
 msgid "And then your armor, your lineage, and your gargoyle gauge. Although, I might leave that out for this first character. It's an optional setting."
-msgstr ""
+msgstr "Et puis ton armure, ta lignée et ta jauge de gargouille. Quoique, je vais peut-être laisser ça de côté pour ce premier personnage. C'est une règle optionnelle."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/24
 msgctxt "Chance"
 msgid "See, you can have a portion of gargoyle blood running through your veins which lets you —"
-msgstr ""
+msgstr "Tu vois, tu peux avoir une part de sang de gargouille dans les veines, ce qui te permet de..."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/32/s/0
 msgctxt "Choix"
 msgid "That's... a lot of choices. And I have to make all of them?"
-msgstr ""
+msgstr "Ça fait... beaucoup de choix. Et je dois tous les faire ?"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/33/s/0
 msgctxt "Choix"
 msgid "How much time is all of that going to take?"
-msgstr ""
+msgstr "Ça va prendre combien de temps, tout ça ?"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/34/s/0
 msgctxt "Choix"
 msgid "I dunno, this sounds right up my alley!"
-msgstr ""
+msgstr "Je sais pas, ça a l'air complètement mon truc !"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/c-0/7
 msgctxt "Chance"
 msgid "Oh! Of course! It is a whole heap to take on your first time out."
-msgstr ""
+msgstr "Oh ! Bien sûr ! C'est beaucoup à encaisser pour une première fois."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/c-1/7
 msgctxt "Chance"
 msgid "Depending on whether you skip through what I have to say... maybe 20 minutes."
-msgstr ""
+msgstr "Selon que tu sautes ou non ce que j'ai à dire... peut-être 20 minutes."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/g-0/0
 msgctxt "Chance"
 msgid "How about you let me make your character for you. I know the game inside and out and you can just show up and play."
-msgstr ""
+msgstr "Et si je créais ton personnage pour toi ? Je connais le jeu sur le bout des doigts, et toi, tu n'aurais plus qu'à venir jouer."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "You would do that for me? You're the best."
-msgstr ""
+msgstr "Tu ferais ça pour moi ? T'es le meilleur."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Perfect! I love that idea!"
-msgstr ""
+msgstr "Parfait ! J'adore l'idée !"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "K."
-msgstr ""
+msgstr "Ok."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/g-1/0
 msgctxt "Chance"
 msgid "Oh, I'm so excited! You have no idea how much fun we are going to have! I'll even build the session based on what class you pick!"
-msgstr ""
+msgstr "Oh, je suis trop excité ! Tu n'as pas idée de ce qu'on va s'amuser ! Je vais même construire la séance selon la classe que tu choisis !"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "What are my options?"
-msgstr ""
+msgstr "J'ai quoi, comme options ?"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "What do you suggest I play as?"
-msgstr ""
+msgstr "Tu me conseilles de jouer quoi ?"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/class_choice/0
 msgctxt "Chance"
 msgid "Hmm... There are three classes I can get rolling for you! All of them are awesome, but they won't be too much of a challenge."
-msgstr ""
+msgstr "Hmm... Il y a trois classes que je peux te préparer ! Elles sont toutes géniales, et elles ne seront pas trop difficiles."
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/class_choice/8
 msgctxt "Chance"
 msgid "I'd suggest The Troubadour, The Guardian, or the Enchanter!"
-msgstr ""
+msgstr "Je te propose le Troubadour, le Gardien ou l'Enchanteur !"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/class_choice/16/0
 msgctxt "Chance"
 msgid "Which one would you like?"
-msgstr ""
+msgstr "Laquelle te tente ?"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/class_choice/16/8/s/0
 msgctxt "Choix"
 msgid "Can you explain them to me?"
-msgstr ""
+msgstr "Tu peux me les expliquer ?"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/class_choice/16/9/s/0
 msgctxt "Choix"
 msgid "The Troubadour sounds like fun!"
-msgstr ""
+msgstr "Le Troubadour a l'air marrant !"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/class_choice/16/10/s/0
 msgctxt "Choix"
 msgid "Guardian all the way!"
-msgstr ""
+msgstr "Gardien, à fond !"
 
+# Traduction IA – à relire
 #: chance_d20/Campaign_intro/0/class_choice/16/11/s/0
 msgctxt "Choix"
 msgid "Ooooh! Enchanter is the one for me!"
-msgstr ""
+msgstr "Ooooh ! L'Enchanteur, c'est fait pour moi !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/0
 msgctxt "Chance"
 msgid "Sure!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/8
 msgctxt "Chance"
 msgid "Let's start with the Troubadour! Loved by the locals for their wit and their voice, this magnificent magical minstrel can change the outcome of a dire situation with a simple tune."
-msgstr ""
+msgstr "Commençons par le Troubadour ! Adoré du peuple pour son esprit et sa voix, ce ménestrel merveilleusement magique peut renverser une situation désespérée d'un simple air."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/16
 msgctxt "Chance"
 msgid "With a lyre by their side, this slick and seducing stupifier is sought after by those who wish to trade both coin and secrets for songs."
-msgstr ""
+msgstr "Lyre au côté, ce séducteur sournois et subjuguant est recherché par tous ceux qui veulent échanger pièces et secrets contre des chansons."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/24
 msgctxt "Chance"
 msgid "Don't be fooled though! The Troubadour can hold their own! They are a healthy hero, able to take hits with the best of them."
-msgstr ""
+msgstr "Mais ne te laisse pas berner ! Le Troubadour sait se défendre ! C'est un héros robuste, capable d'encaisser les coups comme les meilleurs."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/32
 msgctxt "Chance"
 msgid "What do you think about the Troubadour?"
-msgstr ""
+msgstr "Qu'est-ce que tu penses du Troubadour ?"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/40/s/0
 msgctxt "Choix"
 msgid "They sound awesome! What about the Guardian?"
-msgstr ""
+msgstr "Il a l'air génial ! Et le Gardien ?"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/41/s/0
 msgctxt "Choix"
 msgid "I don't need to hear about the others! Troubadour is the one for me!"
-msgstr ""
+msgstr "Pas besoin d'entendre les autres ! Le Troubadour, c'est fait pour moi !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-0/0
 msgctxt "Chance"
 msgid "The mighty Guardian! This sword-wielding warrior of light and all that is right vows to protect the citizens of the realm."
-msgstr ""
+msgstr "Le puissant Gardien ! Ce guerrier de lumière et de droiture, épée au poing, a juré de protéger les citoyens du royaume."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-0/8
 msgctxt "Chance"
 msgid "This is one beefy class. While this particular participant can pack a punch, they aren't the smartest of classes. If there is a problem, they will try to solve it by punching."
-msgstr ""
+msgstr "C'est une classe bien costaude. Ce combattant cogne fort, mais ce n'est pas la classe la plus futée. S'il y a un problème, il essaiera de le régler à coups de poing."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-0/16
 msgctxt "Chance"
 msgid "That isn't a bad thing though! A well equipped Guardian can take down the most vicious of gargoyles. Their fighting record is just as shiny as their armor."
-msgstr ""
+msgstr "Mais ce n'est pas un défaut ! Un Gardien bien équipé peut abattre les gargouilles les plus féroces. Son palmarès au combat brille autant que son armure."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-0/24
 msgctxt "Chance"
 msgid "Thoughts on the Guardian?"
-msgstr ""
+msgstr "Ton avis sur le Gardien ?"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "Strong AND shiny? That's the one for me!"
-msgstr ""
+msgstr "Costaud ET brillant ? C'est fait pour moi !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "On second thought, Troubadour is the one for me!"
-msgstr ""
+msgstr "Tout bien réfléchi, le Troubadour, c'est fait pour moi !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-0/34/s/0
 msgctxt "Choix"
 msgid "You know... I'm still not sure. What's the last one?"
-msgstr ""
+msgstr "Tu sais... j'hésite encore. C'est quoi, le dernier ?"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/0
 msgctxt "Chance"
 msgid "The Enchanter! The magic-slinging specialist who calls on charms to complete tasks. Shrouded in secrets and itchy cloaks, the Enchanter is a master of the far-off flaming finger."
-msgstr ""
+msgstr "L'Enchanteur ! Spécialiste des sortilèges, il fait appel aux charmes pour accomplir ses tâches. Drapé de secrets et de capes qui grattent, l'Enchanteur est passé maître dans l'art du doigt de feu à longue portée."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/8
 msgctxt "Chance"
 msgid "They are a bit more delicate, opting to avoid obvious agony by staying further back from the brawl."
-msgstr ""
+msgstr "Il est un peu plus fragile, et préfère éviter les souffrances évidentes en restant à l'écart de la mêlée."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/16
 msgctxt "Chance"
 msgid "But don't you think that they aren't good at busting heads! They can spin spells to soften the toughest Heel Troll. Or even summon a sidewinding Slipper Snake."
-msgstr ""
+msgstr "Mais ne va pas croire qu'il ne sait pas fracasser des crânes ! Il peut tisser des sorts pour attendrir le plus coriace des Trolls-Talons. Ou même invoquer un Serpent-Pantoufle tout en ondulations."
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/24
 msgctxt "Chance"
 msgid "How does the Enchanter sound to you?"
-msgstr ""
+msgstr "L'Enchanteur, ça te dit quoi ?"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/32/s/0
 msgctxt "Choix"
 msgid "I do love me some magic! The Enchanter it is!"
-msgstr ""
+msgstr "J'adore la magie ! Va pour l'Enchanteur !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/33/s/0
 msgctxt "Choix"
 msgid "I think the Guardian is the one for me!"
-msgstr ""
+msgstr "Je crois que le Gardien est fait pour moi !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/34/s/0
 msgctxt "Choix"
 msgid "None of them sound as cool as the Troubadour!"
-msgstr ""
+msgstr "Aucun n'a l'air aussi cool que le Troubadour !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_explanation/0/g-1/35/s/0
 msgctxt "Choix"
 msgid "Can you explain them to me again?"
-msgstr ""
+msgstr "Tu peux me les réexpliquer ?"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/0
 msgctxt "Chance"
 msgid "I'm so excited!"
-msgstr ""
+msgstr "Je suis trop excité !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/8/b/1
 msgctxt "Chance"
 msgid "The Troubadour! A fantastic character to start your adventures with!"
-msgstr ""
+msgstr "Le Troubadour ! Un personnage fantastique pour débuter tes aventures !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/8/b/9
 msgctxt "Chance"
 msgid "I hear that Dasha wanted to roll with a Guardian if someone was playing Troubadour."
-msgstr ""
+msgstr "Il paraît que Dasha voulait jouer une Gardienne si quelqu'un prenait le Troubadour."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/8/b/20
 msgctxt "Chance"
 msgid "If you two know each other, I'll invite her!"
-msgstr ""
+msgstr "Si vous vous connaissez, je l'invite !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/8/b/28/b/1
 msgctxt "Chance"
 msgid "She's not hard to find - right underneath me!"
-msgstr ""
+msgstr "Pas dure à trouver : elle est juste en dessous de moi !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/11/b/1
 msgctxt "Chance"
 msgid "The Guardian! May your sword find purchase in whatever vile thing comes your way!"
-msgstr ""
+msgstr "Le Gardien ! Puisse ton épée trouver prise sur toute ignominie qui croisera ta route !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/11/b/9
 msgctxt "Chance"
 msgid "I heard that Jerry wanted to go Apothecary if someone was rolling a Guardian."
-msgstr ""
+msgstr "Il paraît que Jerry voulait jouer un Apothicaire si quelqu'un prenait un Gardien."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/11/b/20
 msgctxt "Chance"
 msgid "If you two know each other, I'll invite him!"
-msgstr ""
+msgstr "Si vous vous connaissez, je l'invite !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/11/b/28/b/1
 msgctxt "Chance"
 msgid "He's a little guy like me - right inside the desk here!"
-msgstr ""
+msgstr "C'est un petit bonhomme comme moi : il est juste là, dans le bureau !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/14/b/1
 msgctxt "Chance"
 msgid "The Enchanter it is! Magic will flow and find home in your heart!"
-msgstr ""
+msgstr "Va pour l'Enchanteur ! La magie coulera à flots et trouvera refuge dans ton cœur !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/14/b/9
 msgctxt "Chance"
 msgid "I heard that Lux wanted to get into G&G more and was thinking of playing a Hotshot."
-msgstr ""
+msgstr "Il paraît que Lux voulait se mettre davantage à G&G et pensait jouer un Canonnier."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/14/b/20
 msgctxt "Chance"
 msgid "If you two know each other, I'll invite them!"
-msgstr ""
+msgstr "Si vous vous connaissez, je l'invite !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/14/b/28/b/1
 msgctxt "Chance"
 msgid "They are all over the house - bringing radiance to everything they shine on..."
-msgstr ""
+msgstr "Iel est partout dans la maison : à apporter son éclat à tout ce qu'iel illumine..."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/17/s/0
 msgctxt "Choix"
 msgid "When do we get to play?!"
-msgstr ""
+msgstr "On joue quand ?!"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/7
 msgctxt "Chance"
 msgid "Now that I know who you want to be, it'll take me some time to finish building out the session for you."
-msgstr ""
+msgstr "Maintenant que je sais qui tu veux incarner, il va me falloir un peu de temps pour finir de préparer la séance."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/15
 msgctxt "Chance"
 msgid "Give me... a day? I should be ready to by then! Anything before that and it's a bit dicey if I'll be ready or not."
-msgstr ""
+msgstr "Laisse-moi... une journée ? Je devrais être prêt d'ici là ! Avant ça, c'est un peu coup de dés si je serai prêt ou pas."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Sounds great! I can't wait!"
-msgstr ""
+msgstr "Super ! J'ai trop hâte !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "A whole day? Can't it be any sooner?"
-msgstr ""
+msgstr "Une journée entière ? Ça peut pas être plus tôt ?"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-0/7
 msgctxt "Chance"
 msgid "Me neither! It's been so long since I've played! I'll see you then!"
-msgstr ""
+msgstr "Moi aussi ! Ça fait tellement longtemps que je n'ai pas joué ! À demain !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-1/7
 msgctxt "Chance"
 msgid "These things take time! A great adventure must be crafted!"
-msgstr ""
+msgstr "Ces choses-là prennent du temps ! Une grande aventure, ça se façonne !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-1/15
 msgctxt "Chance"
 msgid "Allow me this time, fair compatriot! I wish to create something worthy of your time!"
-msgstr ""
+msgstr "Accorde-moi ce temps, {{noble compagnon|noble compagne|noble camarade}} ! Je veux créer quelque chose qui soit digne de toi !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "When you put it like that..."
-msgstr ""
+msgstr "Dit comme ça..."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "It better be good!"
-msgstr ""
+msgstr "T'as intérêt à ce que ce soit bien !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-1/23/c-0/7
 msgctxt "Chance"
 msgid "Great! Tomorrow, we tell our tale!"
-msgstr ""
+msgstr "Génial ! Demain, nous conterons notre légende !"
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-1/23/c-1/7
 msgctxt "Chance"
 msgid "Sheesh. No pressure."
-msgstr ""
+msgstr "Oula. Pas de pression."
 
+# Traduction IA – à relire
 #: chance_d20/Class_choice_made/0/c-0/23/c-1/23/c-1/18
 msgctxt "Chance"
 msgid "Don't worry. I'll do my best! It'll be fantastic!"
-msgstr ""
+msgstr "T'inquiète. Je vais faire de mon mieux ! Ce sera fantastique !"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_Disappointed/0/6 chance_d20/chance_disappointed_victory_death/0/6
 msgctxt "Chance"
 msgid "Oh... okay. If you don't want to play, I can't make you."
-msgstr ""
+msgstr "Oh... d'accord. Si tu ne veux pas jouer, je ne peux pas t'y forcer."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_Disappointed/0/14
 msgctxt "Chance"
 msgid "And here I thought I had someone to roll the dice with me."
-msgstr ""
+msgstr "Et moi qui croyais avoir trouvé quelqu'un pour lancer les dés avec moi."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_Disappointed/0/22 chance_d20/chance_disappointed_victory_death/0/14
 msgctxt "Chance"
 msgid "Are you suuuuuuure you don't want to play?"
-msgstr ""
+msgstr "Tu es sûûûûûr{{|e|·e}} de ne pas vouloir jouer ?"
 
+# Traduction IA – à relire
 #: chance_d20/Chance_Disappointed/0/30/s/0
 msgctxt "Choix"
 msgid "I am totally sure."
-msgstr ""
+msgstr "Absolument sûr{{|e|·e}}."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_Disappointed/0/31/s/0
 msgctxt "Choix"
 msgid "I meeean... maybe I was too hasty."
-msgstr ""
+msgstr "Enfiiin... j'ai peut-être été trop {{hâtif|hâtive|hâtif·ve}}."
 
+# Traduction IA – à relire
 #: chance_d20/Chance_Disappointed/0/c-1/7 chance_d20/chance_disappointed_victory_death/0/c-1/7
 msgctxt "Chance"
 msgid "Phew! Thank goodness! I've been putting in a lot of work and I can't wait to show you!"
-msgstr ""
+msgstr "Ouf ! Dieu merci ! J'ai beaucoup bossé et j'ai trop hâte de te montrer !"
 
+# Traduction IA – à relire
 #: chance_d20/chance_disappointed_victory_death/0/22/s/0
 msgctxt "Choix"
 msgid "I don't like failing and I don't like you.."
-msgstr ""
+msgstr "J'aime pas perdre, et je t'aime pas, toi."
 
+# Traduction IA – à relire
 #: chance_d20/chance_disappointed_victory_death/0/23/s/0
 msgctxt "Choix"
 msgid "I mean... maybe I was too hasty."
-msgstr ""
+msgstr "Enfin... j'ai peut-être été trop {{hâtif|hâtive|hâtif·ve}}."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/11
 msgctxt "Chance"
 msgid "MY FAITHFUL TRAVELER! You have returned!"
-msgstr ""
+msgstr "{{MON FIDÈLE VOYAGEUR|MA FIDÈLE VOYAGEUSE|ÊTRE FIDÈLE ENTRE TOUS}} ! Te voilà de retour !"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/19/s/0 chance_d20/Guardian_session/0/15/s/0 chance_d20/Enchant_Session/0/15/s/0
 msgctxt "Choix"
 msgid "Of course I have! I'm ready to play!"
-msgstr ""
+msgstr "Évidemment ! Je suis {{prêt|prête|prêt·e}} à jouer !"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/20/s/0
 msgctxt "Choix"
 msgid "Did you expect me not to?"
-msgstr ""
+msgstr "Tu croyais que je viendrais pas ?"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/21/s/0
 msgctxt "Choix"
 msgid "Yeah... I came to tell you I don't wanna play."
-msgstr ""
+msgstr "Ouais... je suis venu{{|e|·e}} te dire que je veux pas jouer."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/22/s/0
 msgctxt "Choix"
 msgid "I couldn't stay away from your cute face!"
-msgstr ""
+msgstr "Je pouvais pas rester loin de ta jolie frimousse !"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/c-0/7
 msgctxt "Chance"
 msgid "Ever faithful... I knew it."
-msgstr ""
+msgstr "Toujours fidèle... je le savais."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/c-1/7
 msgctxt "Chance"
 msgid "I knew you wouldn't let me down. Still, it's nice to know my assessment of you was correct!"
-msgstr ""
+msgstr "Je savais que tu ne me laisserais pas tomber. Mais ça fait quand même plaisir de voir que je t'avais bien jugé{{|e|·e}} !"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/c-3/13
 msgctxt "Chance"
 msgid "Flattery won't get you any extra XP. But it might get you some fudged dice rolls. Key word - MIGHT!"
-msgstr ""
+msgstr "La flatterie ne te rapportera pas d'XP en plus. Mais peut-être quelques jets de dés arrangés. Mot-clé : PEUT-ÊTRE !"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/4
 msgctxt "Chance"
 msgid "And, it looks like our mutual friend Dasha is joining us today!"
-msgstr ""
+msgstr "Et on dirait que notre amie commune Dasha se joint à nous aujourd'hui !"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/12
 msgctxt "Dasha"
 msgid "I am ready to perform feats of strength with my imagination."
-msgstr ""
+msgstr "Je suis prête à accomplir exploits de force avec mon imagination."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/20
 msgctxt "Narrator"
 msgid "She claps you on the back just a little too hard."
-msgstr ""
+msgstr "Elle vous donne une tape dans le dos, juste un peu trop fort."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/25
 msgctxt "Dasha"
 msgid "Do not worry, my friend—Dasha's brain muscles are just as strong as real muscles."
-msgstr ""
+msgstr "Ne t'inquiète pas, {{mon ami|mon amie|mon ami·e}} : muscles du cerveau de Dasha sont aussi forts que vrais muscles."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/33
 msgctxt "Dasha"
 msgid "You are sure to succeed in your ventures with Guardian Yekaterina Dmitriyevna Petrova at your side."
-msgstr ""
+msgstr "Tu réussiras forcément tes entreprises avec Gardienne Yekaterina Dmitrievna Petrova à tes côtés."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/41
 msgctxt "Chance"
 msgid "I prefer to call them 'adventures' but to each their own!"
-msgstr ""
+msgstr "Moi, je préfère parler d'« aventures », mais chacun ses goûts !"
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/49
 msgctxt "Dasha"
 msgid "I use Detect Evildoers to find any villains nearby."
-msgstr ""
+msgstr "J'utilise Détection des Malfaisants pour trouver méchants dans les environs."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/0/b/57
 msgctxt "Chance"
 msgid "We haven't started yet my dear, one moment."
-msgstr ""
+msgstr "On n'a pas encore commencé, ma chère, une seconde."
 
+# Traduction IA – à relire
 #: chance_d20/Troub_Session/0/troub_return_join/3 chance_d20/Enchant_Session/0/g-0/8/0
 msgctxt "Chance"
 msgid "Before we start, here's your character sheet!"
-msgstr ""
+msgstr "Avant de commencer, voici ta feuille de personnage !"
 
 #: chance_d20/Troub_Session/0/troub_return_join/11
 msgctxt "Chance"
