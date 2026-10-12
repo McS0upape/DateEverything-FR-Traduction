@@ -8,2005 +8,2405 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: washford_washer/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "WASHING MACHINE"
-msgstr ""
+msgstr "LAVE-LINGE"
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/0
 msgctxt "Washford"
 msgid "You rang?"
-msgstr ""
+msgstr "Vous m'avez sonné ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/8/s/0
 msgctxt "Choix"
 msgid "I have these washcloths for you."
-msgstr ""
+msgstr "J'ai ces gants de toilette pour toi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/7
 msgctxt "Washford"
 msgid "Hmm... Ah. From Jerald."
-msgstr ""
+msgstr "Hmm... Ah. De la part de Jerald."
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/18
 msgctxt "Washford"
 msgid "I had loaned them to him over 12 fortnights ago."
-msgstr ""
+msgstr "Je les lui avais prêtés il y a plus de douze quinzaines."
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/26
 msgctxt "Washford"
 msgid "Which is a rather long time to still need scouring."
-msgstr ""
+msgstr "Ce qui est bien long pour des choses qui ont encore besoin d'être récurées."
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/34
 msgctxt "Washford"
 msgid "Thank you for returning these."
-msgstr ""
+msgstr "Merci de me les rapporter."
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/42
 msgctxt "Washford"
 msgid "I trust he's... doing well?"
-msgstr ""
+msgstr "J'ose espérer qu'il... se porte bien ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/50/0/s/0
 msgctxt "Choix"
 msgid "I'm not sure..."
-msgstr ""
+msgstr "Je sais pas trop..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/50/c-0/7
 msgctxt "Washford"
 msgid "Ah."
-msgstr ""
+msgstr "Ah."
 
+# Traduction IA – à relire
 #: washford_washer/washford_jerry_quest/0/c-0/50/c-0/15
 msgctxt "Narrator"
 msgid "Washford turns from you, and begins working on the rags right away."
-msgstr ""
+msgstr "Washford se détourne de vous et s'attaque aussitôt aux chiffons."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/6
 msgctxt "Narrator"
 msgid "A handsome acrobat greets you with a small yet theatrical little bow, placing a hand on his chest and tipping his head forward. He has the aura of a veteran showman, but he doesn't look particularly pleased to have you as his audience."
-msgstr ""
+msgstr "Un bel acrobate vous accueille d'une petite courbette théâtrale, une main sur la poitrine, la tête inclinée. Il a l'aura d'un vieux routier de la scène, mais ne semble guère ravi de vous avoir pour public."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/14
 msgctxt "Washford"
 msgid "Greetings, weary traveler."
-msgstr ""
+msgstr "Salutations, {{voyageur las|voyageuse lasse|voyageur·se las·se}}."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/25/s/0
 msgctxt "Choix"
 msgid "Uhh... hello?"
-msgstr ""
+msgstr "Euh... salut ?"
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/26/s/0
 msgctxt "Choix"
 msgid "Greetings..."
-msgstr ""
+msgstr "Salutations..."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/27/s/0
 msgctxt "Choix"
 msgid "I am weary, thank you for noticing."
-msgstr ""
+msgstr "Je suis {{las|lasse|las·se}}, en effet, merci de l'avoir remarqué."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/c-0/7 washford_washer/WashfordIntro/0/c-1/7
 msgctxt "Washford"
 msgid "You seem taken aback... quite natural. It was not my intention to frighten you, though I grant I'm known to be a disquieting presence when I'm in a mood."
-msgstr ""
+msgstr "Vous semblez {{décontenancé|décontenancée|décontenancé·e}}... c'est bien naturel. Je n'avais pas l'intention de vous effrayer, même si j'admets être une présence inquiétante quand je suis d'humeur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/c-2/7
 msgctxt "Washford"
 msgid "Naturally. My senses are heightened when I'm in a mood."
-msgstr ""
+msgstr "Naturellement. Mes sens sont aiguisés quand je suis d'humeur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "In a mood, huh? Like, a good mood?"
-msgstr ""
+msgstr "D'humeur, hein ? Genre, de bonne humeur ?"
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "Sounds like a bad mood."
-msgstr ""
+msgstr "On dirait plutôt une mauvaise humeur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-0/c-3/7
 msgctxt "Washford"
 msgid "Tyger Tyger... tell me your little gray cells burn brighter than that..."
-msgstr ""
+msgstr "Tigre, tigre... dites-moi que vos petites cellules grises brûlent plus vivement que cela..."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "Aha... it's a bad mood, then."
-msgstr ""
+msgstr "Aha... donc c'est une mauvaise humeur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-1/0 washford_washer/washford_love_path/0/c-0/29/c-0/7
 msgctxt "Washford"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-1/8
 msgctxt "Washford"
 msgid "Yes..."
-msgstr ""
+msgstr "Oui..."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-1/16
 msgctxt "Washford"
 msgid "A long and solitary bad mood."
-msgstr ""
+msgstr "Une longue et solitaire mauvaise humeur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-1/24
 msgctxt "Washford"
 msgid "For this, for everything, we are out of tune."
-msgstr ""
+msgstr "Pour ceci, pour tout, nous sommes désaccordés."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-1/32/s/0
 msgctxt "Choix"
 msgid "Wow. I'm really sorry to hear that."
-msgstr ""
+msgstr "Ouah. Je suis vraiment {{désolé|désolée|désolé·e}} d'entendre ça."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-1/33/s/0
 msgctxt "Choix"
 msgid "Anything you'd like to talk about?"
-msgstr ""
+msgstr "Tu veux en parler ?"
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-2/0
 msgctxt "Washford"
 msgid "You aren't serious. You jest."
-msgstr ""
+msgstr "Vous n'êtes pas {{sérieux|sérieuse|sérieux·se}}. Vous plaisantez."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "No, I mean it."
-msgstr ""
+msgstr "Non, je suis {{sérieux|sérieuse|sérieux·se}}."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "I guess I'm interested."
-msgstr ""
+msgstr "Faut croire que ça m'intéresse."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-2/10/s/0
 msgctxt "Choix"
 msgid "No jesting here. I've been told my jests are bad."
-msgstr ""
+msgstr "Aucune plaisanterie. On m'a dit que mes blagues étaient nulles."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-2/11/s/0
 msgctxt "Choix"
 msgid "Just a little jesting..."
-msgstr ""
+msgstr "Juste une petite plaisanterie..."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-2/c-10/7
 msgctxt "Washford"
 msgid "A little jesting... I suppose I can handle that."
-msgstr ""
+msgstr "Une petite plaisanterie... Je suppose que je peux supporter cela."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/0
 msgctxt "Washford"
 msgid "You want to hear my story?"
-msgstr ""
+msgstr "Vous voulez entendre mon histoire ?"
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/8/s/0
 msgctxt "Choix"
 msgid "For sure."
-msgstr ""
+msgstr "Carrément."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/9/s/0
 msgctxt "Choix"
 msgid "Unless.... is your story long?"
-msgstr ""
+msgstr "Sauf si... elle est longue, ton histoire ?"
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/10/s/0
 msgctxt "Choix"
 msgid "Well that's a little discouraging..."
-msgstr ""
+msgstr "Bon, c'est un peu décourageant..."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/11/s/0
 msgctxt "Choix"
 msgid "I bet you are one hell of a story teller."
-msgstr ""
+msgstr "Je parie que t'es un sacré conteur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/c-12/7
 msgctxt "Washford"
 msgid "Well forgive me if it is... I'm sure you have much more pressing things to do."
-msgstr ""
+msgstr "Eh bien, pardonnez-moi si c'est le cas... Je suis sûr que vous avez des choses bien plus pressantes à faire."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/c-12/15
 msgctxt "Washford"
 msgid "I'm used to being left with my door open so to speak."
-msgstr ""
+msgstr "J'ai l'habitude qu'on me laisse la porte ouverte, pour ainsi dire."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/c-12/23/0/s/0
 msgctxt "Choix"
 msgid "Oooh yeah, I do leave it open at times... sorry..."
-msgstr ""
+msgstr "Ooh ouais, ça m'arrive de la laisser ouverte... {{désolé|désolée|désolé·e}}..."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/c-12/23/1/s/0
 msgctxt "Choix"
 msgid "No I can leave anytime! Watch me!"
-msgstr ""
+msgstr "Non, je peux partir quand je veux ! Regarde-moi bien !"
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/c-12/23/c-1/7
 msgctxt "Washford"
 msgid "I'm riveted."
-msgstr ""
+msgstr "Je suis captivé."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/c-12/23/g-0/0
 msgctxt "Washford"
 msgid "Ah yes... le bon homme sans merci... Long or not long, you'll have to be the judge."
-msgstr ""
+msgstr "Ah oui... le bon homme sans merci... Long ou pas, c'est à vous d'en juger."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/g-3/c-12/23/g-0/8
 msgctxt "Washford"
 msgid "I drowned in the water so long ago I can no longer tell its depth."
-msgstr ""
+msgstr "Je me suis noyé dans l'eau il y a si longtemps que je n'en distingue plus la profondeur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/6
 msgctxt "Washford"
 msgid "I am a servant to the drama of the heart."
-msgstr ""
+msgstr "Je suis le serviteur des drames du cœur."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/14/s/0
 msgctxt "Choix"
 msgid "See? Like that. You just speak so beautifully."
-msgstr ""
+msgstr "Tu vois ? Comme ça. Tu parles tellement bien."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/15/s/0
 msgctxt "Choix"
 msgid "Oh god, another involuted inanimate."
-msgstr ""
+msgstr "Oh mon dieu, encore un inanimé introspectif et inextricable."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/16/s/0
 msgctxt "Choix"
 msgid "Truthfully? No idea what you are talking about."
-msgstr ""
+msgstr "Franchement ? Aucune idée de ce que tu racontes."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/17/s/0
 msgctxt "Choix"
 msgid "This should be good..."
-msgstr ""
+msgstr "Ça promet..."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/c-15/7
 msgctxt "Washford"
 msgid "I have to. It isn't something I chose."
-msgstr ""
+msgstr "Je n'ai pas le choix. Ce n'est pas quelque chose que j'ai choisi."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/c-16/7
 msgctxt "Washford"
 msgid "Polysyllabic alliteration, hmm, perhaps I have underestimated you. Though I tend to do that, surrounded as I am by witless whatsits."
-msgstr ""
+msgstr "Une allitération polysyllabique, hmm, je vous ai peut-être {{sous-estimé|sous-estimée|sous-estimé·e}}. Mais c'est mon penchant, entouré que je suis de bidules bas de plafond."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/c-17/7
 msgctxt "Washford"
 msgid "Oh, you're sorry."
-msgstr ""
+msgstr "Oh, vous êtes {{désolé|désolée|désolé·e}}."
 
+# Traduction IA – à relire
 #: washford_washer/WashfordIntro/0/forsure/c-18/7
 msgctxt "Washford"
 msgid "Good, bad, what's the difference..."
-msgstr ""
+msgstr "Bonne, mauvaise, quelle différence..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_ignored/0/0
 msgctxt "Washford"
 msgid "You came back? Nothing more interesting than me out there after all, hmm?"
-msgstr ""
+msgstr "Vous revoilà ? Rien de plus intéressant que moi dehors, finalement, hmm ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_ignored/0/8/s/0
 msgctxt "Choix"
 msgid "Actually, no, you have my attention."
-msgstr ""
+msgstr "En fait, non, tu as toute mon attention."
 
+# Traduction IA – à relire
 #: washford_washer/washford_ignored/0/9/s/0
 msgctxt "Choix"
 msgid "If you're still pissy I'm going again."
-msgstr ""
+msgstr "Si t'es encore de mauvais poil, je repars."
 
+# Traduction IA – à relire
 #: washford_washer/washford_ignored/0/c-0/7
 msgctxt "Washford"
 msgid "Hm... a willing audience. It's been too long..."
-msgstr ""
+msgstr "Hm... un public consentant. Cela faisait trop longtemps..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_ignored/0/c-1/7
 msgctxt "Washford"
 msgid "Ye gods what a soap opera."
-msgstr ""
+msgstr "Dieux du ciel, quel mélo savonneux."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/0/s/0
 msgctxt "Choix"
 msgid "I'm intrigued..."
-msgstr ""
+msgstr "Je suis {{intrigué|intriguée|intrigué·e}}..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/1/s/0
 msgctxt "Choix"
 msgid "What's your deal, dude?"
-msgstr ""
+msgstr "C'est quoi ton problème, mec ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/2/s/0
 msgctxt "Choix"
 msgid "Is this about Drysdale?"
-msgstr ""
+msgstr "C'est à cause de Drysdale ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/c-2/11
 msgctxt "Narrator"
 msgid "The mention of Drysdale makes Washford's eyes narrow."
-msgstr ""
+msgstr "La mention de Drysdale fait plisser les yeux de Washford."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/c-2/19
 msgctxt "Washford"
 msgid "Is this about Drysdale?"
-msgstr ""
+msgstr "C'est à cause de Drysdale ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/c-2/27
 msgctxt "Washford"
 msgid "How did you know?"
-msgstr ""
+msgstr "Comment l'avez-vous su ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/c-2/35/0/s/0
 msgctxt "Choix"
 msgid "I can add 2 and 2."
-msgstr ""
+msgstr "Je sais additionner 2 et 2."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/c-2/35/1/s/0
 msgctxt "Choix"
 msgid "I'm really smart at relationships."
-msgstr ""
+msgstr "Je suis super {{doué|douée|doué·e}} en relations amoureuses."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/c-2/35/c-0/7
 msgctxt "Washford"
 msgid "Prepare to get 5."
-msgstr ""
+msgstr "Préparez-vous à obtenir 5."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/c-2/35/c-1/7
 msgctxt "Washford"
 msgid "Not at this one. It has stumped a heart as profound as mine. An energy as bright as his."
-msgstr ""
+msgstr "Pas pour celle-ci. Elle a dérouté un cœur aussi profond que le mien. Une énergie aussi éclatante que la sienne."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/0
 msgctxt "Washford"
 msgid "I am awash in the scurryings of lives."
-msgstr ""
+msgstr "Je baigne dans l'agitation des vies."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/8
 msgctxt "Washford"
 msgid "Countless lives."
-msgstr ""
+msgstr "D'innombrables vies."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/16
 msgctxt "Washford"
 msgid "Countless stories."
-msgstr ""
+msgstr "D'innombrables histoires."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/24
 msgctxt "Washford"
 msgid "I am filled with water, the fundamental state of all things. Water; the tears you cry when you are born. When you are made. When you are broken."
-msgstr ""
+msgstr "Je suis rempli d'eau, l'état fondamental de toute chose. L'eau : les larmes que l'on verse à la naissance. Quand on est fait. Quand on est brisé."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/32
 msgctxt "Washford"
 msgid "It is the sweat that drips from brows and shaking knuckles in alleyways, in school yards."
-msgstr ""
+msgstr "C'est la sueur qui perle des fronts et des poings tremblants, dans les ruelles, dans les cours d'école."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/40
 msgctxt "Washford"
 msgid "It flows over its own frozen self down dry and grateful throats. It drops from noses in blazing sunshine onto lemon-printed bathing suits."
-msgstr ""
+msgstr "Elle coule sur sa propre forme gelée dans des gorges sèches et reconnaissantes. Elle goutte des nez en plein soleil sur des maillots de bain à motifs citron."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/48
 msgctxt "Washford"
 msgid "It is the wellspring of ancient secrets held in rough clay bowls."
-msgstr ""
+msgstr "C'est la source des secrets anciens que recèlent les bols d'argile brute."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/56
 msgctxt "Washford"
 msgid "I am surrounded by it."
-msgstr ""
+msgstr "J'en suis entouré."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/0/s/0
 msgctxt "Choix"
 msgid "I have never thought this much about my washing machine."
-msgstr ""
+msgstr "J'ai jamais autant réfléchi à mon lave-linge."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/1/s/0
 msgctxt "Choix"
 msgid "I'm remembering all the times I've left my clothes in the washer too long... I'm sorry?"
-msgstr ""
+msgstr "Je repense à toutes les fois où j'ai laissé mes fringues trop longtemps dans le lave-linge... {{Désolé|Désolée|Désolé·e}} ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/c-3/7
 msgctxt "Washford"
 msgid "That's just it! No one does!"
-msgstr ""
+msgstr "C'est bien cela ! Personne n'y réfléchit !"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/c-4/7
 msgctxt "Washford"
 msgid "You cannot know the agony that exact decision has caused me. I cannot talk about it... you'd have to ask Drysdale about it... The Pale Betrayal..."
-msgstr ""
+msgstr "Vous ne pouvez concevoir l'agonie que cette décision précise m'a causée. Je ne puis en parler... il vous faudrait interroger Drysdale... La Trahison Blême..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/c-4/15/0/s/0
 msgctxt "Choix"
 msgid "That sounds intense."
-msgstr ""
+msgstr "Ça a l'air intense."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/c-4/15/1/s/0
 msgctxt "Choix"
 msgid "What's that?"
-msgstr ""
+msgstr "C'est quoi, ça ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/c-4/15/2/s/0
 msgctxt "Choix"
 msgid "Oh I know all about it..."
-msgstr ""
+msgstr "Oh, je suis au courant de tout..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/c-4/15/c-2/7
 msgctxt "Washford"
 msgid "Do you? He must have let fly all our secrets."
-msgstr ""
+msgstr "Vraiment ? Il a dû laisser échapper tous nos secrets."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/awash/64/c-4/15/g-0/0
 msgctxt "Washford"
 msgid "You have no idea."
-msgstr ""
+msgstr "Vous n'en avez aucune idée."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/0
 msgctxt "Washford"
 msgid "But not only that. Not only do I hold the limitless, the unfathomably simple."
-msgstr ""
+msgstr "Mais ce n'est pas tout. Je ne contiens pas seulement l'illimité, l'insondablement simple."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/8
 msgctxt "Washford"
 msgid "I hold the dirt of life."
-msgstr ""
+msgstr "Je contiens la saleté de la vie."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/16
 msgctxt "Washford"
 msgid "The blood stuck in denim from skinned knees comes to me. The stains of earth from a weekend spent burrowing into trees and the slimy, crawly things..."
-msgstr ""
+msgstr "Le sang incrusté dans le denim des genoux écorchés vient à moi. Les taches de terre d'un week-end passé à fouiller les arbres et les choses visqueuses et rampantes..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/24
 msgctxt "Washford"
 msgid "...the makeup smeared onto shirt collars and cuffs, streaked mascara and embers of a lipstick that blazed once."
-msgstr ""
+msgstr "...le maquillage étalé sur les cols et les poignets de chemise, le mascara qui a coulé et les braises d'un rouge à lèvres qui flamboyait jadis."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/35
 msgctxt "Washford"
 msgid "All of this comes to me to be absolved. It may be dissolved but it does not disappear."
-msgstr ""
+msgstr "Tout cela vient à moi pour être absous. Cela se dissout peut-être, mais ne disparaît pas."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/43
 msgctxt "Washford"
 msgid "It cannot."
-msgstr ""
+msgstr "Cela ne le peut pas."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/51
 msgctxt "Washford"
 msgid "Nothing does."
-msgstr ""
+msgstr "Rien ne disparaît."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/59/s/0
 msgctxt "Choix"
 msgid "So what happens?"
-msgstr ""
+msgstr "Et du coup, il se passe quoi ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/notonlythat/60/s/0 washford_washer/washford_second2a/0/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "What are you going on about?"
-msgstr ""
+msgstr "Qu'est-ce que tu racontes ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-1/0
 msgctxt "Washford"
 msgid "I must keep it all. It is a vast treasure house of memories, of senses, and it is safe with me."
-msgstr ""
+msgstr "Je dois tout garder. C'est un vaste trésor de souvenirs, de sensations, et il est en sécurité avec moi."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-1/8
 msgctxt "Washford"
 msgid "But how can I, just me, survive that?"
-msgstr ""
+msgstr "Mais comment pourrais-je, moi seul, y survivre ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-1/16
 msgctxt "Washford"
 msgid "How could anyone bear the weight of that much LIFE?"
-msgstr ""
+msgstr "Comment quiconque pourrait-il porter le poids d'autant de VIE ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-1/24/s/0
 msgctxt "Choix"
 msgid "I don't know..."
-msgstr ""
+msgstr "Je sais pas..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-1/25/s/0
 msgctxt "Choix"
 msgid "Tell me."
-msgstr ""
+msgstr "Dis-moi."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-1/26/s/0
 msgctxt "Choix"
 msgid "Snacking. That's what I do."
-msgstr ""
+msgstr "En grignotant. C'est ce que je fais, moi."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-1/c-9/7
 msgctxt "Washford"
 msgid "Ah thus are explained the cracker crumbs in the pockets of t-shirts..."
-msgstr ""
+msgstr "Voilà donc l'explication des miettes de biscuit dans les poches des t-shirts..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-2/0
 msgctxt "Washford"
 msgid "It is the words. It is language. To be able to communicate, to share the burden... It is poetry that keeps me afloat in my own sea."
-msgstr ""
+msgstr "Ce sont les mots. C'est le langage. Pouvoir communiquer, partager le fardeau... C'est la poésie qui me maintient à flot dans ma propre mer."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-2/8/0/s/0
 msgctxt "Choix"
 msgid "I think I understand."
-msgstr ""
+msgstr "Je crois que je comprends."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-2/8/1/s/0
 msgctxt "Choix"
 msgid "I'd really love to hear the story you have to tell me."
-msgstr ""
+msgstr "J'aimerais vraiment entendre l'histoire que tu as à raconter."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-4/0
 msgctxt "Washford"
 msgid "You mean it?! Then this at last is the dawn! Such bewilderment comes with the sight of the room, I cannot tell..."
-msgstr ""
+msgstr "Vous êtes sincère ?! Alors voici enfin l'aube ! Un tel égarement me saisit à la vue de la pièce, je ne saurais dire..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-4/11/s/0
 msgctxt "Choix"
 msgid "A deep breath..."
-msgstr ""
+msgstr "Une grande inspiration..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-4/12/s/0
 msgctxt "Choix"
 msgid "Guess I'm stuck here listening."
-msgstr ""
+msgstr "Bon, faut croire que je suis {{coincé|coincée|coincé·e}} ici à écouter."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-5/0
 msgctxt "Washford"
 msgid "I have lost my only friend."
-msgstr ""
+msgstr "J'ai perdu mon unique ami."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-5/8/s/0
 msgctxt "Choix"
 msgid "<i>Nod sympathetically.</i>"
-msgstr ""
+msgstr "<i>Hocher la tête avec compassion.</i>"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-5/9/s/0
 msgctxt "Choix"
 msgid "<i>Purse eyebrows, sympathetically.</i>"
-msgstr ""
+msgstr "<i>Froncer les sourcils, avec compassion.</i>"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-5/10/s/0
 msgctxt "Choix"
 msgid "<i>Sigh... sympathetically.</i>"
-msgstr ""
+msgstr "<i>Soupirer... avec compassion.</i>"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-5/11/s/0 washford_washer/washford_friend_path/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "Drysdale."
-msgstr ""
+msgstr "Drysdale."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-6/0
 msgctxt "Narrator"
 msgid "He gazes off into the distance, something clearly weighing on him. His eyes narrow for a few moments, and then he sighs."
-msgstr ""
+msgstr "Il fixe un point au loin, manifestement accablé. Ses yeux se plissent quelques instants, puis il soupire."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-6/24/s/0
 msgctxt "Choix"
 msgid "Was that it?"
-msgstr ""
+msgstr "C'était ça ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-6/25/s/0
 msgctxt "Choix"
 msgid "Did you... sorry, did you mean to do something just then?"
-msgstr ""
+msgstr "Est-ce que tu... pardon, tu voulais faire quelque chose, là ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-7/0
 msgctxt "Washford"
 msgid "Yes, my god, haven't they done enough?"
-msgstr ""
+msgstr "Oui, mon dieu, n'en ont-ils pas assez fait ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-7/8/0/s/0
 msgctxt "Choix"
 msgid "I'm going to need a little bit more detail here."
-msgstr ""
+msgstr "Il va me falloir un peu plus de détails."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-7/8/1/s/0
 msgctxt "Choix"
 msgid "Yup. Bravo. But... I still don't get it?"
-msgstr ""
+msgstr "Ouais. Bravo. Mais... j'ai toujours rien compris ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/3
 msgctxt "Washford"
 msgid "Drysdale. He was a phantom of delight when first he gleamed upon my sight... but we are quite forsaken."
-msgstr ""
+msgstr "Drysdale. Il fut un fantôme de délice lorsqu'il parut pour la première fois à mes yeux... mais nous voilà bien délaissés."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/11/s/0
 msgctxt "Choix"
 msgid "Oh man, what happened?"
-msgstr ""
+msgstr "Oh là là, qu'est-ce qui s'est passé ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/12/s/0
 msgctxt "Choix"
 msgid "Is that the dryer?"
-msgstr ""
+msgstr "C'est le sèche-linge ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/13/s/0
 msgctxt "Choix"
 msgid "Forsaken how?"
-msgstr ""
+msgstr "Délaissés comment ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/14/s/0
 msgctxt "Choix"
 msgid "Yup... I know that guy."
-msgstr ""
+msgstr "Ouais... je connais ce type."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/13
 msgctxt "Narrator"
 msgid "Washford rolls his eyes."
-msgstr ""
+msgstr "Washford lève les yeux au ciel."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/21
 msgctxt "Washford"
 msgid "His name is Drysdale - if you must parse down his fullness YES he's the DRYER."
-msgstr ""
+msgstr "Il s'appelle Drysdale. Si vous tenez à réduire sa plénitude, OUI, c'est le SÈCHE-LINGE."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/29
 msgctxt "Narrator"
 msgid "He gestures to himself."
-msgstr ""
+msgstr "Il se désigne lui-même."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/37
 msgctxt "Washford"
 msgid "I'm WASHford."
-msgstr ""
+msgstr "Moi, c'est WASHford."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/45
 msgctxt "Narrator"
 msgid "He gestures to your dryer."
-msgstr ""
+msgstr "Il désigne votre sèche-linge."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/53
 msgctxt "Washford"
 msgid "He's DRYsdale."
-msgstr ""
+msgstr "Lui, c'est DRYsdale."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-23/69
 msgctxt "Washford"
 msgid "Nitwit."
-msgstr ""
+msgstr "{{Nigaud|Nigaude|Nigaud·e}}."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/phantomdelightjoin/c-25/7
 msgctxt "Washford"
 msgid "Is it possible to really know a true partner as I have?"
-msgstr ""
+msgstr "Est-il possible de vraiment connaître un véritable partenaire comme je l'ai connu ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/0
 msgctxt "Washford"
 msgid "We were a duo, an acrobatic team rivaled by none on Earth. We were swift, smooth and strong... I wish you could've seen him fly."
-msgstr ""
+msgstr "Nous étions un duo, une équipe d'acrobates sans rivale sur Terre. Nous étions vifs, souples et forts... J'aurais aimé que vous le voyiez voler."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/8
 msgctxt "Washford"
 msgid "To the vault of paved heaven..."
-msgstr ""
+msgstr "Jusqu'à la voûte du ciel pavé..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/16
 msgctxt "Washford"
 msgid "Our performances were legend. They came from many rooms away to watch us, to applaud us..."
-msgstr ""
+msgstr "Nos numéros étaient légendaires. On venait de pièces lointaines pour nous voir, pour nous applaudir..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/24/0
 msgctxt "Washford"
 msgid "And joy filled me as wine in a glass, o'erflow'd."
-msgstr ""
+msgstr "Et la joie m'emplissait comme le vin un verre, jusqu'à déborder."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/24/8/s/0
 msgctxt "Choix"
 msgid "Sounds like you guys had a really amazing connection."
-msgstr ""
+msgstr "On dirait que vous aviez un lien vraiment incroyable."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/24/9/s/0
 msgctxt "Choix"
 msgid "Cool beans."
-msgstr ""
+msgstr "Ça roule, ma poule."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/24/10/s/0
 msgctxt "Choix"
 msgid "I think I'm following..."
-msgstr ""
+msgstr "Je crois que je suis..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/24/c-26/7
 msgctxt "Washford"
 msgid "Past tense."
-msgstr ""
+msgstr "Au passé."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-9/24/c-27/7
 msgctxt "Washford"
 msgid "Beans...? Hmph."
-msgstr ""
+msgstr "Poule... ? Hmph."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-11/3
 msgctxt "Washford"
 msgid "But the physical connection between him and me... it is like nothing I have known before or since."
-msgstr ""
+msgstr "Mais le lien physique entre lui et moi... il ne ressemble à rien de ce que j'ai connu, avant comme après."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-11/11/s/0
 msgctxt "Choix"
 msgid "I could really go for a glass of wine right now."
-msgstr ""
+msgstr "Je boirais bien un verre de vin, là."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-11/12/s/0
 msgctxt "Choix"
 msgid "So what's the problem?"
-msgstr ""
+msgstr "Et donc, c'est quoi le problème ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-11/c-29/7
 msgctxt "Washford"
 msgid "I no longer partake. Wine was something I shared only with him. Like so many other things..."
-msgstr ""
+msgstr "Je n'en bois plus. Le vin était une chose que je ne partageais qu'avec lui. Comme tant d'autres..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/0
 msgctxt "Washford"
 msgid "He does not need poetry like I do. When he talks, it is a breeze to my tempest, and to him my tempest seems but a suggestion, a rumor of rain in another man's country."
-msgstr ""
+msgstr "Il n'a pas besoin de poésie comme moi. Quand il parle, c'est une brise face à ma tempête, et à ses yeux ma tempête n'est qu'une suggestion, une rumeur de pluie dans le pays d'un autre."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/8/s/0
 msgctxt "Choix"
 msgid "But you had your art didn't you?"
-msgstr ""
+msgstr "Mais t'avais ton art, non ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/9/s/0
 msgctxt "Choix"
 msgid "Seems like you weren't a good match."
-msgstr ""
+msgstr "On dirait que vous étiez pas faits l'un pour l'autre."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-31/7
 msgctxt "Washford"
 msgid "Until we didn't. Until he was too busy to perform. Too occupied with other things to tumble with me."
-msgstr ""
+msgstr "Jusqu'au jour où ce ne fut plus le cas. Jusqu'au jour où il fut trop occupé pour se produire. Trop pris par d'autres choses pour virevolter avec moi."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-31/15
 msgctxt "Washford"
 msgid "The bond was broken. The bright cord severed. He abandoned me."
-msgstr ""
+msgstr "Le lien fut rompu. Le cordon lumineux tranché. Il m'abandonna."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-31/23
 msgctxt "Washford"
 msgid "And when he was finally ready again, I was unreachable. Locked in my own Chillon, trying to claw my way back to a friend who could not hear me."
-msgstr ""
+msgstr "Et quand il fut enfin prêt à nouveau, j'étais inaccessible. Enfermé dans mon propre Chillon, à tenter de griffer mon chemin jusqu'à un ami qui ne pouvait m'entendre."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-31/31
 msgctxt "Washford"
 msgid "The wall between us has been impenetrable ever since."
-msgstr ""
+msgstr "Le mur entre nous est demeuré infranchissable depuis."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-32/7
 msgctxt "Washford"
 msgid "We both made mistakes. Neglect. Betrayal. I cannot even claim to have left behind the anger that was born in me."
-msgstr ""
+msgstr "Nous avons tous deux commis des erreurs. Négligence. Trahison. Je ne puis même prétendre avoir laissé derrière moi la colère qui est née en moi."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-32/15/0/s/0
 msgctxt "Choix"
 msgid "Anger... with Drysdale?"
-msgstr ""
+msgstr "De la colère... envers Drysdale ?"
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-32/15/1/s/0
 msgctxt "Choix"
 msgid "This seems serious."
-msgstr ""
+msgstr "Ça a l'air grave."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-12/c-32/15/g-0/0
 msgctxt "Washford"
 msgid "Oh yes... I told it not, my wrath did grow... And I water'd it with fears, night and morning with my tears..."
-msgstr ""
+msgstr "Oh oui... je l'ai tue, et ma colère a grandi... Et je l'ai arrosée de mes craintes, nuit et matin, de mes larmes..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-13/0/s/0
 msgctxt "Choix"
 msgid "Whoa."
-msgstr ""
+msgstr "Ouah."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-13/1/s/0
 msgctxt "Choix"
 msgid "I'm starting to see why you two haven't talked in such a long time."
-msgstr ""
+msgstr "Je commence à comprendre pourquoi vous vous êtes pas parlé depuis si longtemps."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/0
 msgctxt "Washford"
 msgid "Yes. It's been years. As I said, traveler, a long and solitary bad mood."
-msgstr ""
+msgstr "Oui. Cela fait des années. Comme je vous l'ai dit, {{voyageur|voyageuse|voyageur·se}}, une longue et solitaire mauvaise humeur."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/8
 msgctxt "Washford"
 msgid "All moving things / Come to an end: / A knotted willow."
-msgstr ""
+msgstr "Tout ce qui bouge / Arrive à sa fin : / Un saule noué."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/16/0
 msgctxt "Washford"
 msgid "I miss him everyday."
-msgstr ""
+msgstr "Il me manque chaque jour."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/16/8/b/1
 msgctxt "Washford"
 msgid "Yet speaking with you gives me hope that I might be able to move on and accept a new companion."
-msgstr ""
+msgstr "Pourtant, parler avec vous me donne l'espoir de pouvoir tourner la page et accepter un nouveau compagnon."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/16/9/b/1
 msgctxt "Washford"
 msgid "Though you have been a rather dismissive and flippant creature... I find I am still charmed. I didn't know I could still feel that way."
-msgstr ""
+msgstr "Bien que vous ayez été une créature plutôt dédaigneuse et désinvolte... je me trouve malgré tout charmé. J'ignorais pouvoir encore ressentir cela."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/16/12/s/0
 msgctxt "Choix"
 msgid "Don't worry! These things have a way of working out."
-msgstr ""
+msgstr "T'inquiète pas ! Ces choses-là finissent toujours par s'arranger."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/16/13/s/0
 msgctxt "Choix"
 msgid "It just doesn't sound like you guys are good for each other right now."
-msgstr ""
+msgstr "J'ai juste l'impression que vous êtes pas bons l'un pour l'autre en ce moment."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/16/c-35/7
 msgctxt "Washford"
 msgid "You're asking me to have faith... I would be hard pressed to acquiesce if not for... well... I've tried everything else.."
-msgstr ""
+msgstr "Vous me demandez d'avoir foi... J'aurais grand-peine à y consentir si ce n'était que... eh bien... j'ai tout essayé d'autre..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-14/16/c-36/7
 msgctxt "Washford"
 msgid "Perhaps, you're right. Beware, beware! His flashing eyes, his floating hair..."
-msgstr ""
+msgstr "Peut-être avez-vous raison. Prenez garde, prenez garde ! Ses yeux qui flamboient, ses cheveux qui flottent..."
 
+# Traduction IA – à relire
 #: washford_washer/Friend_2a/0/g-16/0
 msgctxt "Washford"
 msgid "Thank you, sincerely, for listening. It has been so long since anyone has stopped, has heard me."
-msgstr ""
+msgstr "Merci, sincèrement, de m'avoir écouté. Il y a si longtemps que personne ne s'est arrêté pour m'entendre."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/6/b/1
 msgctxt "Washford"
 msgid "Oh look. A fantastic red shirt. I imagine you want me to swoon."
-msgstr ""
+msgstr "Oh, tiens. Une fantastique chemise rouge. Je suppose que vous voulez que je me pâme."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/9
 msgctxt "Washford"
 msgid "You may have wandered with mad disquietude into a world which will overwhelm you. I must confess there is a part of me which longs to see you drowned in it..."
-msgstr ""
+msgstr "Vous avez peut-être erré, dans une folle inquiétude, jusqu'à un monde qui vous submergera. Je dois avouer qu'une part de moi brûle de vous y voir {{noyé|noyée|noyé·e}}..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/14
 msgctxt "Washford"
 msgid "...drowned in the darkness and the sorrow if only so that I will be understood in the eyes of one who is drowned like me."
-msgstr ""
+msgstr "...{{noyé|noyée|noyé·e}} dans les ténèbres et le chagrin, ne serait-ce que pour être compris aux yeux de quelqu'un de noyé comme moi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/22/s/0 washford_washer/washford_love_return_solo/0/4/s/0
 msgctxt "Choix"
 msgid "What now?"
-msgstr ""
+msgstr "Quoi encore ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/23/s/0
 msgctxt "Choix"
 msgid "Hi Washford, how's it going?"
-msgstr ""
+msgstr "Salut Washford, ça va ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/24/s/0
 msgctxt "Choix"
 msgid "You look nice and moist today."
-msgstr ""
+msgstr "T'as l'air bien humide aujourd'hui."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/c-1/7
 msgctxt "Washford"
 msgid "It goes as it goes..."
-msgstr ""
+msgstr "Cela va comme cela va..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/c-2/7
 msgctxt "Washford"
 msgid "I'm positively sopping."
-msgstr ""
+msgstr "Je suis littéralement trempé."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-0/0
 msgctxt "Washford"
 msgid "I was... my God I was..."
-msgstr ""
+msgstr "J'étais... mon dieu, j'étais..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-0/8
 msgctxt "Washford"
 msgid "...and the light and the darkness consumed us both and time crept in this penitent crawl moment to moment to night and I didn't notice..."
-msgstr ""
+msgstr "...et la lumière et les ténèbres nous ont consumés tous deux et le temps s'est glissé dans cette pénitente reptation d'instant en instant jusqu'à la nuit et je n'ai rien remarqué..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-0/16
 msgctxt "Washford"
 msgid "...I had not enough breath in me to care for anything but THIS, for anyone but THIS for anywhere but THIS now, my love."
-msgstr ""
+msgstr "...je n'avais pas assez de souffle en moi pour me soucier d'autre chose que de CECI, d'autre être que de CECI, d'autre lieu que de CECI, maintenant, mon amour."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "My love? You are on your own journey right now, man."
-msgstr ""
+msgstr "Mon amour ? T'es parti dans ton propre délire, là, mec."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "Hey, you know I'm here, right?"
-msgstr ""
+msgstr "Hé, tu sais que je suis là, hein ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-1/0
 msgctxt "Washford"
 msgid "Come with me."
-msgstr ""
+msgstr "Venez avec moi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-1/8
 msgctxt "Washford"
 msgid "Come before me, with a look so piteous as if we had been loosed out of hell to revel in horrors."
-msgstr ""
+msgstr "Venez devant moi, l'air aussi pitoyable que si nous avions été lâchés de l'enfer pour nous repaître d'horreurs."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-1/16
 msgctxt "Washford"
 msgid "You know only a heap of broken images. A casual forgetting of even the shallow breath you're shackled to. You are a poor, marionetted hanged man, dripping from his cobwebbed strings... come with me, come into the deep water..."
-msgstr ""
+msgstr "Vous ne connaissez qu'un amas d'images brisées. L'oubli désinvolte même du souffle superficiel auquel vous êtes {{enchaîné|enchaînée|enchaîné·e}}. Vous êtes une pauvre marionnette pendue, ruisselant au bout de ses fils pleins de toiles d'araignée... venez avec moi, venez dans l'eau profonde..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-1/24
 msgctxt "Washford"
 msgid "I will give you lustful abandon under a salted rage of stars..."
-msgstr ""
+msgstr "Je vous offrirai un abandon lascif sous une rage salée d'étoiles..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-1/35/s/0
 msgctxt "Choix"
 msgid "Was Drysdale into this... stuff?"
-msgstr ""
+msgstr "Drysdale, il était branché... ces trucs-là ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-1/36/s/0
 msgctxt "Choix"
 msgid "Please don't stop talking."
-msgstr ""
+msgstr "Arrête pas de parler, s'il te plaît."
 
+# Traduction IA – à relire
 #: washford_washer/washford_2/0/g-1/37/s/0
 msgctxt "Choix"
 msgid "That sounds super dangerous."
-msgstr ""
+msgstr "Ça a l'air super dangereux."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a/0/0
 msgctxt "Washford"
 msgid "You fool."
-msgstr ""
+msgstr "Pauvre fou."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a/0/8
 msgctxt "Washford"
 msgid "No, that was unkind. You do not know him. You do not truly know me either."
-msgstr ""
+msgstr "Non, c'était cruel. Vous ne le connaissez pas. Vous ne me connaissez pas vraiment non plus."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a/0/19
 msgctxt "Washford"
 msgid "Pleasure... ecstasy... was he 'into this stuff?' We exalted in each other in a way you could not possibly imagine."
-msgstr ""
+msgstr "Le plaisir... l'extase... était-il « branché ces trucs-là » ? Nous nous exaltions l'un l'autre d'une façon que vous ne sauriez imaginer."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a/0/27/s/0
 msgctxt "Choix"
 msgid "I definitely can't imagine that."
-msgstr ""
+msgstr "Ah ça, j'arrive clairement pas à l'imaginer."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a/0/28/s/0
 msgctxt "Choix"
 msgid "I'm happy for you guys... it just seems a little unrealistic."
-msgstr ""
+msgstr "Je suis {{content|contente|content·e}} pour vous... ça semble juste un peu irréaliste."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a1/0/0
 msgctxt "Washford"
 msgid "Unrealistic! A tragic lack of vision. You are not to blame. How could you understand that kind of love. I could tell you a story to help you understand, if you'd like..."
-msgstr ""
+msgstr "Irréaliste ! Quel tragique manque de vision. Vous n'y êtes pour rien. Comment pourriez-vous comprendre ce genre d'amour ? Je pourrais vous conter une histoire pour vous aider à comprendre, si vous le souhaitez..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a1/0/11/s/0
 msgctxt "Choix"
 msgid "Yeah, I'm in."
-msgstr ""
+msgstr "Ouais, vas-y."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a1/0/12/s/0
 msgctxt "Choix"
 msgid "Oh jeez. I don't think I'm up for another story."
-msgstr ""
+msgstr "Oh là là. Je crois pas avoir la force pour une autre histoire."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/0
 msgctxt "Washford"
 msgid "I saw a woman once, with a locket around her neck. She stood on the shore of a deep, quiet lake. She was weeping."
-msgstr ""
+msgstr "J'ai vu une femme, un jour, un médaillon au cou. Elle se tenait sur la rive d'un lac profond et paisible. Elle pleurait."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/8
 msgctxt "Washford"
 msgid "She grasped the locket, hard, and she pulled. She pulled until the flesh on her neck was raw. She pulled until her tears mixed with a fine sweat on her cheeks. She pulled until the chain snapped under her fingers."
-msgstr ""
+msgstr "Elle saisit le médaillon, fort, et tira. Elle tira jusqu'à ce que la peau de son cou soit à vif. Elle tira jusqu'à ce que ses larmes se mêlent à une fine sueur sur ses joues. Elle tira jusqu'à ce que la chaîne cède sous ses doigts."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/16
 msgctxt "Washford"
 msgid "Then she cradled the locket and for the last time, she kissed it. Her lips were dry, cracked. The color of peaches. And with all her might, a great, final cry, she flung the locket out, onto the mirrored water."
-msgstr ""
+msgstr "Puis elle berça le médaillon et, une dernière fois, l'embrassa. Ses lèvres étaient sèches, gercées. Couleur de pêche. Et de toutes ses forces, dans un grand cri final, elle lança le médaillon sur l'eau miroitante."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/24
 msgctxt "Washford"
 msgid "It struck the surface with a sound like shushing doors. It fell gently through the green water. The chain trailed above the locket like a hand, reaching, longing for the retreating sun."
-msgstr ""
+msgstr "Il frappa la surface avec un bruit de portes qui chuchotent. Il sombra doucement dans l'eau verte. La chaîne flottait au-dessus du médaillon comme une main tendue, cherchant avec nostalgie le soleil qui se retirait."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/32/s/0
 msgctxt "Choix"
 msgid "You speak beautifully..."
-msgstr ""
+msgstr "Tu parles si joliment..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/33/s/0
 msgctxt "Choix"
 msgid "This seems like it's gonna be a long story."
-msgstr ""
+msgstr "J'ai l'impression que ça va être une longue histoire."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/0
 msgctxt "Washford"
 msgid "It fell for what seemed like ages. She waited."
-msgstr ""
+msgstr "Il tomba pendant ce qui sembla une éternité. Elle attendit."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/8
 msgctxt "Washford"
 msgid "When it hit the bottom, she felt it in her heart. The burying of the locket in the silt like the burying of the love forever in her flesh."
-msgstr ""
+msgstr "Quand il toucha le fond, elle le sentit dans son cœur. L'enfouissement du médaillon dans la vase, comme l'enfouissement à jamais de l'amour dans sa chair."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/16
 msgctxt "Washford"
 msgid "She gasped and leaned against the trees. The locket settled, the chain finally joining its fellow on the finely sanded floor."
-msgstr ""
+msgstr "Elle suffoqua et s'appuya contre les arbres. Le médaillon se posa, la chaîne rejoignant enfin son compagnon sur le fond de sable fin."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/24
 msgctxt "Washford"
 msgid "And slowly, the silky grit disturbed by love began to fall. It rained down, it dusted the locket, and it obscured the locket, and then the sand buried it entirely."
-msgstr ""
+msgstr "Et lentement, le limon soyeux troublé par l'amour commença à retomber. Il pleuvait, il poudrait le médaillon, il l'obscurcissait, puis le sable l'ensevelit entièrement."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/32
 msgctxt "Washford"
 msgid "The woman, on the shore, could breathe again. Her tears were dry, her cheeks glittering with salt."
-msgstr ""
+msgstr "La femme, sur la rive, put respirer à nouveau. Ses larmes avaient séché, ses joues scintillaient de sel."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/40
 msgctxt "Washford"
 msgid "She could no longer see the ripple of her presence on the water, and she turned and retreated through the trees."
-msgstr ""
+msgstr "Elle ne voyait plus la ride de sa présence sur l'eau, et elle se retourna et repartit à travers les arbres."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/48
 msgctxt "Washford"
 msgid "The locket was now so thoroughly lost in the sand that even if she had looked, she could not have told where it lay."
-msgstr ""
+msgstr "Le médaillon était à présent si bien perdu dans le sable que, même si elle avait regardé, elle n'aurait pu dire où il gisait."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/56
 msgctxt "Washford"
 msgid "This is what this love is like, for me. Its fall was inexorable. Now it has been in this dark lake for so many years, I can no longer even see its outline. And still, it is everything."
-msgstr ""
+msgstr "Voilà ce qu'est cet amour, pour moi. Sa chute fut inexorable. Voilà tant d'années qu'il repose dans ce lac sombre que je n'en distingue même plus les contours. Et pourtant, il est tout."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/64/s/0
 msgctxt "Choix"
 msgid "I guess with me, if someone doesn't want to be with me, I try to take the hint and move on."
-msgstr ""
+msgstr "Moi, si quelqu'un veut pas être avec moi, j'essaie de comprendre le message et de passer à autre chose."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/65/s/0
 msgctxt "Choix"
 msgid "Wow... I... I wish I could have a love like that."
-msgstr ""
+msgstr "Ouah... je... j'aimerais vivre un amour comme ça."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a2/0/g-0/66/s/0
 msgctxt "Choix"
 msgid "Did that story need to be that long?"
-msgstr ""
+msgstr "Elle avait vraiment besoin d'être aussi longue, cette histoire ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/0
 msgctxt "Washford"
 msgid "That is practical advice, indeed. I suppose you and I are just different in that regard. I have never been good at practicality... and especially not with my heart."
-msgstr ""
+msgstr "Voilà un conseil bien pratique, en effet. Je suppose que nous sommes différents sur ce point, vous et moi. Je n'ai jamais été doué pour le sens pratique... et encore moins avec mon cœur."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/8/s/0
 msgctxt "Choix"
 msgid "I hear you. Everyone has their own way of doing things."
-msgstr ""
+msgstr "Je comprends. Chacun a sa façon de faire."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/7
 msgctxt "Washford"
 msgid "Yes. That they do."
-msgstr ""
+msgstr "Oui. En effet."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/15
 msgctxt "Washford"
 msgid "You've made me wonder if perhaps your way would be more productive than mine has been..."
-msgstr ""
+msgstr "Vous me faites me demander si votre façon ne serait pas plus productive que la mienne..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "It would definitely be less long-winded, I'll tell ya that."
-msgstr ""
+msgstr "Ce serait en tout cas moins interminable, crois-moi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Hm. What's the project?"
-msgstr ""
+msgstr "Hm. C'est quoi, ton projet ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/23/g-0/0
 msgctxt "Washford"
 msgid "Nevermind. I... I was going to ask if you might look in on him. Look in on Drysdale, speak to him."
-msgstr ""
+msgstr "Peu importe. Je... j'allais vous demander si vous pourriez passer le voir. Passer voir Drysdale, lui parler."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/23/g-0/8
 msgctxt "Washford"
 msgid "I cannot, though I may perish if I don't. I must not, though it is all I think about."
-msgstr ""
+msgstr "Je ne le puis, bien que je risque d'en périr. Je ne le dois, bien que je ne pense qu'à cela."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/23/g-0/16
 msgctxt "Washford"
 msgid "And he so adores strangers; it would be no hardship on you."
-msgstr ""
+msgstr "Et il adore tant les inconnus ; ce ne serait pas une corvée pour vous."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/c-0/23/g-0/24
 msgctxt "Washford"
 msgid "But nevermind. It... it is a silly suggestion. You have no reason... You don't even know me. We, whatever we are now, cannot mean anything to you."
-msgstr ""
+msgstr "Mais peu importe. C'est... c'est une suggestion idiote. Vous n'avez aucune raison... Vous ne me connaissez même pas. Nous, quoi que nous soyons désormais, ne pouvons rien signifier pour vous."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Well, doesn't sound like it's a big favor... I suppose I could."
-msgstr ""
+msgstr "Bon, ça m'a pas l'air d'être un gros service... Je pourrais, j'imagine."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "Yeah, I try not to get in the middle of things like this."
-msgstr ""
+msgstr "Ouais, j'essaie de pas me mettre au milieu de ce genre d'histoires."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "I've been meaning to meet him, actually. Sounds fun!"
-msgstr ""
+msgstr "Justement, je voulais le rencontrer. Ça a l'air marrant !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-1/7
 msgctxt "Washford"
 msgid "Do you mean it? I... well. I must confess myself... pleasantly surprised. I am not accustomed to surprises, and even less to pleasant ones."
-msgstr ""
+msgstr "Vous êtes sincère ? Je... eh bien. Je dois m'avouer... agréablement surpris. Je n'ai guère l'habitude des surprises, et encore moins des agréables."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-1/18
 msgctxt "Washford"
 msgid "You may turn out to be a grateful bright spot in this dreary mindscape of mine."
-msgstr ""
+msgstr "Vous pourriez bien devenir un bienvenu rayon de lumière dans le morne paysage de mon esprit."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/7
 msgctxt "Washford"
 msgid "Of course. The middle of anything is a difficult orientation. Which way to face, which party to back. Whom to betray and whom to believe in... I wouldn't wish to put you in discomfort."
-msgstr ""
+msgstr "Bien sûr. Le milieu de quoi que ce soit est une position délicate. De quel côté se tourner, quel camp soutenir. Qui trahir et en qui croire... Je ne voudrais pas vous mettre dans l'embarras."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Kinda sounds like you're pissed, though."
-msgstr ""
+msgstr "On dirait quand même que t'es vénère."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Great. Thanks. As long as we're on the same page."
-msgstr ""
+msgstr "Super. Merci. Tant qu'on est sur la même longueur d'onde."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/15/2/s/0
 msgctxt "Choix"
 msgid "No disrespect. I just... don't wanna."
-msgstr ""
+msgstr "Sans vouloir te manquer de respect. J'ai juste... pas envie."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/15/c-0/7
 msgctxt "Washford"
 msgid "\"Pissed?\" What in blue hell..."
-msgstr ""
+msgstr "« Vénère » ? Mais que diable..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/15/c-0/18
 msgctxt "Washford"
 msgid "I'm sure I am not. You are dismissed. Before you foist more strange apathy upon me."
-msgstr ""
+msgstr "Je suis certain que non. Vous pouvez disposer. Avant de m'infliger davantage de votre étrange apathie."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/15/c-1/7
 msgctxt "Washford"
 msgid "Very much the same. I shouldn't have asked and you shouldn't have replied."
-msgstr ""
+msgstr "Tout à fait la même. Je n'aurais pas dû demander et vous n'auriez pas dû répondre."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-2/15/c-2/7
 msgctxt "Washford"
 msgid "Of course. How vital that we all do what we \"wanna.\""
-msgstr ""
+msgstr "Bien sûr. Comme il est vital que nous fassions tous ce dont nous avons « envie »."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6a1/0/g-0/c-3/7
 msgctxt "Washford"
 msgid "Fun. Yes... that is one thing I can guarantee."
-msgstr ""
+msgstr "Marrant. Oui... cela, je puis vous le garantir."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/0
 msgctxt "Washford"
 msgid "Have I captured you?"
-msgstr ""
+msgstr "Vous ai-je {{captivé|captivée|captivé·e}} ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/8/s/0
 msgctxt "Choix"
 msgid "Yes..."
-msgstr ""
+msgstr "Oui..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/9/s/0
 msgctxt "Choix"
 msgid "Nah, this poetry thing is just a little much for me."
-msgstr ""
+msgstr "Bof, ce truc de poésie, c'est un peu trop pour moi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/13
 msgctxt "Washford"
 msgid "Love comes in so many forms, you see. It does not have to last forever to be true. We can be shattered in a moment as easily as in a lifetime..."
-msgstr ""
+msgstr "L'amour prend tant de formes, voyez-vous. Il n'a pas besoin de durer toujours pour être vrai. On peut être brisé en un instant aussi aisément qu'en une vie entière..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/21
 msgctxt "Washford"
 msgid "I can ruin you for an afternoon and in the years to come you will dream about your hour on the high cliff while you trudge through shadowed valleys."
-msgstr ""
+msgstr "Je peux vous anéantir le temps d'un après-midi, et dans les années à venir vous rêverez de votre heure sur la haute falaise en arpentant péniblement les vallées obscures."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/29
 msgctxt "Washford"
 msgid "Anything real is an honor. Anything real is a shrieking exaltation to love."
-msgstr ""
+msgstr "Tout ce qui est réel est un honneur. Tout ce qui est réel est une exaltation hurlante de l'amour."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/0/s/0
 msgctxt "Choix"
 msgid "Washford, you're phenomenal."
-msgstr ""
+msgstr "Washford, t'es phénoménal."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/1/s/0
 msgctxt "Choix"
 msgid "Anything real is quiet, true, and everlasting."
-msgstr ""
+msgstr "Tout ce qui est réel est calme, vrai et éternel."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/c-1/7
 msgctxt "Washford"
 msgid "Indeed..."
-msgstr ""
+msgstr "En effet..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/0
 msgctxt "Washford"
 msgid "Now you must see... you must understand that words are not just shapes on a page. Words are the conduit. Words are the channel. Through words I can enlighten your mind."
-msgstr ""
+msgstr "Vous devez voir, à présent... vous devez comprendre que les mots ne sont pas que des formes sur une page. Les mots sont le conduit. Les mots sont le canal. Par les mots, je peux éclairer votre esprit."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/8
 msgctxt "Washford"
 msgid "I can challenge your perception. I can touch your... heart."
-msgstr ""
+msgstr "Je peux défier votre perception. Je peux toucher votre... cœur."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/19/0/s/0
 msgctxt "Choix"
 msgid "Can you touch anything else?"
-msgstr ""
+msgstr "Et tu peux toucher autre chose ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/19/1/s/0
 msgctxt "Choix"
 msgid "I have to go now... this is too much talking."
-msgstr ""
+msgstr "Faut que j'y aille... ça fait trop de blabla."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/19/c-0/7
 msgctxt "Washford"
 msgid "I am a poet, dear one. I can touch anything I want."
-msgstr ""
+msgstr "Je suis poète, très {{cher|chère|cher·e}}. Je peux toucher tout ce que je veux."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/19/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Go write ahead."
-msgstr ""
+msgstr "À tes plumes, prêt, partez !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/19/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Well said, oh soppy one."
-msgstr ""
+msgstr "Bien dit, ô détrempé."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/19/g-0/0
 msgctxt "Washford"
 msgid "Is it, now? I suppose we could communicate via acrobatics, or an athletic sexual marathon..."
-msgstr ""
+msgstr "Vraiment ? Je suppose que nous pourrions communiquer par l'acrobatie, ou par un marathon sexuel athlétique..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-0/37/g-0/19/g-0/8
 msgctxt "Washford"
 msgid "...but you don't seem fit for either of those to me."
-msgstr ""
+msgstr "...mais vous ne me semblez {{taillé|taillée|taillé·e}} ni pour l'un ni pour l'autre."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6blove/0/c-1/13
 msgctxt "Washford"
 msgid "And your presence is not quite enough for me."
-msgstr ""
+msgstr "Et votre présence ne me suffit pas tout à fait."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6cMISOS/0/0
 msgctxt "Washford"
 msgid "It is. It might kill you. God forbid you take a risk like that. It must be stultifying to live a milquetoast life."
-msgstr ""
+msgstr "En effet. Cela pourrait vous tuer. Dieu vous garde de prendre un tel risque. Ce doit être abrutissant de vivre une vie aussi fade."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6cMISOS/0/8/s/0
 msgctxt "Choix"
 msgid "Maybe you and Drysdale would be better together. You deserve each other's weirdness."
-msgstr ""
+msgstr "Toi et Drysdale, vous seriez peut-être mieux ensemble. Vous méritez vos bizarreries respectives."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6cMISOS/0/9/s/0
 msgctxt "Choix"
 msgid "Screw you, I'm doing fine."
-msgstr ""
+msgstr "Va te faire voir, je vais très bien."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6cMISOS/0/c-0/7
 msgctxt "Washford"
 msgid "The rock-skip rationalization of a shallow mind."
-msgstr ""
+msgstr "La rationalisation en ricochet d'un esprit superficiel."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6cMISOS/0/c-1/13
 msgctxt "Washford"
 msgid "Of course you are. Aren't we all."
-msgstr ""
+msgstr "Bien sûr. Ne le sommes-nous pas tous ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second6cMISOS/0/g-0/0
 msgctxt "Washford"
 msgid "Out, out brief candle..."
-msgstr ""
+msgstr "Éteins-toi, éteins-toi, court flambeau..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words/0/0/s/0
 msgctxt "Choix"
 msgid "How do I get out of this so that I can fall in love with someone else?"
-msgstr ""
+msgstr "Comment je me sors de là pour tomber {{amoureux|amoureuse|amoureux·se}} de quelqu'un d'autre ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words/0/1/s/0
 msgctxt "Choix"
 msgid "Hey, isn't that from Macbeth?"
-msgstr ""
+msgstr "Hé, c'est pas tiré de Macbeth, ça ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words/0/c-1/13
 msgctxt "Washford"
 msgid "Indeed it is... hm. Such depth of knowledge impresses from one who never leaves their home."
-msgstr ""
+msgstr "C'est bien cela... hm. Une telle étendue de savoir impressionne, chez qui ne quitte jamais sa maison."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_2/0/0
 msgctxt "Washford"
 msgid "Tell me, are you, perchance, a fellow lover of words?"
-msgstr ""
+msgstr "Dites-moi, seriez-vous, par hasard, {{un amoureux|une amoureuse|un·e amoureux·se}} des mots comme moi ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_2/0/8/s/0
 msgctxt "Choix"
 msgid "I mean, I like poetry but I don't know if I'm good at it."
-msgstr ""
+msgstr "Enfin, j'aime la poésie, mais je sais pas si je suis {{doué|douée|doué·e}}."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_2/0/9/s/0
 msgctxt "Choix"
 msgid "God no. I did what they made me do to get out of class."
-msgstr ""
+msgstr "Mon dieu, non. J'ai fait le strict minimum pour sortir de cours."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_2/0/10/s/0
 msgctxt "Choix"
 msgid "Of course I love words."
-msgstr ""
+msgstr "Bien sûr que j'adore les mots."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second1/0/0
 msgctxt "Washford"
 msgid "Fair enough. Love cannot be forced."
-msgstr ""
+msgstr "Soit. L'amour ne se force pas."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second1/0/8
 msgctxt "Washford"
 msgid "I should know."
-msgstr ""
+msgstr "J'en sais quelque chose."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second1/0/16/s/0
 msgctxt "Choix"
 msgid "Look, I didn't mean to bum you out... Just trying to be honest with you."
-msgstr ""
+msgstr "Écoute, je voulais pas te déprimer... J'essaie juste d'être honnête avec toi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second1/0/c-0/7
 msgctxt "Washford"
 msgid "Of course, I see. And I am grateful. It is the act of a pure heart to be honest. My sadness is not your fault. I am remembering my friend."
-msgstr ""
+msgstr "Bien sûr, je comprends. Et je vous en suis reconnaissant. L'honnêteté est l'acte d'un cœur pur. Ma tristesse n'est pas votre faute. Je pense à mon ami."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second1/0/c-0/15
 msgctxt "Washford"
 msgid "Another love that has slipped through my filters."
-msgstr ""
+msgstr "Encore un amour qui a glissé à travers mes filtres."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second1/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "You mean Drysdale."
-msgstr ""
+msgstr "Tu veux dire Drysdale."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second1/0/c-0/23/c-0/7
 msgctxt "Washford"
 msgid "I do. As angry as I was, as I still am..."
-msgstr ""
+msgstr "Oui. Aussi en colère que je l'étais, que je le suis encore..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2/0/0
 msgctxt "Washford"
 msgid "Ah. The Getting Out. Out of speaking with me, away from here. You must be moving as quickly as possible through the path you've been consigned to."
-msgstr ""
+msgstr "Ah. Se Sortir de Là. Se sortir de cette conversation avec moi, s'éloigner d'ici. Vous devez avancer le plus vite possible sur le chemin qui vous a été assigné."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2/0/8
 msgctxt "Washford"
 msgid "Get to it, get through it, get done, get free... am I right?"
-msgstr ""
+msgstr "Y aller, y passer, en finir, être libre... ai-je raison ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2/0/16/s/0
 msgctxt "Choix"
 msgid "Nothing personal, but pretty much."
-msgstr ""
+msgstr "Rien de personnel, mais en gros, oui."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2/0/17/s/0
 msgctxt "Choix"
 msgid "You are perceptive."
-msgstr ""
+msgstr "T'es perspicace."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2/0/18/s/0
 msgctxt "Choix"
 msgid "I have to tell you... you make me really nervous."
-msgstr ""
+msgstr "Faut que je te dise... tu me rends {{super nerveux|super nerveuse|super nerveux·se}}."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/0
 msgctxt "Washford"
 msgid "This situation is not without its irony."
-msgstr ""
+msgstr "Cette situation n'est pas dénuée d'ironie."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/8/s/0
 msgctxt "Choix"
 msgid "How so?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/7
 msgctxt "Washford"
 msgid "You are so desperate to get free of this situation; without even knowing you intimately, the prescient words that sprang to my mind were born of another wild mind thrashing hopelessly against its self-made cage."
-msgstr ""
+msgstr "Vous êtes si {{désespéré|désespérée|désespéré·e}} de vous sortir de cette situation ; sans même vous connaître intimement, les mots prophétiques qui me sont venus à l'esprit sont nés d'un autre esprit sauvage se débattant sans espoir contre la cage qu'il s'est lui-même bâtie."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Hopelessly??"
-msgstr ""
+msgstr "Sans espoir ??"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Wild mind?"
-msgstr ""
+msgstr "Esprit sauvage ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/0
 msgctxt "Washford"
 msgid "But of course. Those words are spoken when the King, breathless on the battlements at the last pause. He is bloodied and lost."
-msgstr ""
+msgstr "Mais bien sûr. Ces mots sont prononcés par le Roi, à bout de souffle sur les remparts, au tout dernier répit. Il est ensanglanté et perdu."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/8
 msgctxt "Washford"
 msgid "And in that moment it comes crashing over him as he stands, watching his be-boughed doom march on."
-msgstr ""
+msgstr "Et à cet instant, tout s'abat sur lui tandis qu'il regarde sa perte avancer, couverte de branchages."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "Whoa, are you telling me that I'm going to have to fight somebody in here??"
-msgstr ""
+msgstr "Attends, tu es en train de me dire que je vais devoir me battre contre quelqu'un ici ??"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/16/1/s/0
 msgctxt "Choix"
 msgid "I am NOT Macbeth. That guy had issues."
-msgstr ""
+msgstr "Je suis PAS Macbeth. Ce type avait des problèmes."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/0
 msgctxt "Washford"
 msgid "No! I'm simply drawing a parallel between you and Macbeth! He is watching Macduff approach and realizing that all his scheming has brought him only death."
-msgstr ""
+msgstr "Non ! Je fais simplement un parallèle entre vous et Macbeth ! Il regarde Macduff approcher et comprend que toutes ses intrigues ne lui ont apporté que la mort."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/11
 msgctxt "Washford"
 msgid "You are standing here talking to a washing machine and realizing that you, at least for this moment, are trapped in my linoleum confines!"
-msgstr ""
+msgstr "Vous, vous êtes là à parler à un lave-linge et à comprendre que vous êtes, du moins pour l'instant, {{prisonnier|prisonnière|prisonnier·e}} de mes confins de linoléum !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/19/0/s/0
 msgctxt "Choix"
 msgid "You are really starting to scare me."
-msgstr ""
+msgstr "Tu commences vraiment à me faire peur."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/19/1/s/0
 msgctxt "Choix"
 msgid "So, I'm in jail. Kinda. That blows."
-msgstr ""
+msgstr "Donc je suis en prison. Genre. C'est nul."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2a/0/c-0/15/g-0/16/g-0/19/g-0/0
 msgctxt "Washford"
 msgid "Lord, give me patience..."
-msgstr ""
+msgstr "Seigneur, donnez-moi la patience..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2b/0/0
 msgctxt "Washford"
 msgid "Truly, pet? My, my. Who would've thought you and I would have something in common."
-msgstr ""
+msgstr "Vraiment, mon petit ? Eh bien, eh bien. Qui l'eût cru, que nous aurions quelque chose en commun."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2b/0/8/s/0
 msgctxt "Choix"
 msgid "That we're trapped?"
-msgstr ""
+msgstr "Qu'on est piégés tous les deux ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2b/0/9/s/0
 msgctxt "Choix"
 msgid "Or that we're nervous?"
-msgstr ""
+msgstr "Ou qu'on est nerveux tous les deux ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/0
 msgctxt "Washford"
 msgid "Hm. Yes. I have been trapped here for almost thirty years. Where you are nervous I am more, shall we say, filled with existential angst."
-msgstr ""
+msgstr "Hm. Oui. Je suis piégé ici depuis presque trente ans. Là où vous êtes {{nerveux|nerveuse|nerveux·se}}, je suis plutôt, disons, en proie à une angoisse existentielle."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/8/s/0
 msgctxt "Choix"
 msgid "I don't think those are different."
-msgstr ""
+msgstr "Je crois pas que ce soit différent."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/9/s/0
 msgctxt "Choix"
 msgid "Oh, then you've met Doug?"
-msgstr ""
+msgstr "Oh, alors t'as rencontré Doug ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/10/s/0
 msgctxt "Choix"
 msgid "Whenever I feel that, I turn to books to help keep the bad feelings at bay."
-msgstr ""
+msgstr "Quand je ressens ça, je me tourne vers les livres pour tenir les mauvais sentiments à distance."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-0/7
 msgctxt "Washford"
 msgid "Oh, they are."
-msgstr ""
+msgstr "Oh, ça l'est."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "And you've been that way for thirty years?"
-msgstr ""
+msgstr "Et t'es comme ça depuis trente ans ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-0/15/c-0/7
 msgctxt "Washford"
 msgid "No, no, not that long. For most of that time I... I had my special friend. Drysdale. I find that having a good friend with you can make almost anything bearable."
-msgstr ""
+msgstr "Non, non, pas si longtemps. La plupart de ce temps, j'avais... j'avais mon ami spécial. Drysdale. Je trouve qu'avoir un bon ami à ses côtés rend presque tout supportable."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I've never had a friend that made life bearable for me."
-msgstr ""
+msgstr "J'ai jamais eu d'ami qui me rende la vie supportable."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I had one... once. Haven't talked in a while though."
-msgstr ""
+msgstr "J'en avais un... autrefois. Mais on s'est pas parlé depuis un moment."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/7
 msgctxt "Washford"
 msgid "Met him? I practically spawned Doug."
-msgstr ""
+msgstr "Rencontré ? J'ai pratiquement enfanté Doug."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/21
 msgctxt "Doug"
 msgid "I'm way older than you dude."
-msgstr ""
+msgstr "Je suis bien plus vieux que toi, mec."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/26
 msgctxt "Washford"
 msgid "Get out! I told you last time, get out and never come back here!"
-msgstr ""
+msgstr "Dehors ! Je te l'ai dit la dernière fois, dehors, et ne reviens jamais ici !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/34
 msgctxt "Doug"
 msgid "No, you said \"Desist in this distressing discussion. I bite my thumb at you. Cease, cease and prattle no more you flippant faceless fop.\""
-msgstr ""
+msgstr "Non, t'as dit : « Cesse cette consternante conversation. Je me mords le pouce à ton intention. Cesse, cesse et ne jacasse plus, freluquet frivole sans figure. »"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/39
 msgctxt "Doug"
 msgid "'Member?"
-msgstr ""
+msgstr "Tu te souviens ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/44
 msgctxt "Washford"
 msgid "Yes that means get out!"
-msgstr ""
+msgstr "Oui, cela veut dire dehors !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/52
 msgctxt "Doug"
 msgid "Doesn't work that way my dude."
-msgstr ""
+msgstr "Ça marche pas comme ça, mon pote."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/57
 msgctxt "Doug"
 msgid "Hey what up human. Listen, Imma make your life suck pretty soon, but right now, I got some other torment to dish out."
-msgstr ""
+msgstr "Hé, quoi de neuf, humain ? Écoute, je vais bientôt te pourrir la vie, mais là, j'ai d'autres tourments à distribuer."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-1/65
 msgctxt "Doug"
 msgid "Cya."
-msgstr ""
+msgstr "À plus."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2ba/0/c-2/13
 msgctxt "Washford"
 msgid "Most excellent!"
-msgstr ""
+msgstr "Excellentissime !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/0
 msgctxt "Washford"
 msgid "Tell me, do you know of Macbeth?"
-msgstr ""
+msgstr "Dites-moi, connaissez-vous Macbeth ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/8/s/0
 msgctxt "Choix"
 msgid "Wait, don't you mean like, Macdesk or something like that?"
-msgstr ""
+msgstr "Attends, tu veux pas dire genre Macbureau, ou un truc comme ça ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/c-0/11
 msgctxt "Washford"
 msgid "I mean nothing of the sort."
-msgstr ""
+msgstr "Je ne veux rien dire de tel."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/c-0/19
 msgctxt "Washford"
 msgid "I do not dabble in that drabble."
-msgstr ""
+msgstr "Je ne barbote pas dans ces bêtises."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/c-0/30
 msgctxt "Washford"
 msgid "I speak of The Tragedie of Macbeth, by William Shakespeare, circa 1606."
-msgstr ""
+msgstr "Je parle de La Tragédie de Macbeth, de William Shakespeare, vers 1606."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Oh. Yeah I've heard of it."
-msgstr ""
+msgstr "Oh. Ouais, j'en ai entendu parler."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "We read that in school."
-msgstr ""
+msgstr "On l'a lu à l'école."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "One of my favorites."
-msgstr ""
+msgstr "Une de mes préférées."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-1/7
 msgctxt "Washford"
 msgid "Heard but not seen it? Lived it? How disappointing."
-msgstr ""
+msgstr "Entendu parler, mais pas vu ? Pas vécu ? Comme c'est décevant."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-2/7
 msgctxt "Washford"
 msgid "And you sat in the back, spoke when spoken to, etc. How disappointing."
-msgstr ""
+msgstr "Et vous étiez {{assis|assise|assis·e}} au fond, ne parliez que lorsqu'on vous interrogeait, et cetera. Comme c'est décevant."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/10
 msgctxt "Washford"
 msgid "Ah!"
-msgstr ""
+msgstr "Ah !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/18
 msgctxt "Washford"
 msgid "What do you think about it?"
-msgstr ""
+msgstr "Qu'en pensez-vous ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/32/0/s/0
 msgctxt "Choix"
 msgid "The weird sisters - the different meanings they can have. All the different ways they've been staged."
-msgstr ""
+msgstr "Les trois sorcières : les différents sens qu'elles peuvent avoir. Toutes les façons dont on les a mises en scène."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/32/1/s/0
 msgctxt "Choix"
 msgid "Macduff not being 'of woman born' is fascinating in its implications."
-msgstr ""
+msgstr "Macduff qui n'est pas « né d'une femme », c'est fascinant dans ce que ça implique."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/32/2/s/0
 msgctxt "Choix"
 msgid "The violence - the poetry - the lust. What's not to like?"
-msgstr ""
+msgstr "La violence, la poésie, la luxure. Qu'est-ce qu'il y a à pas aimer ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/32/c-0/7
 msgctxt "Washford"
 msgid "I've always related to their darkness and mystery. They were unafraid to confront a noble with an uncomfortable truth."
-msgstr ""
+msgstr "Je me suis toujours reconnu dans leur noirceur et leur mystère. Elles n'avaient pas peur de confronter un noble à une vérité dérangeante."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/32/c-0/15
 msgctxt "Washford"
 msgid "I admire that."
-msgstr ""
+msgstr "J'admire cela."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/32/c-1/7
 msgctxt "Washford"
 msgid "Yes - I am not of woman born myself, and yet here I lie."
-msgstr ""
+msgstr "Oui. Je ne suis pas né d'une femme moi-même, et pourtant me voici."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-0/c-3/32/c-2/7
 msgctxt "Washford"
 msgid "Too true... too true. Modern drama is so soft, don't you agree?"
-msgstr ""
+msgstr "Ô combien vrai... combien vrai. Le théâtre moderne est si mou, ne trouvez-vous pas ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-1/3/s/0
 msgctxt "Choix"
 msgid "Disappointing is kind of a harsh word."
-msgstr ""
+msgstr "Décevant, c'est un peu dur comme mot."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c/0/g-1/4/s/0
 msgctxt "Choix"
 msgid "Dude, it just wasn't something I really liked, ok?"
-msgstr ""
+msgstr "Mec, c'était juste pas mon truc, ok ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/0
 msgctxt "Washford"
 msgid "The first human I've had to converse with in god knows how long and you turn out to be less engaging than that damn sock Drysdale used to spend his days losing."
-msgstr ""
+msgstr "Le premier humain avec qui je converse depuis dieu sait combien de temps, et vous vous révélez moins {{captivant|captivante|captivant·e}} que cette satanée chaussette que Drysdale passait ses journées à perdre."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/8/s/0
 msgctxt "Choix"
 msgid "Hey, that's rude. You don't know anything about me."
-msgstr ""
+msgstr "Hé, c'est méchant. Tu sais rien de moi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/9/s/0
 msgctxt "Choix"
 msgid "Why are you being such a jerk?"
-msgstr ""
+msgstr "Pourquoi tu fais ton connard ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/c-0/7
 msgctxt "Washford"
 msgid "Oh, don't I!"
-msgstr ""
+msgstr "Oh, vraiment ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/c-1/13
 msgctxt "Washford"
 msgid "Jerk? Me? Why? Because I'm opinionated? Because I have the creativity to compare you to a sock?"
-msgstr ""
+msgstr "Connard ? Moi ? Pourquoi ? Parce que j'ai des opinions ? Parce que j'ai la créativité de vous comparer à une chaussette ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "No! You don't get to pass judgment on people just because they don't read the same books as you!"
-msgstr ""
+msgstr "Non ! T'as pas le droit de juger les gens juste parce qu'ils lisent pas les mêmes livres que toi !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-0/c-2/7
 msgctxt "Washford"
 msgid "Now who knows nothing. That isn't why. It isn't that you don't read the SAME books as I, it's that you had a chance to read ANYTHING, any luminary from the canon of the human soul!"
-msgstr ""
+msgstr "Qui ne sait rien, à présent ? Ce n'est pas pour cela. Ce n'est pas que vous ne lisez pas les MÊMES livres que moi, c'est que vous aviez l'occasion de lire N'IMPORTE QUOI, n'importe quel phare du canon de l'âme humaine !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-0/c-2/15
 msgctxt "Washford"
 msgid "Something that could've illuminated and burst open and changed you and you chose to skim through the Cliff Notes in the back of the room!"
-msgstr ""
+msgstr "Quelque chose qui aurait pu vous illuminer, vous faire éclater et vous changer, et vous avez choisi de survoler des fiches de lecture au fond de la classe !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "Look, I don't want to fight with you, man..."
-msgstr ""
+msgstr "Écoute, je veux pas me disputer avec toi, mec..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-0/c-2/23/1/s/0
 msgctxt "Choix"
 msgid "Ain't a damn thing wrong with some Cliff Notes, ya tool."
-msgstr ""
+msgstr "Y a rien de mal à lire des fiches de lecture, espèce de crétin."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-1/0
 msgctxt "Washford"
 msgid "So obsessed with wherever you are not, whatever you do not have."
-msgstr ""
+msgstr "{{Si obsédé|Si obsédée|Si obsédé·e}} par tout endroit où vous n'êtes pas, par tout ce que vous n'avez pas."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-1/8
 msgctxt "Washford"
 msgid "What is new and shiny because it must be preferable to the ancient and profound. Why stand and dare when you can turn and run?"
-msgstr ""
+msgstr "Ce qui est neuf et brillant, forcément préférable à l'ancien et au profond. Pourquoi tenir bon et oser quand on peut tourner les talons et fuir ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "What the hell?! I just told you honestly that I didn't like English class!"
-msgstr ""
+msgstr "C'est quoi ce délire ?! Je t'ai juste dit honnêtement que j'aimais pas les cours de littérature !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c1/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "Look, whoever you're actually mad at, it is NOT my fault!"
-msgstr ""
+msgstr "Écoute, peu importe à qui t'en veux vraiment, c'est PAS ma faute !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c2/0/0
 msgctxt "Washford"
 msgid "You did indeed. You stood there in your surety and told a washing machine that you didn't like poetry. I think talking to an appliance might be cause alone for me to judge you, don't you?"
-msgstr ""
+msgstr "En effet. Vous vous êtes {{tenu|tenue|tenu·e}} là, {{plein|pleine|plein·e}} d'assurance, et vous avez dit à un lave-linge que vous n'aimiez pas la poésie. Je pense que parler à un électroménager suffirait à lui seul à me donner le droit de vous juger, non ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c2/0/8/s/0
 msgctxt "Choix"
 msgid "Ok, that's it. I don't know what's going on with you but I'm not a therapist."
-msgstr ""
+msgstr "Ok, ça suffit. Je sais pas ce qui t'arrive mais je suis pas psy."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second2c2/0/9/s/0
 msgctxt "Choix"
 msgid "Has it occurred to you that you haven't asked me what I did like in school?"
-msgstr ""
+msgstr "Tu t'es rendu compte que tu m'as jamais demandé ce que j'aimais, moi, à l'école ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a/0/0
 msgctxt "Washford"
 msgid "My guess is you never really tried. There is another poem I think you might like; one that truly sums up our relationship. It's by T.S. Belliot. One of my personal favorites."
-msgstr ""
+msgstr "Mon avis est que vous n'avez jamais vraiment essayé. Il est un autre poème qui pourrait vous plaire ; un poème qui résume à merveille notre relation. Il est de T.S. Belliot. L'un de mes favoris."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a/0/8
 msgctxt "Washford"
 msgid "'This is the way the world ends, This is the way the world ends, This is the way the world ends... Not with a bang but a whimper.'"
-msgstr ""
+msgstr "« C'est ainsi que finit le monde, C'est ainsi que finit le monde, C'est ainsi que finit le monde... Pas sur un grand boum, mais sur un gémissement. »"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a/0/16/s/0
 msgctxt "Choix"
 msgid "The end of the world sounds like an appropriate time to whimper!"
-msgstr ""
+msgstr "La fin du monde, ça me semble un moment approprié pour gémir !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second3a/0/17/s/0
 msgctxt "Choix"
 msgid "I think you've misunderstood me. I can see how passionate you are about what you believe."
-msgstr ""
+msgstr "Je crois que tu m'as mal compris. Je vois bien à quel point tu es passionné par ce en quoi tu crois."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second4/0/0
 msgctxt "Washford"
 msgid "Talent is not what matters. It is passion. It is the longing to be inspired to dizziness and to abasement and to all the whirling spaces in between."
-msgstr ""
+msgstr "Le talent n'est pas ce qui compte. C'est la passion. C'est le désir d'être inspiré jusqu'au vertige, jusqu'à l'avilissement, et dans tous les espaces tourbillonnants entre les deux."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second4/0/8
 msgctxt "Washford"
 msgid "Are you passionate for words?"
-msgstr ""
+msgstr "Êtes-vous {{passionné|passionnée|passionné·e}} par les mots ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_second4/0/16/s/0
 msgctxt "Choix"
 msgid "Not really, honestly... I enjoyed it but that's about it."
-msgstr ""
+msgstr "Pas vraiment, honnêtement... J'aimais bien, mais c'est tout."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second4/0/17/s/0
 msgctxt "Choix"
 msgid "Yes, fiercely."
-msgstr ""
+msgstr "Oui, farouchement."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second5/0
 msgctxt "Washford"
 msgid "Yes, of course. The poetry of it all... but please."
-msgstr ""
+msgstr "Oui, bien sûr. La poésie de tout cela... mais je vous en prie."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second5/8
 msgctxt "Washford"
 msgid "It would destroy me to know that my passion was boring you. I have too many memories of that."
-msgstr ""
+msgstr "Cela me détruirait de savoir que ma passion vous ennuie. J'en ai trop de souvenirs."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second5/16
 msgctxt "Washford"
 msgid "Of brightly lit eyes gradually fading. The mask of tolerance sliding over the once-familiar features of a friend."
-msgstr ""
+msgstr "D'yeux pétillants qui s'éteignent peu à peu. Du masque de la tolérance qui glisse sur les traits autrefois familiers d'un ami."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second5/24
 msgctxt "Washford"
 msgid "It is a precious kind of heartbreak. And my heart has its share of scars."
-msgstr ""
+msgstr "C'est une sorte de chagrin précieux. Et mon cœur a sa part de cicatrices."
 
+# Traduction IA – à relire
 #: washford_washer/washford_second5/32
 msgctxt "Washford"
 msgid "Rather than batter away at the merciless stone of an unsympathetic mind, I will release you. Good luck to you, traveler."
-msgstr ""
+msgstr "Plutôt que de m'acharner sur la pierre impitoyable d'un esprit insensible, je vais vous libérer. Bonne chance à vous, {{voyageur|voyageuse|voyageur·se}}."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_nice/0
 msgctxt "Washford"
 msgid "Hm. What a wonderful inkling is circling 'round in this big drum of mine..."
-msgstr ""
+msgstr "Hm. Quelle merveilleuse intuition tourne dans ce grand tambour qui est le mien..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_nice/8
 msgctxt "Washford"
 msgid "Macbeth was not completely alien to you. It therefore stands to reason that other masters of the weaving of words might also be within your ken?"
-msgstr ""
+msgstr "Macbeth ne vous était pas complètement étranger. Il va donc de soi que d'autres maîtres du tissage des mots pourraient aussi être à votre portée ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_nice/16
 msgctxt "Washford"
 msgid "Tell me... and for the sake of whatever it is that you love, tell me true..."
-msgstr ""
+msgstr "Dites-moi... et au nom de ce que vous aimez, quoi que ce soit, dites-moi vrai..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/0
 msgctxt "Washford"
 msgid "What other magicians of pen and ink stir your soul?"
-msgstr ""
+msgstr "Quels autres magiciens de la plume et de l'encre remuent votre âme ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/8/s/0
 msgctxt "Choix"
 msgid "I love the classics."
-msgstr ""
+msgstr "J'adore les classiques."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/9/s/0
 msgctxt "Choix"
 msgid "More modern ones for me..."
-msgstr ""
+msgstr "Plutôt des modernes, moi..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-0/7
 msgctxt "Washford"
 msgid "Wonderful! Names, names!"
-msgstr ""
+msgstr "Merveilleux ! Des noms, des noms !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I like Rumi a lot."
-msgstr ""
+msgstr "J'aime beaucoup Rumi."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Um, there was one book... something about the Red Fern?"
-msgstr ""
+msgstr "Euh, y avait ce livre... un truc avec une fougère rouge ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "I read 100 Beers of Solitude."
-msgstr ""
+msgstr "J'ai lu Cent Bières de solitude."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-1/7
 msgctxt "Washford"
 msgid "Oh... and who might these modern mystics be?"
-msgstr ""
+msgstr "Oh... et qui seraient donc ces mystiques modernes ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Oh man, bring on the Stephen Thing!"
-msgstr ""
+msgstr "Oh mec, envoie du Stephen Thing !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "It's Sleigh R.R. Tolkien or nothing."
-msgstr ""
+msgstr "C'est Sleigh R.R. Tolkien ou rien."
 
+# Traduction IA – à relire
 #: washford_washer/washford_words_menu/0/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "Maya Crayon-gelou. Done."
-msgstr ""
+msgstr "Maya Crayon-gelou. Point barre."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/6
 msgctxt "Washford"
 msgid "Ah, poet of love."
-msgstr ""
+msgstr "Ah, le poète de l'amour."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/14
 msgctxt "Washford"
 msgid "Bard of bold and dizzying devotion."
-msgstr ""
+msgstr "Barde d'une dévotion hardie et vertigineuse."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/22
 msgctxt "Washford"
 msgid "The original pure erotica."
-msgstr ""
+msgstr "L'érotisme pur originel."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/30/s/0
 msgctxt "Choix"
 msgid "Yep. That's the guy!"
-msgstr ""
+msgstr "Ouais. C'est lui !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/31/s/0
 msgctxt "Choix"
 msgid "I used to read his stuff to my dates in school."
-msgstr ""
+msgstr "Je lisais ses trucs à mes rencards au lycée."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/0
 msgctxt "Washford"
 msgid "He is indeed the gentle master of our most profound and elementary folly."
-msgstr ""
+msgstr "Il est en effet le doux maître de notre folie la plus profonde et la plus élémentaire."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/8
 msgctxt "Washford"
 msgid "Do you have a favorite poem? A favorite line?  Fill my ears once more with the rich food of words."
-msgstr ""
+msgstr "Avez-vous un poème préféré ? Un vers préféré ? Remplissez de nouveau mes oreilles de la riche nourriture des mots."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "\"What you seek is seeking you.\""
-msgstr ""
+msgstr "« Ce que tu cherches te cherche. »"
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "\"You are the universe in ecstatic motion.\""
-msgstr ""
+msgstr "« Tu es l'univers en mouvement extatique. »"
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/18/s/0
 msgctxt "Choix"
 msgid "\"Life is a balance between holding on, and letting go.\""
-msgstr ""
+msgstr "« La vie est un équilibre entre retenir et lâcher prise. »"
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/c-2/7
 msgctxt "Washford"
 msgid "Yes! Ah, that has always been one of my favorites, as well!"
-msgstr ""
+msgstr "Oui ! Ah, cela a toujours été l'un de mes favoris, à moi aussi !"
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/c-2/21
 msgctxt "Washford"
 msgid "The glory in it, the absolutely elegant simplicity... the thing you seek is the thing that will stop at nothing until you are found."
-msgstr ""
+msgstr "Sa gloire, sa simplicité absolument élégante... ce que vous cherchez est ce qui ne reculera devant rien jusqu'à vous trouver."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/c-2/29
 msgctxt "Washford"
 msgid "I feel that it is a very common thing, this rushing. This sense of never enough, never right, always having to adjust or be better in some way."
-msgstr ""
+msgstr "Je sens que c'est une chose très répandue, cette précipitation. Ce sentiment que ce n'est jamais assez, jamais bien, qu'il faut toujours s'ajuster ou s'améliorer d'une façon ou d'une autre."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/c-2/37
 msgctxt "Washford"
 msgid "But literature... the great artists of our intellect and our spirits..."
-msgstr ""
+msgstr "Mais la littérature... les grands artistes de notre intellect et de nos esprits..."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/c-2/45
 msgctxt "Washford"
 msgid "They would have us understand that the true seeking is in recognizing that you, too, are being sought."
-msgstr ""
+msgstr "Ils voudraient nous faire comprendre que la vraie quête consiste à reconnaître que vous aussi, quelque chose vous cherche."
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/c-2/53
 msgctxt "Washford"
 msgid "Do you see?"
-msgstr ""
+msgstr "Voyez-vous ?"
 
+# Traduction IA – à relire
 #: washford_washer/washford_rumi/0/g-0/c-2/61/0/s/0
 msgctxt "Choix"
 msgid "Absolutely. And well put."
-msgstr ""
+msgstr "Absolument. Et bien dit."
 
 #: washford_washer/washford_rumi/0/g-0/c-2/61/1/s/0
 msgctxt "Choix"

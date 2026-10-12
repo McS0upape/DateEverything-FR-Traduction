@@ -1,0 +1,38 @@
+# Propositions de glossaire (à valider)
+
+Termes proposés par les agents de traduction. Ils ne sont pas encore dans `GLOSSAIRE.tsv`.
+Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut corriger les .po concernés.
+
+| Anglais | Proposition FR | Fichier(s) | Remarque |
+|---|---|---|---|
+| chuckles (surnom donné par Cam) | rayon de soleil | cam_trashcan | |
+| my friend (Dasha) | camarade | dasha_desk | |
+| Pigs fly | les cochons volent | cam_trashcan | |
+| (USE POISE CANDY) | (UTILISER UN BONBON DE PRESTANCE) | cam_trashcan | à harmoniser partout |
+| Smarts / Poise / Empathy / Charm / Sass Candy | Bonbon de Savoir / de Prestance / d'Empathie / de Charme / de Sarcasme | DateADex | |
+| content concerns | l'Alerte Contenu | DateADex | |
+| Grime Scene (Investigation) | Scène de Crasse (enquêteur des scènes de crasse) | DateADex (Hoove) | |
+| Trivialetics | Quizathlon | DateADex (Stepford) | |
+| Stone, Parchment, Shears | Pierre-Parchemin-Cisailles | DateADex (Tydus) | |
+| Home-icidal Tendencies | Pulsions Domicidaires | DateADex (Vaughn) | |
+| Valdiviantine's Day | la Saint-Valdivientin | DateADex | |
+| Dork / Dorkhole | Tocard / Tocard de mes deux | DateADex (Doug) | |
+| penumbra / The Hanged Man (jeu) | pénombre / le Pendu | DateADex (Shadowlord) | |
+| Luxurious / Lavish Edition | Édition Luxueuse / Édition Lavish | DateADex | |
+| Loot Box / Money (monnaie) | Loot Box / Argent | DateADex | |
+| Operation Holly Day | Opération Holly-day | DateADex | |
+| Skeleton Key / Box (Beau) / Bobby Pin | Passe-partout / Carton / Épingle à cheveux | DateADex | |
+| Laundry Leagues | Ligues du Linge (Hankees, Socks inchangés) | diana_diary | |
+| buddy (Teddy) | mon pote | teddy_teddybear | |
+| O Mighty One (Diana) | ô Toute-Puissance | diana_diary | |
+| Captain Catastrophe (Reggie) | Capitaine Catastrophe | diana_diary | |
+| Up-n-Down (fast-food) | inchangé | diana_diary | |
+
+## Points à trancher
+
+- **Épithètes de Lucinda** (Lust, Loving, Limitless, Lurid, Loathsome…) : laissées en anglais dans DateADex, avec perte du sens. Faut-il les traduire en gardant l'allitération en L ?
+- **Monique, « Your Will » / « Ask who "Will" is »** : rendu par « Ton testament » / « Demande qui est ce « Testament » », jugé faible. À revoir avec son dialogue.
+- **Reggie, « Hate Everything » / « Haters Gonna Bait »** : laissés en anglais, pour le clin d'œil au titre du jeu.
+- **Cam, « they CAN't stay away »** : rendu par « on BÉNIT le jour où on m'a trouvé », jeu de mots faible.
+- **Contes de Teddy** : noms descriptifs (Proudtail, Strongpaw, Jumpfoot…) gardés en anglais. Faut-il les traduire ?
+- **Teddy, entrée 214** (« Non, on est ») : morceau de phrase supposé suivi du nom du jour, à vérifier en jeu.
