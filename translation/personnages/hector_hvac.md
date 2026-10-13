@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (Hector).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : vouvoie (déférence, dévotion de serviteur). Le joueur ou la joueuse le tutoie.
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, précieux, cérémonieux, phrases longues et hésitantes ; jamais d'argot.
+- **Personnalité, manière de parler** : timide, soumis, dévoué, obsédé par le confort du joueur ou de la joueuse ; s'excuse sans cesse, bégaie dans l'émotion (« je-je »), s'emballe puis se reprend. Sensuel et un peu inquiétant, sans malice. Vocabulaire de la clim : grille, conduits, filtre, thermostat, souffle, température.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Ah. », « Je vous en prie », « Je suis navré » ; les doubles sens CVC (boutons, réglage, vis, filtre, « grate/great » : grille/génial) ; « creepy » = « flippant » / « glaçant » (jeu sur le froid si possible).
+- **Exemples de répliques traduites (référence de ton)** : « Vous me saluez. Si simplement. Comme si c'était facile, comme si ce n'était rien... » ; « Je ne me détends pas pour moi-même. Je... je ne peux pas. » ; « Je serai prêt à votre retour... »

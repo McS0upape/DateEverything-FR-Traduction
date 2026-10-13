@@ -45,3 +45,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Curt & Rod : shade/throwing shade → chambrer, chambrage, « Roi du Chambrage » ; Chuckle Channel → Chaîne du Rire ; throuple → trouple (agent curtrod_curtain)
 - Wyndolyn : Windows and Pains → Plus belle la vitre ; Graphic Tee/Cargo Shorts/Blue Hair… → T-shirt à Motif/Bermuda Cargo/Cheveux Bleus/Salopette/Doudoune/Top Résille ; Window → FENÊTRE (NORD/EST/SUD/OUEST) (agent wyndolyn_window)
 - Beau : houseologist → maisonologue ; the Secret Sword → l'Épée Secrète ; Le Pique (épée de Jacques) à revoir (jeu « the prick ») (agent beau_box)
+- Barry : FAB-U-LOUS → FA-BU-LEUX ; Sponge Authority → Autorité des Éponges (agent barry_beauty)
