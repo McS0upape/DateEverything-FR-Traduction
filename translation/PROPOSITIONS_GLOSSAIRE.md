@@ -39,3 +39,5 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Llama Sutra → Lama Sutra (Lyric, agent lyric_literature)
 - champ / lil' champ → « champ » ou {{mon petit champion|ma petite championne|mon petit·e champion·ne}} (agent epilogue_final)
 - meatspace → espace-viande ; Self-Realization → Auto-Réalisation ; Vice President of Human Experience → Vice-{{président|présidente|président·e}} de l'Expérience Humaine (agent epilogue_final)
+- Titres parodiques (Washford) : One Hundred Beers of Solitude → Cent Bières de solitude ; Where The Red Fern Doze → Là où somnole la fougère rouge ; Fantastique Chemise Rouge à harmoniser (agent washford_washer)
+- Zoey : Ohmigod → Omondieu ; Corpsey the Corpse → Cadavérine le Cadavre ; seance board → planche de spiritisme (agent zoey_ghost)

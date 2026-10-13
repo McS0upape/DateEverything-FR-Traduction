@@ -25,10 +25,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (Miranda). Stefan : il. Cam : il.
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (Stefan aussi).
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, oral, très expressif, avec des « genre », « trop », « grave ». Elle garde ses interjections espagnoles (Ay, si si, mira, vamos, que vaya, mi amor, Calmate...) telles quelles : elles ne se traduisent pas.
+- **Personnalité, manière de parler** : chanteuse star, sûre d'elle, drôle, chaleureuse mais rancunière (« elle peut te laisser brulé·e »). Aime le public, flirte en taquinant, répartie rapide. Stefan (chef) est théâtral et grandiloquent, vocabulaire de cuisine.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : champ lexical du grille-pain et de la chaleur (burn, heat, coils, grates, slots, toast, crumbs, panels, burners) à réécrire en français : brulée, chauffer, résistances, fentes, tartine, miettes. Ses mots : « Miranda y las Migas » (Migas gardé), « tostadora », « Grahamy » (prix, gardé).
+- **Exemples de répliques traduites (référence de ton)** : « Ay, tu peux pas me surprendre comme ça ! Tu sais jamais ce qui va sortir de ces fentes, faut faire gaffe. » / « Calmate. Pas besoin de t'énerver, je rigole ! » / « Comme tout grille-pain, j'adore le bon sucre tout simple. »
