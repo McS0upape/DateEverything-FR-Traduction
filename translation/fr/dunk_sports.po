@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_sorter/10 dunk_sports/yoga_sorter/10 dunk_sports/sports_sorter/10 dunk_sports/racquets_sorter/10 dunk_sports/bosu_sorter/10 dunk_sports/box_sorter/10
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "SPORTING GOODS"
-msgstr ""
+msgstr "ARTICLES DE SPORT"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/0
 msgctxt "Narrator"
 msgid "One moment you're looking at your old sports equipment, and the next you're looking at a gorgeous, muscled man dressed in various pieces of sports equipment that once belonged to a far more optimistic version of yourself."
-msgstr ""
+msgstr "Une seconde, vous contemplez votre vieux matériel de sport, et la suivante, vous contemplez un homme superbe et musclé, vêtu de divers équipements sportifs ayant jadis appartenu à une version de vous-même bien plus optimiste."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/8
 msgctxt "Narrator"
 msgid "As you watch this guy go through an entire squat routine it's more than clear that—unlike you—this guy has never struggled to maintain an athletic routine."
-msgstr ""
+msgstr "Tandis que vous regardez ce type enchaîner toute une série de squats, une chose est limpide : contrairement à vous, il n'a jamais eu de mal à tenir une routine sportive."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/16
 msgctxt "Narrator"
 msgid "Mid-squat he stops suddenly, bending down to peer at you through his legs—a handsome, smiling face boxed in by thighs so thick and developed you're rendered speechless for a few minutes."
-msgstr ""
+msgstr "En plein squat, il s'interrompt brusquement et se penche pour vous observer entre ses jambes — un beau visage souriant encadré par des cuisses si épaisses et développées que vous restez sans voix pendant quelques minutes."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/24
 msgctxt "Dunk"
 msgid "Oh hey!"
-msgstr ""
+msgstr "Oh, salut !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/32
 msgctxt "Narrator"
 msgid "He sets his weights down, standing up and beaming at you like you've just told him he's won the lottery."
-msgstr ""
+msgstr "Il pose ses haltères, se redresse et vous adresse un sourire radieux, comme si vous veniez de lui annoncer qu'il avait gagné au loto."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/40
 msgctxt "Dunk"
 msgid "It's about time you made your way over here! I was starting to think you forgot about me?"
-msgstr ""
+msgstr "Il était temps que tu viennes me voir ! Je commençais à croire que tu m'avais oublié, non ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/48/s/0
 msgctxt "Choix"
 msgid "Forgot? Do I even know you?"
-msgstr ""
+msgstr "Oublié ? Je te connais, au moins ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/49/s/0
 msgctxt "Choix"
 msgid "Well, what had happened was..."
-msgstr ""
+msgstr "Alors, ce qui s'est passé, c'est que..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/50/s/0
 msgctxt "Choix"
 msgid "Don't judge me..."
-msgstr ""
+msgstr "Me juge pas..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/c-0/7
 msgctxt "Dunk"
 msgid "'Course you do!"
-msgstr ""
+msgstr "Bien sûr que oui !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/c-0/15
 msgctxt "Dunk"
 msgid "But I'll never turn down a chance to introduce myself, heh."
-msgstr ""
+msgstr "Mais je ne refuserai jamais une occasion de me présenter, héhé."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/c-1/7
 msgctxt "Dunk"
 msgid "Hey hey, you don't gotta explain yourself to me!"
-msgstr ""
+msgstr "Hé hé, pas besoin de te justifier devant moi !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/c-1/15
 msgctxt "Dunk"
 msgid "But since it's been so long let's just start over."
-msgstr ""
+msgstr "Mais vu que ça fait une éternité, on n'a qu'à repartir de zéro."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/c-2/7
 msgctxt "Dunk"
 msgid "Hey hey, no judging here pal!"
-msgstr ""
+msgstr "Hé hé, ici, on ne juge personne, pote !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/c-2/15
 msgctxt "Dunk"
 msgid "Look, why don't we just start over?"
-msgstr ""
+msgstr "Écoute, et si on repartait de zéro ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/3
 msgctxt "Narrator"
 msgid "The lights dim, and a spotlight appears from... you're not quite sure where, really."
-msgstr ""
+msgstr "Les lumières baissent et un projecteur apparaît, d'où... vous n'en êtes pas très sûr, en fait."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/11
 msgctxt "Dunk"
 msgid "<w>LLLLADIES AND GENTLEMEN...</w>"
-msgstr ""
+msgstr "<w>MESDAAAMES ET MESSIEURS...</w>"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/22
 msgctxt "Dunk"
 msgid "<w>NOW ENTERING THE STADIUM... THE KING OF THE RING... THE DUKE OF DUNK... THE JACK OF ALL TRADES, MASTER OF FUN... MR... DUNCAN... \"DUNK\"... SHUTTLECOOOOCK!</w>"
-msgstr ""
+msgstr "<w>FAITES UNE ENTRÉE TRIOMPHALE DANS LE STADE... LE ROI DU RING... LE DUC DU DUNK... L'HOMME À TOUT FAIRE, MAÎTRE DU FUN... MONSIEUR... DUNCAN... « DUNK »... SHUTTLECOOOOCK !</w>"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/36
 msgctxt "Dunk"
 msgid "Hey, thank you, thank you, thank you!"
-msgstr ""
+msgstr "Hé, merci, merci, merci !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/47
 msgctxt "Narrator"
 msgid "He goes through a few poses that really make his abundant muscles pop, looking at you with the grin of a confident athlete."
-msgstr ""
+msgstr "Il enchaîne quelques poses qui font ressortir ses muscles abondants, vous regardant avec le sourire d'un athlète sûr de lui."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/55/s/0
 msgctxt "Choix"
 msgid "<i>Cheer for him.</i>"
-msgstr ""
+msgstr "<i>L'acclamer.</i>"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/56/s/0
 msgctxt "Choix"
 msgid "Just your name would have been fine."
-msgstr ""
+msgstr "Ton nom aurait suffi."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/57/s/0
 msgctxt "Choix"
 msgid "<i>Smile politely.</i>"
-msgstr ""
+msgstr "<i>Sourire poliment.</i>"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/c-3/7
 msgctxt "Narrator"
 msgid "Dunk is delighted by your cheering, and he spends a few more moments basking in your attention."
-msgstr ""
+msgstr "Dunk est ravi de vos acclamations, et il savoure encore quelques instants votre attention."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/c-3/15
 msgctxt "Dunk"
 msgid "Ah man... it's been a while since I actually had an audience. Feels good."
-msgstr ""
+msgstr "Ah là là... ça faisait un bail que j'avais pas eu de public. Ça fait du bien."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/c-4/7
 msgctxt "Dunk"
 msgid "Well yeah, but where's the fun in that? There's no hype!"
-msgstr ""
+msgstr "Ouais, mais où est le plaisir là-dedans ? Y'a aucune ambiance !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-0/c-5/7
 msgctxt "Dunk"
 msgid "Thank you, thank you..."
-msgstr ""
+msgstr "Merci, merci..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/0
 msgctxt "Dunk"
 msgid "Don't worry about remembering all those names, that's just stuff that makes me sound cool when I hit the court... or the field... or wherever I'm playin'!"
-msgstr ""
+msgstr "T'inquiète pas pour tous ces noms, c'est juste de quoi me donner la classe quand j'arrive sur le terrain... ou sur le court... ou n'importe où je joue !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/8
 msgctxt "Dunk"
 msgid "Dunk is just fine for pals."
-msgstr ""
+msgstr "Dunk, ça suffit pour les potes."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Are we pals?"
-msgstr ""
+msgstr "On est potes ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "Dunk better be just fine—I'm not here to be your groupie."
-msgstr ""
+msgstr "Dunk, ça ira très bien, je suis pas là pour être ta groupie."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/18/s/0
 msgctxt "Choix"
 msgid "What about more than pals?"
-msgstr ""
+msgstr "Et pour plus que des potes ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-6/7
 msgctxt "Dunk"
 msgid "Totally!"
-msgstr ""
+msgstr "Carrément !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-6/15
 msgctxt "Dunk"
 msgid "We might have just met, but strangers are all just friends you haven't met yet!"
-msgstr ""
+msgstr "On vient peut-être de se rencontrer, mais les inconnus, c'est juste des amis qu'on n'a pas encore rencontrés !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-7/7
 msgctxt "Dunk"
 msgid "Whoah whoah, hey! It's all chill, man."
-msgstr ""
+msgstr "Oh là, oh là, hé ! Tout est cool, pote."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-7/15
 msgctxt "Dunk"
 msgid "I don't need a groupie!"
-msgstr ""
+msgstr "J'ai pas besoin de groupie !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/7
 msgctxt "Dunk"
 msgid "More than pals?"
-msgstr ""
+msgstr "Plus que des potes ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/15
 msgctxt "Narrator"
 msgid "He cocks his head to the side, thinking—you can almost see the gears turning."
-msgstr ""
+msgstr "Il penche la tête sur le côté, pensif — on voit presque les rouages tourner."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/23
 msgctxt "Dunk"
 msgid "So like... best friends?"
-msgstr ""
+msgstr "Genre... meilleurs amis ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/0/s/0
 msgctxt "Choix"
 msgid "I was thinking lovers."
-msgstr ""
+msgstr "Je pensais plutôt à des amants."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/1/s/0
 msgctxt "Choix"
 msgid "Best friends who have sex, sure."
-msgstr ""
+msgstr "Meilleurs amis qui couchent ensemble, oui."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/2/s/0
 msgctxt "Choix"
 msgid "God you're dense."
-msgstr ""
+msgstr "Mon dieu, ce que tu peux être bouché."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/c-0/7
 msgctxt "Dunk"
 msgid "Ohhhh. Well..."
-msgstr ""
+msgstr "Ohhhh. Eh bien..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/c-0/15
 msgctxt "Dunk"
 msgid "Dunk is fine for lovers too!"
-msgstr ""
+msgstr "Dunk, c'est très bien pour les amants aussi !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/c-0/23
 msgctxt "Dunk"
 msgid "But if you say it hot you can call me just about anything."
-msgstr ""
+msgstr "Mais si tu le dis avec le ton qui va bien, tu peux m'appeler comme tu veux."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/c-1/7
 msgctxt "Dunk"
 msgid "Oh man, well... my best friend I also have sex with could call me Dunk too."
-msgstr ""
+msgstr "Oh là là, eh bien... mon meilleur ami avec qui je couche pourrait m'appeler Dunk aussi."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/c-1/15
 msgctxt "Dunk"
 msgid "Shit, you could call me just about anything if you say it hot."
-msgstr ""
+msgstr "Merde, tu pourrais m'appeler comme tu veux si tu le dis avec le ton qui va bien."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-1/c-8/31/c-2/7
 msgctxt "Dunk"
 msgid "Thanks! I eat a lot of protein!"
-msgstr ""
+msgstr "Merci ! Je mange plein de protéines !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/3
 msgctxt "Dunk"
 msgid "Anyway it's great to see ya here finally."
-msgstr ""
+msgstr "Bref, c'est génial de te voir enfin ici."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/11
 msgctxt "Narrator"
 msgid "He grows very serious, placing a strong but gentle hand on your shoulder."
-msgstr ""
+msgstr "Il devient très sérieux et pose une main ferme mais douce sur votre épaule."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/19
 msgctxt "Dunk"
 msgid "What happened, man? How come you stayed away so long?"
-msgstr ""
+msgstr "Qu'est-ce qui s'est passé, pote ? Pourquoi tu es resté{{|e|·e}} loin aussi longtemps ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/27
 msgctxt "Dunk"
 msgid "Did someone ruin the joy of sports for ya?"
-msgstr ""
+msgstr "Quelqu'un t'a gâché la joie du sport ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/35/s/0
 msgctxt "Choix"
 msgid "I just... got busy."
-msgstr ""
+msgstr "J'ai juste... été occupé{{|e|·e}}."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/36/s/0
 msgctxt "Choix"
 msgid "Sports have never been joyful for me."
-msgstr ""
+msgstr "Le sport n'a jamais été une joie pour moi."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/37/s/0
 msgctxt "Choix"
 msgid "None of your business."
-msgstr ""
+msgstr "Ça ne te regarde pas."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/38/s/0
 msgctxt "Choix"
 msgid "I'm an athlete but I just get hard on myself."
-msgstr ""
+msgstr "Je suis sportif{{|ve|·ve}}, mais je suis trop dur{{|e|·e}} avec moi-même."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-9/7
 msgctxt "Dunk"
 msgid "Ahh man, I get that."
-msgstr ""
+msgstr "Ah ouais, je comprends."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-9/15
 msgctxt "Dunk"
 msgid "Life is so much sometimes... but you gotta make time for yourself too."
-msgstr ""
+msgstr "La vie, c'est parfois beaucoup... mais il faut aussi prendre du temps pour soi."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-10/7
 msgctxt "Narrator"
 msgid "There's genuine sadness in Dunk's eyes, and... are those tears? He grasps your shoulder tighter, his expression growing mournful."
-msgstr ""
+msgstr "Il y a une vraie tristesse dans les yeux de Dunk, et... sont-ce des larmes ? Il serre votre épaule plus fort, l'air accablé."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-10/18
 msgctxt "Dunk"
 msgid "That's the saddest thing I've ever heard..."
-msgstr ""
+msgstr "C'est la chose la plus triste que j'aie jamais entendue..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-10/26
 msgctxt "Dunk"
 msgid "Sports should be happy for everybody!"
-msgstr ""
+msgstr "Le sport devrait rendre tout le monde heureux !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-10/34
 msgctxt "Dunk"
 msgid "We gotta fix that!"
-msgstr ""
+msgstr "Il faut arranger ça !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-11/7
 msgctxt "Dunk"
 msgid "Hey, that's okay. I won't pry!"
-msgstr ""
+msgstr "Hé, c'est pas grave. Je vais pas fouiner !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-11/15
 msgctxt "Dunk"
 msgid "Real pals respect each other's privacy and boundaries!"
-msgstr ""
+msgstr "Les vrais potes respectent l'intimité et les limites de chacun !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-2/c-11/23
 msgctxt "Dunk"
 msgid "You don't have to share shit you don't wanna share!"
-msgstr ""
+msgstr "T'as pas à partager ce que t'as pas envie de partager !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/0
 msgctxt "Narrator"
 msgid "Dunk gives your shoulder one final little squeeze, and then he's slapping you on the back so enthusiastically you nearly collapse—this fine hunk clearly does not know his own strength."
-msgstr ""
+msgstr "Dunk vous serre l'épaule une dernière fois, puis vous tape dans le dos avec un tel enthousiasme que vous manquez de vous effondrer — ce beau morceau de muscle ne connaît clairement pas sa force."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/8
 msgctxt "Dunk"
 msgid "Well hey, no matter what happened before... you're here now!"
-msgstr ""
+msgstr "Bref, peu importe ce qui s'est passé avant... tu es là maintenant !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/16
 msgctxt "Dunk"
 msgid "Your inner athlete said 'let's GET IT baby!'"
-msgstr ""
+msgstr "Ton athlète intérieur a dit « ALLONS-Y, BÉBÉ ! »"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/24
 msgctxt "Dunk"
 msgid "And who are we to say no to your inner athlete?"
-msgstr ""
+msgstr "Et qui sommes-nous pour dire non à ton athlète intérieur ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/32/s/0
 msgctxt "Choix"
 msgid "I don't have an inner athlete."
-msgstr ""
+msgstr "Je n'ai pas d'athlète intérieur."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/33/s/0
 msgctxt "Choix"
 msgid "You're so right."
-msgstr ""
+msgstr "Tu as tellement raison."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/34/s/0
 msgctxt "Choix"
 msgid "I feel like this is all moving so fast..."
-msgstr ""
+msgstr "J'ai l'impression que tout va très vite..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-13/7
 msgctxt "Dunk"
 msgid "What? 'Course you do! We all do!"
-msgstr ""
+msgstr "Quoi ? Bien sûr que si ! On en a tous un !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-13/15
 msgctxt "Dunk"
 msgid "Yours might be like... sleepy right now."
-msgstr ""
+msgstr "Le tien est peut-être... endormi, là."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-13/23
 msgctxt "Dunk"
 msgid "But that's okay! We'll wake 'em up."
-msgstr ""
+msgstr "Mais c'est pas grave ! On va le réveiller."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-14/7
 msgctxt "Dunk"
 msgid "Hell yeah! Love that positive attitude!"
-msgstr ""
+msgstr "Carrément ! J'adore cette attitude positive !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-14/18
 msgctxt "Dunk"
 msgid "We're gonna have a great time together."
-msgstr ""
+msgstr "On va passer un super moment ensemble."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-15/7
 msgctxt "Dunk"
 msgid "Sometimes it be like that, buddy."
-msgstr ""
+msgstr "Des fois, c'est comme ça, pote."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-15/15
 msgctxt "Dunk"
 msgid "When the ball's in your court you don't have time to waste thinking about what you're gonna do!"
-msgstr ""
+msgstr "Quand la balle est dans ton camp, t'as pas le temps de te demander ce que tu vas faire !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-15/23
 msgctxt "Dunk"
 msgid "You gotta assess the situation and pass the ball or take the shot, baby!"
-msgstr ""
+msgstr "Faut évaluer la situation et passer la balle ou tirer, bébé !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-3/c-15/31
 msgctxt "Dunk"
 msgid "You gotta MOVE!"
-msgstr ""
+msgstr "Faut BOUGER !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-4/0
 msgctxt "Dunk"
 msgid "We just gotta get you into the flow... but I wanna make sure you're ready for it."
-msgstr ""
+msgstr "On doit juste te mettre dans le rythme... mais je veux m'assurer que t'es prêt{{|e|·e}}."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-4/8
 msgctxt "Dunk"
 msgid "After all, workin' out without a proper warmup is a great way to get a nasty injury!"
-msgstr ""
+msgstr "Après tout, s'entraîner sans un bon échauffement, c'est le meilleur moyen de se blesser salement !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-4/16
 msgctxt "Dunk"
 msgid "So you come back here when you're ready to get into it."
-msgstr ""
+msgstr "Reviens me voir quand t'auras envie de t'y mettre."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-4/24
 msgctxt "Dunk"
 msgid "Meet me by the weight rack, alright?"
-msgstr ""
+msgstr "Retrouve-moi près du rack d'haltères, d'accord ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_intro/0/g-4/32
 msgctxt "Dunk"
 msgid "And bring your positive attitude! We're gonna have FUN!"
-msgstr ""
+msgstr "Et amène ton attitude positive ! On va s'AMUSER !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/0
 msgctxt "Narrator"
 msgid "You find Dunk stretching idly by the weights—when he sees you, his handsome face breaks into a cheerful grin."
-msgstr ""
+msgstr "Vous trouvez Dunk en train de s'étirer nonchalamment près des haltères — en vous voyant, son beau visage s'éclaire d'un sourire joyeux."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/11
 msgctxt "Narrator"
 msgid "He's so excited he can't seem to contain his energy, bouncing back and forth on the balls of his feet like an overexcited puppy."
-msgstr ""
+msgstr "Il est si excité qu'il ne semble pas pouvoir contenir son énergie, sautillant d'un pied sur l'autre comme un chiot surexcité."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/19
 msgctxt "Dunk"
 msgid "You made it! Oh man, oh man, I'm so excited."
-msgstr ""
+msgstr "Tu as réussi ! Oh là là, je suis tellement content."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/30
 msgctxt "Dunk"
 msgid "It's been so long since I got to work out with somebody else... and a newbie too!"
-msgstr ""
+msgstr "Ça fait si longtemps que j'ai pas pu m'entraîner avec quelqu'un d'autre... et un{{|e|·e}} débutant{{|e|·e}} en plus !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/38
 msgctxt "Dunk"
 msgid "There's nothin' like a good lift with someone who's just starting out."
-msgstr ""
+msgstr "Rien de tel qu'une bonne séance de poids avec quelqu'un qui débute."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/46
 msgctxt "Dunk"
 msgid "Everything is so new... no bad habits to break, less competitive talk..."
-msgstr ""
+msgstr "Tout est nouveau... pas de mauvaises habitudes à corriger, moins de compétition..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/54
 msgctxt "Dunk"
 msgid "It's just gonna be you, me, and the weights! Good vibes and a great lift!"
-msgstr ""
+msgstr "Ce sera juste toi, moi et les haltères ! Bonnes vibes et super séance !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/62
 msgctxt "Narrator"
 msgid "A shadow falls over the two of you—a massive, blonde, and bearded figure looms over you."
-msgstr ""
+msgstr "Une ombre tombe sur vous deux — une silhouette massive, blonde et barbue vous domine de toute sa hauteur."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/79/b/1
 msgctxt "Narrator"
 msgid "He's larger than Dunk somehow, just as muscled but spread over a much taller frame. But more than that..."
-msgstr ""
+msgstr "Il est plus grand que Dunk, d'une façon ou d'une autre, tout aussi musclé mais sur une carcasse bien plus haute. Mais surtout..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/79/b/9
 msgctxt "Narrator"
 msgid "Where Dunk is cheerful and inviting, this man's gaze is cold and intimidating. There's something positively viking-like about him."
-msgstr ""
+msgstr "Là où Dunk est joyeux et accueillant, le regard de cet homme est froid et intimidant. Il a quelque chose de franchement viking."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/82
 msgctxt "Kristof"
 msgid "Do not infect them with your weakness, Duncan."
-msgstr ""
+msgstr "Ne les contamine pas avec ta faiblesse, Duncan."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/93
 msgctxt "Dunk"
 msgid "I keep telling you it's not weakness, bro."
-msgstr ""
+msgstr "Je te répète que c'est pas de la faiblesse, frérot."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/101
 msgctxt "Dunk"
 msgid "And Duncan was my dad, man! Call me Dunk!"
-msgstr ""
+msgstr "Et Duncan, c'était mon père, mec ! Appelle-moi Dunk !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/109
 msgctxt "Kristof"
 msgid "Nonsense. Exercise is VIOLENCE."
-msgstr ""
+msgstr "Balivernes. L'exercice, c'est de la VIOLENCE."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/117
 msgctxt "Kristof"
 msgid "It is driving the weakness out of your body by force."
-msgstr ""
+msgstr "C'est chasser la faiblesse de ton corps par la force."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/125
 msgctxt "Kristof"
 msgid "And I will call you by your name, DUNCAN FULL-NELSON FARTLEK LOVE SHUTTLECOCK III."
-msgstr ""
+msgstr "Et je t'appellerai par ton nom, DUNCAN FULL-NELSON FARTLEK LOVE SHUTTLECOCK TROISIÈME DU NOM."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/133/b/1
 msgctxt "Kristof"
 msgid "Oh. And, greetings lover."
-msgstr ""
+msgstr "Ah. Et salutations, amant."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/136
 msgctxt "Dunk"
 msgid "Come on, Kris... you're really bringing the mood down."
-msgstr ""
+msgstr "Allez, Kris... tu plombes l'ambiance."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/144
 msgctxt "Narrator"
 msgid "Kristof glares at Dunk, then turns his exacting gaze on you."
-msgstr ""
+msgstr "Kristof foudroie Dunk du regard, puis tourne son regard exigeant vers vous."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/152
 msgctxt "Kristof"
 msgid "You. Tell him what you need."
-msgstr ""
+msgstr "Toi. Dis-lui ce dont tu as besoin."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/160/s/0
 msgctxt "Choix"
 msgid "What I need?"
-msgstr ""
+msgstr "Ce dont j'ai besoin ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/161/s/0
 msgctxt "Choix"
 msgid "Why are you even talking to us right now?"
-msgstr ""
+msgstr "Pourquoi tu nous parles, d'ailleurs ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/162/s/0
 msgctxt "Choix"
 msgid "Why do you care so much?"
-msgstr ""
+msgstr "Pourquoi tu t'en soucies autant ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/c-0/7
 msgctxt "Kristof"
 msgid "Yes. You NEED to have the weakness beaten out of your soft body."
-msgstr ""
+msgstr "Oui. Tu as BESOIN qu'on batte la faiblesse hors de ton corps mou."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/c-0/15
 msgctxt "Narrator"
 msgid "He pauses for a few long moments, before finally adding..."
-msgstr ""
+msgstr "Il marque une longue pause, avant d'ajouter enfin..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/c-0/23
 msgctxt "Kristof"
 msgid "With exercise."
-msgstr ""
+msgstr "Par l'exercice."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/c-1/7
 msgctxt "Kristof"
 msgid "Someone must intervene when harmful ideas are being propagated this way."
-msgstr ""
+msgstr "Quelqu'un doit intervenir quand des idées néfastes se propagent ainsi."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/c-2/7
 msgctxt "Kristof"
 msgid "I have listened to this <i>child</i> spread his harmful ideas about 'effort' and 'positivity' for too long."
-msgstr ""
+msgstr "J'écoute cet <i>enfant</i> répandre ses idées néfastes sur l'« effort » et la « positivité » depuis trop longtemps."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/c-2/15
 msgctxt "Kristof"
 msgid "It was one thing when he had no audience, but with you here now... it is unacceptable."
-msgstr ""
+msgstr "C'était une chose quand il n'avait pas de public, mais avec toi ici... c'est inacceptable."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/0
 msgctxt "Kristof"
 msgid "You have neglected yourself for far too long."
-msgstr ""
+msgstr "Tu t'es négligé{{|e|·e}} bien trop longtemps."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/8
 msgctxt "Kristof"
 msgid "When you set foot in MY domain you will do so with INTENTION and STRENGTH."
-msgstr ""
+msgstr "Quand tu poses le pied dans MON domaine, tu le fais avec INTENTION et FORCE."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/19
 msgctxt "Kristof"
 msgid "None of this 'real winners do their best and know their limits!' sentiment and foolishness!"
-msgstr ""
+msgstr "Fini ces sentiments et ces âneries du genre « les vrais gagnants font de leur mieux et connaissent leurs limites » !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/27
 msgctxt "Dunk"
 msgid "You really gotta relax, man... all of us share this room."
-msgstr ""
+msgstr "Faut vraiment que tu te détendes, mec... on partage tous cette pièce."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/35/b/1
 msgctxt "Dunk"
 msgid "And it's <i>their</i> house..."
-msgstr ""
+msgstr "Et c'est <i>leur</i> maison..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/38/s/0
 msgctxt "Choix"
 msgid "No no, he's right. Exercise should be unpleasant."
-msgstr ""
+msgstr "Non non, il a raison. L'exercice doit être désagréable."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/39/s/0
 msgctxt "Choix"
 msgid "Go conquer a village or whatever it is guys like you do for fun."
-msgstr ""
+msgstr "Va conquérir un village ou ce que les types comme toi font pour s'amuser."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/40/s/0
 msgctxt "Choix"
 msgid "Are you done yet? I'd really like to work out now."
-msgstr ""
+msgstr "T'as bientôt fini ? J'aimerais bien m'entraîner, là."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-3/13
 msgctxt "Dunk"
 msgid "No no! It's supposed to be nice!"
-msgstr ""
+msgstr "Mais non ! Ça doit être agréable !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-3/21
 msgctxt "Kristof"
 msgid "Yes. Unpleasant... miserable... there is no gain without SUFFERING."
-msgstr ""
+msgstr "Oui. Désagréable... misérable... pas de progrès sans SOUFFRANCE."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-3/29
 msgctxt "Dunk"
 msgid "It's 'no pain no gain', and that ain't true!"
-msgstr ""
+msgstr "C'est « no pain, no gain », et c'est faux !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-3/37
 msgctxt "Dunk"
 msgid "It doesn't need to be painful!"
-msgstr ""
+msgstr "Ça n'a pas besoin de faire mal !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-3/45
 msgctxt "Kristof"
 msgid "I am pleased you understand. Make sure you explain it to him."
-msgstr ""
+msgstr "Je suis ravi que tu comprennes. Veille à le lui expliquer."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-3/53
 msgctxt "Kristof"
 msgid "Happy suffering, peasant."
-msgstr ""
+msgstr "Bonne souffrance, paysan."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-4/7
 msgctxt "Kristof"
 msgid "Do you think I'd be here wasting my time speaking with you if I could be out conquering a village, buffoon?"
-msgstr ""
+msgstr "Crois-tu que je perdrais mon temps à te parler si je pouvais conquérir un village, bouffon ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-4/15
 msgctxt "Kristof"
 msgid "What a perfect match the two of you make—soft-bodied and soft-hearted weaklings."
-msgstr ""
+msgstr "Quel couple parfait vous formez — des faibles au corps mou et au coeur mou."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-4/26
 msgctxt "Kristof"
 msgid "When your muscles droop like deflated balloons you will remember my words."
-msgstr ""
+msgstr "Quand vos muscles pendront comme des ballons dégonflés, vous vous souviendrez de mes paroles."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-5/7
 msgctxt "Dunk"
 msgid "Yeah! I mean, thanks buddy, but I think we got it from here."
-msgstr ""
+msgstr "Ouais ! Enfin, merci pote, mais je crois qu'on gère à partir d'ici."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-5/15
 msgctxt "Kristof"
 msgid "You do not 'got' anything but sentiment and foolishness."
-msgstr ""
+msgstr "Tu ne gères rien d'autre que du sentiment et des âneries."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-5/23
 msgctxt "Kristof"
 msgid "But so be it! You have thrown your lot in with <i>him</i>, and now you will reap the baby-soft consequences."
-msgstr ""
+msgstr "Mais soit ! Tu as misé sur <i>lui</i>, et tu récolteras désormais les conséquences douillettes."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-0/c-5/31
 msgctxt "Kristof"
 msgid "Do not come crying to me when you are so weak you cannot even lift a bag of chips!"
-msgstr ""
+msgstr "Ne viens pas pleurer chez moi quand tu seras si faible que tu ne pourras même plus soulever un sachet de chips !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/0
 msgctxt "Dunk"
 msgid "Goddamn, that crosstrainer is intense."
-msgstr ""
+msgstr "Nom d'un chien, ce cross-trainer est intense."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/8
 msgctxt "Dunk"
 msgid "If bringing the mood down was a sport, he'd be a gold medalist for sure."
-msgstr ""
+msgstr "Si plomber l'ambiance était un sport, il serait médaillé d'or, c'est sûr."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "You could learn a lot from him."
-msgstr ""
+msgstr "Tu pourrais apprendre beaucoup de lui."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "Right? Good vibes only!"
-msgstr ""
+msgstr "Pas vrai ? Bonnes vibes uniquement !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/18/s/0
 msgctxt "Choix"
 msgid "I don't even wanna waste time talking about him."
-msgstr ""
+msgstr "Je veux même pas perdre mon temps à parler de lui."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/c-6/13
 msgctxt "Dunk"
 msgid "Whaaat? No way!"
-msgstr ""
+msgstr "Quoiii ? Pas question !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/c-6/24
 msgctxt "Dunk"
 msgid "I'm always open to learning but all that guy knows is 'VIOLENCE'!"
-msgstr ""
+msgstr "Je suis toujours ouvert à l'apprentissage, mais tout ce que ce type connaît, c'est la « VIOLENCE » !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/c-6/32
 msgctxt "Dunk"
 msgid "I've tried talking him out of it so many times... I don't like giving up on people but he's just kinda like that."
-msgstr ""
+msgstr "J'ai essayé de le raisonner tant de fois... j'aime pas abandonner les gens, mais il est comme ça."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/c-6/40
 msgctxt "Dunk"
 msgid "Maybe he'll snap out of it one of these days... but not today."
-msgstr ""
+msgstr "Peut-être qu'il se reprendra un de ces jours... mais pas aujourd'hui."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/c-7/7
 msgctxt "Dunk"
 msgid "Hell yeah man! Back to the program!"
-msgstr ""
+msgstr "Carrément, pote ! Retour au programme !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-1/c-8/7
 msgctxt "Dunk"
 msgid "Yeah, yeah! We got our own stuff to get back to!"
-msgstr ""
+msgstr "Ouais, ouais ! On a notre propre programme à reprendre !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/3
 msgctxt "Dunk"
 msgid "Anyway... today's activity is WEIGHTS!"
-msgstr ""
+msgstr "Bref... l'activité du jour, c'est les POIDS !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/11
 msgctxt "Narrator"
 msgid "He gestures to the weights you've long since abandoned—they're still in decent condition, if a little dusty in places."
-msgstr ""
+msgstr "Il désigne les haltères que vous avez abandonnés depuis longtemps — ils sont encore en assez bon état, même s'ils sont un peu poussiéreux par endroits."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/19
 msgctxt "Dunk"
 msgid "Nothin' like a good lift. You can work your whole body out!"
-msgstr ""
+msgstr "Rien de tel qu'une bonne séance. Ça fait travailler tout le corps !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/27
 msgctxt "Dunk"
 msgid "Anybody can get a good burn goin' with weights, even if you're only liftin' a couple pounds to start."
-msgstr ""
+msgstr "N'importe qui peut sentir la brûlure avec des poids, même en soulevant quelques kilos pour commencer."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/35
 msgctxt "Dunk"
 msgid "It's a great place to start your fitness journey—there ain't no rules, no competition... all you need is yourself and a good attitude!"
-msgstr ""
+msgstr "C'est un super point de départ pour ton parcours forme — pas de règles, pas de compétition... tout ce qu'il faut, c'est toi et une bonne attitude !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/43
 msgctxt "Dunk"
 msgid "So? Ready to get started?"
-msgstr ""
+msgstr "Alors ? Prêt{{|e|·e}} à commencer ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/51
 msgctxt "Narrator"
 msgid "Dunk is so cheerful and confident, it's probably more work than it's worth to turn him down. You could, but... do you really want to hurt his feelings?"
-msgstr ""
+msgstr "Dunk est si joyeux et confiant que refuser serait sans doute plus de travail que ça n'en vaut la peine. Vous pourriez, mais... voulez-vous vraiment le blesser ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/59/s/0
 msgctxt "Choix"
 msgid "I am not lifting weights with you, weirdo."
-msgstr ""
+msgstr "Je ne soulève pas de poids avec toi, bizarre."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/60/s/0
 msgctxt "Choix"
 msgid "Alright, let's do this."
-msgstr ""
+msgstr "Bon, d'accord, allons-y."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/61/s/0
 msgctxt "Choix"
 msgid "LET'S GET IT BABY!"
-msgstr ""
+msgstr "ALLONS-Y, BÉBÉ !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/13
 msgctxt "Dunk"
 msgid "Aww..."
-msgstr ""
+msgstr "Oooh..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/21
 msgctxt "Dunk"
 msgid "Well... maybe weights aren't your thing."
-msgstr ""
+msgstr "Bon... les poids, c'est peut-être pas ton truc."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/29
 msgctxt "Dunk"
 msgid "And that's okay, not everything is everyone's favorite!"
-msgstr ""
+msgstr "Et c'est pas grave, tout le monde n'aime pas tout !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/37
 msgctxt "Dunk"
 msgid "We'll just have to try something else for ya next time."
-msgstr ""
+msgstr "On essaiera autre chose pour toi la prochaine fois."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/45
 msgctxt "Dunk"
 msgid "Yeah, maybe yoga... meet me by the yoga mat."
-msgstr ""
+msgstr "Ouais, peut-être le yoga... retrouve-moi près du tapis de yoga."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/0/s/0
 msgctxt "Choix"
 msgid "Stop trying to make me like sports."
-msgstr ""
+msgstr "Arrête d'essayer de me faire aimer le sport."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/1/s/0 dunk_sports/dunk_yoga_experience/0/33/s/0 dunk_sports/dunk_yoga_end/0/34/s/0
 msgctxt "Choix"
 msgid "I guess..."
-msgstr ""
+msgstr "Je suppose..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-0/13
 msgctxt "Dunk"
 msgid "Hey! Take that negative talk somewhere else, buddy!"
-msgstr ""
+msgstr "Hé ! Va porter ces paroles négatives ailleurs, pote !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-0/24
 msgctxt "Dunk"
 msgid "We'll try again another day, alright?"
-msgstr ""
+msgstr "On réessaiera un autre jour, d'accord ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-0/32
 msgctxt "Dunk"
 msgid "Go hit the showers and take a load off."
-msgstr ""
+msgstr "Va prendre une douche et souffler un peu."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/7
 msgctxt "Dunk"
 msgid "Don't worry. There's something out there for everybody."
-msgstr ""
+msgstr "T'inquiète. Il y a quelque chose pour tout le monde."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/15
 msgctxt "Dunk"
 msgid "We'll get you movin' and shakin' in no time, pal."
-msgstr ""
+msgstr "On va te remettre en mouvement en un rien de temps, pote."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/23
 msgctxt "Dunk"
 msgid "But in the meantime hit the showers and take a load off!"
-msgstr ""
+msgstr "Mais en attendant, va prendre une douche et souffler un peu !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-9/53/c-1/31
 msgctxt "Dunk"
 msgid "We'll try again another day!"
-msgstr ""
+msgstr "On réessaiera un autre jour !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-10/7
 msgctxt "Dunk"
 msgid "Let's DO THIS!"
-msgstr ""
+msgstr "ON Y VA !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-2/c-11/7
 msgctxt "Dunk"
 msgid "HELL YEAH LET'S GET IT!"
-msgstr ""
+msgstr "OUAIS CARRÉMENT, ALLONS-Y !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/0
 msgctxt "Narrator"
 msgid "You lift weights for a while under Dunk's supervision—he ensures your form is always correct, and that you're not lifting more than you can handle."
-msgstr ""
+msgstr "Vous soulevez des poids un moment sous la supervision de Dunk — il veille à ce que votre posture soit toujours correcte et à ce que vous ne souleviez pas plus que vous ne pouvez."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/8
 msgctxt "Narrator"
 msgid "He never pushes you too much—he only kindly encourages you when he sees you growing tired, or if he knows you have just a bit more left in you."
-msgstr ""
+msgstr "Il ne vous pousse jamais trop — il vous encourage gentiment quand il vous voit fatiguer, ou quand il sait qu'il vous reste un peu de réserve."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/16
 msgctxt "Narrator"
 msgid "When he calls time, you sit down, sweatier and more exhausted than you've been in a while."
-msgstr ""
+msgstr "Quand il annonce la fin, vous vous asseyez, plus en sueur et plus épuisé{{|e|·e}} que vous ne l'avez été depuis longtemps."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/24
 msgctxt "Dunk"
 msgid "Yo! That was amazing, especially for a first session!"
-msgstr ""
+msgstr "Yo ! C'était génial, surtout pour une première séance !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/32
 msgctxt "Dunk"
 msgid "You doin' ok, buddy?"
-msgstr ""
+msgstr "Ça va, pote ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/40/s/0
 msgctxt "Choix"
 msgid "Oh yeah, this is nothing."
-msgstr ""
+msgstr "Oh ouais, c'est rien du tout."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/41/s/0
 msgctxt "Choix"
 msgid "I'm tired... but I feel good."
-msgstr ""
+msgstr "Je suis crevé{{|e|·e}}... mais je me sens bien."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/42/s/0
 msgctxt "Choix"
 msgid "Do I look like I'm doing okay, dummy?"
-msgstr ""
+msgstr "J'ai l'air d'aller bien, idiot ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-12/7
 msgctxt "Dunk"
 msgid "It's not nothin'! It's definitely somethin'!"
-msgstr ""
+msgstr "C'est pas rien ! C'est clairement quelque chose !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-12/15
 msgctxt "Dunk"
 msgid "Make sure you don't push yourself too hard, alright?"
-msgstr ""
+msgstr "Veille à pas te surmener, d'accord ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-12/23
 msgctxt "Dunk"
 msgid "Everybody's always tryin' to make it a race... but there's always gonna be somebody stronger than you."
-msgstr ""
+msgstr "Tout le monde veut toujours en faire une course... mais il y aura toujours quelqu'un de plus fort que toi."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-12/31
 msgctxt "Dunk"
 msgid "You just gotta do your best."
-msgstr ""
+msgstr "Faut juste faire de ton mieux."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-13/7
 msgctxt "Dunk"
 msgid "That's great! Make sure you take it easy the rest of the day, okay?"
-msgstr ""
+msgstr "Super ! Ménage-toi le reste de la journée, d'accord ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-13/15
 msgctxt "Dunk"
 msgid "Restin' up after hittin' it hard is just as important!"
-msgstr ""
+msgstr "Se reposer après avoir donné à fond, c'est tout aussi important !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/13
 msgctxt "Dunk"
 msgid "Well yeah, you look alright... but you can't always tell by lookin', so I gotta ask!"
-msgstr ""
+msgstr "Ouais, t'as l'air d'aller... mais on ne peut pas toujours juger à l'oeil, alors je dois demander !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/21
 msgctxt "Dunk"
 msgid "You don't gotta be mean..."
-msgstr ""
+msgstr "Pas besoin d'être méchant..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/32
 msgctxt "Dunk"
 msgid "I'm just checkin' up on ya. If you're hurting take it easy, alright?"
-msgstr ""
+msgstr "Je prends juste de tes nouvelles. Si t'as mal, vas-y doucement, d'accord ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/40
 msgctxt "Dunk"
 msgid "Try soaking in the tub with some epsom salts, and make sure you stretch real good."
-msgstr ""
+msgstr "Essaie de tremper dans un bain avec des sels d'Epsom, et étire-toi bien."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/48
 msgctxt "Dunk"
 msgid "And look, speaking of stretching... next time we'll try yoga."
-msgstr ""
+msgstr "Et d'ailleurs, en parlant d'étirements... la prochaine fois, on essaie le yoga."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/56
 msgctxt "Dunk"
 msgid "Which might also make you sore, but it'll help ya deal with any future sore muscles too."
-msgstr ""
+msgstr "Ça te donnera peut-être des courbatures aussi, mais ça t'aidera à gérer les futures."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/64
 msgctxt "Dunk"
 msgid "See you at the yoga mat, alright?"
-msgstr ""
+msgstr "On se retrouve au tapis de yoga, d'accord ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-3/c-14/72
 msgctxt "Dunk"
 msgid "Hit the showers and take it easy!"
-msgstr ""
+msgstr "Va prendre une douche et repose-toi !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/0
 msgctxt "Dunk"
 msgid "If you're sore tomorrow—which you probably will be—make sure you take care of yourself."
-msgstr ""
+msgstr "Si t'as des courbatures demain — et ce sera sûrement le cas — prends soin de toi."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/8
 msgctxt "Dunk"
 msgid "Try soaking in a bath with epsom salts, or use a heating pad... you can even try a massage if you got a massager or anything like that."
-msgstr ""
+msgstr "Essaie un bain avec des sels d'Epsom, ou une bouillotte électrique... tu peux même tenter un massage si t'as un masseur ou un truc du genre."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/16
 msgctxt "Dunk"
 msgid "And it might sound like the exact opposite of what you need, but trust me... keeping that body moving when you're sore only helps."
-msgstr ""
+msgstr "Et ça paraît être l'exact opposé de ce qu'il te faut, mais crois-moi... continuer à bouger quand t'as des courbatures, ça aide seulement."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/24
 msgctxt "Dunk"
 msgid "You lay around and feel sorry for yourself it just gets worse!"
-msgstr ""
+msgstr "Si tu restes allongé{{|e|·e}} à te plaindre, ça empire !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/32
 msgctxt "Dunk"
 msgid "But I got something that'll help. Next time we'll do some yoga."
-msgstr ""
+msgstr "Mais j'ai quelque chose qui t'aidera. La prochaine fois, on fera du yoga."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/40
 msgctxt "Dunk"
 msgid "I mean, it'll make you sore too at first... but it'll help you with the rest of the stuff we do."
-msgstr ""
+msgstr "Je veux dire, ça te donnera des courbatures aussi au début... mais ça t'aidera pour tout le reste de ce qu'on fera."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/48/s/0
 msgctxt "Choix"
 msgid "Don't assume there's gonna be a next time."
-msgstr ""
+msgstr "Ne pars pas du principe qu'il y aura une prochaine fois."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/49/s/0
 msgctxt "Choix"
 msgid "Sounds great."
-msgstr ""
+msgstr "Ça me va très bien."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/50/s/0
 msgctxt "Choix"
 msgid "Alright..."
-msgstr ""
+msgstr "D'accord..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/c-15/13
 msgctxt "Dunk"
 msgid "Nooo, don't say that! That's bummer talk!"
-msgstr ""
+msgstr "Nooon, dis pas ça ! C'est du discours de rabat-joie !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/c-15/24
 msgctxt "Dunk"
 msgid "You gotta stay positive. Maybe just go and rest for now..."
-msgstr ""
+msgstr "Faut rester positif. Va peut-être te reposer pour l'instant..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/c-15/32
 msgctxt "Dunk"
 msgid "And I'll see you at the yoga mat!"
-msgstr ""
+msgstr "Et on se voit au tapis de yoga !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/c-16/7
 msgctxt "Dunk"
 msgid "Hell yeah! Love that attitude!"
-msgstr ""
+msgstr "Carrément ! J'adore cette attitude !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/c-16/15 dunk_sports/dunk_weights_experience/0/g-4/c-17/15
 msgctxt "Dunk"
 msgid "See you at the yoga mat!"
-msgstr ""
+msgstr "On se voit au tapis de yoga !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_weights_experience/0/g-4/c-17/7
 msgctxt "Dunk"
 msgid "You're gonna love it, just wait."
-msgstr ""
+msgstr "Tu vas adorer, tu verras."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/0
 msgctxt "Narrator"
 msgid "Dunk is in the middle of a downward dog pose, showing off surprising flexibility for someone with a physique as rugged as his."
-msgstr ""
+msgstr "Dunk est en pleine posture du chien tête en bas, faisant preuve d'une souplesse étonnante pour quelqu'un d'aussi robuste."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/8
 msgctxt "Narrator"
 msgid "When he sees you he straightens up and waves, but not before you've gotten a good long look at him in a rather compromising position."
-msgstr ""
+msgstr "En vous voyant, il se redresse et fait signe de la main, mais pas avant que vous ne l'ayez bien observé dans une position assez compromettante."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/16
 msgctxt "Dunk"
 msgid "Hey hey! There's my favorite new workout buddy!"
-msgstr ""
+msgstr "Hé hé ! Voilà mon nouveau partenaire d'entraînement préféré !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/24
 msgctxt "Dunk"
 msgid "Ready to try some yoga?"
-msgstr ""
+msgstr "Prêt{{|e|·e}} à essayer le yoga ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/32/s/0
 msgctxt "Choix"
 msgid "I love yoga!"
-msgstr ""
+msgstr "J'adore le yoga !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/34/s/0
 msgctxt "Choix"
 msgid "Why do I feel like you don't care what my answer is?"
-msgstr ""
+msgstr "Pourquoi j'ai l'impression que ma réponse t'est égale ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/c-0/7
 msgctxt "Dunk"
 msgid "Ahh man, yes! I love to hear that!"
-msgstr ""
+msgstr "Ah là là, oui ! J'adore entendre ça !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/c-1/7 dunk_sports/dunk_yoga_experience/0/c-2/7
 msgctxt "Dunk"
 msgid "Hey hey, cheer up buddy! Yoga rules!"
-msgstr ""
+msgstr "Hé hé, courage, pote ! Le yoga, ça déchire !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/c-2/15
 msgctxt "Dunk"
 msgid "...is what I would say if I wasn't paying attention!"
-msgstr ""
+msgstr "...c'est ce que je dirais si je n'écoutais pas !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/c-2/23
 msgctxt "Dunk"
 msgid "Of course I care what your answer is!"
-msgstr ""
+msgstr "Évidemment que ta réponse compte !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/c-2/31
 msgctxt "Dunk"
 msgid "But if you're feeling scared, don't be."
-msgstr ""
+msgstr "Mais si t'as peur, n'aie pas peur."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/0
 msgctxt "Dunk"
 msgid "Yoga is popular these days, but when I first started doin' it you wouldn't believe how many of my fellow athletes wouldn't take it seriously."
-msgstr ""
+msgstr "Le yoga, c'est à la mode ces temps-ci, mais quand j'ai commencé, tu croirais pas combien de mes collègues athlètes ne le prenaient pas au sérieux."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/8
 msgctxt "Dunk"
 msgid "Even now you still got equipment like Kris who thinks it's soft stuff for babies and nothin' could be further from the truth!"
-msgstr ""
+msgstr "Même maintenant, il y a encore du matériel comme Kris qui pense que c'est un truc mou pour les bébés, et rien n'est plus faux !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/16
 msgctxt "Dunk"
 msgid "But also like, who cares if it's soft or not? Real strength comes from not carin' about other people's opinions!"
-msgstr ""
+msgstr "Mais de toute façon, qui s'en fiche que ce soit mou ou pas ? La vraie force, c'est de se ficher de l'avis des autres !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/24
 msgctxt "Dunk"
 msgid "We're gonna get our yoga on and nobody's gonna tell us we can't!"
-msgstr ""
+msgstr "On va faire notre yoga et personne ne nous dira qu'on n'a pas le droit !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/32
 msgctxt "Narrator"
 msgid "As if on cue, another household object appears in your periphery, perhaps, to tell you you can't."
-msgstr ""
+msgstr "Comme sur un signal, un autre objet de la maison apparaît dans votre champ de vision, peut-être pour vous dire que vous n'avez pas le droit."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/49
 msgctxt "Shelley"
 msgid "Whattup whattup whattup!"
-msgstr ""
+msgstr "Quoi de neuf, quoi de neuf, quoi de neuf !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/60
 msgctxt "Narrator"
 msgid "Dunk's normally unflappable smile grows slightly rigid."
-msgstr ""
+msgstr "Le sourire d'ordinaire imperturbable de Dunk se raidit légèrement."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/68
 msgctxt "Dunk"
 msgid "Ahh, Shelley, hey... we were just about to-"
-msgstr ""
+msgstr "Ah, Shelley, salut... on allait justement-"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/76
 msgctxt "Shelley"
 msgid "Do some yoga? Yeah I heard."
-msgstr ""
+msgstr "Faire du yoga ? Ouais, j'ai entendu."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/84
 msgctxt "Narrator"
 msgid "Shelley throws her muscled arms around the two of you, bringing you in for an uncomfortable group hug."
-msgstr ""
+msgstr "Shelley jette ses bras musclés autour de vous deux et vous serre dans une étreinte collective peu confortable."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/95
 msgctxt "Narrator"
 msgid "She's squeezing far too tight, evidently unaware of just how strong she is."
-msgstr ""
+msgstr "Elle serre beaucoup trop fort, visiblement inconsciente de sa propre force."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/106
 msgctxt "Shelley"
 msgid "But like, why do yoga when you could LIFT?"
-msgstr ""
+msgstr "Mais franchement, pourquoi faire du yoga quand on peut SOULEVER ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/114
 msgctxt "Shelley"
 msgid "Do you know how good at huggin' you can be when you LIFT?"
-msgstr ""
+msgstr "Tu sais à quel point t'es bon{{|ne|·ne}} pour les câlins quand tu SOULÈVES ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/122
 msgctxt "Narrator"
 msgid "Dunk manages to free himself from Shelley's death grip—you feel his strong fingertips wedging between Shelley's arm and your shoulder."
-msgstr ""
+msgstr "Dunk parvient à se libérer de l'étau de Shelley — vous sentez ses doigts puissants se glisser entre le bras de Shelley et votre épaule."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/130
 msgctxt "Dunk"
 msgid "Lifting IS good for your hug muscles, there's no doubt about that—but you gotta have a balance, dude."
-msgstr ""
+msgstr "Soulever, c'est bon pour les muscles du câlin, c'est sûr — mais il faut un équilibre, mec."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/138
 msgctxt "Dunk"
 msgid "Besides, yoga builds strength too."
-msgstr ""
+msgstr "Et puis le yoga aussi, ça développe la force."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/146
 msgctxt "Narrator"
 msgid "Dunk finally manages to pop you out of Shelley's grasp, but she seems entirely unbothered by your escape."
-msgstr ""
+msgstr "Dunk finit par vous extraire de l'emprise de Shelley, mais elle semble complètement indifférente à votre évasion."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/154
 msgctxt "Shelley"
 msgid "Balance? Nah bro. You gotta GRAB LIFE BY THE SCREWS!"
-msgstr ""
+msgstr "L'équilibre ? Non, frérot. Faut PRENDRE LA VIE PAR LES BOULONS !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/162
 msgctxt "Shelley"
 msgid "You don't want our good pal here to miss out on the best in life because they were too busy bendin' over and staring at the floor!"
-msgstr ""
+msgstr "Tu veux pas que notre bon pote ici rate le meilleur de la vie parce qu'il était trop occupé à se plier en deux et à regarder le sol !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/170
 msgctxt "Dunk"
 msgid "Shelley, my dude, respectfully... life ain't all about lifting."
-msgstr ""
+msgstr "Shelley, mon pote, avec respect... la vie, c'est pas que soulever."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/178
 msgctxt "Narrator"
 msgid "Shelley's mouth drops open, as though Dunk has just said something absolutely unthinkable. It might be a good time to intervene."
-msgstr ""
+msgstr "La bouche de Shelley s'ouvre en grand, comme si Dunk venait de dire quelque chose d'absolument impensable. Ce serait peut-être le moment d'intervenir."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/186/s/0
 msgctxt "Choix"
 msgid "Lifting sucks."
-msgstr ""
+msgstr "Soulever, c'est nul."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/187/s/0
 msgctxt "Choix"
 msgid "Lifting is great, but it can't be all you do."
-msgstr ""
+msgstr "Soulever, c'est super, mais ça ne peut pas être tout ce qu'on fait."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/188/s/0
 msgctxt "Choix"
 msgid "Why are you here?"
-msgstr ""
+msgstr "Qu'est-ce que tu fais là ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/c-3/7
 msgctxt "Narrator"
 msgid "Shelley gasps so long and so loud you start to wonder if you've said something worse than you remembered."
-msgstr ""
+msgstr "Shelley inspire si longuement et si bruyamment que vous vous demandez si vous n'avez pas dit pire que ce dont vous vous souvenez."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/c-3/18
 msgctxt "Narrator"
 msgid "Dunk attempts to intervene, waving his hands frantically."
-msgstr ""
+msgstr "Dunk tente d'intervenir en agitant frénétiquement les mains."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/c-3/32
 msgctxt "Dunk"
 msgid "Ahhh no no, that's not what I'm sayin' at all!"
-msgstr ""
+msgstr "Ahhh non non, c'est pas du tout ce que je dis !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/c-4/7
 msgctxt "Dunk"
 msgid "Exactly!"
-msgstr ""
+msgstr "Exactement !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/c-5/7
 msgctxt "Shelley"
 msgid "I told ya! I gotta make sure you're committing yourself to being the best you you can be!"
-msgstr ""
+msgstr "Je te l'avais dit ! Je dois m'assurer que tu t'engages à être la meilleure version de toi-même !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/c-5/15
 msgctxt "Shelley"
 msgid "For everybody else! You gotta get strong for everyone else in your life!"
-msgstr ""
+msgstr "Pour tous les autres ! Faut devenir fort{{|e|·e}} pour tous les autres dans ta vie !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-0/c-5/23
 msgctxt "Dunk"
 msgid "Shelley... come on."
-msgstr ""
+msgstr "Shelley... allez."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/0
 msgctxt "Dunk"
 msgid "Lifting is great! But it's just part of the routine!"
-msgstr ""
+msgstr "Soulever, c'est super ! Mais ça fait juste partie de la routine !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/8
 msgctxt "Shelley"
 msgid "How can you say that!?"
-msgstr ""
+msgstr "Comment tu peux dire ça !?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/16
 msgctxt "Shelley"
 msgid "How else are you gonna lift your friends up and carry all their burdens and make them a part of you until you push them away or you collapse under the strain of it all?!"
-msgstr ""
+msgstr "Comment tu vas soulever tes amis, porter tous leurs fardeaux et les intégrer à toi jusqu'à ce que tu les repousses ou que tu t'effondres sous le poids de tout ça ?!"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/24
 msgctxt "Shelley"
 msgid "Why that's no way to live at all!"
-msgstr ""
+msgstr "Mais c'est pas une vie, ça !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/32
 msgctxt "Dunk"
 msgid "Look, we all got our priorities... it's great that you wanna do that to- I mean, for your friends."
-msgstr ""
+msgstr "Écoute, on a tous nos priorités... c'est super que tu veuilles faire ça pour- je veux dire, pour tes amis."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/40
 msgctxt "Dunk"
 msgid "But what kind of world would this be if we all did Shelley's job?"
-msgstr ""
+msgstr "Mais quel genre de monde ce serait si on faisait tous le boulot de Shelley ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/48
 msgctxt "Shelley"
 msgid "...I'm not... sure..."
-msgstr ""
+msgstr "...je suis pas... sûre..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/56
 msgctxt "Narrator"
 msgid "This seems to break something in Shelley. She wanders away, muttering to herself."
-msgstr ""
+msgstr "Ça semble briser quelque chose en Shelley. Elle s'éloigne en marmonnant."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/64
 msgctxt "Shelley"
 msgid "...what if everyone did Shelley's job... so many muscles..."
-msgstr ""
+msgstr "...et si tout le monde faisait le boulot de Shelley... tant de muscles..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/78
 msgctxt "Narrator"
 msgid "Dunk exhales, placing his hands on his hips as he takes a moment to recenter himself."
-msgstr ""
+msgstr "Dunk expire, pose les mains sur ses hanches et prend un instant pour se recentrer."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/86
 msgctxt "Dunk"
 msgid "Calm... calm."
-msgstr ""
+msgstr "Calme... calme."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/97
 msgctxt "Dunk"
 msgid "Okay. Yoga time!"
-msgstr ""
+msgstr "Bon. Heure du yoga !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/105
 msgctxt "Dunk"
 msgid "So first of all, how'd you feel about yoga? You ever do it before?"
-msgstr ""
+msgstr "Alors d'abord, tu penses quoi du yoga ? T'en as déjà fait ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/113/s/0
 msgctxt "Choix"
 msgid "I'm not much for yoga."
-msgstr ""
+msgstr "Le yoga, c'est pas trop mon truc."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/114/s/0
 msgctxt "Choix"
 msgid "I LOVE yoga."
-msgstr ""
+msgstr "J'ADORE le yoga."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/115/s/0
 msgctxt "Choix"
 msgid "I'm not buying whatever you're selling, dude."
-msgstr ""
+msgstr "Je n'achète pas ce que tu vends, mec."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-6/7
 msgctxt "Dunk"
 msgid "Uh uh uh, that was the old you. The NEW you might love it!"
-msgstr ""
+msgstr "Eh eh eh, ça, c'était l'ancien toi. Le NOUVEAU toi l'adorera peut-être !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-6/15
 msgctxt "Dunk"
 msgid "Let's just try it and see."
-msgstr ""
+msgstr "Essayons et voyons bien."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-7/7
 msgctxt "Dunk"
 msgid "Yessss. Love to hear that."
-msgstr ""
+msgstr "Ouiii. J'adore entendre ça."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-8/17
 msgctxt "Narrator"
 msgid "Dunk looks truly pained."
-msgstr ""
+msgstr "Dunk a l'air sincèrement peiné."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-8/25
 msgctxt "Dunk"
 msgid "Oh... I'm not <i>selling</i> anything, buddy... I don't even make any money off this!"
-msgstr ""
+msgstr "Oh... je <i>vends</i> rien du tout, pote... je gagne même pas d'argent avec ça !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-8/33
 msgctxt "Dunk"
 msgid "I'm just trying to show you the joy of sports..."
-msgstr ""
+msgstr "J'essaie juste de te montrer la joie du sport..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-8/41
 msgctxt "Dunk"
 msgid "But okay, I hear you. Maybe yoga ain't your thing."
-msgstr ""
+msgstr "Mais d'accord, je t'entends. Le yoga, c'est peut-être pas ton truc."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-8/49
 msgctxt "Dunk"
 msgid "Maybe what you really need is the traditional sports experience."
-msgstr ""
+msgstr "Ce qu'il te faut vraiment, c'est peut-être l'expérience sportive traditionnelle."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-8/57
 msgctxt "Dunk"
 msgid "Next time you come here just meet me by the sports equipment and we'll pick something nice for ya."
-msgstr ""
+msgstr "La prochaine fois, retrouve-moi près du matériel de sport et on te choisira un truc sympa."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-1/c-8/71
 msgctxt "Dunk"
 msgid "See you next time—tomorrow's another day!"
-msgstr ""
+msgstr "À la prochaine — demain est un autre jour !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/0
 msgctxt "Dunk"
 msgid "Alright alright, let's get into it."
-msgstr ""
+msgstr "Bon bon, allons-y."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/8
 msgctxt "Dunk"
 msgid "How about we start with a nice down dog pose?"
-msgstr ""
+msgstr "Et si on commençait par un bon chien tête en bas ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/16/s/0
 msgctxt "Choix"
 msgid "I need you to show me."
-msgstr ""
+msgstr "Il faut que tu me montres."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/17/s/0
 msgctxt "Choix"
 msgid "Here goes, I guess..."
-msgstr ""
+msgstr "C'est parti, je suppose..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/18/s/0
 msgctxt "Choix"
 msgid "You mean like this?"
-msgstr ""
+msgstr "Tu veux dire comme ça ?"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/c-9/7
 msgctxt "Dunk"
 msgid "Can do!"
-msgstr ""
+msgstr "Avec plaisir !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/c-9/18
 msgctxt "Dunk"
 msgid "Okay, just go ahead and put your hands down in front of you, like this..."
-msgstr ""
+msgstr "Bon, pose simplement les mains devant toi, comme ça..."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/c-9/26
 msgctxt "Narrator"
 msgid "Dunk demonstrates the move for you, placing his hands on the floor and bending down in a V-shape. His movements are fluid and easy, and when he's done he turns to look over at you with a bright smile."
-msgstr ""
+msgstr "Dunk vous montre le mouvement, posant les mains au sol et se penchant en forme de V. Ses gestes sont fluides et aisés, et quand il a fini, il se tourne vers vous avec un grand sourire."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/c-9/34
 msgctxt "Dunk"
 msgid "Make sense? Your turn!"
-msgstr ""
+msgstr "C'est clair ? À toi !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-2/c-10/7
 msgctxt "Dunk"
 msgid "You got this!"
-msgstr ""
+msgstr "Tu vas y arriver !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/0
 msgctxt "Narrator"
 msgid "You bend down into a decent downward-facing dog pose, keeping your feet shoulder-width apart and placing your hands palms down on the mat ahead of you. Your body forms a graceful triangle shape."
-msgstr ""
+msgstr "Vous vous penchez en une posture du chien tête en bas tout à fait correcte, les pieds écartés à la largeur des épaules et les paumes à plat sur le tapis devant vous. Votre corps forme un gracieux triangle."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/8
 msgctxt "Narrator"
 msgid "Dunk is elated to see your excellent posture."
-msgstr ""
+msgstr "Dunk est ravi de voir votre excellente posture."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/16
 msgctxt "Dunk"
 msgid "Yeah, yeah! That's it! You're killing it!"
-msgstr ""
+msgstr "Ouais, ouais ! C'est ça ! Tu déchires !"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/27
 msgctxt "Dunk"
 msgid "Now see if you can lift your leg up behind you so you're in a kinda standing split."
-msgstr ""
+msgstr "Maintenant, essaie de lever la jambe derrière toi pour être dans une sorte de grand écart debout."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/35
 msgctxt "Narrator"
 msgid "Dunk lifts one leg from the ground until it's parallel with his arms, continuing even beyond that until he's in a proper split."
-msgstr ""
+msgstr "Dunk lève une jambe du sol jusqu'à ce qu'elle soit parallèle à ses bras, et continue même au-delà jusqu'à un véritable grand écart."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/43
 msgctxt "Narrator"
 msgid "He's surprisingly flexible for such a big guy."
-msgstr ""
+msgstr "Il est étonnamment souple pour un type aussi imposant."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/51/s/0
 msgctxt "Choix"
 msgid "<i>Do your best.</i>"
-msgstr ""
+msgstr "<i>Faire de son mieux.</i>"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/52/s/0
 msgctxt "Choix"
 msgid "I'm not doing that."
-msgstr ""
+msgstr "Je ne fais pas ça."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/53/s/0
 msgctxt "Choix"
 msgid "<i>Pull a perfect split.</i>"
-msgstr ""
+msgstr "<i>Réussir un grand écart parfait.</i>"
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/c-12/7
 msgctxt "Narrator"
 msgid "You lift your leg as far up as you can, and while you don't get anywhere close to Dunk's level of flexibility, he seems just as excited as if you had."
-msgstr ""
+msgstr "Vous levez la jambe aussi haut que possible et, même si vous n'approchez pas de la souplesse de Dunk, il paraît tout aussi enthousiaste que si vous y étiez parvenu."
 
+# Traduction IA – à relire
 #: dunk_sports/dunk_yoga_experience/0/g-3/c-12/15
 msgctxt "Dunk"
 msgid "Hey yeah, that's it! You got this!"
-msgstr ""
+msgstr "Hé ouais, c'est ça ! Tu vas y arriver !"
 
 #: dunk_sports/dunk_yoga_experience/0/g-3/c-12/26
 msgctxt "Dunk"

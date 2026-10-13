@@ -46,3 +46,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Wyndolyn : Windows and Pains → Plus belle la vitre ; Graphic Tee/Cargo Shorts/Blue Hair… → T-shirt à Motif/Bermuda Cargo/Cheveux Bleus/Salopette/Doudoune/Top Résille ; Window → FENÊTRE (NORD/EST/SUD/OUEST) (agent wyndolyn_window)
 - Beau : houseologist → maisonologue ; the Secret Sword → l'Épée Secrète ; Le Pique (épée de Jacques) à revoir (jeu « the prick ») (agent beau_box)
 - Barry : FAB-U-LOUS → FA-BU-LEUX ; Sponge Authority → Autorité des Éponges (agent barry_beauty)
+- IMPORTANT cohérence : épée de Jacques « Le Pique » → « Le Braquemart » (relecture Opus, beau_box) — à appliquer dans jacques_ship et partout ailleurs
