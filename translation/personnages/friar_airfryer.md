@@ -24,7 +24,7 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : masculin (Frère Errol, « Friar Errol » reste tel quel ; « Friar » seul = « frère »). Lui-même dit « Friar » pour corriger « Father » : « Père » / « Frère ».
+- **Genre grammatical du personnage** : masculin (nom propre « Friar Errol » conservé tel quel ; « friar » seul = « frère »). Lui-même dit « Friar » pour corriger « Father » : « Père » / « Frère ».
 - **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (formules solennelles, « pécheur·se » via {{pécheur|pécheresse|pécheur·se}}, « mon enfant », « misérable »).
 - **Le joueur ou la joueuse lui parle avec** : tu
 - **Registre** : soutenu, liturgique, hautain, très coincé ; majuscules sacrées (Vérité, Cuisine Céleste).
