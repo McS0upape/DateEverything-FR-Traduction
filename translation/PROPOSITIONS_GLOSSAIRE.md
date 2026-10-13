@@ -80,3 +80,11 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Queen Divan's Revenge → La Vengeance du Divan de la Reine ; Brazen Belle → la Belle Effrontée ; San Barcomiedo : inchangé
 - Pish → Peuh
 - À valider : gag « parler français fait plus peur » inversé en « en anglais, c'est plus effrayant » (ids 260-266)
+
+## jeanloo_toilet (agent Sonnet, 2026-10-13)
+- Crapper (cool-rapper) → crapper ; crap battle ; Lil' Crapper
+- Jean Loo-man (humain) → Jean-Loo-main ; Number Deux → Numéro Deux
+
+## prissy_plant (agent Sonnet, 2026-10-13)
+- Flirtilizer → Flirtilisant ; The Woot → le Wouhou ; Wootering Can → l'Arrosouhou
+- Stackgammon → Empilgammon ; Great Nations Park Service → Service des Parcs des Grandes Nations
