@@ -24,10 +24,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (Tydus, générale-gladiatrice, lessive en capsules)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (avec emphase archaïsante), jamais de vouvoiement
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : tragédie shakespearienne emphatique, archaïsmes (« point », « nul », « sied », subjonctifs, inversions), vers parfois rimés ; tout est bataille, honneur, sacrifice, alors que le sujet est la lessive
+- **Personnalité, manière de parler** : générale dramatique, solennelle, mélancolique et colérique ; appelle le joueur « Civil·e » puis « Commandant·e » : {{Civil|Civile|Civil·e}}, {{Commandant|Commandante|Commandant·e}}. Les Pods / Dipodgenes (capsules) sont ses soldats sacrifiés.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : Pods (garder « Pods »), Dipodgenes (nom propre), vocabulaire de lessive/bataille mêlé (« taché », « souillé », « rincé »), vers rimés isolés avec « / »
+- **Exemples de répliques traduites (référence de ton)** : « Qui ose me troubler ? » ; « Reviens quand la mêlée sera achevée, pour la victoire ou la perte. » ; « Je suis une vague écumante de passions. »
