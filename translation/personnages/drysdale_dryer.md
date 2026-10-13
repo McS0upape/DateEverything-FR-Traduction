@@ -23,10 +23,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, précieux, théâtral et pompeux, vocabulaire riche ; vantard, narcissique, flirteur, drama queen. Grossièretés rares, toujours emphatiques.
+- **Personnalité, manière de parler** : acrobate fanfaron obsédé par son corps (pectoraux, trapèzes, obliques), grandes tirades, apartés, rire « Ha HA ». Ex de Washford qu'il appelle « Washee » ; Washford l'appelle « Drydee ». Peur de l'ennui (« boring » = la mort).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : surnoms épicènes affectueux « mon ange », « mon chou », « mon petit chou à la crème » (cherub = « mon ange »), « chéri·e » via {{chéri|chérie|chéri·e}} si besoin ; « Come come » = « Allons allons » ; métaphores de pâtisserie (marshmallow, meringue) ; jeux linge/pelucheux (lint = peluche/bourre).
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Well how do you do? » -> « Eh bien, comment allez-vous... enfin, comment vas-tu ? »
+  - « Why be humble when you can be HAWT? » -> « Pourquoi être modeste quand on peut être SUUUPER canon ? »
+  - « Oh for the love of lint. » -> « Oh, par amour de la bourre. »

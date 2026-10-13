@@ -42,3 +42,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Titres parodiques (Washford) : One Hundred Beers of Solitude → Cent Bières de solitude ; Where The Red Fern Doze → Là où somnole la fougère rouge ; Fantastique Chemise Rouge à harmoniser (agent washford_washer)
 - Zoey : Ohmigod → Omondieu ; Corpsey the Corpse → Cadavérine le Cadavre ; seance board → planche de spiritisme (agent zoey_ghost)
 - Eddie : live wire → pile électrique ; Open Spotlight → Scène ouverte ; High Voltage Realty → Haute Tension Immobilier (agent eddie_electro)
+- Curt & Rod : shade/throwing shade → chambrer, chambrage, « Roi du Chambrage » ; Chuckle Channel → Chaîne du Rire ; throuple → trouple (agent curtrod_curtain)
