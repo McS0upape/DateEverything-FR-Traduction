@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier chaleureux, accent du Sud (élisions : « j'sais pas », « j'vais », « d'jà », « m'en vais »), coquin, taquin
+- **Personnalité, manière de parler** : chauffe-eau sudiste, mûre, séductrice, maternelle, qui taquine. Surnoms épicènes uniquement : « mon coeur », « mon sucre », « mon ange », « trésor » (darlin' / sweetheart / sweetness). « Bless your heart » -> « Béni soit ton petit coeur ».
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : double sens eau chaude / désir (« bouillir », « chauffer », « monter en pression », « vapeur », « cycles »). Veilleuse = pilot light. « Hunky hunk » -> « beau gosse parmi les beaux gosses ». Rires « Hehe ».
+- **Exemples de répliques traduites (référence de ton)** : « Tu m'as fait perdre mes moyens, c'est tout. » ; « Mon coeur, tu me fais bouillonner. » ; « Béni soit ton petit coeur. »

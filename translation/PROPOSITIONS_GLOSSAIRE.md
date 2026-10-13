@@ -93,3 +93,7 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - the Smokes → les Clopes ; crawlspace → vide sanitaire ; hateship → hainitié
 - Firewatch Deputy → adjointe de veille incendie ; deputy firefighter → pompier adjoint / pompière adjointe
 - BEEP → BIP, <w>BLEEP → <w>BIIIP
+
+## hoove_vacuum (agent Sonnet, 2026-10-13)
+- Grime Scene → Scène de crasse ; Hankees / Socks / ValdiviArena : inchangés
+- liquid courage → courage liquide ; attachment (aspirateur) → accessoire / embout
