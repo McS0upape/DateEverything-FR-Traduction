@@ -59,3 +59,11 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Scandalabra : invariable (« le Scandalabra » avec article)
 - ghost kitchens → cuisines fantômes
 - À vérifier : « Hall of Quadratus » → « Salle des Quadratus » (ids 745-746)
+
+## ironaldini_iron (agent Sonnet, 2026-10-13)
+- Spicy Iron (cocktail) → Fer Épicé
+- Ron the Iron → Ron le Fer
+- MagiFlat, Kazaam, Lloydminster (Saskatchewan) : inchangés
+
+## friar_airfryer (agent Sonnet, 2026-10-13)
+- Oiled Pitchfork → Fourche Huilée ; Oily Oblivion → Oubli Huileux ; Valdivian (entreprise) : inchangé
