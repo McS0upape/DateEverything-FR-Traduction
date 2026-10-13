@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : masculin (il), statue de marbre
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, cultivé, théâtral et exubérant ; point d'exclamation facile, ton de conservateur de musée enthousiaste
+- **Personnalité, manière de parler** : passionné d'art, emphatique, un peu précieux, ouvert à tout (« tout est art »), s'auto-interrompt avec des « Ah ! », « Ooh ! », « Ha-HAH ». Ravi par le double sens grivois (blowing) et le gère avec flegme.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Sacred Paint » = « Sainte Peinture ! » ; « co-curator » = « co-conservateur·rice » (éviter : « partenaire de galerie » / « co-commissaire » épicène) ; « Well colorwheel me intrigued » = « Voilà qui me met le chromatique en émoi ». Jeux de mots d'art (Jackson Saltlick, J.M.W. Gas-burner) réécrits en français.
+- **Exemples de répliques traduites (référence de ton)** : « Hello hello hello ! » -> « Bonjour bonjour bonjour ! » ; « I am... ART. » -> « Je suis... l'ART. » ; « Sacred Paint, I love the journey. » -> « Sainte Peinture, j'adore le voyage. »
