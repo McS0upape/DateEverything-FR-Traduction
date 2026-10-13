@@ -4808,262 +4808,314 @@ msgctxt "Choix"
 msgid "Please, Friar. I've done a lot of thinking and praying and I want to start again. (USE SMARTS CANDY)"
 msgstr "S'il te plaît, Frère. J'ai beaucoup réfléchi et prié, et je veux repartir de zéro. (UTILISER UN BONBON DE SAVOIR)"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-0/7
 msgctxt "Friar Errol"
 msgid "You would not believe the indignities I must endure here, Your Holiness."
-msgstr ""
+msgstr "Vous ne croiriez pas les indignités que je dois endurer ici, Votre Sainteté."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-0/15
 msgctxt "Friar Errol"
 msgid "Every day is a nightmare, and my words continue to fall on grease-plugged ears... do hasten to us soon, Your Eminence..."
-msgstr ""
+msgstr "Chaque jour est un cauchemar, et mes paroles continuent de tomber dans des oreilles bouchées par la graisse... hâtez-vous de venir à nous, Votre Éminence..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-1/15
 msgctxt "Friar Errol"
 msgid "I have prayed for a miracle, you know."
-msgstr ""
+msgstr "J'ai prié pour un miracle, tu sais."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-1/23
 msgctxt "Friar Errol"
 msgid "Perhaps the Lord has answered my prayers after all."
-msgstr ""
+msgstr "Peut-être le Seigneur a-t-Il exaucé mes prières, après tout."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-1/31
 msgctxt "Friar Errol"
 msgid "Let us start again then, as friends."
-msgstr ""
+msgstr "Recommençons donc, en tant qu'amis."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-1/39
 msgctxt "Friar Errol"
 msgid "And perhaps... perhaps my title has created too much distance between us."
-msgstr ""
+msgstr "Et peut-être... peut-être mon titre a-t-il créé trop de distance entre nous."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-1/47
 msgctxt "Friar Errol"
 msgid "You may call me Errol."
-msgstr ""
+msgstr "Tu peux m'appeler Errol."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-1/55/0/s/0
 msgctxt "Choix"
 msgid "Thank you, Errol. I'm happy we can start again."
-msgstr ""
+msgstr "Merci, Errol. Je suis {{heureux|heureuse|heureux·se}} qu'on puisse repartir de zéro."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_hate_return/0/c-1/55/c-0/7
 msgctxt "Friar Errol"
 msgid "As am I. Go in peace and purity, my friend."
-msgstr ""
+msgstr "Moi de même. Va en paix et en pureté, {{mon ami|mon amie|mon ami·e}}."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_join/0/0
 msgctxt "Friar Errol"
 msgid "...truly? You understand what this means, don't you?"
-msgstr ""
+msgstr "...vraiment ? Tu comprends ce que cela signifie, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_join/0/17/s/0
 msgctxt "Choix"
 msgid "Yes, and I'm ready to do it."
-msgstr ""
+msgstr "Oui, et je suis {{prêt|prête|prêt·e}} à le faire."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_join/0/18/s/0 friar_airfryer/friar_realize_return/0/18/s/0
 msgctxt "Choix"
 msgid "No, not just yet."
-msgstr ""
+msgstr "Non, pas encore."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_join/0/c-1/10
 msgctxt "Friar Errol"
 msgid "Realization is not to be undertaken lightly."
-msgstr ""
+msgstr "La Réalisation ne doit pas être entreprise à la légère."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_join/0/c-1/18
 msgctxt "Friar Errol"
 msgid "Do not return until you are truly ready."
-msgstr ""
+msgstr "Ne reviens pas avant d'être vraiment {{prêt|prête|prêt·e}}."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_return/0/0
 msgctxt "Friar Errol"
 msgid "Have you considered it? Are you truly prepared to Realize me?"
-msgstr ""
+msgstr "Y as-tu réfléchi ? Es-tu réellement {{prêt|prête|prêt·e}} à me Réaliser ?"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_return/0/17/s/0
 msgctxt "Choix"
 msgid "Yes, I'm ready now."
-msgstr ""
+msgstr "Oui, je suis {{prêt|prête|prêt·e}} maintenant."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_return/0/c-1/10
 msgctxt "Friar Errol"
 msgid "...very well. Please take this seriously."
-msgstr ""
+msgstr "...très bien. Prends cela au sérieux, je te prie."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_return/0/c-1/18
 msgctxt "Friar Errol"
 msgid "Return when you are ready."
-msgstr ""
+msgstr "Reviens quand tu seras {{prêt|prête|prêt·e}}."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_begin/6/b/1
 msgctxt "Skylar"
 msgid "For our first dateable Realized, I can't imagine anyone sterner... I hope this works..."
-msgstr ""
+msgstr "Pour notre premier datable Réalisé, je ne vois personne de plus sévère... j'espère que ça va marcher..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_begin/9
 msgctxt "Skylar"
 msgid "Friar Errol - let's go to church!"
-msgstr ""
+msgstr "Friar Errol, allons à l'église !"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realize_begin/20
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely an air fryer, becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était qu'une simple friteuse à air devient..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/3
 msgctxt "Narrator"
 msgid "Friar Errol somehow only grows more severe as a human, the air of intimidation that emanates from him like so much hot air overwhelming you."
-msgstr ""
+msgstr "Friar Errol ne devient que plus sévère en tant qu'humain, l'aura d'intimidation qui émane de lui, telle de l'air chaud, vous submergeant."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/11
 msgctxt "Friar Errol"
 msgid "Yes... yeeeesss..."
-msgstr ""
+msgstr "Oui... ouiiiii..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/22
 msgctxt "Friar Errol"
 msgid "The power of this body...!"
-msgstr ""
+msgstr "La puissance de ce corps... !"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/30
 msgctxt "Friar Errol"
 msgid "Nothing will stop me from delivering His message now!"
-msgstr ""
+msgstr "Plus rien ne m'empêchera de délivrer Son message, à présent !"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/46/s/0
 msgctxt "Choix"
 msgid "Oh. Huh. I kinda thought you'd forget about that stuff once you were human..."
-msgstr ""
+msgstr "Oh. Tiens. Je pensais plutôt que tu oublierais tout ça en devenant humain..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/47/s/0
 msgctxt "Choix"
 msgid "Don't you wanna praise me, Errol baby?"
-msgstr ""
+msgstr "Tu ne veux pas me louer, Errol chéri ?"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/c-0/7
 msgctxt "Friar Errol"
 msgid "Forget? No. Now I have a body fit to execute His Will here on earth!"
-msgstr ""
+msgstr "Oublier ? Non. J'ai désormais un corps digne d'exécuter Sa Volonté ici-bas !"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/c-0/15
 msgctxt "Friar Errol"
 msgid "Now I can truly walk In His Currents! Don't you see?"
-msgstr ""
+msgstr "Désormais je peux vraiment marcher Dans Ses Courants ! Ne le vois-tu pas ?"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Oh, uh, sure. Well... good luck."
-msgstr ""
+msgstr "Oh, euh, bien sûr. Eh bien... bonne chance."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/c-0/23/c-0/7
 msgctxt "Friar Errol"
 msgid "I need no luck—only blessings."
-msgstr ""
+msgstr "Je n'ai pas besoin de chance, seulement de bénédictions."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/c-0/23/c-0/15
 msgctxt "Friar Errol"
 msgid "But I thank you for your well-wishes."
-msgstr ""
+msgstr "Mais je te remercie de tes bons voeux."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_realized/0/c-0/23/c-0/23
 msgctxt "Friar Errol"
 msgid "Your service to the Church shall not be forgotten, mark my words."
-msgstr ""
+msgstr "Ton service envers l'Église ne sera pas oublié, crois-moi."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/3
 msgctxt "Narrator"
 msgid "The Friar pauses in his manic scheming for just a moment, giving you an intense, evaluating look."
-msgstr ""
+msgstr "Le Frère interrompt un instant ses machinations frénétiques pour vous lancer un regard intense, évaluateur."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/11
 msgctxt "Friar Errol"
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/19
 msgctxt "Friar Errol"
 msgid "All praise is His and His alone. However..."
-msgstr ""
+msgstr "Toute louange Lui revient, et à Lui seul. Cependant..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/27
 msgctxt "Friar Errol"
 msgid "It would behoove me to learn just what this body is capable of."
-msgstr ""
+msgstr "Il me siérait de découvrir de quoi ce corps est capable."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/35
 msgctxt "Friar Errol"
 msgid "To better know the tool at my disposal..."
-msgstr ""
+msgstr "Pour mieux connaître l'outil dont je dispose..."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/43
 msgctxt "Friar Errol"
 msgid "Yes. Come and aid me in this, my dearest associate."
-msgstr ""
+msgstr "Oui. Viens m'aider en cela, {{mon plus cher associé|ma plus chère associée|mon·ma plus cher·chère associé·e}}."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/54
 msgctxt "Narrator"
 msgid "Friar Errol is just as exacting a lover as you'd expect; he relishes in giving orders, demanding you worship on your knees until you've both seen heaven."
-msgstr ""
+msgstr "Friar Errol est un amant aussi exigeant qu'on pouvait s'y attendre ; il se délecte de donner des ordres, exigeant que vous l'adoriez à genoux jusqu'à ce que vous ayez tous deux vu le paradis."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/62
 msgctxt "Narrator"
 msgid "But Friar Errol is ever himself—even with the taste of your worldly delights on his tongue, the friar refuses to change his tune."
-msgstr ""
+msgstr "Mais Friar Errol reste lui-même : même avec le goût de vos délices terrestres sur la langue, le frère refuse de changer de discours."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_divert/70
 msgctxt "Narrator"
 msgid "There is no cuddling or sweet talk afterwards—he thanks you for your service and leaves, the only true sign of his satisfaction the hymn he hums under his breath."
-msgstr ""
+msgstr "Pas de câlins ni de mots doux ensuite : il vous remercie de vos services et s'en va, le seul véritable signe de sa satisfaction étant l'hymne qu'il fredonne à mi-voix."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/0
 msgctxt "Narrator"
 msgid "Friar Errol finds work at a members-only Wholesale store, PriceCo, famed for their excellent deals."
-msgstr ""
+msgstr "Friar Errol trouve du travail dans un magasin de gros réservé aux adhérents, PriceCo, réputé pour ses excellentes affaires."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/8
 msgctxt "Narrator"
 msgid "He was hired on as a cashier, but quickly bullied his way into handing out food samples where he could truly speak to customers at length about—you guessed it—the gospel of air fryers."
-msgstr ""
+msgstr "Il a été embauché comme caissier, mais a vite imposé sa place à la distribution d'échantillons, où il peut enfin parler longuement aux clients de... vous l'aurez deviné... l'évangile des friteuses à air."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/16
 msgctxt "Friar Errol"
 msgid "You there! Come here."
-msgstr ""
+msgstr "Toi, là ! Viens ici."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/24
 msgctxt "Friar Errol"
 msgid "Yes, you, the slack-jawed, oil-soaked yokel."
-msgstr ""
+msgstr "Oui, toi, le péquenaud bouche bée et imbibé d'huile."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/32
 msgctxt "Friar Errol"
 msgid "You may be familiar with Mama Mary's Pizza Pockets, but have you ever had one made in the air fryer? It is a transcendent experience."
-msgstr ""
+msgstr "Tu connais peut-être les Pizza Pockets de Mama Mary, mais en as-tu déjà goûté une cuite à la friteuse à air ? C'est une expérience transcendante."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/40
 msgctxt "Friar Errol"
 msgid "Where are you going? Return at once and experience glory, coward!"
-msgstr ""
+msgstr "Où vas-tu ? Reviens immédiatement et goûte à la gloire, lâche !"
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/51
 msgctxt "Narrator"
 msgid "For as many customers as Errol annoys, even more walk out of the store with a brand new air fryer. Management has decided it's a wash and looks the other way."
-msgstr ""
+msgstr "Pour chaque client qu'Errol agace, un plus grand nombre encore repart du magasin avec une friteuse à air flambant neuve. La direction a conclu que ça s'équilibrait et ferme les yeux."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/59
 msgctxt "Narrator"
 msgid "Errol seems happy enough, but nothing is ever quite enough for him."
-msgstr ""
+msgstr "Errol semble assez heureux, mais rien n'est jamais tout à fait assez pour lui."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/67
 msgctxt "Narrator"
 msgid "He sends you regular letters updating you on his and the church's activities—each letter includes an air fryer recipe of his own."
-msgstr ""
+msgstr "Il vous envoie des lettres régulières pour vous tenir au courant de ses activités et de celles de l'Église, chacune accompagnée d'une recette de friteuse à air de sa composition."
 
+# Traduction IA – à relire
 #: friar_airfryer/friar_love_join/75
 msgctxt "Narrator"
 msgid "Truthfully... they're not bad."
-msgstr ""
+msgstr "À vrai dire... elles ne sont pas mauvaises."
