@@ -27,10 +27,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : Curt et Rod sont deux hommes (il). Dialogue à deux : accords masculins.
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (comme tout le monde).
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : très familier, argot de rue années 90, tchatche de potes. Curt est le plus snob et sûr de lui, Rod le plus brut et taquin.
+- **Personnalité, manière de parler** : duo d'amis inséparables qui se « charrient » en permanence (throwing shade = chambrer, tacler avec classe). Piques de mode et de tissu (coutures, drapé, ourlets). Surnoms au joueur ou à la joueuse : épicènes (« toi », « chef », « boss ») ou via {{...}}.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « fly » = « stylé / classe » ; « shade » = « chambrage » (« roi du chambrage ») ; « my dude » = « mon pote » entre eux ; « Yooo ! », « Naw » = « Nan », « Ain't » = négation relâchée sans « ne » ; jeux de mots textiles (threads, seams, drape, dusty).
+- **Exemples de répliques traduites (référence de ton)** : « Si tu réussis pas à nous faire rire, on veut pas l'entendre. » ; « Mes coutures sont pas finies ? MES coutures ? Continue, tu vas voir. » ; « Prends tes blagues. Ici, on aime que ça pétille. »

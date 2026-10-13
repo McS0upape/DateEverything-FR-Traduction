@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: curtrod_curtain/13 curtrod_curtain/shade_gym/0/19 curtrod_curtain/shade_foyer/0/19 curtrod_curtain/shade_bedroom/0/16 curtrod_curtain/shade_piano_room/0/19 curtrod_curtain/shade_dining_room/0/19 curtrod_curtain/shade_kitchen/0/4 curtrod_curtain/shade_office/0/19 curtrod_curtain/shade_laundry/0/13
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "CURTAINS"
-msgstr ""
+msgstr "RIDEAUX"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/0
 msgctxt "Rod"
 msgid "Oh, you trying to hang out right now?"
-msgstr ""
+msgstr "Oh, tu veux traîner avec nous, là, maintenant ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/8/b/1
 msgctxt "Curt"
 msgid "Of course they are! We're the coolest duo in this house!"
-msgstr ""
+msgstr "Bien sûr que oui ! On est le duo le plus cool de cette maison !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/9/b/1
 msgctxt "Curt"
 msgid "Of course she is! We're the coolest duo in this house!"
-msgstr ""
+msgstr "Bien sûr que oui ! On est le duo le plus cool de cette maison !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/10/b/1
 msgctxt "Curt"
 msgid "Of course he is! We're the coolest duo in this house!"
-msgstr ""
+msgstr "Bien sûr que oui ! On est le duo le plus cool de cette maison !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/13
 msgctxt "Rod"
 msgid "There ain't much happening over here, though. But, check another window or something."
-msgstr ""
+msgstr "Mais y a pas grand-chose qui se passe par ici. Va voir une autre fenêtre ou je sais pas quoi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/21
 msgctxt "Curt"
 msgid "Something has to be poppin' off somewhere else. You know, besides Rod's mouth."
-msgstr ""
+msgstr "Y a forcément un truc qui pète ailleurs. Je dis ça, c'est pas la bouche de Rod qui va te l'offrir."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/29 curtrod_curtain/shade_foyer/0/g-1/c-3/109 curtrod_curtain/shade_bedroom/0/g-1/c-7/88 curtrod_curtain/rod_chat/30
 msgctxt "Curt and Rod"
 msgid "Hahahaha!"
-msgstr ""
+msgstr "Hahahaha !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_already_visited/46
 msgctxt "Rod"
 msgid "We'll see you at the new spot!"
-msgstr ""
+msgstr "On se voit au nouveau spot !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/4
 msgctxt "Narrator"
 msgid "A charming, well-dressed duo stand with their backs to you, peering through the curtains and pointing at something outside that you can't see. They seem quite absorbed in their own conversation."
-msgstr ""
+msgstr "Un duo charmant et bien sapé se tient dos à vous, scrutant la rue à travers les rideaux et pointant du doigt quelque chose que vous ne pouvez pas voir. Ils semblent tout absorbés par leur conversation."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/15
 msgctxt "Curt"
 msgid "Look over there. Look at that. Across the street."
-msgstr ""
+msgstr "Regarde là-bas. Regarde ça. De l'autre côté de la rue."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/23
 msgctxt "Rod"
 msgid "What are we looking at?"
-msgstr ""
+msgstr "On regarde quoi ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/31
 msgctxt "Curt"
 msgid "What do you see, Rod?"
-msgstr ""
+msgstr "Qu'est-ce que tu vois, Rod ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/39
 msgctxt "Rod"
 msgid "I see a dog. I see a car that could use a wash."
-msgstr ""
+msgstr "Je vois un chien. Je vois une caisse qui aurait bien besoin d'un lavage."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/47/s/0
 msgctxt "Choix"
 msgid "Hey guys!"
-msgstr ""
+msgstr "Salut les gars !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/48/s/0
 msgctxt "Choix"
 msgid "I have Awakened you two - speak to me... the Human!"
-msgstr ""
+msgstr "Je vous ai Éveillés tous les deux, parlez à... {{l'Humain|l'Humaine|l'Humain·e}} !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/c-1/7
 msgctxt "Rod"
 msgid "... the fuck?"
-msgstr ""
+msgstr "... c'est quoi ce bordel ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/0
 msgctxt "Narrator"
 msgid "One of them turns to you, holding up a finger before turning back to his friend."
-msgstr ""
+msgstr "L'un d'eux se tourne vers vous, lève un doigt, puis se retourne vers son ami."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/8
 msgctxt "Curt"
 msgid "Hi, one second."
-msgstr ""
+msgstr "Salut, une seconde."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/16
 msgctxt "Curt"
 msgid "Now, why in the world do you think I'd care a single thread about an unwashed car."
-msgstr ""
+msgstr "Maintenant, dis-moi pourquoi diable je me soucierais d'un fil de cette voiture pleine de crasse."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/24
 msgctxt "Rod"
 msgid "I don't know what you want from life, Curt!"
-msgstr ""
+msgstr "Je sais pas ce que tu veux de la vie, Curt !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/32
 msgctxt "Curt"
 msgid "The shoes, my dude! The shoes!"
-msgstr ""
+msgstr "Les chaussures, mon pote ! Les chaussures !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/40
 msgctxt "Rod"
 msgid "Ooooo! You were looking at the neighbor's shoes."
-msgstr ""
+msgstr "Ooooo ! Tu matais les pompes du voisin."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/48
 msgctxt "Rod"
 msgid "Those are niiiiiice!"
-msgstr ""
+msgstr "Elles sont troooop classes !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/56
 msgctxt "Curt"
 msgid "Right? That's what I'm saying."
-msgstr ""
+msgstr "Pas vrai ? C'est ce que je dis."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/64/s/0
 msgctxt "Choix"
 msgid "Hey there."
-msgstr ""
+msgstr "Salut."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-0/65/s/0
 msgctxt "Choix"
 msgid "Bruh."
-msgstr ""
+msgstr "Wesh."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-1/0
 msgctxt "Rod"
 msgid "Uhuh. Hold on."
-msgstr ""
+msgstr "Ouais, ouais. Attends."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-1/8
 msgctxt "Rod"
 msgid "Those are way better than those shoes we saw last week."
-msgstr ""
+msgstr "Elles sont bien meilleures que celles qu'on a vues la semaine dernière."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-1/16
 msgctxt "Curt"
 msgid "Ain't that the truth. Only time I wished Wyndolyn would have fogged up."
-msgstr ""
+msgstr "Ça, c'est sûr. La seule fois où j'aurais voulu que Wyndolyn se couvre de buée."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-1/27
 msgctxt "Rod"
 msgid "Those kicks could have kicked rocks!"
-msgstr ""
+msgstr "Ces pompes, elles pouvaient aller se faire voir à pied !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-1/35 curtrod_curtain/curtrod_realize_friend_join/38
 msgctxt "Curt and Rod"
 msgid "Hahaha!"
-msgstr ""
+msgstr "Hahaha !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-1/52/s/0
 msgctxt "Choix"
 msgid "Hellooooo!!!"
-msgstr ""
+msgstr "Coucouuuu !!!"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-1/53/s/0
 msgctxt "Choix"
 msgid "HAHAHAHAHAHAHA!!"
-msgstr ""
+msgstr "HAHAHAHAHAHAHA !!"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/0
 msgctxt "Rod"
 msgid "...what was that about?"
-msgstr ""
+msgstr "... c'était quoi, ça ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/11
 msgctxt "Curt"
 msgid "Rod! Don't be so rude!"
-msgstr ""
+msgstr "Rod ! Sois pas si impoli !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/19
 msgctxt "Rod"
 msgid "I'm just giving what I was receiving."
-msgstr ""
+msgstr "Je rends juste ce qu'on me donne."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/27
 msgctxt "Curt"
 msgid "You'll have to excuse Rod. His tact leaves a lot to be desired."
-msgstr ""
+msgstr "Excuse Rod. Son tact laisse sérieusement à désirer."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/35
 msgctxt "Rod"
 msgid "There you go, talking about me like I'm not here."
-msgstr ""
+msgstr "Voilà, tu parles de moi comme si j'étais pas là."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/43
 msgctxt "Curt"
 msgid "Naw, I'm talking about you so you can hear. There's a difference."
-msgstr ""
+msgstr "Nan, je parle de toi pour que tu m'entendes. C'est pas pareil."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/51
 msgctxt "Rod"
 msgid "See, that's why your seams are unfinished!"
-msgstr ""
+msgstr "Tu vois, c'est pour ça que tes coutures sont pas finies !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/62
 msgctxt "Curt"
 msgid "My seams are unfinished? MY seams are unfinished? Keep talking, see what happens."
-msgstr ""
+msgstr "Mes coutures sont pas finies ? MES coutures sont pas finies ? Continue, tu vas voir."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/73
 msgctxt "Rod"
 msgid "You ain't gonna do nothin'. You love me too much."
-msgstr ""
+msgstr "Tu feras rien du tout. Tu m'aimes trop."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/81
 msgctxt "Curt"
 msgid "Yeah, okay. Don't say that too loud. Everyone else might start believing it."
-msgstr ""
+msgstr "Ouais, ok. Dis-le pas trop fort. Les autres pourraient finir par le croire."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/92/s/0
 msgctxt "Choix"
 msgid "Are... you two okay?"
-msgstr ""
+msgstr "Vous... vous allez bien, tous les deux ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/93/s/0
 msgctxt "Choix"
 msgid "You both hate each other, don't you?"
-msgstr ""
+msgstr "Vous vous détestez, c'est ça ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/94/s/0
 msgctxt "Choix"
 msgid "How long have you two known each other?"
-msgstr ""
+msgstr "Ça fait combien de temps que vous vous connaissez ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-2/c-7/7
 msgctxt "Curt"
 msgid "What? Why would you think that? Rod's my best friend."
-msgstr ""
+msgstr "Quoi ? Pourquoi tu penses ça ? Rod, c'est mon meilleur pote."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/0
 msgctxt "Rod"
 msgid "Curt and I have been together forever."
-msgstr ""
+msgstr "Curt et moi, on est ensemble depuis toujours."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/11
 msgctxt "Curt"
 msgid "I'm like his brother."
-msgstr ""
+msgstr "C'est comme mon frère."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/19
 msgctxt "Rod"
 msgid "But not my brother."
-msgstr ""
+msgstr "Mais pas mon frère."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/27
 msgctxt "Curt"
 msgid "If we were related, you might actually be polished."
-msgstr ""
+msgstr "Si on était de la famille, tu serais peut-être enfin poli."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/35
 msgctxt "Rod"
 msgid "We both know you wouldn't look good unless you were next to me."
-msgstr ""
+msgstr "On sait tous les deux que tu serais moche si t'étais pas à côté de moi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/43
 msgctxt "Curt"
 msgid "Who told you that lie?"
-msgstr ""
+msgstr "Qui t'a sorti ce mensonge ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/51
 msgctxt "Curt"
 msgid "Say. Who do you think looks better? Me or this delusional drape I call my friend?"
-msgstr ""
+msgstr "Dis-moi. Qui est le plus beau, d'après toi ? Moi ou ce drapé délirant que j'appelle mon ami ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/59/s/0
 msgctxt "Choix"
 msgid "Uhh... you both look good?"
-msgstr ""
+msgstr "Euh... vous êtes beaux tous les deux ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/60/s/0
 msgctxt "Choix"
 msgid "You know it's you, Curt."
-msgstr ""
+msgstr "Tu sais bien que c'est toi, Curt."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curtrod_intro/0/g-3/61/s/0
 msgctxt "Choix"
 msgid "Rod is rockin' it."
-msgstr ""
+msgstr "Rod, il assure."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/0
 msgctxt "Rod"
 msgid "Pssssssssh!"
-msgstr ""
+msgstr "Pfffffffff !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/8
 msgctxt "Curt"
 msgid "Laaaaaame."
-msgstr ""
+msgstr "Nuuuuul."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/16
 msgctxt "Rod"
 msgid "I know it's me. That's fine. It'll be our little secret."
-msgstr ""
+msgstr "Je sais que c'est moi. C'est bon. Ça restera notre petit secret."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/24/b/1
 msgctxt "Curt"
 msgid "Don't even try to make them lie. They are just trying to make you feel good. I'm the fly one."
-msgstr ""
+msgstr "Essaie même pas de lui faire dire un mensonge. Iel veut juste te faire plaisir. Le stylé, c'est moi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/25/b/1
 msgctxt "Curt"
 msgid "Don't even try to make her lie. She is just trying to make you feel good. I'm the fly one."
-msgstr ""
+msgstr "Essaie même pas de lui faire dire un mensonge. Elle veut juste te faire plaisir. Le stylé, c'est moi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/26/b/1
 msgctxt "Curt"
 msgid "Don't even try to make him lie. He is just trying to make you feel good. I'm the fly one."
-msgstr ""
+msgstr "Essaie même pas de lui faire dire un mensonge. Il veut juste te faire plaisir. Le stylé, c'est moi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/29/s/0
 msgctxt "Choix"
 msgid "Why do you talk like you're from the 90s?"
-msgstr ""
+msgstr "Pourquoi vous parlez comme si vous étiez des années 90 ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/30/s/0
 msgctxt "Choix"
 msgid "You're both fly! You don't have to be so mean."
-msgstr ""
+msgstr "Vous êtes stylés tous les deux ! Pas la peine d'être aussi méchants."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/31/s/0
 msgctxt "Choix"
 msgid "You are, Curt!"
-msgstr ""
+msgstr "C'est toi, Curt !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/32/s/0
 msgctxt "Choix"
 msgid "I'm team Rod."
-msgstr ""
+msgstr "Je suis team Rod."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/7
 msgctxt "Rod"
 msgid "Product of our time. That's when we were made. Solid thrift store find."
-msgstr ""
+msgstr "Produits de notre époque. C'est là qu'on a été faits. Belle trouvaille de friperie."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/15
 msgctxt "Curt"
 msgid "The fact someone thought we were out of style... ridiculous."
-msgstr ""
+msgstr "Que quelqu'un ait pu nous croire démodés... ridicule."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/23
 msgctxt "Rod"
 msgid "The last place we were? Busted."
-msgstr ""
+msgstr "Le dernier endroit où on était ? Pourri."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/34
 msgctxt "Curt"
 msgid "Tore up from the floor up."
-msgstr ""
+msgstr "Défoncé de la cave au grenier."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/45
 msgctxt "Rod"
 msgid "And it made you wanna throw up!"
-msgstr ""
+msgstr "Et ça donnait envie de rendre son déjeuner !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/53
 msgctxt "Curt"
 msgid "Hahahahaha! Solid landing."
-msgstr ""
+msgstr "Hahahahaha ! Belle réception."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/61
 msgctxt "Rod"
 msgid "See? I've got the looks and the jokes."
-msgstr ""
+msgstr "Tu vois ? J'ai le look et les blagues."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/69
 msgctxt "Curt"
 msgid "Only joke you got is what you've got on."
-msgstr ""
+msgstr "La seule blague chez toi, c'est ce que t'as sur le dos."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/77/0/s/0
 msgctxt "Choix"
 msgid "You two are pretty mean to each other."
-msgstr ""
+msgstr "Vous êtes assez méchants l'un avec l'autre."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/77/1/s/0
 msgctxt "Choix"
 msgid "That was a good one. It is a pretty ugly shirt."
-msgstr ""
+msgstr "Celle-là était bonne. C'est vrai qu'elle est assez moche, cette chemise."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/77/c-0/7 curtrod_curtain/Neutral_answer/0/c-3/7
 msgctxt "Curt"
 msgid "Now, hold on a second."
-msgstr ""
+msgstr "Attends une seconde."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/c-0/77/c-1/7
 msgctxt "Curt"
 msgid "Daaaamn! You didn't have to go that hard."
-msgstr ""
+msgstr "Aïe aïe aïe ! T'avais pas besoin de taper aussi fort."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/g-0/0
 msgctxt "Curt"
 msgid "One thing you gotta realize is that we aren't mean to each other."
-msgstr ""
+msgstr "Faut que tu comprennes un truc : on n'est pas méchants l'un avec l'autre."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/g-0/8
 msgctxt "Rod"
 msgid "Naw, this is my homie. For life."
-msgstr ""
+msgstr "Nan, c'est mon poto. Pour la vie."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/g-0/16
 msgctxt "Curt"
 msgid "We're just a little shady."
-msgstr ""
+msgstr "On chambre juste un peu."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "Aren't they the same thing?"
-msgstr ""
+msgstr "C'est pas la même chose ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "I... I don't... what?"
-msgstr ""
+msgstr "Je... je comprends pas... quoi ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Neutral_answer/0/g-0/26/s/0
 msgctxt "Choix"
 msgid "If we're talking throwing shade, I'm all about it."
-msgstr ""
+msgstr "Si on parle de chambrage, moi je suis à fond."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/0
 msgctxt "Rod"
 msgid "Yoooo! What? Naw. I claim bias."
-msgstr ""
+msgstr "Yoooo ! Quoi ? Nan. Je dénonce un parti pris."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/8
 msgctxt "Curt"
 msgid "You don't even know what that means!"
-msgstr ""
+msgstr "Tu sais même pas ce que ça veut dire !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/16/b/1
 msgctxt "Rod"
 msgid "You asked the question, so they sided with you! Bias!"
-msgstr ""
+msgstr "C'est toi qui as posé la question, donc iel est de ton côté ! Parti pris !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/17/b/1
 msgctxt "Rod"
 msgid "You asked the question, so she sided with you! Bias!"
-msgstr ""
+msgstr "C'est toi qui as posé la question, donc elle est de ton côté ! Parti pris !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/18/b/1
 msgctxt "Rod"
 msgid "You asked the question, so he sided with you! Bias!"
-msgstr ""
+msgstr "C'est toi qui as posé la question, donc il est de ton côté ! Parti pris !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/21
 msgctxt "Curt"
 msgid "...okay, so you do know what the word means."
-msgstr ""
+msgstr "... ok, donc tu sais ce que ça veut dire."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/29
 msgctxt "Rod"
 msgid "I bet if I asked Wyndolyn, she would..."
-msgstr ""
+msgstr "Je parie que si je demandais à Wyndolyn, elle..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/40
 msgctxt "Curt"
 msgid "You ain't 'bout to ask Wyndolyn nothing. Take the L and admit you just about as dusty as that car out front."
-msgstr ""
+msgstr "Tu vas rien demander du tout à Wyndolyn. Prends ta claque et avoue que t'es aussi poussiéreux que la caisse là-devant."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/48
 msgctxt "Rod"
 msgid "Oh, you got jokes!"
-msgstr ""
+msgstr "Oh, tu fais des blagues !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/56
 msgctxt "Curt"
 msgid "And style. And charm. Thank you for paying attention."
-msgstr ""
+msgstr "Et j'ai du style. Et du charme. Merci de ton attention."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/64/s/0
 msgctxt "Choix"
 msgid "This is tough to listen to."
-msgstr ""
+msgstr "C'est dur à écouter."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/65/s/0
 msgctxt "Choix"
 msgid "You don't seem like friends. Like, at all."
-msgstr ""
+msgstr "On dirait pas des amis. Genre, pas du tout."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/66/s/0
 msgctxt "Choix"
 msgid "You guys have great chemistry together."
-msgstr ""
+msgstr "Vous avez une super alchimie, tous les deux."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/0
 msgctxt "Curt"
 msgid "Why is that? Because we pull each other's threads?"
-msgstr ""
+msgstr "Pourquoi ça ? Parce qu'on se tire les fils ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/8
 msgctxt "Rod"
 msgid "What good is a platonic life partner if you can't clown on 'em every now and then."
-msgstr ""
+msgstr "À quoi ça sert, un meilleur pote, si on peut pas le charrier de temps en temps ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/16
 msgctxt "Curt"
 msgid "And with a face like his, he makes it easy."
-msgstr ""
+msgstr "Et avec une tête comme la sienne, il me facilite la tâche."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/24
 msgctxt "Rod"
 msgid "At least my attitude ain't stank like yours."
-msgstr ""
+msgstr "Au moins, mon caractère pue pas comme le tien."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/32
 msgctxt "Curt"
 msgid "My attitude is great."
-msgstr ""
+msgstr "Mon caractère est génial."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/40
 msgctxt "Rod"
 msgid "Maaaaaan. If your personality had a scent, it would be mothballs with mildew."
-msgstr ""
+msgstr "Maaaaan. Si ta personnalité avait une odeur, ce serait de la naphtaline avec de la moisissure."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/48
 msgctxt "Curt"
 msgid "Okay, okay! That was a good one."
-msgstr ""
+msgstr "Ok, ok ! Celle-là était bonne."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/56/s/0
 msgctxt "Choix"
 msgid "Oooh, burn! You smell like mold!"
-msgstr ""
+msgstr "Oooh, ça brûle ! Tu sens le moisi !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/57/s/0
 msgctxt "Choix"
 msgid "That was a bit harsh, don't you think so?"
-msgstr ""
+msgstr "C'était un peu dur, tu trouves pas ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/c-3/7
 msgctxt "Rod"
 msgid "Woah. Okay there. Calm down."
-msgstr ""
+msgstr "Woah. Ok, doucement."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-0/c-4/7
 msgctxt "Rod"
 msgid "I mean, there's an art to it."
-msgstr ""
+msgstr "Je veux dire, il y a un art là-dedans."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-1/0
 msgctxt "Curt"
 msgid "He's being shady, not mean."
-msgstr ""
+msgstr "Il chambre, il est pas méchant."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "But... what's the difference?"
-msgstr ""
+msgstr "Mais... c'est quoi la différence ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "What does the sun have to do with any of this?"
-msgstr ""
+msgstr "Qu'est-ce que le soleil vient faire là-dedans ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Curt_answer/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "Ah, I gotcha."
-msgstr ""
+msgstr "Ah, je vois."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/0
 msgctxt "Rod"
 msgid "That's what I'm saying!"
-msgstr ""
+msgstr "C'est ce que je dis !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/8
 msgctxt "Rod"
 msgid "You think I'm cute?"
-msgstr ""
+msgstr "Tu me trouves mignon ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/16/b/1
 msgctxt "Rod"
 msgid "You hear that, Curt? You hear what they said?"
-msgstr ""
+msgstr "T'entends ça, Curt ? T'as entendu ce qu'iel a dit ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/17/b/1
 msgctxt "Rod"
 msgid "You hear that, Curt? You hear what she said?"
-msgstr ""
+msgstr "T'entends ça, Curt ? T'as entendu ce qu'elle a dit ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/18/b/1
 msgctxt "Rod"
 msgid "You hear that, Curt? You hear what he said?"
-msgstr ""
+msgstr "T'entends ça, Curt ? T'as entendu ce qu'il a dit ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/21
 msgctxt "Curt"
 msgid "...yes."
-msgstr ""
+msgstr "... oui."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/29
 msgctxt "Rod"
 msgid "I'm the cute one! I stay shining!"
-msgstr ""
+msgstr "Le mignon, c'est moi ! Je reste brillant !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/40/b/1
 msgctxt "Curt"
 msgid "They didn't say all that. I bet they're just being nice."
-msgstr ""
+msgstr "Iel a pas dit tout ça. Je parie qu'iel est juste gentil·le."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/41/b/1
 msgctxt "Curt"
 msgid "She didn't say all that. I bet she's just being nice."
-msgstr ""
+msgstr "Elle a pas dit tout ça. Je parie qu'elle est juste gentille."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/42/b/1
 msgctxt "Curt"
 msgid "He didn't say all that. I bet he's just being nice."
-msgstr ""
+msgstr "Il a pas dit tout ça. Je parie qu'il est juste gentil."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/45
 msgctxt "Rod"
 msgid "You should take notes."
-msgstr ""
+msgstr "Tu devrais prendre des notes."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/53
 msgctxt "Curt"
 msgid "Why? So I can school you later?"
-msgstr ""
+msgstr "Pourquoi ? Pour te donner une leçon plus tard ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/61
 msgctxt "Rod"
 msgid "Hahaha. Okay, I walked right into that one."
-msgstr ""
+msgstr "Hahaha. Ok, là, je me suis jeté dans le piège tout seul."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/69/s/0
 msgctxt "Choix"
 msgid "You shouldn't talk to each other like that."
-msgstr ""
+msgstr "Vous devriez pas vous parler comme ça."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/70/s/0
 msgctxt "Choix"
 msgid "Your attitude isn't making you any more attractive."
-msgstr ""
+msgstr "Votre attitude vous rend pas plus séduisants."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/c-0/7
 msgctxt "Rod"
 msgid "Don't you see what's going on?"
-msgstr ""
+msgstr "Tu vois pas ce qui se passe ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/c-1/7
 msgctxt "Curt"
 msgid "Woooah. Okay. You can calm that down."
-msgstr ""
+msgstr "Woooah. Ok. Tu peux te calmer."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/0
 msgctxt "Rod"
 msgid "We're just joking around."
-msgstr ""
+msgstr "On plaisante, c'est tout."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/8
 msgctxt "Curt"
 msgid "Joshin'."
-msgstr ""
+msgstr "On taquine."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/16
 msgctxt "Rod"
 msgid "Kidding."
-msgstr ""
+msgstr "On rigole."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/24
 msgctxt "Curt"
 msgid "Poking fun. Most of the time. Sometimes I have to tell Rod about himself."
-msgstr ""
+msgstr "On se moque. La plupart du temps. Des fois, faut que je dise ses quatre vérités à Rod."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/32
 msgctxt "Rod"
 msgid "Hahaha. Yeah, okay. You woke up on the wrong side of the pole today."
-msgstr ""
+msgstr "Hahaha. Ouais, ok. Tu t'es levé du mauvais côté de la tringle aujourd'hui."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/40
 msgctxt "Curt"
 msgid "You're right. I woke up next to you!"
-msgstr ""
+msgstr "T'as raison. Je me suis réveillé à côté de toi !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/48/s/0
 msgctxt "Choix"
 msgid "Okay. Call a detective. There's been a murder!"
-msgstr ""
+msgstr "Ok. Appelez un détective. Il y a eu un meurtre !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/49/s/0
 msgctxt "Choix"
 msgid "Yeah... that's just mean."
-msgstr ""
+msgstr "Ouais... ça, c'est juste méchant."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/c-2/7
 msgctxt "Rod"
 msgid "Yeah, that hit hard. Good job."
-msgstr ""
+msgstr "Ouais, ça a fait mal. Bien joué."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-0/c-3/7
 msgctxt "Rod"
 msgid "Nawwww. It's all in good fun."
-msgstr ""
+msgstr "Nawwww. C'est pour rire."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-1/0
 msgctxt "Rod"
 msgid "That's what I get for messing with the the King of Shade."
-msgstr ""
+msgstr "Voilà ce que ça donne de s'en prendre au Roi du Chambrage."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-1/8
 msgctxt "Curt"
 msgid "That's right! I'll take my crown any day now."
-msgstr ""
+msgstr "Exactement ! Qu'on me donne ma couronne, c'est quand on veut."
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "The King of Shade? What's that mean?"
-msgstr ""
+msgstr "Le Roi du Chambrage ? Ça veut dire quoi ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "So you take pride in being rude?"
-msgstr ""
+msgstr "Donc tu es fier d'être malpoli ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/Rod_answer/0/g-1/18/s/0
 msgctxt "Choix"
 msgid "You'll have to take it off my head first!"
-msgstr ""
+msgstr "Faudra d'abord me l'arracher de la tête !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/0
 msgctxt "Curt"
 msgid "Being shady isn't always a bad thing."
-msgstr ""
+msgstr "Chambrer, c'est pas toujours mal."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/8
 msgctxt "Rod"
 msgid "Oh, to the contrary. I'm shady all the time to Curt. Why? Because I love him."
-msgstr ""
+msgstr "Oh, au contraire. Je chambre Curt tout le temps. Pourquoi ? Parce que je l'aime."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/16/s/0
 msgctxt "Choix"
 msgid "Yeah... I still don't get it."
-msgstr ""
+msgstr "Ouais... je pige toujours pas."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/17/s/0
 msgctxt "Choix"
 msgid "Oh! So, it's like your love language?"
-msgstr ""
+msgstr "Oh ! Donc c'est comme votre langage de l'amour ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/c-1/7
 msgctxt "Curt"
 msgid "I guess you could say that, yeah."
-msgstr ""
+msgstr "On peut le dire comme ça, ouais."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/c-1/15
 msgctxt "Rod"
 msgid "But we have rules."
-msgstr ""
+msgstr "Mais on a des règles."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/c-1/23
 msgctxt "Curt"
 msgid "Oh yeah. You must throw shade appropriately."
-msgstr ""
+msgstr "Ah ouais. Faut chambrer comme il faut."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "What do you mean, rules?"
-msgstr ""
+msgstr "Comment ça, des règles ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady/0/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "Yeah... I don't think I really care that much."
-msgstr ""
+msgstr "Ouais... je crois que ça m'intéresse pas trop."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/0
 msgctxt "Curt"
 msgid "There are five rules to throwing shade. First off, you have to know the person."
-msgstr ""
+msgstr "Il y a cinq règles pour bien chambrer. Primo, faut connaître la personne."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/8
 msgctxt "Rod"
 msgid "Sure, you can be shady to folks you don't know, but that IS just mean."
-msgstr ""
+msgstr "Bien sûr, tu peux chambrer des gens que tu connais pas, mais là, c'est juste de la méchanceté."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/16
 msgctxt "Curt"
 msgid "Wait... we made fun of the new mail carrier just the other day..."
-msgstr ""
+msgstr "Attends... on s'est moqués du nouveau facteur pas plus tard qu'avant-hier..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/24
 msgctxt "Rod"
 msgid "That's because they were wearing that uniform with open toed sandals..."
-msgstr ""
+msgstr "C'est parce qu'il portait cet uniforme avec des sandales ouvertes..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/32
 msgctxt "Rod"
 msgid "With socks."
-msgstr ""
+msgstr "Avec des chaussettes."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/40
 msgctxt "Curt"
 msgid "Oh yeah. They asked for that one."
-msgstr ""
+msgstr "Ah ouais. Il l'avait cherché, celui-là."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/48
 msgctxt "Rod"
 msgid "This rule is one of those 'do as we say, not as we do' things."
-msgstr ""
+msgstr "Cette règle fait partie des trucs du genre « faites ce qu'on dit, pas ce qu'on fait »."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/56
 msgctxt "Curt"
 msgid "Unless we ask you to do it with us. At which point, you better come correct."
-msgstr ""
+msgstr "Sauf si on te demande de le faire avec nous. Là, t'as intérêt à assurer."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/64
 msgctxt "Rod"
 msgid "Which brings us to rule number two."
-msgstr ""
+msgstr "Ce qui nous amène à la règle numéro deux."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/72
 msgctxt "Curt"
 msgid "If the roast ain't hot, you're toast."
-msgstr ""
+msgstr "Si ton clash est pas brûlant, t'es grillé."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/80
 msgctxt "Rod"
 msgid "The shade is about the laugh at the end. Maybe even a strong guffaw."
-msgstr ""
+msgstr "Le chambrage, c'est pour le rire à la fin. Voire un bon gros éclat."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/88
 msgctxt "Curt"
 msgid "A guffaw? Are you a cartoon dog-person? 'Cus if not, I best not hear a single guffaw out of you, Rod."
-msgstr ""
+msgstr "Un éclat ? T'es un chien de dessin animé ? Parce que sinon, que j'entende pas un seul rire de Dingo sortir de toi, Rod."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/96
 msgctxt "Rod"
 msgid "Keep your aim true."
-msgstr ""
+msgstr "Vise juste."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/104
 msgctxt "Curt"
 msgid "Never bring in secondary parties. Others shouldn't be collateral damage because you decided to mix patterns and it turned out unfortunate."
-msgstr ""
+msgstr "Ne mêle jamais de tierces personnes. Les autres doivent pas être des dégâts collatéraux parce que t'as décidé de mixer les motifs et que ça a mal tourné."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/112
 msgctxt "Rod"
 msgid "I tried to throw shade on Curt's mom once..."
-msgstr ""
+msgstr "Une fois, j'ai essayé de chambrer la mère de Curt..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/120
 msgctxt "Curt"
 msgid "Mrs. Chaffon has never done anything and she will not be brought into this foolishness."
-msgstr ""
+msgstr "Madame Chaffon n'a jamais rien fait et on ne la mêlera pas à ces bêtises."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/128
 msgctxt "Rod"
 msgid "Okay. Rule four."
-msgstr ""
+msgstr "Ok. Règle quatre."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/136
 msgctxt "Curt"
 msgid "Read their body language as you read them down."
-msgstr ""
+msgstr "Lis leur langage corporel pendant que tu les lis à voix haute."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/144
 msgctxt "Rod"
 msgid "Everyone has their line and their limit. Don't be so caught up in the goofs that you step on that line."
-msgstr ""
+msgstr "Tout le monde a sa limite. Sois pas tellement emporté par les blagues que tu marches dessus."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/152
 msgctxt "Curt"
 msgid "It's easy to be on a roll and run right over your friend."
-msgstr ""
+msgstr "C'est facile de s'emballer et de rouler sur son ami."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/160
 msgctxt "Rod"
 msgid "Which is why rule number one is important. If you don't know them, you don't know what might actually make them upset."
-msgstr ""
+msgstr "C'est pour ça que la règle numéro un est importante. Si tu les connais pas, tu sais pas ce qui peut vraiment les vexer."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/168
 msgctxt "Curt"
 msgid "Right, like I don't talk about Rod's crush on the blinds at the last house."
-msgstr ""
+msgstr "Exact, comme quand je parle pas du béguin de Rod pour les stores de l'ancienne maison."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/176
 msgctxt "Rod"
 msgid "Dude... not cool."
-msgstr ""
+msgstr "Mec... pas cool."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/184
 msgctxt "Curt"
 msgid "Sorry! I was just giving an example."
-msgstr ""
+msgstr "Pardon ! Je donnais juste un exemple."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/195/s/0
 msgctxt "Choix"
 msgid "You've really thought this out."
-msgstr ""
+msgstr "Vous avez vraiment bien réfléchi à ça."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/196/s/0
 msgctxt "Choix"
 msgid "I didn't realize so much went into just talking smack."
-msgstr ""
+msgstr "Je savais pas qu'il fallait autant d'efforts pour simplement se balancer des vannes."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/0
 msgctxt "Rod"
 msgid "It's an art form."
-msgstr ""
+msgstr "C'est un art."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/8
 msgctxt "Curt"
 msgid "And there is one rule that you absolutely cannot break."
-msgstr ""
+msgstr "Et il y a une règle que tu ne dois absolument pas enfreindre."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/16
 msgctxt "Rod"
 msgid "Oh yeah, the final rule."
-msgstr ""
+msgstr "Ah ouais, la dernière règle."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/24
 msgctxt "Curt"
 msgid "Rule five is..."
-msgstr ""
+msgstr "La règle cinq, c'est..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/32
 msgctxt "Rod"
 msgid "If someone you know starts throwing shade on your friend?"
-msgstr ""
+msgstr "Si quelqu'un que tu connais se met à chambrer ton pote ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/40
 msgctxt "Curt"
 msgid "BAP BAP BAP You better prepare for war!"
-msgstr ""
+msgstr "BAP BAP BAP T'as intérêt à te préparer à la guerre !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/48
 msgctxt "Rod"
 msgid "It is your duty to fire back."
-msgstr ""
+msgstr "C'est ton devoir de riposter."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/56
 msgctxt "Curt"
 msgid "Verbal warfare has begun. Do what you gotta do."
-msgstr ""
+msgstr "La guerre verbale est déclarée. Fais ce que tu dois faire."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/64
 msgctxt "Rod"
 msgid "And yeah, those are the rules of shade. You got 'em all?"
-msgstr ""
+msgstr "Et voilà, ce sont les règles du chambrage. Tu les as toutes ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/72/s/0
 msgctxt "Choix"
 msgid "Oh yeah... I sure as hell do."
-msgstr ""
+msgstr "Oh ouais... carrément."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/73/s/0
 msgctxt "Choix"
 msgid "All five. Locked in."
-msgstr ""
+msgstr "Les cinq. Enregistrées."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/74/s/0
 msgctxt "Choix"
 msgid "I wasn't really listening, could you say that again?"
-msgstr ""
+msgstr "J'écoutais pas vraiment, tu peux répéter ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/g-0/c-4/7
 msgctxt "Curt"
 msgid "Okay okay, I appreciate the honesty."
-msgstr ""
+msgstr "Ok ok, j'apprécie l'honnêteté."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/0
 msgctxt "Curt"
 msgid "Okay. Confident. I like that in a person."
-msgstr ""
+msgstr "Ok. Confiant. J'aime ça chez les gens."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/8
 msgctxt "Rod"
 msgid "If they breathe, Curt likes them."
-msgstr ""
+msgstr "Du moment qu'ils respirent, Curt les aime bien."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/16
 msgctxt "Curt"
 msgid "You act like you're one to talk. The tree outside sways and you think it's flirting with you."
-msgstr ""
+msgstr "Tu fais comme si t'étais bien placé pour parler. L'arbre dehors se balance et tu crois qu'il te drague."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/24
 msgctxt "Rod"
 msgid "How can you not be charmed? Have you seen those branches?"
-msgstr ""
+msgstr "Comment tu peux ne pas être charmé ? T'as vu ces branches ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/32/s/0
 msgctxt "Choix"
 msgid "And the grass is just playing hard to get?"
-msgstr ""
+msgstr "Et l'herbe, elle fait juste la difficile ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/33/s/0
 msgctxt "Choix"
 msgid "Yeah... I sure have!"
-msgstr ""
+msgstr "Ouais... j'ai vu !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/c-6/7
 msgctxt "Rod"
 msgid "Was that... were you trying to..."
-msgstr ""
+msgstr "C'était... t'essayais de..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/c-6/15
 msgctxt "Curt"
 msgid "Listen. If that was your attempt at being shady..."
-msgstr ""
+msgstr "Écoute. Si c'était ta tentative de chambrage..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/explain_shady_a/0/confident_shade/c-6/23
 msgctxt "Rod"
 msgid "We might have a problem here."
-msgstr ""
+msgstr "On a peut-être un problème."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/9
 msgctxt "Curt"
 msgid "ooooooOOOOOO!"
-msgstr ""
+msgstr "ooooooOOOOOO !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/17
 msgctxt "Rod"
 msgid "Alright, now. Calm down."
-msgstr ""
+msgstr "Bon, allez. Calme-toi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/25/b/1
 msgctxt "Curt"
 msgid "They said the grass."
-msgstr ""
+msgstr "Iel a dit l'herbe."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/26/b/1
 msgctxt "Curt"
 msgid "She said the grass."
-msgstr ""
+msgstr "Elle a dit l'herbe."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/27/b/1
 msgctxt "Curt"
 msgid "He said the grass."
-msgstr ""
+msgstr "Il a dit l'herbe."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/38
 msgctxt "Curt"
 msgid "THE GRASS, ROD!"
-msgstr ""
+msgstr "L'HERBE, ROD !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/46
 msgctxt "Curt"
 msgid "Bahahahahahahaha!"
-msgstr ""
+msgstr "Bahahahahahahaha !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/57
 msgctxt "Rod"
 msgid "Oh! You can guffaw, but I can't?!"
-msgstr ""
+msgstr "Oh ! Toi, t'as le droit de te marrer, mais pas moi ?!"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/65/b/1
 msgctxt "Curt"
 msgid "Okay, okay, okay. Fair. But damn! They got you!"
-msgstr ""
+msgstr "Ok, ok, ok. C'est juste. Mais putain ! Iel t'a eu !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/66/b/1
 msgctxt "Curt"
 msgid "Okay, okay, okay. Fair. But damn! She got you!"
-msgstr ""
+msgstr "Ok, ok, ok. C'est juste. Mais putain ! Elle t'a eu !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/67/b/1
 msgctxt "Curt"
 msgid "Okay, okay, okay. Fair. But damn! He got you!"
-msgstr ""
+msgstr "Ok, ok, ok. C'est juste. Mais putain ! Il t'a eu !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/70
 msgctxt "Rod"
 msgid "You right, you right. That was a good one."
-msgstr ""
+msgstr "T'as raison, t'as raison. Elle était bonne."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_a/78
 msgctxt "Rod"
 msgid "You catch on quick."
-msgstr ""
+msgstr "Tu piges vite."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_b/9
 msgctxt "Curt"
 msgid "Okay.. that was.. you tried."
-msgstr ""
+msgstr "Ok.. c'était.. t'as essayé."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_b/17
 msgctxt "Rod"
 msgid "Yeah! That was like a... B? B minus?"
-msgstr ""
+msgstr "Ouais ! C'était genre... un B ? B moins ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_b/25
 msgctxt "Curt"
 msgid "Naw... that was a D."
-msgstr ""
+msgstr "Nan... c'était un D."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_b/33
 msgctxt "Rod"
 msgid "You right, you right."
-msgstr ""
+msgstr "T'as raison, t'as raison."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_b/41
 msgctxt "Curt"
 msgid "But you tried. So, you know... A for effort."
-msgstr ""
+msgstr "Mais t'as essayé. Donc, tu vois... A pour l'effort."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_b/49
 msgctxt "Rod"
 msgid "You'll get better in time."
-msgstr ""
+msgstr "Tu t'amélioreras avec le temps."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curt_rod_unsure/0
 msgctxt "Curt"
 msgid "Alright. I see you don't wanna learn the artform."
-msgstr ""
+msgstr "Bon. Je vois que tu veux pas apprendre l'art."
 
+# Traduction IA – à relire
 #: curtrod_curtain/curt_rod_unsure/8
 msgctxt "Rod"
 msgid "You trust that you can crack a good joke without the rules?"
-msgstr ""
+msgstr "Tu crois que tu peux sortir une bonne blague sans les règles ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/curt_rod_unsure/16
 msgctxt "Curt"
 msgid "You seem confident to me. We'll see how you stack up."
-msgstr ""
+msgstr "T'as l'air confiant. On verra ce que ça donne."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_c/4
 msgctxt "Curt"
 msgid "Yo, Rod! That fashion student is getting off the bus."
-msgstr ""
+msgstr "Yo, Rod ! L'étudiant en mode descend du bus."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_c/12
 msgctxt "Rod"
 msgid "Oooo, what are they wearing?"
-msgstr ""
+msgstr "Oooo, il porte quoi ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_c/20
 msgctxt "Curt"
 msgid "I'm not sure, but it is fly as hell!"
-msgstr ""
+msgstr "Je sais pas trop, mais c'est trop stylé !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_c/28
 msgctxt "Rod"
 msgid "We've got some people watching to do. Swing on by soon."
-msgstr ""
+msgstr "On a des gens à observer. Passe nous voir bientôt."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_c/36
 msgctxt "Rod"
 msgid "But, come holla at us at different places. Each window has a new thing to throw shade on."
-msgstr ""
+msgstr "Mais viens nous parler à différents endroits. Chaque fenêtre a un nouveau truc à chambrer."
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_c/44
 msgctxt "Curt"
 msgid "Variety is the spice of life, baby!"
-msgstr ""
+msgstr "La variété, c'est le piment de la vie, bébé !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/end_first_encounter_c/52
 msgctxt "Curt"
 msgid "Bring your jokes. We like to keep it lively here."
-msgstr ""
+msgstr "Ramène tes blagues. Ici, on aime que ça pétille."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/46
 msgctxt "Curt"
 msgid "Oh, you liftin' now?"
-msgstr ""
+msgstr "Oh, tu fais de la muscu maintenant ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/54
 msgctxt "Rod"
 msgid "Yo, chill."
-msgstr ""
+msgstr "Yo, tranquille."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/62
 msgctxt "Curt"
 msgid "I'm just kidding! You're pumping iron. We love to see it!"
-msgstr ""
+msgstr "Je plaisante ! Tu soulèves de la fonte. On adore voir ça !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/82
 msgctxt "Fantina"
 msgid "Oh my GOSH! I'm so excited that you are both here!"
-msgstr ""
+msgstr "Oh mon DIEU ! Je suis tellement contente que vous soyez là tous les deux !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/97
 msgctxt "Rod"
 msgid "Hey, Fantina!"
-msgstr ""
+msgstr "Salut, Fantina !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/105
 msgctxt "Narrator"
 msgid "Rod waves at Fantina, but Curt just gives her a tight-lipped smile."
-msgstr ""
+msgstr "Rod fait un signe à Fantina, mais Curt se contente de lui adresser un sourire crispé."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/113
 msgctxt "Fantina"
 msgid "Ahhh! You remembered my name!"
-msgstr ""
+msgstr "Ahhh ! Tu t'es souvenu de mon prénom !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/124
 msgctxt "Curt"
 msgid "...how could we forget?"
-msgstr ""
+msgstr "... comment on pourrait l'oublier ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/132
 msgctxt "Fantina"
 msgid "You think I'm memorable? See, I knew you liked me."
-msgstr ""
+msgstr "Tu me trouves mémorable ? Tu vois, je savais que tu m'aimais bien."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/140/s/0
 msgctxt "Choix"
 msgid "Curt? You like Fantina?"
-msgstr ""
+msgstr "Curt ? Tu aimes bien Fantina ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/c-0/7
 msgctxt "Fantina"
 msgid "Oh, I sure hope so! I just enjoy them so much."
-msgstr ""
+msgstr "Oh, j'espère bien ! Je les adore tellement."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/c-0/15
 msgctxt "Fantina"
 msgid "Did you know that Curt has this amazing wave dance move? It only happens when I brush up against him."
-msgstr ""
+msgstr "Savais-tu que Curt a ce super mouvement de danse en vague ? Ça arrive seulement quand je le frôle."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/c-0/23
 msgctxt "Curt"
 msgid "Please, don't."
-msgstr ""
+msgstr "S'il te plaît, non."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/c-0/34
 msgctxt "Rod"
 msgid "Are you too good to dance, now?"
-msgstr ""
+msgstr "T'es trop bien pour danser, maintenant ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/c-0/42
 msgctxt "Curt"
 msgid "Why don't you dance, Rod??"
-msgstr ""
+msgstr "Et toi, pourquoi tu danses pas, Rod ??"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/c-0/50
 msgctxt "Fantina"
 msgid "ANYWAY!"
-msgstr ""
+msgstr "BREF !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/c-0/58
 msgctxt "Fantina"
 msgid "I really like it when you do it, Curt!"
-msgstr ""
+msgstr "J'adore quand tu le fais, Curt !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "I didn't know you dance, Curt!"
-msgstr ""
+msgstr "Je savais pas que tu dansais, Curt !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "You've got moves and you've been holding back?"
-msgstr ""
+msgstr "T'as des moves et tu les gardais pour toi ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/0
 msgctxt "Fantina"
 msgid "Oh, you wouldn't believe how good they are. Really, there isn't anything like them."
-msgstr ""
+msgstr "Oh, tu n'imagines pas à quel point ils sont bons. Franchement, il n'y a rien de pareil."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/8
 msgctxt "Fantina"
 msgid "You can do it, Curt! I believe in you!"
-msgstr ""
+msgstr "Tu peux le faire, Curt ! Je crois en toi !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/19
 msgctxt "Curt"
 msgid "Naw, I'm good."
-msgstr ""
+msgstr "Nan, ça va."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/27
 msgctxt "Rod"
 msgid "You can't do it, can you?"
-msgstr ""
+msgstr "T'en es pas capable, hein ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/35
 msgctxt "Fantina"
 msgid "Curt can do anything!"
-msgstr ""
+msgstr "Curt peut tout faire !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/43
 msgctxt "Curt"
 msgid "That's right! I can do anything!"
-msgstr ""
+msgstr "Exactement ! Je peux tout faire !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/51
 msgctxt "Curt"
 msgid "I'm just... feeling a bit... Ummm..."
-msgstr ""
+msgstr "C'est juste que... je me sens un peu... Euhhh..."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/62/s/0
 msgctxt "Choix"
 msgid "You sound like a scaredy-cat! Scaredy-cat! Scaredy-cat!"
-msgstr ""
+msgstr "On dirait une poule mouillée ! Poule mouillée ! Poule mouillée !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/63/s/0
 msgctxt "Choix"
 msgid "Just admit you suck at it and move on!"
-msgstr ""
+msgstr "Avoue que t'es nul et passe à autre chose !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/64/s/0
 msgctxt "Choix"
 msgid "I sure would love to see you do that dance!"
-msgstr ""
+msgstr "J'adorerais te voir faire cette danse !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/65/s/0
 msgctxt "Choix"
 msgid "And here I thought Rod was the stiff, stubborn one."
-msgstr ""
+msgstr "Et moi qui croyais que le raide et têtu, c'était Rod."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/16
 msgctxt "Curt"
 msgid "I'm not scared!"
-msgstr ""
+msgstr "J'ai pas peur !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/24
 msgctxt "Rod"
 msgid "Sounding scared to me!"
-msgstr ""
+msgstr "Ça ressemble à de la peur pour moi !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/32
 msgctxt "Fantina"
 msgid "Are you afraid, Curt? What can I do to help calm you down?"
-msgstr ""
+msgstr "Tu as peur, Curt ? Que puis-je faire pour te calmer ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/40
 msgctxt "Curt"
 msgid "Nothing. I'm fine."
-msgstr ""
+msgstr "Rien. Ça va."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/48
 msgctxt "Fantina"
 msgid "OH! I know! How about I start a little cheer for you!"
-msgstr ""
+msgstr "OH ! Je sais ! Et si je lançais un petit chant d'encouragement pour toi !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/56
 msgctxt "Curt"
 msgid "Please... don't!"
-msgstr ""
+msgstr "S'il te plaît... non !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/64
 msgctxt "Rod"
 msgid "Please, do!"
-msgstr ""
+msgstr "S'il te plaît, si !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/72
 msgctxt "Fantina"
 msgid "Curt! Curt! CurtCurtCurt!"
-msgstr ""
+msgstr "Curt ! Curt ! CurtCurtCurt !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/83/0/s/0
 msgctxt "Choix"
 msgid "Curt! Curt!"
-msgstr ""
+msgstr "Curt ! Curt !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/83/c-0/7
 msgctxt "Curt"
 msgid "Not you, too!"
-msgstr ""
+msgstr "Toi aussi !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/83/c-0/15
 msgctxt "Rod"
 msgid "Go Curt! Go Curt! You ain't got this! But do it anyway!"
-msgstr ""
+msgstr "Allez Curt ! Allez Curt ! T'y arriveras pas ! Mais fais-le quand même !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/83/c-0/26
 msgctxt "Curt"
 msgid "Who's side are you on?"
-msgstr ""
+msgstr "T'es dans quel camp ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-3/83/c-0/34
 msgctxt "Rod"
 msgid "The one that causes you the most stress, if I'm being real."
-msgstr ""
+msgstr "Celui qui te stresse le plus, pour être honnête."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/16
 msgctxt "Curt"
 msgid "Hey now! Don't nobody suck at anything!"
-msgstr ""
+msgstr "Eh ho ! Personne est nul à rien !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/27
 msgctxt "Fantina"
 msgid "That's not a very kind thing to say! Curt is awesome!"
-msgstr ""
+msgstr "C'est pas très gentil de dire ça ! Curt est génial !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/38
 msgctxt "Curt"
 msgid "Yeah!"
-msgstr ""
+msgstr "Ouais !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/46
 msgctxt "Fantina"
 msgid "Curt is fantastic at moving!"
-msgstr ""
+msgstr "Curt est fantastique pour bouger !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/54
 msgctxt "Curt"
 msgid "The best you've ever seen!"
-msgstr ""
+msgstr "Le meilleur que t'aies jamais vu !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/62
 msgctxt "Fantina"
 msgid "Curt is by far THE BEST thing to ever cover a window!"
-msgstr ""
+msgstr "Curt est de loin LE MEILLEUR truc qui ait jamais couvert une fenêtre !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/70
 msgctxt "Curt"
 msgid "I'm good at my initial purpose and function!"
-msgstr ""
+msgstr "Je suis bon dans ma fonction d'origine !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-4/78
 msgctxt "Rod"
 msgid "Don't gas him up too much. I have to deal with him after."
-msgstr ""
+msgstr "Le gonfle pas trop. C'est moi qui me le tape après."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/16
 msgctxt "Fantina"
 msgid "See? Someone else would love to see you do it!"
-msgstr ""
+msgstr "Tu vois ? Quelqu'un d'autre adorerait te voir le faire !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/24
 msgctxt "Rod"
 msgid "Is popcorn allowed in this room? Because, this is going to be entertaining."
-msgstr ""
+msgstr "Le pop-corn est autorisé dans cette pièce ? Parce que ça va être divertissant."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/32
 msgctxt "Curt"
 msgid "I need your backup on this one, Rod."
-msgstr ""
+msgstr "J'ai besoin de ton soutien sur ce coup, Rod."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/40
 msgctxt "Rod"
 msgid "Don't worry. I'll be back here. Laughin'."
-msgstr ""
+msgstr "T'inquiète. Je serai là, au fond. À me marrer."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/48
 msgctxt "Fantina"
 msgid "YOU'VE GOT THIS, CURT!"
-msgstr ""
+msgstr "TU PEUX Y ARRIVER, CURT !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/0/s/0
 msgctxt "Choix"
 msgid "She really believes in you."
-msgstr ""
+msgstr "Elle croit vraiment en toi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/1/s/0
 msgctxt "Choix"
 msgid "She is soooo intense."
-msgstr ""
+msgstr "Elle est trooop intense."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-0/7
 msgctxt "Fantina"
 msgid "Of course I do! What's not to believe in."
-msgstr ""
+msgstr "Évidemment ! Il n'y a aucune raison de ne pas croire en toi."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-0/15
 msgctxt "Fantina"
 msgid "I know greatness when I see it."
-msgstr ""
+msgstr "Je reconnais la grandeur quand je la vois."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-0/23
 msgctxt "Curt"
 msgid "...you think I'm great?"
-msgstr ""
+msgstr "... tu me trouves génial ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-0/31
 msgctxt "Rod"
 msgid "Bro, you so dense. That's all she been sayin'!"
-msgstr ""
+msgstr "Frérot, t'es trop dur de la feuille. C'est tout ce qu'elle dit !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-1/7
 msgctxt "Fantina"
 msgid "I show unwavering support. What's wrong with that?"
-msgstr ""
+msgstr "Je soutiens sans faillir. Qu'est-ce qu'il y a de mal ?"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-1/15
 msgctxt "Fantina"
 msgid "You might not think Curt has what it takes, but I KNOW he does!"
-msgstr ""
+msgstr "Tu penses peut-être que Curt n'a pas ce qu'il faut, mais MOI, je SAIS que si !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-1/23
 msgctxt "Rod"
 msgid "I mean, you've gotta prove the naysayers wrong, Curt."
-msgstr ""
+msgstr "Je veux dire, faut que tu prouves aux rabat-joie qu'ils ont tort, Curt."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-1/31
 msgctxt "Rod"
 msgid "Unless... you admit you ain't got the moves."
-msgstr ""
+msgstr "À moins que... tu admettes que t'as pas les moves."
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-1/39
 msgctxt "Curt"
 msgid "Didn't nobody say all that!"
-msgstr ""
+msgstr "Personne a dit tout ça !"
 
+# Traduction IA – à relire
 #: curtrod_curtain/shade_gym/0/g-1/c-5/59/c-1/47
 msgctxt "Rod"
 msgid "Actions speak louder, my man."
-msgstr ""
+msgstr "Les actes parlent plus fort, mon gars."
 
 #: curtrod_curtain/shade_gym/0/g-1/c-6/16
 msgctxt "Curt"
