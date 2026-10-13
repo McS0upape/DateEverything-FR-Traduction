@@ -24,10 +24,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : masculin (il)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : vouvoie (emphase de magicien de music-hall, contraste comique avec le « tu » du joueur)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, grandiloquent, archaïsant (« Ouais, ouais » proscrit) ; retombe en langage plus simple quand il craque (il est canadien, imposteur, fragile)
+- **Personnalité, manière de parler** : magicien de scène pompeux et sensible, majuscules criées, « Moi, I, Ronaldini » à la troisième personne ; fait de la fumée et des « POOF ». Le nom « I, Ronaldini » reste tel quel.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « le Grand et Terrible » ; jeux sur iron (fer à repasser / planche), cape, tours de magie, Canada ; Shania Plane (parodie, inchangé)
+- **Exemples de répliques traduites (référence de ton)** :
+  - « You, unfortunate soul, have stumbled into my fearsome presence » -> « Vous, âme infortunée, avez trébuché dans ma redoutable présence »
+  - « Nope! I've come back to put you in your place! » -> « Non ! Je suis revenu·e te remettre à ta place ! »
+  - « Harumph! Harumph, I declare! » -> « Hrmpf ! Hrmpf, je le proclame ! »
