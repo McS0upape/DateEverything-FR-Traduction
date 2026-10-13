@@ -24,10 +24,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : très familier, vulgaire, ton de petit caïd troll désabusé (« bro » macho), argot d'internet (stylé, légit, cringe, BDE)
+- **Personnalité, manière de parler** : Angoisse existentielle incarnée, toxique, sûr de lui et paresseux, qui rabaisse le joueur ou la joueuse en le draguant et lui retire des « Points Doug ». Se montre brièvement vulnérable (Espoir).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : surnom « Nerd » (épicène) pour « Dork » ; « bébé » pour « baby » ; « Points Doug » ; Hope devient « Espoir » (« un nouvel Espoir » = clin d'oeil à Star Wars) ; « chaisarem » pour chairem ; « Baisodrome » pour Bone Zone ; « inimitié » pour hateship. Éviter « mec/mon pote » adressés au joueur ou à la joueuse.
+- **Exemples de répliques traduites (référence de ton)** : « Salut bébé. Joli cul. » ; « Ta tronche, c'est comme le réchauffement climatique. » ; « Mais bien sûr... parlons. »

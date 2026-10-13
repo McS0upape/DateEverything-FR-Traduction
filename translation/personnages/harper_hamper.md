@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : Harper = elle ; Dirk = il ; Rebel = iel (they)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (Dirk aussi)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, émotif ; Harper alterne douceur sucrée (« chéri·e » à éviter : préférer « mon cœur ») et crises en MAJUSCULES ; Dirk blasé, sarcastique, jure volontiers.
+- **Personnalité, manière de parler** : Harper, panier à linge possessive et collante, relation toxique avec Dirk (linge sale) ; elle sourit de force. Dirk épuisé, s'évade dans les comics.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Dirkie » ; « Hamper's intuition » -> « intuition de panier » ; jeux sur linge/lavage (laver son linge sale en public) ; les Hanks (chaussettes) ; Chappy (stick de baume à lèvres, fondu au lavage).
+- **Exemples de répliques traduites (référence de ton)** : « Pas de panique, on n'a pas arrêté ! On va très bien ! » ; « Tu me parles gentiment, Dirkie, et je te laisse tout dire. » ; « Chaque minute avec Harper est une fête non-stop. »

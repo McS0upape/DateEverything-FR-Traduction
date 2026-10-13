@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (femme ; objet : un ventilateur, « Fan » = fan / ventilateur)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier-enthousiaste, débit emballé, hyperboles, excuses en cascade, « Oh mon Dieu ! », « tu sais » ; pas de surnom genré pour le joueur ou la joueuse
+- **Personnalité, manière de parler** : fan obsessionnelle, adorable et un peu flippante (stalkeuse), complimente tout, panique d'admiration, s'excuse sans cesse
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : vocabulaire de ventilateur (pales, rotors, fuseau, condensateur, circulateur, air) détourné en expressions du corps ; « fan » = fan / ventilateur ; « Fontina » (fromage) / Fantina
+- **Exemples de répliques traduites (référence de ton)** : « Oh. Mon. DIEU ! Ce n'est pas possible ! » ; « Je suis désolée, je ne voulais pas en faire trop... » ; « Je suis ta plus grande fan. »

@@ -111,3 +111,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 ## winnifred_waterheater (agent Sonnet, 2026-10-13)
 - Bless your heart → Béni soit ton petit coeur ; pilot light → veilleuse
 - Hot and Heady Couples Spa and Resort → Spa et Resort des Couples Torrides et Enivrants
+
+## river_water (agent Sonnet, 2026-10-13)
+- Chair (pop star) → Cher ; Aqua Khan, Lady Memoria : inchangés ; tea (potins) → potins
