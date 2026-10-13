@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (toutes les variantes Lucinda L...)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, séducteur, taquin ; vulgaire quand le jeu l'est
+- **Personnalité, manière de parler** : l'édition de luxe, bimbo méta et sûre d'elle, qui se vante d'être le meilleur personnage du jeu (DLC payant). Sous-entendus constants, ton aguicheur (« mon cœur », « bébé »), bascule vers la fragilité dans les fins. Chaque variante (Lust, Lush, Lewd, Lucid...) garde cette voix avec sa nuance.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « lover » = « mon cœur » / « mon chou » (épicène, jamais « mon chéri ») ; « baby » = « bébé » ; « bazoomies » = « loloches » ; alitération en L des noms (Lust, Loving...) conservée telle quelle ; « good boy/girl » via {{…}}.
+- **Exemples de répliques traduites (référence de ton)** : « Me! Lucinda Lavish! » -> « Moi ! Lucinda Lavish ! » ; « Damn straight. » -> « Et comment. » ; « I'll see you around, lover. » -> « À bientôt, mon cœur. »

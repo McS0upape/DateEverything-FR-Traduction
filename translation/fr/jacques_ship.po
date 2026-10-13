@@ -8,1255 +8,1505 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: jacques_ship/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "SHIP-IN-A-BOTTLE"
-msgstr ""
+msgstr "NAVIRE EN BOUTEILLE"
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/0
 msgctxt "Jacques"
 msgid "You want a story about a table?"
-msgstr ""
+msgstr "Tu veux une histoire sur une table ?"
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/8
 msgctxt "Jacques"
 msgid "I am a table. I am boring. The end."
-msgstr ""
+msgstr "Je suis une table. Je suis ennuyeux. Fin."
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/16/s/0
 msgctxt "Choix"
 msgid "That's it? I've been on this fetch quest for forever."
-msgstr ""
+msgstr "C'est tout ? Je suis sur cette quête de livraison depuis des siècles."
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/17/s/0
 msgctxt "Choix"
 msgid "Sounds about right."
-msgstr ""
+msgstr "Ça me paraît cohérent."
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/g-0/0
 msgctxt "Jacques"
 msgid "That's right."
-msgstr ""
+msgstr "Exactement."
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/g-0/8
 msgctxt "Jacques"
 msgid "Thinks he can hide his little crush for the big desk."
-msgstr ""
+msgstr "Il croit pouvoir cacher son petit béguin pour le grand bureau."
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/g-0/16
 msgctxt "Jacques"
 msgid "Pish."
-msgstr ""
+msgstr "Peuh."
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "What's that now?"
-msgstr ""
+msgstr "Pardon, quoi ?"
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/g-0/c-2/7
 msgctxt "Jacques"
 msgid "I said 'pish'."
-msgstr ""
+msgstr "J'ai dit « peuh »."
 
+# Traduction IA – à relire
 #: jacques_ship/abel_jacques/0/g-0/c-2/15
 msgctxt "Jacques"
 msgid "Good day."
-msgstr ""
+msgstr "Bonne journée."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/6
 msgctxt "Narrator"
 msgid "A petite pirate glares at you—there's so much to take in here, but you don't dare to get a good look in when he looks like he's contemplating running you through."
-msgstr ""
+msgstr "Un minuscule pirate vous fusille du regard. Il y a tant à observer ici, mais vous n'osez pas le dévisager alors qu'il a l'air de songer à vous passer par le fil de l'épée."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/21
 msgctxt "Jacques"
 msgid "Oh, look. It's you. Come to make fun, have you?"
-msgstr ""
+msgstr "Oh, tiens. C'est toi. Tu viens te moquer, c'est ça ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/29/s/0
 msgctxt "Choix"
 msgid "Make fun of who?"
-msgstr ""
+msgstr "Me moquer de qui ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/30/s/0
 msgctxt "Choix"
 msgid "Yep, that's my plan!"
-msgstr ""
+msgstr "Oui, c'est mon plan !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/31/s/0
 msgctxt "Choix"
 msgid "Startin' off well, I see."
-msgstr ""
+msgstr "Ça commence bien, je vois."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/c-0/7
 msgctxt "Jacques"
 msgid "WHO ELSE D'YE SEE?"
-msgstr ""
+msgstr "DE QUI D'AUTRE, SELON TOI ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/c-1/7
 msgctxt "Jacques"
 msgid "Well, go ahead, you scallywag. Do you think I haven't heard it?"
-msgstr ""
+msgstr "Eh bien, vas-y, canaille. Tu crois que je ne l'ai pas déjà entendue, celle-là ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/0
 msgctxt "Jacques"
 msgid "Do you legitimately imagine anything that cascaded out of that brobdingnagian mouth of yours could shock me?"
-msgstr ""
+msgstr "Imagines-tu sincèrement que quoi que ce soit de ce qui a dégringolé de ta bouche pantagruélique puisse me choquer ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/8
 msgctxt "Jacques"
 msgid "DO YOU HONESTLY BELIEVE I CAN BE SHOCKED??"
-msgstr ""
+msgstr "CROIS-TU VRAIMENT QUE JE PUISSE ÊTRE CHOQUÉ ??"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "...whoa."
-msgstr ""
+msgstr "...waouh."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Brobdingnagian?"
-msgstr ""
+msgstr "Pantagruélique ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/18/s/0
 msgctxt "Choix"
 msgid "You look shocked to me!"
-msgstr ""
+msgstr "Tu as l'air choqué, pourtant !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/19/s/0
 msgctxt "Choix"
 msgid "Don't know don't care. You are a little much."
-msgstr ""
+msgstr "Je ne sais pas, je m'en fiche. Tu en fais un peu trop."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-3/7
 msgctxt "Jacques"
 msgid "Yes. Yes, my newest neophyte... I am whoa."
-msgstr ""
+msgstr "Oui. Oui, mon tout nouveau néophyte... je suis waouh."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-3/15
 msgctxt "Jacques"
 msgid "I am very whoa, whoa of the deepest and most terrible kind..."
-msgstr ""
+msgstr "Je suis très waouh, waouh de la plus profonde et de la plus terrible espèce..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-3/23
 msgctxt "Jacques"
 msgid "I am WOE! Woe unto mine enemies!"
-msgstr ""
+msgstr "Je suis MALHEUR ! Malheur à mes ennemis !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/7
 msgctxt "Jacques"
 msgid "You see? I told you. I cannot be shocked."
-msgstr ""
+msgstr "Tu vois ? Je te l'avais dit. On ne peut pas me choquer."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/15
 msgctxt "Jacques"
 msgid "Of course you've not heard a word as long and treacherously spelled as 'brobdingnagian'."
-msgstr ""
+msgstr "Bien sûr que tu n'as jamais entendu un mot aussi long et traîtreusement orthographié que « pantagruélique »."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/23
 msgctxt "Jacques"
 msgid "This does not shock me."
-msgstr ""
+msgstr "Cela ne me choque pas."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/31
 msgctxt "Jacques"
 msgid "It... disappoints me. I am..."
-msgstr ""
+msgstr "Cela me... déçoit. Je suis..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/39
 msgctxt "Jacques"
 msgid "Sails above, I haven't the word..."
-msgstr ""
+msgstr "Sabords, les mots me manquent..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/0/s/0
 msgctxt "Choix"
 msgid "Bummed?"
-msgstr ""
+msgstr "Sur le cul ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/1/s/0
 msgctxt "Choix"
 msgid "Woeful?"
-msgstr ""
+msgstr "Affligé ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/2/s/0
 msgctxt "Choix"
 msgid "Lacrimose?"
-msgstr ""
+msgstr "Lacrymal ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-0/7
 msgctxt "Jacques"
 msgid "Bummed. No, I don't think bummed is it."
-msgstr ""
+msgstr "Sur le cul. Non, je ne crois pas que ce soit ça."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-0/15
 msgctxt "Jacques"
 msgid "I am clearly not any more or less characterized by my rear end because of your appallingly underwhelming level of literacy."
-msgstr ""
+msgstr "Je ne suis assurément ni plus ni moins défini par mon postérieur à cause de ton niveau de lecture affligeant."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-0/23
 msgctxt "Jacques"
 msgid "Your idiocy ignites the fires in me, the fires of rage, the fires of battle!"
-msgstr ""
+msgstr "Ton idiotie allume en moi des brasiers, les brasiers de la rage, les brasiers du combat !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-1/7
 msgctxt "Jacques"
 msgid "Woeful! Woeful indeed. Full of the Woe I inflict on any enemy, every landlubbing bilge-sucker foolish enough to cross me path!"
-msgstr ""
+msgstr "Affligé ! Affligé en effet ! Plein du Malheur que j'inflige à tout ennemi, à chaque rat de cale terrien assez stupide pour croiser ma route !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/7
 msgctxt "Jacques"
 msgid "Ahhh... you must've owned a dictionary as a child."
-msgstr ""
+msgstr "Ahhh... tu as dû posséder un dictionnaire, enfant."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/15
 msgctxt "Jacques"
 msgid "But what am I talking about, of course you did."
-msgstr ""
+msgstr "Mais que dis-je, évidemment que oui."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/23
 msgctxt "Jacques"
 msgid "It's the dusty and disused hunk of former tree sitting on the shelf just east of my bottle."
-msgstr ""
+msgstr "C'est ce bloc d'ancien arbre poussiéreux et délaissé, sur l'étagère juste à l'est de ma bouteille."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/31
 msgctxt "Jacques"
 msgid "Don't use it much. Do you."
-msgstr ""
+msgstr "Tu ne t'en sers guère. N'est-ce pas."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/0/s/0
 msgctxt "Choix"
 msgid "I mean, not as much as I used to..."
-msgstr ""
+msgstr "Enfin, moins qu'avant..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/1/s/0
 msgctxt "Choix"
 msgid "I look up stuff from time to time!"
-msgstr ""
+msgstr "Je cherche des trucs de temps en temps !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/c-0/7
 msgctxt "Jacques"
 msgid "Not at all, more like, you ship-jumping rat!"
-msgstr ""
+msgstr "Pas du tout, plutôt, espèce de rat qui quitte le navire !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/c-1/7
 msgctxt "Jacques"
 msgid "Oh do you?"
-msgstr ""
+msgstr "Ah oui, vraiment ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/c-1/15
 msgctxt "Jacques"
 msgid "Up your own arse I bet!"
-msgstr ""
+msgstr "Dans ton postérieur, je parie !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/g-0/0/0/s/0
 msgctxt "Choix"
 msgid "Hey, you wanna cool down a little bit?"
-msgstr ""
+msgstr "Hé, tu ne voudrais pas te calmer un peu ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/g-0/0/c-0/7
 msgctxt "Jacques"
 msgid "Never! I am never cool. I am fire. I am boiling oil, I am lava!"
-msgstr ""
+msgstr "Jamais ! Je ne suis jamais calme. Je suis le feu. Je suis l'huile bouillante, je suis la lave !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/g-0/0/c-0/15
 msgctxt "Jacques"
 msgid "And I am infinitely smarter and more fearsome than you."
-msgstr ""
+msgstr "Et je suis infiniment plus intelligent et plus redoutable que toi."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/g-0/0/c-0/23
 msgctxt "Jacques"
 msgid "You... hornswaggling snail."
-msgstr ""
+msgstr "Toi... escargot enjôleur."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/g-0/0/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "You wanna fight, right? Let's do it."
-msgstr ""
+msgstr "Tu veux te battre, c'est ça ? Allons-y."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/g-0/0/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "Are we fighting or falling in love?"
-msgstr ""
+msgstr "On se bat ou on tombe amoureux ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-4/47/c-2/39/g-0/0/c-0/31/c-1/7
 msgctxt "Jacques"
 msgid "Perhaps a little bit of both!"
-msgstr ""
+msgstr "Un peu des deux, peut-être !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/7
 msgctxt "Jacques"
 msgid "I am emotionally quite contained! In fact, one could say I am quite bottled up!"
-msgstr ""
+msgstr "Je suis émotionnellement fort bien contenu ! On pourrait même dire que je suis fort embouteillé !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/15
 msgctxt "Jacques"
 msgid "Trapped within tubular glassy confines..."
-msgstr ""
+msgstr "Prisonnier de confins tubulaires et vitreux..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/0/s/0
 msgctxt "Choix"
 msgid "Well, what would you like to be doing instead?"
-msgstr ""
+msgstr "Bon, et qu'aimerais-tu faire à la place ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/1/s/0
 msgctxt "Choix"
 msgid "You saying want me to bring more spice to this burrito?"
-msgstr ""
+msgstr "Tu veux dire qu'il faut que j'ajoute du piment à ce burrito ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-0/7
 msgctxt "Jacques"
 msgid "Hunting. I would like to be questing, I would like to find an enemy."
-msgstr ""
+msgstr "Chasser. J'aimerais partir en quête, j'aimerais trouver un ennemi."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-0/15
 msgctxt "Jacques"
 msgid "I would like to pin said enemy down. I would like to blast my cannon with its glorious, deafening, bone-rattling crack..."
-msgstr ""
+msgstr "J'aimerais clouer ledit ennemi sur place. J'aimerais faire tonner mon canon, avec sa détonation glorieuse, assourdissante, à vous briser les os..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-0/23
 msgctxt "Jacques"
 msgid "Blow them off the face of the Earth and watch the decimated corpse of their ship bubble helplessly beneath the gleaming main!"
-msgstr ""
+msgstr "Les rayer de la surface de la Terre et regarder la carcasse décimée de leur navire bouillonner, impuissante, sous la mer étincelante !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-0/31
 msgctxt "Jacques"
 msgid "I would like to send something, anything, EVERYTHING to that glorious netherworld!"
-msgstr ""
+msgstr "J'aimerais envoyer quelque chose, n'importe quoi, TOUT dans ce glorieux séjour des morts !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/7
 msgctxt "Jacques"
 msgid "What in glossy hell is a burrito."
-msgstr ""
+msgstr "C'est quoi, par l'enfer luisant, un burrito."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Oh wow, you've never had a burrito??"
-msgstr ""
+msgstr "Oh là là, tu n'as jamais mangé de burrito ??"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Glossy hell?"
-msgstr ""
+msgstr "L'enfer luisant ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "They're overrated, forget it."
-msgstr ""
+msgstr "Ils sont surcotés, oublie."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-0/7
 msgctxt "Jacques"
 msgid "OBVIOUSLY I've never had one if I don't even know what it is! What is it with you and excitement? Positivity? SHARING?"
-msgstr ""
+msgstr "ÉVIDEMMENT que je n'en ai jamais mangé si je ne sais même pas ce que c'est ! Qu'est-ce que c'est que cette obsession de l'enthousiasme ? De la positivité ? Du PARTAGE ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-0/18
 msgctxt "Jacques"
 msgid "Great Hades, it turns my stomach sour."
-msgstr ""
+msgstr "Grand Hadès, j'en ai l'estomac retourné."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "You're making this conversation thing really unpleasant."
-msgstr ""
+msgstr "Tu rends cette conversation vraiment désagréable."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "A burrito is rice and beans and spices and you wrap it up in a big tortilla."
-msgstr ""
+msgstr "Un burrito, c'est du riz, des haricots, des épices, le tout enroulé dans une grande tortilla."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-0/26/c-1/15
 msgctxt "Jacques"
 msgid "You're comparing the insoluble crisis of my existence... to lunch?"
-msgstr ""
+msgstr "Tu compares l'insoluble crise de mon existence... à un déjeuner ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-0/26/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "I mean, I guess?"
-msgstr ""
+msgstr "Euh, on dirait ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/7
 msgctxt "Jacques"
 msgid "Glass? Shiny, glossy, hell, my own purgatory, this bottle! My hell, which is, in fact, glossy."
-msgstr ""
+msgstr "Verre ? Luisant, brillant, l'enfer, mon propre purgatoire, cette bouteille ! Mon enfer, qui est, de fait, luisant."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/15
 msgctxt "Jacques"
 msgid "Try to keep up."
-msgstr ""
+msgstr "Essaie de suivre."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "Got it now."
-msgstr ""
+msgstr "Compris, cette fois."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "Oy vey."
-msgstr ""
+msgstr "Oy vey."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/23/c-0/7
 msgctxt "Jacques"
 msgid "Ah, wonders never cease."
-msgstr ""
+msgstr "Ah, les miracles n'ont décidément pas de fin."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/23/c-0/15
 msgctxt "Jacques"
 msgid "And since I am in hell, we might as well get to it..."
-msgstr ""
+msgstr "Et puisque je suis en enfer, autant nous y mettre..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/23/c-1/7
 msgctxt "Jacques"
 msgid "Ha! How little it takes to exhaust you!"
-msgstr ""
+msgstr "Ha ! Comme il en faut peu pour t'épuiser !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-1/23/c-1/15
 msgctxt "Jacques"
 msgid "This is shaping up to be a disappointingly easy day for me..."
-msgstr ""
+msgstr "Cette journée s'annonce d'une facilité décevante pour moi..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-2/7
 msgctxt "Jacques"
 msgid "So now I'm not even worthy of a lesson from your Greatness? How little you must think of me."
-msgstr ""
+msgstr "Alors je ne mérite même plus une leçon de Votre Grandeur ? Quelle piètre opinion tu as de moi."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-5/23/c-1/15/c-2/15
 msgctxt "Jacques"
 msgid "Ah, oh god, wait, is it because I'm LITTLE?!?! I knew it!"
-msgstr ""
+msgstr "Ah, oh mon dieu, attends, c'est parce que je suis PETIT ?!?! Je le savais !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/7
 msgctxt "Jacques"
 msgid "Your idiomatic flippance is shockingly on target."
-msgstr ""
+msgstr "Ta désinvolture idiomatique tape étonnamment juste."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/15
 msgctxt "Jacques"
 msgid "Is that it? Have you woken me and distracted and disturbed me to tell me... \"I'm a little much?\""
-msgstr ""
+msgstr "C'est donc ça ? Tu m'as réveillé, distrait et dérangé pour me dire... « Tu en fais un peu trop » ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/23
 msgctxt "Jacques"
 msgid "You worm! Of COURSE I am a little much!"
-msgstr ""
+msgstr "Vermine ! Évidemment que j'en fais un peu trop !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/0/s/0
 msgctxt "Choix"
 msgid "Hang on, 'worm'?!"
-msgstr ""
+msgstr "Attends, « vermine » ?!"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/7
 msgctxt "Jacques"
 msgid "Ahhh, at last, a spark in your beady little eye! Do I dream? Does a worthy opponent lurk beneath this domesticated exterior?"
-msgstr ""
+msgstr "Ahhh, enfin, une étincelle dans ton petit œil de fouine ! Est-ce que je rêve ? Un adversaire digne de ce nom se cache-t-il sous cet extérieur domestiqué ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I'm not trying to pick a fight with you!"
-msgstr ""
+msgstr "Je ne cherche pas la bagarre avec toi !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I am not a worm!"
-msgstr ""
+msgstr "Je ne suis pas de la vermine !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Who you calling domesticated?"
-msgstr ""
+msgstr "Qui traites-tu de domestiqué ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/3/s/0
 msgctxt "Choix"
 msgid "Hell yeah, what's this game? I'll play!"
-msgstr ""
+msgstr "Et comment, c'est quoi ce jeu ? Je suis partant !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-0/7
 msgctxt "Jacques"
 msgid "I 'spose that means you're having an unsatisfying day then..."
-msgstr ""
+msgstr "Je suppose que cela signifie que ta journée est insatisfaisante..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-0/15
 msgctxt "Jacques"
 msgid "Because battle is joined!"
-msgstr ""
+msgstr "Car le combat est engagé !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/7
 msgctxt "Jacques"
 msgid "Fine. You're not a worm. Worms eat dirt. Which I imagine you don't. What do you eat? Paleo? Keto?"
-msgstr ""
+msgstr "Soit. Tu n'es pas un ver. Les vers mangent de la terre. Ce que tu ne fais pas, j'imagine. Que manges-tu ? Paléo ? Keto ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/15
 msgctxt "Jacques"
 msgid "No wait, permit me... You're... a vegan."
-msgstr ""
+msgstr "Non, attends, permets-moi... Tu es... végane."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "Now you have a problem with what I eat?!"
-msgstr ""
+msgstr "Maintenant tu as un problème avec ce que je mange ?!"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "I'm not a vegan..."
-msgstr ""
+msgstr "Je ne suis pas végane..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-0/11
 msgctxt "Jacques"
 msgid "YES, I have a problem with what you eat."
-msgstr ""
+msgstr "OUI, j'ai un problème avec ce que tu manges."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-0/19
 msgctxt "Jacques"
 msgid "I have problems with EVERYTHING, haven't you been paying attention?"
-msgstr ""
+msgstr "J'ai un problème avec TOUT, tu n'as donc pas suivi ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-0/27
 msgctxt "Jacques"
 msgid "Veganism is for people who are afraid of chicken cutlets wrapped in cellophane..."
-msgstr ""
+msgstr "Le véganisme est pour les gens qui ont peur des escalopes de poulet sous cellophane..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-0/35
 msgctxt "Jacques"
 msgid "People who balk at the time-honored complexities of a steak served on a thick plate and a mug of grog..."
-msgstr ""
+msgstr "Pour ceux qui reculent devant les subtilités séculaires d'un bifteck servi sur une grosse assiette avec une chope de grog..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-0/43
 msgctxt "Jacques"
 msgid "For people who think that EGGPLANT is actually something a human being should EVER eat!"
-msgstr ""
+msgstr "Pour ceux qui pensent que l'AUBERGINE est réellement quelque chose qu'un être humain devrait JAMAIS manger !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-0/51
 msgctxt "Jacques"
 msgid "Have at thee, O Deluded One!"
-msgstr ""
+msgstr "En garde, ô Égaré !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-1/7
 msgctxt "Jacques"
 msgid "Of course not! That would require forethought, tenacity, commitment, follow-through and mature decision-making!"
-msgstr ""
+msgstr "Bien sûr que non ! Cela exigerait de la prévoyance, de la ténacité, de l'engagement, de la constance et des décisions de grande personne !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Wait, it sounded like you thought veganism was dumb?"
-msgstr ""
+msgstr "Attends, on dirait que tu trouves le véganisme idiot ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-1/15/c-0/7
 msgctxt "Jacques"
 msgid "I do! I think whatever you don't think, because whatever you think must be landlubber nonsense spewing from a tainted cask."
-msgstr ""
+msgstr "Oui ! Je pense tout ce que tu ne penses pas, car tout ce que tu penses ne peut être que sornettes de terrien jaillies d'un tonneau vicié."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-1/15/c-0/15
 msgctxt "Jacques"
 msgid "Now stop distracting me, you organophobic troglodyte!"
-msgstr ""
+msgstr "Et cesse de me distraire, troglodyte organophobe !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-1/23/c-1/15/c-0/23
 msgctxt "Jacques"
 msgid "Put up your sword, prepare your soul for its imminent meeting with Commodore Davy Phones!"
-msgstr ""
+msgstr "Tire ton épée, prépare ton âme à son rendez-vous imminent avec le Commodore Davy Phones !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-2/7
 msgctxt "Jacques"
 msgid "You, of course."
-msgstr ""
+msgstr "Toi, bien sûr."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-2/15
 msgctxt "Jacques"
 msgid "You... tavern cat."
-msgstr ""
+msgstr "Toi... chat de taverne."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "Tavern cat. Yup, that's it. Let's go."
-msgstr ""
+msgstr "Chat de taverne. Ouais, c'est ça. Allons-y."
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-3/7
 msgctxt "Jacques"
 msgid "...you will?"
-msgstr ""
+msgstr "...vraiment ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-3/15
 msgctxt "Jacques"
 msgid "really?"
-msgstr ""
+msgstr "Vraiment ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_bitter_pirate/0/g-0/c-6/31/c-0/15/c-3/23/0/s/0
 msgctxt "Choix"
 msgid "Absolutely! I don't take insults lying down, let's go."
-msgstr ""
+msgstr "Absolument ! Je ne me laisse pas insulter sans réagir, allons-y."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/0
 msgctxt "Jacques"
 msgid "Um... well, yes, indeed we shall commence with your destruction, let me..."
-msgstr ""
+msgstr "Hum... eh bien, oui, nous allons procéder à ta destruction, laisse-moi..."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/8
 msgctxt "Jacques"
 msgid "Let me prepare myself for battle, prepare my dreadsome ship for its voyage unto Doom..."
-msgstr ""
+msgstr "Laisse-moi me préparer au combat, préparer mon redoutable navire pour son voyage vers la Damnation..."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/16
 msgctxt "Jacques"
 msgid "...hang on..."
-msgstr ""
+msgstr "...attends..."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/24/s/0
 msgctxt "Choix"
 msgid "Have you forgotten the name of your ship or something?"
-msgstr ""
+msgstr "Tu as oublié le nom de ton navire ou quoi ?"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/7
 msgctxt "Jacques"
 msgid "Its name! Of course, it's the 'Queen Divan's'..."
-msgstr ""
+msgstr "Son nom ! Mais bien sûr, c'est le « Divan de la Reine »..."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/15
 msgctxt "Jacques"
 msgid "What day of the week be it? Tuesday?"
-msgstr ""
+msgstr "On est quel jour de la semaine ? Mardi ?"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "It is!"
-msgstr ""
+msgstr "Oui !"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "It is not..."
-msgstr ""
+msgstr "Non..."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/23/2/s/0
 msgctxt "Choix"
 msgid "Why would it matter if it's Tuesday or not?"
-msgstr ""
+msgstr "Pourquoi ça compterait, qu'on soit mardi ou pas ?"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/23/c-0/7 jacques_ship/lets_go/0/c-0/23/c-1/7
 msgctxt "Jacques"
 msgid "Oh, yes, well then it's the 'Queen Divan's Revenge'."
-msgstr ""
+msgstr "Ah, oui, eh bien dans ce cas c'est « La Vengeance du Divan de la Reine »."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/23/c-2/7
 msgctxt "Jacques"
 msgid "It doesn't!"
-msgstr ""
+msgstr "Ça ne compte pas !"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/23/c-2/15
 msgctxt "Jacques"
 msgid "I change it sometimes."
-msgstr ""
+msgstr "Je le change de temps en temps."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/c-0/23/c-2/23
 msgctxt "Jacques"
 msgid "And now it is called the 'Queen Divan's Revenge!'"
-msgstr ""
+msgstr "Et maintenant il s'appelle « La Vengeance du Divan de la Reine » !"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/0
 msgctxt "Jacques"
 msgid "Because I'm so unpredictably terrifying. And now!"
-msgstr ""
+msgstr "Parce que je suis d'une terreur imprévisible. Et maintenant !"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Need a little help there?"
-msgstr ""
+msgstr "Un petit coup de main ?"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "Don't you think you went to a 10, like, quickly?"
-msgstr ""
+msgstr "Tu ne trouves pas que tu es monté dans les tours, là, un peu vite ?"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/c-1/7
 msgctxt "Jacques"
 msgid "Back off, you tentacled dogsbody!"
-msgstr ""
+msgstr "Recule, souillon tentaculaire !"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/c-1/15
 msgctxt "Jacques"
 msgid "This ship is very finely balanced, like a racehorse, or... like one of those acrobats who hold up a bunch of plates and bowls on their chins... youknowtheones?"
-msgstr ""
+msgstr "Ce navire est très finement équilibré, comme un pur-sang, ou... comme ces acrobates qui tiennent des piles d'assiettes et de bols sur leur menton... tu vois lesquels ?"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/c-1/23
 msgctxt "Jacques"
 msgid "Besides, you are AFRAID to help me, because my very exuded breath shrouds you in danger and hopelessness! And now..."
-msgstr ""
+msgstr "D'ailleurs, tu as PEUR de m'aider, parce que mon souffle même t'enveloppe de danger et de désespoir ! Et maintenant..."
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/c-2/7
 msgctxt "Jacques"
 msgid "Of course I did! It's what I do!"
-msgstr ""
+msgstr "Bien sûr que oui ! C'est mon métier !"
 
+# Traduction IA – à relire
 #: jacques_ship/lets_go/0/g-0/c-2/15
 msgctxt "Jacques"
 msgid "You would be at full-sail, too, if you were trapped, homicidal and brandishing a hot pink plastic sword!"
-msgstr ""
+msgstr "Tu ferais toutes voiles dehors, toi aussi, si tu étais piégé, homicide et brandissant une épée en plastique rose fluo !"
 
+# Traduction IA – à relire
 #: jacques_ship/cool_enemies/0/0/s/0
 msgctxt "Choix"
 msgid "Ok, I'm sensing some unresolved anger here."
-msgstr ""
+msgstr "Ok, je sens de la colère non résolue ici."
 
+# Traduction IA – à relire
 #: jacques_ship/cool_enemies/0/1/s/0
 msgctxt "Choix"
 msgid "Cool, you have enemies?"
-msgstr ""
+msgstr "Cool, tu as des ennemis ?"
 
+# Traduction IA – à relire
 #: jacques_ship/cool_enemies/0/c-0/7
 msgctxt "Jacques"
 msgid "Unresolved... unrelenting... it is a wildfire of pitch and black powder, always fed, never sated."
-msgstr ""
+msgstr "Non résolue... implacable... c'est un incendie de poix et de poudre noire, toujours alimenté, jamais rassasié."
 
+# Traduction IA – à relire
 #: jacques_ship/cool_enemies/0/c-1/7
 msgctxt "Jacques"
 msgid "I do..."
-msgstr ""
+msgstr "J'en ai..."
 
+# Traduction IA – à relire
 #: jacques_ship/cool_enemies/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Do they rub you the wrong way?"
-msgstr ""
+msgstr "Ils te prennent à rebrousse-poil ?"
 
+# Traduction IA – à relire
 #: jacques_ship/cool_enemies/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Wanna talk about it? It's dangerous to keep that anger bottled up."
-msgstr ""
+msgstr "Tu veux en parler ? C'est dangereux de garder cette colère en bouteille."
 
+# Traduction IA – à relire
 #: jacques_ship/cool_enemies/0/c-1/15/c-0/7
 msgctxt "Jacques"
 msgid "Rub me? As in rub the bottle? You must take me for some kind of hell-fired genie!"
-msgstr ""
+msgstr "Me frotter ? Comme on frotte la bouteille ? Tu me prends pour un génie de l'enfer !"
 
+# Traduction IA – à relire
 #: jacques_ship/bottle_joke/0/0
 msgctxt "Jacques"
 msgid "It's a bottle joke, then! Your first shot is fired, cannon roaring at the attack..."
-msgstr ""
+msgstr "C'est donc une blague de bouteille ! Ton premier coup est tiré, le canon rugit à l'abordage..."
 
+# Traduction IA – à relire
 #: jacques_ship/bottle_joke/0/8
 msgctxt "Jacques"
 msgid "The wind of the hunt cracking, the spray flying, the bowsprit dripping bloody avarice as you come for me!"
-msgstr ""
+msgstr "Le vent de la chasse qui claque, les embruns qui giclent, le beaupré dégoulinant d'avidité sanguinaire tandis que tu fonces sur moi !"
 
+# Traduction IA – à relire
 #: jacques_ship/bottle_joke/0/16/s/0
 msgctxt "Choix"
 msgid "Yeah... I actually didn't mean to insult you."
-msgstr ""
+msgstr "Ouais... en fait, je ne voulais pas t'insulter."
 
+# Traduction IA – à relire
 #: jacques_ship/bottle_joke/0/17/s/0
 msgctxt "Choix"
 msgid "Hell yeah, keep talking, this is beautiful!"
-msgstr ""
+msgstr "Et comment, continue, c'est magnifique !"
 
+# Traduction IA – à relire
 #: jacques_ship/bottle_joke/0/c-1/7
 msgctxt "Jacques"
 msgid "Beauty in death!"
-msgstr ""
+msgstr "La beauté dans la mort !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/0
 msgctxt "Jacques"
 msgid "Too much, the line is crossed, your pitiful life is forfeit to my magnificence!"
-msgstr ""
+msgstr "C'en est trop, la ligne est franchie, ta pitoyable vie est confisquée au profit de ma magnificence !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/8/s/0
 msgctxt "Choix"
 msgid "Cool!"
-msgstr ""
+msgstr "Cool !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/9/s/0
 msgctxt "Choix"
 msgid "What does that mean exactly?"
-msgstr ""
+msgstr "Ça veut dire quoi, exactement ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/10/s/0
 msgctxt "Choix"
 msgid "I'm falling in love with your magnificence..."
-msgstr ""
+msgstr "Je tombe amoureux de ta magnificence..."
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/c-0/7
 msgctxt "Jacques"
 msgid "Nothing 'cool' about it, blackguard."
-msgstr ""
+msgstr "Il n'y a rien de « cool » là-dedans, crapule."
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/c-0/15
 msgctxt "Jacques"
 msgid "I will destroy you."
-msgstr ""
+msgstr "Je vais te détruire."
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/c-1/7
 msgctxt "Jacques"
 msgid "It means you'll be destroyed!"
-msgstr ""
+msgstr "Ça veut dire que tu seras détruit !"
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/c-2/13
 msgctxt "Jacques"
 msgid "Love? Think ye I look for love?"
-msgstr ""
+msgstr "De l'amour ? Crois-tu que je cherche l'amour ?"
 
+# Traduction IA – à relire
 #: jacques_ship/the_first_death/0/c-2/21
 msgctxt "Jacques"
 msgid "Your insolence brings you only death!"
-msgstr ""
+msgstr "Ton insolence ne t'apportera que la mort !"
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/0/s/0
 msgctxt "Choix"
 msgid "You're going to kill me?"
-msgstr ""
+msgstr "Tu vas me tuer ?"
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/7
 msgctxt "Jacques"
 msgid "Dear sweet DAVY PHONES, if you insist on reducing everything to its simplest expression..."
-msgstr ""
+msgstr "Cher et doux DAVY PHONES, si tu tiens à tout réduire à sa plus simple expression..."
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/15
 msgctxt "Jacques"
 msgid "Yes, yes. I am going to kill you."
-msgstr ""
+msgstr "Oui, oui. Je vais te tuer."
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Hang on, what did I do?!"
-msgstr ""
+msgstr "Attends, qu'est-ce que j'ai fait ?!"
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/7
 msgctxt "Jacques"
 msgid "You require an accounting??"
-msgstr ""
+msgstr "Tu exiges des comptes ??"
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/15
 msgctxt "Jacques"
 msgid "You insulted and demeaned me! You passed judgment on an existence you could not possibly understand or hope to equal, you BELITTLED ME..."
-msgstr ""
+msgstr "Tu m'as insulté et rabaissé ! Tu as jugé une existence que tu ne pourrais ni comprendre ni espérer égaler, tu m'as DÉNIGRÉ..."
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I didn't do any of those things!"
-msgstr ""
+msgstr "Je n'ai rien fait de tout ça !"
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Oh man, what a drama queen..."
-msgstr ""
+msgstr "Oh là là, quelle reine du drame..."
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/23/c-0/7
 msgctxt "Jacques"
 msgid "...maybe you didn't..."
-msgstr ""
+msgstr "...peut-être pas..."
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/23/c-0/15
 msgctxt "Jacques"
 msgid "But you EXIST and you're HERE and I have to END SOMETHING..."
-msgstr ""
+msgstr "Mais tu EXISTES et tu es LÀ et il faut que je FINISSE quelque chose..."
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/23/c-1/7
 msgctxt "Jacques"
 msgid "I am no queen. I am no king. I am purely... Scourge."
-msgstr ""
+msgstr "Je ne suis ni reine ni roi. Je suis purement... Fléau."
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/23/c-1/15
 msgctxt "Jacques"
 msgid "I am without confines the way the sea is without the confines of a bank or a riverbed, it is endless and all-encompassing in it's merciless endlessness!"
-msgstr ""
+msgstr "Je suis sans limites comme la mer est sans les limites d'une berge ou d'un lit de rivière, infinie et omniprésente dans son infinitude impitoyable !"
 
+# Traduction IA – à relire
 #: jacques_ship/destroyed/0/c-0/23/c-0/23/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "You're literally confined. In a bottle."
-msgstr ""
+msgstr "Tu es littéralement limité. Dans une bouteille."
 
+# Traduction IA – à relire
 #: jacques_ship/undoing/0/0
 msgctxt "Jacques"
 msgid "Bear witness to your undoing!"
-msgstr ""
+msgstr "Sois témoin de ta perte !"
 
+# Traduction IA – à relire
 #: jacques_ship/undoing/0/8/s/0
 msgctxt "Choix"
 msgid "I'm watching!"
-msgstr ""
+msgstr "Je regarde !"
 
+# Traduction IA – à relire
 #: jacques_ship/undoing/0/10/s/0
 msgctxt "Choix"
 msgid "I'm bearing... I'm bearing!"
-msgstr ""
+msgstr "Je témoigne... je témoigne !"
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/0
 msgctxt "Jacques"
 msgid "Can you not feel it? Do you beg for quarter, for mercy from the most murderous, blood-eyed cudger to plow the fathomless flood??"
-msgstr ""
+msgstr "Ne le sens-tu pas ? Implores-tu grâce, miséricorde auprès du plus meurtrier, du plus injecté de sang des gourdins à sillonner le flot insondable ??"
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/8/s/0
 msgctxt "Choix"
 msgid "I thought you were... going to kill me?"
-msgstr ""
+msgstr "Je croyais que tu allais... me tuer ?"
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/7
 msgctxt "Jacques"
 msgid "Of course I am! I am killing you, right now!"
-msgstr ""
+msgstr "Bien sûr que oui ! Je te tue, en ce moment même !"
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/15
 msgctxt "Jacques"
 msgid "I am tearing you limb from limb and dangling your bits from the rigging to tempt the crows!"
-msgstr ""
+msgstr "Je t'arrache les membres un à un et j'accroche tes morceaux au gréement pour attirer les corbeaux !"
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/23
 msgctxt "Narrator"
 msgid "You take a moment to inspect yourself. Your limbs and bits all appear to be just where you left them."
-msgstr ""
+msgstr "Vous prenez un instant pour vous inspecter. Vos membres et vos morceaux semblent tous être exactement là où vous les aviez laissés."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Seems like you're talking a lot about it and not... doing anything."
-msgstr ""
+msgstr "On dirait que tu en parles beaucoup mais que tu ne fais... rien du tout."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/7
 msgctxt "Jacques"
 msgid "Oh, but I am."
-msgstr ""
+msgstr "Oh, mais si."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/15
 msgctxt "Jacques"
 msgid "I'm fileting your sorry rind."
-msgstr ""
+msgstr "Je suis en train de te fileter ta misérable couenne."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/31
 msgctxt "Jacques"
 msgid "In my mind."
-msgstr ""
+msgstr "Dans ma tête."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/39/0/s/0
 msgctxt "Choix"
 msgid "Oh. A speculative stabbing."
-msgstr ""
+msgstr "Oh. Un coup de couteau spéculatif."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/39/c-0/7
 msgctxt "Jacques"
 msgid "Damn yer hide, speculative! It's as real as the snap of sail in the wind, the squish of flesh and bone as it makes way for my blade!"
-msgstr ""
+msgstr "Maudite soit ta peau, spéculatif ! C'est aussi réel que le claquement de la voile au vent, que le floc de la chair et de l'os qui s'écartent devant ma lame !"
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/39/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "This talk of flesh and bone is too graphic for me."
-msgstr ""
+msgstr "Ces histoires de chair et d'os, c'est trop imagé pour moi."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/39/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "That was kinda poetic."
-msgstr ""
+msgstr "C'était presque poétique."
 
+# Traduction IA – à relire
 #: jacques_ship/encounter_two_jacques_kills_you/0/c-0/31/c-0/39/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "I am not in fact stabbed, though."
-msgstr ""
+msgstr "Pourtant, je ne suis pas poignardé, en fait."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/0
 msgctxt "Jacques"
 msgid "You lily-livered worm... was it too much for you? Too much glorious gore?"
-msgstr ""
+msgstr "Ver froussard... c'était trop pour toi ? Trop de gloire sanguinolente ?"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/8/s/0
 msgctxt "Choix"
 msgid "Well kinda, yeah. Why do you have to be so gross?"
-msgstr ""
+msgstr "Un peu, ouais. Pourquoi faut-il que tu sois aussi dégoûtant ?"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/9/s/0
 msgctxt "Choix"
 msgid "This whole time, all you've done is rage at the world and insult me."
-msgstr ""
+msgstr "Depuis le début, tout ce que tu fais, c'est râler contre le monde et m'insulter."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/10/s/0
 msgctxt "Choix"
 msgid "Can't we just be nice to each other?"
-msgstr ""
+msgstr "On ne peut pas simplement être gentils l'un avec l'autre ?"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/c-0/7
 msgctxt "Jacques"
 msgid "I LIKE IT."
-msgstr ""
+msgstr "J'AIME ÇA."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/c-1/7 jacques_ship/hate_track/0/c-2/18
 msgctxt "Jacques"
 msgid "What grand violent adventure is BEING NICE?!"
-msgstr ""
+msgstr "Quelle grande aventure violente y a-t-il à ÊTRE GENTIL ?!"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/c-2/7
 msgctxt "Jacques"
 msgid "Nice. Niiiiice to each other. What glory is there in \"nice\"? What power?"
-msgstr ""
+msgstr "Gentil. Gentiiil l'un avec l'autre. Quelle gloire y a-t-il dans la « gentillesse » ? Quelle puissance ?"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Not everything in life has to be a grand adventure!"
-msgstr ""
+msgstr "Tout dans la vie n'a pas à être une grande aventure !"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "You are so obsessed with violence!"
-msgstr ""
+msgstr "Tu es tellement obsédé par la violence !"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "You're just living in a world that doesn't even exist anymore."
-msgstr ""
+msgstr "Tu vis dans un monde qui n'existe même plus."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-1/0
 msgctxt "Jacques"
 msgid "I shudder to think of the world you would create. My skin crawls with the lice of insidious niceness, shrunken beings squirreling themselves into the goat cage of niceness."
-msgstr ""
+msgstr "Je frémis à l'idée du monde que tu créerais. Ma peau grouille des poux de la gentillesse insidieuse, d'êtres rabougris se terrant dans la cage à chèvres de la gentillesse."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-1/8
 msgctxt "Jacques"
 msgid "Dear sweet Davy Phones... what would you have but a world where no one wants to make waves?"
-msgstr ""
+msgstr "Cher et doux Davy Phones... que resterait-il, sinon un monde où personne ne veut faire de vagues ?"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-1/16
 msgctxt "Jacques"
 msgid "Will no one rock the boat, hey! Will no one dare to hang from the bowsprit, cutlass flaring, and declare in a bellow that they will no longer be \"nice\"??"
-msgstr ""
+msgstr "Personne ne secouera-t-il donc la barque, hé ! Personne n'osera-t-il se pendre au beaupré, coutelas au clair, et proclamer d'une voix tonitruante qu'il ne sera plus « gentil » ??"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-1/24
 msgctxt "Jacques"
 msgid "I am a pirate, you deck-kneeling dog! Without a wave to crest and furrough, there is no life for me! There is no passion for me but before the mast!"
-msgstr ""
+msgstr "Je suis un pirate, chien agenouillé sur le pont ! Sans vague à chevaucher et à sillonner, il n'y a pas de vie pour moi ! Il n'y a pas de passion pour moi hors du mât !"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-1/32/s/0
 msgctxt "Choix"
 msgid "You are insane."
-msgstr ""
+msgstr "Tu es fou."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-1/33/s/0
 msgctxt "Choix"
 msgid "If you insult me one more time..."
-msgstr ""
+msgstr "Si tu m'insultes encore une fois..."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/0
 msgctxt "Jacques"
 msgid "I"
-msgstr ""
+msgstr "JE"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/8
 msgctxt "Jacques"
 msgid "REGRET"
-msgstr ""
+msgstr "NE REGRETTE"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/16
 msgctxt "Jacques"
 msgid "NOTHING"
-msgstr ""
+msgstr "RIEN"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/27/s/0
 msgctxt "Choix"
 msgid "I'm sure you don't."
-msgstr ""
+msgstr "J'en suis sûr."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/28/s/0
 msgctxt "Choix"
 msgid "I. HATE. YOU."
-msgstr ""
+msgstr "JE. TE. HAIS."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/c-8/7
 msgctxt "Jacques"
 msgid "I want to be clear."
-msgstr ""
+msgstr "Je veux être clair."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/c-8/15
 msgctxt "Jacques"
 msgid "If I see you again, if your shadow touches even the dessicated cork in the dust-crusted neck of this wretched bottle..."
-msgstr ""
+msgstr "Si je te revois, si ton ombre touche ne serait-ce que le bouchon desséché dans le goulot poussiéreux de cette misérable bouteille..."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/c-8/23
 msgctxt "Jacques"
 msgid "I will kill you."
-msgstr ""
+msgstr "Je te tuerai."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-2/c-8/31/0/s/0
 msgctxt "Choix"
 msgid "Or you'll imagine killing me, anyway."
-msgstr ""
+msgstr "Ou tu imagineras me tuer, en tout cas."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-3/0
 msgctxt "Narrator"
 msgid "Jacques pulls a pink cocktail sword from his waist, menacing you with it as though it were a proper pirate cutlass."
-msgstr ""
+msgstr "Jacques tire de sa ceinture une épée à cocktail rose, qu'il brandit vers vous comme s'il s'agissait d'un authentique coutelas de pirate."
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-3/8
 msgctxt "Jacques"
 msgid "Flee me, knave!!!"
-msgstr ""
+msgstr "Fuis-moi, canaille !!!"
 
+# Traduction IA – à relire
 #: jacques_ship/hate_track/0/g-3/16
 msgctxt "Jacques"
 msgid "For I am the fearsome Captain Jacques Pierrot — the plague of the high seas."
-msgstr ""
+msgstr "Car je suis le redoutable Capitaine Jacques Pierrot, le fléau des mers !"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/0
 msgctxt "Jacques"
 msgid "What did you say?!"
-msgstr ""
+msgstr "Qu'as-tu dit ?!"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/8/s/0
 msgctxt "Choix"
 msgid "I'm not stabbed?"
-msgstr ""
+msgstr "Je ne suis pas poignardé ?"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/c-0/7
 msgctxt "Jacques"
 msgid "How is this possible?"
-msgstr ""
+msgstr "Comment est-ce possible ?"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/c-0/15
 msgctxt "Jacques"
 msgid "Blimey, I can see me own hand rendering you like a fish still wriggling on the deck and you are standing there talking with lungs full of free air!"
-msgstr ""
+msgstr "Mille sabords, je vois ma propre main te trancher comme un poisson qui se débat encore sur le pont, et toi tu restes là à parler, les poumons pleins d'air libre !"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I think I get it."
-msgstr ""
+msgstr "Je crois que j'ai compris."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "You can't actually murder me with a plastic cocktail stick."
-msgstr ""
+msgstr "Tu ne peux pas vraiment me tuer avec un pic à cocktail en plastique."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/c-0/23/c-0/7
 msgctxt "Jacques"
 msgid "What do ye get, if it's not the violence of the murder I do on ye?"
-msgstr ""
+msgstr "Que comprends-tu, si ce n'est la violence du meurtre que je commets sur toi ?"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/c-0/23/c-1/7
 msgctxt "Jacques"
 msgid "How dare yer lips mouth 'round such traitorous syllables!"
-msgstr ""
+msgstr "Comment oses-tu faire rouler sur tes lèvres de si traîtresses syllabes !"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "I'm getting tired of these stupid and violent turns of phrases."
-msgstr ""
+msgstr "Je commence à en avoir marre de ces expressions stupides et violentes."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "But even if right now you can't kill me... you would if you could."
-msgstr ""
+msgstr "Mais même si là, tout de suite, tu ne peux pas me tuer... tu le ferais si tu pouvais."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "Honestly... sounds like a kick ass world!"
-msgstr ""
+msgstr "Franchement... ça a l'air d'être un monde du tonnerre !"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-0/3/s/0
 msgctxt "Choix"
 msgid "Gotcha. Now, truly, do I fear you."
-msgstr ""
+msgstr "Compris. Maintenant, je te crains vraiment."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-0/c-2/7
 msgctxt "Jacques"
 msgid "I would if I could and I can! It is the world of swashbuckling and a rum sun, where I am pistol proof!"
-msgstr ""
+msgstr "Je le ferais si je pouvais, et je le peux ! C'est le monde des fiers-à-bras et du soleil de rhum, où je suis à l'épreuve des pistolets !"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-0/c-3/7
 msgctxt "Jacques"
 msgid "It is and does!"
-msgstr ""
+msgstr "C'est le cas, et il l'est !"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-0/c-4/7
 msgctxt "Jacques"
 msgid "As you should."
-msgstr ""
+msgstr "Comme il se doit."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-1/0
 msgctxt "Jacques"
 msgid "But be wary with your familiarity..."
-msgstr ""
+msgstr "Mais méfie-toi de ta familiarité..."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-1/8
 msgctxt "Jacques"
 msgid "A hearty may tolerate the rats... but he will still skewer them when the hunger sets in."
-msgstr ""
+msgstr "Un brave peut tolérer les rats... mais il les embrochera quand même quand la faim se fera sentir."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Point taken."
-msgstr ""
+msgstr "Message reçu."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "That's... descriptive. Thanks."
-msgstr ""
+msgstr "C'est... descriptif. Merci."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-1/18/s/0
 msgctxt "Choix"
 msgid "Ew, you'd eat a rat...?"
-msgstr ""
+msgstr "Beurk, tu mangerais un rat... ?"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-1/c-7/7
 msgctxt "Jacques"
 msgid "I—"
-msgstr ""
+msgstr "Je—"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-1/c-7/15/0/s/0
 msgctxt "Choix"
 msgid "Nevermind, I don't wanna know."
-msgstr ""
+msgstr "Laisse tomber, je ne veux pas savoir."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "I just realized. You never actually introduced yourself."
-msgstr ""
+msgstr "Je viens de réaliser. Tu ne t'es jamais vraiment présenté."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-2/c-8/7
 msgctxt "Jacques"
 msgid "How can you not know my name."
-msgstr ""
+msgstr "Comment peux-tu ne pas connaître mon nom."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-2/c-8/15/0/s/0
 msgctxt "Choix"
 msgid "I never asked, I guess?"
-msgstr ""
+msgstr "Je ne l'ai jamais demandé, je suppose ?"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-2/c-8/15/1/s/0
 msgctxt "Choix"
 msgid "I can see on the screen it says \"Jacques\"."
-msgstr ""
+msgstr "Je vois à l'écran que ça dit « Jacques »."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-2/c-8/15/c-0/7
 msgctxt "Jacques"
 msgid "No, that's true, ye blaggard."
-msgstr ""
+msgstr "Non, c'est vrai, canaille."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-2/c-8/15/c-1/7
 msgctxt "Jacques"
 msgid "Y'know, before I had my own ship, if someone in the crew had started spouting the kind of nonsense you are dripping out of your gob..."
-msgstr ""
+msgstr "Tu sais, avant d'avoir mon propre navire, si quelqu'un de l'équipage s'était mis à débiter le genre de sornettes que tu dégoulines de ton clapet..."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/g-2/c-8/15/c-1/15
 msgctxt "Jacques"
 msgid "They would make him walk the plank with his drawers stuffed in his mouth."
-msgstr ""
+msgstr "On lui aurait fait marcher sur la planche, le caleçon enfoncé dans la bouche."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/ratjoin/0
 msgctxt "Jacques"
 msgid "But you haven't heard my moniker, say, closely whispered in the passageways of your nightmares?"
-msgstr ""
+msgstr "Mais tu n'as jamais entendu mon surnom, disons, chuchoté tout bas dans les coursives de tes cauchemars ?"
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/ratjoin/8/s/0
 msgctxt "Choix"
 msgid "...nope, can't say I have."
-msgstr ""
+msgstr "...non, je ne crois pas."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/ratjoin/9/s/0
 msgctxt "Choix"
 msgid "My nightmares are more insect-based."
-msgstr ""
+msgstr "Mes cauchemars sont plutôt à base d'insectes."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/ratjoin/10/s/0
 msgctxt "Choix"
 msgid "I'm literally in love with my nightmares."
-msgstr ""
+msgstr "Je suis littéralement amoureux de mes cauchemars."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/ratjoin/c-9/7
 msgctxt "Jacques"
 msgid "I need a new PR manager then."
-msgstr ""
+msgstr "Il me faut donc un nouveau responsable de communication."
 
+# Traduction IA – à relire
 #: jacques_ship/friendship_track/0/ratjoin/c-9/18
 msgctxt "Jacques"
 msgid "<w>PIRATE RELATIONS</w> before you even ask."
-msgstr ""
+msgstr "<w>RELATIONS PIRATES</w> avant même que tu demandes."
 
 #: jacques_ship/friendship_track/0/ratjoin/c-10/7
 msgctxt "Jacques"
