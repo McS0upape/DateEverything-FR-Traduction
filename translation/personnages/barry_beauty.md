@@ -22,10 +22,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, exubérant, flamboyant, style esthéticien branché ; beaucoup de « mon chou », « ma belle / mon beau » évités au profit d'appellatifs épicènes (« chéri·e » via {{chéri|chérie|chéri·e}}, « mon cœur », « mon chou », « ma puce »)
+- **Personnalité, manière de parler** : bavard, distrait, s'excuse sans cesse, digresse, fait des parenthèses ; insécurité sous la façade ; TDAH (oublie tout, hyperfixations) ; métaphores beauté (mascara, pores, fond de teint)
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « darling / hun / sweetie » → « mon cœur », « mon chou », « ma puce » ; « Oh dear » → « Oh là là » ; « fab-u-lous » → « FA-BU-LEUX » ; comparaisons beauté en « plus X que un mascara bon marché » ; « Styles Profiles™ » inchangé
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Oh, stupid Barry. Disposable Barry. You're doing it again! » → « Oh, Barry l'idiot. Barry le jetable. Tu recommences ! »
+  - « Freshly conditioned hair is the chocolate milk of texture. » → « Un cheveu fraîchement démêlé, c'est le chocolat chaud des textures. »
+  - « Oh holy cuticle clippers » → « Oh, sainte pince à cuticules »
