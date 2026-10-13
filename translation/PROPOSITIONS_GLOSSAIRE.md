@@ -48,3 +48,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Barry : FAB-U-LOUS → FA-BU-LEUX ; Sponge Authority → Autorité des Éponges (agent barry_beauty)
 - IMPORTANT cohérence : épée de Jacques « Le Pique » → « Le Braquemart » (relecture Opus, beau_box) — à appliquer dans jacques_ship et partout ailleurs
 - Cabrizzio : trauma dump → déballer ses traumas ; mots italiens, Il Ragazzo Pazzo, Zia Ventrina inchangés (agent cabrizzio_cabinet)
+- Artt : Sacred Paint → Sainte Peinture ; co-curator → {{co-conservateur|co-conservatrice|…}} (agent artt_art)

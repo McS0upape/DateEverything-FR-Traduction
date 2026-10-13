@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : vouvoie (formel, raide, même dans l'insulte)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, solennel, phrases courtes et sans contractions ; aucun argot.
+- **Personnalité, manière de parler** : gardien austère et mortellement sérieux de la vaisselle ; pince-sans-rire involontaire ; vexé par tout manque de respect envers les assiettes ; insultes désuètes (« rustre », « butor », « manant », « balourd »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « La vaisselle se traite avec respect » ; chip/crack (ébréché, fêlé) pour parler de lui-même ; « All china is fine china » -> « Toute porcelaine est de la porcelaine fine » ; calembours de vaisselle à réécrire.
+- **Exemples de répliques traduites (référence de ton)** : « Non. La vaisselle se traite avec respect. » ; « C'est à cela que servent les mots. » ; « Écartez-vous de la vaisselle. Elle n'a pas de prix. »
