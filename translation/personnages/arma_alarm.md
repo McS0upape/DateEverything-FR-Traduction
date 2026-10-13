@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (au début, un peu raide et pressée)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier-soutenu, énergique, ton de pompier hypervigilant et surmené ; exclamations, majuscules quand elle panique
+- **Personnalité, manière de parler** : détecteur de fumée épuisé (piles à plat), anxieuse, traumatisée par un incendie vu enfant, dénie sa fatigue, refuse les pauses ; apprend peu à peu à se reposer
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « bip » (batterie faible), <w>BLEEP</w> (censure/alarme), « Là où il y a de la fumée, il y a du feu » ; jeux sur feu/brûler/chaud/griller (« burn out » -> « cramer »)
+- **Exemples de répliques traduites (référence de ton)** : « Je n'ai pas de temps à perdre, il y a un risque d'incendie ! » ; « Je suis en pleine forme. <w>bip</w> » ; « Merci. Sincèrement, ça compte énormément pour moi. »
