@@ -1530,7 +1530,7 @@ msgstr "Tu as d'autres talents cachés ?"
 #: eddie_electro/breaker_box2/0/drink_time/c-10/15/1/s/0
 msgctxt "Choix"
 msgid "Color me impressed!"
-msgstr "Je suis impressionné, c'est sûr !"
+msgstr "Je suis {{impressionné|impressionnée|impressionné·e}}, c'est sûr !"
 
 # Traduction IA – à relire
 #: eddie_electro/breaker_box2/0/drink_time/c-10/15/c-0/7
@@ -1584,7 +1584,7 @@ msgstr "Enfin, si la tentation suffit à vous ramener me voir, disons... un soir
 #: eddie_electro/breaker_box2/0/drink_time/c-10/15/g-0/0/g-0/24/0/s/0
 msgctxt "Choix"
 msgid "Y-yes please."
-msgstr "O-oui s'il vous plaît."
+msgstr "O-oui s'il te plaît."
 
 # Traduction IA – à relire
 #: eddie_electro/breaker_box2/0/drink_time/c-10/15/g-0/0/g-0/24/1/s/0
@@ -2082,7 +2082,7 @@ msgstr "...oh, putain, qu'est-ce que tu veux ?"
 #: eddie_electro/spotlight2/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "Sorry I asked... I'll be on my way."
-msgstr "Désolé de demander... Je m'en vais."
+msgstr "Pardon d'avoir demandé... Je m'en vais."
 
 # Traduction IA – à relire
 #: eddie_electro/spotlight2/0/g-2/1/s/0
@@ -2888,1255 +2888,1505 @@ msgctxt "Eddie"
 msgid "Nothing, no matter how well made, can function indefinitely. Eventually, we all wear down one way or another."
 msgstr "Rien, aussi bien conçu soit-il, ne peut fonctionner indéfiniment. Tôt ou tard, on s'use tous d'une façon ou d'une autre."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-3/16
 msgctxt "Eddie"
 msgid "And if something isn't given proper maintenance, they break down even faster."
-msgstr ""
+msgstr "Et quand un truc est mal entretenu, il casse encore plus vite."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "Are you saying Volt is wearing down?"
-msgstr ""
+msgstr "Tu dis que Volt s'use ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-3/25/s/0
 msgctxt "Choix"
 msgid "What happens if a thing wears out completely?"
-msgstr ""
+msgstr "Qu'est-ce qui se passe quand un truc est complètement usé ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-3/c-10/7
 msgctxt "Eddie"
 msgid "In the sense that we're all wearing down from the second we're produced."
-msgstr ""
+msgstr "Dans le sens où on s'use tous à la seconde où on est fabriqués."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-3/c-10/15
 msgctxt "Eddie"
 msgid "But no, that's not what's causing the power fluctuations."
-msgstr ""
+msgstr "Mais non, c'est pas ça qui cause les fluctuations de courant."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-3/c-11/15
 msgctxt "Eddie"
 msgid "Then it becomes useless, doesn't it?"
-msgstr ""
+msgstr "Alors il devient inutile, non ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/0
 msgctxt "Eddie"
 msgid "Come on, we're starting with the wiring backstage. Oh and grab that tool bag."
-msgstr ""
+msgstr "Allez, on commence par le câblage en coulisses. Ah, et prends la sacoche d'outils."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/8
 msgctxt "Narrator"
 msgid "Though you are not a natural handyman and Eddie is not a teacher, the two of you manage to make decent progress through his to-do list."
-msgstr ""
+msgstr "Même si le bricolage n'est pas votre fort et qu'Eddie n'est pas un pédagogue, vous parvenez à faire de beaux progrès dans sa liste de tâches."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/16
 msgctxt "Narrator"
 msgid "At one point, Eddie leaves you alone to get something from the bar and you confidently ascend a ladder to change a dead bulb."
-msgstr ""
+msgstr "À un moment, Eddie vous laisse sans surveillance pour aller chercher quelque chose au bar et vous grimpez avec assurance sur une échelle pour changer une ampoule grillée."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/24
 msgctxt "Narrator"
 msgid "But as Eddie returns..."
-msgstr ""
+msgstr "Mais alors qu'Eddie revient..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/29
 msgctxt "Eddie"
 msgid "Wait! Be careful, that's not-!"
-msgstr ""
+msgstr "Attends ! Fais gaffe, c'est pas-!"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/40
 msgctxt "Narrator"
 msgid "The ladder suddenly gives way beneath you, releasing you into thin air."
-msgstr ""
+msgstr "L'échelle cède soudain sous vos pieds, vous projetant dans le vide."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/48
 msgctxt "Narrator"
 msgid "But a split second later, Eddie is there, strong arms outstretched, to catch you."
-msgstr ""
+msgstr "Mais une fraction de seconde plus tard, Eddie est là, les bras tendus, pour vous rattraper."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/56
 msgctxt "Eddie"
 msgid "... stable."
-msgstr ""
+msgstr "... stable."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/72
 msgctxt "Eddie"
 msgid "Are you alright?"
-msgstr ""
+msgstr "Ça va ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/80
 msgctxt "Narrator"
 msgid "The customary ice in Eddie's eyes, just for a moment, has melted."
-msgstr ""
+msgstr "La glace habituelle dans le regard d'Eddie a fondu, l'espace d'un instant."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/85/s/0
 msgctxt "Choix"
 msgid "Uh y-yeah, I think so."
-msgstr ""
+msgstr "Euh o-ouais, je crois."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-4/86/s/0
 msgctxt "Choix"
 msgid "I'm fine. You can put me down now..."
-msgstr ""
+msgstr "Ça va. Tu peux me reposer maintenant..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-5/8
 msgctxt "Narrator"
 msgid "As Eddie releases you, his face contorts back into its customary gruff expression."
-msgstr ""
+msgstr "Quand Eddie vous relâche, son visage se recompose en son habituelle expression bourrue."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-5/13
 msgctxt "Eddie"
 msgid "That was unbelievably careless. What were you trying to do exactly?"
-msgstr ""
+msgstr "C'était d'une imprudence incroyable. Tu essayais de faire quoi, exactement ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-5/21/s/0
 msgctxt "Choix"
 msgid "What you told me to do?"
-msgstr ""
+msgstr "Ce que tu m'avais dit de faire ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-5/22/s/0
 msgctxt "Choix"
 msgid "Replacing the lightbulb, like you said!"
-msgstr ""
+msgstr "Remplacer l'ampoule, comme tu l'avais dit !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-6/0
 msgctxt "Eddie"
 msgid "I told you to replace the one <i>behind the bar</i>."
-msgstr ""
+msgstr "Je t'avais dit de remplacer celle <i>derrière le bar</i>."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-6/8/s/0
 msgctxt "Choix"
 msgid "You did?"
-msgstr ""
+msgstr "Ah bon ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-6/9/s/0
 msgctxt "Choix"
 msgid "Oops..."
-msgstr ""
+msgstr "Oups..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-7/0
 msgctxt "Eddie"
 msgid "The floorboard under these lights is loose, which is why I told you <i>not</i> to touch them yet."
-msgstr ""
+msgstr "Le plancher sous ces lumières est branlant, c'est pour ça que je t'avais dit de <i>pas</i> y toucher pour l'instant."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-7/8/s/0
 msgctxt "Choix"
 msgid "Oooooooh, <i>not</i> to touch them."
-msgstr ""
+msgstr "Oooooooh, de <i>pas</i> y toucher."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-7/9/s/0
 msgctxt "Choix"
 msgid "Well maybe just say that next time instead of being so cryptic!"
-msgstr ""
+msgstr "Eh bien peut-être que la prochaine fois tu pourrais le dire au lieu d'être aussi cryptique !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-8/8
 msgctxt "Eddie"
 msgid "Just pay more attention."
-msgstr ""
+msgstr "Fais juste plus attention."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-8/16/s/0
 msgctxt "Choix"
 msgid "I will, I will."
-msgstr ""
+msgstr "Promis, promis."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-8/17/s/0
 msgctxt "Choix"
 msgid "Still think you could have been more clear..."
-msgstr ""
+msgstr "Je pense toujours que tu aurais pu être plus clair..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-8/c-21/7
 msgctxt "Eddie"
 msgid "What was that?"
-msgstr ""
+msgstr "Quoi ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-8/c-21/15/0/s/0
 msgctxt "Choix"
 msgid "Nothing!"
-msgstr ""
+msgstr "Rien !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-8/c-21/15/1/s/0
 msgctxt "Choix"
 msgid "I said I... love... being here...?"
-msgstr ""
+msgstr "J'ai dit que j'... adore... être ici...?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-8/c-21/15/g-0/0
 msgctxt "Eddie"
 msgid "Right..."
-msgstr ""
+msgstr "Mouais..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/0
 msgctxt "Eddie"
 msgid "You're... you're sure you're not hurt?"
-msgstr ""
+msgstr "Tu... t'as vraiment rien ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/8/s/0
 msgctxt "Choix"
 msgid "I'm good, really. Thanks for catching me."
-msgstr ""
+msgstr "Ça va, vraiment. Merci de m'avoir rattrapé."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/9/s/0
 msgctxt "Choix"
 msgid "No, you were pretty quick."
-msgstr ""
+msgstr "Non, t'as été plutôt rapide."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/10/s/0
 msgctxt "Choix"
 msgid "Maybe you should pick me back up, just to make sure."
-msgstr ""
+msgstr "Tu devrais peut-être me reprendre dans tes bras, juste pour vérifier."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/c-22/7
 msgctxt "Eddie"
 msgid "You're welcome."
-msgstr ""
+msgstr "De rien."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/c-22/15
 msgctxt "Eddie"
 msgid "Let's not make a habit of it."
-msgstr ""
+msgstr "N'en faisons pas une habitude."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/c-23/7
 msgctxt "Eddie"
 msgid "Don't read into it."
-msgstr ""
+msgstr "Va pas te faire des idées."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-9/c-24/7
 msgctxt "Eddie"
 msgid "... Next time I'm just going to let you fall."
-msgstr ""
+msgstr "... La prochaine fois, je te laisse tomber."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-10/0
 msgctxt "Eddie"
 msgid "Now go get the ladder and put it <i>behind the bar</i> this time."
-msgstr ""
+msgstr "Maintenant va chercher l'échelle et mets-la <i>derrière le bar</i> cette fois."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-10/8
 msgctxt "Narrator"
 msgid "The next and last phase of your work proceeds without incident."
-msgstr ""
+msgstr "La phase suivante et dernière de votre travail se déroule sans incident."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-10/13/s/0
 msgctxt "Choix"
 msgid "Whew! You weren't kidding about this being hard work."
-msgstr ""
+msgstr "Ouf ! Tu blaguais pas, c'est du boulot."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-10/14/s/0
 msgctxt "Choix"
 msgid "It's actually kinda fun doing this stuff. Working with your hands."
-msgstr ""
+msgstr "C'est assez marrant, en fait, de faire ce genre de trucs. Travailler de ses mains."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-10/15/s/0
 msgctxt "Choix"
 msgid "Are we done? Please tell me we're done. I'm exhausted. I think my calluses have calluses."
-msgstr ""
+msgstr "On a fini ? Dis-moi qu'on a fini. Je n'en peux plus. Je crois que mes cals ont des cals."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-10/c-27/7
 msgctxt "Eddie"
 msgid "That's what happens when you actually use your hands. You'll get used to it."
-msgstr ""
+msgstr "C'est ce qui arrive quand on se sert vraiment de ses mains. Tu t'y feras."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-10/c-27/15
 msgctxt "Eddie"
 msgid "Still, for your first time..."
-msgstr ""
+msgstr "Quand même, pour une première fois..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/0
 msgctxt "Eddie"
 msgid "You've done... surprisingly adequate work. Mostly."
-msgstr ""
+msgstr "T'as fait un travail... étonnamment correct. Dans l'ensemble."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/8/s/0
 msgctxt "Choix"
 msgid "And I only dropped the tools three times!"
-msgstr ""
+msgstr "Et j'ai fait tomber les outils que trois fois !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/9/s/0
 msgctxt "Choix"
 msgid "Well, I had a pretty good teacher."
-msgstr ""
+msgstr "Eh bien, j'avais un assez bon prof."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/10/s/0
 msgctxt "Choix"
 msgid "Come on, I did great. Admit it!"
-msgstr ""
+msgstr "Allez, j'ai assuré. Avoue !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/c-28/15
 msgctxt "Eddie"
 msgid "Tony is going to kill me."
-msgstr ""
+msgstr "Tony va me tuer."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/c-29/7
 msgctxt "Eddie"
 msgid "No, you had an <i>excellent</i> teacher."
-msgstr ""
+msgstr "Non, t'avais un prof <i>excellent</i>."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/c-29/15
 msgctxt "Eddie"
 msgid "If you'd only had a 'pretty good' teacher, you probably would have electrocuted yourself. Twice."
-msgstr ""
+msgstr "Avec un prof juste « assez bon », ça aurait fini en électrocution. Deux fois."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/c-30/7
 msgctxt "Eddie"
 msgid "You didn't electrocute yourself, which is mostly thanks to me."
-msgstr ""
+msgstr "T'as évité l'électrocution, et c'est surtout grâce à moi."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-11/c-30/15
 msgctxt "Eddie"
 msgid "But I suppose it's still... an accomplishment."
-msgstr ""
+msgstr "Mais je suppose que c'est quand même... une réussite."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/0
 msgctxt "Eddie"
 msgid "And we got through more of the to-do list than I expected. That's probably good enough for today if you want to... you know... head out."
-msgstr ""
+msgstr "Et on a avancé dans la liste plus que je pensais. Ça suffit probablement pour aujourd'hui si tu veux... tu sais... y aller."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/8/s/0
 msgctxt "Choix"
 msgid "Or I could stay and hang out for a bit?"
-msgstr ""
+msgstr "Ou je pourrais rester traîner un peu ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/9/s/0
 msgctxt "Choix"
 msgid "Come on, I'm dying here. Let me sit for a few minutes."
-msgstr ""
+msgstr "Allez, j'en peux plus. Laisse-moi m'asseoir quelques minutes."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/10/s/0
 msgctxt "Choix"
 msgid "I know you had fun today too, I can tell."
-msgstr ""
+msgstr "Je sais que t'as pris du bon temps aujourd'hui aussi, ça se voit."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/11/s/0
 msgctxt "Choix"
 msgid "See you next time, Eddie. Happy to help."
-msgstr ""
+msgstr "À la prochaine, Eddie. C'était un plaisir d'aider."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-31/7
 msgctxt "Eddie"
 msgid "I suppose if you want to rest before you leave that's... fine."
-msgstr ""
+msgstr "Je suppose que si tu veux te reposer avant de partir, c'est... bon."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-32/15
 msgctxt "Eddie"
 msgid "There's no point in arguing, is there?"
-msgstr ""
+msgstr "Ça sert à rien de discuter, hein ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-32/23 eddie_electro/eddievolt_love_ending/0/g-1/c-5/26
 msgctxt "Eddie"
 msgid "Fine."
-msgstr ""
+msgstr "Bon."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/7
 msgctxt "Eddie"
 msgid "Oh yeah? How's that?"
-msgstr ""
+msgstr "Ah ouais ? Comment ça ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/15/0/s/0
 msgctxt "Choix"
 msgid "Because you're not being as much of an asshole."
-msgstr ""
+msgstr "Parce que tu fais moins ton con."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/15/1/s/0
 msgctxt "Choix"
 msgid "You didn't even try to kick me out today."
-msgstr ""
+msgstr "T'as même pas essayé de me mettre dehors aujourd'hui."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/15/g-0/0
 msgctxt "Eddie"
 msgid "Heh."
-msgstr ""
+msgstr "Heh."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/15/g-0/8
 msgctxt "Eddie"
 msgid "I suppose you're right. Maybe I'm just tired. I'm sure I'll be better tomorrow."
-msgstr ""
+msgstr "Je suppose que t'as raison. Peut-être que je suis juste fatigué. Ça ira mieux demain, je suis sûr."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/15/g-0/16/s/0
 msgctxt "Choix"
 msgid "I think that's the first time I've actually seen you smile!"
-msgstr ""
+msgstr "Je crois que c'est la première fois que je te vois sourire !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/15/g-0/17/s/0
 msgctxt "Choix"
 msgid "Careful, you almost sound like you're enjoying yourself."
-msgstr ""
+msgstr "Attention, on dirait presque que tu t'amuses."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-33/15/g-0/c-3/7
 msgctxt "Eddie"
 msgid "Don't get used to it."
-msgstr ""
+msgstr "T'y habitue pas."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-12/c-34/7
 msgctxt "Eddie"
 msgid "Thanks."
-msgstr ""
+msgstr "Merci."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/0/s/0
 msgctxt "Choix"
 msgid "Did we fix everything yet?"
-msgstr ""
+msgstr "On a tout réparé, maintenant ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/1/s/0
 msgctxt "Choix"
 msgid "I still don't understand how any of this actually <i>helps</i> Volt or the power issues."
-msgstr ""
+msgstr "Je comprends toujours pas en quoi tout ça <i>aide</i> Volt ou les problèmes de courant."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/2/s/0
 msgctxt "Choix"
 msgid "Uh, I suddenly feel awkward and self-conscious."
-msgstr ""
+msgstr "Euh, d'un coup je me sens {{gêné|gênée|gêné·e}} et sur la sellette."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-35/7
 msgctxt "Eddie"
 msgid "Not everything... these things take time."
-msgstr ""
+msgstr "Pas tout... ces choses-là prennent du temps."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-35/15
 msgctxt "Eddie"
 msgid "Look. Next time we'll get the rest..."
-msgstr ""
+msgstr "Écoute. La prochaine fois on fera le reste..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-35/23
 msgctxt "Eddie"
 msgid "Just need to do a little more work and it'll all be fixed..."
-msgstr ""
+msgstr "Faut juste un peu plus de boulot et tout sera réparé..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-35/31/0/s/0
 msgctxt "Choix"
 msgid "You okay, Eddie?"
-msgstr ""
+msgstr "Ça va, Eddie ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-35/31/1/s/0
 msgctxt "Choix"
 msgid "Sounds great!"
-msgstr ""
+msgstr "Ça me va !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-35/31/c-0/7
 msgctxt "Eddie"
 msgid "Yeah. I'm always okay."
-msgstr ""
+msgstr "Ouais. Je vais toujours bien."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-35/31/g-0/0
 msgctxt "Eddie"
 msgid "See ya."
-msgstr ""
+msgstr "À plus."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/7
 msgctxt "Eddie"
 msgid "Efficiency is important in a circuit. You can lose a lot of power to weak points if you don't maintain it."
-msgstr ""
+msgstr "L'efficacité, c'est important dans un circuit. On peut perdre beaucoup de puissance dans les points faibles si on l'entretient pas."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/15
 msgctxt "Eddie"
 msgid "So when something around here breaks, it can drag everything else down with it. And like I said, things have been breaking faster than I can fix them."
-msgstr ""
+msgstr "Donc quand un truc lâche ici, ça peut entraîner tout le reste avec. Et comme je disais, les trucs lâchent plus vite que je peux les réparer."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/23
 msgctxt "Eddie"
 msgid "I just didn't realize how bad it had gotten... he should have said something..."
-msgstr ""
+msgstr "J'avais juste pas réalisé à quel point c'était devenu mauvais... il aurait dû dire quelque chose..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/39
 msgctxt "Eddie"
 msgid "Taking care of all this helps keep the power where Volt needs it, and drains less power overall."
-msgstr ""
+msgstr "S'occuper de tout ça aide à garder le courant là où Volt en a besoin, et à en gaspiller moins au total."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/47/0/s/0
 msgctxt "Choix"
 msgid "I guess that makes sense."
-msgstr ""
+msgstr "Je suppose que c'est logique."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/47/1/s/0
 msgctxt "Choix"
 msgid "Thanks for letting me help. I'm sure it's been uncomfortable having someone else in your space while you work."
-msgstr ""
+msgstr "Merci de m'avoir laissé aider. Je suis sûr que c'était pas agréable d'avoir quelqu'un d'autre dans ton espace pendant que tu bosses."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/47/c-0/7
 msgctxt "Eddie"
 msgid "It does. Just trust me."
-msgstr ""
+msgstr "Si. Crois-moi."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-36/47/c-1/15
 msgctxt "Eddie"
 msgid "Sure. Don't mention it."
-msgstr ""
+msgstr "Bien sûr. Y'a pas de quoi."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-13/c-37/7
 msgctxt "Eddie"
 msgid "And I suddenly feel like I know way too much about you now."
-msgstr ""
+msgstr "Et d'un coup j'ai l'impression d'en savoir beaucoup trop sur toi."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-14/0
 msgctxt "Eddie"
 msgid "You did good work today. At least you weren't <i>completely</i> useless."
-msgstr ""
+msgstr "T'as bien bossé aujourd'hui. Au moins t'as pas été <i>complètement</i> inutile."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-14/8
 msgctxt "Eddie"
 msgid "Get some rest. You'll need it."
-msgstr ""
+msgstr "Va te reposer. T'en auras besoin."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box3/0/g-14/16
 msgctxt "Eddie"
 msgid "A lot more to do tomorrow."
-msgstr ""
+msgstr "Y'a beaucoup plus à faire demain."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/6
 msgctxt "Narrator"
 msgid "You find The Breaker Box closed, looking almost abandoned."
-msgstr ""
+msgstr "Vous trouvez le Breaker Box fermé, presque abandonné."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/11
 msgctxt "Narrator"
 msgid "There is still a loneliness about it, though. The impression isn't lessened by the image of Eddie inside at the bar, twirling a cocktail glass in his hand."
-msgstr ""
+msgstr "Il s'en dégage pourtant une solitude. L'impression n'est pas atténuée par l'image d'Eddie à l'intérieur, au bar, faisant tourner un verre à cocktail dans sa main."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/16
 msgctxt "Eddie"
 msgid "Interesting..."
-msgstr ""
+msgstr "Intéressant..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/24
 msgctxt "Eddie"
 msgid "I thought for sure after yesterday you'd change your mind."
-msgstr ""
+msgstr "J'étais certain qu'après hier tu aurais changé d'avis."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/32
 msgctxt "Eddie"
 msgid "But, here you are. Again."
-msgstr ""
+msgstr "Et pourtant, te voilà. Encore."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/40/s/0
 msgctxt "Choix"
 msgid "Everything hurts and I slept forever but... I don't know, I had a lot of fun learning how to do stuff."
-msgstr ""
+msgstr "J'ai mal partout et j'ai dormi une éternité mais... je sais pas, j'ai pris un grand plaisir à apprendre à faire des trucs."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/41/s/0
 msgctxt "Choix"
 msgid "At this point I'm just sticking around to spite you."
-msgstr ""
+msgstr "À ce stade, je reste juste pour t'embêter."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/7
 msgctxt "Eddie"
 msgid "Really? I find that hard to believe."
-msgstr ""
+msgstr "Vraiment ? J'ai du mal à y croire."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Yeah! I'm actually excited to do more. After yesterday I just felt so..."
-msgstr ""
+msgstr "Ouais ! J'ai vraiment hâte d'en faire plus. Après hier j'avais une telle impression de..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Well, maybe it's because you're fun to be around."
-msgstr ""
+msgstr "Eh bien, c'est peut-être parce que t'es sympa à côté de qui traîner."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/7
 msgctxt "Eddie"
 msgid "Accomplished."
-msgstr ""
+msgstr "D'accomplissement."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "It was... really nice."
-msgstr ""
+msgstr "C'était... vraiment agréable."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I might've said \"like a stone cold badass,\" but sure."
-msgstr ""
+msgstr "J'aurais peut-être dit « comme un dur à cuire », mais ouais."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/0
 msgctxt "Eddie"
 msgid "It's fulfilling, isn't it?"
-msgstr ""
+msgstr "C'est gratifiant, non ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/8
 msgctxt "Eddie"
 msgid "Taking something that's falling apart and putting it back together again."
-msgstr ""
+msgstr "Prendre quelque chose qui tombe en morceaux et le remettre en état."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/16
 msgctxt "Eddie"
 msgid "No matter how damaged it is, there's always a fix that can hold it together."
-msgstr ""
+msgstr "Peu importe à quel point c'est abîmé, il y a toujours une réparation qui peut le tenir ensemble."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/24/s/0
 msgctxt "Choix"
 msgid "Is that how you feel?"
-msgstr ""
+msgstr "C'est ce que tu ressens ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/25/s/0
 msgctxt "Choix"
 msgid "Is that why you like fixing stuff?"
-msgstr ""
+msgstr "C'est pour ça que tu aimes réparer des trucs ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/7 eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/7
 msgctxt "Eddie"
 msgid "Hm?"
-msgstr ""
+msgstr "Hm ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Umm accomplished, I mean. When you fix stuff."
-msgstr ""
+msgstr "Euh, d'accomplissement, je veux dire. Quand tu répares des trucs."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Like you're damaged?"
-msgstr ""
+msgstr "Comme si t'étais abîmé ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-0/7
 msgctxt "Eddie"
 msgid "Oh... yeah. You could say that."
-msgstr ""
+msgstr "Oh... ouais. On peut dire ça."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-0/15
 msgctxt "Eddie"
 msgid "Sounds like we might have that in common. Maybe I didn't give you enough credit before..."
-msgstr ""
+msgstr "On dirait qu'on a ça en commun. Peut-être que je t'ai pas assez donné de crédit avant..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-0/23
 msgctxt "Eddie"
 msgid "Okay, enough chit chat."
-msgstr ""
+msgstr "Bon, assez bavardé."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-0/31
 msgctxt "Eddie"
 msgid "We gotta fix that loose floorboard before you trip over it."
-msgstr ""
+msgstr "Faut qu'on répare ce plancher branlant avant que tu trébuches dessus."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-0/39 eddie_electro/breaker_box4/0/c-1/15/g-1/16
 msgctxt "Eddie"
 msgid "Again."
-msgstr ""
+msgstr "Encore."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/15
 msgctxt "Eddie"
 msgid "Everything gets damaged. Eventually."
-msgstr ""
+msgstr "Tout finit par s'abîmer. Un jour ou l'autre."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/23
 msgctxt "Eddie"
 msgid "That's just how it is."
-msgstr ""
+msgstr "C'est comme ça."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "Hey. If you ever want to, you can talk to me."
-msgstr ""
+msgstr "Hé. Si jamais tu veux, tu peux me parler."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "Kind of a dark worldview, bro."
-msgstr ""
+msgstr "Une vision du monde un peu sombre, là."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/c-1/7
 msgctxt "Eddie"
 msgid "What can I say."
-msgstr ""
+msgstr "Que veux-tu que je te dise."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/c-1/15
 msgctxt "Eddie"
 msgid "For every positive charge there's a negative..."
-msgstr ""
+msgstr "À chaque charge positive correspond une négative..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/c-1/23
 msgctxt "Eddie"
 msgid "Anyway."
-msgstr ""
+msgstr "Bref."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/c-1/31 eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/g-0/24
 msgctxt "Eddie"
 msgid "We need to fix that loose floorboard before you trip over it. Again."
-msgstr ""
+msgstr "Faut qu'on répare ce plancher branlant avant que tu trébuches dessus. Encore."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/g-0/8 eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/23/g-0/8
 msgctxt "Eddie"
 msgid "I'll... keep that in mind."
-msgstr ""
+msgstr "Je... vais y réfléchir."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-2/15/c-1/31/g-0/16
 msgctxt "Eddie"
 msgid "Let's go."
-msgstr ""
+msgstr "Allons-y."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "Because it makes you feel accomplished, I mean."
-msgstr ""
+msgstr "Parce que ça te donne un sentiment d'accomplissement, je veux dire."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/1/s/0
 msgctxt "Choix"
 msgid "Because you feel responsible for holding things together?"
-msgstr ""
+msgstr "Parce que tu te sens responsable de tenir les choses ensemble ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-0/7
 msgctxt "Eddie"
 msgid "Sure. Accomplished. Necessary. Not a total damned waste of space."
-msgstr ""
+msgstr "Ouais. Accompli. Nécessaire. Pas une putain de perte de place."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-0/15
 msgctxt "Eddie"
 msgid "Sounds like we have that in common. Maybe I didn't give you enough credit before..."
-msgstr ""
+msgstr "On dirait qu'on a ça en commun. Peut-être que je t'ai pas assez donné de crédit avant..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-0/23
 msgctxt "Eddie"
 msgid "Anyway. We're gonna fix that loose floorboard today."
-msgstr ""
+msgstr "Bref. On va réparer ce plancher branlant aujourd'hui."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-0/31
 msgctxt "Eddie"
 msgid "The one you almost died on?"
-msgstr ""
+msgstr "Celui sur lequel t'as failli y passer ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-0/39
 msgctxt "Eddie"
 msgid "Yeah. Let's go."
-msgstr ""
+msgstr "Ouais. Allons-y."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/15
 msgctxt "Eddie"
 msgid "Don't know what you're talking about..."
-msgstr ""
+msgstr "Je vois pas de quoi tu parles..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "I think you do. But it's cool. No pressure. I'm here."
-msgstr ""
+msgstr "Je crois que si. Mais c'est cool. Aucune pression. Je suis là."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "Good deflection."
-msgstr ""
+msgstr "Belle esquive."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/23/c-1/7
 msgctxt "Eddie"
 msgid "Bow to the master."
-msgstr ""
+msgstr "Inclinez-vous devant le maître."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/23/g-0/16
 msgctxt "Eddie"
 msgid "So. Shall we go fix that loose floorboard?"
-msgstr ""
+msgstr "Alors. On va réparer ce plancher branlant ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/23/g-0/24
 msgctxt "Eddie"
 msgid "Before you almost break your neck again?"
-msgstr ""
+msgstr "Avant que tu te brises encore la nuque ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-0/15/g-0/c-3/15/c-1/23/g-0/32
 msgctxt "Eddie"
 msgid "Great."
-msgstr ""
+msgstr "Super."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/7
 msgctxt "Eddie"
 msgid "Right. You sure you're not thinking of Volt?"
-msgstr ""
+msgstr "Mouais. T'es sûr de pas confondre avec Volt ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Volt is fun too, but you're so... yourself. I think that's better."
-msgstr ""
+msgstr "Volt aussi est sympa, mais toi t'es tellement... toi-même. Je trouve ça mieux."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "I mean it! It's kinda sexy when you're in teacher mode."
-msgstr ""
+msgstr "Je suis sérieux ! C'est assez sexy quand tu passes en mode prof."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-0/7
 msgctxt "Eddie"
 msgid "I wouldn't be so sure about that."
-msgstr ""
+msgstr "Je serais pas si sûr de ça."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-1/7
 msgctxt "Eddie"
 msgid "... what?"
-msgstr ""
+msgstr "... quoi ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "You make this really cute face when you're concentrating."
-msgstr ""
+msgstr "Tu fais une petite tête trop mignonne quand tu te concentres."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Oh yeah. The vest is really doing it for me."
-msgstr ""
+msgstr "Ah ouais. Le gilet, ça me fait vraiment de l'effet."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-1/15/g-0/0
 msgctxt "Eddie"
 msgid "Stop. Nevermind. I'm sorry I asked."
-msgstr ""
+msgstr "Stop. Laisse tomber. Je regrette d'avoir demandé."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-1/15/g-0/8
 msgctxt "Eddie"
 msgid "I'm gonna go fix a floorboard."
-msgstr ""
+msgstr "Je vais réparer un plancher."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-1/15/g-0/16
 msgctxt "Eddie"
 msgid "Wanna come? It's the one that almost killed you."
-msgstr ""
+msgstr "Tu viens ? C'est celui qui a failli te tuer."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-0/15/c-1/15/c-1/15/g-0/24
 msgctxt "Eddie"
 msgid "Should be fun."
-msgstr ""
+msgstr "Ça devrait être marrant."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/7
 msgctxt "Eddie"
 msgid "Ooh, is that a challenge? I'm sure I could dig up something more difficult for today, if you'd like."
-msgstr ""
+msgstr "Ooh, c'est un défi ? Je dois pouvoir dénicher quelque chose de plus difficile pour aujourd'hui, si tu veux."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Bring it on, I can take it."
-msgstr ""
+msgstr "Vas-y, je peux encaisser."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Good, yesterday was too easy anyway."
-msgstr ""
+msgstr "Bien, hier c'était trop facile de toute façon."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-0/0
 msgctxt "Eddie"
 msgid "Heheh heh heh heh."
-msgstr ""
+msgstr "Hé hé hé hé hé."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-0/8
 msgctxt "Eddie"
 msgid "Is that so? I guess only being <i>nearly</i> electrocuted wasn't exciting enough for you."
-msgstr ""
+msgstr "C'est vrai ? Je suppose qu'avoir <i>presque</i> été électrocuté, c'était pas assez excitant pour toi."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-0/16
 msgctxt "Eddie"
 msgid "I'll try not to slow you down with safety gloves this time."
-msgstr ""
+msgstr "J'essaierai de pas te ralentir avec des gants de sécurité cette fois."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-0/24/s/0
 msgctxt "Choix"
 msgid "Hey, that one wasn't my fault!"
-msgstr ""
+msgstr "Hé, celle-là c'était pas ma faute !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-0/25/s/0
 msgctxt "Choix"
 msgid "You're really enjoying this..."
-msgstr ""
+msgstr "Tu prends vraiment ton pied..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-0/c-2/7
 msgctxt "Eddie"
 msgid "Of course not."
-msgstr ""
+msgstr "Bien sûr que non."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-0/c-3/7
 msgctxt "Eddie"
 msgid "Immensely."
-msgstr ""
+msgstr "Énormément."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-1/0
 msgctxt "Eddie"
 msgid "Why don't we start with fixing that loose floorboard, hm?"
-msgstr ""
+msgstr "Et si on commençait par réparer ce plancher branlant, hm ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/c-1/15/g-1/8
 msgctxt "Eddie"
 msgid "Before you trip over it."
-msgstr ""
+msgstr "Avant que tu trébuches dessus."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/3
 msgctxt "Narrator"
 msgid "Eddie remains a semi-patient, semi-competent teacher... and you help as best you can."
-msgstr ""
+msgstr "Eddie reste un professeur à moitié patient, à moitié compétent... et vous l'aidez du mieux que vous pouvez."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/8
 msgctxt "Narrator"
 msgid "You notice he does not leave you alone this time. He won't admit it, but you can feel that he is concerned for your safety... there's a tiny bit of warmth peeking through that cold exterior."
-msgstr ""
+msgstr "Vous remarquez qu'il ne s'éloigne pas cette fois. Il ne l'admettra pas, mais vous sentez qu'il s'inquiète pour votre sécurité... un tout petit peu de chaleur perce à travers cette froideur."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/13
 msgctxt "Eddie"
 msgid "Almost done. Hand me the pliers."
-msgstr ""
+msgstr "Presque fini. Passe-moi la pince."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/29
 msgctxt "Eddie"
 msgid "It's getting late. I can finish up this set myself. Why don't you go get some rest."
-msgstr ""
+msgstr "Il se fait tard. Je peux finir cette série tout seul. Va te reposer."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/37/s/0
 msgctxt "Choix"
 msgid "And give you the satisfaction of saying I left early? No way."
-msgstr ""
+msgstr "Et te donner la satisfaction de dire que je suis parti tôt ? Jamais."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/38/s/0
 msgctxt "Choix"
 msgid "I don't have anywhere else to be, I'll help until it's done."
-msgstr ""
+msgstr "J'ai rien d'autre à faire, je t'aide jusqu'à la fin."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/39/s/0
 msgctxt "Choix"
 msgid "Ah jeeeeeez thank god. Bye!"
-msgstr ""
+msgstr "Ah ouf, merci mon dieu. Salut !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/c-4/7
 msgctxt "Eddie"
 msgid "...seriously?"
-msgstr ""
+msgstr "...sérieux ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/c-4/15/0/s/0
 msgctxt "Choix"
 msgid "Well yeah. I'm tired."
-msgstr ""
+msgstr "Ben ouais. J'en peux plus."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/c-4/15/1/s/0
 msgctxt "Choix"
 msgid "Weren't you serious?"
-msgstr ""
+msgstr "Tu étais sérieux ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/c-4/15/g-0/0
 msgctxt "Eddie"
 msgid "...yeah. Cool."
-msgstr ""
+msgstr "...ouais. Cool."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/drink_break/c-4/15/g-0/8
 msgctxt "Eddie"
 msgid "I got this. See ya later."
-msgstr ""
+msgstr "Je gère. À plus tard."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/0
 msgctxt "Eddie"
 msgid "Suit yourself."
-msgstr ""
+msgstr "Comme tu veux."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/8
 msgctxt "Narrator"
 msgid "It's fun to watch Eddie work—there's a real satisfaction in seeing just how dedicated he is, how skilled his hands are. But this time, there are sparks in the current."
-msgstr ""
+msgstr "C'est agréable de regarder Eddie travailler : il y a une vraie satisfaction à voir à quel point il est appliqué, à quel point ses mains sont habiles. Mais cette fois, il y a des étincelles dans le courant."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/16
 msgctxt "Narrator"
 msgid "By the time he's finishing up, he looks exhausted. With a heavy breath, he seals off the final wire and sets the pliers down."
-msgstr ""
+msgstr "Quand il termine, il a l'air épuisé. Dans un soupir lourd, il scelle le dernier fil et pose la pince."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/21
 msgctxt "Eddie"
 msgid "Drink?"
-msgstr ""
+msgstr "Un verre ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "Wait, for real?"
-msgstr ""
+msgstr "Attends, pour de vrai ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/30/s/0
 msgctxt "Choix"
 msgid "Me?"
-msgstr ""
+msgstr "Moi ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/31/s/0
 msgctxt "Choix"
 msgid "YUP."
-msgstr ""
+msgstr "OUAIS."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/c-5/7
 msgctxt "Eddie"
 msgid "I never joke about drinks."
-msgstr ""
+msgstr "Je plaisante jamais avec les verres."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-0/c-6/7
 msgctxt "Eddie"
 msgid "No, the wall behind you. Yes, you."
-msgstr ""
+msgstr "Non, le mur derrière toi. Oui, toi."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/0
 msgctxt "Eddie"
 msgid "Do you want a drink, or not?"
-msgstr ""
+msgstr "Tu veux un verre, oui ou non ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/8
 msgctxt "Eddie"
 msgid "Unless you've got something else you have to do?"
-msgstr ""
+msgstr "À moins que t'aies autre chose à faire ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Yes, please!"
-msgstr ""
+msgstr "Oui, avec plaisir !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "It's finally happening, I knew I'd get you to like me!"
-msgstr ""
+msgstr "Ça y est, ça arrive, je savais que j'arriverais à me faire apprécier de toi !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/18/s/0
 msgctxt "Choix"
 msgid "Does it have to be alcoholic?"
-msgstr ""
+msgstr "Il faut que ce soit alcoolisé ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/c-8/7
 msgctxt "Eddie"
 msgid "Calm down. It's just a drink."
-msgstr ""
+msgstr "Calme-toi. C'est juste un verre."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/c-9/7
 msgctxt "Eddie"
 msgid "... that's not what's happening here."
-msgstr ""
+msgstr "... c'est pas ce qui se passe ici."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-1/c-10/11
 msgctxt "Eddie"
 msgid "Whatever you want."
-msgstr ""
+msgstr "Ce que tu veux."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "Are you going to make it?"
-msgstr ""
+msgstr "C'est toi qui le prépares ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/1/s/0
 msgctxt "Choix"
 msgid "I can make my own."
-msgstr ""
+msgstr "Je peux me préparer le mien."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/7
 msgctxt "Eddie"
 msgid "Have you made drinks before?"
-msgstr ""
+msgstr "T'as déjà préparé des cocktails ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/0/s/0
 msgctxt "Choix"
 msgid "I've watched a lot of other people make them, does that count?"
-msgstr ""
+msgstr "J'ai vu plein de gens en faire, ça compte ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/1/s/0
 msgctxt "Choix"
 msgid "No, but I always thought bartending looked like fun! How hard could it be, right?"
-msgstr ""
+msgstr "Non, mais j'ai toujours trouvé que barman, ça avait l'air marrant ! C'est pas si dur, non ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/2/s/0
 msgctxt "Choix"
 msgid "Come on. All the liquids. Mixy shaky. I got this."
-msgstr ""
+msgstr "Allez. Tous les liquides. Mélange, secoue. Je gère."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/3/s/0
 msgctxt "Choix"
 msgid "Beverly showed me a thing or two!"
-msgstr ""
+msgstr "Beverly m'a montré deux ou trois trucs !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/c-3/7
 msgctxt "Eddie"
 msgid "Ohh Beverly..."
-msgstr ""
+msgstr "Ohh Beverly..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/c-3/15
 msgctxt "Eddie"
 msgid "She's... a little dramatic about it, but knows what she's doing. Mostly."
-msgstr ""
+msgstr "Elle est... un peu dramatique avec ça, mais elle sait ce qu'elle fait. En gros."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/c-3/23
 msgctxt "Eddie"
 msgid "At least she knows the importance of a good drink."
-msgstr ""
+msgstr "Au moins elle sait l'importance d'un bon verre."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/c-3/31/0/s/0
 msgctxt "Choix"
 msgid "For the taste?"
-msgstr ""
+msgstr "Pour le goût ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/c-3/31/1/s/0
 msgctxt "Choix"
 msgid "To look cool?"
-msgstr ""
+msgstr "Pour avoir la classe ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/c-3/31/2/s/0
 msgctxt "Choix"
 msgid "To help frayed nerves?"
-msgstr ""
+msgstr "Pour calmer les nerfs à vif ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-2/c-12/15/c-3/31/g-0/0
 msgctxt "Eddie"
 msgid "Yeah, sure."
-msgstr ""
+msgstr "Ouais, bien sûr."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/0
 msgctxt "Eddie"
 msgid "I'll make it."
-msgstr ""
+msgstr "Je le fais."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/8
 msgctxt "Narrator"
 msgid "With not a wasted movement, Eddie puts together whiskey, egg white, lemon, and sugar into a shaker."
-msgstr ""
+msgstr "Sans un geste inutile, Eddie réunit dans un shaker du whisky, du blanc d'oeuf, du citron et du sucre."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/13
 msgctxt "Eddie"
 msgid "Try this. Whiskey sour."
-msgstr ""
+msgstr "Goûte ça. Whiskey sour."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/21/b/1
 msgctxt "Eddie"
 msgid "Non-alcoholic."
-msgstr ""
+msgstr "Sans alcool."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/27
 msgctxt "Eddie"
 msgid "Well?"
-msgstr ""
+msgstr "Alors ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/35/s/0
 msgctxt "Choix"
 msgid "This is perfect."
-msgstr ""
+msgstr "C'est parfait."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/36/s/0
 msgctxt "Choix"
 msgid "Not bad, so what's yours?"
-msgstr ""
+msgstr "Pas mal, et le tien, c'est quoi ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/37/s/0
 msgctxt "Choix"
 msgid "This is what Volt made for me."
-msgstr ""
+msgstr "C'est ce que Volt m'a préparé."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/c-13/7
 msgctxt "Eddie"
 msgid "Of course it is."
-msgstr ""
+msgstr "Évidemment."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/c-13/15
 msgctxt "Eddie"
 msgid "It's easy to do what you've always done. Nothing more than that."
-msgstr ""
+msgstr "C'est facile de refaire ce qu'on a toujours fait. Rien de plus."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/c-14/15
 msgctxt "Eddie"
 msgid "That is mine."
-msgstr ""
+msgstr "Ça, c'est le mien."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/c-14/23
 msgctxt "Eddie"
 msgid "Seems like you've got a decent taste after all. In some things, at least."
-msgstr ""
+msgstr "On dirait que t'as du goût, finalement. Pour certaines choses, au moins."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/c-15/7
 msgctxt "Eddie"
 msgid "...okay?"
-msgstr ""
+msgstr "...d'accord ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/c-15/15
 msgctxt "Eddie"
 msgid "Volt can do whatever he wants."
-msgstr ""
+msgstr "Volt peut faire ce qu'il veut."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-3/0/c-15/23
 msgctxt "Eddie"
 msgid "A drink's a drink."
-msgstr ""
+msgstr "Un verre, c'est un verre."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-4/11
 msgctxt "Eddie"
 msgid "You've done a decent job the last couple of days."
-msgstr ""
+msgstr "T'as fait du bon boulot ces deux derniers jours."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-4/19
 msgctxt "Eddie"
 msgid "More than decent, actually. Thanks to you, I'm finally caught up on all the big power drains around here."
-msgstr ""
+msgstr "Plus que du bon, en fait. Grâce à toi, j'ai enfin rattrapé tous les gros gouffres de puissance ici."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-4/27/s/0
 msgctxt "Choix"
 msgid "Really, we did it all?"
-msgstr ""
+msgstr "Vraiment, on a tout fait ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-4/28/s/0
 msgctxt "Choix"
 msgid "So Volt should be good now. That's great."
-msgstr ""
+msgstr "Donc Volt devrait aller bien maintenant. C'est super."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-5/0
 msgctxt "Eddie"
 msgid "There's still a few things that need to be done, the day to day maintenance, but..."
-msgstr ""
+msgstr "Il reste quelques trucs à faire, la maintenance au quotidien, mais..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-5/8
 msgctxt "Eddie"
 msgid "Yeah, you did it. Volt and the club should have everything they need for now."
-msgstr ""
+msgstr "Ouais, t'as réussi. Volt et le club devraient avoir tout ce qu'il leur faut pour l'instant."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-5/16/s/0
 msgctxt "Choix"
 msgid "What about you?"
-msgstr ""
+msgstr "Et toi ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-5/17/s/0
 msgctxt "Choix"
 msgid "Right, Volt. That is why I came here..."
-msgstr ""
+msgstr "Ah oui, Volt. C'est pour ça que je suis venu..."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-5/c-18/7
 msgctxt "Eddie"
 msgid "What about me? You came here to help Volt, and you did."
-msgstr ""
+msgstr "Moi, quoi ? T'es venu aider Volt, et t'as aidé."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-5/c-19/7
 msgctxt "Eddie"
 msgid "Right."
-msgstr ""
+msgstr "Voilà."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-6/0
 msgctxt "Eddie"
 msgid "So now you can get back to... whatever it is you do when you're not invading my space."
-msgstr ""
+msgstr "Donc maintenant tu peux retourner à... ce que tu fais quand tu envahis pas mon espace."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-6/8/s/0
 msgctxt "Choix"
 msgid "Can I still come by and help? The day to day stuff sounds fun."
-msgstr ""
+msgstr "Je peux quand même passer aider ? La maintenance au quotidien a l'air marrante."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-6/9/s/0
 msgctxt "Choix"
 msgid "You're right. I can. Awesome! See ya!"
-msgstr ""
+msgstr "Tu as raison. Je peux. Génial ! À plus !"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-6/c-21/7
 msgctxt "Eddie"
 msgid "Nice, predictable."
-msgstr ""
+msgstr "Bien, prévisible."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-6/c-21/15
 msgctxt "Eddie"
 msgid "Guess I wasn't wrong after all."
-msgstr ""
+msgstr "Je suppose que j'avais pas tort."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-6/c-21/23
 msgctxt "Eddie"
 msgid "Later."
-msgstr ""
+msgstr "À plus."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-7/4
 msgctxt "Eddie"
 msgid "What? Why would you want to do that?"
-msgstr ""
+msgstr "Quoi ? Pourquoi tu voudrais faire ça ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-7/12/s/0
 msgctxt "Choix"
 msgid "What can I say, maybe I'm just a glutton for punishment."
-msgstr ""
+msgstr "Que veux-tu, peut-être que je suis juste un peu maso."
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-7/13/s/0
 msgctxt "Choix"
 msgid "Why is it so hard for you to believe I actually <i>like</i> spending time with you?"
-msgstr ""
+msgstr "Pourquoi c'est si dur pour toi de croire que j'<i>aime</i> vraiment passer du temps avec toi ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-7/c-22/7
 msgctxt "Eddie"
 msgid "Ahh does that mean if I start being nice to you, you'll finally leave me alone?"
-msgstr ""
+msgstr "Ahh, ça veut dire que si je me mets à être gentil avec toi, tu me laisseras enfin tranquille ?"
 
+# Traduction IA – à relire
 #: eddie_electro/breaker_box4/0/g-7/c-22/15/0/s/0
 msgctxt "Choix"
 msgid "Probably not."
-msgstr ""
+msgstr "Probablement pas."
 
 #: eddie_electro/breaker_box4/0/g-7/c-22/15/1/s/0
 msgctxt "Choix"

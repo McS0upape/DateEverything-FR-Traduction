@@ -23,10 +23,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (une fenêtre)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, chaleureux, oral (« t'as », « j'sais pas », « ouais »)
+- **Personnalité, manière de parler** : curieuse et commère, voyeuse assumée, franche (« la vérité passe pour de l'impolitesse »), taquine, pousse le joueur ou la joueuse à sortir et vivre. Sandwich de compliments (pique entre deux gentillesses). Ne connaît pas de tabou.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : surnoms épicènes (looker -> « canon », « ma beauté » ; cutie -> « mon chou » ; hun -> « mon chou ») ; jeux de mots de vitre (transparence, vue, rebord/sills, carreau, buée, fêlure, « craquer »)
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Well, hi there! I'm Wyndolyn! » -> « Eh bien, salut toi ! Moi, c'est Wyndolyn ! »
+  - « You read between my sills! » -> « Tu lis entre mes rebords ! »
+  - « Over and out! » -> « Terminé, à vous ! »

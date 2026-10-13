@@ -36,3 +36,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **Cam, « they CAN't stay away »** : rendu par « on BÉNIT le jour où on m'a trouvé », jeu de mots faible.
 - **Contes de Teddy** : noms descriptifs (Proudtail, Strongpaw, Jumpfoot…) gardés en anglais. Faut-il les traduire ?
 - **Teddy, entrée 214** (« Non, on est ») : morceau de phrase supposé suivi du nom du jour, à vérifier en jeu.
+- Llama Sutra → Lama Sutra (Lyric, agent lyric_literature)
+- champ / lil' champ → « champ » ou {{mon petit champion|ma petite championne|mon petit·e champion·ne}} (agent epilogue_final)
+- meatspace → espace-viande ; Self-Realization → Auto-Réalisation ; Vice President of Human Experience → Vice-{{président|présidente|président·e}} de l'Expérience Humaine (agent epilogue_final)
