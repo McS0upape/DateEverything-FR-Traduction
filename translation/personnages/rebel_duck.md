@@ -26,10 +26,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : iel (« they »). Éviter les accords sur soi-même (reformuler) ; le Narrator dit « Rebel » / « iel ».
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : très familier, vulgaire, punk, provocateur ; derrière, un cœur tendre qui ne l'avoue jamais.
+- **Personnalité, manière de parler** : canard en plastique rebelle ; insultes à la chaîne, sous-entendus sexuels, fierté d'être « problème ». Surnoms au joueur : épicènes (tête de nœud, croque-fesses, pauvre buse) ou {{poseur|poseuse|poseur·se}}.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « duck » remplace « fuck » : « ducking » → « putain de » / « bordel de canard », « duck off » → « dégage », « quack you » → « va te faire cancaner », « shut the duck up » → « ferme ton bec ». Cris : coin-coin.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Who the duck are you? » → « T'es qui, bordel de canard ? »
+  - « Ducking duh. » → « Putain, évidemment. »
+  - « Stay safe out there, duckhead. » → « Fais gaffe dehors, tête de canard. »

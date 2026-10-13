@@ -24,10 +24,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, bon pote sportif et chaleureux, un peu fatigué et surmené ; expressions orales (« mec » est à éviter pour s'adresser au joueur : préférer « mon pote » seulement via {{mon pote|ma pote|mon ou ma pote}}, sinon épicène)
+- **Personnalité, manière de parler** : bosseur fier de son métier, enthousiaste, solitaire sous la bonne humeur ; fan de sport, de bières (huile moteur) ; double sens involontaires autour de son sac, de sa puissance d'aspiration, de « prendre » et de « remplir »
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Scène de crasse » (Grime Scene) ; « Hoove » (diminutif de Hoover) ; sac plein / besoin de le vider ; « Investigation sur Scène de Crasse »
+- **Exemples de répliques traduites (référence de ton)** : « Je suis polyvalent, sur n'importe quelle surface, bébé ! » ; « Allez, dégage. » ; « Ça me fait vraiment tourner le moteur. »

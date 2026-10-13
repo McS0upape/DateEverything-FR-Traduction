@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: prissy_plant/1 prissy_plant/bathroom_plant/7 prissy_plant/bedroom_plant/7 prissy_plant/foyer_plant/7 prissy_plant/kitchen_plant/7 prissy_plant/laundry_plant/7 prissy_plant/livingroom_plant/7 prissy_plant/office_plant/7 prissy_plant/upperhall_plant/7 prissy_plant/gym_plant/7 prissy_plant/attic_plant/4
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "FAKE PLANT"
-msgstr ""
+msgstr "PLANTE ARTIFICIELLE"
 
+# Traduction IA – à relire
 #: prissy_plant/bathroom_plant/12
 msgctxt "Prissy"
 msgid "Whoo! Look at me in this bathroom, huh?"
-msgstr ""
+msgstr "Ouhou ! Regarde-moi dans cette salle de bains, hein ?"
 
+# Traduction IA – à relire
 #: prissy_plant/bathroom_plant/20
 msgctxt "Prissy"
 msgid "Has a plant ever looked this good over tile? I think not."
-msgstr ""
+msgstr "Est-ce qu'une plante a déjà eu aussi fière allure sur du carrelage ? Je ne crois pas."
 
+# Traduction IA – à relire
 #: prissy_plant/bedroom_plant/12
 msgctxt "Prissy"
 msgid "Hey hey hey! I'm in the bedroom..."
-msgstr ""
+msgstr "Coucou coucou coucou ! Je suis dans la chambre..."
 
+# Traduction IA – à relire
 #: prissy_plant/bedroom_plant/20
 msgctxt "Prissy"
 msgid "Gosh I wish I had a cute bedroom dance or something... I'll have to work on that."
-msgstr ""
+msgstr "Mince, j'aimerais tellement avoir une jolie danse de chambre ou un truc du genre... Faudra que je bosse ça."
 
+# Traduction IA – à relire
 #: prissy_plant/foyer_plant/12
 msgctxt "Prissy"
 msgid "Check me out! Now you can see me first thing when you come home!"
-msgstr ""
+msgstr "Regarde-moi ça ! Maintenant, tu me vois dès que tu rentres chez toi !"
 
+# Traduction IA – à relire
 #: prissy_plant/foyer_plant/20
 msgctxt "Prissy"
 msgid "I'll be the most welcoming plant in the history of plants for you."
-msgstr ""
+msgstr "Je serai la plante la plus accueillante de l'histoire des plantes, pour toi."
 
+# Traduction IA – à relire
 #: prissy_plant/kitchen_plant/12
 msgctxt "Prissy"
 msgid "Oh my goodness, hi! I'm in the kitchen, can you believe it?"
-msgstr ""
+msgstr "Oh là là, salut ! Je suis dans la cuisine, tu te rends compte ?"
 
+# Traduction IA – à relire
 #: prissy_plant/kitchen_plant/20
 msgctxt "Prissy"
 msgid "I am learning SO much being here. Did you know you can <i>make</i> pudding? I didn't. I'm dying. I LOVE pudding."
-msgstr ""
+msgstr "J'apprends TELLEMENT de choses ici. Tu savais qu'on peut <i>fabriquer</i> du pudding ? Moi non. J'en meurs. J'ADORE le pudding."
 
+# Traduction IA – à relire
 #: prissy_plant/laundry_plant/12
 msgctxt "Prissy"
 msgid "Hey! I've made it to the laundry room, isn't that exciting?"
-msgstr ""
+msgstr "Coucou ! J'ai atteint la buanderie, c'est pas excitant, ça ?"
 
+# Traduction IA – à relire
 #: prissy_plant/laundry_plant/20
 msgctxt "Prissy"
 msgid "By the by, there is some <i>serious</i> love drama going on in here."
-msgstr ""
+msgstr "Au fait, il se passe de sérieux drames amoureux, là-dedans."
 
+# Traduction IA – à relire
 #: prissy_plant/laundry_plant/28
 msgctxt "Prissy"
 msgid "Ha! I'm watchin' a real soap opera!"
-msgstr ""
+msgstr "Ha ! Je regarde un vrai feuilleton !"
 
+# Traduction IA – à relire
 #: prissy_plant/livingroom_plant/12
 msgctxt "Prissy"
 msgid "Ah the living room... the room for living..."
-msgstr ""
+msgstr "Ah, le salon... la pièce où l'on vit..."
 
+# Traduction IA – à relire
 #: prissy_plant/livingroom_plant/20
 msgctxt "Prissy"
 msgid "Which now includes me! How cool is that!"
-msgstr ""
+msgstr "Et qui m'inclut maintenant ! Trop cool, non ?"
 
+# Traduction IA – à relire
 #: prissy_plant/office_plant/12
 msgctxt "Prissy"
 msgid "Hey there! Boy oh boy, this room is just chock full of productivity tools, huh?"
-msgstr ""
+msgstr "Coucou ! Dis donc, cette pièce déborde d'outils de productivité, hein ?"
 
+# Traduction IA – à relire
 #: prissy_plant/office_plant/20
 msgctxt "Prissy"
 msgid "Very glad that I am finally here to bring a little color and relaxation to the mix."
-msgstr ""
+msgstr "Je suis ravie d'être enfin là pour apporter un peu de couleur et de détente au tableau."
 
+# Traduction IA – à relire
 #: prissy_plant/upperhall_plant/12
 msgctxt "Prissy"
 msgid "Oh my gosh. So I used to be in the attic, right? And now I'm here..."
-msgstr ""
+msgstr "Oh là là. Alors, j'étais dans le grenier, d'accord ? Et maintenant je suis ici..."
 
+# Traduction IA – à relire
 #: prissy_plant/upperhall_plant/20
 msgctxt "Prissy"
 msgid "From the attic I couldn't see ANYTHING and from here I can see almost the whole house!! Amazing!"
-msgstr ""
+msgstr "Du grenier, je ne voyais RIEN, et d'ici je vois presque toute la maison !! Génial !"
 
+# Traduction IA – à relire
 #: prissy_plant/gym_plant/12 prissy_plant/prissy_friend_return/0/16
 msgctxt "Prissy"
 msgid "Glad to have a little break from all this growing."
-msgstr ""
+msgstr "Contente de faire une petite pause dans toute cette croissance."
 
+# Traduction IA – à relire
 #: prissy_plant/gym_plant/20 prissy_plant/prissy_friend_return/0/c-0/15
 msgctxt "Prissy"
 msgid "Guess I'll jump back into it, then... see you soon!"
-msgstr ""
+msgstr "Bon, je vais m'y remettre, alors... à bientôt !"
 
+# Traduction IA – à relire
 #: prissy_plant/attic_plant/10/b/4 prissy_plant/attic_plant/11/b/4
 msgctxt "Prissy"
 msgid "Hey! You didn't think I'd leave the attic for good, did you?"
-msgstr ""
+msgstr "Hé ! Tu ne pensais quand même pas que j'avais quitté le grenier pour de bon ?"
 
+# Traduction IA – à relire
 #: prissy_plant/attic_plant/10/b/12 prissy_plant/attic_plant/11/b/12
 msgctxt "Prissy"
 msgid "I've got some fond memories of this place!"
-msgstr ""
+msgstr "J'ai de beaux souvenirs de cet endroit !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/6
 msgctxt "Narrator"
 msgid "A flowering beauty waves at you, her radiant smile inviting you closer. Abundant plastic foliage frames her pretty face, and a little inanimate hummingbird rests on her shoulder."
-msgstr ""
+msgstr "Une beauté fleurie te fait signe de la main, son sourire radieux t'invitant à approcher. Un abondant feuillage en plastique encadre son joli visage, et un petit colibri inanimé est perché sur son épaule."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/14
 msgctxt "Narrator"
 msgid "She looks rather like a fairytale princess, and the delicate way she carries herself does nothing to belie that impression."
-msgstr ""
+msgstr "Elle ressemble à une princesse de conte de fées, et la délicatesse avec laquelle elle se tient ne fait rien pour démentir cette impression."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/22
 msgctxt "Prissy"
 msgid "Oh my gosh. Hi!"
-msgstr ""
+msgstr "Oh là là. Salut !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/30
 msgctxt "Prissy"
 msgid "I'm Prissy. You probably already know that."
-msgstr ""
+msgstr "Je m'appelle Prissy. Tu le savais sûrement déjà."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/41
 msgctxt "Prissy"
 msgid "It's polite to introduce yourself though, so hi!"
-msgstr ""
+msgstr "Mais c'est poli de se présenter, alors salut !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/56
 msgctxt "Prissy"
 msgid "This is so funny that you're standing there!"
-msgstr ""
+msgstr "C'est trop drôle que tu sois justement là !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/64/s/0
 msgctxt "Choix"
 msgid "I know! I'm laughing, too!"
-msgstr ""
+msgstr "Je sais ! Moi aussi, je rigole !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/65/s/0
 msgctxt "Choix"
 msgid "Funny haha, or funny weird?"
-msgstr ""
+msgstr "Drôle ha ha, ou drôle bizarre ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/c-1/7
 msgctxt "Prissy"
 msgid "Wow. Nobody has ever asked me that question before."
-msgstr ""
+msgstr "Waouh. Personne ne m'avait jamais posé cette question."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/c-1/15
 msgctxt "Prissy"
 msgid "I guess... yeah, it's a little of both!"
-msgstr ""
+msgstr "Je crois... oui, un peu des deux !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/0
 msgctxt "Prissy"
 msgid "Because I was sitting here, imagining how wonderful and helpful it would be if someone was suddenly standing there, like exactly where you are..."
-msgstr ""
+msgstr "Parce que j'étais là, à imaginer à quel point ce serait merveilleux et utile que quelqu'un se tienne soudain là, exactement où tu es..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/8
 msgctxt "Prissy"
 msgid "...and then boom! Here you are! Like magic!"
-msgstr ""
+msgstr "...et puis boum ! Te voilà ! Comme par magie !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "So my mere presence is the answer to a prayer. Sweet."
-msgstr ""
+msgstr "Donc ma simple présence répond à une prière. Super."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Great. Another weird-ass object in my house."
-msgstr ""
+msgstr "Génial. Encore un objet bizarroïde chez moi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/7
 msgctxt "Prissy"
 msgid "Yeah!"
-msgstr ""
+msgstr "Oui !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/15
 msgctxt "Prissy"
 msgid "Well, no."
-msgstr ""
+msgstr "Enfin, non."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/23
 msgctxt "Prissy"
 msgid "I mean kind of, you're definitely great. Probably."
-msgstr ""
+msgstr "Je veux dire, un peu, tu es {{génial|géniale|génial·e}}, sûrement. Probablement."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/31
 msgctxt "Prissy"
 msgid "But in my imagination, the person standing where you're standing also did stuff."
-msgstr ""
+msgstr "Mais dans mon imagination, la personne qui se tenait là où tu es faisait aussi des trucs."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/39/0/s/0
 msgctxt "Choix"
 msgid "Aw man now I've gotta <i>do</i> something?"
-msgstr ""
+msgstr "Oh non, maintenant il faut que je <i>fasse</i> quelque chose ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/39/1/s/0
 msgctxt "Choix"
 msgid "That makes more sense. What kind of stuff?"
-msgstr ""
+msgstr "Ça se tient, déjà. Quel genre de trucs ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/39/c-0/7
 msgctxt "Prissy"
 msgid "Don't worry! It's totally easy. For you."
-msgstr ""
+msgstr "Pas d'inquiétude ! C'est super facile. Pour toi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/39/c-0/15
 msgctxt "Prissy"
 msgid "Impossible for me, easy for you."
-msgstr ""
+msgstr "Impossible pour moi, facile pour toi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-2/39/c-0/23
 msgctxt "Prissy"
 msgid "We can get into why <i>that's</i> annoying at a later date."
-msgstr ""
+msgstr "On verra plus tard pourquoi <i>ça</i>, c'est agaçant."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/7
 msgctxt "Prissy"
 msgid "Actually, now that you brought up my root systems and how to maintain them out of optimal health..."
-msgstr ""
+msgstr "En fait, puisque tu viens d'évoquer mes racines et la façon de les maintenir loin d'une santé optimale..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "...um, did I? Bring that up?"
-msgstr ""
+msgstr "...euh, c'est moi qui ai parlé de ça ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/1/s/0
 msgctxt "Choix"
 msgid "I knew it. You have a mission for me, don't you?"
-msgstr ""
+msgstr "Je le savais. Tu as une mission pour moi, c'est ça ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-0/7
 msgctxt "Prissy"
 msgid "Didn't you? I don't think I would've brought that up..."
-msgstr ""
+msgstr "Ah bon ? Je ne crois pas que j'aurais abordé le sujet..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-0/15
 msgctxt "Prissy"
 msgid "Root systems are really personal. So. Yep, must've been you."
-msgstr ""
+msgstr "Les racines, c'est très intime. Donc. Oui, ça devait être toi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-0/23
 msgctxt "Prissy"
 msgid "But it's cool! Because mine actually needs some help!"
-msgstr ""
+msgstr "Mais c'est pas grave ! Parce que les miennes ont vraiment besoin d'un coup de main !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-1/7
 msgctxt "Prissy"
 msgid "...WOW. How did you know that."
-msgstr ""
+msgstr "...WAOUH. Comment tu as deviné ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-1/15
 msgctxt "Prissy"
 msgid "Even in my imagination, whoever was standing here wasn't THAT good."
-msgstr ""
+msgstr "Même dans mon imagination, la personne qui se tenait là n'était pas AUSSI forte."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-0/c-3/15/c-1/23
 msgctxt "Prissy"
 msgid "This mission is totally gonna work..."
-msgstr ""
+msgstr "Cette mission va marcher à tous les coups..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-1/0
 msgctxt "Prissy"
 msgid "I need you, please, to Flirtilize me."
-msgstr ""
+msgstr "J'ai besoin que tu me Flirtilises, s'il te plaît."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "I'm sorry, you what?"
-msgstr ""
+msgstr "Pardon, que je quoi ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "I'm in. No idea what that is."
-msgstr ""
+msgstr "Je suis {{partant|partante|partant·e}}. Aucune idée de ce que c'est."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/0
 msgctxt "Prissy"
 msgid "I get your confusion, it's totally understandable. Here's the thing."
-msgstr ""
+msgstr "Je comprends ta confusion, c'est tout à fait normal. Voilà le truc."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/8
 msgctxt "Prissy"
 msgid "I am a plant. Yes."
-msgstr ""
+msgstr "Je suis une plante. Oui."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/16/s/0
 msgctxt "Choix"
 msgid "...sure?"
-msgstr ""
+msgstr "...si tu le dis ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/17/s/0
 msgctxt "Choix"
 msgid "You look plant-like. Yes."
-msgstr ""
+msgstr "Tu as l'air d'une plante. Oui."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/c-6/7
 msgctxt "Prissy"
 msgid "But, if you had to guess, what am I made of?"
-msgstr ""
+msgstr "Mais si tu devais deviner, je suis faite de quoi ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/c-7/7
 msgctxt "Prissy"
 msgid "Plant-LIKE?"
-msgstr ""
+msgstr "L'air d'une plante ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/c-7/15
 msgctxt "Prissy"
 msgid "I mean, what that isn't a plant looks plant-LIKE."
-msgstr ""
+msgstr "Je veux dire, qu'est-ce qui n'est pas une plante mais a l'AIR d'une plante ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/c-7/23
 msgctxt "Prissy"
 msgid "I suppose paintings of plants look plant-like, or those big plastic hanging privacy curtains that are supposed to look like walls of ferns, that's plant-like."
-msgstr ""
+msgstr "Je suppose que les tableaux de plantes ont l'air de plantes, ou ces grands rideaux de plastique qui font office de murs de verdure et qui sont censés ressembler à des murs de fougères, ça, ça a l'air d'une plante."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-2/c-7/31
 msgctxt "Prissy"
 msgid "Oh no. Are you telling me that I look like that? That I look... fake??"
-msgstr ""
+msgstr "Oh non. Tu es en train de me dire que j'ai l'air de ça ? Que j'ai l'air... fausse ??"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-3/0
 msgctxt "Prissy"
 msgid "You know, actually, now that I've asked, I take it back because I don't want you to answer that."
-msgstr ""
+msgstr "Tu sais quoi, en fait, maintenant que j'ai posé la question, je la retire, parce que je ne veux pas que tu répondes."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-3/8
 msgctxt "Prissy"
 msgid "I already know the answer and I don't like it very much."
-msgstr ""
+msgstr "Je connais déjà la réponse et elle ne me plaît pas trop."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-3/16
 msgctxt "Prissy"
 msgid "Just in case you hadn't already deduced this... I am made of plastic."
-msgstr ""
+msgstr "Au cas où tu ne l'aurais pas déjà deviné... je suis en plastique."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "You?! Noooooo."
-msgstr ""
+msgstr "Toi ?! Noooon."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-3/25/s/0
 msgctxt "Choix"
 msgid "I bought you, so, yes, I knew that."
-msgstr ""
+msgstr "Je t'ai achetée, donc oui, je le savais."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-3/c-8/7
 msgctxt "Prissy"
 msgid "I know, I know. It is the great, confusing injustice of my young life."
-msgstr ""
+msgstr "Je sais, je sais. C'est la grande et déroutante injustice de ma jeune vie."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-3/c-9/7
 msgctxt "Prissy"
 msgid "Oh. Well. Then great! Glad we're already on the same page!"
-msgstr ""
+msgstr "Oh. Eh bien. Super ! Contente qu'on soit déjà sur la même longueur d'onde !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/0
 msgctxt "Prissy"
 msgid "But ugh, even saying that word... plastic... ugh... Anyway!"
-msgstr ""
+msgstr "Mais pff, même prononcer ce mot... plastique... pff... Bref !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/8
 msgctxt "Prissy"
 msgid "I am made of plastic. I would really rather NOT be made of plastic. I would rather be a real plant."
-msgstr ""
+msgstr "Je suis en plastique. Je préférerais vraiment NE PAS être en plastique. Je préférerais être une vraie plante."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/16
 msgctxt "Prissy"
 msgid "I want to grow. I want to reach for the sun and I want to feel the photosynthesis in my leaves."
-msgstr ""
+msgstr "Je veux grandir. Je veux tendre vers le soleil et sentir la photosynthèse dans mes feuilles."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/24
 msgctxt "Prissy"
 msgid "Right now I mostly feel dust and that LeBreeze \"your room is clean now\" smell-good spray."
-msgstr ""
+msgstr "Pour l'instant, je sens surtout la poussière et ce spray « votre pièce est propre » LeBreeze qui sent bon."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/32
 msgctxt "Prissy"
 msgid "Which doesn't actually smell that great, if I'm being honest."
-msgstr ""
+msgstr "Qui ne sent pas si bon que ça, pour être honnête."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/40/s/0
 msgctxt "Choix"
 msgid "I know! It's so perfumey."
-msgstr ""
+msgstr "Je sais ! C'est tellement parfumé."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/41/s/0
 msgctxt "Choix"
 msgid "How does Flirtilizer fit into all this?"
-msgstr ""
+msgstr "Et le Flirtilisant, dans tout ça ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/7
 msgctxt "Prissy"
 msgid "SO perfumey. You spray it and all of a sudden you're like, oh my gosh, why am I in a perfume store?"
-msgstr ""
+msgstr "TELLEMENT parfumé. Tu pschitt et d'un coup tu te dis : oh là là, pourquoi je suis dans une parfumerie ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/15
 msgctxt "Prissy"
 msgid "Which doesn't mean that perfume stores can't also be clean. I'm sure they can."
-msgstr ""
+msgstr "Ce qui n'empêche pas les parfumeries d'être propres aussi. Je suis sûre que ça existe."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/0/s/0
 msgctxt "Choix"
 msgid "This is weird. A plastic plant with opinions."
-msgstr ""
+msgstr "C'est bizarre. Une plante en plastique avec des opinions."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/1/s/0
 msgctxt "Choix"
 msgid "Cool. I feel like we've gotten off track here."
-msgstr ""
+msgstr "Cool. J'ai l'impression qu'on a un peu dévié du sujet."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/7
 msgctxt "Prissy"
 msgid "Plastic. I'll bet if I was a <i>real</i> plant it would be socially acceptable for me to have opinions about stuff."
-msgstr ""
+msgstr "Plastique. Je parie que si j'étais une <i>vraie</i> plante, ce serait socialement acceptable d'avoir des opinions sur les choses."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I called you weird. And you're responding to \"plastic\"?"
-msgstr ""
+msgstr "Je t'ai traitée de bizarre. Et toi, tu réagis à « plastique » ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "A plant with opinions at all is weird."
-msgstr ""
+msgstr "Une plante qui a des opinions, c'est déjà bizarre."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/c-0/7
 msgctxt "Prissy"
 msgid "Of course! I know I'm weird, that's cool. I have no problem with that. But plastic... that one stings."
-msgstr ""
+msgstr "Bien sûr ! Je sais que je suis bizarre, c'est cool. Ça ne me pose aucun problème. Mais plastique... ça, ça pique."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/c-1/7
 msgctxt "Prissy"
 msgid "Oh, I disagree. Have you never asked an orange tree how it feels about all those orange-scented cleaning products?"
-msgstr ""
+msgstr "Oh, je ne suis pas d'accord. Tu n'as jamais demandé à un oranger ce qu'il pense de tous ces produits ménagers parfumés à l'orange ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/c-1/15
 msgctxt "Prissy"
 msgid "Lemme tell ya. Bring a tissue. It gets emotional."
-msgstr ""
+msgstr "Je te préviens. Prends un mouchoir. C'est très émouvant."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/g-0/0
 msgctxt "Prissy"
 msgid "I'd give just about anything to be a real plant."
-msgstr ""
+msgstr "Je donnerais presque n'importe quoi pour être une vraie plante."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-0/15/g-0/8
 msgctxt "Prissy"
 msgid "Ah! But the Flirtilizer! You unintentionally reminded me!"
-msgstr ""
+msgstr "Ah ! Mais le Flirtilisant ! Tu me l'as rappelé sans le vouloir !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-1/7
 msgctxt "Prissy"
 msgid "Oh my gosh, we have. We started talking about... wait, what were we talking about?"
-msgstr ""
+msgstr "Oh là là, oui. On a commencé à parler de... attends, on parlait de quoi ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-1/15
 msgctxt "Prissy"
 msgid "Doesn't matter. I'm pretty easy to distract, as you might have noticed!"
-msgstr ""
+msgstr "Peu importe. Je me laisse distraire très facilement, comme tu l'as peut-être remarqué !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-10/23/c-1/23
 msgctxt "Prissy"
 msgid "Let's get back to the Flirtilizer. It's... this is really important."
-msgstr ""
+msgstr "Revenons au Flirtilisant. C'est... c'est vraiment important."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-11/7
 msgctxt "Prissy"
 msgid "Flirtilizer! Right. Yes. Thank you!"
-msgstr ""
+msgstr "Le Flirtilisant ! Voilà. Oui. Merci !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-4/c-11/15
 msgctxt "Prissy"
 msgid "See? Keeping me on track... you're already the perfect person to help me!"
-msgstr ""
+msgstr "Tu vois ? Tu me remets sur les rails... tu es déjà la personne parfaite pour m'aider !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/0
 msgctxt "Prissy"
 msgid "The Flirtilizer is the result of months of dedicated study on my part to find a substance that will..."
-msgstr ""
+msgstr "Le Flirtilisant est le fruit de mois d'études acharnées de ma part pour trouver une substance qui..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/8
 msgctxt "Prissy"
 msgid "...<w>drumroll please</w>..."
-msgstr ""
+msgstr "...<w>roulement de tambour, s'il vous plaît</w>..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/19
 msgctxt "Prissy"
 msgid "...make me REAL!"
-msgstr ""
+msgstr "...me rendra RÉELLE !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/33
 msgctxt "Narrator"
 msgid "Prissy presents you with a green jug covered in pictures of flowers, aggressively mugging for the camera. This is about what you expected from something called 'Flirtilizer'."
-msgstr ""
+msgstr "Prissy te présente un bidon vert couvert d'images de fleurs, qui fait des grimaces agressives à l'objectif. C'est à peu près ce à quoi tu t'attendais de la part d'un produit appelé « Flirtilisant »."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/41/s/0
 msgctxt "Choix"
 msgid "Wait, is this Realization?"
-msgstr ""
+msgstr "Attends, c'est de la Réalisation ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/42/s/0
 msgctxt "Choix"
 msgid "Real? Like a real live plant?"
-msgstr ""
+msgstr "Réelle ? Genre une vraie plante vivante ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/c-12/7
 msgctxt "Prissy"
 msgid "Oh! No, not yet at least."
-msgstr ""
+msgstr "Oh ! Non, pas encore, en tout cas."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/c-12/15
 msgctxt "Prissy"
 msgid "If I'm going to be a human, I want to at least be a real plant first."
-msgstr ""
+msgstr "Si je dois devenir humaine, autant commencer par être une vraie plante."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/c-12/23
 msgctxt "Prissy"
 msgid "You're a human, and you were never a plant, so you don't even know what you missed out on!"
-msgstr ""
+msgstr "Toi, tu es {{humain|humaine|humain·e}}, et tu n'as jamais été une plante, donc tu ne sais même pas ce que tu as raté !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-5/c-13/7
 msgctxt "Prissy"
 msgid "Really really! Cells, leaves, the whole nine yards!"
-msgstr ""
+msgstr "Vraiment vraiment ! Des cellules, des feuilles, le grand jeu !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/0
 msgctxt "Prissy"
 msgid "I have done. So. Much. Research, I can't even tell you, and this is the answer!"
-msgstr ""
+msgstr "J'ai fait. Tellement. De recherches, je ne peux même pas te dire, et voilà la solution !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/8
 msgctxt "Prissy"
 msgid "The gold standard for making plastic into chlorophyll!"
-msgstr ""
+msgstr "L'étalon-or pour transformer le plastique en chlorophylle !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/16
 msgctxt "Prissy"
 msgid "I just need you to give me a good dousing, right at the roots, and then stand back and watch the magic!"
-msgstr ""
+msgstr "J'ai juste besoin que tu m'asperges bien, directement aux racines, et ensuite tu te recules et tu regardes la magie opérer !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/27/s/0
 msgctxt "Choix"
 msgid "I... really don't think that's going to work."
-msgstr ""
+msgstr "Je... ne crois vraiment pas que ça va marcher."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/28/s/0
 msgctxt "Choix"
 msgid "No way. Really? That is very cool and exciting!"
-msgstr ""
+msgstr "Non, c'est pas vrai. Sérieux ? C'est super cool et excitant !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/15
 msgctxt "Prissy"
 msgid "What do you mean? Why wouldn't it?"
-msgstr ""
+msgstr "Comment ça ? Pourquoi ça ne marcherait pas ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/0/s/0
 msgctxt "Choix"
 msgid "I don't think you can change plastic into living tissue."
-msgstr ""
+msgstr "Je ne crois pas qu'on puisse changer du plastique en tissu vivant."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/1/s/0
 msgctxt "Choix"
 msgid "Flirtilizer isn't even a real thing, Prissy."
-msgstr ""
+msgstr "Le Flirtilisant n'existe même pas, Prissy."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/7
 msgctxt "Prissy"
 msgid "Well OBVIOUSLY you can't change plastic into living tissue."
-msgstr ""
+msgstr "Bah ÉVIDEMMENT qu'on ne peut pas changer du plastique en tissu vivant."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/15
 msgctxt "Prissy"
 msgid "Unless you have Flirtilizer. That's why it was invented."
-msgstr ""
+msgstr "Sauf avec du Flirtilisant. C'est pour ça qu'il a été inventé."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/23
 msgctxt "Prissy"
 msgid "That's what it does. Maybe you're not getting this."
-msgstr ""
+msgstr "C'est ce qu'il fait. Peut-être que tu ne comprends pas."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "I get that, what you're suggesting is a biological impossibility."
-msgstr ""
+msgstr "Je comprends, mais ce que tu proposes est une impossibilité biologique."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "I think you got swindled."
-msgstr ""
+msgstr "Je crois que tu t'es fait arnaquer."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/7
 msgctxt "Prissy"
 msgid "Oh, oh, oh. I see. Okay, you're saying that from a purely scientific perspective, there's no way scientifically that this could ever actually work."
-msgstr ""
+msgstr "Oh, oh, oh. Je vois. D'accord, tu dis que d'un point de vue purement scientifique, il n'y a aucun moyen scientifique que ça marche un jour."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Correct!"
-msgstr ""
+msgstr "Exact !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Yeah. Wow, you caught on fast."
-msgstr ""
+msgstr "Ouais. Waouh, tu as vite compris."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/0
 msgctxt "Prissy"
 msgid "Well, you're wrong. No no, not about the science part."
-msgstr ""
+msgstr "Eh bien, tu as tort. Non non, pas sur la partie scientifique."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/8
 msgctxt "Prissy"
 msgid "Totally. Based on science alone, or the science we currently know, obviously no."
-msgstr ""
+msgstr "Complètement. Sur la seule base de la science, ou de celle qu'on connaît aujourd'hui, évidemment que non."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/16
 msgctxt "Prissy"
 msgid "But there's a certain element of magic in the Flirtilizer, my friend."
-msgstr ""
+msgstr "Mais il y a un certain élément de magie dans le Flirtilisant, {{mon ami|mon amie|mon ami·e}}."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/0/s/0
 msgctxt "Choix"
 msgid "...magic."
-msgstr ""
+msgstr "...la magie."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/1/s/0
 msgctxt "Choix"
 msgid "Oh boy."
-msgstr ""
+msgstr "Aïe aïe aïe."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/c-0/7
 msgctxt "Prissy"
 msgid "Magic! Faith! A leap of oh-boy-why-not into the unknown!"
-msgstr ""
+msgstr "La magie ! La foi ! Un saut dans l'inconnu en mode « oh là là, pourquoi pas » !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/c-1/7
 msgctxt "Prissy"
 msgid "Come on!"
-msgstr ""
+msgstr "Allez !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/0
 msgctxt "Prissy"
 msgid "Look at those glasses you're wearing right now, even. You're talking to a freaking fake houseplant."
-msgstr ""
+msgstr "Regarde même les lunettes que tu portes en ce moment. Tu parles à une foutue plante d'intérieur en toc."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/8
 msgctxt "Prissy"
 msgid "You're really gonna stand there and tell me there's not some element of magic at work in your life right now? C'mon."
-msgstr ""
+msgstr "Tu vas vraiment rester là à me dire qu'il n'y a aucun élément de magie dans ta vie en ce moment ? Allez."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "Maybe. But still... this is nuts."
-msgstr ""
+msgstr "Peut-être. Mais quand même... c'est dingue."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/1/s/0
 msgctxt "Choix"
 msgid "Ok, you have a point."
-msgstr ""
+msgstr "Ok, tu marques un point."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/7
 msgctxt "Prissy"
 msgid "I don't think that you have a right to call me nuts."
-msgstr ""
+msgstr "Je ne crois pas que tu aies le droit de me traiter de dingue."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/15
 msgctxt "Prissy"
 msgid "For having a dream. For wanting to try something, anything, to achieve it."
-msgstr ""
+msgstr "Parce que j'ai un rêve. Parce que je veux essayer quelque chose, n'importe quoi, pour le réaliser."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/23
 msgctxt "Prissy"
 msgid "I actually think that's a pretty cool part of me."
-msgstr ""
+msgstr "Je trouve en fait que c'est un des trucs plutôt cool chez moi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/31
 msgctxt "Prissy"
 msgid "But I'll let it go. We're learning about each other."
-msgstr ""
+msgstr "Mais je laisse tomber. On apprend à se connaître."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-0/39
 msgctxt "Prissy"
 msgid "I really want this. And I really need your help."
-msgstr ""
+msgstr "Je veux vraiment ça. Et j'ai vraiment besoin de ton aide."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-1/7
 msgctxt "Prissy"
 msgid "I totally do! I have <i>a lot</i> of points. And the vast majority of them are really good."
-msgstr ""
+msgstr "Mais carrément ! J'ai <i>plein</i> d'arguments. Et la grande majorité sont vraiment bons."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-1/15
 msgctxt "Prissy"
 msgid "So prepare yourself."
-msgstr ""
+msgstr "Alors prépare-toi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-0/15/g-0/24/g-0/16/c-1/23
 msgctxt "Prissy"
 msgid "Now, about this dousing..."
-msgstr ""
+msgstr "Bon, pour cet arrosage..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/7
 msgctxt "Prissy"
 msgid "Swindled? You think someone took advantage of <i>me</i>??"
-msgstr ""
+msgstr "Arnaquée ? Tu crois que quelqu'un a profité de <i>moi</i> ??"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/15
 msgctxt "Prissy"
 msgid "Ha! Look at me! I am a steely-eyed, no-nonsense hard case!"
-msgstr ""
+msgstr "Ha ! Regarde-moi ! Je suis une dure à cuire, au regard d'acier, qui ne s'en laisse pas conter !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "No."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "Hahahahahahahahaha!"
-msgstr ""
+msgstr "Hahahahahahahahaha !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/c-1/7
 msgctxt "Narrator"
 msgid "Prissy glares at you."
-msgstr ""
+msgstr "Prissy te fusille du regard."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/c-1/26/0/s/0
 msgctxt "Choix"
 msgid "I'm sorry."
-msgstr ""
+msgstr "Pardon."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/c-1/26/1/s/0
 msgctxt "Choix"
 msgid "What?! You're hilarious!"
-msgstr ""
+msgstr "Quoi ?! Tu es hilarante !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/g-0/0
 msgctxt "Prissy"
 msgid "Look. Even if I did get \"swindled,\" which I really don't think I did, I'm here now, you're here now, the Flirtilizer is here now... and it's worth it for me to try."
-msgstr ""
+msgstr "Écoute. Même si je m'étais fait « arnaquer », ce que je ne crois vraiment pas, je suis là, tu es là, le Flirtilisant est là... et ça vaut le coup d'essayer."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-0/31/c-1/23/g-0/8
 msgctxt "Prissy"
 msgid "I want this so much. What's it going to hurt to try?"
-msgstr ""
+msgstr "J'en ai tellement envie. Qu'est-ce que ça coûte d'essayer ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/7
 msgctxt "Prissy"
 msgid "An electric light bulb wasn't a real thing until some doofhead dreamt it up and built it, right?"
-msgstr ""
+msgstr "Une ampoule électrique n'existait pas non plus avant qu'un abruti la rêve et la construise, non ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/15
 msgctxt "Prissy"
 msgid "Things aren't real, and they aren't real, and then they are."
-msgstr ""
+msgstr "Les choses ne sont pas réelles, et ne sont pas réelles, et puis elles le sont."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/23
 msgctxt "Prissy"
 msgid "Like me!"
-msgstr ""
+msgstr "Comme moi !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "I do see your logic there."
-msgstr ""
+msgstr "Je vois ta logique, là."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "I'm not going to douse a plastic plant! Then I just have to clean it up later!"
-msgstr ""
+msgstr "Je ne vais pas asperger une plante en plastique ! Après, c'est moi qui nettoie !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-0/7
 msgctxt "Prissy"
 msgid "Yes!!"
-msgstr ""
+msgstr "Oui !!"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-0/15
 msgctxt "Prissy"
 msgid "I knew that was a solid argument. As it was coming out of my mouth, I said to myself, Prissy, <i>that</i> is a SOLID argument."
-msgstr ""
+msgstr "Je savais que c'était un argument solide. Pendant que je le disais, je me suis dit : Prissy, <i>ça</i>, c'est un argument SOLIDE."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-0/23
 msgctxt "Prissy"
 msgid "So!"
-msgstr ""
+msgstr "Donc !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/7
 msgctxt "Prissy"
 msgid "No no, I'm going to absorb it! I absorb the Flirtilizer, and then I become real."
-msgstr ""
+msgstr "Non non, je vais l'absorber ! J'absorbe le Flirtilisant, et ensuite je deviens réelle."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/15
 msgctxt "Prissy"
 msgid "See, it says right there on the label, \"No Messy No Stressy\"!"
-msgstr ""
+msgstr "Regarde, c'est écrit sur l'étiquette : « Zéro Dégât, Zéro Stress » !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/23
 msgctxt "Prissy"
 msgid "And if it says so on the label, you know it's the truth. These companies can't lie."
-msgstr ""
+msgstr "Et si c'est écrit sur l'étiquette, tu sais que c'est vrai. Ces entreprises n'ont pas le droit de mentir."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-14/23/c-1/31/c-1/31
 msgctxt "Prissy"
 msgid "It's in the rules."
-msgstr ""
+msgstr "C'est dans le règlement."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-15/7
 msgctxt "Prissy"
 msgid "That's exactly what I said when I discovered it! I mean, those exact words."
-msgstr ""
+msgstr "C'est exactement ce que j'ai dit quand je l'ai découvert ! Enfin, mot pour mot."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-15/15
 msgctxt "Prissy"
 msgid "We are so in sync, this is awesome!"
-msgstr ""
+msgstr "On est tellement synchro, c'est génial !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/g-6/c-15/23
 msgctxt "Prissy"
 msgid "So you'll do it?"
-msgstr ""
+msgstr "Alors tu le feras ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/0
 msgctxt "Prissy"
 msgid "Flirtilize me?"
-msgstr ""
+msgstr "Tu me Flirtilises ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/8/s/0
 msgctxt "Choix"
 msgid "Of course I will."
-msgstr ""
+msgstr "Bien sûr que oui."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/9/s/0
 msgctxt "Choix"
 msgid "Oh. No, definitely not."
-msgstr ""
+msgstr "Oh. Non, certainement pas."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/15
 msgctxt "Prissy"
 msgid "Why?"
-msgstr ""
+msgstr "Pourquoi ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/0/s/0
 msgctxt "Choix"
 msgid "Because I like you the way you are. I don't wanna have to water anything."
-msgstr ""
+msgstr "Parce que je t'aime bien comme tu es. Je n'ai pas envie d'avoir à arroser quoi que ce soit."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/1/s/0
 msgctxt "Choix"
 msgid "I don't actually think it's going to work and I don't want you to get your feelings hurt."
-msgstr ""
+msgstr "Je ne crois pas que ça marchera et je ne veux pas que tu sois blessée."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/7
 msgctxt "Prissy"
 msgid "You don't want to help me achieve the dream of my whole existence because you don't feel like watering me?"
-msgstr ""
+msgstr "Tu ne veux pas m'aider à réaliser le rêve de toute mon existence parce que tu n'as pas envie de m'arroser ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/18
 msgctxt "Prissy"
 msgid "...I mean, what if you planted me outside? Then you wouldn't have to think about me at all!"
-msgstr ""
+msgstr "...je veux dire, et si tu me plantais dehors ? Comme ça, tu n'aurais plus à penser à moi du tout !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/26
 msgctxt "Prissy"
 msgid "Kind of depressing myself using that as a selling point, but work with what ya got!"
-msgstr ""
+msgstr "C'est un peu déprimant d'en faire un argument de vente, mais on fait avec ce qu'on a !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "Nah. Don't feel like replanting you, either."
-msgstr ""
+msgstr "Bof. Pas envie de te rempoter non plus."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/1/s/0
 msgctxt "Choix"
 msgid "I think you're pretty this way! Don't want you to change."
-msgstr ""
+msgstr "Je te trouve jolie comme ça ! Je ne veux pas que tu changes."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/2/s/0
 msgctxt "Choix"
 msgid "Hm... good point. Okay let's do it!"
-msgstr ""
+msgstr "Hm... bon point. Ok, on y va !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/7
 msgctxt "Prissy"
 msgid "Uh huh. Well, then."
-msgstr ""
+msgstr "Mmh mmh. Eh bien, très bien."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/15
 msgctxt "Prissy"
 msgid "Guess I'll just have to figure out another way to get real."
-msgstr ""
+msgstr "Je vais devoir trouver un autre moyen de devenir réelle."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/23
 msgctxt "Prissy"
 msgid "Hopefully one that doesn't require assistance from an outside source."
-msgstr ""
+msgstr "Si possible un qui n'exige pas l'aide d'une source extérieure."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-0/31
 msgctxt "Prissy"
 msgid "Especially not an outside source who's acting like a butthead."
-msgstr ""
+msgstr "Surtout pas d'une source extérieure qui fait sa tête de mule."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/7
 msgctxt "Prissy"
 msgid "I'll still be pretty if I'm real! I'll be even prettier probably!"
-msgstr ""
+msgstr "Je serai toujours jolie en étant réelle ! Même plus jolie, probablement !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Don't wanna take the risk. Sorry."
-msgstr ""
+msgstr "Je ne veux pas prendre le risque. Pardon."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Not gonna happen."
-msgstr ""
+msgstr "Ça n'arrivera pas."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/0
 msgctxt "Prissy"
 msgid "Well there you have it."
-msgstr ""
+msgstr "Eh bien voilà, c'est dit."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/8
 msgctxt "Prissy"
 msgid "I'm gonna go. If you're not gonna help me, if you're actively going to discourage me more like, then I have some more research to do."
-msgstr ""
+msgstr "Je m'en vais. Si tu ne veux pas m'aider, si tu veux plutôt activement me décourager, j'ai encore des recherches à faire."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/16
 msgctxt "Prissy"
 msgid "I don't know what I'm going to find, but there's gotta be something."
-msgstr ""
+msgstr "Je ne sais pas ce que je vais trouver, mais il y a forcément quelque chose."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-0/34/c-1/15/g-0/24
 msgctxt "Prissy"
 msgid "Dreams have set backs. Anyway. See ya."
-msgstr ""
+msgstr "Les rêves ont des revers. Bref. À plus."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/7
 msgctxt "Prissy"
 msgid "Oh. So... you're kind of trying to protect me, in a way."
-msgstr ""
+msgstr "Oh. Donc... tu essaies de me protéger, en quelque sorte."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/15
 msgctxt "Prissy"
 msgid "I guess that's nice? Or unnecessary and kind of overbearing. Maybe."
-msgstr ""
+msgstr "C'est gentil, je suppose ? Ou inutile et un peu étouffant. Peut-être."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/23
 msgctxt "Prissy"
 msgid "My feelings are my own business. If I get hurt, I get hurt, but I'm not going to not try just because I might stumble and fall."
-msgstr ""
+msgstr "Mes sentiments, ça me regarde. Si je suis blessée, je suis blessée, mais je ne vais pas renoncer à essayer sous prétexte que je pourrais trébucher et tomber."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/31
 msgctxt "Prissy"
 msgid "And even if I do fall, it's not like by helping me you've pushed me down or anything. I'm not going to blame you, if that's what you're worried about."
-msgstr ""
+msgstr "Et même si je tombe, ce n'est pas comme si tu m'avais poussée en m'aidant. Je ne t'en voudrai pas, si c'est ça qui t'inquiète."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/0/s/0
 msgctxt "Choix"
 msgid "I think you're being naive, is all."
-msgstr ""
+msgstr "Je trouve juste que tu es naïve."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/1/s/0
 msgctxt "Choix"
 msgid "You can blame me if you need to, but I'm not going to do it."
-msgstr ""
+msgstr "Tu peux m'en vouloir si tu en as besoin, mais je ne le ferai pas."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/2/s/0
 msgctxt "Choix"
 msgid "I was worried I'd screw it up... but if you're okay let's do it!"
-msgstr ""
+msgstr "J'avais peur de tout rater... mais si ça te va, on y va !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/7
 msgctxt "Prissy"
 msgid "Again. My choice."
-msgstr ""
+msgstr "Encore une fois. C'est mon choix."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/15
 msgctxt "Prissy"
 msgid "You're not going to help me, are you?"
-msgstr ""
+msgstr "Tu ne vas pas m'aider, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Nope."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/7
 msgctxt "Prissy"
 msgid "Ok! Well. Good to know that."
-msgstr ""
+msgstr "Ok ! Eh bien. Bon à savoir."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/15
 msgctxt "Prissy"
 msgid "I'll just have to find a way to become a real plant that doesn't involve you doing anything."
-msgstr ""
+msgstr "Je vais devoir trouver un moyen de devenir une vraie plante qui ne t'oblige à rien faire."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/23
 msgctxt "Prissy"
 msgid "And if I can't, maybe I can find another way to pitch it to you that you'll say yes to."
-msgstr ""
+msgstr "Et si je n'y arrive pas, je trouverai peut-être une autre façon de te le proposer, qui te fera dire oui."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/31
 msgctxt "Prissy"
 msgid "Or maybe when I see you again, you will have stopped being such a butthead and you'll help me."
-msgstr ""
+msgstr "Ou peut-être que la prochaine fois, tu auras arrêté de faire ta tête de mule et tu m'aideras."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-0/23/c-0/39
 msgctxt "Prissy"
 msgid "Either way!"
-msgstr ""
+msgstr "Dans tous les cas !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/7
 msgctxt "Prissy"
 msgid "Well, then that answers that!"
-msgstr ""
+msgstr "Eh bien, voilà qui répond à la question !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/15
 msgctxt "Prissy"
 msgid "I'm going to become a real plant."
-msgstr ""
+msgstr "Je vais devenir une vraie plante."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/23
 msgctxt "Prissy"
 msgid "And when I do, I don't think I will blame you for having gotten in my way."
-msgstr ""
+msgstr "Et quand j'y serai, je ne crois pas que je t'en voudrai de t'être mis en travers de mon chemin."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/31
 msgctxt "Prissy"
 msgid "I think I'll look at this as the obstacle that made the prize that much more worth it."
-msgstr ""
+msgstr "Je pense que je verrai ça comme l'obstacle qui a rendu le prix encore plus précieux."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter1/0/choice1/c-17/23/c-1/39/c-1/39
 msgctxt "Prissy"
 msgid "I hope I will. I have a pretty great attitude generally. So. We'll see."
-msgstr ""
+msgstr "Je l'espère. J'ai généralement un très bon état d'esprit. Donc. On verra."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/6
 msgctxt "Prissy"
 msgid "Yes!!! Oh my gosh, this is the most exciting day ever!"
-msgstr ""
+msgstr "Oui !!! Oh là là, c'est le jour le plus excitant de tous les temps !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/20
 msgctxt "Prissy"
 msgid "I'm ready. So it says on the directions..."
-msgstr ""
+msgstr "Je suis prête. Donc, d'après le mode d'emploi..."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/28
 msgctxt "Narrator"
 msgid "Prissy reads off the back of the container of Flirtilizer."
-msgstr ""
+msgstr "Prissy lit le dos du bidon de Flirtilisant."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/36
 msgctxt "Prissy"
 msgid "\"Douse liberally and with abandon, no such thing as too much, couple each dose with a body wiggle or the recitation of a favorite herb for added potency.\""
-msgstr ""
+msgstr "« Asperger généreusement et sans retenue, il n'y a pas de dose excessive, accompagner chaque dose d'un déhanché ou de la récitation d'une herbe préférée pour une puissance accrue. »"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/44/s/0
 msgctxt "Choix"
 msgid "It'll work without the wiggling, though. Right."
-msgstr ""
+msgstr "Ça marchera aussi sans se déhancher, non ? Bien sûr."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/45/s/0
 msgctxt "Choix"
 msgid "Is it okay if I don't have a favorite herb?"
-msgstr ""
+msgstr "Ça va si je n'ai pas d'herbe préférée ?"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/46/s/0
 msgctxt "Choix"
 msgid "Oh, a spell! Perfect."
-msgstr ""
+msgstr "Oh, un sort ! Parfait."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/c-0/7
 msgctxt "Prissy"
 msgid "Oh for sure. Yes. I think so."
-msgstr ""
+msgstr "Oh mais bien sûr. Oui. Je crois."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/c-0/15
 msgctxt "Prissy"
 msgid "Let's try it and see!"
-msgstr ""
+msgstr "Essayons et voyons !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/c-1/7
 msgctxt "Prissy"
 msgid "Oh don't worry about that. I think that's just like an extra little something... it'll be fine. This stuff is plenty strong without the recitations, according to the ads!"
-msgstr ""
+msgstr "Oh, ne t'inquiète pas pour ça. C'est juste un petit plus... ça ira. Ce truc est largement assez puissant sans les récitations, d'après les pubs !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/c-1/15
 msgctxt "Prissy"
 msgid "Douse away!"
-msgstr ""
+msgstr "Asperge-moi !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/c-2/7
 msgctxt "Prissy"
 msgid "I know! I love the honoring of all these magical elements. So excited."
-msgstr ""
+msgstr "Je sais ! J'adore ce respect de tous ces éléments magiques. Je suis trop excitée."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/c-2/15
 msgctxt "Prissy"
 msgid "Douse me!"
-msgstr ""
+msgstr "Asperge-moi !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/0/s/0
 msgctxt "Choix"
 msgid "<i>Douse liberally.</i>"
-msgstr ""
+msgstr "<i>Asperger généreusement.</i>"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/1/s/0
 msgctxt "Choix"
 msgid "<i>Douse liberally and wiggle.</i>"
-msgstr ""
+msgstr "<i>Asperger généreusement et se déhancher.</i>"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/2/s/0
 msgctxt "Choix"
 msgid "<i>Douse, wiggle AND recite.</i>"
-msgstr ""
+msgstr "<i>Asperger, se déhancher ET réciter.</i>"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/c-3/7
 msgctxt "Narrator"
 msgid "You spray Prissy from head to toe with the Flirtilizer, opting not to wiggle."
-msgstr ""
+msgstr "Tu asperges Prissy de la tête aux pieds de Flirtilisant, sans te déhancher."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/c-3/23 prissy_plant/first_flirtilize/0/dousing/c-4/23 prissy_plant/first_flirtilize/0/dousing/c-5/23
 msgctxt "Prissy"
 msgid "I think I feel it working... !"
-msgstr ""
+msgstr "Je crois que je sens que ça marche... !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/c-4/7
 msgctxt "Narrator"
 msgid "You spray Prissy from head to toe with the Flirtilizer, punctuating each spray with a wiggle of your backside."
-msgstr ""
+msgstr "Tu asperges Prissy de la tête aux pieds de Flirtilisant, en ponctuant chaque giclée d'un déhanché."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/c-4/34 prissy_plant/first_flirtilize/0/dousing/c-5/34
 msgctxt "Prissy"
 msgid "There's this really strong, tingly sensation!"
-msgstr ""
+msgstr "Il y a une sensation très forte, comme des fourmillements !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/c-5/7
 msgctxt "Narrator"
 msgid "You spray Prissy from head to toe with the Flirtilizer, punctuating each spray with a wiggle of your backside. When you're done, you cap it all off with a recitation of the most delicious herb you know."
-msgstr ""
+msgstr "Tu asperges Prissy de la tête aux pieds de Flirtilisant, en ponctuant chaque giclée d'un déhanché. Une fois fini, tu conclus par la récitation de l'herbe la plus délicieuse que tu connaisses."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/dousing/c-5/42
 msgctxt "Prissy"
 msgid "The spell you are casting - definitely gets my vines all twisted up!"
-msgstr ""
+msgstr "Le sort que tu lances - m'embrouille complètement les vrilles, c'est sûr !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/0
 msgctxt "Narrator"
 msgid "You take a moment to inspect Prissy—she looks a bit shinier, but otherwise the same as before."
-msgstr ""
+msgstr "Tu prends un instant pour examiner Prissy : elle est un peu plus brillante, mais sinon identique à avant."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/8
 msgctxt "Prissy"
 msgid "Do I look different?"
-msgstr ""
+msgstr "Je te semble différente ?"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/16
 msgctxt "Prissy"
 msgid "I don't feel different... I mean, I feel wetter, but that's probably just from the dousing."
-msgstr ""
+msgstr "Je ne me sens pas différente... enfin, je me sens plus mouillée, mais c'est sûrement à cause de l'arrosage."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/24
 msgctxt "Prissy"
 msgid "What do you think? Do you see anything?"
-msgstr ""
+msgstr "Qu'en penses-tu ? Tu vois quelque chose ?"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "Honestly, no..."
-msgstr ""
+msgstr "Franchement, non..."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "I don't think it did anything."
-msgstr ""
+msgstr "Je crois que ça n'a rien fait."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/34/s/0
 msgctxt "Choix"
 msgid "Sure! It did everything! You're a real plant now!"
-msgstr ""
+msgstr "Oui ! Ça a tout fait ! Tu es une vraie plante maintenant !"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/c-6/7
 msgctxt "Prissy"
 msgid "Oh. Um... well, shoot."
-msgstr ""
+msgstr "Oh. Euh... zut alors."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/c-7/7
 msgctxt "Prissy"
 msgid "It's ok. I'm okay."
-msgstr ""
+msgstr "C'est pas grave. Ça va."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/c-8/7
 msgctxt "Prissy"
 msgid "Um."
-msgstr ""
+msgstr "Euh."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-0/c-8/15
 msgctxt "Prissy"
 msgid "I don't think so. Not yet at least."
-msgstr ""
+msgstr "Je ne crois pas. Pas encore en tout cas."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/0
 msgctxt "Prissy"
 msgid "This was a result of a lot of research and a lot of investment, like heart investment. But it's okay."
-msgstr ""
+msgstr "C'était le résultat de beaucoup de recherches et de beaucoup d'investissement, genre investissement de coeur. Mais ça va."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/8
 msgctxt "Prissy"
 msgid "Because it was also my first real attempt. And all great endeavors have failure before they have success. So."
-msgstr ""
+msgstr "Parce que c'était aussi ma première vraie tentative. Et toutes les grandes entreprises connaissent l'échec avant le succès. Donc."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/16
 msgctxt "Prissy"
 msgid "I'll try again."
-msgstr ""
+msgstr "Je réessaierai."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/27
 msgctxt "Prissy"
 msgid "Hey, would you be willing to help me again? If I need it?"
-msgstr ""
+msgstr "Dis, tu accepterais de m'aider encore ? Si j'en ai besoin ?"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/35/s/0
 msgctxt "Choix"
 msgid "Totally. You're fun."
-msgstr ""
+msgstr "Carrément. Tu es amusante."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/36/s/0
 msgctxt "Choix"
 msgid "Eh... let's go on a case-by-case basis, ok?"
-msgstr ""
+msgstr "Euh... on verra au cas par cas, ok ?"
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/c-9/7
 msgctxt "Prissy"
 msgid "Thanks. I am fun."
-msgstr ""
+msgstr "Merci. C'est vrai que je suis amusante."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/c-9/15
 msgctxt "Prissy"
 msgid "Well, I better go dry off. Don't want to risk mold and mildew."
-msgstr ""
+msgstr "Bon, je ferais mieux d'aller me sécher. Pas question de risquer moisissures et champignons."
 
+# Traduction IA – à relire
 #: prissy_plant/first_flirtilize/0/g-1/c-10/7
 msgctxt "Prissy"
 msgid "Sounds fair to me. Thanks."
-msgstr ""
+msgstr "Ça me paraît juste. Merci."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/6/b/1
 msgctxt "Prissy"
 msgid "Hey! You're back! Guess what? The Flirtilizer is totally working!"
-msgstr ""
+msgstr "Hé ! Tu es de retour ! Devine quoi ? Le Flirtilisant marche à merveille !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/6/b/9
 msgctxt "Prissy"
 msgid "Ok, not really, but I've been doing all this research on manifestation and positive self-talk, and I think it's going to be really helpful for me."
-msgstr ""
+msgstr "Ok, pas vraiment, mais j'ai fait plein de recherches sur la manifestation et le dialogue intérieur positif, et je pense que ça va m'être très utile."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/6/b/17
 msgctxt "Prissy"
 msgid "Anyway, I'm actually glad you're back because...."
-msgstr ""
+msgstr "Bref, en fait je suis contente que tu sois de retour parce que...."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/6/b/25
 msgctxt "Prissy"
 msgid "...<w>drumroll once again, puh-leez</w>..."
-msgstr ""
+msgstr "...<w>encore un roulement de tambour, puh-lease</w>..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/9/b/1
 msgctxt "Prissy"
 msgid "Oh, hi! You came back! Kinda surprised... but then again, not really."
-msgstr ""
+msgstr "Oh, salut ! Tu es de retour ! Un peu surprise... mais en même temps, pas vraiment."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/9/b/9
 msgctxt "Prissy"
 msgid "Maybe you've decided to participate in the magic! That would be so cool."
-msgstr ""
+msgstr "Peut-être que tu as décidé de participer à la magie ! Ce serait trop cool."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/9/b/17
 msgctxt "Prissy"
 msgid "Actually, if that's what's going on, your timing couldn't be better because..."
-msgstr ""
+msgstr "En fait, si c'est ça, tu tombes à pic parce que..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/9/b/25
 msgctxt "Prissy"
 msgid "...get excited...."
-msgstr ""
+msgstr "...prépare-toi...."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/12
 msgctxt "Prissy"
 msgid "I've got a brand new plan to become a real plant! A Real Plant Plan."
-msgstr ""
+msgstr "J'ai un tout nouveau plan pour devenir une vraie plante ! Un Plan Plante Réelle."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/23
 msgctxt "Prissy"
 msgid "After the Flirtilizer Debacle, I went back to the drawing board. Started my research from scratch."
-msgstr ""
+msgstr "Après le Fiasco du Flirtilisant, je suis retournée à la planche à dessin. J'ai tout repris de zéro."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/31
 msgctxt "Prissy"
 msgid "And it turns out, I was missing a key ingredient in my whole appraisal of the situation!"
-msgstr ""
+msgstr "Et il s'avère qu'il manquait un ingrédient clé à toute mon évaluation de la situation !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/39/s/0
 msgctxt "Choix"
 msgid "Oh? Which was?"
-msgstr ""
+msgstr "Ah oui ? Lequel ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/40/s/0
 msgctxt "Choix"
 msgid "I think you're missing a couple of key ingredients, lady."
-msgstr ""
+msgstr "Je crois qu'il te manque plusieurs ingrédients clés, ma belle."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/c-0/7
 msgctxt "Prissy"
 msgid "Are you sure you're ready for this?"
-msgstr ""
+msgstr "Tu es {{sûr|sûre|sûr·e}} d'être {{prêt|prête|prêt·e}} pour ça ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/c-1/7
 msgctxt "Prissy"
 msgid "I'm sure you're right. I mean, cumin. C'mon. That's a CRUCIAL ingredient in a LOT of stuff and I don't have any of it."
-msgstr ""
+msgstr "Je suis sûre que tu as raison. Je veux dire, le cumin. Franchement. C'est un ingrédient CRUCIAL dans BEAUCOUP de trucs et je n'en ai pas du tout."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/c-1/15
 msgctxt "Prissy"
 msgid "Do you like to cook? I would love to, but the heat from the stove and the oven and the grill is pretttty dangerous for me right now."
-msgstr ""
+msgstr "Tu aimes cuisiner ? J'adorerais, mais la chaleur de la cuisinière, du four et du gril est plutôt dangereuse pour moi en ce moment."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/c-1/23
 msgctxt "Prissy"
 msgid "Oh gosh but here I go getting off track again! The ingredient."
-msgstr ""
+msgstr "Oh là là, voilà que je m'égare encore ! L'ingrédient."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-0/0
 msgctxt "Prissy"
 msgid "It's called \"The Woot.\""
-msgstr ""
+msgstr "Ça s'appelle « le Wouhou »."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "My friend, nothing is called The Woot."
-msgstr ""
+msgstr "Ma chère, rien ne s'appelle le Wouhou."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Ok, I'll bite. Tell me about Woot!"
-msgstr ""
+msgstr "Ok, je mords à l'hameçon. Parle-moi du Wouhou !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "Ooooh my god that makes so much sense!!! THE WOOT!"
-msgstr ""
+msgstr "Ooooh mon dieu, ça a tellement de sens !!! LE WOUHOU !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-0/c-2/7
 msgctxt "Prissy"
 msgid "No no, this <i> is </i>! That's the name of this essential thing!"
-msgstr ""
+msgstr "Non non, ça, <i> ça </i> existe ! C'est le nom de cette chose essentielle !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-0/c-3/7
 msgctxt "Prissy"
 msgid "I think you're really going to connect with this."
-msgstr ""
+msgstr "Je pense que tu vas vraiment accrocher."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-0/c-4/7
 msgctxt "Prissy"
 msgid "The Woot. How could I have missed it??"
-msgstr ""
+msgstr "Le Wouhou. Comment j'ai pu passer à côté ??"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/0
 msgctxt "Prissy"
 msgid "The Woot, basically, is love."
-msgstr ""
+msgstr "Le Wouhou, en gros, c'est l'amour."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/8
 msgctxt "Prissy"
 msgid "I know, it sounds cheesy, but hear me out."
-msgstr ""
+msgstr "Je sais, ça fait cucul, mais écoute-moi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/16
 msgctxt "Prissy"
 msgid "It means encouragement. Visibility. Woot is the essence of giving someone support, cheering them on, believing in them."
-msgstr ""
+msgstr "Ça veut dire encouragement. Visibilité. Le Wouhou, c'est l'essence même du soutien, des encouragements, de la confiance qu'on met en quelqu'un."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/24
 msgctxt "Prissy"
 msgid "And you don't even necessarily have to feel those things in order to give them to someone, that's the crazy part."
-msgstr ""
+msgstr "Et tu n'as même pas forcément besoin de ressentir ces choses pour les donner à quelqu'un, c'est ça le plus fou."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/32
 msgctxt "Prissy"
 msgid "You can offer someone The Woot before you feel it, and in the offering, and by them receiving it, you actually get it, too."
-msgstr ""
+msgstr "Tu peux offrir du Wouhou à quelqu'un avant de le ressentir, et en l'offrant, et parce que l'autre le reçoit, tu l'obtiens aussi."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/40
 msgctxt "Prissy"
 msgid "You know what this sounds like, right?"
-msgstr ""
+msgstr "Tu sais à quoi ça ressemble, non ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/48/s/0
 msgctxt "Choix"
 msgid "Magic?"
-msgstr ""
+msgstr "À de la magie ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/49/s/0
 msgctxt "Choix"
 msgid "Oh yes. It's bullshit. Tell me you didn't pay for this."
-msgstr ""
+msgstr "Ah oui. C'est des conneries. Dis-moi que tu n'as pas payé pour ça."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-5/7
 msgctxt "Prissy"
 msgid "TOTAL MAGIC."
-msgstr ""
+msgstr "DE LA MAGIE PURE."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-5/18
 msgctxt "Prissy"
 msgid "I am so glad that you get it!"
-msgstr ""
+msgstr "Je suis ravie que tu comprennes !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-5/26/0/s/0
 msgctxt "Choix"
 msgid "So how does this factor into your dream to become real?"
-msgstr ""
+msgstr "Alors, quel rapport avec ton rêve de devenir réelle ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-5/26/1/s/0
 msgctxt "Choix"
 msgid "I get it. Big fan of The Woot."
-msgstr ""
+msgstr "Je vois. Je suis fan du Wouhou."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-5/26/c-0/7
 msgctxt "Prissy"
 msgid "Yes! So glad you asked."
-msgstr ""
+msgstr "Oui ! Ravie que tu poses la question !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-5/26/c-0/15
 msgctxt "Prissy"
 msgid "Allow me to introduce to you..."
-msgstr ""
+msgstr "Permets-moi de te présenter..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-5/26/c-1/7
 msgctxt "Prissy"
 msgid "Well since you're already a fan... may I present The Can!"
-msgstr ""
+msgstr "Eh bien puisque tu es déjà fan... puis-je te présenter l'Arrosouhou !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-6/7
 msgctxt "Prissy"
 msgid "No no, you don't pay for The Woot, The Woot is free to everyone all the time."
-msgstr ""
+msgstr "Non non, le Wouhou, ça ne s'achète pas, il est gratuit pour tout le monde, tout le temps."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-1/c-6/15
 msgctxt "Prissy"
 msgid "But I did pay for..."
-msgstr ""
+msgstr "Mais j'ai payé pour..."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/3
 msgctxt "Narrator"
 msgid "Prissy holds up a small green and pink watering can—it seems pretty unremarkable to your eye, but you suppose you'll have to wait and see."
-msgstr ""
+msgstr "Prissy brandit un petit arrosoir vert et rose : il te paraît plutôt banal, mais tu supposes qu'il faudra attendre pour voir."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/11
 msgctxt "Prissy"
 msgid "The Wootering Can!"
-msgstr ""
+msgstr "L'Arrosouhou !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/22
 msgctxt "Prissy"
 msgid "This can, the technology in this humble garden implement is so specialized, that it can literally hold and transfer the pure essence of Woot from the can to me!"
-msgstr ""
+msgstr "Cet arrosoir, la technologie de ce modeste outil de jardin est si spécialisée qu'il peut littéralement contenir et transférer l'essence pure du Wouhou de l'arrosoir jusqu'à moi !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/30
 msgctxt "Prissy"
 msgid "And through the power of the Woot, presto! I become real!"
-msgstr ""
+msgstr "Et grâce au pouvoir du Wouhou, hop ! Je deviens réelle !"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/38
 msgctxt "Prissy"
 msgid "The Woot doesn't exist only in this can, of course. But according to the manufacturers, this is the most efficient way to preserve the power of The Woot and transfer it in its purest form."
-msgstr ""
+msgstr "Le Wouhou n'existe pas que dans cet arrosoir, bien sûr. Mais d'après les fabricants, c'est le moyen le plus efficace de préserver la puissance du Wouhou et de la transférer sous sa forme la plus pure."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/46/s/0
 msgctxt "Choix"
 msgid "Woot. I would've thought Woo-tering can? Like, I woo you?"
-msgstr ""
+msgstr "Wouhou. J'aurais plutôt cru à un Arrouhou-soir ? Genre, je te fais du charme ?"
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/47/s/0
 msgctxt "Choix"
 msgid "That looks like a totally normal watering can."
-msgstr ""
+msgstr "On dirait un arrosoir tout à fait normal."
 
+# Traduction IA – à relire
 #: prissy_plant/prissy_encounter2/0/g-2/c-7/7
 msgctxt "Prissy"
 msgid "Yeah! That totally works, too!"
-msgstr ""
+msgstr "Ouais ! Ça marche aussi, carrément !"
 
 #: prissy_plant/prissy_encounter2/0/g-2/c-7/15
 msgctxt "Prissy"

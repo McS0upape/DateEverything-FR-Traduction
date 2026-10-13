@@ -1808,1257 +1808,1507 @@ msgctxt "Choix"
 msgid "HELLO?!?!"
 msgstr "ALLÔ ?!?!"
 
+# Traduction IA – à relire
 #: arma_alarm/arma_hate_return/0/12/s/0
 msgctxt "Choix"
 msgid "ARMA! ARE YOU IN THERE?!"
-msgstr ""
+msgstr "ARMA ! TU ES LÀ-DEDANS ?!"
 
+# Traduction IA – à relire
 #: arma_alarm/arma_hate_return/0/g-0/0
 msgctxt "Arma"
 msgid "<w>EEEEEEEEEEEEEEEEEE—</w>"
-msgstr ""
+msgstr "<w>IIIIIIIIIIIIIIIIIII—</w>"
 
+# Traduction IA – à relire
 #: arma_alarm/arma_hate_return/0/g-0/11/s/0
 msgctxt "Choix"
 msgid "ARMA! THERE'S NO FIRE!"
-msgstr ""
+msgstr "ARMA ! IL N'Y A PAS DE FEU !"
 
+# Traduction IA – à relire
 #: arma_alarm/arma_hate_return/0/g-0/12/s/0
 msgctxt "Choix"
 msgid "I'M GONNA HAVE TO PULL YOUR BATTERY! (USE EMPATHY CANDY)"
-msgstr ""
+msgstr "IL VA FALLOIR QUE JE TE RETIRE LA BATTERIE ! (UTILISER UN BONBON D'EMPATHIE)"
 
+# Traduction IA – à relire
 #: arma_alarm/arma_hate_return/0/g-0/c-2/7 arma_alarm/arma_hate_return/0/g-0/c-3/13
 msgctxt "Arma"
 msgid "Wha?! <w>BLEEEEEEEEEEEE—</w> EMERGENCY! I've got to save us!"
-msgstr ""
+msgstr "Hein ?! <w>BIIIIIIIIIII—</w> URGENCE ! Je dois nous sauver !"
 
+# Traduction IA – à relire
 #: arma_alarm/arma_hate_return/0/g-0/c-2/18
 msgctxt "Arma"
 msgid "WE'RE NOT SAFE! <w>BLEEEEEEEE—</w>"
-msgstr ""
+msgstr "ON N'EST PAS EN SÉCURITÉ ! <w>BIIIIIIII—</w>"
 
+# Traduction IA – à relire
 #: arma_alarm/arma_hate_return/0/g-0/c-3/24
 msgctxt "Arma"
 msgid "WE'RE NOT SAFE! <w>bLEEEEEEEE</w>—WE'RE NOT SAFE!<w>BLEEEEEEEE—</w>"
-msgstr ""
+msgstr "ON N'EST PAS EN SÉCURITÉ ! <w>bIIIIIIII</w>—ON N'EST PAS EN SÉCURITÉ !<w>BIIIIIIII—</w>"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaBatteryPull/0/0 arma_alarm/ArmaHouseOnFire/0/g-1/c-6/18/c-0/15/c-2/7 arma_alarm/ArmaHouseOnFire/0/g-1/c-7/10
 msgctxt "Narrator"
 msgid "You snake your arm around Arma's back, your fingers finding the battery hatch and popping it open with a speed that surprises even you. You yank the battery out, clutching it tightly in your fist as you pull away from her."
-msgstr ""
+msgstr "Vous glissez le bras dans le dos d'Arma, vos doigts trouvent la trappe de la batterie et l'ouvrent avec une rapidité qui vous surprend vous-même. Vous arrachez la batterie, la serrez fort dans votre poing et vous écartez d'elle."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaBatteryPull/0/16
 msgctxt "Narrator"
 msgid "Arma falls silent, her eyes glassy and dull."
-msgstr ""
+msgstr "Arma se tait, le regard vitreux et éteint."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaBatteryPull/0/24/s/0
 msgctxt "Choix"
 msgid "<i>Reset Arma's Battery.</i>"
-msgstr ""
+msgstr "<i>Réinitialiser la batterie d'Arma.</i>"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaBatteryPull/0/25/s/0
 msgctxt "Choix"
 msgid "<i>Leave Arma in Sleep Mode.</i>"
-msgstr ""
+msgstr "<i>Laisser Arma en veille.</i>"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaBatteryPull/0/c-1/7
 msgctxt "Arma"
 msgid "Bip bip bip bip bip bip bip bip bip bip..."
-msgstr ""
+msgstr "Bip bip bip bip bip bip bip bip bip bip..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaBatteryPull/0/c-1/22
 msgctxt "Narrator"
 msgid "Better to let sleeping alarms lie."
-msgstr ""
+msgstr "Mieux vaut ne pas réveiller l'alarme qui dort."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/0 arma_alarm/ArmaDeadEnding/0/c-1/23/c-0/21
 msgctxt "Narrator"
 msgid "Arma jerks to life, full of energy and vigor—it's as if she never left."
-msgstr ""
+msgstr "Arma reprend vie d'un coup, pleine d'énergie et de vigueur, comme si elle ne s'était jamais absentée."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/8
 msgctxt "Arma"
 msgid "<w>ZZZZAAAAP!</w>"
-msgstr ""
+msgstr "<w>ZZZZZAAAAP !</w>"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/19
 msgctxt "Arma"
 msgid "Whoah. Hello? That was weird."
-msgstr ""
+msgstr "Waouh. Allô ? C'était bizarre."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/27/s/0
 msgctxt "Choix"
 msgid "Hey Arma... I'm sorry, but I had to reset your battery."
-msgstr ""
+msgstr "Hé Arma... {{Désolé|Désolée|Désolé·e}}, mais j'ai dû réinitialiser ta batterie."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/28/s/0
 msgctxt "Choix"
 msgid "I'll say! Ya just sorta conked out for a sec."
-msgstr ""
+msgstr "Tu l'as dit ! Tu t'es un peu éteinte pendant une seconde."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/c-0/7
 msgctxt "Arma"
 msgid "Why? Was something wrong?"
-msgstr ""
+msgstr "Pourquoi ? Il y avait un problème ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Erm. Yes."
-msgstr ""
+msgstr "Euh. Oui."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Oh, just got the feeling you needed it."
-msgstr ""
+msgstr "Oh, j'ai juste senti que tu en avais besoin."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/c-0/15/c-0/7
 msgctxt "Arma"
 msgid "Well, no matter. I feel great! Super refreshed!"
-msgstr ""
+msgstr "Bah, peu importe. Je me sens super bien ! Complètement ressourcée !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/c-0/15/c-1/7
 msgctxt "Arma"
 msgid "Guess I did! But now I feel right as rain!"
-msgstr ""
+msgstr "J'imagine que oui ! Mais maintenant je suis en pleine forme !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/c-1/7
 msgctxt "Arma"
 msgid "Whoops! Can't just be sleepin on the job, can I!"
-msgstr ""
+msgstr "Oups ! On ne s'endort pas au travail, hein !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaWakesUp/0/g-0/0
 msgctxt "Arma"
 msgid "I'm gonna get back to work. Come around any time if you wanna hang out!"
-msgstr ""
+msgstr "Je retourne bosser. Passe quand tu veux si l'envie te prend de traîner ensemble !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/0
 msgctxt "Arma"
 msgid "Hey! I'm glad you came back. I was hoping I'd get another chance to talk to you."
-msgstr ""
+msgstr "Hé ! Je suis contente que tu sois {{revenu|revenue|revenu·e}}. J'espérais avoir une autre occasion de te parler."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/8/s/0
 msgctxt "Choix"
 msgid "What about?"
-msgstr ""
+msgstr "À propos de quoi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/9/s/0
 msgctxt "Choix"
 msgid "I hoped I didn't offend you..."
-msgstr ""
+msgstr "J'espère que je ne t'ai pas vexée..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/c-1/7
 msgctxt "Arma"
 msgid "No! The opposite."
-msgstr ""
+msgstr "Non ! Au contraire."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-0/0
 msgctxt "Arma"
 msgid "After I left last time, I really thought about what you said."
-msgstr ""
+msgstr "Après mon départ, l'autre jour, j'ai vraiment réfléchi à ce que tu m'avais dit."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-0/8
 msgctxt "Arma"
 msgid "You telling me that my stress was negatively impacting my work..."
-msgstr ""
+msgstr "Que mon stress nuisait à mon travail..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-0/16
 msgctxt "Arma"
 msgid "That really got through to me."
-msgstr ""
+msgstr "Ça m'a vraiment touchée."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "Glad to hear that."
-msgstr ""
+msgstr "{{Ravi|Ravie|Ravi·e}} de l'entendre."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "I was worried about you."
-msgstr ""
+msgstr "Je m'inquiétais pour toi."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-0/c-3/7
 msgctxt "Arma"
 msgid "I could tell... And it was what I needed to hear."
-msgstr ""
+msgstr "Je m'en doutais... Et c'est ce que j'avais besoin d'entendre."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/0
 msgctxt "Arma"
 msgid "In fact, it made me realize that I needed to focus more on making sure I'm ok..."
-msgstr ""
+msgstr "En fait, ça m'a fait comprendre que je devais d'abord veiller à aller bien moi-même..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/8
 msgctxt "Arma"
 msgid "Before I can start trying to help others."
-msgstr ""
+msgstr "Avant de pouvoir essayer d'aider les autres."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/16
 msgctxt "Arma"
 msgid "So I took some much needed R&R, and even healed some old wounds."
-msgstr ""
+msgstr "Alors j'ai pris un repos bien mérité, et j'ai même soigné de vieilles blessures."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/24/0/s/0
 msgctxt "Choix"
 msgid "Did it help?"
-msgstr ""
+msgstr "Ça a aidé ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/24/1/s/0
 msgctxt "Choix"
 msgid "How do you feel now?"
-msgstr ""
+msgstr "Comment tu te sens maintenant ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/24/c-4/7
 msgctxt "Arma"
 msgid "Absolutely! I set three new PRs in my training, and on top of all that..."
-msgstr ""
+msgstr "Carrément ! J'ai battu trois records perso à l'entraînement, et en plus de tout ça..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/24/c-4/18 arma_alarm/Arma_Tough_Love/0/g-1/24/c-5/15
 msgctxt "Arma"
 msgid "I realized that my battery was in dire need of a recharge!"
-msgstr ""
+msgstr "J'ai compris que ma batterie avait grand besoin d'être rechargée !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-1/24/c-5/7
 msgctxt "Arma"
 msgid "Awesome! I set three new PRs in my training, and on top of all that..."
-msgstr ""
+msgstr "Génial ! J'ai battu trois records perso à l'entraînement, et en plus de tout ça..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-3/0/s/0
 msgctxt "Choix"
 msgid "Yeah, I think we all might have noticed that..."
-msgstr ""
+msgstr "Oui, je crois qu'on l'avait tous remarqué..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-3/1/s/0
 msgctxt "Choix"
 msgid "No. Really? I barely noticed when all that beeping stopped."
-msgstr ""
+msgstr "Non. Vraiment ? J'ai à peine remarqué quand les bips se sont arrêtés."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/0
 msgctxt "Arma"
 msgid "Heheh... oops! Well, now I'm operating at a hundred percent again!"
-msgstr ""
+msgstr "Hé hé... oups ! Enfin, maintenant je fonctionne de nouveau à cent pour cent !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/8
 msgctxt "Arma"
 msgid "And feeling like a million bucks, besides!"
-msgstr ""
+msgstr "Et je me sens comme un million de dollars, en plus !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/16
 msgctxt "Arma"
 msgid "Thanks to you, I can actually keep this place safe."
-msgstr ""
+msgstr "Grâce à toi, je peux enfin protéger cet endroit comme il faut."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/24/b/4
 msgctxt "Dorian"
 msgid "And avoid all those noise complaints..."
-msgstr ""
+msgstr "Et éviter toutes ces plaintes pour nuisances sonores..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/24/b/12
 msgctxt "Arma"
 msgid "That's right Dorian! Sorry for all that."
-msgstr ""
+msgstr "C'est vrai, Dorian ! Désolée pour tout ça."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/24/b/23
 msgctxt "Dorian"
 msgid "Not a problem, love. Glad you're feelin' tip top again."
-msgstr ""
+msgstr "Pas de souci, ma grande. Content de te voir de nouveau d'attaque."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/0
 msgctxt "Narrator"
 msgid "Arma winds a wisp of smoke around one finger nervously, like one might with a strand of actual hair."
-msgstr ""
+msgstr "Arma enroule nerveusement un filet de fumée autour d'un doigt, comme on le ferait avec une vraie mèche de cheveux."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/8
 msgctxt "Arma"
 msgid "So... now that I've got my energy back, would you maybe want to..."
-msgstr ""
+msgstr "Alors... maintenant que j'ai retrouvé mon énergie, est-ce que tu voudrais peut-être..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/16
 msgctxt "Arma"
 msgid "Do something with me?"
-msgstr ""
+msgstr "Faire quelque chose avec moi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/24/s/0
 msgctxt "Choix"
 msgid "Something like a date? I'd love that..."
-msgstr ""
+msgstr "Quelque chose comme un rencard ? Ça me plairait beaucoup..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/25/s/0
 msgctxt "Choix"
 msgid "I'd love to do something with you as a friend."
-msgstr ""
+msgstr "Ça me plairait de faire quelque chose avec toi en tant qu'{{ami|amie|ami·e}}."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/c-8/7
 msgctxt "Arma"
 msgid "So even after I've been so annoying, you'd still consider dating me?"
-msgstr ""
+msgstr "Alors même après que j'ai été si pénible, tu envisagerais de sortir avec moi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/c-8/15
 msgctxt "Arma"
 msgid "You don't know how happy that makes me!"
-msgstr ""
+msgstr "Tu n'imagines pas à quel point ça me rend heureuse !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/c-9/7
 msgctxt "Arma"
 msgid "So even after I've been so annoying, you still wanna hang out with me?"
-msgstr ""
+msgstr "Alors même après que j'ai été si pénible, tu as encore envie de traîner avec moi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-4/27/c-9/15
 msgctxt "Arma"
 msgid "That makes me so happy!"
-msgstr ""
+msgstr "Ça me rend si heureuse !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-6/0
 msgctxt "Arma"
 msgid "So what should we do? We could—"
-msgstr ""
+msgstr "Alors, qu'est-ce qu'on fait ? On pourrait—"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Tough_Love/0/g-6/8 arma_alarm/Arma_Recharged/0/g-2/27
 msgctxt "Arma"
 msgid "Wait a minute..."
-msgstr ""
+msgstr "Attends une minute..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/0
 msgctxt "Arma"
 msgid "You! Hi! I'm so happy to see you!"
-msgstr ""
+msgstr "Toi ! Salut ! Je suis tellement contente de te voir !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/8/s/0
 msgctxt "Choix"
 msgid "Me too! What's crackin'?"
-msgstr ""
+msgstr "Moi aussi ! Quoi de neuf ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/9/s/0
 msgctxt "Choix"
 msgid "Hi Arma. You seem much better than the last time I saw you!"
-msgstr ""
+msgstr "Salut Arma. Tu as l'air bien mieux que la dernière fois !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/c-0/7
 msgctxt "Arma"
 msgid "I'll tell you what! I am! I feel like a huge weight has been taken off of me."
-msgstr ""
+msgstr "Je te le fais pas dire ! Je me sens délestée d'un poids énorme."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/c-1/7
 msgctxt "Arma"
 msgid "I feel like a huge weight has been taken off of me."
-msgstr ""
+msgstr "Je me sens délestée d'un poids énorme."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-0/0
 msgctxt "Arma"
 msgid "I owe it all to you. You helped me release the burden I had been carrying for so long..."
-msgstr ""
+msgstr "Je te dois tout. Tu m'as aidée à me libérer du fardeau que je portais depuis si longtemps..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Has it made you feel more relaxed?"
-msgstr ""
+msgstr "Tu te sens plus détendue ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "And you still feel sharp at work?"
-msgstr ""
+msgstr "Et tu te sens toujours aussi affûtée au travail ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-0/c-2/7
 msgctxt "Arma"
 msgid "You have no idea! I'm not sure if you noticed, but my batteries are totally full now."
-msgstr ""
+msgstr "Tu n'imagines pas ! Je ne sais pas si tu as remarqué, mais mes batteries sont complètement pleines."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-0/c-3/7
 msgctxt "Arma"
 msgid "Even more than ever! And my batteries are FULL!"
-msgstr ""
+msgstr "Plus que jamais ! Et mes batteries sont PLEINES !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-1/0
 msgctxt "Arma"
 msgid "No more unnecessary beeping."
-msgstr ""
+msgstr "Fini les bips inutiles."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "That's great!"
-msgstr ""
+msgstr "C'est génial !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "Yes, Arma, YES!"
-msgstr ""
+msgstr "Oui, Arma, OUI !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "You're killing it girl!"
-msgstr ""
+msgstr "Tu gères, Arma !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-2/0
 msgctxt "Arma"
 msgid "Not to mention, releasing all that tension and anxiety has given me so much more energy to focus on my job!"
-msgstr ""
+msgstr "Sans compter que me libérer de toute cette tension et de cette anxiété m'a donné bien plus d'énergie pour me concentrer sur mon travail !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-2/11
 msgctxt "Arma"
 msgid "I've set some new records in my training, and the relaxation has me far more perceptive."
-msgstr ""
+msgstr "J'ai battu de nouveaux records à l'entraînement, et la détente me rend beaucoup plus perspicace."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Recharged/0/g-2/19
 msgctxt "Arma"
 msgid "Thank you so—"
-msgstr ""
+msgstr "Merci infiniment—"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/3/s/0
 msgctxt "Choix"
 msgid "Arma?"
-msgstr ""
+msgstr "Arma ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/4/s/0
 msgctxt "Choix"
 msgid "Everything alright?"
-msgstr ""
+msgstr "Tout va bien ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/5/s/0
 msgctxt "Choix"
 msgid "Why do I suspect there's about to be a plot twist?"
-msgstr ""
+msgstr "Pourquoi j'ai l'impression qu'un coup de théâtre se prépare ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-0/0
 msgctxt "Arma"
 msgid "Do you smell that?"
-msgstr ""
+msgstr "Tu sens ça ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Do I smell... what?"
-msgstr ""
+msgstr "Si je sens... quoi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "Knew it."
-msgstr ""
+msgstr "Je le savais."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-1/0
 msgctxt "Arma"
 msgid "<w>BLEEP BLEEP BLEEP</w>"
-msgstr ""
+msgstr "<w>BIIIP BIIIP BIIIP</w>"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-1/11/s/0
 msgctxt "Choix"
 msgid "Oh for crying out loud."
-msgstr ""
+msgstr "Oh, bon sang."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-1/12/s/0
 msgctxt "Choix"
 msgid "Arma! Your alarm!"
-msgstr ""
+msgstr "Arma ! Ton alarme !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-2/0
 msgctxt "Arma"
 msgid "There's a fire!"
-msgstr ""
+msgstr "Il y a un incendie !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "Arma, you're overreacting again. Please turn that off."
-msgstr ""
+msgstr "Arma, tu t'emballes encore. Coupe ça, s'il te plaît."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaFire/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "A fire!? Where is it coming from? How can I help?"
-msgstr ""
+msgstr "Un incendie ?! D'où vient-il ? Comment je peux aider ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/0
 msgctxt "Arma"
 msgid "Are... are you sure? But I really think... ok... I'll turn it off."
-msgstr ""
+msgstr "Tu... tu es {{sûr|sûre|sûr·e}} ? Mais je crois vraiment que... bon... je coupe."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/11 arma_alarm/Arma_Hero/0/17
 msgctxt "Narrator"
 msgid "Dorian bursts into the room, all urgency."
-msgstr ""
+msgstr "Dorian déboule dans la pièce, tout en urgence."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/19
 msgctxt "Dorian"
 msgid "There's a fire in the bathroom! Quick! We need help!"
-msgstr ""
+msgstr "Il y a un feu dans la salle de bains ! Vite ! On a besoin d'aide !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/27
 msgctxt "Arma"
 msgid "What?! But... But I..."
-msgstr ""
+msgstr "Quoi ?! Mais... Mais je..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/38
 msgctxt "Tyrell"
 msgid "Fire! Fire! It's the outlet next to Sinclaire!"
-msgstr ""
+msgstr "Au feu ! Au feu ! C'est la prise à côté de Sinclaire !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/55 arma_alarm/Arma_Hero/0/64
 msgctxt "Barry"
 msgid "Sinclaire spilled water on it! And now the wall is on fire!"
-msgstr ""
+msgstr "Sinclaire a renversé de l'eau dessus ! Et maintenant le mur est en feu !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/76 arma_alarm/Arma_Hero/0/82
 msgctxt "Wallace"
 msgid "AHHHHHHH!!!!!"
-msgstr ""
+msgstr "AHHHHHHH !!!!!"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/87
 msgctxt "Arma"
 msgid "I don't know what to do!"
-msgstr ""
+msgstr "Je ne sais pas quoi faire !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/95
 msgctxt "Dorian"
 msgid "Tyrell, follow me! We can take care of this!"
-msgstr ""
+msgstr "Tyrell, suis-moi ! On peut régler ça !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/103
 msgctxt "Tyrell"
 msgid "Let's go!"
-msgstr ""
+msgstr "Allons-y !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/117
 msgctxt "Narrator"
 msgid "Everyone exits at once, leaving you and Arma alone. Arma looks absolutely distraught."
-msgstr ""
+msgstr "Tout le monde sort en même temps, vous laissant seuls, Arma et vous. Arma semble absolument anéantie."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/125
 msgctxt "Arma"
 msgid "What have I done... I should have trusted myself."
-msgstr ""
+msgstr "Qu'est-ce que j'ai fait... J'aurais dû me faire confiance."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/133/s/0
 msgctxt "Choix"
 msgid "Oops..."
-msgstr ""
+msgstr "Oups..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/134/s/0
 msgctxt "Choix"
 msgid "Yikes. Don't love where this is going."
-msgstr ""
+msgstr "Aïe. Je n'aime pas trop où ça mène."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-0/6
 msgctxt "Narrator"
 msgid "Dorian and Tyrell return, far calmer than when they left."
-msgstr ""
+msgstr "Dorian et Tyrell reviennent, bien plus calmes qu'à leur départ."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-0/17/b/1
 msgctxt "Dorian"
 msgid "Well, Shelley stepped in and handled it."
-msgstr ""
+msgstr "Eh bien, Shelley est intervenue et s'en est occupée."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-0/17/b/9
 msgctxt "Tyrell"
 msgid "Shelley got Sinclaire to give us some water, and I sopped it up and... well..."
-msgstr ""
+msgstr "Shelley a convaincu Sinclaire de nous donner de l'eau, et moi j'ai tout épongé et... bon..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-0/18/b/1
 msgctxt "Tyrell"
 msgid "It's over."
-msgstr ""
+msgstr "C'est fini."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-0/21/s/0
 msgctxt "Choix"
 msgid "What did you guys do?"
-msgstr ""
+msgstr "Qu'est-ce que vous avez fait, les gars ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-0/22/s/0
 msgctxt "Choix"
 msgid "You put it out?"
-msgstr ""
+msgstr "Vous l'avez éteint ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-1/0
 msgctxt "Dorian"
 msgid "He jumped right on the fire!"
-msgstr ""
+msgstr "Il a sauté directement sur le feu !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "Nice work."
-msgstr ""
+msgstr "Beau travail."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "Tyrell! Way to go!"
-msgstr ""
+msgstr "Tyrell ! Bravo !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-1/c-4/7
 msgctxt "Dorian"
 msgid "Anytime."
-msgstr ""
+msgstr "Quand tu veux."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-1/c-4/15 arma_alarm/Arma_Failure/0/g-1/c-5/7
 msgctxt "Tyrell"
 msgid "I mean..."
-msgstr ""
+msgstr "Enfin..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-2/0
 msgctxt "Tyrell"
 msgid "Can't just let the place burn down!"
-msgstr ""
+msgstr "On ne peut pas laisser la maison brûler !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-2/8
 msgctxt "Tyrell"
 msgid "We'll be on our way... see ya, Arma."
-msgstr ""
+msgstr "On va y aller... à plus, Arma."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-2/22
 msgctxt "Narrator"
 msgid "Alone once more, the silence between you and Arma is now almost unbearable. Neither of you speaks for a long time."
-msgstr ""
+msgstr "De nouveau seuls, le silence entre vous et Arma devient presque insupportable. Ni l'un ni l'autre ne parle pendant un long moment."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-2/30
 msgctxt "Arma"
 msgid "I can't believe it. I failed the whole house..."
-msgstr ""
+msgstr "Je n'arrive pas à y croire. J'ai fait défaut à toute la maison..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-2/38
 msgctxt "Arma"
 msgid "I'll never trust myself again. Or you."
-msgstr ""
+msgstr "Je ne me ferai plus jamais confiance. Ni à toi."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-2/46/s/0
 msgctxt "Choix"
 msgid "You can trust yourself! I was the one who was wrong!"
-msgstr ""
+msgstr "Tu peux te faire confiance ! C'est moi qui avais tort !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-2/47/s/0
 msgctxt "Choix"
 msgid "Arma, please! I just thought you were overreacting!"
-msgstr ""
+msgstr "Arma, s'il te plaît ! Je pensais juste que tu t'emballais !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Failure/0/g-3/4
 msgctxt "Arma"
 msgid "No. Please just go."
-msgstr ""
+msgstr "Non. Va-t'en, s'il te plaît."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/3
 msgctxt "Arma"
 msgid "It's in the bathroom! <w>BLEEP</w> ALERT THE HOUSE! <w>BLEEP</w>"
-msgstr ""
+msgstr "C'est dans la salle de bains ! <w>BIIIP</w> PRÉVENEZ LA MAISON ! <w>BIIIP</w>"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/25
 msgctxt "Dorian"
 msgid "You were right, Arma!"
-msgstr ""
+msgstr "Tu avais raison, Arma !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/36
 msgctxt "Tyrell"
 msgid "It's the outlet next to Sinclaire!"
-msgstr ""
+msgstr "C'est la prise à côté de Sinclaire !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/50
 msgctxt "Arma"
 msgid "Hang on. We need more info before we act!"
-msgstr ""
+msgstr "Une seconde. Il nous faut plus d'informations avant d'agir !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/93/b/1
 msgctxt "Wallace"
 msgid "MY BUTT! WHAT DO WE DO!?"
-msgstr ""
+msgstr "MES FESSES ! QU'EST-CE QU'ON FAIT !?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/99
 msgctxt "Arma"
 msgid "I know exactly what to do! Dorian!"
-msgstr ""
+msgstr "Je sais exactement quoi faire ! Dorian !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/110
 msgctxt "Dorian"
 msgid "Yes?"
-msgstr ""
+msgstr "Oui ?"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/118
 msgctxt "Arma"
 msgid "Go tell Eddie to flip his breaker so we can be sure there's no danger from electricity."
-msgstr ""
+msgstr "Va dire à Eddie de couper son disjoncteur pour qu'on soit sûrs qu'il n'y a aucun risque d'électrocution."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/132
 msgctxt "Arma"
 msgid "Tyrell, I want you to soak it up and... if you feel up to it, jump on the fire!"
-msgstr ""
+msgstr "Tyrell, je veux que tu épongres tout ça et... si tu t'en sens capable, que tu sautes sur le feu !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/143
 msgctxt "Tyrell"
 msgid "Anything for the house, Arma!"
-msgstr ""
+msgstr "Tout pour la maison, Arma !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/157
 msgctxt "Dorian"
 msgid "Let's go!"
-msgstr ""
+msgstr "Allons-y !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/168
 msgctxt "Arma"
 msgid "Barry, you just... keep doing what you're doing."
-msgstr ""
+msgstr "Barry, toi, tu continues... à faire ce que tu fais."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/176
 msgctxt "Barry"
 msgid "I'll do some research on East Asian zithers!"
-msgstr ""
+msgstr "Je vais faire des recherches sur les cithares d'Asie de l'Est !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/187
 msgctxt "Arma"
 msgid "Let's hope this works..."
-msgstr ""
+msgstr "Espérons que ça marche..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/201
 msgctxt "Narrator"
 msgid "Amidst the chaos of the fire, Arma stands firm, shouting out orders and ensuring everyone in the area is safe. It all happens so quickly, but when the smoke clears, your home and objects are all relatively unharmed."
-msgstr ""
+msgstr "Au milieu du chaos de l'incendie, Arma tient bon, hurle des ordres et veille à la sécurité de tous ceux qui sont dans les parages. Tout se passe très vite, mais quand la fumée se dissipe, votre maison et vos objets sont à peu près indemnes."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/209
 msgctxt "Arma"
 msgid "Woohoo!!!"
-msgstr ""
+msgstr "Youhouuu !!!"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/220/s/0
 msgctxt "Choix"
 msgid "We did it! The fire is out!"
-msgstr ""
+msgstr "On a réussi ! Le feu est éteint !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/221/s/0
 msgctxt "Choix"
 msgid "WE ARE PROFESSIONAL FIREFIGHTERS NOW!"
-msgstr ""
+msgstr "ON EST DES POMPIERS PROFESSIONNELS, MAINTENANT !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/c-0/7
 msgctxt "Arma"
 msgid "Yeah!"
-msgstr ""
+msgstr "Ouais !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/c-1/7
 msgctxt "Arma"
 msgid "SURE! WHY NOT!"
-msgstr ""
+msgstr "BIEN SÛR ! POURQUOI PAS !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/6
 msgctxt "Dorian"
 msgid "Way to go Tyrell! You were awesome!"
-msgstr ""
+msgstr "Bravo Tyrell ! Tu as été génial !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/14
 msgctxt "Tyrell"
 msgid "So were you, Dorian."
-msgstr ""
+msgstr "Toi aussi, Dorian."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/22/b/4
 msgctxt "Wallace"
 msgid "You saved my butt! Ok bye!"
-msgstr ""
+msgstr "Vous m'avez sauvé les fesses ! Bon, salut !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/25
 msgctxt "Tyrell"
 msgid "Well, I'm gonna go dry off Wallace."
-msgstr ""
+msgstr "Bon, je vais aller sécher Wallace."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/33
 msgctxt "Dorian"
 msgid "Crisis averted. I'll flip the breaker back on, and have Tony take a look at that socket. Wonder what got into Sinclaire..."
-msgstr ""
+msgstr "Crise évitée. Je vais remettre le disjoncteur, et demander à Tony de jeter un oeil à cette prise. Je me demande ce qui a pris à Sinclaire..."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/47/s/0
 msgctxt "Choix"
 msgid "Arma! You're an absolute hero! That was amazing!"
-msgstr ""
+msgstr "Arma ! Tu es une véritable héroïne ! C'était incroyable !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/48/s/0
 msgctxt "Choix"
 msgid "We kicked that fire's BUTT!"
-msgstr ""
+msgstr "On a botté les fesses de cet incendie !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-0/c-3/7
 msgctxt "Arma"
 msgid "YEAH we did!"
-msgstr ""
+msgstr "OUAIS, on l'a fait !"
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-1/4
 msgctxt "Arma"
 msgid "You know what? I owe it all to you."
-msgstr ""
+msgstr "Tu sais quoi ? Je te dois tout."
 
+# Traduction IA – à relire
 #: arma_alarm/Arma_Hero/0/g-1/12
 msgctxt "Arma"
 msgid "I don't even want to imagine how that would've gone if I'd still been low on charge..."
-msgstr ""
+msgstr "Je préfère ne pas imaginer comment ça se serait passé si ma batterie avait encore été faible..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/0/s/0
 msgctxt "Choix"
 msgid "Now that we've successfully averted disaster, how about hanging out? As a friend?"
-msgstr ""
+msgstr "Maintenant qu'on a évité la catastrophe, et si on passait un moment ensemble ? En toute amitié ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/1/s/0
 msgctxt "Choix"
 msgid "So, now that I'm a deputy firefighter... Any interest in giving me a CPR lesson?"
-msgstr ""
+msgstr "Alors, maintenant que je suis {{pompier adjoint|pompière adjointe|pompier·e adjoint·e}}... Ça te dirait de me donner un cours de réanimation ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/7
 msgctxt "Arma"
 msgid "I'd love that! I feel like I barely got to know you. I'd like to change that."
-msgstr ""
+msgstr "Avec plaisir ! J'ai l'impression d'avoir à peine eu le temps de te connaître. J'aimerais changer ça."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/15
 msgctxt "Arma"
 msgid "You know what would be fun?"
-msgstr ""
+msgstr "Tu sais ce qui serait amusant ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/23
 msgctxt "Arma"
 msgid "We could practice blasting fires out with the extinguisher!"
-msgstr ""
+msgstr "On pourrait s'entraîner à éteindre des feux avec l'extincteur !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/31
 msgctxt "Arma"
 msgid "Or we could make some disaster kits so we're safe when something serious comes along!"
-msgstr ""
+msgstr "Ou on pourrait préparer des kits de survie pour être en sécurité quand quelque chose de sérieux arrivera !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/43/0/s/0
 msgctxt "Choix"
 msgid "Let's blast fires!"
-msgstr ""
+msgstr "Éteignons des feux !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/43/1/s/0
 msgctxt "Choix"
 msgid "Let's make a kit!"
-msgstr ""
+msgstr "Faisons un kit !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/43/c-0/7
 msgctxt "Narrator"
 msgid "Together you set up a controlled environment and practice safely putting out fires by blasting them with your extinguisher."
-msgstr ""
+msgstr "Ensemble, vous mettez en place un environnement contrôlé et vous vous entraînez à éteindre des feux en toute sécurité à coups d'extincteur."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/43/c-0/15
 msgctxt "Narrator"
 msgid "It's surprisingly fun, and you spend a lot of time laughing. Feeling the pressure from the hose in your hands is exhilarating, and by the end of your time together you feel empowered knowing you're prepared for an emergency."
-msgstr ""
+msgstr "C'est étonnamment amusant, et vous passez beaucoup de temps à rire. Sentir la pression du tuyau entre vos mains est grisant, et à la fin de votre moment ensemble, vous vous sentez plus {{fort|forte|fort·e}} en sachant que vous êtes {{prêt|prête|prêt·e}} à affronter une urgence."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/43/c-1/7
 msgctxt "Narrator"
 msgid "Together you pack up items to use in case of an emergency. It's surprisingly fun, and you spend a lot of time laughing."
-msgstr ""
+msgstr "Ensemble, vous rassemblez de quoi vous préparer en cas d'urgence. C'est étonnamment amusant, et vous passez beaucoup de temps à rire."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-0/43/c-1/15
 msgctxt "Narrator"
 msgid "Instead of feeling vaguely anxious about the next disaster, you begin actually planning what to do. By the end of your time together, you feel empowered knowing you're prepared for any emergency."
-msgstr ""
+msgstr "Au lieu de ressentir une vague angoisse face à la prochaine catastrophe, vous vous mettez à planifier concrètement ce qu'il faudra faire. À la fin de votre moment ensemble, vous vous sentez plus {{fort|forte|fort·e}} en sachant que vous êtes {{prêt|prête|prêt·e}} à affronter n'importe quelle urgence."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/11
 msgctxt "Arma"
 msgid "Seems to me like all you need is a little mouth-to-mouth..."
-msgstr ""
+msgstr "Il me semble que tout ce qu'il te faut, c'est un petit bouche-à-bouche..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/19
 msgctxt "Arma"
 msgid "Usually when we train this, one of us plays the patient in distress, and one plays the paramedic."
-msgstr ""
+msgstr "D'habitude, quand on s'entraîne à ça, l'un de nous joue le patient en détresse, et l'autre le secouriste."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/27
 msgctxt "Arma"
 msgid "Which would you like to be?"
-msgstr ""
+msgstr "Lequel veux-tu être ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/35/0/s/0
 msgctxt "Choix"
 msgid "I'll be the submissive patient."
-msgstr ""
+msgstr "Je serai {{le patient soumis|la patiente soumise|le·la patient·e soumis·e}}."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/35/1/s/0
 msgctxt "Choix"
 msgid "I'll be the assertive medic."
-msgstr ""
+msgstr "Je serai {{le secouriste autoritaire|la secouriste autoritaire|le·la secouriste autoritaire}}."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/35/c-0/7
 msgctxt "Arma"
 msgid "Then let me take over..."
-msgstr ""
+msgstr "Alors laisse-moi prendre le relais..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/35/c-0/15
 msgctxt "Narrator"
 msgid "You do your best to play the part of the patient in distress, but once Arma's lips find yours all pretense of training fades away. There's only you, her, and the budding connection growing between the two of you."
-msgstr ""
+msgstr "Vous faites de votre mieux pour jouer le rôle du patient en détresse, mais dès que les lèvres d'Arma rencontrent les vôtres, toute prétention d'entraînement s'évanouit. Il n'y a plus que vous, elle, et le lien naissant qui grandit entre vous."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/35/c-1/7
 msgctxt "Arma"
 msgid "Sounds like I need helping!"
-msgstr ""
+msgstr "On dirait que j'ai besoin d'aide !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/c-1/35/c-1/15
 msgctxt "Narrator"
 msgid "Arma plays a disturbingly convincing patient in distress, but once your lips find hers all pretense of training fades away. There's only you, her, and the budding connection growing between the two of you."
-msgstr ""
+msgstr "Arma joue un patient en détresse avec un naturel troublant, mais dès que vos lèvres rencontrent les siennes, toute prétention d'entraînement s'évanouit. Il n'y a plus que vous, elle, et le lien naissant qui grandit entre vous."
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: arma_alarm/ArmaEndings1/0/g-0/0
 msgctxt "Arma"
 msgid "Oh,"
-msgstr ""
+msgstr "Oh,"
 
+# Traduction IA – à relire
 #. Morceau de phrase coupé par une variable (nom du joueur, nombre...).
 #: arma_alarm/ArmaEndings1/0/g-0/5
 msgctxt "Narration / joueur"
 msgid ", I can't tell you how badly I've wanted that."
-msgstr ""
+msgstr ", je ne peux pas te dire à quel point j'en avais envie."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-0/13
 msgctxt "Arma"
 msgid "But I never knew how much I <i>needed</i> it until you helped me find my balance."
-msgstr ""
+msgstr "Mais je ne savais pas à quel point j'en avais <i>besoin</i> avant que tu m'aides à trouver mon équilibre."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-0/21
 msgctxt "Arma"
 msgid "Now I need a bit of a break..."
-msgstr ""
+msgstr "Maintenant, j'ai besoin d'un peu de répit..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "From me?"
-msgstr ""
+msgstr "De moi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-0/30/s/0
 msgctxt "Choix"
 msgid "From... What?"
-msgstr ""
+msgstr "De... quoi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-0/c-2/7
 msgctxt "Arma"
 msgid "Not from you! But just from all this... action."
-msgstr ""
+msgstr "Pas de toi ! Juste de toute cette... action."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-0/c-3/7
 msgctxt "Arma"
 msgid "Just a break from all the action."
-msgstr ""
+msgstr "Juste une pause dans toute cette action."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-1/0
 msgctxt "Arma"
 msgid "I think it's time for me to just chill out for a while."
-msgstr ""
+msgstr "Je crois qu'il est temps pour moi de me détendre un moment."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaEndings1/0/g-1/8
 msgctxt "Arma"
 msgid "Come see me again soon, ok?"
-msgstr ""
+msgstr "Reviens me voir bientôt, d'accord ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/0
 msgctxt "Arma"
 msgid "Hey there! How's it going?"
-msgstr ""
+msgstr "Salut ! Comment ça va ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/8
 msgctxt "Arma"
 msgid "Haven't seen you in a while."
-msgstr ""
+msgstr "Ça fait un moment que je ne t'ai pas {{vu|vue|vu·e}}."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/16/s/0
 msgctxt "Choix"
 msgid "Hey Arma! Going great."
-msgstr ""
+msgstr "Hé Arma ! Ça va très bien."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/17/s/0
 msgctxt "Choix"
 msgid "Things are good. How about you?"
-msgstr ""
+msgstr "Tout va bien. Et toi ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/c-0/7
 msgctxt "Arma"
 msgid "Love to hear it."
-msgstr ""
+msgstr "Ça fait plaisir à entendre."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/c-1/7
 msgctxt "Arma"
 msgid "Me? Oh..."
-msgstr ""
+msgstr "Moi ? Oh..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-0/0
 msgctxt "Arma"
 msgid "I've just been chilling here... relaxing."
-msgstr ""
+msgstr "Je suis juste là, à me détendre... à me reposer."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-0/8
 msgctxt "Arma"
 msgid "Doin a whole lotta nothin'."
-msgstr ""
+msgstr "À ne rien faire du tout."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-0/16
 msgctxt "Arma"
 msgid "Been nice to back off from working and stressing so much!"
-msgstr ""
+msgstr "Ça fait du bien de lever le pied sur le boulot et le stress !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "That's great Arma. I'm glad you're taking a break."
-msgstr ""
+msgstr "C'est super, Arma. Je suis {{content|contente|content·e}} que tu fasses une pause."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "Relaxing sounds nice!"
-msgstr ""
+msgstr "Se reposer, ça a l'air agréable !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-0/c-2/7
 msgctxt "Arma"
 msgid "Me too!"
-msgstr ""
+msgstr "Moi aussi !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-0/c-3/7
 msgctxt "Arma"
 msgid "Sure does! And sure is!"
-msgstr ""
+msgstr "Ça l'est, et comment ! Et je le suis !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/0
 msgctxt "Arma"
 msgid "Wanna help me finish this tub of ice cream?"
-msgstr ""
+msgstr "Tu m'aides à finir ce pot de glace ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "Tub of ice cream?"
-msgstr ""
+msgstr "Un pot de glace ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "How long have you been here, 'just chilling?'"
-msgstr ""
+msgstr "Ça fait combien de temps que tu es là, à « te détendre » ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-4/7
 msgctxt "Arma"
 msgid "Yeah. Well, 'tubs' actually. I've been through about three today."
-msgstr ""
+msgstr "Ouais. Enfin, des « pots », en fait. J'en suis à environ trois aujourd'hui."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-4/15
 msgctxt "Arma"
 msgid "It's either that or..."
-msgstr ""
+msgstr "C'est ça ou alors..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-4/23/0/s/0
 msgctxt "Choix"
 msgid "Or?"
-msgstr ""
+msgstr "Ou alors ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-4/23/1/s/0
 msgctxt "Choix"
 msgid "Eating healthy?"
-msgstr ""
+msgstr "Manger sainement ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-4/23/c-0/7
 msgctxt "Arma"
 msgid "Oh, nothin."
-msgstr ""
+msgstr "Oh, rien."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-4/23/c-1/7
 msgctxt "Arma"
 msgid "...yeah. That."
-msgstr ""
+msgstr "...ouais. Ça."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-5/7
 msgctxt "Arma"
 msgid "Um... a while?"
-msgstr ""
+msgstr "Euh... un moment ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-1/c-5/15
 msgctxt "Arma"
 msgid "I've kinda lost track of time."
-msgstr ""
+msgstr "J'ai un peu perdu la notion du temps."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/0
 msgctxt "Arma"
 msgid "Anyway, I've been great!"
-msgstr ""
+msgstr "Bref, je suis au top !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/8
 msgctxt "Arma"
 msgid "I've realized that I don't need ANY stress in my life!"
-msgstr ""
+msgstr "J'ai compris que je n'ai besoin d'AUCUN stress dans ma vie !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/16
 msgctxt "Arma"
 msgid "And to avoid it, I've committed myself to a new pastime."
-msgstr ""
+msgstr "Et pour l'éviter, je me suis lancée dans une nouvelle activité."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/24
 msgctxt "Arma"
 msgid "Hardcore lounging."
-msgstr ""
+msgstr "Le farniente intensif."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/35
 msgctxt "Arma"
 msgid "<i>Koa put me on to it.</i>"
-msgstr ""
+msgstr "<i>C'est Koa qui m'y a initiée.</i>"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/46/s/0
 msgctxt "Choix"
 msgid "Go for it, Arma! Chill away!"
-msgstr ""
+msgstr "Vas-y, Arma ! Détends-toi à fond !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/47/s/0
 msgctxt "Choix"
 msgid "There's such a thing as balance, Arma..."
-msgstr ""
+msgstr "Il existe quelque chose qui s'appelle l'équilibre, Arma..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/c-6/7
 msgctxt "Arma"
 msgid "Will do!"
-msgstr ""
+msgstr "Compte sur moi !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/c-6/15
 msgctxt "Arma"
 msgid "And now back to the most important question of the day..."
-msgstr ""
+msgstr "Et maintenant, retour à la question la plus importante du jour..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/c-6/23
 msgctxt "Arma"
 msgid "Vanilla or chocolate?"
-msgstr ""
+msgstr "Vanille ou chocolat ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/c-7/7
 msgctxt "Arma"
 msgid "Huh? You mean I need to get back to work?"
-msgstr ""
+msgstr "Hein ? Tu veux dire que je dois retourner travailler ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/c-7/15
 msgctxt "Arma"
 msgid "I guess you're right..."
-msgstr ""
+msgstr "Tu as sans doute raison..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/c-7/23
 msgctxt "Arma"
 msgid "I mean, someone is probably counting on me somewhere."
-msgstr ""
+msgstr "Je veux dire, quelqu'un compte probablement sur moi quelque part."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter1/0/g-2/c-7/31
 msgctxt "Arma"
 msgid "I'll get to business in a bit. Just gonna hang here a few moments longer."
-msgstr ""
+msgstr "Je m'y mets dans un moment. Je reste juste encore quelques instants ici."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/0
 msgctxt "Arma"
 msgid "Oh! Hey you!"
-msgstr ""
+msgstr "Oh ! Salut, toi !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/8
 msgctxt "Arma"
 msgid "You'll be pleased to know, I'm not on the ice cream train anymore!"
-msgstr ""
+msgstr "Tu seras {{content|contente|content·e}} d'apprendre que je ne suis plus dans le train de la glace !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/16
 msgctxt "Arma"
 msgid "Not sure what I was thinking, overindulging like that."
-msgstr ""
+msgstr "Je ne sais pas ce qui m'a pris de me gaver comme ça."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/27
 msgctxt "Arma"
 msgid "But thanks to your influence (mostly), I've put the tubs away."
-msgstr ""
+msgstr "Mais grâce à ton influence (surtout), j'ai rangé les pots."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/35/s/0
 msgctxt "Choix"
 msgid "Dude! Nice!"
-msgstr ""
+msgstr "Super ! Bravo !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/36/s/0
 msgctxt "Choix"
 msgid "Way to go, Arma!"
-msgstr ""
+msgstr "Bien joué, Arma !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/37/s/0
 msgctxt "Choix"
 msgid "Yeah, balance was needed. I could tell."
-msgstr ""
+msgstr "Oui, il fallait de l'équilibre. Ça se voyait."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/38/s/0
 msgctxt "Choix"
 msgid "What do you mean \"mostly\"?"
-msgstr ""
+msgstr "Comment ça, « surtout » ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/c-0/7
 msgctxt "Arma"
 msgid "Thanks!!"
-msgstr ""
+msgstr "Merci !!"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/c-1/7
 msgctxt "Arma"
 msgid "I know! Let's go Arma!"
-msgstr ""
+msgstr "Je sais ! Allez Arma !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/c-2/7
 msgctxt "Arma"
 msgid "You got that right!"
-msgstr ""
+msgstr "Tu l'as dit !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/c-3/7
 msgctxt "Arma"
 msgid "Hmm? Did I say that? Probably just a slip of the tongue."
-msgstr ""
+msgstr "Hmm ? J'ai dit ça ? Probablement un lapsus."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/0
 msgctxt "Narrator"
 msgid "Arma gestures lazily to a spot not far from her."
-msgstr ""
+msgstr "Arma désigne paresseusement un endroit pas très loin d'elle."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/8
 msgctxt "Arma"
 msgid "Could you do me a favor and bring me that box over there?"
-msgstr ""
+msgstr "Tu pourrais me rendre un service et m'apporter cette boîte, là-bas ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "Here ya go!"
-msgstr ""
+msgstr "Tiens !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "It's literally three feet from you."
-msgstr ""
+msgstr "Elle est littéralement à un mètre de toi."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/c-4/7 arma_alarm/ArmaPostFireEncounter3/0/g-0/c-3/7
 msgctxt "Arma"
 msgid "Thanks!"
-msgstr ""
+msgstr "Merci !"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/c-4/15
 msgctxt "Arma"
 msgid "Mmmmm. Cigarettes. So tasty."
-msgstr ""
+msgstr "Mmmmm. Des cigarettes. Un délice."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/c-5/7
 msgctxt "Arma"
 msgid "Ugh. Fine. I'll get it myself."
-msgstr ""
+msgstr "Pff. Bon. Je vais la chercher moi-même."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-0/c-5/15
 msgctxt "Arma"
 msgid "Mmmm! Time for a smoke break."
-msgstr ""
+msgstr "Mmmm ! L'heure de la pause clope."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/0
 msgctxt "Narrator"
 msgid "Arma opens the box and pulls out a cigarette, holding it expertly between two fingers. She looks as if she's held a cigarette many, many times before."
-msgstr ""
+msgstr "Arma ouvre la boîte et en sort une cigarette, qu'elle tient avec aisance entre deux doigts. On dirait qu'elle a déjà tenu une cigarette un très grand nombre de fois."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "WTF?! Those are cigarettes?!"
-msgstr ""
+msgstr "C'EST QUOI CE BORDEL ?! Ce sont des cigarettes ?!"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "Are you SMOKING?"
-msgstr ""
+msgstr "Tu FUMES ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "Didn't peg you as the type..."
-msgstr ""
+msgstr "Je ne t'aurais pas cru de ce genre..."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/c-6/7
 msgctxt "Arma"
 msgid "Oh these little guys?"
-msgstr ""
+msgstr "Oh, ces petites choses ?"
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/c-6/15 arma_alarm/ArmaPostFireEncounter2/0/g-1/c-7/15
 msgctxt "Narrator"
 msgid "She gestures carelessly with the cigarette."
-msgstr ""
+msgstr "Elle agite négligemment la cigarette."
 
+# Traduction IA – à relire
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/c-6/23
 msgctxt "Arma"
 msgid "They're alright. Just friends."
-msgstr ""
+msgstr "Elles sont sympas. Juste des amies."
 
 #: arma_alarm/ArmaPostFireEncounter2/0/g-1/c-6/31 arma_alarm/ArmaPostFireEncounter2/0/g-1/c-7/31
 msgctxt "Arma"

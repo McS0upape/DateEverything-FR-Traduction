@@ -67,3 +67,9 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## friar_airfryer (agent Sonnet, 2026-10-13)
 - Oiled Pitchfork → Fourche Huilée ; Oily Oblivion → Oubli Huileux ; Valdivian (entreprise) : inchangé
+
+## lucinda_lavish (agent Sonnet, 2026-10-13)
+- Fantasy Chamber → Chambre des Fantasmes
+- Bazoomies → loloches
+- soundboard → table de sons
+- prix parodiques (Best Actress…) → Meilleure Actrice, etc. ; noms des variantes de Lucinda (Lust, Lush, Lewd…) en anglais

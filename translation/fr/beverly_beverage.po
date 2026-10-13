@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: beverly_beverage/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "BEVERAGES"
-msgstr ""
+msgstr "BOISSONS"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/6/b/1
 msgctxt "Beverly"
 msgid "Oh hi! Welcome to the Tipsy Tumbler!"
-msgstr ""
+msgstr "Oh salut ! Bienvenue à la Tipsy Tumbler !"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/0/b/1
 msgctxt "Beverly"
 msgid "Ah my darling! What can I get for ya?"
-msgstr ""
+msgstr "Ah, mon cœur ! Qu'est-ce que je te sers ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/3/b/1
 msgctxt "Beverly"
 msgid "Oh... it's you. What do you want."
-msgstr ""
+msgstr "Oh... c'est toi. Tu veux quoi."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/6/b/1 beverly_beverage/dishes_beverage/0/9/9/b/1
 msgctxt "Beverly"
 msgid "What can I get for you?"
-msgstr ""
+msgstr "Qu'est-ce que je te sers ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/12/s/0
 msgctxt "Choix"
 msgid "I'm actually here for a delivery."
-msgstr ""
+msgstr "En fait, je viens pour une livraison."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/7
 msgctxt "Beverly"
 msgid "Delivery?"
-msgstr ""
+msgstr "Une livraison ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/15
 msgctxt "Beverly"
 msgid "Oh! You must be talking about the branded rocks glasses I asked Daisuke to get me!"
-msgstr ""
+msgstr "Oh ! Tu parles sûrement des verres old-fashioned à mon logo que j'ai demandés à Daisuke !"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/26
 msgctxt "Beverly"
 msgid "Thanks so much, I'll take those right off your hands!"
-msgstr ""
+msgstr "Merci mille fois, je te les prends tout de suite !"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/34
 msgctxt "Narrator"
 msgid "You hand Beverly her package, and she sets to work unpacking and cleaning the glasses right away."
-msgstr ""
+msgstr "Vous tendez son colis à Beverly, qui se met aussitôt à déballer et à nettoyer les verres."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/45
 msgctxt "Beverly"
 msgid "I'm glad Daisuke managed to get these for me."
-msgstr ""
+msgstr "Je suis contente que Daisuke ait réussi à me les avoir."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/53
 msgctxt "Beverly"
 msgid "How is that ol' dishslinger, anyway?"
-msgstr ""
+msgstr "Au fait, comment va ce bon vieux lanceur d'assiettes ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/0/s/0
 msgctxt "Choix"
 msgid "He's recovering from a chip, but he seems alright."
-msgstr ""
+msgstr "Il se remet d'une ébréchure, mais il a l'air d'aller bien."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/7
 msgctxt "Beverly"
 msgid "A chip! Oh, poor guy..."
-msgstr ""
+msgstr "Une ébréchure ! Oh, le pauvre..."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/15
 msgctxt "Beverly"
 msgid "That's the last thing he needs."
-msgstr ""
+msgstr "C'est bien la dernière chose dont il avait besoin."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/23
 msgctxt "Beverly"
 msgid "But then again, maybe he'll finally relax a little now that he's forced to."
-msgstr ""
+msgstr "Mais bon, il va peut-être enfin se détendre un peu, puisqu'il n'a plus le choix."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "So he really just never takes a break, huh?"
-msgstr ""
+msgstr "Alors comme ça, il ne prend jamais de pause ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/7
 msgctxt "Beverly"
 msgid "Yeah... he's always been into his work, but he used to make time for his hobbies and friends."
-msgstr ""
+msgstr "Ouais... il a toujours été à fond dans son boulot, mais avant il trouvait du temps pour ses loisirs et ses amis."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/15
 msgctxt "Beverly"
 msgid "Did he tell you he writes poetry?"
-msgstr ""
+msgstr "Il t'a dit qu'il écrivait de la poésie ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "He hasn't told me anything but dishes."
-msgstr ""
+msgstr "Il ne m'a parlé que de vaisselle."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/7
 msgctxt "Beverly"
 msgid "Dear, oh, dear... he's falling right back into his old workaholic pattern."
-msgstr ""
+msgstr "Mon Dieu, mon Dieu... il retombe direct dans ses vieilles habitudes de bourreau de travail."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/15
 msgctxt "Beverly"
 msgid "Someone needs to remind him of who he used to be... who he still is."
-msgstr ""
+msgstr "Quelqu'un doit lui rappeler qui il était... qui il est toujours."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/23
 msgctxt "Beverly"
 msgid "He's a real passionate guy, you know, but passion can lead to pain."
-msgstr ""
+msgstr "C'est un vrai passionné, tu sais, mais la passion peut mener à la souffrance."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/31
 msgctxt "Beverly"
 msgid "It's easier for him."
-msgstr ""
+msgstr "C'est plus facile pour lui."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/0/s/0
 msgctxt "Choix"
 msgid "So he's into poetry... I'll have to remember that."
-msgstr ""
+msgstr "Alors il aime la poésie... je m'en souviendrai."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/7
 msgctxt "Beverly"
 msgid "Write him a poem, it'll really tickle his teapot."
-msgstr ""
+msgstr "Écris-lui un poème, ça va lui chatouiller la théière."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I'll have to try that. Thanks for the chat."
-msgstr ""
+msgstr "Je vais essayer. Merci d'avoir discuté."
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/15/c-0/7
 msgctxt "Beverly"
 msgid "Hey, no prob!"
-msgstr ""
+msgstr "Hé, pas de souci !"
 
+# Traduction IA – à relire
 #: beverly_beverage/dishes_beverage/0/9/c-0/61/c-0/31/c-0/23/c-0/39/c-0/15/c-0/15
 msgctxt "Beverly"
 msgid "Come back to the Tumbler anytime!"
-msgstr ""
+msgstr "Reviens au Tumbler quand tu veux !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_dish_end/0/0
 msgctxt "Beverly"
 msgid "Was I the last one?"
-msgstr ""
+msgstr "C'était la dernière ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_dish_end/0/8/s/0
 msgctxt "Choix"
 msgid "Yeah, actually!"
-msgstr ""
+msgstr "Ouais, en fait !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_dish_end/0/c-0/7
 msgctxt "Beverly"
 msgid "Great job. Daisuke's gonna love that."
-msgstr ""
+msgstr "Beau travail. Daisuke va adorer."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/0
 msgctxt "Narrator"
 msgid "A bartender drums her fingers on the countertop, clearly bored out of her mind. Her long, red-orange hair is pulled back into a ponytail that flows down her back like the drinks she pours so expertly."
-msgstr ""
+msgstr "Une barmaid pianote sur le comptoir, visiblement morte d'ennui. Ses longs cheveux roux orangé sont attachés en queue-de-cheval, qui lui coule dans le dos comme les boissons qu'elle sert avec tant d'adresse."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/8
 msgctxt "Narrator"
 msgid "She makes herself a drink, taking a small sip of it and setting it down. Your entrance startles her so badly she nearly knocks it over."
-msgstr ""
+msgstr "Elle se prépare un verre, en boit une petite gorgée et le repose. Votre arrivée la fait sursauter si fort qu'elle manque de le renverser."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/16
 msgctxt "Beverly"
 msgid "Someone’s here!"
-msgstr ""
+msgstr "Quelqu'un est là !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/24/b/1
 msgctxt "Beverly"
 msgid "The... glass-eater."
-msgstr ""
+msgstr "Le... mange-verre."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/24/b/9
 msgctxt "Narrator"
 msgid "Beverly shivers."
-msgstr ""
+msgstr "Beverly frissonne."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/27
 msgctxt "Beverly"
 msgid "Welcome to my humble bar, The Tipsy Tumbler!"
-msgstr ""
+msgstr "Bienvenue dans mon humble bar, la Tipsy Tumbler !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/35
 msgctxt "Beverly"
 msgid "I’m Beverly, but you can call me Bev. Or Beverly."
-msgstr ""
+msgstr "Moi, c'est Beverly, mais tu peux m'appeler Bev. Ou Beverly."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/43
 msgctxt "Beverly"
 msgid "Or Madame Proprietress..."
-msgstr ""
+msgstr "Ou Madame la Propriétaire..."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/51
 msgctxt "Beverly"
 msgid "aaa that would be so cool...!"
-msgstr ""
+msgstr "aaa ce serait trop classe...!"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/59/s/0
 msgctxt "Choix"
 msgid "Hi Beverly!"
-msgstr ""
+msgstr "Salut Beverly !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/60/s/0 beverly_beverage/Bev_Drunk_Return/0/8/s/0
 msgctxt "Choix"
 msgid "Hi Bev!"
-msgstr ""
+msgstr "Salut Bev !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/61/s/0
 msgctxt "Choix"
 msgid "Hi Madame Proprietress!"
-msgstr ""
+msgstr "Salut Madame la Propriétaire !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/c-2/7
 msgctxt "Beverly"
 msgid "<w>aaaaaa</w>"
-msgstr ""
+msgstr "<w>aaaaaa</w>"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/0
 msgctxt "Beverly"
 msgid "I’m the owner and bartender and janitor and stockroom attendant! Nice to meetcha!"
-msgstr ""
+msgstr "Je suis la patronne, la barmaid, la femme de ménage et la responsable des stocks ! Enchantée !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/11
 msgctxt "Narrator"
 msgid "Beverly squints at you, frowning as she seems to be considering something... and then she snaps, pointing at you."
-msgstr ""
+msgstr "Beverly vous dévisage en plissant les yeux, le front soucieux, comme si elle réfléchissait à quelque chose... puis elle fait claquer ses doigts en vous montrant du doigt."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/19
 msgctxt "Beverly"
 msgid "Wait hold on... oh my gosh it’s you!"
-msgstr ""
+msgstr "Attends, attends... oh mon Dieu, c'est toi !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/27
 msgctxt "Beverly"
 msgid "My proprietor!"
-msgstr ""
+msgstr "Mon proprio !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/35
 msgctxt "Beverly"
 msgid "I can’t believe I didn’t recognize you!"
-msgstr ""
+msgstr "Je n'arrive pas à croire que je ne t'aie pas {{reconnu|reconnue|reconnu·e}} !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/43/s/0
 msgctxt "Choix"
 msgid "Me?"
-msgstr ""
+msgstr "Moi ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/44/s/0
 msgctxt "Choix"
 msgid "Well you should - I own this house!"
-msgstr ""
+msgstr "Eh bien, tu devrais, c'est moi qui possède cette maison !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/c-3/7
 msgctxt "Beverly"
 msgid "Yes you!"
-msgstr ""
+msgstr "Oui, toi !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-0/c-3/15
 msgctxt "Beverly"
 msgid "Who else so charitably bought this adorable minibar for me so I could set up my dream bar?"
-msgstr ""
+msgstr "Qui d'autre aurait eu la générosité de m'acheter cet adorable minibar pour que je monte le bar de mes rêves ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/0
 msgctxt "Beverly"
 msgid "I owe you a huge debt! You have free drinks for life here!"
-msgstr ""
+msgstr "Je te dois une dette énorme ! Tu as des verres gratuits ici à vie !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/8
 msgctxt "Beverly"
 msgid "Welcome to the re-re-re-re-opening of The Tipsy Tumbler!"
-msgstr ""
+msgstr "Bienvenue à la ré-ré-ré-ré-ouverture de la Tipsy Tumbler !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/16
 msgctxt "Beverly"
 msgid "And I know what you’re thinking. \"Bev, that’s a lot of openings!\""
-msgstr ""
+msgstr "Et je sais ce que tu te dis. « Bev, ça fait beaucoup d'ouvertures ! »"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/24
 msgctxt "Beverly"
 msgid "\"Did something happen the first six times you tried to open the bar?\""
-msgstr ""
+msgstr "« Il s'est passé quelque chose les six premières fois où tu as essayé d'ouvrir le bar ? »"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/29
 msgctxt "Beverly"
 msgid "Nope, nothing!"
-msgstr ""
+msgstr "Non, rien !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/37/s/0
 msgctxt "Choix"
 msgid "Uhh, well then why <i>have</i> you reopened so many times?"
-msgstr ""
+msgstr "Euh, alors pourquoi <i>as</i>-tu rouvert autant de fois ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/38/s/0
 msgctxt "Choix"
 msgid "But how can that be when a babe like yourself is here?"
-msgstr ""
+msgstr "Mais comment c'est possible avec une canon comme toi derrière le comptoir ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/c-5/7
 msgctxt "Beverly"
 msgid "It’s because <i>nothing happened!</i> Not a single customer came! Total ghost town! EACH. TIME."
-msgstr ""
+msgstr "Justement parce qu'<i>il ne s'est rien passé !</i> Pas un seul client ! Un désert total ! À. CHAQUE. FOIS."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/c-6/7
 msgctxt "Beverly"
 msgid "First, haha aww thank youuu!~"
-msgstr ""
+msgstr "Premièrement, haha, oooh merciii !~"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-1/c-6/15
 msgctxt "Beverly"
 msgid "Second, great question! I wish I knew..."
-msgstr ""
+msgstr "Deuxièmement, excellente question ! J'aimerais bien le savoir..."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/0
 msgctxt "Beverly"
 msgid "I’ve lost an alarming amount of sleep trying to figure it out."
-msgstr ""
+msgstr "J'ai perdu un nombre alarmant de nuits de sommeil à essayer de comprendre."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/8
 msgctxt "Beverly"
 msgid "So PLEASE DON’T LEAVE. You are literally my first customer in..."
-msgstr ""
+msgstr "Alors S'IL TE PLAÎT, NE PARS PAS. Tu es littéralement {{mon premier client|ma première cliente|ma première clientèle}} depuis..."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/16
 msgctxt "Beverly"
 msgid "EVER!"
-msgstr ""
+msgstr "TOUJOURS !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/24
 msgctxt "Beverly"
 msgid "Everytime I thought you were finally going to invite people over, I’d polish the place up and prepare to be the best host I can be, but then each time you’d chicken out and spend yet another weekend all alone!"
-msgstr ""
+msgstr "Chaque fois que je pensais que tu allais enfin inviter du monde, je briquais l'endroit et je me préparais à être la meilleure hôtesse possible, mais à chaque fois tu te dégonflais et tu passais encore un week-end {{tout seul|toute seule|en solo}} !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/32
 msgctxt "Beverly"
 msgid "I mean, why did you get a minibar if you weren’t going to invite guests over?!"
-msgstr ""
+msgstr "Je veux dire, pourquoi acheter un minibar si c'est pour ne jamais inviter personne ?!"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/40/s/0
 msgctxt "Choix"
 msgid "I thought buying the minibar and all the mixing accessories would motivate me to finally invite someone over..."
-msgstr ""
+msgstr "Je pensais qu'acheter le minibar et tous les accessoires de mixologie me motiverait enfin à inviter quelqu'un..."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/41/s/0
 msgctxt "Choix"
 msgid "I like making drinks for myself because I like drinking alone."
-msgstr ""
+msgstr "J'aime me préparer des boissons parce que j'aime boire {{seul|seule|en solo}}."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/c-7/7
 msgctxt "Beverly"
 msgid "Hah... hah... but that’s okay! It’s all water under the bridge."
-msgstr ""
+msgstr "Hah... hah... mais ce n'est pas grave ! C'est de l'eau sous le pont."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/c-7/15
 msgctxt "Beverly"
 msgid "You’ll have to talk to River if you want that."
-msgstr ""
+msgstr "Si tu veux de l'eau, va voir River."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/c-7/26
 msgctxt "Beverly"
 msgid "Anyway, that’s enough babbling from me."
-msgstr ""
+msgstr "Bref, assez bavardé de mon côté."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/c-8/7
 msgctxt "Beverly"
 msgid "Ahaha that's sad and totally not something I do."
-msgstr ""
+msgstr "Ahaha c'est triste et ça ne me ressemble absolument pas."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-2/c-8/18
 msgctxt "Beverly"
 msgid "Hey, I got an idea! How about I serve something instead so we could be less pathetic together!"
-msgstr ""
+msgstr "Hé, j'ai une idée ! Et si je te servais quelque chose, comme ça on serait moins pathétiques ensemble !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-3/0
 msgctxt "Beverly"
 msgid "So take a seat and let me fix you something already!"
-msgstr ""
+msgstr "Alors installe-toi et laisse-moi te préparer quelque chose !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-3/8
 msgctxt "Beverly"
 msgid "PLEASE let me fix you something."
-msgstr ""
+msgstr "S'IL TE PLAÎT, laisse-moi te préparer quelque chose."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-3/16
 msgctxt "Beverly"
 msgid "First and foremost, am I making you a cocktail or a mocktail?"
-msgstr ""
+msgstr "Avant tout, je te fais un cocktail ou un mocktail ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-3/24
 msgctxt "Beverly"
 msgid "Mocktails are the non-alcoholic versions of a cocktail. Just as fun and delicious, but without the burn!"
-msgstr ""
+msgstr "Les mocktails, ce sont les versions sans alcool des cocktails. Tout aussi fun et délicieux, mais sans la brûlure !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_intro/0/g-3/32
 msgctxt "Beverly"
 msgid "Or the drunk part. Obviously."
-msgstr ""
+msgstr "Ni la partie où on est ivre. Évidemment."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/0/s/0
 msgctxt "Choix"
 msgid "Cocktail"
-msgstr ""
+msgstr "Cocktail"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/1/s/0
 msgctxt "Choix"
 msgid "Mocktail"
-msgstr ""
+msgstr "Mocktail"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/7
 msgctxt "Beverly"
 msgid "Excellent! So what’ll it be?"
-msgstr ""
+msgstr "Excellent ! Alors, ce sera quoi ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Martini"
-msgstr ""
+msgstr "Martini"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Aperol Spritz"
-msgstr ""
+msgstr "Aperol Spritz"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Mojito"
-msgstr ""
+msgstr "Mojito"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/3/s/0
 msgctxt "Choix"
 msgid "Ramos Gin Fizz"
-msgstr ""
+msgstr "Ramos Gin Fizz"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-0/13
 msgctxt "Beverly"
 msgid "Ooh, these are just delicious! So many different floral and spirit-forward flavors!"
-msgstr ""
+msgstr "Ooh, ceux-là sont délicieux ! Plein de saveurs florales et corsées !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-0/21 beverly_beverage/drink_menu/0/c-0/15/c-1/29 beverly_beverage/drink_menu/0/c-0/15/c-2/29 beverly_beverage/drink_menu/0/c-1/42/c-0/21 beverly_beverage/drink_menu/0/c-1/42/c-1/29 beverly_beverage/drink_menu/0/c-1/42/c-2/21
 msgctxt "Beverly"
 msgid "Coming right up!"
-msgstr ""
+msgstr "Ça arrive !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-1/13
 msgctxt "Beverly"
 msgid "Aperol is having its heyday right now. Less bitter than the classic Amaros, and less alcoholic, too."
-msgstr ""
+msgstr "L'Aperol a la cote en ce moment. Moins amer que les amaros classiques, et moins alcoolisé aussi."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-1/21
 msgctxt "Beverly"
 msgid "Let's be on trend..."
-msgstr ""
+msgstr "Soyons dans l'air du temps..."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-2/13
 msgctxt "Beverly"
 msgid "Ooh, so minty and fresh! It’s kinda like brushing your teeth at the bar!"
-msgstr ""
+msgstr "Ooh, tellement frais et mentholé ! C'est un peu comme se brosser les dents au bar !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-2/21
 msgctxt "Beverly"
 msgid "...that sounded more appealing in my head."
-msgstr ""
+msgstr "...ça sonnait mieux dans ma tête."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-3/21
 msgctxt "Beverly"
 msgid "You know that drink takes SEVEN MINUTES for me to shake?"
-msgstr ""
+msgstr "Tu sais que ce cocktail me demande SEPT MINUTES de shaker ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-3/29
 msgctxt "Beverly"
 msgid "I'm charging extra!"
-msgstr ""
+msgstr "Je compte un supplément !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-3/40
 msgctxt "Beverly"
 msgid "Anyway, coming right up..."
-msgstr ""
+msgstr "Bref, ça arrive..."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-3/48
 msgctxt "Narrator"
 msgid "Seven minutes later..."
-msgstr ""
+msgstr "Sept minutes plus tard..."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-0/15/c-3/62
 msgctxt "Beverly"
 msgid "Whew..."
-msgstr ""
+msgstr "Ouf..."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/7
 msgctxt "Beverly"
 msgid "Excellent! Always happy to serve customers that don’t want to get drunk!"
-msgstr ""
+msgstr "Excellent ! Toujours ravie de servir des clients qui ne cherchent pas à se saouler !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/15
 msgctxt "Beverly"
 msgid "They usually don’t yell and hit on me as much."
-msgstr ""
+msgstr "En général, ils ne crient pas et ne me draguent pas autant."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/23
 msgctxt "Beverly"
 msgid "They also sometimes don’t tip as much though..."
-msgstr ""
+msgstr "Par contre, ils laissent parfois moins de pourboire..."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/31/b/1
 msgctxt "Beverly"
 msgid "Oh and also I have no customers."
-msgstr ""
+msgstr "Ah, et puis je n'ai pas de clients, de toute façon."
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/34
 msgctxt "Beverly"
 msgid "Anyway! Which mocktail would you like?"
-msgstr ""
+msgstr "Bref ! Quel mocktail tu veux ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/42/0/s/0
 msgctxt "Choix"
 msgid "Glass of water"
-msgstr ""
+msgstr "Un verre d'eau"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/42/1/s/0
 msgctxt "Choix"
 msgid "Soda"
-msgstr ""
+msgstr "Un soda"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/42/2/s/0
 msgctxt "Choix"
 msgid "Virgin Mojito"
-msgstr ""
+msgstr "Un mojito vierge"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/42/c-0/13
 msgctxt "Beverly"
 msgid "Ooh, these are just delicious! So many different tangy and spicy flavors!"
-msgstr ""
+msgstr "Ooh, ceux-là sont délicieux ! Plein de saveurs acidulées et épicées !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/42/c-1/13
 msgctxt "Beverly"
 msgid "Refreshing and bubbly!"
-msgstr ""
+msgstr "Rafraîchissant et pétillant !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/42/c-1/21
 msgctxt "Beverly"
 msgid "Like me!"
-msgstr ""
+msgstr "Comme moi !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/c-1/42/c-2/13
 msgctxt "Beverly"
 msgid "Smart! You'll get sugar, mint, and lime flavors all in a nice tall glass!"
-msgstr ""
+msgstr "Bon choix ! Tu auras du sucre, de la menthe et du citron vert, tout ça dans un beau grand verre !"
 
+# Traduction IA – à relire
 #: beverly_beverage/drink_menu/0/g-0/0/b/1 beverly_beverage/second_drink/0/c-0/23/c-0/7
 msgctxt "Beverly"
 msgid "Anytime!"
-msgstr ""
+msgstr "Quand tu veux !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/4/s/0
 msgctxt "Choix"
 msgid "<i>Sip your drink.</i>"
-msgstr ""
+msgstr "<i>Sirotez votre verre.</i>"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/5/s/0 beverly_beverage/third_drink/0/10/s/0 beverly_beverage/fifth_drink/0/2/s/0
 msgctxt "Choix"
 msgid "<i>Pour it out in front of her.</i>"
-msgstr ""
+msgstr "<i>Versez-le par terre devant elle.</i>"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/7
 msgctxt "Narrator"
 msgid "You lift your glass to your lips, taking an extended sip."
-msgstr ""
+msgstr "Vous portez le verre à vos lèvres et en buvez une longue gorgée."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/15
 msgctxt "Beverly"
 msgid "How was it?"
-msgstr ""
+msgstr "Alors, c'était comment ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Really good!! Where’d you learn to mix drinks like this?"
-msgstr ""
+msgstr "Vraiment bon !! Où as-tu appris à préparer des boissons comme ça ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "It was okay."
-msgstr ""
+msgstr "C'était correct."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-0/7
 msgctxt "Beverly"
 msgid "Well, after six grand openings I got a lot of practice in."
-msgstr ""
+msgstr "Eh bien, après six grandes ouvertures, j'ai eu pas mal d'entraînement."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-0/15
 msgctxt "Beverly"
 msgid "Plus, with a name like mine I should know my beverages pretty well!"
-msgstr ""
+msgstr "Et puis, avec un nom comme le mien, je dois bien connaître mes boissons !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/7
 msgctxt "Beverly"
 msgid "There's always room for improvement!"
-msgstr ""
+msgstr "On peut toujours s'améliorer !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/15/b/1 beverly_beverage/first_drink/0/c-0/23/c-1/18/b/1
 msgctxt "Beverly"
 msgid "I can make sure I 'clap' the mint before serving so the customer gets a burst of herbal scent!"
-msgstr ""
+msgstr "Je peux m'assurer de « claquer » la menthe avant de servir pour que le client reçoive une bouffée de parfum d'herbes !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/21/b/1
 msgctxt "Beverly"
 msgid "I can stir the ice cubes slightly longer so that the strong alcohol taste has time to marinate with the vermouth..."
-msgstr ""
+msgstr "Je peux remuer les glaçons un peu plus longtemps pour que le goût fort de l'alcool ait le temps de mariner avec le vermouth..."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/24/b/1
 msgctxt "Beverly"
 msgid "The orange flower water is the key - I might just make my own rather than sourcing from somewhere else..."
-msgstr ""
+msgstr "L'eau de fleur d'oranger est la clé : je pourrais peut-être la fabriquer moi-même plutôt que de m'approvisionner ailleurs..."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/27/b/1
 msgctxt "Beverly"
 msgid "If the amaro is too bitter - I can serve in a larger glass so I can fit more ice cubes in it!"
-msgstr ""
+msgstr "Si l'amaro est trop amer, je peux le servir dans un plus grand verre pour y mettre plus de glaçons !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/30/b/1
 msgctxt "Beverly"
 msgid "It's water... I'm not sure how much better I can do..."
-msgstr ""
+msgstr "C'est de l'eau... je ne vois pas trop comment faire mieux..."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/33/b/1
 msgctxt "Beverly"
 msgid "Maybe I can look into making my own soda with some seltzer and simple syrup rather than pouring from my bar gun..."
-msgstr ""
+msgstr "Je pourrais peut-être fabriquer mon propre soda avec de l'eau gazeuse et du sirop simple, plutôt que de le tirer de mon pistolet à soda..."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/36/0/s/0
 msgctxt "Choix"
 msgid "Am I really your first customer? No one else comes here?"
-msgstr ""
+msgstr "Je suis vraiment {{ton premier client|ta première cliente|ta première clientèle}} ? Personne d'autre ne vient ici ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/36/c-0/7
 msgctxt "Beverly"
 msgid "Well... yeah. I just don't know what I’m doing wrong!"
-msgstr ""
+msgstr "Eh bien... oui. Je ne sais pas ce que je fais de travers !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-0/23/c-1/36/c-0/15
 msgctxt "Beverly"
 msgid "Making drinks is all I know! I can’t keep doing reopenings, but I don’t know what I’m going to do if I don’t get more customers soon."
-msgstr ""
+msgstr "Faire des boissons, c'est tout ce que je sais faire ! Je ne peux pas continuer à enchaîner les réouvertures, mais je ne sais pas ce que je vais faire si je n'ai pas plus de clients bientôt."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-1/13
 msgctxt "Narrator"
 msgid "You lift the glass and turn it over, pouring it out onto the ground while holding eye contact with Beverly. She looks down at the pool at your feet."
-msgstr ""
+msgstr "Vous levez le verre, le retournez et le videz sur le sol sans quitter Beverly des yeux. Elle regarde la flaque à vos pieds."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-1/21 beverly_beverage/second_drink/0/c-1/24 beverly_beverage/third_drink/0/c-2/21 beverly_beverage/signature/0/g-9/c-33/32/b/1 beverly_beverage/fifth_drink/0/c-2/21/b/1
 msgctxt "Beverly"
 msgid "...oh."
-msgstr ""
+msgstr "...oh."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-1/29
 msgctxt "Beverly"
 msgid "Well... at least that maybe counts as a customer?"
-msgstr ""
+msgstr "Bon... ça compte peut-être quand même comme un client ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/c-1/37
 msgctxt "Beverly"
 msgid "Yeah! Let's go with that."
-msgstr ""
+msgstr "Ouais ! Disons ça."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/0
 msgctxt "Beverly"
 msgid "I really don’t wanna close this place down. I’ve put my bar and soul into it!"
-msgstr ""
+msgstr "Je ne veux vraiment pas fermer cet endroit. J'y ai mis mon bar et mon âme !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/8
 msgctxt "Beverly"
 msgid "So... will you be my first <i>returning</i> customer?"
-msgstr ""
+msgstr "Alors... tu seras ma première clientèle <i>de retour</i> ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "Sure!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/1/s/0
 msgctxt "Choix"
 msgid "Ehh, maybe. I’ll think about it."
-msgstr ""
+msgstr "Euh, peut-être. Je vais y réfléchir."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-2/17
 msgctxt "Beverly"
 msgid "Really?!"
-msgstr ""
+msgstr "Vraiment ?!"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-2/25
 msgctxt "Beverly"
 msgid "Oh my gosh!! Yes! Yes thank you!!"
-msgstr ""
+msgstr "Oh mon Dieu !! Oui ! Oui, merci !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-2/33
 msgctxt "Beverly"
 msgid "Tell your friends! Tell EVERYONE! Please!!"
-msgstr ""
+msgstr "Dis-le à tes amis ! Dis-le à TOUT LE MONDE ! S'il te plaît !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-2/41
 msgctxt "Beverly"
 msgid "And I’ll be seeing you next time!"
-msgstr ""
+msgstr "Et à la prochaine !"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-3/7
 msgctxt "Beverly"
 msgid "O-Oh... okay."
-msgstr ""
+msgstr "O-Oh... d'accord."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-3/15
 msgctxt "Beverly"
 msgid "Well, please actually think about it okay?"
-msgstr ""
+msgstr "Eh bien, réfléchis-y vraiment, d'accord ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-3/23
 msgctxt "Beverly"
 msgid "Not to be dramatic, but my career kinda depends on it."
-msgstr ""
+msgstr "Sans vouloir être dramatique, ma carrière en dépend un peu."
 
+# Traduction IA – à relire
 #: beverly_beverage/first_drink/0/g-0/16/c-3/31
 msgctxt "Beverly"
 msgid "...hopefully I’ll see you again then!"
-msgstr ""
+msgstr "...j'espère qu'on se reverra alors !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_first_encounter/0/0
 msgctxt "Beverly"
 msgid "You’re back!! You actually came back!!"
-msgstr ""
+msgstr "Tu es {{revenu|revenue|revenu·e}} !! Tu es vraiment {{revenu|revenue|revenu·e}} !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_first_encounter/0/8/b/1
 msgctxt "Beverly"
 msgid "I mean, I know you said you would..."
-msgstr ""
+msgstr "Enfin, je sais que tu avais dit que tu le ferais..."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_first_encounter/0/11/b/1
 msgctxt "Beverly"
 msgid "But I figured you were just being polite!! Oh, I’m so happy!"
-msgstr ""
+msgstr "Mais je pensais que tu disais ça par politesse !! Oh, je suis si contente !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_first_encounter/0/14/0
 msgctxt "Beverly"
 msgid "Well let me be a good hostess and fix you a drink! What would you like?"
-msgstr ""
+msgstr "Bon, laisse-moi être une bonne hôtesse et te préparer un verre ! Qu'est-ce que tu veux ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/0/s/0
 msgctxt "Choix"
 msgid "<i>Down your drink.</i>"
-msgstr ""
+msgstr "<i>Avalez votre verre cul sec.</i>"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/1/s/0 beverly_beverage/signature/0/g-9/33/s/0
 msgctxt "Choix"
 msgid "<i>Pour it out in front of her</i>"
-msgstr ""
+msgstr "<i>Versez-le par terre devant elle</i>"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-0/7
 msgctxt "Narrator"
 msgid "You drain your glass with impressive speed."
-msgstr ""
+msgstr "Vous videz votre verre avec une rapidité impressionnante."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-0/15
 msgctxt "Beverly"
 msgid "That was fast!"
-msgstr ""
+msgstr "C'était rapide !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Ahh! Thanks Bev."
-msgstr ""
+msgstr "Ahh ! Merci Bev."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-0/23/c-0/15
 msgctxt "Beverly"
 msgid "Seriously. ANY. TIME."
-msgstr ""
+msgstr "Sérieusement. À. TOUT. MOMENT."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-1/7
 msgctxt "Narrator"
 msgid "You take the glass from Beverly and dump it onto the floor."
-msgstr ""
+msgstr "Vous prenez le verre des mains de Beverly et le renversez sur le sol."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-1/21/b/1 beverly_beverage/third_drink/0/c-2/29/b/1 beverly_beverage/signature/0/g-9/c-33/35/b/1 beverly_beverage/fifth_drink/0/c-2/24/b/1
 msgctxt "Narrator"
 msgid "It's even more satisfying the second time. Once again, Beverly looks down at the drink pooling at your feet with clear hurt in her eyes."
-msgstr ""
+msgstr "C'est encore plus satisfaisant la deuxième fois. Une fois de plus, Beverly regarde la boisson qui s'étale à vos pieds, une vraie blessure dans les yeux."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-1/32/b/1 beverly_beverage/third_drink/0/c-2/32/b/1 beverly_beverage/signature/0/g-9/c-33/41/b/1 beverly_beverage/fifth_drink/0/c-2/30/b/1
 msgctxt "Beverly"
 msgid "Twice now... maybe I shouldn't make you any more drinks..."
-msgstr ""
+msgstr "Deux fois déjà... je ne devrais peut-être plus t'en servir..."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/c-1/35 beverly_beverage/third_drink/0/c-2/41
 msgctxt "Beverly"
 msgid "So..."
-msgstr ""
+msgstr "Donc..."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/0
 msgctxt "Beverly"
 msgid "...I still haven't had any new customers."
-msgstr ""
+msgstr "...je n'ai toujours aucun nouveau client."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/11/b/1
 msgctxt "Beverly"
 msgid "Sure Rainey comes by once or twice a year... but she's a regular. I need more than just a couple regulars!"
-msgstr ""
+msgstr "Bien sûr, Rainey passe une ou deux fois par an... mais c'est une habituée. Il me faut plus que quelques habitués !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/14
 msgctxt "Beverly"
 msgid "I don’t know what I’m doing wrong! I make good drinks, I picked a good spot for my bar, and I’m cute and charming to boot!"
-msgstr ""
+msgstr "Je ne sais pas ce que je fais de travers ! Je fais de bonnes boissons, j'ai choisi un bon emplacement pour mon bar, et en plus je suis mignonne et charmante !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/22
 msgctxt "Beverly"
 msgid "What else do I need?!"
-msgstr ""
+msgstr "Qu'est-ce qu'il me faut de plus ?!"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/30/s/0
 msgctxt "Choix"
 msgid "Do you advertise?"
-msgstr ""
+msgstr "Tu fais de la pub ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/c-2/7
 msgctxt "Beverly"
 msgid "Advertise? You really think that’s necessary?"
-msgstr ""
+msgstr "De la pub ? Tu crois vraiment que c'est nécessaire ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "No one's gonna come if nobody knows about it..."
-msgstr ""
+msgstr "Personne ne viendra si personne n'est au courant..."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/c-2/15/c-0/7
 msgctxt "Beverly"
 msgid "Oh... yeah I guess that’s true."
-msgstr ""
+msgstr "Oh... ouais, j'imagine que c'est vrai."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-0/c-2/15/c-0/15
 msgctxt "Beverly"
 msgid "Damn, that feels so obvious now! I just figured word of mouth would be all I needed, right? I mean, they say that’s the best form of advertising!"
-msgstr ""
+msgstr "Mince, ça paraît tellement évident maintenant ! Je pensais que le bouche-à-oreille suffirait, tu vois ? On dit que c'est la meilleure des publicités !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-1/0
 msgctxt "Beverly"
 msgid "But I guess if there are no mouths in the first place, then there can’t be any... words."
-msgstr ""
+msgstr "Mais j'imagine que s'il n'y a pas de bouches au départ, il ne peut pas y avoir de... paroles."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-1/8
 msgctxt "Beverly"
 msgid "That sentence made more sense in my head, but you know what I mean!!"
-msgstr ""
+msgstr "Cette phrase avait plus de sens dans ma tête, mais tu vois ce que je veux dire !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-1/16
 msgctxt "Beverly"
 msgid "Too bad this house doesn’t have someone like... the concept of graphic design or marketing to help me."
-msgstr ""
+msgstr "Dommage que cette maison n'ait personne comme... le concept de graphisme ou de marketing pour m'aider."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-1/24
 msgctxt "Beverly"
 msgid "So I guess we’re gonna be doing it ourselves."
-msgstr ""
+msgstr "Donc je crois qu'on va devoir le faire nous-mêmes."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-1/32/s/0
 msgctxt "Choix"
 msgid "\"We?\""
-msgstr ""
+msgstr "« On » ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-1/33/s/0
 msgctxt "Choix"
 msgid "I guess so!"
-msgstr ""
+msgstr "Je crois bien !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-1/c-3/7
 msgctxt "Beverly"
 msgid "Well YEAH! This was your idea, and clearly doing things myself isn’t working, so you’re gonna help me!"
-msgstr ""
+msgstr "Mais OUI ! C'était ton idée, et clairement faire les choses toute seule ne marche pas, alors tu vas m'aider !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/0
 msgctxt "Beverly"
 msgid "Now, we need this ad to be enticing. We need to be eye-catching and strike up curiosity!"
-msgstr ""
+msgstr "Bon, il faut que cette pub soit alléchante. Il faut qu'elle attire l'oeil et éveille la curiosité !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/8
 msgctxt "Beverly"
 msgid "But how would we go about that?"
-msgstr ""
+msgstr "Mais comment s'y prendre ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/0/s/0
 msgctxt "Choix"
 msgid "Eye-catching buzzwords!"
-msgstr ""
+msgstr "Des mots-clés accrocheurs !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/1/s/0
 msgctxt "Choix"
 msgid "A threat."
-msgstr ""
+msgstr "Une menace."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/7
 msgctxt "Beverly"
 msgid "Yeah, okay!! Uuuuuhhh, let’s do it!"
-msgstr ""
+msgstr "Ouais, ok !! Euuuuh, allons-y !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/15
 msgctxt "Beverly"
 msgid "Which of these words do you feel best describes the atmosphere of The Tipsy Tumbler?"
-msgstr ""
+msgstr "Lequel de ces mots décrit le mieux l'ambiance de la Tipsy Tumbler, à ton avis ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/0/s/0
 msgctxt "Choix"
 msgid "Fun!"
-msgstr ""
+msgstr "Fun !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/1/s/0
 msgctxt "Choix"
 msgid "Cozy!"
-msgstr ""
+msgstr "Cosy !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/7
 msgctxt "Beverly"
 msgid "Hm... a good start but I think we can do better!"
-msgstr ""
+msgstr "Hm... un bon début, mais je crois qu'on peut faire mieux !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/15 beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/15
 msgctxt "Beverly"
 msgid "We gotta bust out the thesaurus, show that we’re SMART too!"
-msgstr ""
+msgstr "Il faut sortir le dictionnaire des synonymes, montrer qu'on est INTELLIGENTS aussi !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/23 beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/23
 msgctxt "Beverly"
 msgid "Now Lyric won't come by anymore after I tricked him into saying some drunk tongue-twisters..."
-msgstr ""
+msgstr "Lyric ne viendra plus depuis que je l'ai piégé pour qu'il dise des virelangues en étant bourré..."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/34 beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/34
 msgctxt "Beverly"
 msgid "But he left behind some good pages on his way out!"
-msgstr ""
+msgstr "Mais il a laissé de bonnes pages en partant !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/42
 msgctxt "Beverly"
 msgid "How about one of THESE bad boys? I mean they’re all just different ways of saying fun."
-msgstr ""
+msgstr "Que dis-tu d'un de CES petits canons ? Je veux dire, ce sont juste des façons différentes de dire fun."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/50
 msgctxt "Beverly"
 msgid "I think. Or at the very least they SOUND like they would."
-msgstr ""
+msgstr "Je crois. Ou en tout cas ça SONNE comme si."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/0/s/0
 msgctxt "Choix"
 msgid "Merry"
-msgstr ""
+msgstr "Joyeux"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/1/s/0
 msgctxt "Choix"
 msgid "Joyousness"
-msgstr ""
+msgstr "Jovialitude"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/2/s/0
 msgctxt "Choix"
 msgid "Vivacity"
-msgstr ""
+msgstr "Vivacité"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/3/s/0
 msgctxt "Choix"
 msgid "Whoopee"
-msgstr ""
+msgstr "Youpi"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-0/7
 msgctxt "Beverly"
 msgid "Ooh Holly would love that! That's at least one customer!"
-msgstr ""
+msgstr "Ooh, Holly adorerait ! Ça fait au moins un client !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-1/7
 msgctxt "Beverly"
 msgid "That sounds like one too many suffixes! BUT, the more suffixes the smarterer it sounds!"
-msgstr ""
+msgstr "Ça fait un suffixe de trop ! MAIS plus il y a de suffixes, plus ça fait intelligentissime !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/7
 msgctxt "Beverly"
 msgid "That's fun to say! VIVACITY!"
-msgstr ""
+msgstr "C'est marrant à dire ! VIVACITÉ !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/15
 msgctxt "Beverly"
 msgid "Vi"
-msgstr ""
+msgstr "Vi"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/23
 msgctxt "Beverly"
 msgid "va"
-msgstr ""
+msgstr "va"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/31
 msgctxt "Beverly"
 msgid "ci"
-msgstr ""
+msgstr "ci"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-2/39
 msgctxt "Beverly"
 msgid "ty!"
-msgstr ""
+msgstr "té !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-3/7
 msgctxt "Beverly"
 msgid "Now we're just making noises - but drunk people love noises! That sets the tone before you even get here."
-msgstr ""
+msgstr "Là, on fait juste des bruits, mais les gens ivres adorent les bruits ! Ça donne le ton avant même d'arriver."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/c-3/15
 msgctxt "Beverly"
 msgid "WHOOPEE!"
-msgstr ""
+msgstr "YOUPIII !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-0/58/g-0/0
 msgctxt "Beverly"
 msgid "YEAHHH, now we’re cooking!!"
-msgstr ""
+msgstr "OUAIIIS, maintenant ça cuisine !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/7
 msgctxt "Beverly"
 msgid "Hmm... A good start but I think we can do better!"
-msgstr ""
+msgstr "Hmm... un bon début, mais je crois qu'on peut faire mieux !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/42
 msgctxt "Beverly"
 msgid "How about one of THESE bad boys? I mean, they’re all just different ways of saying cozy."
-msgstr ""
+msgstr "Que dis-tu d'un de CES petits canons ? Je veux dire, ce sont juste des façons différentes de dire cosy."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/0/s/0
 msgctxt "Choix"
 msgid "Commodious"
-msgstr ""
+msgstr "Commode"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/1/s/0
 msgctxt "Choix"
 msgid "Gemütlich"
-msgstr ""
+msgstr "Gemütlich"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/2/s/0
 msgctxt "Choix"
 msgid "Congenial"
-msgstr ""
+msgstr "Convivial"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/3/s/0
 msgctxt "Choix"
 msgid "Felicitous"
-msgstr ""
+msgstr "Félicité"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-0/7
 msgctxt "Beverly"
 msgid "Sounds like a toilet.. but Jean Loo is pretty popular soo..."
-msgstr ""
+msgstr "Ça sonne comme les commodités... mais Jean Loo est plutôt populaire, donc..."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-1/7
 msgctxt "Beverly"
 msgid "Bless you."
-msgstr ""
+msgstr "À tes souhaits."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-2/7
 msgctxt "Beverly"
 msgid "HELL YEAH! Just looking at the word makes me feel all comfy!"
-msgstr ""
+msgstr "OUAIS ! Rien qu'à voir le mot, je me sens toute douillette !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/c-3/7
 msgctxt "Beverly"
 msgid "Sounds like a cat! Everyone loves cats! Therefore - everyone will love my bar!"
-msgstr ""
+msgstr "Ça sonne comme un félin ! Tout le monde adore les chats ! Donc tout le monde adorera mon bar !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/0
 msgctxt "Beverly"
 msgid "Thanks for the help! I’ll draw up some posters and post them around."
-msgstr ""
+msgstr "Merci pour ton aide ! Je vais dessiner des affiches et les coller partout."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/8
 msgctxt "Beverly"
 msgid "I’m so excited to show this off! Do you think Freddy Yeti would let me hang some of the posters on him?"
-msgstr ""
+msgstr "J'ai trop hâte de montrer ça ! Tu crois que Freddy Yeti me laisserait en accrocher quelques-unes sur lui ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/19
 msgctxt "Beverly"
 msgid "Maybe I could get a TV COMMERCIAL! Or a video ad that you can’t skip! Ehhh?!"
-msgstr ""
+msgstr "Je pourrais peut-être avoir une PUB À LA TÉLÉ ! Ou une pub vidéo qu'on ne peut pas passer ! Hein ?!"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/27
 msgctxt "Beverly"
 msgid "Or... maybe I’ll start with the posters and see how that goes. I kinda forgot I was on a budget for a second there."
-msgstr ""
+msgstr "Ou... je commence peut-être par les affiches et je vois comment ça se passe. J'avais un peu oublié que j'avais un budget serré."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/35
 msgctxt "Beverly"
 msgid "I’m just so hyped! I’m gonna get to work on this right away!"
-msgstr ""
+msgstr "Je suis trop excitée ! Je m'y mets tout de suite !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-5/23/c-1/50/g-0/43
 msgctxt "Beverly"
 msgid "So shoo! You’re in my creative zone! Git!"
-msgstr ""
+msgstr "Allez, ouste ! Tu es dans ma zone de création ! Hop !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/7 beverly_beverage/mocktail_return/0/c-0/7
 msgctxt "Beverly"
 msgid "Whuh...?"
-msgstr ""
+msgstr "Quoi... ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/15
 msgctxt "Beverly"
 msgid "I’m sorry, a <i>threat?</i>"
-msgstr ""
+msgstr "Pardon, une <i>menace ?</i>"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/0/s/0
 msgctxt "Choix"
 msgid "Yeah! We post signs that say something like \"We know your secrets. Come inside or else.\""
-msgstr ""
+msgstr "Ouais ! On affiche des panneaux du genre « On connaît vos secrets. Entrez, sinon. »"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/1/s/0
 msgctxt "Choix"
 msgid "Anyone who doesn't want to come to the Tumbler deserves what's coming to 'em."
-msgstr ""
+msgstr "Quiconque ne veut pas venir au Tumbler mérite ce qui l'attend."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/7
 msgctxt "Beverly"
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/15
 msgctxt "Beverly"
 msgid "It <i>would</i> grab people’s attention, plus their curiosity, and thus stay in their memory."
-msgstr ""
+msgstr "Ça <i>attirerait</i> l'attention des gens, et leur curiosité aussi, et ça resterait donc dans les mémoires."
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/23
 msgctxt "Beverly"
 msgid "And, as a fun bonus, it instills just the right amount of fear!"
-msgstr ""
+msgstr "Et, petit bonus sympa, ça instille juste ce qu'il faut de peur !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/31
 msgctxt "Beverly"
 msgid "Ooh, I like it! It’s unconventional!"
-msgstr ""
+msgstr "Ooh, j'aime bien ! C'est original !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/39
 msgctxt "Beverly"
 msgid "If people believe it, they come in, get drunk, then spill their secrets so we know them FOR REAL!"
-msgstr ""
+msgstr "Si les gens y croient, ils entrent, se saoulent, puis crachent leurs secrets, et là on les connaît POUR DE VRAI !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-0/47
 msgctxt "Beverly"
 msgid "Oh, everyone else will think it's either funny or so weird that they have to come and see what sort of place this is!"
-msgstr ""
+msgstr "Oh, tous les autres trouveront ça drôle ou tellement bizarre qu'ils voudront venir voir quel genre d'endroit c'est !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/c-1/7
 msgctxt "Beverly"
 msgid "I LOVE IT!!"
-msgstr ""
+msgstr "J'ADORE !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/g-0/0
 msgctxt "Beverly"
 msgid "It’s so crazy it just might work! Let’s do it!"
-msgstr ""
+msgstr "C'est tellement dingue que ça pourrait marcher ! Allons-y !"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/g-0/8
 msgctxt "Beverly"
 msgid "I’ll get to work on the ad right away! Do you think Freddy Yeti would let me hang some signs on him?"
-msgstr ""
+msgstr "Je m'occupe de la pub tout de suite ! Tu crois que Freddy Yeti me laisserait accrocher quelques panneaux sur lui ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/second_drink/0/g-2/16/c-6/23/g-0/19
 msgctxt "Beverly"
 msgid "Eh, I’ll figure that out later. For now, shoo! You’re in my creative space!"
-msgstr ""
+msgstr "Bah, je verrai ça plus tard. Pour l'instant, ouste ! Tu es dans mon espace de création !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/0
 msgctxt "Beverly"
 msgid "Welcome back!"
-msgstr ""
+msgstr "Ravie de te revoir !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/8/s/0
 msgctxt "Choix"
 msgid "Hi! Any luck bringing in new customers?"
-msgstr ""
+msgstr "Salut ! Tu as réussi à attirer de nouveaux clients ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/c-0/7
 msgctxt "Beverly"
 msgid "Uh... Not exactly."
-msgstr ""
+msgstr "Euh... Pas vraiment."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/c-0/15/b/1
 msgctxt "Beverly"
 msgid "Who knew threatening people would just drive them even further away?"
-msgstr ""
+msgstr "Qui aurait cru que menacer les gens les ferait fuir encore plus loin ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/c-0/15/b/9
 msgctxt "Beverly"
 msgid "I certainly didn’t, I have no shame in admitting that."
-msgstr ""
+msgstr "Moi pas, en tout cas, et je n'ai aucune honte à l'admettre."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/c-0/15/b/17
 msgctxt "Beverly"
 msgid "...I feel like I probably <i>should</i> have some though."
-msgstr ""
+msgstr "...j'ai l'impression que j'<i>en</i> devrais quand même avoir, un peu."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/c-0/18/b/1
 msgctxt "Beverly"
 msgid "I guess buzzwords don’t really work if no one knows what they mean..."
-msgstr ""
+msgstr "J'imagine que les mots-clés ne marchent pas si personne ne sait ce qu'ils veulent dire..."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/c-0/18/b/9
 msgctxt "Beverly"
 msgid "You’d think with all the time people spend on social media, they’d be better at READING. But I guess not."
-msgstr ""
+msgstr "On pourrait croire qu'avec tout le temps que les gens passent sur les réseaux sociaux, ils seraient meilleurs en LECTURE. Eh bien non."
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/g-0/0
 msgctxt "Beverly"
 msgid "But let’s not talk about that! Bringing down the mood won’t help bring in people either!"
-msgstr ""
+msgstr "Mais n'en parlons pas ! Plomber l'ambiance n'attirera pas de monde non plus !"
 
+# Traduction IA – à relire
 #: beverly_beverage/beverly_second_encounter/0/g-0/8
 msgctxt "Beverly"
 msgid "A-Anyway. What can I get you?"
-msgstr ""
+msgstr "B-Bref. Qu'est-ce que je te sers ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/0
 msgctxt "Narrator"
 msgid "Beverly hands you your drink."
-msgstr ""
+msgstr "Beverly vous tend votre verre."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/8/s/0
 msgctxt "Choix"
 msgid "Ah! Thanks Bev."
-msgstr ""
+msgstr "Ah ! Merci Bev."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/9/s/0
 msgctxt "Choix"
 msgid "That wasn't very good, actually."
-msgstr ""
+msgstr "Ce n'était pas très bon, en fait."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/c-0/7
 msgctxt "Beverly"
 msgid "No problem! It’s not like I have anyone else to tend to right now..."
-msgstr ""
+msgstr "Pas de problème ! De toute façon, je n'ai personne d'autre à servir en ce moment..."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/c-1/7
 msgctxt "Narrator"
 msgid "Beverly sighs, her shoulders slumping."
-msgstr ""
+msgstr "Beverly soupire, les épaules affaissées."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/c-1/18
 msgctxt "Beverly"
 msgid "Welp! Clearly we need a different approach!"
-msgstr ""
+msgstr "Bon ! Il nous faut clairement une autre approche !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/c-2/13
 msgctxt "Narrator"
 msgid "The drink is barely in your hands before you tip it over and pour it out onto the floor."
-msgstr ""
+msgstr "À peine le verre entre vos mains, vous le renversez et le videz sur le sol."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/c-2/35/b/1 beverly_beverage/signature/0/g-9/c-33/38/b/1 beverly_beverage/fifth_drink/0/c-2/27/b/1
 msgctxt "Narrator"
 msgid "Frankly you're not sure why Beverly keeps setting you up like this, but you're not about to stop now."
-msgstr ""
+msgstr "Franchement, vous ne savez pas trop pourquoi Beverly continue de vous tendre la perche comme ça, mais vous n'allez certainement pas arrêter maintenant."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/c-2/38/b/1
 msgctxt "Beverly"
 msgid "Shoulda seen that one coming, huh? It's kinda your \"thing\"."
-msgstr ""
+msgstr "J'aurais dû le voir venir, hein ? C'est un peu ton « truc »."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/0
 msgctxt "Beverly"
 msgid "It is painfully obvious that I am no wordsmith. So maybe my ads needs to be more... visual!"
-msgstr ""
+msgstr "C'est douloureusement évident que je ne suis pas une pro des mots. Mes pubs devraient peut-être être plus... visuelles !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/8
 msgctxt "Beverly"
 msgid "We need something that makes the others feel like they HAVE to come inside!"
-msgstr ""
+msgstr "Il nous faut un truc qui donne aux autres l'impression qu'ils DOIVENT entrer !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/0
 msgctxt "Beverly"
 msgid "What could it be?"
-msgstr ""
+msgstr "Qu'est-ce que ça pourrait être ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/8/s/0
 msgctxt "Choix"
 msgid "I told you, threaten their lives. Loved ones too, if you have to."
-msgstr ""
+msgstr "Je te l'ai dit, menace leur vie. Celle de leurs proches aussi, si besoin."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/9/s/0
 msgctxt "Choix"
 msgid "We only chose one word last time - let's choose more!"
-msgstr ""
+msgstr "La dernière fois, on n'a choisi qu'un mot : choisissons-en plus !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/10/s/0
 msgctxt "Choix"
 msgid "A cute mascot!"
-msgstr ""
+msgstr "Une mascotte mignonne !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/11/s/0
 msgctxt "Choix"
 msgid "How about a signature drink?"
-msgstr ""
+msgstr "Et si on créait une boisson signature ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/12/s/0
 msgctxt "Choix"
 msgid "Sign-spinners. Lots of them."
-msgstr ""
+msgstr "Des jongleurs de pancartes. Plein."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-3/7
 msgctxt "Beverly"
 msgid "Violence isn't really my brand..."
-msgstr ""
+msgstr "La violence, ce n'est pas vraiment ma marque..."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-3/15
 msgctxt "Beverly"
 msgid "I dunno about that one."
-msgstr ""
+msgstr "Je ne suis pas sûre pour celle-là."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-4/7
 msgctxt "Beverly"
 msgid "The others didn't read that one word - how could more words help!"
-msgstr ""
+msgstr "Les autres n'ont pas lu ce seul mot : comment plus de mots aideraient-ils !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-4/15
 msgctxt "Beverly"
 msgid "Let's choose something else..."
-msgstr ""
+msgstr "Choisissons autre chose..."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-5/7
 msgctxt "Beverly"
 msgid "I'm the mascot! And I'm cute!"
-msgstr ""
+msgstr "La mascotte, c'est moi ! Et je suis mignonne !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-5/15
 msgctxt "Beverly"
 msgid "I'm the cute mascot!"
-msgstr ""
+msgstr "Je suis la mascotte mignonne !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-5/23
 msgctxt "Beverly"
 msgid "...right?"
-msgstr ""
+msgstr "...non ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-5/31
 msgctxt "Beverly"
 msgid "No... We need something else..."
-msgstr ""
+msgstr "Non... Il nous faut autre chose..."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/7
 msgctxt "Beverly"
 msgid "Ohh!!!"
-msgstr ""
+msgstr "Ohh !!!"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/18
 msgctxt "Beverly"
 msgid "Mmm, if this were a cartoon, I'd have a lightbulb over my head right now."
-msgstr ""
+msgstr "Mmm, si c'était un dessin animé, j'aurais une ampoule au-dessus de la tête en ce moment."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/26
 msgctxt "Beverly"
 msgid "A signature drink!!"
-msgstr ""
+msgstr "Une boisson signature !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/34
 msgctxt "Beverly"
 msgid "Yes!! Oh my gosh, again it’s so obvious!!"
-msgstr ""
+msgstr "Oui !! Oh mon Dieu, encore une fois, c'est tellement évident !!"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/42
 msgctxt "Beverly"
 msgid "I need a drink that is so superbly amazing, enticing, and can only be found here!"
-msgstr ""
+msgstr "Il me faut une boisson tellement géniale, alléchante, et qu'on ne trouve qu'ici !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/50
 msgctxt "Beverly"
 msgid "Why didn’t I think of that before?"
-msgstr ""
+msgstr "Pourquoi je n'y ai pas pensé plus tôt ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/58/0/s/0
 msgctxt "Choix"
 msgid "You've been focused on other things!"
-msgstr ""
+msgstr "Tu étais occupé{{|e|·e}} à d'autres choses !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/58/1/s/0
 msgctxt "Choix"
 msgid "It wasn't a dialogue option!"
-msgstr ""
+msgstr "Ce n'était pas une option de dialogue !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-0/7
 msgctxt "Beverly"
 msgid "That's right! Like ice cube size..."
-msgstr ""
+msgstr "C'est vrai ! Comme la taille des glaçons..."
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-0/15
 msgctxt "Beverly"
 msgid "Did you know that the bigger the ice cube, the more surface area it has, the slower it melts!"
-msgstr ""
+msgstr "Tu savais que plus le glaçon est gros, plus il a de surface, et plus il fond lentement !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-0/23
 msgctxt "Beverly"
 msgid "I want to have the biggest ice cubes this side of the North Pole!"
-msgstr ""
+msgstr "Je veux avoir les plus gros glaçons de ce côté du pôle Nord !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/58/c-1/7
 msgctxt "Beverly"
 msgid "Uh, sure. Blame it on that!"
-msgstr ""
+msgstr "Euh, ouais. Mets ça sur le dos de ça !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-6/58/g-0/0
 msgctxt "Beverly"
 msgid "Will you help me make it? Or at least, be my taste tester?"
-msgstr ""
+msgstr "Tu veux bien m'aider à la créer ? Ou au moins être mon goûteur ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-7/7
 msgctxt "Beverly"
 msgid "I can't afford to pay someone, let alone the cost in signage!"
-msgstr ""
+msgstr "Je n'ai pas les moyens de payer quelqu'un, sans parler du coût des panneaux !"
 
+# Traduction IA – à relire
 #: beverly_beverage/third_drink/0/g-0/16/c-7/15
 msgctxt "Beverly"
 msgid "We need something else..."
-msgstr ""
+msgstr "Il nous faut autre chose..."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/0/s/0
 msgctxt "Choix"
 msgid "As long as there's a virgin version."
-msgstr ""
+msgstr "Tant qu'il y a une version vierge."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/1/s/0
 msgctxt "Choix"
 msgid "Tasting, drinking, imbibing, I'm all for it!"
-msgstr ""
+msgstr "Goûter, boire, siroter, je suis pour !"
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/7
 msgctxt "Beverly"
 msgid "I’ll be sure it’s something we can make a virgin version of if you don’t want alcohol."
-msgstr ""
+msgstr "Je ferai en sorte qu'on puisse en faire une version vierge si tu ne veux pas d'alcool."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/15
 msgctxt "Beverly"
 msgid "Although if anyone here really wanted a virgin, they’d just have to look for you!"
-msgstr ""
+msgstr "Même si, si quelqu'un voulait vraiment du vierge, il n'aurait qu'à te chercher, toi !"
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/23
 msgctxt "Narrator"
 msgid "Beverly reacts to her own joke, pointing at you and making a scandalized sort of shout."
-msgstr ""
+msgstr "Beverly réagit à sa propre blague en vous montrant du doigt avec un cri faussement scandalisé."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/31
 msgctxt "Beverly"
 msgid "Ha ha ha ho!"
-msgstr ""
+msgstr "Ha ha ha ho !"
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/39
 msgctxt "Beverly"
 msgid "I'm sorry. I saw the opportunity and I took it. Please, please, please, please, please don't leave me."
-msgstr ""
+msgstr "Désolée. J'ai vu l'occasion et je l'ai saisie. S'il te plaît, s'il te plaît, s'il te plaît, s'il te plaît, ne me quitte pas."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/0/s/0
 msgctxt "Choix"
 msgid "Jeez Beverly... that was from left field!"
-msgstr ""
+msgstr "Dis donc Beverly... elle sortait de nulle part, celle-là !"
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/1/s/0
 msgctxt "Choix"
 msgid "I'm burned... but I'll be okay."
-msgstr ""
+msgstr "Ça brûle... mais ça va aller."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/2/s/0
 msgctxt "Choix"
 msgid "I gotta tell Curt and Rod about that one!"
-msgstr ""
+msgstr "Faut que je raconte ça à Curt et Rod !"
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/c-0/7
 msgctxt "Beverly"
 msgid "I know that rapport from a bartender is important."
-msgstr ""
+msgstr "Je sais que la complicité d'un barman, c'est important."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/c-0/15
 msgctxt "Beverly"
 msgid "Maybe I shouldn't have gotten all my jokes from insult comics..."
-msgstr ""
+msgstr "J'aurais peut-être dû ne pas puiser toutes mes blagues chez des humoristes d'insultes..."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/c-1/7
 msgctxt "Beverly"
 msgid "Ah, it's alright. There's a first time for everything."
-msgstr ""
+msgstr "Ah, c'est pas grave. Il y a un début à tout."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/c-1/15
 msgctxt "Beverly"
 msgid "Maybe you'll get lucky with me...?"
-msgstr ""
+msgstr "Peut-être que tu auras de la chance avec moi... ?"
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "I'd love that..."
-msgstr ""
+msgstr "J'adorerais ça..."
 
+# Traduction IA – à relire
 #: beverly_beverage/signature/0/c-0/47/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "Mmm... treat me better and we'll see."
-msgstr ""
+msgstr "Mmm... traite-moi mieux et on verra."
 
 #: beverly_beverage/signature/0/c-0/47/c-1/23/c-0/13
 msgctxt "Beverly"
