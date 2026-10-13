@@ -51,3 +51,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Artt : Sacred Paint → Sainte Peinture ; co-curator → {{co-conservateur|co-conservatrice|…}} (agent artt_art)
 - Hector : HVAC → Climatisation / CLIMATISATION (aligné sur DateADex et screen_tutorials) ; Hector vouvoie le joueur (agent hector_hvac)
 - Drysdale : tassel hound → chien à pompons (harmoniser avec mateo_blanket) ; cherub → chérubin ; The Pale Betrayal → la Trahison Blême ; Dishy Divas → Divas Canon (agent drysdale_dryer)
+- Dunk : shuttlecock inchangé (nom de famille) ; birdie → volant ; exercise ball → ballon de gym (agent dunk_sports)

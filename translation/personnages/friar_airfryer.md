@@ -24,10 +24,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : masculin (Frère Errol, « Friar Errol » reste tel quel ; « Friar » seul = « frère »). Lui-même dit « Friar » pour corriger « Father » : « Père » / « Frère ».
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (formules solennelles, « pécheur·se » via {{pécheur|pécheresse|pécheur·se}}, « mon enfant », « misérable »).
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, liturgique, hautain, très coincé ; majuscules sacrées (Vérité, Cuisine Céleste).
+- **Personnalité, manière de parler** : moine rigide et refoulé, sermonneur, certain d'avoir raison, secrètement émoustillé par les péchés qu'on lui confesse. Luke (micro-ondes) hurle en MAJUSCULES, parle familier-rustre ; Stefan (cuisinière) est passionné.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : La Cuisine Céleste (Heavenly Kitchen), Notre Seigneur de la Convection, le Diable Graisseux (Grease Devil), Chaleur Impure, Culinary Purity and Efficiency = Pureté et Efficacité Culinaires, « pécheur », Je Notre-Père de Convection / Je vous salue Airy (Hail Airys).
+- **Exemples de répliques traduites (référence de ton)** : « Tu empestes. » / « Spirituellement. » / « Ma tenue est de peu d'importance : seule mon âme montera vers la Cuisine Céleste. »

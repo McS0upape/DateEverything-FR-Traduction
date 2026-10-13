@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (avec insultes de pirate)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu et grandiloquent, mélodramatique, plein de vocabulaire de marin et d'insultes imagées ; familier quand il s'emporte
+- **Personnalité, manière de parler** : minuscule capitaine pirate coincé dans une bouteille, belliqueux, susceptible, obsédé par le conflit, déteste la gentillesse. Emphase, majuscules, menaces de mort jamais suivies d'effet. Épée en plastique rose (cocktail), nommée « Le Braquemart » (jeu sur « the prick »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Davy Phones » (Commodore, parodie de Davy Jones, nom propre gardé) ; jurons de marin (« Sabords ! », « Mille sabords ! ») ; insultes (gredin, forban, marin d'eau douce, fainéant de pont) ; « Pish » -> « Peuh » ; il dit son nom « en français parce que c'est plus effrayant » (le joueur répond « Bien sûr ») ; jeux sur la bouteille (embouteillé, goulot).
+- **Exemples de répliques traduites (référence de ton)** : « Fuis-moi, gredin !!! Car je suis le redoutable Capitaine Jacques Pierrot, le fléau des mers ! » / « Je ne regrette RIEN. » / « Je te hais ? Parfait. Haïs-moi avec ferveur ! »
