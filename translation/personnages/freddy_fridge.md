@@ -27,10 +27,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (yeti géant, frigo)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, chaleureux, bon enfant, un peu « cool » ringard
+- **Personnalité, manière de parler** : gros nounours gourmand et attentionné, obsédé de bouffe et de conservation, pense être la chose la plus cool de la cuisine. Phrases enthousiastes, étirements (« Truuuust me »), apostrophes.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « cool kid » -> « cool kid » (épicène, gardé tel quel) ; jeux sur le froid (cool, chill, frosty -> cool, frais, glacial, givré) ; « Is your refrigerator running? » -> blague « ton frigo tourne ? Alors cours le rattraper ! ».
+- **Exemples de répliques traduites (référence de ton)** : « Oh, c'est toi. » ; « Salut, cool kid ! À plus ! » ; « Je te le garde bien frais. »
