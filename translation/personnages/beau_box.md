@@ -27,10 +27,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier-soutenu, exubérant ; langage d'aventurière de serial des années 30 mêlé de jurons légers (bon sang, bordel)
+- **Personnalité, manière de parler** : aventurière pleine d'élan, bavarde, grandiloquente, autodérision ; commente ses propres gestes ; s'emballe puis se reprend ; adore les listes et les superlatifs
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : jeux de mots sur les boîtes (« birds in the box », « boxing »), « Great BETSY » (son fouet) -> « Grande BETSY », « butt » -> « crétin / andouille », « derring-do » -> « bravoure / panache ». Surnoms au joueur : épicènes (« mon vaillant compagnon d'aventure », « partenaire »)
+- **Exemples de répliques traduites (référence de ton)** : « Oh for god's sake, you're finally here! » -> « Oh, par pitié, te voilà enfin ! » ; « I'm exemplary. » -> « Je suis exemplaire. » ; « Get all up in it! » -> « Fourre-toi dedans ! »
