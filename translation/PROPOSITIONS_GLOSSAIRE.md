@@ -52,3 +52,10 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Hector : HVAC → Climatisation / CLIMATISATION (aligné sur DateADex et screen_tutorials) ; Hector vouvoie le joueur (agent hector_hvac)
 - Drysdale : tassel hound → chien à pompons (harmoniser avec mateo_blanket) ; cherub → chérubin ; The Pale Betrayal → la Trahison Blême ; Dishy Divas → Divas Canon (agent drysdale_dryer)
 - Dunk : shuttlecock inchangé (nom de famille) ; birdie → volant ; exercise ball → ballon de gym (agent dunk_sports)
+
+## roomers (agent Sonnet, 2026-10-13)
+- Mayor's Office → Bureau de la Maire
+- Airway Army → Armée Airway
+- Scandalabra : invariable (« le Scandalabra » avec article)
+- ghost kitchens → cuisines fantômes
+- À vérifier : « Hall of Quadratus » → « Salle des Quadratus » (ids 745-746)

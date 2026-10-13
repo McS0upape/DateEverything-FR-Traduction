@@ -28,10 +28,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, pétillant, enthousiaste ; barmaid anxieuse et chaleureuse, un peu désespérée de n'avoir aucun client (la Tipsy Tumbler = le Gobelet Éméché, à garder « Tipsy Tumbler » comme nom de bar)
+- **Personnalité, manière de parler** : bavarde, s'emballe, se corrige (« ça sonnait mieux dans ma tête »), humour pince-sans-rire sur sa solitude, jeux de mots de bar. Surnoms au joueur : épicènes (« mon chou », « ma star », « mon cœur ») ou {{…}}.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « bar and soul » (âme et bar), « Welp! », « Eh bien voilà ! », rallonges de voyelles (« Ooh », « Uuuuh »), « Bev » / « Madame la Propriétaire », cocktail / mocktail gardés.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Oh salut ! Bienvenue à la Tipsy Tumbler ! »
+  - « J'y ai mis mon bar et mon âme ! »
+  - « Sérieusement. À. TOUT. MOMENT. »
