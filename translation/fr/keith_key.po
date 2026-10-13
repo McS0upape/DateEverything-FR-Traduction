@@ -1512,7 +1512,7 @@ msgstr "Vous trouvez Keith paisiblement allongé sur la table, un léger sourire
 #: keith_key/keith_second_encounter/0/14
 msgctxt "Keith"
 msgid "Hello, my friend. What a pleasure it is to see your face again."
-msgstr "Bonjour, mon ami. Quel plaisir de revoir ton visage."
+msgstr "Bonjour, {{mon ami|mon amie|mon ami·e}}. Quel plaisir de revoir ton visage."
 
 # Traduction IA – à relire
 #: keith_key/keith_second_encounter/0/22
@@ -1808,1255 +1808,1505 @@ msgctxt "Keith"
 msgid "I see you're making progress."
 msgstr "Je vois que tu progresses."
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/16
 msgctxt "Keith"
 msgid "Here's something that all good humans will enjoy."
-msgstr ""
+msgstr "Voici quelque chose que tous les bons humains apprécieront."
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/24
 msgctxt "Narrator"
 msgid "He holds his hand out to you, depositing something small in your palm. It smells sweet."
-msgstr ""
+msgstr "Il tend la main vers vous et dépose quelque chose de petit au creux de votre paume. Cela sent bon le sucre."
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/49
 msgctxt "Keith"
 msgid "It's a little candy, my favorite."
-msgstr ""
+msgstr "C'est un petit bonbon, mon préféré."
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/57
 msgctxt "Keith"
 msgid "Take this Poise Candy. It'll show them that you mean business!"
-msgstr ""
+msgstr "Prends ce Bonbon de Prestance. Il leur montrera que tu ne plaisantes pas !"
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/65
 msgctxt "Keith"
 msgid "This can be used in certain situations where you've burned your bridges, and wish to make amends."
-msgstr ""
+msgstr "On peut s'en servir dans certaines situations où tu as brûlé tes vaisseaux et souhaites te racheter."
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/73
 msgctxt "Narrator"
 msgid "You take in the scent of the Poise Candy—something about it makes you feel steadier somehow, like you could stand up to anyone."
-msgstr ""
+msgstr "Vous respirez l'odeur du Bonbon de Prestance. Quelque chose en lui vous rend plus stable, comme si vous pouviez tenir tête à n'importe qui."
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/81
 msgctxt "Keith"
 msgid "Consume it wisely!"
-msgstr ""
+msgstr "Consomme-le avec sagesse !"
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/89
 msgctxt "Keith"
 msgid "Eat it if you'd like to put your foot down and make someone reconsider!"
-msgstr ""
+msgstr "Mange-le si tu veux taper du poing sur la table et faire changer d'avis quelqu'un !"
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/97
 msgctxt "Keith"
 msgid "And please, do refrain from taking advantage, eh?"
-msgstr ""
+msgstr "Et surtout, évite d'en abuser, hein ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_candy_explain/108
 msgctxt "Keith"
 msgid "A sweet tooth is a powerful tool."
-msgstr ""
+msgstr "Avoir la dent sucrée est un outil puissant."
 
+# Traduction IA – à relire
 #: keith_key/keith_smarts_candy/0
 msgctxt "Keith"
 msgid "Here's a Smarts Candy."
-msgstr ""
+msgstr "Voici un Bonbon de Savoir."
 
+# Traduction IA – à relire
 #: keith_key/keith_smarts_candy/25
 msgctxt "Keith"
 msgid "It'll turn you into a real intellectual dazzler."
-msgstr ""
+msgstr "Il fera de toi un véritable éblouisseur d'intellect."
 
+# Traduction IA – à relire
 #: keith_key/keith_smarts_candy/33
 msgctxt "Narrator"
 msgid "You take in the scent of the Smarts Candy—even a small whiff of it makes you feel smarter already."
-msgstr ""
+msgstr "Vous respirez l'odeur du Bonbon de Savoir. Même une petite bouffée vous donne déjà l'impression d'être {{plus intelligent|plus intelligente|plus intelligent·e}}."
 
+# Traduction IA – à relire
 #: keith_key/keith_smarts_candy/41
 msgctxt "Keith"
 msgid "Use it wisely, eh? To wow anyone with your brainpower!"
-msgstr ""
+msgstr "Utilise-le avec sagesse, hein ? Pour épater tout le monde avec ta matière grise !"
 
+# Traduction IA – à relire
 #: keith_key/keith_empathy_candy/0
 msgctxt "Keith"
 msgid "This Empathy Candy is just for you."
-msgstr ""
+msgstr "Ce Bonbon d'Empathie est rien que pour toi."
 
+# Traduction IA – à relire
 #: keith_key/keith_empathy_candy/25
 msgctxt "Narrator"
 msgid "You take in the scent of the Empathy Candy—for half a second, you feel as though you want to give the entire world a hug."
-msgstr ""
+msgstr "Vous respirez l'odeur du Bonbon d'Empathie. Pendant une demi-seconde, vous avez envie de serrer le monde entier dans vos bras."
 
+# Traduction IA – à relire
 #: keith_key/keith_empathy_candy/33
 msgctxt "Keith"
 msgid "It'll help you convince someone that in the end, you really do understand their struggles."
-msgstr ""
+msgstr "Il t'aidera à convaincre quelqu'un qu'au fond, tu comprends vraiment ses difficultés."
 
+# Traduction IA – à relire
 #: keith_key/keith_charm_candy/0
 msgctxt "Keith"
 msgid "Not that you need it, but this Charm Candy might come in handy."
-msgstr ""
+msgstr "Tu n'en as pas besoin, mais ce Bonbon de Charme pourrait te servir."
 
+# Traduction IA – à relire
 #: keith_key/keith_charm_candy/25
 msgctxt "Narrator"
 msgid "You take in the scent of the Charm Candy—is it your imagination, or did you just get 5% more charismatic?"
-msgstr ""
+msgstr "Vous respirez l'odeur du Bonbon de Charme. Est-ce votre imagination, ou venez-vous de gagner 5 % de charisme ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_charm_candy/33
 msgctxt "Keith"
 msgid "This tasty morsel will turn your natural charm up to eleven!"
-msgstr ""
+msgstr "Cette petite gourmandise poussera ton charme naturel au maximum !"
 
+# Traduction IA – à relire
 #: keith_key/keith_sass_candy/0
 msgctxt "Keith"
 msgid "Here's a Sass Candy! My favorite!"
-msgstr ""
+msgstr "Voici un Bonbon de Sarcasme ! Mon préféré !"
 
+# Traduction IA – à relire
 #: keith_key/keith_sass_candy/25
 msgctxt "Narrator"
 msgid "You take in the scent of the Sass Candy—already your brain is coming up with all sorts of jokes. Perhaps you should consider a career in stand-up comedy?"
-msgstr ""
+msgstr "Vous respirez l'odeur du Bonbon de Sarcasme. Déjà, votre cerveau fourmille de blagues en tout genre. Peut-être devriez-vous envisager une carrière dans le one-man-show ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_sass_candy/33
 msgctxt "Keith"
 msgid "It is sure to make you the delight of the day with your wit and zingers."
-msgstr ""
+msgstr "Il fera à coup sûr de toi la coqueluche du jour grâce à ton esprit et à tes traits d'humour."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/6
 msgctxt "Keith"
 msgid "Well, if it isn't my dear friend!"
-msgstr ""
+msgstr "Eh bien, mais c'est {{mon cher ami|ma chère amie|cher·e ami·e}} !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/14
 msgctxt "Keith"
 msgid "How go your various quests?"
-msgstr ""
+msgstr "Comment se portent tes diverses quêtes ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/22/s/0
 msgctxt "Choix"
 msgid "Things are good!"
-msgstr ""
+msgstr "Ça va bien !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/23/s/0
 msgctxt "Choix"
 msgid "Could be better."
-msgstr ""
+msgstr "Ça pourrait aller mieux."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/c-0/7
 msgctxt "Keith"
 msgid "Well, that's great to hear!"
-msgstr ""
+msgstr "Eh bien, ravi de l'entendre !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/c-0/15
 msgctxt "Keith"
 msgid "And I hope you've been putting that lovely personality to your advantage!"
-msgstr ""
+msgstr "Et j'espère que tu mets cette charmante personnalité à profit !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/c-1/7
 msgctxt "Keith"
 msgid "Keep at it!"
-msgstr ""
+msgstr "Continue comme ça !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/c-1/15
 msgctxt "Keith"
 msgid "And don't forget to use that lovely personality to your advantage!"
-msgstr ""
+msgstr "Et n'oublie pas de mettre cette charmante personnalité à profit !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Huh?"
-msgstr ""
+msgstr "Hein ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "I... think I have?"
-msgstr ""
+msgstr "Je... crois que oui ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/0
 msgctxt "Keith"
 msgid "I am, of course, talking about your SPECS points!"
-msgstr ""
+msgstr "Je parle, bien sûr, de tes points de SPECS !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/8
 msgctxt "Keith"
 msgid "It's critically important that you master these, if you want to be successful around the house."
-msgstr ""
+msgstr "Il est d'une importance capitale de les maîtriser, si tu veux réussir dans la maison."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/16
 msgctxt "Keith"
 msgid "You've got to up your numbers by talking to as many objects as you can."
-msgstr ""
+msgstr "Tu dois faire grimper tes chiffres en parlant au plus grand nombre d'objets possible."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/24/s/0
 msgctxt "Choix"
 msgid "Can personality really be measured like that? With points?"
-msgstr ""
+msgstr "On peut vraiment mesurer la personnalité comme ça ? Avec des points ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/25/s/0
 msgctxt "Choix"
 msgid "I'm crushing it on character!"
-msgstr ""
+msgstr "Je déchire côté personnalité !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/26/s/0
 msgctxt "Choix"
 msgid "Can't you see what a charmer I already am?"
-msgstr ""
+msgstr "Tu ne vois pas à quel point je suis déjà {{charmant|charmante|charmant·e}} ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/27/s/0
 msgctxt "Choix"
 msgid "I'm certainly working on it."
-msgstr ""
+msgstr "J'y travaille, c'est certain."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/c-4/7
 msgctxt "Keith"
 msgid "Ahh, you know it, you saucy dog. [sass 55]"
-msgstr ""
+msgstr "Ahh, tu le sais bien, sacré numéro. [sass 55]"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/c-5/7
 msgctxt "Keith"
 msgid "I can feel that deeply. [empathy 55]"
-msgstr ""
+msgstr "Je le ressens profondément. [empathy 55]"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/c-6/7
 msgctxt "Keith"
 msgid "To an enlightened mind, that's abundantly clear. [smarts 55]"
-msgstr ""
+msgstr "Pour un esprit éclairé, c'est d'une évidence flagrante. [smarts 55]"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-1/c-7/7
 msgctxt "Keith"
 msgid "I see it in your beautiful eyes. [charm 55]"
-msgstr ""
+msgstr "Je le vois dans tes beaux yeux. [charm 55]"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "Wait. Did you just pass a speech check?"
-msgstr ""
+msgstr "Attends. Tu viens de réussir un test de dialogue ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-2/1/s/0
 msgctxt "Choix"
 msgid "Hang on a sec... You just used SPECS on me!"
-msgstr ""
+msgstr "Une seconde... Tu viens d'utiliser les SPECS sur moi !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-2/c-8/7
 msgctxt "Keith"
 msgid "Of course. I always do."
-msgstr ""
+msgstr "Bien sûr. Je le fais toujours."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-2/c-9/7
 msgctxt "Keith"
 msgid "Nooo, not on YOU! Heavens, no!"
-msgstr ""
+msgstr "Noon, pas sur TOI ! Grands dieux, non !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-2/c-9/15
 msgctxt "Keith"
 msgid "Those ol' SPECS you see are just a reflection of my personal characteristics."
-msgstr ""
+msgstr "Ces vieux SPECS que tu vois ne sont que le reflet de mes caractéristiques personnelles."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/0
 msgctxt "Keith"
 msgid "You do not think I'd sing the praises of an art I hadn't mastered myself, do you?"
-msgstr ""
+msgstr "Tu ne penses tout de même pas que je ferais l'éloge d'un art que je ne maîtrise pas moi-même ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/8
 msgctxt "Keith"
 msgid "In all my decades, I've mastered a lot of things."
-msgstr ""
+msgstr "En toutes ces décennies, j'ai maîtrisé bien des choses."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/16
 msgctxt "Keith"
 msgid "The arts of charm, of wit, of confidence, etc."
-msgstr ""
+msgstr "L'art du charme, de l'esprit, de l'assurance, etc."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/24
 msgctxt "Keith"
 msgid "Now I want to share what I know with you!"
-msgstr ""
+msgstr "Maintenant, je veux partager mon savoir avec toi !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/32
 msgctxt "Keith"
 msgid "I just want you to understand how valuable and useful your SPECS attributes can be."
-msgstr ""
+msgstr "Je veux simplement que tu comprennes à quel point tes attributs SPECS peuvent être précieux et utiles."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/40
 msgctxt "Keith"
 msgid "They'll open up all sorts of exciting possibilities around the house."
-msgstr ""
+msgstr "Ils t'ouvriront toutes sortes de possibilités passionnantes dans la maison."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/48
 msgctxt "Keith"
 msgid "And you never know when one of them will prove to be invaluable!"
-msgstr ""
+msgstr "Et on ne sait jamais quand l'un d'eux se révélera inestimable !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/59/0/s/0
 msgctxt "Choix"
 msgid "They certainly have been useful so far!"
-msgstr ""
+msgstr "Ils m'ont en tout cas été bien utiles jusqu'ici !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/59/1/s/0
 msgctxt "Choix"
 msgid "Thanks for helping me out, Keith."
-msgstr ""
+msgstr "Merci de m'aider, Keith."
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/59/2/s/0
 msgctxt "Choix"
 msgid "Your personality must really shine!"
-msgstr ""
+msgstr "Ta personnalité doit vraiment briller !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/59/c-10/7
 msgctxt "Keith"
 msgid "See? I knew you'd find them helpful! We could all do with a little more personality pizazz!"
-msgstr ""
+msgstr "Tu vois ? Je savais qu'ils t'aideraient ! Nous aurions tous besoin d'un peu plus d'éclat de personnalité !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/59/c-11/7
 msgctxt "Keith"
 msgid "Well, I just want you to succeed. Happy to offer what little guidance I can!"
-msgstr ""
+msgstr "Eh bien, je veux simplement que tu réussisses. Ravi d'offrir le peu de conseils que je peux !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-3/59/c-12/7
 msgctxt "Keith"
 msgid "Oh, I dunno. These days it feels a bit rusty, if I'm honest!"
-msgstr ""
+msgstr "Oh, je ne sais pas. Ces jours-ci, je me sens un peu rouillé, si je suis honnête !"
 
+# Traduction IA – à relire
 #: keith_key/keith_third_encounter/0/g-5/3
 msgctxt "Keith"
 msgid "Now then, before I let you go, how's your progress been?"
-msgstr ""
+msgstr "Bon, avant de te laisser partir, où en es-tu de ta progression ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/6
 msgctxt "Keith"
 msgid "Well, if it isn't the SPECSiest person I've ever met!"
-msgstr ""
+msgstr "Eh bien, mais voilà la personne la plus SPECStaculaire que j'aie jamais rencontrée !"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/14/s/0
 msgctxt "Choix"
 msgid "That was a terrible pun, Keith. But I'm here for it."
-msgstr ""
+msgstr "C'était un jeu de mots affreux, Keith. Mais j'adore."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/15/s/0
 msgctxt "Choix"
 msgid "Failed your Sass check, I see..."
-msgstr ""
+msgstr "Raté pour ton test de Sarcasme, je vois..."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/c-0/7
 msgctxt "Keith"
 msgid "Ahh, I thought it was rather clever."
-msgstr ""
+msgstr "Ahh, je le trouvais plutôt astucieux."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/c-0/15
 msgctxt "Keith"
 msgid "Perhaps I'm a bit behind the times..."
-msgstr ""
+msgstr "Peut-être suis-je un peu en retard sur mon temps..."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/c-1/7
 msgctxt "Keith"
 msgid "Oh, you try being clever all the time, eh?"
-msgstr ""
+msgstr "Oh, essaie donc d'être spirituel tout le temps, toi !"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-0/0
 msgctxt "Keith"
 msgid "Anyhow, to what do I owe the pleasure?"
-msgstr ""
+msgstr "Enfin, à quoi dois-je le plaisir de ta visite ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-0/11/s/0
 msgctxt "Choix"
 msgid "Actually Keith, I'd love to see if I can get a bit of candy!"
-msgstr ""
+msgstr "En fait Keith, j'aimerais voir si je peux avoir un bonbon !"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-0/12/s/0
 msgctxt "Choix"
 msgid "Let's chat!"
-msgstr ""
+msgstr "Discutons !"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-0/c-2/7
 msgctxt "Keith"
 msgid "Oh, sure! I'll take a look at you when we're done chatting."
-msgstr ""
+msgstr "Oh, bien sûr ! Je t'examinerai quand nous aurons fini de discuter."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-0/c-3/7
 msgctxt "Keith"
 msgid "Brilliant! What about?"
-msgstr ""
+msgstr "Formidable ! À propos de quoi ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "Just wanted to say hi! And flirt with you."
-msgstr ""
+msgstr "Je voulais juste dire bonjour ! Et flirter avec toi."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "I wanted to see if you needed anything."
-msgstr ""
+msgstr "Je voulais voir si tu avais besoin de quelque chose."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-4/7
 msgctxt "Keith"
 msgid "My, my... Isn't that flattering."
-msgstr ""
+msgstr "Tiens, tiens... Comme c'est flatteur."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-4/15
 msgctxt "Keith"
 msgid "Let's see if you're flirty enough to catch my eye..."
-msgstr ""
+msgstr "Voyons si tu flirtes assez bien pour attirer mon regard..."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-5/7
 msgctxt "Keith"
 msgid "Oh that's so kind of you. Things are generally very good."
-msgstr ""
+msgstr "Oh, c'est très aimable à toi. En général, tout va très bien."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-5/15
 msgctxt "Keith"
 msgid "I can't think of anything I really need..."
-msgstr ""
+msgstr "Je ne vois rien dont j'aie vraiment besoin..."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-5/23
 msgctxt "Keith"
 msgid "Only... Well... No, I shouldn't even bring it up."
-msgstr ""
+msgstr "Seulement... Eh bien... Non, je ne devrais même pas en parler."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-5/31/0/s/0 keith_key/keith_flirt_check/0/g-0/40/s/0
 msgctxt "Choix"
 msgid "What is it?"
-msgstr ""
+msgstr "Qu'est-ce que c'est ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-5/31/1/s/0
 msgctxt "Choix"
 msgid "You know me well enough to know I wouldn't judge you."
-msgstr ""
+msgstr "Tu me connais assez pour savoir que je ne te jugerai pas."
 
+# Traduction IA – à relire
 #: keith_key/keith_fourth_encounter/0/g-1/c-5/31/c-1/7
 msgctxt "Keith"
 msgid "You're right... I sense the truth in that."
-msgstr ""
+msgstr "Tu as raison... Je sens la vérité là-dedans."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/12/s/0
 msgctxt "Choix"
 msgid "Oh, I'm flirty alright. Check out this wink!"
-msgstr ""
+msgstr "Oh, je flirte très bien. Regarde-moi ce clin d'oeil !"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/13/s/0
 msgctxt "Choix"
 msgid "Let's see if you're worth my effort, silver fox."
-msgstr ""
+msgstr "Voyons si tu vaux mes efforts, beau séducteur argenté."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/14/s/0
 msgctxt "Choix"
 msgid "My raw confidence is more than enough, I think you'll find. <i>Just stand there.</i>"
-msgstr ""
+msgstr "Ma confiance à l'état brut suffit largement, je pense que tu le constateras. <i>Restez simplement planté là.</i>"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/15/s/0
 msgctxt "Choix"
 msgid "Look at this sexy dance. <i>Gyrate strangely.</i>"
-msgstr ""
+msgstr "Regarde-moi cette danse sexy. <i>Déhanchez-vous bizarrement.</i>"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/c-0/7
 msgctxt "Keith"
 msgid "With a dazzling eye like yours, that wink is just icing on the cake."
-msgstr ""
+msgstr "Avec un oeil aussi éblouissant que le tien, ce clin d'oeil est la cerise sur le gâteau."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/c-1/7
 msgctxt "Keith"
 msgid "Ooo, I love a bit of banter!"
-msgstr ""
+msgstr "Ooo, j'adore un peu de badinage !"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/c-1/15
 msgctxt "Keith"
 msgid "Lure me in, make me want to open you up..."
-msgstr ""
+msgstr "Attire-moi, donne-moi envie de t'ouvrir..."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/c-2/7
 msgctxt "Keith"
 msgid "How mysterious!"
-msgstr ""
+msgstr "Quel mystère !"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/c-2/15
 msgctxt "Keith"
 msgid "Like a locked door I can't wait to open..."
-msgstr ""
+msgstr "Comme une porte verrouillée que j'ai hâte d'ouvrir..."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/c-3/11 keith_key/keith_flirt_check2/0/c-4/7
 msgctxt "Keith"
 msgid "Oh that's... well... Hmm."
-msgstr ""
+msgstr "Oh, c'est... eh bien... Hmm."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/g-0/0
 msgctxt "Keith"
 msgid "This was fun. But with experience comes the desire to take one's time."
-msgstr ""
+msgstr "C'était amusant. Mais avec l'expérience vient l'envie de prendre son temps."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/g-0/8
 msgctxt "Keith"
 msgid "To savor the game, as it were. I haven't tasted romance in so long..."
-msgstr ""
+msgstr "De savourer le jeu, en quelque sorte. Cela fait si longtemps que je n'ai pas goûté à la romance..."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/g-0/16
 msgctxt "Keith"
 msgid "And the flavor is so sweet."
-msgstr ""
+msgstr "Et la saveur en est si douce."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/g-0/24
 msgctxt "Keith"
 msgid "Let's flirt a bit more some time, if you feel like it."
-msgstr ""
+msgstr "Flirtons encore un peu un de ces jours, si le coeur t'en dit."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/g-0/32
 msgctxt "Keith"
 msgid "Until then, there's something I've been thinking about asking you."
-msgstr ""
+msgstr "D'ici là, il y a quelque chose que je songe à te demander."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check/0/g-0/41/s/0
 msgctxt "Choix"
 msgid "Anything, Keith."
-msgstr ""
+msgstr "Tout ce que tu veux, Keith."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/0
 msgctxt "Keith"
 msgid "It's like this, you see..."
-msgstr ""
+msgstr "Voilà, vois-tu..."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/8
 msgctxt "Keith"
 msgid "I can't stop thinking about why I ended up in that crawlspace."
-msgstr ""
+msgstr "Je n'arrête pas de me demander pourquoi j'ai fini dans ce vide sanitaire."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/16
 msgctxt "Keith"
 msgid "Ever since you first asked me about it, I began to question it more myself."
-msgstr ""
+msgstr "Depuis que tu m'en as parlé la première fois, je me suis moi-même mis à m'interroger davantage."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/27
 msgctxt "Keith"
 msgid "Did I do something wrong? Make some mistake?"
-msgstr ""
+msgstr "Ai-je fait quelque chose de mal ? Commis une erreur ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/35
 msgctxt "Keith"
 msgid "My heart has always been in the right place, but perhaps I slipped up in the past."
-msgstr ""
+msgstr "Mon coeur a toujours été à la bonne place, mais peut-être ai-je fait un faux pas par le passé."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/43
 msgctxt "Keith"
 msgid "Oh no... was it some act of betrayal? Or rejection?"
-msgstr ""
+msgstr "Oh non... était-ce un acte de trahison ? Ou de rejet ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/51
 msgctxt "Keith"
 msgid "I just can't seem to put it all behind me."
-msgstr ""
+msgstr "Je n'arrive tout simplement pas à tourner la page."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/59/s/0
 msgctxt "Choix"
 msgid "How can I help you get to the bottom of it?"
-msgstr ""
+msgstr "Comment puis-je t'aider à aller au fond des choses ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/60/s/0
 msgctxt "Choix"
 msgid "Maybe it's best to just leave the past in the past."
-msgstr ""
+msgstr "Il vaut peut-être mieux laisser le passé dans le passé."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/c-0/7
 msgctxt "Keith"
 msgid "There's one way I can think of, but it might not be so easy."
-msgstr ""
+msgstr "Il y a un moyen auquel je pense, mais ce ne sera peut-être pas si facile."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/c-1/11
 msgctxt "Keith"
 msgid "You're probably right. Ok. I'll just try not to think about it for a bit."
-msgstr ""
+msgstr "Tu as probablement raison. D'accord. J'essaierai de ne plus y penser pendant un moment."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart/0/c-1/19
 msgctxt "Keith"
 msgid "Now, before you go... Let's see if you're ready for some more candy!"
-msgstr ""
+msgstr "Maintenant, avant que tu partes... Voyons si tu es {{prêt|prête|prêt·e}} pour d'autres bonbons !"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/0
 msgctxt "Keith"
 msgid "I almost don't even want to ask you this, for fear of what you'll think."
-msgstr ""
+msgstr "Je n'ose presque pas te le demander, de peur de ce que tu penseras."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/8
 msgctxt "Keith"
 msgid "But here it is."
-msgstr ""
+msgstr "Mais voilà."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/16
 msgctxt "Keith"
 msgid "As you may or may not know, I believe one of the previous owners of the house is..."
-msgstr ""
+msgstr "Comme tu le sais peut-être, je crois que l'un des précédents propriétaires de la maison est..."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/24
 msgctxt "Keith"
 msgid "...'affiliated' shall we say? With your current employer."
-msgstr ""
+msgstr "...« affilié », dirons-nous ? À ton employeur actuel."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/32/s/0
 msgctxt "Choix"
 msgid "The Valdivian folks used to live here?"
-msgstr ""
+msgstr "Les gens de Valdivia habitaient ici ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/33/s/0
 msgctxt "Choix"
 msgid "Really!?"
-msgstr ""
+msgstr "Vraiment !?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/34/s/0
 msgctxt "Choix"
 msgid "They say there's no such thing as coincidence but dang."
-msgstr ""
+msgstr "On dit que le hasard n'existe pas, mais quand même."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/c-0/7
 msgctxt "Keith"
 msgid "I'm not sure what I think about destiny, but this seems... fortuitous."
-msgstr ""
+msgstr "Je ne sais pas trop que penser du destin, mais cela semble... providentiel."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/c-1/7
 msgctxt "Keith"
 msgid "Yes. I believe so. I heard about this from Mac."
-msgstr ""
+msgstr "Oui. Je le crois. Je l'ai appris par Mac."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/c-2/7
 msgctxt "Keith"
 msgid "Yes. Strange, isn't it? Perhaps it's destiny."
-msgstr ""
+msgstr "Oui. C'est étrange, n'est-ce pas ? Peut-être est-ce le destin."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/0
 msgctxt "Keith"
 msgid "In any case, as I was wracking my brain to come up with a memory of my imprisonment, I thought of something."
-msgstr ""
+msgstr "Quoi qu'il en soit, alors que je me creusais la cervelle pour retrouver un souvenir de mon emprisonnement, une idée m'est venue."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/8
 msgctxt "Keith"
 msgid "It is perhaps a... just a fleeting idea."
-msgstr ""
+msgstr "Ce n'est peut-être qu'une... simple idée fugace."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/16
 msgctxt "Keith"
 msgid "But I recalled that one of the Valdivian folks used to keep an online journal."
-msgstr ""
+msgstr "Mais je me suis rappelé que l'un des Valdiviens tenait un journal en ligne."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/24
 msgctxt "Keith"
 msgid "He was, in particular, a real stickler for recording dates, accounts, etc..."
-msgstr ""
+msgstr "C'était, en particulier, un véritable maniaque pour consigner les dates, les comptes, etc..."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/32
 msgctxt "Keith"
 msgid "But most specifically the locations of important things!"
-msgstr ""
+msgstr "Mais surtout l'emplacement des choses importantes !"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/40/s/0
 msgctxt "Choix"
 msgid "So you think he might have put in there what happened to you!"
-msgstr ""
+msgstr "Donc tu penses qu'il y a peut-être noté ce qui t'est arrivé !"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/41/s/0
 msgctxt "Choix"
 msgid "This could be the key to your mystery, Keith."
-msgstr ""
+msgstr "Ce pourrait être la clé de ton mystère, Keith."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/42/s/0
 msgctxt "Choix"
 msgid "That sounds like an invasion of privacy."
-msgstr ""
+msgstr "Ça ressemble à une atteinte à la vie privée."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/c-3/7
 msgctxt "Keith"
 msgid "I don't know for sure, of course... But it is possible."
-msgstr ""
+msgstr "Je n'en suis pas certain, bien sûr... Mais c'est possible."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/c-4/7
 msgctxt "Keith"
 msgid "That's exactly what I've been thinking."
-msgstr ""
+msgstr "C'est exactement ce que je me disais."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/c-5/7
 msgctxt "Keith"
 msgid "I know! That's why I hesitated to tell you."
-msgstr ""
+msgstr "Je sais ! C'est pourquoi j'ai hésité à t'en parler."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-0/c-5/15
 msgctxt "Keith"
 msgid "But if it meant finding out what happened to me... It might be worth it."
-msgstr ""
+msgstr "Mais si cela signifiait découvrir ce qui m'est arrivé... Cela en vaut peut-être la peine."
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-1/0
 msgctxt "Keith"
 msgid "So... What do you think?"
-msgstr ""
+msgstr "Alors... Qu'en penses-tu ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passwordtomyheart2/0/g-1/8
 msgctxt "Keith"
 msgid "Truly, I'm utterly open to questions or.. or thoughts."
-msgstr ""
+msgstr "Vraiment, je suis tout ouvert aux questions ou... ou aux réflexions."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/0/s/0
 msgctxt "Choix"
 msgid "Don't you think there might be personal stuff in there?"
-msgstr ""
+msgstr "Tu ne crois pas qu'il pourrait y avoir des choses personnelles là-dedans ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/1/s/0
 msgctxt "Choix"
 msgid "How would you even get into the online account?"
-msgstr ""
+msgstr "Comment ferais-tu même pour accéder au compte en ligne ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/2/s/0
 msgctxt "Choix"
 msgid "What if we got caught?"
-msgstr ""
+msgstr "Et si on se faisait prendre ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/3/s/0
 msgctxt "Choix"
 msgid "Ethically this sounds a bit weird."
-msgstr ""
+msgstr "Sur le plan éthique, ça paraît un peu louche."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/4/s/0
 msgctxt "Choix"
 msgid "I think that's all I have to ask about this for now."
-msgstr ""
+msgstr "Je crois que j'ai fait le tour de mes questions là-dessus pour l'instant."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-0/11
 msgctxt "Keith"
 msgid "That's a risk. But he wasn't a very 'personal' kind of guy."
-msgstr ""
+msgstr "C'est un risque. Mais ce n'était pas un homme très « personnel »."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-0/19
 msgctxt "Keith"
 msgid "He wasn't open, you see. Very mechanical in his dealings."
-msgstr ""
+msgstr "Il n'était pas ouvert, vois-tu. Très mécanique dans ses relations."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-0/27
 msgctxt "Keith"
 msgid "Dare I say it... He was borderline sociopathic."
-msgstr ""
+msgstr "Oserais-je le dire... Il était à la limite du sociopathe."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-1/11
 msgctxt "Keith"
 msgid "I've thought about this. Now, I am not certain, but I have a feeling Mac could do it."
-msgstr ""
+msgstr "J'y ai réfléchi. Je n'en suis pas certain, mais j'ai le sentiment que Mac pourrait y arriver."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-1/19
 msgctxt "Keith"
 msgid "They are so gifted!"
-msgstr ""
+msgstr "Quel talent !"
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-1/27
 msgctxt "Keith"
 msgid "They could probably... eh, what are the youth calling it these days... Erm, em em hack, \"hack\" it?"
-msgstr ""
+msgstr "Mac pourrait probablement... euh, comment dit la jeunesse de nos jours... Euh, « hacker » le compte ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-1/35
 msgctxt "Keith"
 msgid "Then I could poke around and see if there's anything in there that references me."
-msgstr ""
+msgstr "Ensuite je pourrais fouiner et voir s'il y a quelque chose qui me concerne."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-1/43
 msgctxt "Keith"
 msgid "If not, we just leave it alone and nobody's the wiser."
-msgstr ""
+msgstr "Sinon, nous laissons tomber et personne n'en saura rien."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-2/11
 msgctxt "Keith"
 msgid "We could ask Mac about that. But I don't think it's a big danger."
-msgstr ""
+msgstr "Nous pourrions en parler à Mac. Mais je ne pense pas que le danger soit grand."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-2/19
 msgctxt "Keith"
 msgid "I'm not saying there's no risk... But I think Mac is clever enough to pull it off."
-msgstr ""
+msgstr "Je ne dis pas qu'il n'y a aucun risque... Mais je pense que Mac a assez d'ingéniosité pour y parvenir."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-3/11
 msgctxt "Keith"
 msgid "I agree. That's why I hesitated before telling you I'd even thought about it."
-msgstr ""
+msgstr "Je suis d'accord. C'est pourquoi j'ai hésité avant de te dire que j'y avais même pensé."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-3/19
 msgctxt "Keith"
 msgid "It's in my nature to be curious, to want to open things up."
-msgstr ""
+msgstr "Il est dans ma nature d'être curieux, de vouloir ouvrir les choses."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-3/27
 msgctxt "Keith"
 msgid "So the idea appears harmless to me."
-msgstr ""
+msgstr "L'idée me paraît donc inoffensive."
 
+# Traduction IA – à relire
 #: keith_key/keith_questionme/0/c-3/35
 msgctxt "Keith"
 msgid "I leave the decision up to you, at the end of the day."
-msgstr ""
+msgstr "Je laisse la décision entre tes mains, au bout du compte."
 
+# Traduction IA – à relire
 #: keith_key/keith_redirector/0/4
 msgctxt "Keith"
 msgid "Hi there..."
-msgstr ""
+msgstr "Salut..."
 
+# Traduction IA – à relire
 #: keith_key/keith_redirector/0/12
 msgctxt "Keith"
 msgid "I have to tell you, I cannot stop thinking about the idea of figuring out my past."
-msgstr ""
+msgstr "Je dois te l'avouer, je n'arrive pas à cesser de penser à l'idée de percer mon passé."
 
+# Traduction IA – à relire
 #: keith_key/keith_redirector/0/20
 msgctxt "Keith"
 msgid "I do not think I can focus on anything until you're willing to hear me out about it."
-msgstr ""
+msgstr "Je ne crois pas pouvoir me concentrer sur quoi que ce soit tant que tu n'auras pas accepté de m'écouter là-dessus."
 
+# Traduction IA – à relire
 #: keith_key/keith_redirector/0/28/s/0
 msgctxt "Choix"
 msgid "I guess we'll just end our relationship here, then."
-msgstr ""
+msgstr "Je suppose qu'on va mettre fin à notre relation ici, alors."
 
+# Traduction IA – à relire
 #: keith_key/keith_redirector/0/29/s/0
 msgctxt "Choix"
 msgid "Then let's talk about it."
-msgstr ""
+msgstr "Alors parlons-en."
 
+# Traduction IA – à relire
 #: keith_key/keith_redirector/0/c-0/7
 msgctxt "Keith"
 msgid "I... I guess so."
-msgstr ""
+msgstr "Je... je suppose que oui."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/0
 msgctxt "Keith"
 msgid "So what do you think?"
-msgstr ""
+msgstr "Alors qu'en penses-tu ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/8
 msgctxt "Keith"
 msgid "Am I mad for thinking up this strange scheme?"
-msgstr ""
+msgstr "Suis-je fou d'avoir imaginé ce drôle de plan ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/16
 msgctxt "Keith"
 msgid "Should I just leave the past where it lies, never to be recalled?"
-msgstr ""
+msgstr "Devrais-je laisser le passé là où il gît, pour ne jamais le rappeler ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/24
 msgctxt "Keith"
 msgid "Or shall we take the plunge together, and seek the truth in strange places?"
-msgstr ""
+msgstr "Ou allons-nous plonger ensemble, et chercher la vérité en des lieux étranges ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/32
 msgctxt "Keith"
 msgid "I will gladly abide by your decision, whatever it is."
-msgstr ""
+msgstr "Je me plierai volontiers à ta décision, quelle qu'elle soit."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/40/s/0
 msgctxt "Choix"
 msgid "Let's do it. Let's hack that password!"
-msgstr ""
+msgstr "Allons-y. Hackons ce mot de passe !"
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/41/s/0
 msgctxt "Choix"
 msgid "I'm not comfortable with this. I'm sorry."
-msgstr ""
+msgstr "Je ne suis pas à l'aise avec ça. {{Désolé|Désolée|Désolé·e}}."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-0/13
 msgctxt "Keith"
 msgid "I'm overjoyed! This will be the beginning of a great adventure."
-msgstr ""
+msgstr "Je suis ravi ! Ce sera le début d'une grande aventure."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-0/24
 msgctxt "Keith"
 msgid "Next time I see you, we can begin."
-msgstr ""
+msgstr "La prochaine fois que je te verrai, nous pourrons commencer."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-0/32
 msgctxt "Keith"
 msgid "I need to prepare myself to learn the truth."
-msgstr ""
+msgstr "J'ai besoin de me préparer à apprendre la vérité."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-1/7
 msgctxt "Keith"
 msgid "I understand... Hmm."
-msgstr ""
+msgstr "Je comprends... Hmm."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-1/18
 msgctxt "Keith"
 msgid "Actually, I really don't. I thought you were my friend."
-msgstr ""
+msgstr "En réalité, pas du tout. Je te croyais {{mon ami|mon amie|mon ami·e}}."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-1/26
 msgctxt "Keith"
 msgid "I trusted you to help me get to the bottom of this."
-msgstr ""
+msgstr "Je comptais sur toi pour m'aider à aller au fond de tout ça."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-1/34
 msgctxt "Keith"
 msgid "But I guess at the end of the day you're really just in this for what I can give you."
-msgstr ""
+msgstr "Mais je suppose qu'au bout du compte, tu es surtout là pour ce que je peux te donner."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/c-1/42
 msgctxt "Keith"
 msgid "So. Come on back if you want candy, but do not mistake this for a friendship.."
-msgstr ""
+msgstr "Alors. Reviens si tu veux des bonbons, mais ne confonds pas cela avec de l'amitié.."
 
+# Traduction IA – à relire
 #: keith_key/keith_passworddecision/0/g-0/0
 msgctxt "Keith"
 msgid "Now, before you go, let's see if you're ready for some candy."
-msgstr ""
+msgstr "Maintenant, avant que tu partes, voyons si tu es {{prêt|prête|prêt·e}} pour des bonbons."
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/0
 msgctxt "Keith"
 msgid "Hello! I'm so excited to see you again."
-msgstr ""
+msgstr "Bonjour ! Je suis si heureux de te revoir."
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/8
 msgctxt "Keith"
 msgid "I've been thinking non-stop about our plan."
-msgstr ""
+msgstr "J'ai pensé sans cesse à notre plan."
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/16
 msgctxt "Keith"
 msgid "Are you ready to make some moves? Or can I help you with something else?"
-msgstr ""
+msgstr "Es-tu {{prêt|prête|prêt·e}} à passer à l'action ? Ou puis-je t'aider pour autre chose ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/24/s/0
 msgctxt "Choix"
 msgid "Actually I thought I'd flirt with you a bit first."
-msgstr ""
+msgstr "En fait, je pensais flirter un peu avec toi d'abord."
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/25/s/0
 msgctxt "Choix"
 msgid "I'm ready. Let's do this!"
-msgstr ""
+msgstr "Je suis {{prêt|prête|prêt·e}}. Allons-y !"
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/26/s/0 keith_key/keith_flirt_check2/0/g-0/34/s/0
 msgctxt "Choix"
 msgid "Actually... I Realized Mac! So they can't help us!"
-msgstr ""
+msgstr "En fait... j'ai Réalisé Mac ! Donc ça ne pourra pas nous aider !"
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/c-0/7
 msgctxt "Keith"
 msgid "We'll see if you're up to the task..."
-msgstr ""
+msgstr "Nous verrons si tu es à la hauteur..."
 
+# Traduction IA – à relire
 #: keith_key/keith_fifth_encounter/0/c-1/7
 msgctxt "Keith"
 msgid "I think it's time we brought in our accomplice, Mac!"
-msgstr ""
+msgstr "Je crois qu'il est temps de faire venir notre complice, Mac !"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/0
 msgctxt "Keith"
 msgid "I won't be so easily won over this time, you'll find."
-msgstr ""
+msgstr "Je ne me laisserai pas séduire si facilement cette fois, tu verras."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/8/s/0
 msgctxt "Choix"
 msgid "I'd go to any lengths to win over such an elegant, kind key!"
-msgstr ""
+msgstr "Je ferais n'importe quoi pour séduire une clé aussi élégante et gentille !"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/9/s/0
 msgctxt "Choix"
 msgid "And yet I find you've already won me."
-msgstr ""
+msgstr "Et pourtant, je constate que tu m'as déjà conquis."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/10/s/0
 msgctxt "Choix"
 msgid "Oh stop playing hard to get, you stud muffin."
-msgstr ""
+msgstr "Oh arrête de te faire désirer, beau gosse."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/11/s/0
 msgctxt "Choix"
 msgid "Hold my beer. <i>Gyrate even more strangely than last time.</i>"
-msgstr ""
+msgstr "Tiens ma bière. <i>Déhanchez-vous encore plus bizarrement que la dernière fois.</i>"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/12/s/0
 msgctxt "Choix"
 msgid "Hold my beer. <i>Gyrate strangely.</i>"
-msgstr ""
+msgstr "Tiens ma bière. <i>Déhanchez-vous bizarrement.</i>"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/c-0/7
 msgctxt "Keith"
 msgid "Your words have charmed open my heart."
-msgstr ""
+msgstr "Tes paroles ont charmé mon coeur et l'ont ouvert."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/c-1/7
 msgctxt "Keith"
 msgid "Your openness, it would seem, is opening my heart."
-msgstr ""
+msgstr "Ton ouverture, semble-t-il, m'ouvre le coeur."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/c-2/7
 msgctxt "Keith"
 msgid "I pretend to be locked when in fact my heart is quite open for you."
-msgstr ""
+msgstr "Je fais semblant d'être verrouillé alors qu'en réalité mon coeur t'est grand ouvert."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/c-3/7
 msgctxt "Keith"
 msgid "You know, somehow I am still not intrigued by this motion."
-msgstr ""
+msgstr "Tu sais, je ne suis toujours pas intrigué par ce mouvement."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/0
 msgctxt "Keith"
 msgid "Flirting with you is quite lovely."
-msgstr ""
+msgstr "Flirter avec toi est fort agréable."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/8
 msgctxt "Keith"
 msgid "As you know, I do enjoy a bit of banter!"
-msgstr ""
+msgstr "Comme tu le sais, j'apprécie un peu de badinage !"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/16
 msgctxt "Keith"
 msgid "But what say you we return to the matter at hand?"
-msgstr ""
+msgstr "Mais que dirais-tu de revenir à nos affaires ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/24
 msgctxt "Keith"
 msgid "Are you ready to bring Mac in on our cheeky little plan?"
-msgstr ""
+msgstr "Es-tu {{prêt|prête|prêt·e}} à mettre Mac dans la confidence de notre petit plan coquin ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "Let's do this."
-msgstr ""
+msgstr "Faisons-le."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "You know what... I've changed my mind about that..."
-msgstr ""
+msgstr "Tu sais quoi... j'ai changé d'avis..."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/c-6/13
 msgctxt "Keith"
 msgid "What? After you led me on?"
-msgstr ""
+msgstr "Quoi ? Après m'avoir fait marcher ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/c-6/21
 msgctxt "Keith"
 msgid "I really thought you cared about helping me understand my past."
-msgstr ""
+msgstr "Je croyais vraiment que tu tenais à m'aider à comprendre mon passé."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/c-6/29
 msgctxt "Keith"
 msgid "But you just wanted to pull the wool over a poor old key's eyes..."
-msgstr ""
+msgstr "Mais tu voulais juste duper les yeux d'une pauvre vieille clé..."
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/c-6/40
 msgctxt "Keith"
 msgid "It's all about the candy for you, isn't it?"
-msgstr ""
+msgstr "Tout ce qui compte pour toi, c'est le bonbon, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_flirt_check2/0/g-0/c-6/48
 msgctxt "Keith"
 msgid "I guess we should see if you've earned one then, and then I'd like you to leave."
-msgstr ""
+msgstr "Voyons donc si tu en as mérité un, et ensuite j'aimerais que tu partes."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/6
 msgctxt "Keith"
 msgid "Eh, eh, eh... But before we do... I think we ought to be prepared for them to say no."
-msgstr ""
+msgstr "Eh, eh, eh... Mais avant cela... je crois que nous devrions nous préparer à ce que Mac dise non."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/14
 msgctxt "Keith"
 msgid "After all, this is an odd thing to ask."
-msgstr ""
+msgstr "Après tout, c'est une demande plutôt étrange."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/22
 msgctxt "Keith"
 msgid "So... what should we do if they refuse?"
-msgstr ""
+msgstr "Alors... que ferons-nous si c'est un refus ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/30/s/0
 msgctxt "Choix"
 msgid "We could try using SPECS points?"
-msgstr ""
+msgstr "On pourrait essayer d'utiliser des points de SPECS ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/31/s/0
 msgctxt "Choix"
 msgid "I'll strong-arm them."
-msgstr ""
+msgstr "Je vais leur forcer la main."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/32/s/0
 msgctxt "Choix"
 msgid "We should just leave it alone if they don't want in."
-msgstr ""
+msgstr "On devrait laisser tomber si ça ne leur dit rien."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/33/s/0
 msgctxt "Choix"
 msgid "It's all in how we ask them, my friend..."
-msgstr ""
+msgstr "Tout dépend de la façon dont on le demande, {{mon ami|mon amie|mon ami·e}}..."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-0/7
 msgctxt "Keith"
 msgid "Why, that's brilliant!"
-msgstr ""
+msgstr "Mais c'est brillant !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-1/7
 msgctxt "Keith"
 msgid "You're bolder than I thought! And I find that quite attractive."
-msgstr ""
+msgstr "Tu es plus audacieux que je ne pensais ! Et je trouve cela fort attirant."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-2/7
 msgctxt "Keith"
 msgid "This is the answer to my past..."
-msgstr ""
+msgstr "C'est la réponse à mon passé..."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "We have to respect their decision."
-msgstr ""
+msgstr "Nous devons respecter sa décision."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Don't worry. We'll get in! I'll make it happen."
-msgstr ""
+msgstr "Ne t'inquiète pas. On va entrer ! Je m'en charge."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-2/15/c-1/7
 msgctxt "Keith"
 msgid "You're the best. A true friend!"
-msgstr ""
+msgstr "Tu es le meilleur. Un véritable ami !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-3/7
 msgctxt "Keith"
 msgid "Genius! I'll leave everything up to you!"
-msgstr ""
+msgstr "Génial ! Je te laisse tout gérer !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/4
 msgctxt "Keith"
 msgid "Ok, here they come!"
-msgstr ""
+msgstr "Bon, les voilà !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/21
 msgctxt "Narrator"
 msgid "Mac wheels into the room with a kind smile on their face, greeting the two of you with a small wave."
-msgstr ""
+msgstr "Mac entre dans la pièce en roulant, un sourire aimable aux lèvres, et vous salue tous les deux d'un petit signe de la main."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/29
 msgctxt "Mac"
 msgid "I believe my presence is requested?"
-msgstr ""
+msgstr "Je crois que ma présence est requise ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/37
 msgctxt "Keith"
 msgid "That's right, Mac! We have a rather curious request for you..."
-msgstr ""
+msgstr "C'est exact, Mac ! Nous avons une requête assez curieuse à te soumettre..."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/45
 msgctxt "Mac"
 msgid "Oh?"
-msgstr ""
+msgstr "Oh ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/53/s/0
 msgctxt "Choix"
 msgid "We need to hack into an online journal, Mac."
-msgstr ""
+msgstr "Nous devons pirater un journal en ligne, Mac."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/54/s/0
 msgctxt "Choix"
 msgid "We've got to find the key to Keith's imprisonment."
-msgstr ""
+msgstr "Nous devons trouver la clé de l'emprisonnement de Keith."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/c-4/7
 msgctxt "Mac"
 msgid "I see. This is something I may be able to help you with."
-msgstr ""
+msgstr "Je vois. C'est quelque chose pour quoi je peux peut-être vous aider."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/c-4/15
 msgctxt "Mac"
 msgid "Only... I must tell you that this goes against my intended functions."
-msgstr ""
+msgstr "Seulement... je dois vous dire que cela va à l'encontre des fonctions pour lesquelles j'ai été conçu."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/c-5/7
 msgctxt "Mac"
 msgid "Very well! I'll be happy to help."
-msgstr ""
+msgstr "Très bien ! Je serai heureux d'aider."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/c-5/15
 msgctxt "Mac"
 msgid "Where is this key located within my storage?"
-msgstr ""
+msgstr "Où se trouve cette clé dans mon stockage ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/c-5/23/0/s/0
 msgctxt "Choix"
 msgid "It's in an online journal, actually. Someone else's online journal."
-msgstr ""
+msgstr "Elle est dans un journal en ligne, en fait. Le journal en ligne de quelqu'un d'autre."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/c-5/23/1/s/0
 msgctxt "Choix"
 msgid "Well, ya see, it's not EXACTLY located in YOUR storage. Per se."
-msgstr ""
+msgstr "Eh bien, voyez-vous, elle n'est pas EXACTEMENT dans TON stockage. Per se."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-0/c-6/7
 msgctxt "Mac"
 msgid "Why didn't you say so? Of course I can help you with that!"
-msgstr ""
+msgstr "Pourquoi ne pas l'avoir dit plus tôt ? Bien sûr que je peux vous aider pour cela !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-1/0
 msgctxt "Mac"
 msgid "Am I to understand that you are asking me to do some unauthorized breaking and entering?"
-msgstr ""
+msgstr "Dois-je comprendre que vous me demandez de m'introduire illégalement quelque part sans autorisation ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "That makes it sound so sketch! It's just some dude's online journal!"
-msgstr ""
+msgstr "Dit comme ça, ça paraît tellement louche ! C'est juste le journal en ligne d'un mec !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "That's exactly correct, Mac. Sounds fun, right?"
-msgstr ""
+msgstr "C'est tout à fait ça, Mac. Ça a l'air amusant, non ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-1/c-7/7
 msgctxt "Keith"
 msgid "Yes! There's probably almost nothing interesting in there!"
-msgstr ""
+msgstr "Oui ! Il n'y a probablement presque rien d'intéressant là-dedans !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-1/c-7/18
 msgctxt "Mac"
 msgid "Be that as it may..."
-msgstr ""
+msgstr "Quoi qu'il en soit..."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-1/c-8/7
 msgctxt "Mac"
 msgid "While this does sound entertaining..."
-msgstr ""
+msgstr "Bien que cela semble divertissant..."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/0
 msgctxt "Mac"
 msgid "I'm afraid I have to refuse. This goes against the ethical model coded into me at creation."
-msgstr ""
+msgstr "Je crains de devoir refuser. Cela va à l'encontre du modèle éthique codé en moi à ma création."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "For a computer with such well-rounded programming capacity, you're kind of a square."
-msgstr ""
+msgstr "Pour un ordinateur à la programmation aussi complète, tu es plutôt rabat-joie."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "I completely understand, Mac. Keith, I'm sorry."
-msgstr ""
+msgstr "Je comprends tout à fait, Mac. Keith, {{désolé|désolée|désolé·e}}."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/10/s/0
 msgctxt "Choix"
 msgid "Let's just see if we can't update that ethics model, shall we? 010001101..."
-msgstr ""
+msgstr "Voyons si on ne peut pas mettre à jour ce modèle éthique, d'accord ? 010001101..."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/11/s/0
 msgctxt "Choix"
 msgid "Mac, please? Keith is really suffering here."
-msgstr ""
+msgstr "Mac, s'il te plaît ? Keith souffre vraiment, là."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/c-9/7
 msgctxt "Mac"
 msgid "What?! No I'm not! I'm cool! Let's go do some bad guy stuff!"
-msgstr ""
+msgstr "Quoi ?! Non, pas du tout ! Je suis cool ! Allons faire des trucs de méchants !"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/c-9/18
 msgctxt "Keith"
 msgid "Nice one..."
-msgstr ""
+msgstr "Bien joué..."
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/c-10/7
 msgctxt "Keith"
 msgid "You... You'll let them lock you out just like that?"
-msgstr ""
+msgstr "Tu... tu vas les laisser te bloquer l'accès comme ça ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/c-10/15
 msgctxt "Keith"
 msgid "And keep me from discovering the secret of my imprisonment?"
-msgstr ""
+msgstr "Et m'empêcher de découvrir le secret de mon emprisonnement ?"
 
+# Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/g-2/c-10/23/0/s/0
 msgctxt "Choix"
 msgid "I'm sorry Keith, but I can't force them."
-msgstr ""
+msgstr "{{Désolé|Désolée|Désolé·e}} Keith, mais je ne peux pas les forcer."
 
 #: keith_key/keith_bringmacin/0/g-2/c-10/23/1/s/0
 msgctxt "Choix"

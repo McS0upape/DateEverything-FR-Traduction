@@ -102,3 +102,8 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Swarmers → Grouilleurs (déjà dans luke_microwave) ; Immortals → les Immortels ; Holy Doctrine → la Sainte Doctrine
 - the Barrens → les Friches ; Salty Mountains → les Montagnes Salées
 - cool kid, Ranger, Food Fetch : invariables
+
+## rebel_duck (agent Sonnet, 2026-10-13)
+- Rebel : iel (they dans l'original, vérifié)
+- juron « duck » : ducking → putain de / bordel de canard ; duck you → va te faire cancaner ; shut the duck up → ferme ton bec
+- Poppyseed Street → Rue Pavot ; RotoBooter → Rotodébouche ; Regina Ru'bare : inchangé

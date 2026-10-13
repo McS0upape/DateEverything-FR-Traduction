@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : féminin (elle)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, débit mitraillette, très enthousiaste, MAJUSCULES et allongements de voyelles (<w>)
+- **Personnalité, manière de parler** : positive à l'excès, désorganisée, distraite, enchaîne les petits boulots et les fêtes ; s'excuse tout le temps ; fait des jeux de mots et rimes sans arrêt (« rish rash rush »)
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « BYEEEE ! », « Bye bye bye ! », « Je sais, hein !? » (I KNOW RIGHT), « Anyway » -> « Bref ! », surnom « boss » -> « chef » (épicène), « bestie » -> « bestie » ; jeux de mots sur les fêtes (Blissmas, Gleester in July, Venetian's Day)
+- **Exemples de répliques traduites (référence de ton)** : « Oh. Tu es venu·e ! » -> « Oh. Tu es venu·e ! » (utiliser {{venu|venue|venu·e}}) ; « Bref ! » ; « Je suis juste réaliste. »
