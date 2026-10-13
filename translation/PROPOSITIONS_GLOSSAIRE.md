@@ -114,3 +114,12 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## river_water (agent Sonnet, 2026-10-13)
 - Chair (pop star) → Cher ; Aqua Khan, Lady Memoria : inchangés ; tea (potins) → potins
+
+## doug_dread (agent Sonnet, 2026-10-13)
+- Existential Dread → Angoisse Existentielle ; Hope → Espoir ; Doug Point → Point Doug ; Dork → Nerd
+- chairem → chaisarem ; Bone Zone → Baisodrome ; Sharebucket/Playbucket/Vidbucket : inchangés
+- À harmoniser : hateship → « inimitié » (doug) vs « hainitié » (arma)
+
+## tydus_tide (agent Sonnet, 2026-10-13)
+- Pods, Dipodgenes : inchangés ; Stone/Parchment/Shears → Pierre/Parchemin/Cisailles
+- Hundred Beer's War → Guerre des Cent Bières ; Springtime Breeze → Brise de Printemps ; The Round Table → La Table Ronde
