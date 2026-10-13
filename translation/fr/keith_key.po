@@ -1224,19 +1224,19 @@ msgstr "Que voudrais-je savoir d'autre ?"
 #: keith_key/Keith_gettingtoknowyou/0/g-1/8
 msgctxt "Keith"
 msgid "Ah! Do you think of yourself as traditional, or open-minded?"
-msgstr "Ah ! Te considères-tu traditionnel, ou ouvert d'esprit ?"
+msgstr "Ah ! Te considères-tu {{traditionnel|traditionnelle|traditionnel·le}}, ou {{ouvert|ouverte|ouvert·e}} d'esprit ?"
 
 # Traduction IA – à relire
 #: keith_key/Keith_gettingtoknowyou/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Traditional. I like structure."
-msgstr "Traditionnel. J'aime la structure."
+msgstr "{{Traditionnel|Traditionnelle|Traditionnel·le}}. J'aime la structure."
 
 # Traduction IA – à relire
 #: keith_key/Keith_gettingtoknowyou/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "Open minded."
-msgstr "Ouvert d'esprit."
+msgstr "{{Ouvert|Ouverte|Ouvert·e}} d'esprit."
 
 # Traduction IA – à relire
 #: keith_key/Keith_gettingtoknowyou/0/g-1/18/s/0
@@ -1452,7 +1452,7 @@ msgstr "Bien sûr."
 #: keith_key/Keith_gettingtoknowyou/0/g-3/18/s/0
 msgctxt "Choix"
 msgid "I'm still young and I feel exhausted."
-msgstr "Je suis encore jeune et je suis épuisé."
+msgstr "Je suis encore jeune et je suis {{épuisé|épuisée|épuisé·e}}."
 
 # Traduction IA – à relire
 #: keith_key/Keith_gettingtoknowyou/0/g-3/c-11/7
@@ -1698,7 +1698,7 @@ msgstr "Rester dans l'ici et maintenant."
 #: keith_key/keith_second_encounter/0/g-2/26/s/0
 msgctxt "Choix"
 msgid "Pleasure, baby. I'm a hedonist."
-msgstr "Le plaisir, mon chou. Je suis un hédoniste."
+msgstr "Le plaisir, mon chou. Je suis {{un hédoniste|une hédoniste|un·e hédoniste}}."
 
 # Traduction IA – à relire
 #: keith_key/keith_second_encounter/0/g-2/27/s/0
@@ -3120,7 +3120,7 @@ msgstr "Ne t'inquiète pas. On va entrer ! Je m'en charge."
 #: keith_key/keith_bringmacin/0/c-2/15/c-1/7
 msgctxt "Keith"
 msgid "You're the best. A true friend!"
-msgstr "Tu es le meilleur. Un véritable ami !"
+msgstr "Tu es le meilleur. {{Un véritable ami|Une véritable amie|Un·e véritable ami·e}} !"
 
 # Traduction IA – à relire
 #: keith_key/keith_bringmacin/0/c-3/7

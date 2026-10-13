@@ -107,3 +107,7 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Rebel : iel (they dans l'original, vérifié)
 - juron « duck » : ducking → putain de / bordel de canard ; duck you → va te faire cancaner ; shut the duck up → ferme ton bec
 - Poppyseed Street → Rue Pavot ; RotoBooter → Rotodébouche ; Regina Ru'bare : inchangé
+
+## winnifred_waterheater (agent Sonnet, 2026-10-13)
+- Bless your heart → Béni soit ton petit coeur ; pilot light → veilleuse
+- Hot and Heady Couples Spa and Resort → Spa et Resort des Couples Torrides et Enivrants
