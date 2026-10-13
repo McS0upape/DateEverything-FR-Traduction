@@ -97,3 +97,8 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 ## hoove_vacuum (agent Sonnet, 2026-10-13)
 - Grime Scene → Scène de crasse ; Hankees / Socks / ValdiviArena : inchangés
 - liquid courage → courage liquide ; attachment (aspirateur) → accessoire / embout
+
+## freddy_fridge (agent Sonnet, 2026-10-13)
+- Swarmers → Grouilleurs (déjà dans luke_microwave) ; Immortals → les Immortels ; Holy Doctrine → la Sainte Doctrine
+- the Barrens → les Friches ; Salty Mountains → les Montagnes Salées
+- cool kid, Ranger, Food Fetch : invariables

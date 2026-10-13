@@ -8,2755 +8,3305 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "WATER HEATER"
-msgstr ""
+msgstr "CHAUFFE-EAU"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/0/b/1
 msgctxt "Winnifred"
 msgid "Whatever you need, I ain't got."
-msgstr ""
+msgstr "Tout ce dont t'as besoin, j'en ai plus."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/3
 msgctxt "Winnifred"
 msgid "We're all out."
-msgstr ""
+msgstr "On est en rupture de stock."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/11
 msgctxt "Winnifred"
 msgid "You made that pretty clear."
-msgstr ""
+msgstr "Tu l'as bien fait comprendre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/19/s/0 winnifred_waterheater/Winnifred_recruit/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I'm actually here for Stella."
-msgstr ""
+msgstr "En fait, je viens pour Stella."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/20/s/0
 msgctxt "Choix"
 msgid "Still boiling I see."
-msgstr ""
+msgstr "Toujours en ébullition, à ce que je vois."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/c-1/7
 msgctxt "Winnifred"
 msgid "What can I say. You have that effect on me."
-msgstr ""
+msgstr "Que veux-tu que j'y fasse. C'est l'effet que tu me fais."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-0/0
 msgctxt "Winnifred"
 msgid "Oh my."
-msgstr ""
+msgstr "Oh là là."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-0/8
 msgctxt "Winnifred"
 msgid "That bad?"
-msgstr ""
+msgstr "À ce point ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-0/16
 msgctxt "Winnifred"
 msgid "Stella never asks for anything."
-msgstr ""
+msgstr "Stella ne demande jamais rien."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "Seems she's pretty desperate."
-msgstr ""
+msgstr "Elle a l'air plutôt désespérée."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "It's a little sad to watch."
-msgstr ""
+msgstr "C'est un peu triste à voir."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-0/26/s/0
 msgctxt "Choix"
 msgid "Really?"
-msgstr ""
+msgstr "Vraiment ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-1/0
 msgctxt "Winnifred"
 msgid "Truly. She's selfless that one. Silly, but selfless. The best and worst kind."
-msgstr ""
+msgstr "Vraiment. Elle est altruiste, celle-là. Un peu sotte, mais altruiste. Le meilleur et le pire à la fois."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-1/16
 msgctxt "Winnifred"
 msgid "Is it this... Airway thing?"
-msgstr ""
+msgstr "C'est cette histoire de... Airway ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-1/24/s/0
 msgctxt "Choix"
 msgid "Yea."
-msgstr ""
+msgstr "Ouais."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-1/25/s/0
 msgctxt "Choix"
 msgid "Unfortunately."
-msgstr ""
+msgstr "Malheureusement."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-2/0
 msgctxt "Winnifred"
 msgid "Oh Stella..."
-msgstr ""
+msgstr "Oh Stella..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-2/16
 msgctxt "Winnifred"
 msgid "I'll sign up."
-msgstr ""
+msgstr "Je m'inscris."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-2/24
 msgctxt "Winnifred"
 msgid "Someone needs to keep an eye on her."
-msgstr ""
+msgstr "Il faut bien que quelqu'un garde un oeil sur elle."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_recruit/0/g-2/32/b/1
 msgctxt "Winnifred"
 msgid "And it sure as hell shouldn't be you."
-msgstr ""
+msgstr "Et ce n'est sûrement pas à toi de le faire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/0
 msgctxt "Narrator"
 msgid "Normally you try to avoid dealing with your water heater—you're no plumber, after all."
-msgstr ""
+msgstr "D'ordinaire, vous évitez de vous occuper de votre chauffe-eau, car vous n'êtes pas plombier, après tout."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/8
 msgctxt "Narrator"
 msgid "But as you look at the beauty standing where your water heater usually is, you wonder for a moment if that's about to change."
-msgstr ""
+msgstr "Mais en regardant la beauté qui se tient là où se trouve habituellement votre chauffe-eau, vous vous demandez un instant si cela ne va pas changer."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/16
 msgctxt "Narrator"
 msgid "Beyond the rigid metal of the heater lie dangerous curves, brown skin swathed in orange and blue and silver. Her soft, pretty facial features are adorned by colorful makeup that looks like it wouldn't be out of place in a fashion magazine."
-msgstr ""
+msgstr "Au-delà de la tôle rigide du chauffe-eau se dessinent des courbes dangereuses, une peau brune drapée d'orange, de bleu et d'argent. Ses traits doux et jolis sont rehaussés d'un maquillage coloré qui ne dépareillerait pas dans un magazine de mode."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/24
 msgctxt "Narrator"
 msgid "She doesn't seem to notice you at first, but when she does she lets out a sharp scream."
-msgstr ""
+msgstr "Elle ne semble pas vous remarquer d'abord, mais quand c'est le cas, elle pousse un cri strident."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/32
 msgctxt "Winnifred"
 msgid "AHHHH!!!!"
-msgstr ""
+msgstr "AHHHH !!!!"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/43/s/0
 msgctxt "Choix"
 msgid "AH!"
-msgstr ""
+msgstr "AH !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/44/s/0
 msgctxt "Choix"
 msgid "AHH!"
-msgstr ""
+msgstr "AHH !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/45/s/0
 msgctxt "Choix"
 msgid "Uh."
-msgstr ""
+msgstr "Euh."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/0
 msgctxt "Winnifred"
 msgid "Bubblin' boiler rooms, you scared the livin'..."
-msgstr ""
+msgstr "Bouilloires bouillonnantes, tu m'as fait une de ces frayeurs..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/8
 msgctxt "Narrator"
 msgid "It takes her a moment to calm herself down—she fans at her face with her hands, exhaling loudly."
-msgstr ""
+msgstr "Il lui faut un moment pour se calmer : elle s'évente le visage de la main en expirant bruyamment."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/16
 msgctxt "Winnifred"
 msgid "Got me flustered, is all. I wasn't expecting any visitors."
-msgstr ""
+msgstr "Ça m'a toute retournée, c'est tout. J'attendais pas de visite."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/27
 msgctxt "Winnifred"
 msgid "Last folks who lived here only came down when the pilot light was out. Which wasn't often. See, I'm made of the good stuff. Southern made and made to last."
-msgstr ""
+msgstr "Les derniers occupants descendaient seulement quand la veilleuse était éteinte. Ce qui arrivait pas souvent. Faut dire que je suis faite du bon matériau. Fabriquée dans le Sud et faite pour durer."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/35/s/0
 msgctxt "Choix"
 msgid "You look like you are quality!"
-msgstr ""
+msgstr "Tu as l'air d'être de qualité !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/36/s/0
 msgctxt "Choix"
 msgid "Huh... I hadn't even thought about your pilot light going out."
-msgstr ""
+msgstr "Hum... Je n'avais même pas pensé à ta veilleuse qui pourrait s'éteindre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/c-3/7
 msgctxt "Winnifred"
 msgid "Your eyes don't lie to you, I'll tell you that much."
-msgstr ""
+msgstr "Tes yeux te mentent pas, ça je peux te le dire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-0/c-4/7
 msgctxt "Winnifred"
 msgid "I take pride in keepin' it goin' on!"
-msgstr ""
+msgstr "Je me fais une fierté de garder la flamme !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/0
 msgctxt "Winnifred"
 msgid "Here I am just talkin', and you don't even know my name."
-msgstr ""
+msgstr "Me voilà à causer, et tu connais même pas mon nom."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/8
 msgctxt "Winnifred"
 msgid "I'm Winnifred! Nice to meet you."
-msgstr ""
+msgstr "Moi c'est Winnifred ! Enchantée."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/19/s/0
 msgctxt "Choix"
 msgid "Nice to meet you!"
-msgstr ""
+msgstr "{{Enchanté|Enchantée|Enchanté·e}} !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/20/s/0
 msgctxt "Choix"
 msgid "Hi, Whinny!"
-msgstr ""
+msgstr "Salut, Whinny !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/c-5/7
 msgctxt "Winnifred"
 msgid "It's a pleasure."
-msgstr ""
+msgstr "Tout le plaisir est pour moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/c-6/7
 msgctxt "Winnifred"
 msgid "Oh, ehhhh. I don't really like nicknames from people I don't really know. Nothin' personal, darlin'. I hope you understand."
-msgstr ""
+msgstr "Oh, euh. J'aime pas trop les surnoms de la part de gens que je connais pas vraiment. Rien de personnel, mon ange. J'espère que tu comprends."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/c-6/15/0/s/0
 msgctxt "Choix"
 msgid "But you just called me \"darlin\", so..."
-msgstr ""
+msgstr "Mais tu viens de m'appeler « mon ange », alors..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/c-6/15/c-0/7
 msgctxt "Winnifred"
 msgid "Shush now."
-msgstr ""
+msgstr "Chut."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-1/c-6/15/c-0/15
 msgctxt "Winnifred"
 msgid "That wasn't no nickname. That was a pleasantry. Consider yourself lucky."
-msgstr ""
+msgstr "C'était pas un surnom. C'était une gentillesse. Estime-toi {{chanceux|chanceuse|chanceux·se}}."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-2/0
 msgctxt "Winnifred"
 msgid "I'm not sure how much more talkin' I can do right now. I've got work to take care of."
-msgstr ""
+msgstr "Je sais pas si je peux causer beaucoup plus pour l'instant. J'ai du boulot."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "What is it you do?"
-msgstr ""
+msgstr "Qu'est-ce que tu fais, au juste ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-2/c-7/7
 msgctxt "Winnifred"
 msgid "Did you just ask your water heater what she does?"
-msgstr ""
+msgstr "Tu viens de demander à ton chauffe-eau ce qu'elle fait ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-2/c-7/15/0/s/0
 msgctxt "Choix"
 msgid "Uhh..."
-msgstr ""
+msgstr "Euh..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-2/c-7/15/1/s/0
 msgctxt "Choix"
 msgid "I mean... I guess I did...?"
-msgstr ""
+msgstr "Enfin... j'imagine que oui... ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/0
 msgctxt "Winnifred"
 msgid "HAHAHAHAHAHA."
-msgstr ""
+msgstr "HAHAHAHAHAHA."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/11
 msgctxt "Winnifred"
 msgid "It's okay, sweetness. I'm just having some fun."
-msgstr ""
+msgstr "C'est bon, mon sucre. Je m'amuse, c'est tout."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/19
 msgctxt "Winnifred"
 msgid "But, I do need to get back to work. Washford's about to kick on and Daisuke needs a bit of a push."
-msgstr ""
+msgstr "Mais faut vraiment que je retourne bosser. Washford est sur le point de démarrer et Daisuke a besoin d'un petit coup de pouce."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/33
 msgctxt "Winnifred"
 msgid "I need some time with River to make sure she's ready to go."
-msgstr ""
+msgstr "Il me faut un peu de temps avec River pour m'assurer qu'elle est prête."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/44/s/0
 msgctxt "Choix"
 msgid "Sounds like hard work."
-msgstr ""
+msgstr "Ça a l'air d'être du boulot."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/45/s/0
 msgctxt "Choix"
 msgid "I'll come by later then!"
-msgstr ""
+msgstr "Je repasserai plus tard, alors !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/c-8/7
 msgctxt "Winnifred"
 msgid "I don't mind it."
-msgstr ""
+msgstr "Ça me dérange pas."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-3/c-9/7
 msgctxt "Winnifred"
 msgid "I'll hold you to that, okay?"
-msgstr ""
+msgstr "Je te tiens au mot, d'accord ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_intro/0/g-4/0
 msgctxt "Winnifred"
 msgid "See you 'round!"
-msgstr ""
+msgstr "À plus tard !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/0
 msgctxt "Winnifred"
 msgid "There you are, sweetness. I was just thinkin' 'bout you!"
-msgstr ""
+msgstr "Te voilà, mon sucre. J'étais justement en train de penser à toi !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/8/s/0
 msgctxt "Choix"
 msgid "Really? About me?"
-msgstr ""
+msgstr "Vraiment ? À moi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/9/s/0
 msgctxt "Choix"
 msgid "Why was I on your mind?"
-msgstr ""
+msgstr "Pourquoi je te trottais dans la tête ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-0/0
 msgctxt "Winnifred"
 msgid "I told you to swing by and I was wondering if you were gonna."
-msgstr ""
+msgstr "Je t'avais dit de passer, et je me demandais si tu le ferais."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-0/8
 msgctxt "Winnifred"
 msgid "I'm glad you did, because I just finished a shift. I have some time to spare if you wanna talk some."
-msgstr ""
+msgstr "Je suis contente que tu l'aies fait, parce que je viens de finir un service. J'ai un peu de temps devant moi si tu veux discuter."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "You work a lot?"
-msgstr ""
+msgstr "Tu travailles beaucoup ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-0/c-2/7
 msgctxt "Winnifred"
 msgid "Depends on how up and about you are, really."
-msgstr ""
+msgstr "Ça dépend de combien tu t'agites, en vrai."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-0/c-2/15
 msgctxt "Winnifred"
 msgid "The more you do, the more I gotta do."
-msgstr ""
+msgstr "Plus tu en fais, plus j'en fais."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "I'm to blame for how much you do??"
-msgstr ""
+msgstr "C'est ma faute si tu travailles autant ??"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-0/c-2/23/1/s/0
 msgctxt "Choix"
 msgid "Oh no! I didn't know it was my fault!"
-msgstr ""
+msgstr "Oh non ! J'ignorais que c'était ma faute !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/0
 msgctxt "Winnifred"
 msgid "Ain't nothin' nobody's fault. It's the kind of thing I love. I sit in here and I make sure everyone who needs some steamy attention gets it."
-msgstr ""
+msgstr "C'est la faute de personne. C'est le genre de truc que j'adore. Je reste là et je m'assure que tous ceux qui ont besoin d'un peu d'attention torride l'obtiennent."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/8
 msgctxt "Winnifred"
 msgid "It's what I'm here to do!"
-msgstr ""
+msgstr "C'est pour ça que je suis là !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/16
 msgctxt "Winnifred"
 msgid "Goodness, it's what I love to do!"
-msgstr ""
+msgstr "Seigneur, c'est ce que j'aime faire !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/27/s/0
 msgctxt "Choix"
 msgid "How long have you been doing it?"
-msgstr ""
+msgstr "Ça fait combien de temps que tu fais ça ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/7
 msgctxt "Winnifred"
 msgid "Is this your sly way of asking how old I am?"
-msgstr ""
+msgstr "C'est ta manière sournoise de me demander mon âge ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/15
 msgctxt "Winnifred"
 msgid "See, where I'm from, it's not polite to do that."
-msgstr ""
+msgstr "Vois-tu, d'où je viens, c'est pas poli de demander ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/23
 msgctxt "Winnifred"
 msgid "Although, moving around by what people thought was polite and correct never really suited me anyway."
-msgstr ""
+msgstr "Remarque, suivre ce que les gens trouvaient poli et correct, ça m'a jamais vraiment convenu."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/31
 msgctxt "Winnifred"
 msgid "Let's just say I remember all the folks who stayed here before you."
-msgstr ""
+msgstr "Disons que je me souviens de tous ceux qui ont habité ici avant toi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/39/0/s/0
 msgctxt "Choix"
 msgid "Oooo! Got any secrets about them?"
-msgstr ""
+msgstr "Oooo ! Tu as des secrets sur eux ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/39/1/s/0
 msgctxt "Choix"
 msgid "What were they like? If you don't mind telling me."
-msgstr ""
+msgstr "Comment étaient-ils ? Si ça ne te dérange pas de me le dire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/39/c-0/7
 msgctxt "Winnifred"
 msgid "Someone who likes the tea as hot as I do! Perfect!"
-msgstr ""
+msgstr "Quelqu'un qui aime son thé aussi brûlant que moi ! Parfait !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-1/c-3/39/c-1/7
 msgctxt "Winnifred"
 msgid "If you don't mind me talkin', I don't mind tellin'."
-msgstr ""
+msgstr "Si ça te dérange pas que je cause, ça me dérange pas de raconter."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-2/0
 msgctxt "Winnifred"
 msgid "Truth is, one of the previous folks who stayed here were super cute."
-msgstr ""
+msgstr "La vérité, c'est que l'un des précédents occupants était super mignon."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-2/8
 msgctxt "Winnifred"
 msgid "Engaged couple. Beautiful together. Both of them were... well, can I give my honest opinion?"
-msgstr ""
+msgstr "Un couple de fiancés. Beaux ensemble. Tous les deux étaient... enfin, je peux donner mon avis sincère ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-2/16/s/0
 msgctxt "Choix"
 msgid "Oh, please do!"
-msgstr ""
+msgstr "Oh oui, je t'en prie !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-2/17/s/0
 msgctxt "Choix"
 msgid "I'd rather stick to the facts."
-msgstr ""
+msgstr "Je préfère m'en tenir aux faits."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-2/c-4/7
 msgctxt "Winnifred"
 msgid "Neither one of them was as cute as you."
-msgstr ""
+msgstr "Aucun des deux n'était aussi mignon que toi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-2/c-5/7
 msgctxt "Winnifred"
 msgid "Fair enough."
-msgstr ""
+msgstr "Comme tu veux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-3/0
 msgctxt "Winnifred"
 msgid "Either way, they were here and they set up home pretty quickly. River and I both liked 'em. They brought so much life into this place."
-msgstr ""
+msgstr "Quoi qu'il en soit, ils sont arrivés et ils se sont installés vite fait. River et moi, on les aimait bien. Ils ont mis tellement de vie dans cet endroit."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-3/8
 msgctxt "Winnifred"
 msgid "They took long showers together all the time. Just about tapped me dry, keepin' things hot up there for 'em."
-msgstr ""
+msgstr "Ils prenaient de longues douches ensemble tout le temps. Ils m'ont presque mise à sec, à garder tout ça brûlant là-haut pour eux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-3/16
 msgctxt "Winnifred"
 msgid "Although, I hear they didn't really need my help to do that."
-msgstr ""
+msgstr "Même si, à ce que j'ai entendu, ils avaient pas vraiment besoin de mon aide pour ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "Hehehehe."
-msgstr ""
+msgstr "Hehehehe."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-3/25/s/0 winnifred_waterheater/washford_relationship_explained_b/0/40/s/0
 msgctxt "Choix"
 msgid "Why not?"
-msgstr ""
+msgstr "Pourquoi pas ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-3/c-6/7
 msgctxt "Winnifred"
 msgid "Oh yeah. You pickin' up what I'm saying!"
-msgstr ""
+msgstr "Oh ouais. Tu vois très bien ce que je veux dire !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-3/c-7/7
 msgctxt "Winnifred"
 msgid "...bless your heart. Don't worry about it, alright?"
-msgstr ""
+msgstr "...béni soit ton petit coeur. T'inquiète pas pour ça, d'accord ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/0
 msgctxt "Winnifred"
 msgid "But they used to throw these big parties, too! Family was always over, and every now and then they had this little kid who would come play hide-and-seek."
-msgstr ""
+msgstr "Mais ils donnaient aussi de grandes fêtes ! La famille débarquait tout le temps, et de temps en temps il y avait un petit gamin qui venait jouer à cache-cache."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/8
 msgctxt "Winnifred"
 msgid "Their favorite hiding spot was in here with me. So, I would just hum to them. I think they found bein' next to me safe."
-msgstr ""
+msgstr "Sa cachette préférée, c'était ici, avec moi. Alors je fredonnais pour eux. Je crois qu'ils se sentaient en sécurité à côté de moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/16
 msgctxt "Winnifred"
 msgid "Hmm... I miss that little kid sometimes."
-msgstr ""
+msgstr "Hmm... Ce petit gamin me manque, parfois."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/24/s/0
 msgctxt "Choix"
 msgid "Did something happen to them?"
-msgstr ""
+msgstr "Il leur est arrivé quelque chose ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/c-8/7
 msgctxt "Winnifred"
 msgid "What? No! The couple just moved out eventually."
-msgstr ""
+msgstr "Quoi ? Non ! Le couple a fini par déménager, c'est tout."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/c-8/15/0/s/0
 msgctxt "Choix"
 msgid "You think about them often?"
-msgstr ""
+msgstr "Tu penses souvent à eux ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/c-8/15/c-0/7
 msgctxt "Winnifred"
 msgid "Now, when did this story become about me?"
-msgstr ""
+msgstr "Dis donc, depuis quand cette histoire parle de moi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/c-8/15/c-0/15
 msgctxt "Winnifred"
 msgid "You don't need to worry yourself about who I do and don't be missin'. The past is the past, sweetheart. I don't live in that place."
-msgstr ""
+msgstr "Faut pas te tracasser pour qui me manque ou pas. Le passé, c'est le passé, mon coeur. Je vis pas là-dedans."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/c-8/15/c-0/23
 msgctxt "Winnifred"
 msgid "You don't make it as long as I have dwellin'."
-msgstr ""
+msgstr "On tient pas aussi longtemps que moi en ruminant."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/c-8/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Then why tell the stories?"
-msgstr ""
+msgstr "Alors pourquoi raconter ces histoires ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-4/c-8/15/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "You sure do remember a lot of the past, though."
-msgstr ""
+msgstr "Tu te souviens quand même de beaucoup de choses du passé."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-5/0
 msgctxt "Winnifred"
 msgid "There's a difference between knowing your history and livin' in it."
-msgstr ""
+msgstr "Il y a une différence entre connaître son histoire et y vivre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-5/8
 msgctxt "Winnifred"
 msgid "Besides, you sayin' you didn't like my story?"
-msgstr ""
+msgstr "Et puis, tu veux dire que mon histoire t'a pas plu ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-5/16/s/0
 msgctxt "Choix"
 msgid "I liked it a lot!"
-msgstr ""
+msgstr "Elle m'a beaucoup plu !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-5/17/s/0
 msgctxt "Choix"
 msgid "It was okay, I guess."
-msgstr ""
+msgstr "Elle était correcte, j'imagine."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-5/c-9/7
 msgctxt "Winnifred"
 msgid "Well good. I enjoyed tellin' it."
-msgstr ""
+msgstr "Eh bien tant mieux. J'ai pris plaisir à la raconter."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-5/c-10/7
 msgctxt "Winnifred"
 msgid "See, keep talkin' like that, and I won't tell you the good ones."
-msgstr ""
+msgstr "Tiens, continue à parler comme ça, et je te raconterai pas les meilleures."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-6/0
 msgctxt "Winnifred"
 msgid "Which reminds me of this one time where..."
-msgstr ""
+msgstr "Ce qui me rappelle cette fois où..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-6/8
 msgctxt "Winnifred"
 msgid "No. You know what? I'mma wait for that one."
-msgstr ""
+msgstr "Non. Tu sais quoi ? Je vais garder celle-là pour plus tard."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-6/16
 msgctxt "Winnifred"
 msgid "You wanna hear more, you gotta come back."
-msgstr ""
+msgstr "Si tu veux en entendre plus, faut revenir."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-6/24
 msgctxt "Winnifred"
 msgid "Besides, it's time I check in on my boy Washford."
-msgstr ""
+msgstr "Et puis, il est temps que j'aille voir mon beau Washford."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-6/32/s/0
 msgctxt "Choix"
 msgid "Oh, I know Washford! Wait... you like him?"
-msgstr ""
+msgstr "Oh, je connais Washford ! Attends... il te plaît ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-6/33/s/0
 msgctxt "Choix"
 msgid "Who is Washford?"
-msgstr ""
+msgstr "Qui est Washford ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_first_encounter/0/g-6/34/s/0
 msgctxt "Choix"
 msgid "I'm... in love with Washford."
-msgstr ""
+msgstr "Je suis... {{amoureux|amoureuse|amoureux·se}} de Washford."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/0
 msgctxt "Winnifred"
 msgid "And you don't? What's not to like about that hunky man!"
-msgstr ""
+msgstr "Et toi non ? Qu'est-ce qu'il y a à ne pas aimer chez ce beau gosse !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/8 winnifred_waterheater/Winnifred_crush_washford_b/8
 msgctxt "Winnifred"
 msgid "He is just one of the hunkiest hunks that ever did hunk!"
-msgstr ""
+msgstr "C'est un beau gosse parmi les beaux gosses, le plus beau qui ait jamais gossé !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/19 winnifred_waterheater/Winnifred_crush_washford_b/19
 msgctxt "Winnifred"
 msgid "The way he calls out to me when he needs some of what I've got."
-msgstr ""
+msgstr "La façon dont il m'appelle quand il a besoin de ce que j'ai."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/27 winnifred_waterheater/Winnifred_crush_washford_b/27 winnifred_waterheater/Winnifred_crush_washford_c/27
 msgctxt "Winnifred"
 msgid "Well, it's enough to get me bubblin'."
-msgstr ""
+msgstr "Eh bien, ça suffit à me faire bouillonner."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/35 winnifred_waterheater/Winnifred_crush_washford_b/43 winnifred_waterheater/Winnifred_crush_washford_c/43
 msgctxt "Winnifred"
 msgid "I bless the day you wheeled him into this house."
-msgstr ""
+msgstr "Je bénis le jour où tu l'as fait rouler jusque dans cette maison."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/43
 msgctxt "Winnifred"
 msgid "Drysdale's alright, but Washford?... mm mm MMM!"
-msgstr ""
+msgstr "Drysdale, il est pas mal, mais Washford ?... mm mm MMM !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/51 winnifred_waterheater/Winnifred_crush_washford_b/59 winnifred_waterheater/Winnifred_crush_washford_c/59
 msgctxt "Narrator"
 msgid "Winnifred fans herself with one hand, beginning to lose herself in her own fantasy."
-msgstr ""
+msgstr "Winnifred s'évente d'une main et commence à se perdre dans son propre fantasme."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/59
 msgctxt "Winnifred"
 msgid "I wouldn't mind going through a couple of cycles with him."
-msgstr ""
+msgstr "Ça me dérangerait pas de faire quelques cycles avec lui."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/67 winnifred_waterheater/Winnifred_crush_washford_b/83 winnifred_waterheater/Winnifred_crush_washford_c/75
 msgctxt "Winnifred"
 msgid "Ooop....."
-msgstr ""
+msgstr "Oups....."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_a/78
 msgctxt "Winnifred"
 msgid "I think I said too much!"
-msgstr ""
+msgstr "Je crois que j'en ai trop dit !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_b/0 winnifred_waterheater/Winnifred_crush_washford_c/0
 msgctxt "Winnifred"
 msgid "Oh sweetheart."
-msgstr ""
+msgstr "Oh mon coeur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_b/35
 msgctxt "Winnifred"
 msgid "You need to go introduce yourself to him right now!"
-msgstr ""
+msgstr "Faut que tu ailles te présenter à lui tout de suite !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_b/51
 msgctxt "Winnifred"
 msgid "His stage partner's all right. You'll meet him, too. But Washford? ...mmm mm MMM!"
-msgstr ""
+msgstr "Son partenaire de scène est correct. Tu le rencontreras aussi. Mais Washford ? ...mmm mm MMM !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_b/67
 msgctxt "Winnifred"
 msgid "I wouldn't mind going through a couple cycles with him."
-msgstr ""
+msgstr "Ça me dérangerait pas de faire quelques cycles avec lui."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_b/94 winnifred_waterheater/Winnifred_crush_washford_c/86
 msgctxt "Winnifred"
 msgid "I think I said too much! Hehe."
-msgstr ""
+msgstr "Je crois que j'en ai trop dit ! Hehe."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_c/8
 msgctxt "Winnifred"
 msgid "He is just one of the hunkiest hunks that ever did hunk, isn't he?"
-msgstr ""
+msgstr "C'est un beau gosse parmi les beaux gosses, le plus beau qui ait jamais gossé, non ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_c/19
 msgctxt "Winnifred"
 msgid "You may be together... but the way he calls out to me when he needs some of what I've got."
-msgstr ""
+msgstr "Vous êtes peut-être ensemble... mais la façon dont il m'appelle quand il a besoin de ce que j'ai."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_c/35
 msgctxt "Winnifred"
 msgid "You are one lucky human."
-msgstr ""
+msgstr "Tu as une sacrée chance."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_c/51
 msgctxt "Winnifred"
 msgid "His stage partner's cute, and maybe he's your kinda cute. But Washford? ...mmm mm MMM!"
-msgstr ""
+msgstr "Son partenaire de scène est mignon, et c'est peut-être ton genre de mignon. Mais Washford ? ...mmm mm MMM !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_crush_washford_c/67
 msgctxt "Winnifred"
 msgid "I wouldn't mind going through a couple cycles with him, if you're sharin'."
-msgstr ""
+msgstr "Ça me dérangerait pas de faire quelques cycles avec lui, si tu partages."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/0/s/0 winnifred_waterheater/washford_revelation_b/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "You should know, Washford has a complicated something going on with Drysdale."
-msgstr ""
+msgstr "Tu devrais savoir que Washford a un truc compliqué avec Drysdale."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/1/s/0 winnifred_waterheater/washford_revelation_b/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Are you sure Washford is available? Drysdale might have that one locked down."
-msgstr ""
+msgstr "Tu es sûre que Washford est libre ? Drysdale l'a peut-être déjà mis sous clé."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/0
 msgctxt "Winnifred"
 msgid "What? They got a thing going on?"
-msgstr ""
+msgstr "Quoi ? Ils ont un truc entre eux ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/8
 msgctxt "Winnifred"
 msgid "What kinda thang? Like, do you know the definition of this thang?"
-msgstr ""
+msgstr "Quel genre de truc ? Tu sais au moins ce que ça veut dire, ce truc ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/16 winnifred_waterheater/washford_revelation_b/0/g-0/27
 msgctxt "Winnifred"
 msgid "I mean, I hear him talkin' 'bout Drysdale but, they are just stage partners."
-msgstr ""
+msgstr "Je veux dire, je l'entends parler de Drysdale mais, ils sont juste partenaires de scène."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/24 winnifred_waterheater/washford_revelation_b/0/g-0/43
 msgctxt "Winnifred"
 msgid "Right?"
-msgstr ""
+msgstr "Pas vrai ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/40
 msgctxt "Narrator"
 msgid "Winnifred lets out a sigh, shaking her head."
-msgstr ""
+msgstr "Winnifred pousse un soupir en secouant la tête."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/48
 msgctxt "Winnifred"
 msgid "Look at me! Just as lost in thought as I wanna be."
-msgstr ""
+msgstr "Regarde-moi ! Perdue dans mes pensées autant que je veux l'être."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/56
 msgctxt "Winnifred"
 msgid "Don't mind me, darlin'."
-msgstr ""
+msgstr "Fais pas attention à moi, mon ange."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_a/0/g-0/64
 msgctxt "Winnifred"
 msgid "Sorry for thinkin' out loud."
-msgstr ""
+msgstr "Désolée de penser à voix haute."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/0/s/0
 msgctxt "Choix"
 msgid "Oh! I have met Washford. I forgot!"
-msgstr ""
+msgstr "Oh ! J'ai rencontré Washford. J'avais oublié !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/c-0/7
 msgctxt "Narrator"
 msgid "Winnifred shakes her head at you."
-msgstr ""
+msgstr "Winnifred secoue la tête à votre intention."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/c-0/15
 msgctxt "Winnifred"
 msgid "How you forget a hunk like that, I'll never know."
-msgstr ""
+msgstr "Comment on oublie un beau gosse pareil, ça, je le saurai jamais."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/g-0/0
 msgctxt "Winnifred"
 msgid "Oooo, you lying. Right?"
-msgstr ""
+msgstr "Oooo, tu mens. Pas vrai ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/g-0/11
 msgctxt "Winnifred"
 msgid "You gotta be lyin'."
-msgstr ""
+msgstr "Tu peux que mentir."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/g-0/19
 msgctxt "Winnifred"
 msgid "At least I hope you are, sweetness."
-msgstr ""
+msgstr "Du moins, j'espère que tu mens, mon sucre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/g-0/35
 msgctxt "Winnifred"
 msgid "Surely if they were a pair, he would have told me."
-msgstr ""
+msgstr "Sûrement que s'ils étaient en couple, il me l'aurait dit."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/g-0/51
 msgctxt "Winnifred"
 msgid "Not that he has to tell me anything. Just like he isn't owed anything from me."
-msgstr ""
+msgstr "Pas qu'il ait à me dire quoi que ce soit. Tout comme je lui dois rien non plus."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_revelation_b/0/g-0/59
 msgctxt "Narrator"
 msgid "Winnifred sighs, somewhere else for a moment."
-msgstr ""
+msgstr "Winnifred soupire, perdue ailleurs un instant."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/first_encounter_wrapup/0
 msgctxt "Winnifred"
 msgid "Well I think we better wrap this up for right now. I've got a social call to make."
-msgstr ""
+msgstr "Bon, je crois qu'on ferait mieux de s'arrêter là pour l'instant. J'ai une visite de courtoisie à faire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/first_encounter_wrapup/8
 msgctxt "Winnifred"
 msgid "Thank you for listenin' to me spout about nonsense."
-msgstr ""
+msgstr "Merci de m'avoir écoutée débiter mes bêtises."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/first_encounter_wrapup/16
 msgctxt "Winnifred"
 msgid "But, listen, I got more stories for you if you ever wanna hear 'em, I love sharing them with you."
-msgstr ""
+msgstr "Mais écoute, j'ai d'autres histoires pour toi si jamais tu veux les entendre, j'adore te les raconter."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/first_encounter_wrapup/24
 msgctxt "Winnifred"
 msgid "I'll see you around, sweetheart!"
-msgstr ""
+msgstr "À bientôt, mon coeur !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/0
 msgctxt "Winnifred"
 msgid "Look who just can't get enough of me."
-msgstr ""
+msgstr "Regardez qui peut pas se passer de moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/8/s/0
 msgctxt "Choix"
 msgid "Who, me?"
-msgstr ""
+msgstr "Qui, moi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/c-0/7
 msgctxt "Winnifred"
 msgid "...yes you, sweetheart. I promise, sometimes you just about as dense as a drain pipe."
-msgstr ""
+msgstr "...oui, toi, mon coeur. Je te jure, des fois t'es à peu près aussi épais qu'un tuyau d'évacuation."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/c-0/15
 msgctxt "Winnifred"
 msgid "Not that I mind it. You're still pretty cute. Plus it feels like I can teach you somethin'."
-msgstr ""
+msgstr "Pas que ça me dérange. Tu restes adorable. Et puis j'ai l'impression que je peux t'apprendre des choses."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I'd let you teach me a thing or two."
-msgstr ""
+msgstr "Je te laisserais m'apprendre une chose ou deux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Do you know stuff about drain pipes?"
-msgstr ""
+msgstr "Tu t'y connais en tuyaux d'évacuation ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/c-0/23/c-0/7
 msgctxt "Winnifred"
 msgid "When you swing, you swing hard, don't ya?"
-msgstr ""
+msgstr "Quand tu tapes, tu tapes fort, hein ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/c-0/23/c-1/7
 msgctxt "Winnifred"
 msgid "Yes I do, but... you know what? Bless your heart."
-msgstr ""
+msgstr "Oui, mais... tu sais quoi ? Béni soit ton petit coeur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/0
 msgctxt "Winnifred"
 msgid "What brings you down here today?"
-msgstr ""
+msgstr "Qu'est-ce qui t'amène ici aujourd'hui ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/8
 msgctxt "Winnifred"
 msgid "And don't say drainage."
-msgstr ""
+msgstr "Et dis pas l'évacuation."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "...drainage?"
-msgstr ""
+msgstr "...l'évacuation ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "I wanna know about things between you and Washford!"
-msgstr ""
+msgstr "Je veux savoir ce qu'il y a entre toi et Washford !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/18/s/0
 msgctxt "Choix"
 msgid "You told me you have more juicy stories."
-msgstr ""
+msgstr "Tu m'as dit que tu avais d'autres histoires croustillantes."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/c-1/7
 msgctxt "Winnifred"
 msgid "Hehehe. You smartass."
-msgstr ""
+msgstr "Hehehe. Espèce de petite crapule."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/c-1/15
 msgctxt "Winnifred"
 msgid "You came here for more stories, didn't you?"
-msgstr ""
+msgstr "Tu es {{venu|venue|venu·e}} chercher d'autres histoires, hein ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/c-3/7
 msgctxt "Winnifred"
 msgid "Something told me that's what you wanted! Where did I leave off last."
-msgstr ""
+msgstr "Quelque chose me disait que c'était ça que tu voulais ! Où est-ce que j'en étais restée ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_second_encounter/0/g-0/c-3/15
 msgctxt "Winnifred"
 msgid "Oh yeah!"
-msgstr ""
+msgstr "Ah oui !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/0
 msgctxt "Winnifred"
 msgid "Oh! Um... Washford and I..."
-msgstr ""
+msgstr "Oh ! Euh... Washford et moi..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/11
 msgctxt "Narrator"
 msgid "Winnifred smiles, but it's not quite the same as her usual warm expression."
-msgstr ""
+msgstr "Winnifred sourit, mais ce n'est pas tout à fait la même chaleur que d'habitude."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/19
 msgctxt "Winnifred"
 msgid "I know don't nobody really wanna hear about that."
-msgstr ""
+msgstr "Je sais bien que personne a vraiment envie d'entendre ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/27/s/0
 msgctxt "Choix"
 msgid "I do! I really do!"
-msgstr ""
+msgstr "Moi si ! Vraiment !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/28/s/0
 msgctxt "Choix"
 msgid "Yeah, you're right. I actually don't."
-msgstr ""
+msgstr "Ouais, tu as raison. En fait, non."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-0/7
 msgctxt "Winnifred"
 msgid "I appreciate you asking me, sweetheart. It's very sweet. But, you just push that out your mind."
-msgstr ""
+msgstr "Merci de me l'avoir demandé, mon coeur. C'est très gentil. Mais ôte-moi ça de la tête."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-0/15
 msgctxt "Winnifred"
 msgid "I'll tell you another story, how about that?"
-msgstr ""
+msgstr "Je vais te raconter une autre histoire, ça te dit ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-1/7
 msgctxt "Narrator"
 msgid "Winnifred puts her hands on her hips—even her grumpy expression is darling."
-msgstr ""
+msgstr "Winnifred pose les mains sur les hanches : même son air grognon est adorable."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-1/15
 msgctxt "Winnifred"
 msgid "That's rude, don't you know that? Gettin' me all worked up for what? A joke?"
-msgstr ""
+msgstr "C'est malpoli, tu sais ça ? Me mettre dans tous mes états pour quoi ? Une blague ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-1/26
 msgctxt "Winnifred"
 msgid "I promise, if you weren't so cute..."
-msgstr ""
+msgstr "Je te jure, si t'étais pas aussi adorable..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-1/34
 msgctxt "Winnifred"
 msgid "I should send you away for that."
-msgstr ""
+msgstr "Je devrais te renvoyer pour ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-1/42
 msgctxt "Winnifred"
 msgid "I have half a mind to."
-msgstr ""
+msgstr "J'ai bien envie de le faire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-1/58
 msgctxt "Narrator"
 msgid "Winnifred throws her hands in the air, a clear gesture of defeat."
-msgstr ""
+msgstr "Winnifred lève les mains au ciel, un geste de défaite évident."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_washford_rebuff/0/c-1/66
 msgctxt "Winnifred"
 msgid "Oh, how can I deny a face like that? I got another story to tell you."
-msgstr ""
+msgstr "Oh, comment résister à une frimousse pareille ? J'ai une autre histoire à te raconter."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/0
 msgctxt "Winnifred"
 msgid "Okay, so remember what I told you about that couple taking long showers?"
-msgstr ""
+msgstr "Bon, tu te souviens de ce que je t'ai dit sur ce couple qui prenait de longues douches ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/8
 msgctxt "Winnifred"
 msgid "There was this one time that —"
-msgstr ""
+msgstr "Il y a eu cette fois où —"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/19
 msgctxt "River"
 msgid "Hey Winnifred... oh. Uh..."
-msgstr ""
+msgstr "Salut Winnifred... oh. Euh..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/27
 msgctxt "Winnifred"
 msgid "River!"
-msgstr ""
+msgstr "River !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/35
 msgctxt "River"
 msgid "...am I interrupting?"
-msgstr ""
+msgstr "...je dérange ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/43
 msgctxt "Winnifred"
 msgid "No no, please. Come join us."
-msgstr ""
+msgstr "Non non, je t'en prie. Viens te joindre à nous."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/51
 msgctxt "Winnifred"
 msgid "How're you doin', sweetness?"
-msgstr ""
+msgstr "Comment tu vas, mon sucre ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/59
 msgctxt "Narrator"
 msgid "River glares at you, giving you the distinct feeling she doesn't appreciate you being here... but she says nothing."
-msgstr ""
+msgstr "River vous fusille du regard, et vous avez la nette impression qu'elle n'apprécie pas votre présence... mais elle ne dit rien."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/67
 msgctxt "River"
 msgid "Oh, you know... fine. Same as always."
-msgstr ""
+msgstr "Oh, tu sais... bien. Comme toujours."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/75
 msgctxt "Winnifred"
 msgid "You say that every day... and I know that's not always true."
-msgstr ""
+msgstr "Tu dis ça tous les jours... et je sais que c'est pas toujours vrai."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/83
 msgctxt "River"
 msgid "Winni... don't. Not now."
-msgstr ""
+msgstr "Winni... non. Pas maintenant."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/91
 msgctxt "Narrator"
 msgid "River looks away from both of you, steam rising from her cheeks as she blushes furiously."
-msgstr ""
+msgstr "River détourne les yeux de vous deux, de la vapeur lui montant aux joues tandis qu'elle rougit furieusement."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/99
 msgctxt "Winnifred"
 msgid "That sweet little blush gets me every time."
-msgstr ""
+msgstr "Ce joli petit rouge aux joues me fait craquer à chaque fois."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/107
 msgctxt "Winnifred"
 msgid "But really, you had nothin' to be embarrassed about, darlin'. It's only me."
-msgstr ""
+msgstr "Mais vraiment, t'as pas à être gênée, mon ange. C'est que moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/115
 msgctxt "Winnifred"
 msgid "If you need a little help relaxin'..."
-msgstr ""
+msgstr "Si t'as besoin d'un coup de main pour te détendre..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/123/s/0
 msgctxt "Choix"
 msgid "Hello. I'm still here."
-msgstr ""
+msgstr "Bonjour. Je suis toujours là."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/124/s/0
 msgctxt "Choix"
 msgid "Well, isn't this cute!"
-msgstr ""
+msgstr "Eh bien, c'est mignon, tout ça !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/0
 msgctxt "River"
 msgid "Oh <i>god</i>. Not in front of somebody else, Winnie."
-msgstr ""
+msgstr "Oh <i>mon dieu</i>. Pas devant quelqu'un d'autre, Winnie."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/11
 msgctxt "Winnifred"
 msgid "You really think I'd heat you up in front of an audience?"
-msgstr ""
+msgstr "Tu crois vraiment que je te ferais chauffer devant un public ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/19
 msgctxt "Winnifred"
 msgid "You keep blushin' like that I won't even have to—you're doin' a fine job all by yourself."
-msgstr ""
+msgstr "Si tu continues à rougir comme ça, j'aurai même pas besoin de — tu fais ça très bien toute seule."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/27
 msgctxt "Narrator"
 msgid "River's face is quite red, but no matter how much ribbing Winnifred gives her, she saves her annoyance for you."
-msgstr ""
+msgstr "River est toute rouge, mais malgré les taquineries de Winnifred, c'est à vous qu'elle réserve son agacement."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/35
 msgctxt "River"
 msgid "You seem busy. And I don't want to take you away from... talking."
-msgstr ""
+msgstr "Tu as l'air occupée. Et je veux pas t'éloigner de... la conversation."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/43
 msgctxt "Winnifred"
 msgid "Well then, why don't you come by later? Sit with me for awhile?"
-msgstr ""
+msgstr "Alors pourquoi tu passerais pas plus tard ? Tu t'installerais avec moi un moment ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/51
 msgctxt "Narrator"
 msgid "River's voice is low and quiet—but you can still hear the heat in her words."
-msgstr ""
+msgstr "La voix de River est basse et douce, mais vous y entendez quand même la chaleur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/59
 msgctxt "River"
 msgid "...you gonna warm me up?"
-msgstr ""
+msgstr "...tu vas me réchauffer ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/67
 msgctxt "Winnifred"
 msgid "You already know the answer to that, don't you?"
-msgstr ""
+msgstr "Tu connais déjà la réponse, non ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/83
 msgctxt "River"
 msgid "Just wanna hear you say it."
-msgstr ""
+msgstr "Je veux juste te l'entendre dire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/91 winnifred_waterheater/Winnifred_realized/0/c-0/34/c-1/7
 msgctxt "Winnifred"
 msgid "Oh honey..."
-msgstr ""
+msgstr "Oh ma chérie..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/99
 msgctxt "Winnifred"
 msgid "Why yes. Yes I <i>will</i> warm you up later."
-msgstr ""
+msgstr "Mais oui. Oui, je <i>vais</i> te réchauffer tout à l'heure."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/110
 msgctxt "River"
 msgid "...promise?"
-msgstr ""
+msgstr "...promis ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/118
 msgctxt "Winnifred"
 msgid "If you give me a chance, I'll have you in a rolling boil."
-msgstr ""
+msgstr "Si tu me laisses faire, je te porterai à gros bouillons."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/126
 msgctxt "Narrator"
 msgid "River doesn't say anything, but the smile on her face says that Winnifred's words have hit home. Her body language changes, and she looks as if she wants to take a step closer..."
-msgstr ""
+msgstr "River ne dit rien, mais le sourire sur son visage montre que les mots de Winnifred ont fait mouche. Son langage corporel change, et elle semble vouloir faire un pas de plus..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/134
 msgctxt "Narrator"
 msgid "But her eyes dart over to you, and she closes herself off again."
-msgstr ""
+msgstr "Mais ses yeux se posent sur vous, et elle se referme de nouveau."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/142
 msgctxt "River"
 msgid "...I'll be back."
-msgstr ""
+msgstr "...je reviendrai."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/150
 msgctxt "Winnifred"
 msgid "And I'll be waitin'."
-msgstr ""
+msgstr "Et je t'attendrai."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/161/s/0
 msgctxt "Choix"
 msgid "What was that all about?"
-msgstr ""
+msgstr "C'était quoi, tout ça ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-0/162/s/0
 msgctxt "Choix"
 msgid "That got pretty steamy for a moment."
-msgstr ""
+msgstr "Ça a pas mal chauffé, un moment."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/0
 msgctxt "Winnifred"
 msgid "Oh that? That was... hehe, that was somethin', wasn't it?"
-msgstr ""
+msgstr "Oh ça ? C'était... hehe, c'était quelque chose, hein ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/8
 msgctxt "Winnifred"
 msgid "You know what? That's nothin' you need to be worrying yourself about, sweetheart."
-msgstr ""
+msgstr "Tu sais quoi ? Faut pas te tracasser pour ça, mon coeur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/16
 msgctxt "Winnifred"
 msgid "River and I go way back. Waaaaay back. She was the first one to come and speak to me when I got here."
-msgstr ""
+msgstr "River et moi, on se connaît de longue date. De trèèès longue date. C'est la première qui est venue me parler quand je suis arrivée."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/24
 msgctxt "Winnifred"
 msgid "She's pretty special to me."
-msgstr ""
+msgstr "Elle compte beaucoup pour moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/32/s/0
 msgctxt "Choix"
 msgid "I thought you had a crush on Washford."
-msgstr ""
+msgstr "Je croyais que tu avais un faible pour Washford."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/33/s/0
 msgctxt "Choix"
 msgid "Who is more special? Washford or River?"
-msgstr ""
+msgstr "Qui compte le plus ? Washford ou River ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/34/s/0
 msgctxt "Choix"
 msgid "Are you flirting with me, River, and Washford?"
-msgstr ""
+msgstr "Tu es en train de flirter avec moi, River et Washford ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-4/7
 msgctxt "Winnifred"
 msgid "I wouldn't call it a crush, per say."
-msgstr ""
+msgstr "Je dirais pas que c'est un faible, à proprement parler."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-4/15
 msgctxt "Winnifred"
 msgid "...maybe I should call it a crush."
-msgstr ""
+msgstr "...je devrais peut-être appeler ça un faible."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-4/23
 msgctxt "Winnifred"
 msgid "Even If it was a crush, which I don't think it is, there is a lot of subtle suggestion you got goin' on here."
-msgstr ""
+msgstr "Même si c'était un faible, ce que je crois pas, t'es plutôt dans la suggestion subtile, là."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-5/7
 msgctxt "Winnifred"
 msgid "Now, what kind of question is that, sweetheart?"
-msgstr ""
+msgstr "Alors, c'est quoi cette question, mon coeur ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-5/15
 msgctxt "Winnifred"
 msgid "River and Washford are both so different and I think..."
-msgstr ""
+msgstr "River et Washford sont si différents, et je crois que..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-6/7
 msgctxt "Winnifred"
 msgid "Bless your heart. You takin' my kindness for flirtin'. That's precious."
-msgstr ""
+msgstr "Béni soit ton petit coeur. Tu prends ma gentillesse pour du flirt. C'est adorable."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-6/15
 msgctxt "Winnifred"
 msgid "Yes, I may think you are one of the cutest things I ever did see."
-msgstr ""
+msgstr "Oui, je trouve peut-être que t'es l'une des plus mignonnes choses que j'aie jamais vues."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-6/23
 msgctxt "Winnifred"
 msgid "Yes, I... did get excited that you came to see me today."
-msgstr ""
+msgstr "Oui, j'étais... contente que tu viennes me voir aujourd'hui."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-1/c-6/31
 msgctxt "Winnifred"
 msgid "But I wouldn't call what I'm doin' flirtin'..."
-msgstr ""
+msgstr "Mais je dirais pas que ce que je fais, c'est flirter..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/0
 msgctxt "Winnifred"
 msgid "Wait a moment. Look at you, distracting me again."
-msgstr ""
+msgstr "Attends une minute. Regarde-toi, à me distraire encore."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/8
 msgctxt "Winnifred"
 msgid "I'm starting to expect you didn't come here for a story after all."
-msgstr ""
+msgstr "Je commence à croire que t'es pas {{venu|venue|venu·e}} pour une histoire, finalement."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/16
 msgctxt "Winnifred"
 msgid "Look, I gotta go get ready for my visit with River."
-msgstr ""
+msgstr "Bon, faut que j'aille me préparer pour ma visite avec River."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "You sounded ready to me!"
-msgstr ""
+msgstr "Moi, je te trouvais déjà prête !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "I hope Washford doesn't find out."
-msgstr ""
+msgstr "J'espère que Washford ne l'apprendra pas."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/26/s/0
 msgctxt "Choix"
 msgid "I want all the details."
-msgstr ""
+msgstr "Je veux tous les détails."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/c-7/7
 msgctxt "Winnifred"
 msgid "You need to go on somewhere."
-msgstr ""
+msgstr "Allez, file ailleurs."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/c-7/15
 msgctxt "Winnifred"
 msgid "I have no idea what you are suggesting."
-msgstr ""
+msgstr "Je vois pas du tout ce que tu insinues."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/c-8/7
 msgctxt "Winnifred"
 msgid "Why do you think that would matter?"
-msgstr ""
+msgstr "Pourquoi tu crois que ça compterait ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/c-9/7
 msgctxt "Winnifred"
 msgid "Ah! I will not give you anything of the sort."
-msgstr ""
+msgstr "Ah ! Je te donnerai rien de tel."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-2/c-9/15
 msgctxt "Winnifred"
 msgid "Besides, your imagination might be more fun."
-msgstr ""
+msgstr "Et puis, ton imagination sera peut-être plus amusante."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-3/0
 msgctxt "Winnifred"
 msgid "You know what, why don't you just go on ahead, and I'll see you later, alright sweetheart?"
-msgstr ""
+msgstr "Tu sais quoi, pourquoi tu ne files pas, et je te vois plus tard, d'accord mon coeur ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/Winnifred_river_one/0/g-3/8
 msgctxt "Winnifred"
 msgid "Go on now. Get goin'."
-msgstr ""
+msgstr "Allez, file maintenant. Ouste."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_third_encounter/0/0 winnifred_waterheater/Winnifred_realize_return/0/0
 msgctxt "Winnifred"
 msgid "Well, look who's back!"
-msgstr ""
+msgstr "Tiens, regardez qui revient !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_third_encounter/0/8
 msgctxt "Winnifred"
 msgid "Be honest this time. What made you slide way back this way?"
-msgstr ""
+msgstr "Sois honnête cette fois. Qu'est-ce qui t'a fait glisser jusqu'ici ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_third_encounter/0/16
 msgctxt "Winnifred"
 msgid "Not that I mind seeing you again. Just curious."
-msgstr ""
+msgstr "C'est pas que ça me dérange de te revoir. Juste de la curiosité."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_third_encounter/0/24/s/0
 msgctxt "Choix"
 msgid "You never did tell me that story."
-msgstr ""
+msgstr "Tu ne m'as jamais raconté cette histoire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_third_encounter/0/25/s/0
 msgctxt "Choix"
 msgid "I'm curious about you and River."
-msgstr ""
+msgstr "Je suis {{curieux|curieuse|curieux·se}} de savoir pour toi et River."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_third_encounter/0/26/s/0
 msgctxt "Choix"
 msgid "Is it a crime to come see someone so beautiful?"
-msgstr ""
+msgstr "C'est un crime de venir voir quelqu'un d'aussi beau ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/0
 msgctxt "Winnifred"
 msgid "Ooooo, sweetheart. Do I have a story for <b>you!</b>"
-msgstr ""
+msgstr "Oooo, mon coeur. J'ai une histoire pour <b>toi !</b>"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/8
 msgctxt "Winnifred"
 msgid "So, as I was tryin' to say before, they used to take this long shower together, right?"
-msgstr ""
+msgstr "Alors, comme je tentais de le dire, ils prenaient cette longue douche ensemble, hein ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/16
 msgctxt "Winnifred"
 msgid "So long that it was a struggle for me to keep things hot in there for 'em."
-msgstr ""
+msgstr "Si longue que j'avais du mal à garder ça chaud là-dedans pour eux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/24
 msgctxt "Winnifred"
 msgid "And I would hear laughin' and gigglin' and... sometimes other sounds that I'd rather not repeat."
-msgstr ""
+msgstr "Et j'entendais des rires et des gloussements et... parfois d'autres bruits que je préfère ne pas répéter."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/32/s/0
 msgctxt "Choix"
 msgid "Oooo, spicy!"
-msgstr ""
+msgstr "Oooo, épicé !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/33/s/0
 msgctxt "Choix"
 msgid "This IS a good story!"
-msgstr ""
+msgstr "C'EST une bonne histoire !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/0
 msgctxt "Winnifred"
 msgid "Well, there was one time that they got into a spat that lasted all night."
-msgstr ""
+msgstr "Eh bien, une fois, ils ont eu une prise de bec qui a duré toute la nuit."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/8
 msgctxt "Winnifred"
 msgid "See, what happened was one of them got on social media and liked someone else's photos."
-msgstr ""
+msgstr "Voilà ce qui s'est passé : l'un d'eux est allé sur les réseaux et a aimé les photos de quelqu'un d'autre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/16
 msgctxt "Winnifred"
 msgid "And, not just one photo either. Nope. They liked 14 of 'em."
-msgstr ""
+msgstr "Et pas qu'une photo. Non, non. Ils en ont aimé 14."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/24
 msgctxt "Winnifred"
 msgid "When they were confronted, there was no denying it. Confessed right away. They knew they were in hot water."
-msgstr ""
+msgstr "Quand on l'a confronté, impossible de nier. Aveux immédiats. Ils savaient qu'ils étaient dans l'eau chaude."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/32
 msgctxt "Winnifred"
 msgid "Not like there was any point in lying about it. The proof was in the digital puddin'."
-msgstr ""
+msgstr "Pas la peine de mentir de toute façon. La preuve était dans le pudding numérique."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/40
 msgctxt "Winnifred"
 msgid "They were made to sleep on the couch for about a week. The words <i>\"14 pictures\"</i> was being thrown their way for days."
-msgstr ""
+msgstr "Ils ont dû dormir sur le canapé pendant environ une semaine. Les mots <i>« 14 photos »</i> leur ont été lancés pendant des jours."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/48
 msgctxt "Winnifred"
 msgid "See, Phoenecia's up on all those apps, but I know that none of that stuff is real, you know?"
-msgstr ""
+msgstr "Tu vois, Phoenecia connaît toutes ces applis, mais moi je sais que tout ça, c'est pas réel, tu comprends ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/56
 msgctxt "Winnifred"
 msgid "If the cloud vanished tomorrow, so would those little thumbs up. But, their relationship would still be there."
-msgstr ""
+msgstr "Si le cloud disparaissait demain, ces petits pouces levés aussi. Mais leur relation, elle, serait toujours là."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/64
 msgctxt "Winnifred"
 msgid "But, I thought for sure that was gonna be the end of them."
-msgstr ""
+msgstr "Pourtant, j'étais sûre que ça allait être la fin pour eux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/72
 msgctxt "Winnifred"
 msgid "Can you believe that?"
-msgstr ""
+msgstr "Tu y crois, toi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/80/s/0
 msgctxt "Choix"
 msgid "14 photos?! They might as well be cheating!"
-msgstr ""
+msgstr "14 photos ?! Autant dire qu'ils trompaient !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/81/s/0
 msgctxt "Choix"
 msgid "Sounds like they weren't great at communicating."
-msgstr ""
+msgstr "On dirait qu'ils savaient pas trop communiquer."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants/0/g-0/82/s/0
 msgctxt "Choix"
 msgid "Psh. So? What's the big deal? They are just photos."
-msgstr ""
+msgstr "Pfff. Et alors ? C'est quoi le problème ? C'est juste des photos."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/6
 msgctxt "Winnifred"
 msgid "Well, hold on now. You really think so?"
-msgstr ""
+msgstr "Doucement, attends. Tu penses vraiment ça ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/14/s/0
 msgctxt "Choix"
 msgid "Yeah! Don't you?"
-msgstr ""
+msgstr "Ouais ! Pas toi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-0/7
 msgctxt "Winnifred"
 msgid "I think it can be more complicated than that. They are just photos online."
-msgstr ""
+msgstr "Je pense que ça peut être plus compliqué que ça. C'est juste des photos en ligne."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-1/7
 msgctxt "Winnifred"
 msgid "Wouldn't you ask questions about what is going on?"
-msgstr ""
+msgstr "Tu poserais pas de questions sur ce qui se passe ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "You might as well end it there. It's over!"
-msgstr ""
+msgstr "Autant en finir là. C'est fini !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-1/15/c-0/7
 msgctxt "Winnifred"
 msgid "Over?"
-msgstr ""
+msgstr "Fini ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "O-V-E-R."
-msgstr ""
+msgstr "F-I-N-I."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-1/15/c-0/15/c-0/7
 msgctxt "Winnifred"
 msgid "Well, I think there is more to it than that."
-msgstr ""
+msgstr "Eh bien, je pense qu'il y a plus que ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-1/15/c-0/15/c-0/15
 msgctxt "Winnifred"
 msgid "I could see how someone would be worried about something like that, though."
-msgstr ""
+msgstr "Je comprends que quelqu'un s'inquiète pour un truc pareil, cela dit."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/c-1/15/c-0/15/c-0/23
 msgctxt "Winnifred"
 msgid "But, honey, I'll tell you what. If I got worried every time someone I was interested in looked at someone else, I'd be boiling mad all the time."
-msgstr ""
+msgstr "Mais, mon coeur, je vais te dire. Si je m'inquiétais à chaque fois que quelqu'un qui m'intéresse regarde quelqu'un d'autre, je serais en ébullition tout le temps."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Are you above jealousy or something?"
-msgstr ""
+msgstr "Tu es au-dessus de la jalousie ou quoi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "I think you're lying to yourself."
-msgstr ""
+msgstr "Je crois que tu te mens à toi-même."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/0
 msgctxt "Winnifred"
 msgid "Oh, I'll admit it, I get jealous like everyone else. I ain't above it. But take what River and I have for instance."
-msgstr ""
+msgstr "Oh, je l'avoue, je suis jalouse comme tout le monde. J'y échappe pas. Mais prends River et moi, par exemple."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/8
 msgctxt "Winnifred"
 msgid "While it is very complicated, River is her own liquid. Until we set boundaries and clear expectations, I can't be mad at her for pouring herself into another cup as well."
-msgstr ""
+msgstr "C'est très compliqué, mais River est son propre liquide. Tant qu'on n'a pas posé de limites et d'attentes claires, je peux pas lui en vouloir de se verser aussi dans une autre tasse."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/16
 msgctxt "Winnifred"
 msgid "You get what I'm saying?"
-msgstr ""
+msgstr "Tu vois ce que je veux dire ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/0/s/0
 msgctxt "Choix"
 msgid "Not at all."
-msgstr ""
+msgstr "Pas du tout."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/1/s/0
 msgctxt "Choix"
 msgid "I mean, I guess we don't know what was previously agreed upon."
-msgstr ""
+msgstr "Enfin, je crois qu'on ne sait pas ce qu'ils avaient convenu avant."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-0/7
 msgctxt "Narrator"
 msgid "Winnifred sighs, her shoulders sagging."
-msgstr ""
+msgstr "Winnifred soupire, les épaules affaissées."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-0/18
 msgctxt "Winnifred"
 msgid "Okay well... I guess that's where you and I are gonna have to agree to disagree."
-msgstr ""
+msgstr "Bon, eh bien... je crois que sur ce point, on va devoir accepter de ne pas être d'accord."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-1/7
 msgctxt "Winnifred"
 msgid "Exactly! So you do get it!"
-msgstr ""
+msgstr "Exactement ! Alors tu comprends !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-1/18
 msgctxt "Winnifred"
 msgid "It's the downside of being in here. I only ever hear the loud conversations."
-msgstr ""
+msgstr "C'est l'inconvénient d'être là-dedans. J'entends que les conversations bruyantes."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-1/26
 msgctxt "Winnifred"
 msgid "Or the ones near pipes."
-msgstr ""
+msgstr "Ou celles près des tuyaux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-1/34/0/s/0
 msgctxt "Choix"
 msgid "I didn't say all that. I still think it's cheating."
-msgstr ""
+msgstr "Je n'ai pas dit tout ça. Je trouve toujours que c'est tromper."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-1/34/c-0/7
 msgctxt "Winnifred"
 msgid "Oh. I guess we just won't be in alignment on this one."
-msgstr ""
+msgstr "Oh. Je crois qu'on sera pas d'accord là-dessus, alors."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_a/0/g-1/24/c-1/34/c-0/19
 msgctxt "Winnifred"
 msgid "I knew you would. Everything comes down to communication."
-msgstr ""
+msgstr "Je savais que tu comprendrais. Tout revient à la communication."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/0
 msgctxt "Winnifred"
 msgid "See, that right there is what I think the secret is."
-msgstr ""
+msgstr "Tu vois, c'est ça, le secret, d'après moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/8
 msgctxt "Winnifred"
 msgid "I don't care who you are or what you thinkin' bout', you have to talk to your partner!"
-msgstr ""
+msgstr "Peu importe qui t'es ou à quoi tu penses, faut parler à ton partenaire !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/16/s/0
 msgctxt "Choix"
 msgid "Just like you've told River about Washford?"
-msgstr ""
+msgstr "Comme tu as parlé à River de Washford ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/17/s/0
 msgctxt "Choix"
 msgid "But that's easier said than done."
-msgstr ""
+msgstr "Mais c'est plus facile à dire qu'à faire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/c-0/7
 msgctxt "Narrator"
 msgid "Winnifred narrows her eyes at you, but her expression remains sweet and playful."
-msgstr ""
+msgstr "Winnifred plisse les yeux en vous regardant, mais son expression reste douce et enjouée."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/c-0/15
 msgctxt "Winnifred"
 msgid "Now, didn't nobody tell you to be nosey like that."
-msgstr ""
+msgstr "Personne t'a dit de fourrer ton nez partout comme ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/c-0/23
 msgctxt "Winnifred"
 msgid "Just because you cute don't mean you can say whatever you want now."
-msgstr ""
+msgstr "C'est pas parce que t'es adorable que tu peux dire tout ce que tu veux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/c-0/31
 msgctxt "Winnifred"
 msgid "Besides, River and I..."
-msgstr ""
+msgstr "Et puis, River et moi..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/c-1/7
 msgctxt "Winnifred"
 msgid "Very true. Communication is difficult. But, I listen to folks all day. Mostly just wantin' something from me. But still, I listen!"
-msgstr ""
+msgstr "Très vrai. Communiquer, c'est dur. Mais moi, j'écoute les gens toute la journée. Surtout des gens qui veulent quelque chose de moi. Mais j'écoute quand même !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/c-1/15
 msgctxt "Winnifred"
 msgid "Calm and open communication. Open the valve. Talk through it. That's what I say."
-msgstr ""
+msgstr "Une communication calme et ouverte. Ouvre la vanne. Parles-en. C'est ce que je dis."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Still... I don't think you should be liking other people's photos."
-msgstr ""
+msgstr "Quand même... je pense pas que tu devrais aimer les photos des autres."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "If you care about someone, the least you owe them is a conversation."
-msgstr ""
+msgstr "Quand on tient à quelqu'un, le minimum, c'est de lui devoir une conversation."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-2/7
 msgctxt "Winnifred"
 msgid "Oh. Okay. Yeah, I can see how you would feel that way."
-msgstr ""
+msgstr "Oh. D'accord. Ouais, je vois comment tu peux le ressentir comme ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "You don't agree? I think you're wrong about this."
-msgstr ""
+msgstr "Tu n'es pas d'accord ? Je crois que tu as tort là-dessus."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Different strokes for different folks. I'd get too jealous."
-msgstr ""
+msgstr "Chacun son truc. Moi, je serais trop {{jaloux|jalouse|jaloux·se}}."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-2/15/c-0/7 winnifred_waterheater/previous_tenants_b/0/g-0/c-2/15/c-1/7
 msgctxt "Narrator"
 msgid "Winnifred looks disappointed in you."
-msgstr ""
+msgstr "Winnifred a l'air déçue de vous."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-2/15/c-0/18
 msgctxt "Winnifred"
 msgid "Well, that's one way to look at it, I guess."
-msgstr ""
+msgstr "Eh bien, c'est une façon de voir les choses, j'imagine."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-2/15/c-1/24
 msgctxt "Winnifred"
 msgid "Understandable."
-msgstr ""
+msgstr "Compréhensible."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-2/15/c-1/32
 msgctxt "Winnifred"
 msgid "<i>...and noted.</i>"
-msgstr ""
+msgstr "<i>...et noté.</i>"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-3/7
 msgctxt "Winnifred"
 msgid "I agree with you with my entire tank! You got the right idea!"
-msgstr ""
+msgstr "Je suis d'accord avec toi de toute ma cuve ! T'as tout compris !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-3/24/0/s/0
 msgctxt "Choix"
 msgid "Have you had a conversation with River? I mean, I know you like her."
-msgstr ""
+msgstr "Tu as parlé avec River ? Je sais que tu l'aimes bien."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-3/24/1/s/0
 msgctxt "Choix"
 msgid "I just know it couldn't be me in that situation."
-msgstr ""
+msgstr "Je sais juste que moi, je pourrais pas être dans cette situation."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-3/24/c-0/7
 msgctxt "Winnifred"
 msgid "...not yet. But I don't know if I have to."
-msgstr ""
+msgstr "...pas encore. Mais je sais pas si j'en ai besoin."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_b/0/g-0/c-3/24/c-1/7
 msgctxt "Winnifred"
 msgid "Everyone has their tolerance levels with those things."
-msgstr ""
+msgstr "Chacun a son niveau de tolérance pour ces choses-là."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/6
 msgctxt "Winnifred"
 msgid "You know, I was thinkin' the same thing the whole time."
-msgstr ""
+msgstr "Tu sais, je pensais exactement la même chose depuis le début."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/14
 msgctxt "Winnifred"
 msgid "I'm down here hearin' them carry on and just wonderin' why, ya know?"
-msgstr ""
+msgstr "Je suis ici à les entendre se disputer et je me demande juste pourquoi, tu vois ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/22
 msgctxt "Winnifred"
 msgid "Now, I will say, I don't know the boundaries of their relationship."
-msgstr ""
+msgstr "Cela dit, je connais pas les limites de leur relation."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/30
 msgctxt "Winnifred"
 msgid "Who knows what rules and regulations they choose to abide by when entering into courtship."
-msgstr ""
+msgstr "Qui sait quelles règles ils choisissent de respecter quand ils entament une cour."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/38
 msgctxt "Winnifred"
 msgid "But, I'll tell you what really bothered me about the whole thing."
-msgstr ""
+msgstr "Mais je vais te dire ce qui m'a vraiment gênée dans toute cette histoire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/46
 msgctxt "Winnifred"
 msgid "There felt like... some kind of unspoken expectation that wasn't being met."
-msgstr ""
+msgstr "Il y avait comme... une sorte d'attente tacite qui n'était pas comblée."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/54
 msgctxt "Winnifred"
 msgid "That don't seem fair to either one of'em."
-msgstr ""
+msgstr "Ça me semble pas juste pour aucun des deux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/62/s/0
 msgctxt "Choix"
 msgid "Does River expect anything of you?"
-msgstr ""
+msgstr "River attend quelque chose de toi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/63/s/0
 msgctxt "Choix"
 msgid "What expectations are you holding Washford to?"
-msgstr ""
+msgstr "Qu'attends-tu de Washford ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/c-0/7
 msgctxt "Winnifred"
 msgid "Well... actually... I don't know."
-msgstr ""
+msgstr "Eh bien... en fait... je sais pas."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_c/0/c-1/7
 msgctxt "Winnifred"
 msgid "Oh, so you got deep questions today!"
-msgstr ""
+msgstr "Oh, t'as des questions profondes aujourd'hui !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/0
 msgctxt "Winnifred"
 msgid "Mmmhmmm. I knew that's why you came to talk with me."
-msgstr ""
+msgstr "Mmmhmmm. Je savais que c'était pour ça que tu étais {{venu|venue|venu·e}} me parler."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/8
 msgctxt "Winnifred"
 msgid "How 'bout this. I'll let you ask one question about it. Anything you want."
-msgstr ""
+msgstr "Que dirais-tu de ça : je te laisse poser une question là-dessus. N'importe laquelle."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/16
 msgctxt "Winnifred"
 msgid "Well... ALMOST anything you want."
-msgstr ""
+msgstr "Enfin... PRESQUE n'importe laquelle."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/24/s/0
 msgctxt "Choix"
 msgid "What's the line?"
-msgstr ""
+msgstr "Où est la limite ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/c-0/7
 msgctxt "Winnifred"
 msgid "I ain't givin' you no details, I'll tell you that much."
-msgstr ""
+msgstr "Je te donnerai pas de détails, ça, je peux te le dire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Don't worry. I'll respect your boundaries."
-msgstr ""
+msgstr "Pas d'inquiétude. Je respecterai tes limites."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/c-0/15/c-0/7
 msgctxt "Winnifred"
 msgid "I do appreciate that, honey."
-msgstr ""
+msgstr "J'apprécie, mon coeur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/c-0/15/c-0/18
 msgctxt "Winnifred"
 msgid "See, I knew all those things everyone else was saying about you was wrong."
-msgstr ""
+msgstr "Tu vois, je savais que tout ce que les autres disaient de toi, c'était faux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/c-0/15/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "People have been saying things about me??"
-msgstr ""
+msgstr "Les gens parlent de moi ??"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/c-0/15/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "So I'm the talk of the town?"
-msgstr ""
+msgstr "Alors je suis la star du quartier ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/g-0/0
 msgctxt "Winnifred"
 msgid "I'm pullin' your leg. And even if they were, I wouldn't listen."
-msgstr ""
+msgstr "Je te fais marcher. Et même si c'était vrai, je les écouterais pas."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/g-0/8
 msgctxt "Winnifred"
 msgid "Life ain't about lettin' others tell you what to feel about people."
-msgstr ""
+msgstr "La vie, c'est pas laisser les autres te dire ce que tu dois ressentir pour les gens."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/g-0/16
 msgctxt "Winnifred"
 msgid "I like to make up my own mind about folks."
-msgstr ""
+msgstr "J'aime me faire ma propre idée des gens."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/g-0/24
 msgctxt "Winnifred"
 msgid "But I know you ain't here to listen about my philosophy. You have a question. What is it you want to know?"
-msgstr ""
+msgstr "Mais je sais que tu es pas là pour écouter ma philosophie. Tu as une question. Qu'est-ce que tu veux savoir ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "How long have you and River been a thing?"
-msgstr ""
+msgstr "Ça fait combien de temps que toi et River, c'est un truc ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "How much does Washford know about you and River?"
-msgstr ""
+msgstr "Qu'est-ce que Washford sait de toi et River ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/hot_water/0/g-0/34/s/0
 msgctxt "Choix"
 msgid "Since you're talking to River... do I have a chance with you?"
-msgstr ""
+msgstr "Puisque tu parles à River... est-ce que j'ai une chance avec toi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/0
 msgctxt "Winnifred"
 msgid "Well, I wouldn't say that we really a thing. Not in like the way that you think of a thing."
-msgstr ""
+msgstr "Eh bien, je dirais pas qu'on est vraiment un truc. Pas comme tu l'entends."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/8
 msgctxt "Winnifred"
 msgid "Which is not to say that I know what you consider a thing. But, from what you are sayin', you consider River and I to be a thing."
-msgstr ""
+msgstr "Ce qui veut pas dire que je sais ce que tu appelles un truc. Mais d'après ce que tu dis, tu considères River et moi comme un truc."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/16
 msgctxt "Winnifred"
 msgid "Really... honestly... it's complicated."
-msgstr ""
+msgstr "Vraiment... honnêtement... c'est compliqué."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/24
 msgctxt "Narrator"
 msgid "Winnifred's expression softens as she thinks about River. It takes her a few moments to find her words."
-msgstr ""
+msgstr "L'expression de Winnifred s'adoucit quand elle pense à River. Il lui faut quelques instants pour trouver ses mots."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/32
 msgctxt "Winnifred"
 msgid "River and I have been workin' so closely for so long, that things just kind of... clicked? I guess that's the word for it."
-msgstr ""
+msgstr "River et moi, on travaille si étroitement depuis si longtemps que les choses se sont comme... emboîtées ? Je crois que c'est le mot."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/40
 msgctxt "Winnifred"
 msgid "There are certain things in life you just click with. Those that just get you and what you are about and tryin' to do."
-msgstr ""
+msgstr "Dans la vie, il y a des gens avec qui ça fait clic. Ceux qui te comprennent, qui comprennent ce que tu es et ce que tu essaies de faire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/48
 msgctxt "Winnifred"
 msgid "River is one of those. And, honestly, she's made my job so much easier. I was warned that I could have ended up with super hard water."
-msgstr ""
+msgstr "River est de ceux-là. Et honnêtement, elle m'a rendu le boulot tellement plus facile. On m'avait prévenue que je pouvais me retrouver avec de l'eau très dure."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/56
 msgctxt "Winnifred"
 msgid "But that's not River at all. Everything just flows between us."
-msgstr ""
+msgstr "Mais River, c'est pas ça du tout. Tout coule de source entre nous."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/64
 msgctxt "Winnifred"
 msgid "When you have that kind of flow, sometimes you just slide into things with each other. And that's what we've done."
-msgstr ""
+msgstr "Quand on a ce genre de flux, parfois on glisse l'un vers l'autre. Et c'est ce qu'on a fait."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/72
 msgctxt "Winnifred"
 msgid "She's been there for me, and I've been there for her."
-msgstr ""
+msgstr "Elle a été là pour moi, et j'ai été là pour elle."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/80/s/0
 msgctxt "Choix"
 msgid "Are you in love with her?"
-msgstr ""
+msgstr "Tu es amoureuse d'elle ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/81/s/0
 msgctxt "Choix"
 msgid "Have you told River all of this?"
-msgstr ""
+msgstr "Tu as dit tout ça à River ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/g-0/0
 msgctxt "Winnifred"
 msgid "Oh, you think you slick! I said one question and one question only. You don't like the answer?"
-msgstr ""
+msgstr "Oh, tu crois m'avoir ! J'ai dit une question et une seule. La réponse te plaît pas ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/river_relationship_explained/0/g-0/8
 msgctxt "Winnifred"
 msgid "Now, it's my turn to ask a question."
-msgstr ""
+msgstr "Maintenant, c'est à mon tour de poser une question."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/0
 msgctxt "Winnifred"
 msgid "I'm not sure what you mean by that."
-msgstr ""
+msgstr "Je vois pas bien ce que tu veux dire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/8
 msgctxt "Winnifred"
 msgid "River and I aren't together, really. Unless River and Washford spend their time talkin' about me, I'm not sure how much Washford knows about our social calls."
-msgstr ""
+msgstr "River et moi, on est pas vraiment ensemble. À moins que River et Washford passent leur temps à parler de moi, je sais pas ce que Washford sait de nos visites."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/16
 msgctxt "Winnifred"
 msgid "The time I spend with Washford is about us. That's where I focus my attentions."
-msgstr ""
+msgstr "Le temps que je passe avec Washford, c'est pour nous. C'est là que je concentre mon attention."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/24
 msgctxt "Winnifred"
 msgid "But... Washford and I haven't really got to spend too much time together. Not with Drysdale always around, getting into silly little arguments with him, I'm never really sure how he feels about me."
-msgstr ""
+msgstr "Mais... Washford et moi, on a pas vraiment pu passer beaucoup de temps ensemble. Avec Drysdale toujours dans les parages, à se chamailler avec lui pour des riens, je suis jamais sûre de ce qu'il ressent pour moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/32 winnifred_waterheater/washford_relationship_explained_b/0/g-0/24
 msgctxt "Winnifred"
 msgid "You know the artist type."
-msgstr ""
+msgstr "Tu connais le genre artiste."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/40/s/0 winnifred_waterheater/washford_relationship_explained_b/0/g-0/32/s/0 winnifred_waterheater/Winnifred_realize_join/0/60/s/0
 msgctxt "Choix"
 msgid "I sure do!"
-msgstr ""
+msgstr "Et comment !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/41/s/0 winnifred_waterheater/washford_relationship_explained_b/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "I don't, actually."
-msgstr ""
+msgstr "En fait, non."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/c-0/7
 msgctxt "Winnifred"
 msgid "Then you get it!"
-msgstr ""
+msgstr "Alors tu comprends !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/c-1/7
 msgctxt "Winnifred"
 msgid "Well then, count your blessings. It can be pretty tough to figure out where Washford will land with you on any given day."
-msgstr ""
+msgstr "Eh bien alors, mesure ta chance. C'est pas évident de savoir où Washford en sera avec toi, d'un jour à l'autre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-0/0 winnifred_waterheater/washford_relationship_explained_b/0/g-1/8
 msgctxt "Winnifred"
 msgid "Still, there's somethin' about him. And it's not just his looks that get me goin'."
-msgstr ""
+msgstr "N'empêche, il a un petit quelque chose. Et c'est pas que son physique qui me fait vibrer."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-0/8 winnifred_waterheater/washford_relationship_explained_b/0/g-1/16
 msgctxt "Winnifred"
 msgid "Whenever he talks to me, he's got me going every which way but loose."
-msgstr ""
+msgstr "Chaque fois qu'il me parle, il me met dans tous mes états."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-0/16 winnifred_waterheater/washford_relationship_explained_b/0/g-1/24
 msgctxt "Winnifred"
 msgid "But, it's complicated, you know? He's complicated."
-msgstr ""
+msgstr "Mais c'est compliqué, tu sais ? Il est compliqué."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-0/24 winnifred_waterheater/washford_relationship_explained_b/0/g-1/32
 msgctxt "Winnifred"
 msgid "But I'm never one to back down from a challenge."
-msgstr ""
+msgstr "Mais je suis jamais du genre à reculer devant un défi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-0/35/s/0 winnifred_waterheater/washford_relationship_explained_b/0/g-1/43/s/0
 msgctxt "Choix"
 msgid "Are you trying to get serious with Washford?"
-msgstr ""
+msgstr "Tu cherches à t'engager sérieusement avec Washford ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-0/36/s/0 winnifred_waterheater/washford_relationship_explained_b/0/g-1/44/s/0
 msgctxt "Choix"
 msgid "How much of your feelings does he know?"
-msgstr ""
+msgstr "Qu'est-ce qu'il sait de tes sentiments ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-1/0 winnifred_waterheater/washford_relationship_explained_b/0/g-2/0
 msgctxt "Winnifred"
 msgid "Well, if I'm being honest —"
-msgstr ""
+msgstr "Eh bien, pour être honnête —"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-1/8 winnifred_waterheater/washford_relationship_explained_b/0/g-2/8
 msgctxt "Winnifred"
 msgid "Wait a minute! Nope. That's another question."
-msgstr ""
+msgstr "Attends une minute ! Non. Ça, c'est une autre question."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-1/16 winnifred_waterheater/washford_relationship_explained_b/0/g-2/16
 msgctxt "Winnifred"
 msgid "One question is all you get."
-msgstr ""
+msgstr "Une question, c'est tout ce que tu as."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained/0/g-1/24 winnifred_waterheater/washford_relationship_explained_b/0/g-2/24
 msgctxt "Winnifred"
 msgid "Now, it's my turn!"
-msgstr ""
+msgstr "Maintenant, c'est mon tour !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/0
 msgctxt "Winnifred"
 msgid "I don't think I have any expectations of him."
-msgstr ""
+msgstr "Je crois que j'ai aucune attente envers lui."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/8
 msgctxt "Winnifred"
 msgid "Well, that's not true."
-msgstr ""
+msgstr "Enfin, c'est pas vrai."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/16
 msgctxt "Winnifred"
 msgid "I guess my expectation is that when we spend time together, I get his attention."
-msgstr ""
+msgstr "Je crois que j'attends que, quand on passe du temps ensemble, il m'accorde son attention."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/24
 msgctxt "Winnifred"
 msgid "In the same way as when I'm with him, ol' Winni ain't thinkin' 'bout nothin' or no one else."
-msgstr ""
+msgstr "De la même manière que, quand je suis avec lui, cette bonne vieille Winni pense à rien ni personne d'autre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/32
 msgctxt "Winnifred"
 msgid "But, it ain't like Washford and I get a heck of a lot of time together."
-msgstr ""
+msgstr "Mais Washford et moi, on a pas des tonnes de temps ensemble."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/41/s/0
 msgctxt "Choix"
 msgid "Is it because of Drysdale?"
-msgstr ""
+msgstr "C'est à cause de Drysdale ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/g-0/0
 msgctxt "Winnifred"
 msgid "His stage partner is always right there! They bicker back and forth all the time. It's cute to watch... at first."
-msgstr ""
+msgstr "Son partenaire de scène est toujours là ! Ils se chamaillent tout le temps. C'est mignon à regarder... au début."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/g-0/8
 msgctxt "Winnifred"
 msgid "After awhile though, you start to wonder why you're even standing there."
-msgstr ""
+msgstr "Au bout d'un moment, on se demande pourquoi on reste planté là."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/g-0/16
 msgctxt "Winnifred"
 msgid "So, I'm never really sure where I stand with Washford."
-msgstr ""
+msgstr "Alors je suis jamais vraiment sûre de ma place auprès de Washford."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/g-0/c-2/7
 msgctxt "Winnifred"
 msgid "Then you get it, sweetheart!"
-msgstr ""
+msgstr "Alors tu comprends, mon coeur !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/g-0/c-3/7
 msgctxt "Winnifred"
 msgid "Then count your blessings."
-msgstr ""
+msgstr "Alors mesure ta chance."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/washford_relationship_explained_b/0/g-1/0
 msgctxt "Winnifred"
 msgid "It's hard figuring out where Washford and I are."
-msgstr ""
+msgstr "C'est dur de savoir où Washford et moi, on en est."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/6
 msgctxt "Winnifred"
 msgid "OH SWEETHEART!"
-msgstr ""
+msgstr "OH MON COEUR !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/14
 msgctxt "Winnifred"
 msgid "I'll be honest, with all your snoopin' about my relationships, I thought you were just being nosey."
-msgstr ""
+msgstr "Je serai franche, avec toutes tes questions fouineuses sur mes relations, je croyais que tu étais juste indiscret."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/22
 msgctxt "Winnifred"
 msgid "But now that I know it's 'cause you like me..."
-msgstr ""
+msgstr "Mais maintenant que je sais que c'est parce que je te plais..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/30
 msgctxt "Narrator"
 msgid "Winnifred smiles so warmly, the very air in the room heats up."
-msgstr ""
+msgstr "Winnifred sourit si chaleureusement que l'air même de la pièce se réchauffe."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/38
 msgctxt "Winnifred"
 msgid "Listen, I'll tell you somethin'. My heart isn't really bound to any one somebody, okay?"
-msgstr ""
+msgstr "Écoute, je vais te dire un truc. Mon coeur est pas vraiment attaché à une seule personne, d'accord ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/46
 msgctxt "Winnifred"
 msgid "While you and I have just met, you know... I need more time to warm up to you..."
-msgstr ""
+msgstr "Toi et moi, on vient juste de se rencontrer, tu sais... il me faut plus de temps pour chauffer pour toi..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/54
 msgctxt "Winnifred"
 msgid "You've still got a shot, sweetheart."
-msgstr ""
+msgstr "Tu as encore ta chance, mon coeur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/62
 msgctxt "Winnifred"
 msgid "I know I'm hot, but I'll try not to burn you."
-msgstr ""
+msgstr "Je sais que je suis brûlante, mais je tâcherai de pas te brûler."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/70
 msgctxt "Winnifred"
 msgid "How that sound?"
-msgstr ""
+msgstr "Ça te va ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/78/s/0
 msgctxt "Choix"
 msgid "What do I have to do to get to your heart?"
-msgstr ""
+msgstr "Que dois-je faire pour atteindre ton coeur ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/79/s/0
 msgctxt "Choix"
 msgid "You really think I have a chance with you?"
-msgstr ""
+msgstr "Tu crois vraiment que j'ai une chance avec toi ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/c-0/7
 msgctxt "Winnifred"
 msgid "I thought we agreed on one question. Hehe."
-msgstr ""
+msgstr "Je croyais qu'on s'était mis d'accord sur une seule question. Hehe."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/c-0/15
 msgctxt "Winnifred"
 msgid "That's just somethin' you're gonna have to find out."
-msgstr ""
+msgstr "Ça, faudra que tu le découvres toi-même."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/c-1/7
 msgctxt "Winnifred"
 msgid "The deal was a single question. You either trust me, or you don't."
-msgstr ""
+msgstr "Le marché, c'était une seule question. Soit tu me fais confiance, soit non."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/player_relationship_explained/0/g-0/0
 msgctxt "Winnifred"
 msgid "Now... I get to ask you somethin', don't I?"
-msgstr ""
+msgstr "Maintenant... j'ai le droit de te demander quelque chose, non ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/6
 msgctxt "Winnifred"
 msgid "You are just... somethin' else!"
-msgstr ""
+msgstr "T'es vraiment... unique en ton genre !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/14
 msgctxt "Winnifred"
 msgid "No, it's not a crime to come and see me."
-msgstr ""
+msgstr "Non, c'est pas un crime de venir me voir."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/22
 msgctxt "Winnifred"
 msgid "Although, I could have you detained for tryin' to be slick!"
-msgstr ""
+msgstr "Même si je pourrais te faire arrêter pour avoir tenté de faire le malin !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/30
 msgctxt "Winnifred"
 msgid "Hehehe."
-msgstr ""
+msgstr "Hehehe."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/38
 msgctxt "Winnifred"
 msgid "But, us just lookin' at each other ain't my idea of a good time."
-msgstr ""
+msgstr "Mais se regarder dans le blanc des yeux, c'est pas mon idée d'un bon moment."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/46
 msgctxt "Winnifred"
 msgid "Surely there is somethin' else you came down here to talk to me about."
-msgstr ""
+msgstr "Il y a sûrement autre chose dont tu es {{venu|venue|venu·e}} me parler."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/54/s/0
 msgctxt "Choix"
 msgid "The deets about you and River!"
-msgstr ""
+msgstr "Les détails sur toi et River !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/warming_up/0/55/s/0
 msgctxt "Choix"
 msgid "You still owe me a story."
-msgstr ""
+msgstr "Tu me dois encore une histoire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/question_the_player/0/0
 msgctxt "Winnifred"
 msgid "Now, since you wanna be diggin' for gold in my pan, I got a question for you."
-msgstr ""
+msgstr "Maintenant, puisque tu veux chercher de l'or dans ma batée, j'ai une question pour toi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/question_the_player/0/8
 msgctxt "Winnifred"
 msgid "Have you ever liked more than one person at a time?"
-msgstr ""
+msgstr "Tu as déjà aimé plus d'une personne à la fois ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/question_the_player/0/16/s/0
 msgctxt "Choix"
 msgid "Never. It gets too complicated for me."
-msgstr ""
+msgstr "Jamais. Ça devient trop compliqué pour moi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/question_the_player/0/17/s/0
 msgctxt "Choix"
 msgid "It's happened to me before, yeah."
-msgstr ""
+msgstr "Ça m'est déjà arrivé, ouais."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/question_the_player/0/18/s/0
 msgctxt "Choix"
 msgid "Oh, all the time."
-msgstr ""
+msgstr "Oh, tout le temps."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/question_the_player/0/19/s/0
 msgctxt "Choix"
 msgid "It's happening right now!"
-msgstr ""
+msgstr "Ça m'arrive en ce moment même !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/no_multiple/6
 msgctxt "Winnifred"
 msgid "Now that's an easy answer for you."
-msgstr ""
+msgstr "Là, c'est une réponse facile pour toi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/no_multiple/14
 msgctxt "Winnifred"
 msgid "That kinda surprises me."
-msgstr ""
+msgstr "Ça me surprend un peu."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/no_multiple/22
 msgctxt "Winnifred"
 msgid "The heart is a complicated thing and often, I find it likes being that way."
-msgstr ""
+msgstr "Le coeur, c'est compliqué, et souvent, je trouve qu'il aime ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/no_multiple/30
 msgctxt "Winnifred"
 msgid "No matter how much we try to sort it out."
-msgstr ""
+msgstr "Peu importe combien on essaie de démêler tout ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/no_multiple/38
 msgctxt "Winnifred"
 msgid "But, you seem like you've got it all together. Which is awesome!"
-msgstr ""
+msgstr "Mais toi, tu as l'air d'avoir tout bien en main. Ce qui est génial !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/maybe_multiple/0/0
 msgctxt "Winnifred"
 msgid "Really. And uhh... what did you do about it?"
-msgstr ""
+msgstr "Vraiment. Et euh... qu'est-ce que tu as fait ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/maybe_multiple/0/8/s/0
 msgctxt "Choix"
 msgid "I kinda let it ride. It'll all shake out."
-msgstr ""
+msgstr "Je laisse un peu courir. Ça finira par s'arranger."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/maybe_multiple/0/9/s/0
 msgctxt "Choix"
 msgid "Oh, I pick one person to focus on and drop the others."
-msgstr ""
+msgstr "Oh, je choisis une personne sur qui me concentrer et je laisse tomber les autres."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/maybe_multiple/0/c-0/13
 msgctxt "Winnifred"
 msgid "See, I like that. You let your heart do what it needs to do."
-msgstr ""
+msgstr "Tu vois, ça me plaît. Tu laisses ton coeur faire ce qu'il a à faire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/maybe_multiple/0/c-1/13
 msgctxt "Winnifred"
 msgid "I see..."
-msgstr ""
+msgstr "Je vois..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/maybe_multiple/0/g-0/0
 msgctxt "Winnifred"
 msgid "You know how you handle the situation when it comes up, and that's really what matters."
-msgstr ""
+msgstr "Tu sais comment gérer la situation quand elle se présente, et c'est ça qui compte vraiment."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/6
 msgctxt "Narrator"
 msgid "Winnifred nods, confident and pleased with herself."
-msgstr ""
+msgstr "Winnifred hoche la tête, confiante et contente d'elle."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/14
 msgctxt "Winnifred"
 msgid "I knew it. Somethin' just told me."
-msgstr ""
+msgstr "Je le savais. Quelque chose me le disait."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/25
 msgctxt "Winnifred"
 msgid "You look like someone with the capacity to hold affection for a lot of people inside you."
-msgstr ""
+msgstr "Tu as l'air d'une personne capable de porter de l'affection pour beaucoup de monde."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/33
 msgctxt "Winnifred"
 msgid "When you find yourself in these situations, what do you do?"
-msgstr ""
+msgstr "Quand tu te retrouves dans ces situations, qu'est-ce que tu fais ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/41/s/0
 msgctxt "Choix"
 msgid "I'll eventually narrow down to one."
-msgstr ""
+msgstr "Je finis par n'en garder qu'une."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/42/s/0
 msgctxt "Choix"
 msgid "I let my heart guide me. I don't put limits on it."
-msgstr ""
+msgstr "Je laisse mon coeur me guider. Je lui impose aucune limite."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/43/s/0
 msgctxt "Choix"
 msgid "The more the merrier, as far as I'm concerned!"
-msgstr ""
+msgstr "Plus on est de fous, plus on rit, pour moi !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/yes_multiple/0/g-0/0
 msgctxt "Winnifred"
 msgid "Oh, so you've figured out where it all sits with you. Yeah, that's the important part."
-msgstr ""
+msgstr "Oh, alors t'as compris où tout ça se situe pour toi. Ouais, c'est l'important."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/3
 msgctxt "River"
 msgid "Winnif- ...ah."
-msgstr ""
+msgstr "Winnif- ...ah."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/11
 msgctxt "River"
 msgid "Company again?"
-msgstr ""
+msgstr "De la visite encore ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/19
 msgctxt "Winnifred"
 msgid "I think we were just wrapping up, actually."
-msgstr ""
+msgstr "On était justement en train de terminer, en fait."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/27
 msgctxt "River"
 msgid "Oh, alright. Well... I have a message for you."
-msgstr ""
+msgstr "Oh, d'accord. Bon... j'ai un message pour toi."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/35
 msgctxt "Winnifred"
 msgid "From who? Washford?"
-msgstr ""
+msgstr "De qui ? Washford ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/43
 msgctxt "River"
 msgid "Oh no no no. This one is from..."
-msgstr ""
+msgstr "Oh non non non. Celui-là est de..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/51
 msgctxt "Narrator"
 msgid "She looks over at you, but when Winnifred doesn't object, she just shrugs."
-msgstr ""
+msgstr "Elle vous jette un regard, mais comme Winnifred ne s'y oppose pas, elle hausse simplement les épaules."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/62
 msgctxt "River"
 msgid "Bathsheba."
-msgstr ""
+msgstr "Bathsheba."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/70
 msgctxt "Winnifred"
 msgid "Oh! Well, I... wait, you sure it's from Bathsheba?"
-msgstr ""
+msgstr "Oh ! Eh bien, je... attends, t'es sûre que c'est de Bathsheba ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/78
 msgctxt "River"
 msgid "Wouldn't say it if I wasn't sure."
-msgstr ""
+msgstr "Je le dirais pas si j'étais pas sûre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/86
 msgctxt "Winnifred"
 msgid "Really?"
-msgstr ""
+msgstr "Vraiment ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/94
 msgctxt "River"
 msgid "Come on, Win... bad enough I have to play messenger between you two."
-msgstr ""
+msgstr "Allez, Win... c'est déjà assez pénible de devoir faire le messager entre vous deux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/102
 msgctxt "River"
 msgid "She said she has something important to say to you and that you should..."
-msgstr ""
+msgstr "Elle dit qu'elle a quelque chose d'important à te dire et que tu devrais..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/110
 msgctxt "River"
 msgid "Shake the pipes and give her a call."
-msgstr ""
+msgstr "Secouer les tuyaux et l'appeler."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/118
 msgctxt "Winnifred"
 msgid "Okay! I'll do just that!"
-msgstr ""
+msgstr "D'accord ! C'est ce que je vais faire !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/129
 msgctxt "Narrator"
 msgid "River looks relieved to be done, though still grumpy about her assignment."
-msgstr ""
+msgstr "River a l'air soulagée d'en avoir fini, bien que toujours grincheuse de sa mission."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/137
 msgctxt "River"
 msgid "Well... whatever. See you later."
-msgstr ""
+msgstr "Bon... peu importe. À plus tard."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/145
 msgctxt "Winnifred"
 msgid "You know where to find me!"
-msgstr ""
+msgstr "Tu sais où me trouver !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/156/s/0
 msgctxt "Choix"
 msgid "Bathsheba, too! Damn, girl!"
-msgstr ""
+msgstr "Bathsheba aussi ! Bravo, ma belle !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/157/s/0
 msgctxt "Choix"
 msgid "Ooooooo, Winny!"
-msgstr ""
+msgstr "Oooooooh, Winny !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/158/s/0
 msgctxt "Choix"
 msgid "Bathsheba wants you too? You go, Winnifred!"
-msgstr ""
+msgstr "Bathsheba te veut aussi ? Vas-y, Winnifred !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/c-0/7
 msgctxt "Winnifred"
 msgid "What? I have no idea what you're talkin' about, sweetheart."
-msgstr ""
+msgstr "Quoi ? Je vois pas du tout de quoi tu parles, mon coeur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/c-1/7
 msgctxt "Winnifred"
 msgid "Hey now! You can't call me Winny. Only Washford can... and maybe River and Bathsheba. But not you, darlin!"
-msgstr ""
+msgstr "Hé là ! Tu peux pas m'appeler Winny. Y a que Washford qui peut... et peut-être River et Bathsheba. Mais pas toi, mon ange !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/c-2/13
 msgctxt "Winnifred"
 msgid "Hehehe. When you're hot, you're hot!"
-msgstr ""
+msgstr "Hehehe. Quand on est chaude, on est chaude !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/g-0/0
 msgctxt "Winnifred"
 msgid "Why don't you head on out? I ain't trying to kick you out, but I'd just rather take this conversation in private."
-msgstr ""
+msgstr "Pourquoi tu t'en irais pas ? J'essaie pas de te mettre à la porte, mais je préférerais avoir cette conversation en privé."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/third_encounter_wrapup/0/g-0/8
 msgctxt "Winnifred"
 msgid "I'll see you around, sweetheart."
-msgstr ""
+msgstr "À bientôt, mon coeur."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/0
 msgctxt "Winnifred"
 msgid "You keep comin' in here lookin' for me. I'm startin' to think you like talkin' to me or somethin'."
-msgstr ""
+msgstr "Tu viens toujours me chercher ici. Je commence à croire que tu aimes me parler ou quelque chose comme ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/8/s/0
 msgctxt "Choix"
 msgid "Maybe so."
-msgstr ""
+msgstr "Peut-être bien."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/9/s/0
 msgctxt "Choix"
 msgid "Don't get so full of yourself."
-msgstr ""
+msgstr "Te monte pas la tête."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/10/s/0
 msgctxt "Choix"
 msgid "Of course! How else am I gonna win your hand?"
-msgstr ""
+msgstr "Évidemment ! Comment je gagnerais ta main, sinon ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/c-0/7
 msgctxt "Winnifred"
 msgid "Tryin' to play coy. I'll say, it works for you."
-msgstr ""
+msgstr "Tu joues les timides. Je dois dire que ça te réussit."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/c-1/13
 msgctxt "Winnifred"
 msgid "Woah now! You wanna keep talkin' to me, I'mma need you to be sweet to me."
-msgstr ""
+msgstr "Houlà ! Si tu veux continuer à me parler, il va falloir que tu me parles gentiment."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/c-2/13
 msgctxt "Winnifred"
 msgid "Keep talkin' like that, you just might!"
-msgstr ""
+msgstr "Continue à parler comme ça, et ça se pourrait bien !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-0/0
 msgctxt "Winnifred"
 msgid "Look, I know I've been tellin' you about that couple that lived here before."
-msgstr ""
+msgstr "Écoute, je sais que je t'ai parlé de ce couple qui vivait ici avant."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-0/8
 msgctxt "Winnifred"
 msgid "Well... I wanna tell you why they moved out. Is that alright?"
-msgstr ""
+msgstr "Eh bien... je veux te dire pourquoi ils ont déménagé. Ça te va ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "Story time with you is always great."
-msgstr ""
+msgstr "L'heure du conte avec toi, c'est toujours génial."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Oooo, some tea. Pour it!"
-msgstr ""
+msgstr "Oooo, du thé ! Verse-le !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/0
 msgctxt "Winnifred"
 msgid "Now, let me start by saying these two people really loved each other."
-msgstr ""
+msgstr "Laisse-moi d'abord dire que ces deux-là s'aimaient vraiment."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/8
 msgctxt "Winnifred"
 msgid "But... what happened next really shook things up for me."
-msgstr ""
+msgstr "Mais... ce qui s'est passé ensuite m'a vraiment secouée."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/16
 msgctxt "Winnifred"
 msgid "They had a birthday party here. I was workin' double duty that day."
-msgstr ""
+msgstr "Ils ont fait une fête d'anniversaire ici. Je faisais des heures sup ce jour-là."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/24
 msgctxt "Winnifred"
 msgid "It was what I would call a barn burner. I mean, they went on late into the night."
-msgstr ""
+msgstr "C'était ce que j'appellerais une soirée d'enfer. Ça s'est prolongé tard dans la nuit."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/32
 msgctxt "Winnifred"
 msgid "The music was great, everyone was having a good time."
-msgstr ""
+msgstr "La musique était géniale, tout le monde s'amusait bien."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/40
 msgctxt "Winnifred"
 msgid "But then... someone turned on the shower. I thought it was just those lovely tenants just wantin' to be clean after the shindig."
-msgstr ""
+msgstr "Mais ensuite... quelqu'un a allumé la douche. J'ai cru que c'étaient mes adorables locataires qui voulaient se laver après la fête."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/48
 msgctxt "Winnifred"
 msgid "I heard their voices, but... then I heard another."
-msgstr ""
+msgstr "J'ai entendu leurs voix, mais... ensuite, j'en ai entendu une autre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/56/s/0
 msgctxt "Choix"
 msgid "A third voice?!"
-msgstr ""
+msgstr "Une troisième voix ?!"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/57/s/0
 msgctxt "Choix"
 msgid "OOOoooOOOooo."
-msgstr ""
+msgstr "OOOoooOOOooo."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-1/58/s/0
 msgctxt "Choix"
 msgid "They came to party, didn't they?"
-msgstr ""
+msgstr "Ils étaient venus faire la fête, pas vrai ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/0
 msgctxt "Winnifred"
 msgid "And it was a long shower, too. But, that ain't the point."
-msgstr ""
+msgstr "Et c'était une longue douche, aussi. Mais c'est pas le propos."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/8
 msgctxt "Winnifred"
 msgid "The point is, after that... the arguing started pickin' up."
-msgstr ""
+msgstr "Le propos, c'est qu'après ça... les disputes ont commencé à se multiplier."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/16
 msgctxt "Winnifred"
 msgid "I heard a name get tossed around that I ain't heard before."
-msgstr ""
+msgstr "J'ai entendu un nom circuler que j'avais jamais entendu."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/24
 msgctxt "Winnifred"
 msgid "And then, one day when they were down here by my closet door, they started fussin' and fightin'."
-msgstr ""
+msgstr "Et puis un jour, quand ils étaient ici près de la porte de mon placard, ils se sont mis à se chamailler et à se battre."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/35
 msgctxt "Winnifred"
 msgid "Then a question was asked."
-msgstr ""
+msgstr "Puis une question a été posée."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/43
 msgctxt "Winnifred"
 msgid "\"Who do you love more? Them or me?\""
-msgstr ""
+msgstr "« Qui tu aimes le plus ? Lui ou moi ? »"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/51/s/0
 msgctxt "Choix"
 msgid "Oh no!"
-msgstr ""
+msgstr "Oh non !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-2/52/s/0
 msgctxt "Choix"
 msgid "It was that serious?"
-msgstr ""
+msgstr "C'était si grave ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/0
 msgctxt "Winnifred"
 msgid "That's not where things went downhill."
-msgstr ""
+msgstr "C'est pas là que les choses ont dégringolé."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/8
 msgctxt "Winnifred"
 msgid "The response they got was -"
-msgstr ""
+msgstr "La réponse qu'ils ont eue, c'était -"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/16
 msgctxt "Winnifred"
 msgid "\"Can't I love you both?\""
-msgstr ""
+msgstr "« Je peux pas vous aimer tous les deux ? »"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "What happened then?"
-msgstr ""
+msgstr "Qu'est-ce qui s'est passé ensuite ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/c-10/7
 msgctxt "Winnifred"
 msgid "There was no response."
-msgstr ""
+msgstr "Il y a pas eu de réponse."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/c-10/15
 msgctxt "Winnifred"
 msgid "That was a silence thicker than molasses on a cold day."
-msgstr ""
+msgstr "Un silence plus épais que de la mélasse par temps froid."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/c-10/23
 msgctxt "Winnifred"
 msgid "Their shared showers was stopped. Within two weeks, they were packing boxes and gettin' ready to move out."
-msgstr ""
+msgstr "Leurs douches à deux se sont arrêtées. En deux semaines, ils faisaient leurs cartons et se préparaient à partir."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/c-10/31/0/s/0
 msgctxt "Choix"
 msgid "Good."
-msgstr ""
+msgstr "Tant mieux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/c-10/31/1/s/0
 msgctxt "Choix"
 msgid "That is such a sad story."
-msgstr ""
+msgstr "C'est une histoire tellement triste."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter/0/g-3/c-10/31/2/s/0
 msgctxt "Choix"
 msgid "Oh wow. What a bummer."
-msgstr ""
+msgstr "Oh là là. Quelle déprime."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/0
 msgctxt "Winnifred"
 msgid "But, they didn't cheat or anything. Don't you think they should work it out?"
-msgstr ""
+msgstr "Mais ils ont pas triché ni rien. Tu trouves pas qu'ils auraient dû s'arranger ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/8/s/0
 msgctxt "Choix"
 msgid "You can't love more than one person."
-msgstr ""
+msgstr "On peut pas aimer plus d'une personne."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/9/s/0
 msgctxt "Choix"
 msgid "They weren't having good communication. No way it was going to work."
-msgstr ""
+msgstr "Ils communiquaient mal. Pas moyen que ça marche."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-0/13 winnifred_waterheater/previous_tenants_wrapup_b/0/c-0/13
 msgctxt "Narrator"
 msgid "Winnifred looks as if she's been slapped—there's genuine hurt in her eyes."
-msgstr ""
+msgstr "Winnifred a l'air d'avoir reçu une gifle : il y a une vraie blessure dans ses yeux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-0/24
 msgctxt "Winnifred"
 msgid "Ahh... I understand now."
-msgstr ""
+msgstr "Ahh... je comprends maintenant."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-0/32
 msgctxt "Winnifred"
 msgid "But yeah... that's really all I wanted to tell you."
-msgstr ""
+msgstr "Mais voilà... c'est vraiment tout ce que je voulais te dire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-1/7
 msgctxt "Winnifred"
 msgid "I think you right, darlin'. I can't really place blame on either of them. They just weren't on the same page."
-msgstr ""
+msgstr "Je crois que t'as raison, mon ange. Je peux pas vraiment blâmer l'un ou l'autre. Ils étaient juste pas sur la même longueur d'onde."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-1/15
 msgctxt "Winnifred"
 msgid "Broke my heart when they left, though. They seemed so happy for so long."
-msgstr ""
+msgstr "Ça m'a brisé le coeur quand ils sont partis, pourtant. Ils avaient l'air si heureux depuis si longtemps."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-1/23
 msgctxt "Winnifred"
 msgid "Made me wonder if it was even possible to..."
-msgstr ""
+msgstr "Ça m'a fait me demander si c'était seulement possible de..."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-1/31
 msgctxt "Narrator"
 msgid "Winnifred trails off, lost in a thought she doesn't share with you."
-msgstr ""
+msgstr "Winnifred laisse sa phrase en suspens, perdue dans une pensée qu'elle ne partage pas avec vous."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_a/0/c-1/39
 msgctxt "Winnifred"
 msgid "You know what? Nevermind."
-msgstr ""
+msgstr "Tu sais quoi ? Laisse tomber."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/0
 msgctxt "Winnifred"
 msgid "I know, it broke my heart to watch it happen."
-msgstr ""
+msgstr "Je sais, ça m'a brisé le coeur de voir ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/8
 msgctxt "Winnifred"
 msgid "I really wish they could have worked it out."
-msgstr ""
+msgstr "J'aurais vraiment aimé qu'ils s'arrangent."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/16/s/0
 msgctxt "Choix"
 msgid "There's no way. You can't love more than one person."
-msgstr ""
+msgstr "Impossible. On peut pas aimer plus d'une personne."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/17/s/0
 msgctxt "Choix"
 msgid "I wish they would have talked about their feelings more."
-msgstr ""
+msgstr "J'aurais aimé qu'ils parlent davantage de leurs sentiments."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/18/s/0
 msgctxt "Choix"
 msgid "I think you can love more than one person. It just takes more work."
-msgstr ""
+msgstr "Je pense qu'on peut aimer plus d'une personne. Ça demande juste plus d'efforts."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/c-0/24
 msgctxt "Winnifred"
 msgid "...huh. Yeah... I guess not."
-msgstr ""
+msgstr "...hein. Ouais... j'imagine que non."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/c-1/7
 msgctxt "Winnifred"
 msgid "Me too. You know, I wish you could have met 'em. They were lovely."
-msgstr ""
+msgstr "Moi aussi. Tu sais, j'aurais aimé que tu puisses les rencontrer. Ils étaient adorables."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/c-1/15
 msgctxt "Winnifred"
 msgid "Sorry... I always get a little nostalgic when I think about 'em."
-msgstr ""
+msgstr "Désolée... je deviens toujours un peu nostalgique quand je pense à eux."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/c-2/13
 msgctxt "Narrator"
 msgid "Winnifred's eyebrows raise, her expression a mix of surprise and appreciation. She looks at you in a way that makes you feel like she's just seeing you for the first time."
-msgstr ""
+msgstr "Les sourcils de Winnifred se lèvent, son expression mêle surprise et gratitude. Elle vous regarde comme si elle vous voyait pour la première fois."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/c-2/24
 msgctxt "Winnifred"
 msgid "You really feel that way?"
-msgstr ""
+msgstr "Tu le penses vraiment ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/previous_tenants_wrapup_b/0/c-2/35
 msgctxt "Winnifred"
 msgid "Well, that's just... heh. I appreciate you sayin' that."
-msgstr ""
+msgstr "Eh bien, c'est juste... heh. J'apprécie que tu dises ça."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter_wrapup/4
 msgctxt "Winnifred"
 msgid "Hmm... Y'know I've got some thinkin' to do. You mind coming around some other time?"
-msgstr ""
+msgstr "Hmm... Tu sais, j'ai de quoi réfléchir. Ça te dérangerait de repasser une autre fois ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_fourth_encounter_wrapup/12
 msgctxt "Winnifred"
 msgid "I appreciate you as always, darlin'."
-msgstr ""
+msgstr "Je t'apprécie, comme toujours, mon ange."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_flirting/0/0
 msgctxt "Winnifred"
 msgid "Hey there. If it ain't just the person I want to see!"
-msgstr ""
+msgstr "Tiens, salut. Si c'est pas la personne que je voulais voir !"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_flirting/0/8/s/0
 msgctxt "Choix"
 msgid "Now you wanna see me, huh?"
-msgstr ""
+msgstr "Maintenant tu veux me voir, hein ?"
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_flirting/0/9/s/0
 msgctxt "Choix"
 msgid "I knew you couldn't resist this charm."
-msgstr ""
+msgstr "Je savais que tu résisterais pas à ce charme."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_flirting/0/g-0/0
 msgctxt "Winnifred"
 msgid "You have grown on me, I will say that."
-msgstr ""
+msgstr "Tu as fini par me gagner, je dois dire."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_flirting/0/g-0/8
 msgctxt "Winnifred"
 msgid "But... I'm plannin' on somethin' big and I want your help."
-msgstr ""
+msgstr "Mais... je prévois un truc énorme et j'ai besoin de ton aide."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_flirting/0/g-0/16
 msgctxt "Winnifred"
 msgid "I think... I've gotta talk to Bathsheba, River, and Washford."
-msgstr ""
+msgstr "Je crois... qu'il faut que je parle à Bathsheba, River et Washford."
 
+# Traduction IA – à relire
 #: winnifred_waterheater/waterheater_flirting/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "All together!?"
-msgstr ""
+msgstr "Tous ensemble !?"
 
 #: winnifred_waterheater/waterheater_flirting/0/g-0/25/s/0
 msgctxt "Choix"

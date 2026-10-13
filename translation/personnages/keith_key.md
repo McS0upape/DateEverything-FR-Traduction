@@ -26,10 +26,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (avec une élégance désuète)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, raffiné, vieille France ; gentleman charmeur, un peu vieux beau
+- **Personnalité, manière de parler** : Clé passe-partout, séducteur et grand manipulateur, très poli. Phrases ampoulées, interjections (« Ha ha ! », « Eh bien ! »). Appelle le joueur ou la joueuse « {{cher|chère|cher·e}} Propriétaire » (Owner). Dorian le tutoie.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : champ lexical de l'ouverture et de la fermeture (ouvrir, fermer, s'ouvrir à, esprit ouvert, coeur ouvert, verrouiller, serrure). « It did not really work out » avec Dorian = « Ça n'a pas vraiment marché entre nous ».
+- **Exemples de répliques traduites (référence de ton)** : « Je suis, vois-tu, une clé passe-partout ! » ; « Je me flatte d'ouvrir les choses, mais certaines portes doivent rester closes. »

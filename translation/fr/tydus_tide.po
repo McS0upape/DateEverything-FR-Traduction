@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: tydus_tide/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "DETERGENT"
-msgstr ""
+msgstr "DÉTERGENT"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/10
 msgctxt "Narrator"
 msgid "The gladiator who stands before you is at once intimidating and alluring; she glares at you like she means to run you through."
-msgstr ""
+msgstr "La gladiatrice qui se dresse devant vous est à la fois intimidante et envoûtante ; elle vous fusille du regard comme si elle comptait vous transpercer."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/18
 msgctxt "Narrator"
 msgid "She also emanates the refreshing scent of Springtime Breeze."
-msgstr ""
+msgstr "Elle exhale aussi la fraîche senteur de la Brise de Printemps."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/26
 msgctxt "Narrator"
 msgid "It slightly undermines whatever murderous intent she may actually have."
-msgstr ""
+msgstr "Cela entame légèrement toute intention meurtrière qu'elle pourrait nourrir."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/34
 msgctxt "Narrator"
 msgid "She is beautiful and terrifying, an amazon in blue and pink—but even as she points her sword at your throat all you can do is marvel at just how clean and sweetly-scented it is."
-msgstr ""
+msgstr "Elle est belle et terrifiante, une amazone en bleu et rose, mais même quand elle pointe son épée sur votre gorge, vous ne pouvez qu'admirer à quel point elle est propre et délicatement parfumée."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/42
 msgctxt "Tydus"
 msgid "Who dares disturb me?"
-msgstr ""
+msgstr "Qui ose me troubler ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/56
 msgctxt "Tydus"
 msgid "You? Name yourself! By all the pods in the firmament, I swear..."
-msgstr ""
+msgstr "Toi ? Décline ton nom ! Par tous les pods du firmament, je le jure..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/64
 msgctxt "Tydus"
 msgid "If thou hast disturbed me for any reason less worthy than the red memory of battle, I shall leave you sopped, dirty."
-msgstr ""
+msgstr "Si tu m'as dérangée pour un motif moins digne que le souvenir rouge de la bataille, je te laisserai trempé, souillé."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/72
 msgctxt "Tydus"
 msgid "I shall leave you as you present!"
-msgstr ""
+msgstr "Je te laisserai tel que tu te présentes !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/80/s/0
 msgctxt "Choix"
 msgid "I just wanted to meet you!"
-msgstr ""
+msgstr "Je voulais juste te rencontrer !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/81/s/0
 msgctxt "Choix"
 msgid "We don't even know each other and you're threatening me?"
-msgstr ""
+msgstr "On ne se connaît même pas et tu me menaces ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/7
 msgctxt "Tydus"
 msgid "Meet me."
-msgstr ""
+msgstr "Me rencontrer."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/15
 msgctxt "Tydus"
 msgid "You. Civilian. You wanted to meet me."
-msgstr ""
+msgstr "Toi. {{Civil|Civile|Civil·e}}. Tu voulais me rencontrer."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/23
 msgctxt "Tydus"
 msgid "I am in the pitch of battle. My Pods rampage, sacrificing themselves to be reborn yet again..."
-msgstr ""
+msgstr "Je suis au plus fort de la mêlée. Mes Pods se déchaînent, se sacrifient pour renaître encore et encore..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/31
 msgctxt "Tydus"
 msgid "... and you have pulled me here because you wanted to meet me?"
-msgstr ""
+msgstr "... et tu m'as arrachée à tout cela parce que tu voulais me rencontrer ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/39
 msgctxt "Tydus"
 msgid "I confess to you, Civilian."
-msgstr ""
+msgstr "Je te le confesse, {{Civil|Civile|Civil·e}}."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/47
 msgctxt "Tydus"
 msgid "I am in a state of indecision."
-msgstr ""
+msgstr "Je suis en proie à l'indécision."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/55
 msgctxt "Tydus"
 msgid "Hmph."
-msgstr ""
+msgstr "Hmph."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/63
 msgctxt "Tydus"
 msgid "I cannot decide if I hate you, or if I am impressed by your..."
-msgstr ""
+msgstr "Je ne sais si je te hais ou si ta..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/71
 msgctxt "Tydus"
 msgid "...fortitude."
-msgstr ""
+msgstr "...vaillance m'impressionne."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/0/s/0
 msgctxt "Choix"
 msgid "Fortitude! I've got a lot of that. And I think you like it."
-msgstr ""
+msgstr "De la vaillance ! J'en ai à revendre. Et je crois que ça te plaît."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/1/s/0
 msgctxt "Choix"
 msgid "Well, hating me seems... extreme at this point."
-msgstr ""
+msgstr "Bon, me haïr, ça paraît un peu... excessif à ce stade."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/2/s/0
 msgctxt "Choix"
 msgid "I don't think I care, truthfully. I'm gonna go."
-msgstr ""
+msgstr "Franchement, ça m'est égal. Je m'en vais."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/7
 msgctxt "Tydus"
 msgid "Hm. Fortitude."
-msgstr ""
+msgstr "Hm. De la vaillance."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/15
 msgctxt "Tydus"
 msgid "Such bold abandon flaunts a newling's claim / for converse, strange / at altar-side untold."
-msgstr ""
+msgstr "Pareille audace étale la prétention d'un novice / à converser, étrange, / au pied d'un autel jamais conté."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/23
 msgctxt "Tydus"
 msgid "You are not hated. Despite thy impish impertinence."
-msgstr ""
+msgstr "Tu n'es point {{haï|haïe|haï·e}}. Malgré ton impertinence de lutin."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/31
 msgctxt "Tydus"
 msgid "Perhaps there is something about you..."
-msgstr ""
+msgstr "Il y a peut-être en toi quelque chose..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/39
 msgctxt "Tydus"
 msgid "But now is not the time! My occupation, my profession calls me back. For passion's sake, I fly. For passion's sake I am not pulled again!"
-msgstr ""
+msgstr "Mais l'heure n'est pas venue ! Mon office, ma profession me rappelle. Par passion je m'envole. Par passion je ne serai plus tirée d'ici !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/47
 msgctxt "Tydus"
 msgid "Come to me only when the hurly burly is done, to win or loss. Come before, and even thy puckishness shall not save thee!"
-msgstr ""
+msgstr "Ne viens à moi que lorsque le tumulte aura cessé, pour la victoire ou pour la perte. Viens avant, et ta malice même ne te sauvera point !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/55/0/s/0
 msgctxt "Choix"
 msgid "Wait, what is hurly burly??"
-msgstr ""
+msgstr "Attends, c'est quoi, le tumulte ??"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/55/1/s/0
 msgctxt "Choix"
 msgid "How will I know when that is?"
-msgstr ""
+msgstr "Comment je saurai que c'est fini ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/55/c-0/7
 msgctxt "Tydus"
 msgid "When 'tis done you will no longer have to ask."
-msgstr ""
+msgstr "Quand ce sera fait, tu n'auras plus à le demander."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-0/55/c-1/7
 msgctxt "Tydus"
 msgid "You won't."
-msgstr ""
+msgstr "Tu ne le feras pas."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/7
 msgctxt "Tydus"
 msgid "Ah, but I am a creature of extremes. As though you would have any right, any reason for a judgment in this, my castle!"
-msgstr ""
+msgstr "Ah, mais je suis une créature d'extrêmes. Comme si tu avais le moindre droit, la moindre raison de juger en ceci, mon château !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/15
 msgctxt "Tydus"
 msgid "I am a frothing wave of passions and you, hardly an innocent are the flotsam I shall toss around today!"
-msgstr ""
+msgstr "Je suis une vague écumante de passions et toi, loin d'être {{innocent|innocente|innocent·e}}, tu es l'épave que je ballotterai aujourd'hui !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/23
 msgctxt "Tydus"
 msgid "I am ahead of myself. Much as I should wish to play you like a delicate bubble in a windstorm, I am called elsewhere."
-msgstr ""
+msgstr "Je m'emporte. Autant j'aimerais te faire danser comme une bulle fragile dans la tempête, autant on m'appelle ailleurs."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/31
 msgctxt "Tydus"
 msgid "I am called to a place where even the irritant of you must be washed away on greater tides."
-msgstr ""
+msgstr "On m'appelle en un lieu où même l'irritant que tu es doit être lavé par de plus grandes marées."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/39
 msgctxt "Tydus"
 msgid "Go now. Consider thyself lucky to have escaped your inadvertent brush with the divine!"
-msgstr ""
+msgstr "Va, maintenant. Estime-toi {{chanceux|chanceuxse|chanceux·se}} d'avoir échappé à ton frôlement involontaire avec le divin !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/47/0/s/0
 msgctxt "Choix"
 msgid "You are... a lot."
-msgstr ""
+msgstr "Tu es... beaucoup."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/47/1/s/0
 msgctxt "Choix"
 msgid "I do feel lucky. And you can bet I'll be back for more!"
-msgstr ""
+msgstr "Je me sens {{chanceux|chanceuxse|chanceux·se}}. Et tu peux parier que je reviendrai en redemander !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/47/c-0/7
 msgctxt "Tydus"
 msgid "You careless fool. You speak of that you cannot know... may the Pods defend you should that intelligence ever fall within your purview."
-msgstr ""
+msgstr "{{Imprudent|Imprudente|Imprudent·e}} {{insensé|insensée|insensé·e}}. Tu parles de ce que tu ne saurais connaître... puissent les Pods te défendre si jamais ce savoir tombait en ton domaine."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/47/c-1/7
 msgctxt "Tydus"
 msgid "Ha! A foolish if brazen charm."
-msgstr ""
+msgstr "Ha ! Un charme sot, mais effronté."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-1/47/c-1/15
 msgctxt "Tydus"
 msgid "Thou may perhaps survive me, in time..."
-msgstr ""
+msgstr "Peut-être me survivras-tu, avec le temps..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-2/13
 msgctxt "Tydus"
 msgid "Yes. Yes, I think thou art wise!"
-msgstr ""
+msgstr "Oui. Oui, je crois que tu es sage !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-2/21
 msgctxt "Tydus"
 msgid "Go, while your legs will carry you, go while your blood remains enveined."
-msgstr ""
+msgstr "Va, tant que tes jambes te portent, va, tant que ton sang demeure en tes veines."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-2/29
 msgctxt "Tydus"
 msgid "Should you return, I wish you luck."
-msgstr ""
+msgstr "Si tu reviens, je te souhaite bonne chance."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-0/79/c-2/37
 msgctxt "Tydus"
 msgid "With me... thou mayst need it..."
-msgstr ""
+msgstr "Avec moi... tu pourrais en avoir besoin..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/7
 msgctxt "Tydus"
 msgid "Threatening?"
-msgstr ""
+msgstr "Menaçant ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/15
 msgctxt "Tydus"
 msgid "Thinkest thou truly I have threatened? I have merely spoken, peasant."
-msgstr ""
+msgstr "Crois-tu vraiment que j'aie menacé ? J'ai simplement parlé, manant."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/23
 msgctxt "Tydus"
 msgid "Bloom faith in thy breast that in the face of a true threat from this General of note, thy knees should tremble, buckle, and bear you swiftly to a merciless ground."
-msgstr ""
+msgstr "Fais éclore en ton sein la certitude que, face à une vraie menace de cette Générale de renom, tes genoux trembleraient, fléchiraient et te porteraient vite vers un sol sans merci."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "Whoa. Fair enough. I believe you."
-msgstr ""
+msgstr "Whoa. D'accord. Je te crois."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "Look, I don't need this. I just wanted to chat."
-msgstr ""
+msgstr "Écoute, je n'ai pas besoin de ça. Je voulais juste discuter."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/2/s/0
 msgctxt "Choix"
 msgid "I'm scared... but that was gorgeous."
-msgstr ""
+msgstr "J'ai peur... mais c'était magnifique."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-0/7
 msgctxt "Tydus"
 msgid "And good, too. My health routine, while extensive, does not include speaking without purpose."
-msgstr ""
+msgstr "Et bien dit, de surcroît. Ma routine de santé, quoique étendue, ne comprend pas de parler sans but."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-0/15
 msgctxt "Tydus"
 msgid "Neither does it include abandoning my troops in the heat of conflict!"
-msgstr ""
+msgstr "Elle ne comprend pas non plus d'abandonner mes troupes dans le feu du combat !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-0/23
 msgctxt "Tydus"
 msgid "The war beats rage across the woven field / and soldiers in their multitudes bleed low."
-msgstr ""
+msgstr "Les tambours de guerre font rage sur le champ tissé / et les soldats par multitudes saignent à blanc."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-0/31
 msgctxt "Tydus"
 msgid "Open thy mouth not to keep me from this, the home of my heart!"
-msgstr ""
+msgstr "N'ouvre point la bouche pour me tenir loin de ceci, la demeure de mon coeur !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-0/39
 msgctxt "Tydus"
 msgid "Keep your knees for now, Civilian. You mayst need them when next we chance upon each other!"
-msgstr ""
+msgstr "Garde tes genoux pour l'instant, {{Civil|Civile|Civil·e}}. Tu pourrais en avoir besoin quand nous nous croiserons de nouveau !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/7
 msgctxt "Tydus"
 msgid "Chat? What is chat?"
-msgstr ""
+msgstr "Discuter ? Qu'est-ce que discuter ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "It just means a friendly conversation."
-msgstr ""
+msgstr "Ça veut juste dire avoir une conversation amicale."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "You seriously don't know the word \"chat\"?"
-msgstr ""
+msgstr "Tu ne connais vraiment pas le mot « discuter » ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/7
 msgctxt "Tydus"
 msgid "O frothing hell."
-msgstr ""
+msgstr "Ô enfer écumant."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/15
 msgctxt "Tydus"
 msgid "Thou hast torn me from my Pods for the crush of soul and spirit that resides in the slime of banter??"
-msgstr ""
+msgstr "M'as-tu arrachée à mes Pods pour l'écrasement d'âme et d'esprit qui loge dans la vase du bavardage ??"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/26
 msgctxt "Tydus"
 msgid "Clearly, I am unknown to you. It shines from this like a cherried drunkard's nose that thou holdst my truth not within thy ken."
-msgstr ""
+msgstr "De toute évidence, je te suis inconnue. Cela luit comme le nez d'un ivrogne cerise que tu ne tiens point ma vérité dans ton entendement."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/34
 msgctxt "Tydus"
 msgid "Go now."
-msgstr ""
+msgstr "Va, maintenant."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/42
 msgctxt "Tydus"
 msgid "A clement beat has leaked beneath the scale / of armor snaking back to regiment."
-msgstr ""
+msgstr "Un battement clément a filtré sous l'écaille / de l'armure qui rampe pour rejoindre le régiment."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/50
 msgctxt "Tydus"
 msgid "Take it now... take it before I snatch it back from ungrateful fingers!"
-msgstr ""
+msgstr "Prends-le maintenant... prends-le avant que je l'arrache à des doigts ingrats !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/58/0/s/0
 msgctxt "Choix"
 msgid "You got it. See ya later."
-msgstr ""
+msgstr "Compris. À plus tard."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/58/1/s/0
 msgctxt "Choix"
 msgid "We've misunderstood each other... I'll come back another time."
-msgstr ""
+msgstr "On s'est mal compris... je reviendrai une autre fois."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-0/58/c-1/7
 msgctxt "Tydus"
 msgid "Do so. Thou wouldst dare it, so do."
-msgstr ""
+msgstr "Fais-le. Tu oserais, alors fais."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/7
 msgctxt "Tydus"
 msgid "You would be unwise to quibble with the creature who affronts you over the meaning of a simple and poorly timed verbal missile."
-msgstr ""
+msgstr "Tu serais malavisé de chicaner celle qui t'affronte sur le sens d'un simple projectile verbal mal placé."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/15
 msgctxt "Tydus"
 msgid "Had I not a battle of true merit raging yet within my sight, I would dispatch you here and now to the there and then."
-msgstr ""
+msgstr "N'avais-je une bataille de vrai mérite qui fait encore rage sous mes yeux, je t'enverrais ici et maintenant dans le là-bas et le jadis."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/23
 msgctxt "Tydus"
 msgid "From whence none but my stoic soldiers of suds ever return!"
-msgstr ""
+msgstr "D'où nul ne revient, hormis mes stoïques soldats de mousse !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "This is a threat. For future reference."
-msgstr ""
+msgstr "Ça, c'est une menace. Pour référence future."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "Y'know... maybe this isn't the best time. I'll come back."
-msgstr ""
+msgstr "Tu sais... ce n'est peut-être pas le bon moment. Je reviendrai."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/31/c-0/7
 msgctxt "Tydus"
 msgid "Your pinpricked courage carries through this folly / brusque and brazen, foolish unto death / will my descent imbue thy futile lunacy / with honor?"
-msgstr ""
+msgstr "Ton courage d'épingle traverse cette folie / brusque et brave, insensée jusqu'à la mort / ma descente ira-t-elle parer ta vaine démence / d'honneur ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/31/c-0/15
 msgctxt "Tydus"
 msgid "Nay! I scorn your clown-streaked show!"
-msgstr ""
+msgstr "Nenni ! Je méprise ton spectacle de bouffon !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/31/c-0/26
 msgctxt "Tydus"
 msgid "In words you might understand... I bid you flee... before thou art flown."
-msgstr ""
+msgstr "En des mots que tu puisses entendre... je t'ordonne de fuir... avant que tu ne sois {{envolé|envolée|envolé·e}}."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/31/c-1/7
 msgctxt "Tydus"
 msgid "Back! Yes! Oh, yes, would you?"
-msgstr ""
+msgstr "Dos ! Oui ! Oh, oui, le ferais-tu ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-1/15/c-1/31/c-1/15
 msgctxt "Tydus"
 msgid "Nothing would please me more than the sight of your retreating back!"
-msgstr ""
+msgstr "Rien ne me plairait davantage que le spectacle de ton dos qui s'éloigne !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/7
 msgctxt "Tydus"
 msgid "Ah, now I see, flattery is thy weapon!"
-msgstr ""
+msgstr "Ah, je vois, la flatterie est ton arme !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/15
 msgctxt "Tydus"
 msgid "Thou wouldst distract me, a saboteur snaking through the lines to deprive my soldiers of their general!"
-msgstr ""
+msgstr "Tu voudrais me distraire, {{saboteur|saboteurse|saboteur·se}} qui se glisse dans les rangs pour priver mes soldats de leur générale !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/23
 msgctxt "Tydus"
 msgid "Thinkest thou, O fairest fiend, that I will not see? Thinkest thou I will not tear thy cashmere blend from the burnéd hollows of mine eyes and see thou in the cold light of a betraying moon?"
-msgstr ""
+msgstr "Penses-tu, ô très belle engeance, que je ne verrai point ? Penses-tu que je n'arracherai point ton mélange cachemire des orbites brûlées de mes yeux pour te voir à la froide lumière d'une lune traîtresse ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/31/0/s/0
 msgctxt "Choix"
 msgid "No, not the cashmere!"
-msgstr ""
+msgstr "Non, pas le cachemire !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/31/1/s/0
 msgctxt "Choix"
 msgid "Do your worst..."
-msgstr ""
+msgstr "Fais de ton pire..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/31/g-0/0
 msgctxt "Tydus"
 msgid "Ah, but here I am."
-msgstr ""
+msgstr "Ah, mais me voici."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/31/g-0/8
 msgctxt "Tydus"
 msgid "I play into the hands of misdirection by spending my precious energy here, with the agents of defeat instead of on the combed field beside the Pods who fight and die for a clean honor."
-msgstr ""
+msgstr "Je joue le jeu de la diversion en dépensant ici ma précieuse énergie, avec les agents de la défaite, au lieu d'être sur le champ peigné auprès des Pods qui luttent et meurent pour un honneur sans tache."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/31/g-0/16
 msgctxt "Tydus"
 msgid "Thy vict'ry fails, withers, stales in place / unwashéd and full lost in cleansing fire!"
-msgstr ""
+msgstr "Ta victoire échoue, se flétrit, croupit sur place / non lavée et perdue tout entière dans le feu purificateur !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_intro/0/c-1/31/c-2/31/g-0/24
 msgctxt "Tydus"
 msgid "On with you. On with you and return when and if thou art chastened by this failure!"
-msgstr ""
+msgstr "Va-t'en. Va-t'en et reviens, si tu le fais, quand cet échec t'aura {{châtié|châtiée|châtié·e}} !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/6
 msgctxt "Tydus"
 msgid "NO!"
-msgstr ""
+msgstr "NON !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/17
 msgctxt "Narrator"
 msgid "Tydus points her sword at you, but the moment she recognizes you she lowers it. Her shoulders sag and her face falls. You're not sure if your mere presence has ever so thoroughly disappointed anyone before."
-msgstr ""
+msgstr "Tydus pointe son épée sur vous, mais dès qu'elle vous reconnaît, elle la baisse. Ses épaules s'affaissent et son visage se décompose. Vous doutez qu'on ait jamais été aussi complètement déçu par votre simple présence."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/28
 msgctxt "Tydus"
 msgid "You?? Why you."
-msgstr ""
+msgstr "Toi ?? Pourquoi toi."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/36
 msgctxt "Tydus"
 msgid "Why anyone? Why would a being with a beating heart chance upon this curséd place?"
-msgstr ""
+msgstr "Pourquoi quiconque ? Pourquoi un être au coeur battant s'aventurerait-il en ce lieu maudit ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/44
 msgctxt "Tydus"
 msgid "For any place that would play host to the lukewarm slickness of my humiliation must bellow and pollute like a mouth of sulphurous hell!"
-msgstr ""
+msgstr "Car tout lieu qui accueille la tiède viscosité de mon humiliation doit mugir et empester comme la gueule d'un enfer sulfureux !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/52/s/0
 msgctxt "Choix"
 msgid "Hey, my laundry room isn't that bad..."
-msgstr ""
+msgstr "Hé, ma buanderie n'est pas si terrible..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/53/s/0
 msgctxt "Choix"
 msgid "Yeah, I don't do laundry as much as I should."
-msgstr ""
+msgstr "Ouais, je ne fais pas la lessive autant que je le devrais."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/c-0/7
 msgctxt "Tydus"
 msgid "My failure. The stain..."
-msgstr ""
+msgstr "Mon échec. La tache..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/c-0/15
 msgctxt "Tydus"
 msgid "Though valiant and unflagging threw the pods / their lives into the fray of soap and weave"
-msgstr ""
+msgstr "Si vaillants et infatigables jetèrent les pods / leur vie dans la mêlée de savon et de trame"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/c-0/23
 msgctxt "Tydus"
 msgid "yet the devil dines upon the thread / and shows to all the world his stainéd grieve."
-msgstr ""
+msgstr "le diable pourtant festoie sur le fil / et montre au monde entier son affront taché."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/0
 msgctxt "Tydus"
 msgid "For you to have come here now... you can only be an agent of the hellish fiend."
-msgstr ""
+msgstr "Que tu sois {{venu|venue|venu·e}} ici à présent... tu ne peux être qu'un agent du démon infernal."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/8
 msgctxt "Tydus"
 msgid "A demon thou must be and sent for shame / to turn in supp'rate wound the salted screw!"
-msgstr ""
+msgstr "Un démon tu dois être, envoyé par la honte / pour tourner en plaie suppurante la vis salée !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "General. Slow down. I am not your enemy."
-msgstr ""
+msgstr "Général. Doucement. Je ne suis pas ton {{ennemi|ennemie|ennemi·e}}."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/1/s/0
 msgctxt "Choix"
 msgid "You lost the battle? Is that what you mean? I am so sorry!"
-msgstr ""
+msgstr "Tu as perdu la bataille ? C'est ça que tu veux dire ? Je suis tellement {{désolé|désolée|désolé·e}} !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/2/s/0
 msgctxt "Choix"
 msgid "What the hell are you talking about?? You're so confusing!"
-msgstr ""
+msgstr "De quoi tu parles, bon sang ?? Tu es tellement confuse !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/7
 msgctxt "Tydus"
 msgid "Just what an enemy would say."
-msgstr ""
+msgstr "Voilà exactement ce que dirait un ennemi."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/15
 msgctxt "Tydus"
 msgid "A cowardly one, to lie to the face of a defeated foe."
-msgstr ""
+msgstr "Un lâche, qui ment à la face d'un adversaire vaincu."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/23
 msgctxt "Tydus"
 msgid "If you are truly not mine enemy..."
-msgstr ""
+msgstr "Si tu n'es vraiment point mon {{ennemi|ennemie|ennemi·e}}..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/31
 msgctxt "Tydus"
 msgid "...why have you come? Surely a better entertainment is available to you than my pitiful writhing. Why watchest thou this silent parade?"
-msgstr ""
+msgstr "...pourquoi es-tu {{venu|venue|venu·e}} ? Sûrement un meilleur divertissement s'offre à toi que mes pitoyables contorsions. Pourquoi contemples-tu cette silencieuse parade ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/0/s/0
 msgctxt "Choix"
 msgid "Tydus, I bought you because you're the best."
-msgstr ""
+msgstr "Tydus, je t'ai achetée parce que tu es la meilleure."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/1/s/0
 msgctxt "Choix"
 msgid "I want to help you. I win when you win."
-msgstr ""
+msgstr "Je veux t'aider. Je gagne quand tu gagnes."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/c-0/7
 msgctxt "Tydus"
 msgid "Would the best be defeated by a simple blot of tomato sauce? I think not."
-msgstr ""
+msgstr "La meilleure serait-elle vaincue par une simple tache de sauce tomate ? Je ne pense pas."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "It happens. We will rally and try again."
-msgstr ""
+msgstr "Ça arrive. On se ressaisira et on réessaiera."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/c-0/18/1/s/0
 msgctxt "Choix"
 msgid "Maybe I should've pre-treated. That's not on you."
-msgstr ""
+msgstr "J'aurais peut-être dû prétraiter. Ce n'est pas ta faute."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/c-0/18/c-0/7
 msgctxt "Tydus"
 msgid "We?"
-msgstr ""
+msgstr "On ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/c-1/7
 msgctxt "Tydus"
 msgid "Our fortunes in your estimation are thus linked?"
-msgstr ""
+msgstr "Nos fortunes sont donc liées, selon toi ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/c-1/15
 msgctxt "Tydus"
 msgid "Here I have believed that atop this shelf I stand in pride, a solitary paean to the inevitability of lonely death."
-msgstr ""
+msgstr "Moi qui croyais que perchée sur cette étagère, je me dressais fièrement, solitaire péan à l'inéluctabilité d'une mort esseulée."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-2/39/c-1/23
 msgctxt "Tydus"
 msgid "I had hoped, at least, that in the quietude there would be glory at the setting of my lid. But you. You show a changéd image to mine eyes."
-msgstr ""
+msgstr "J'espérais, du moins, qu'il y aurait de la gloire dans le calme, à la fermeture de mon couvercle. Mais toi. Tu offres à mes yeux une image changée."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/7
 msgctxt "Tydus"
 msgid "As am I! More sorry than the sorriest could say, my state meaner and more abject than before I had imagined possible for one so proud, one so self-assured as this General."
-msgstr ""
+msgstr "Moi aussi ! Plus désolée que la plus désolée ne saurait le dire, mon état plus vil et plus abject que je ne l'imaginais possible pour une créature si fière, si sûre d'elle que cette Générale."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/15
 msgctxt "Tydus"
 msgid "I find myself too open and undone... I find myself unmade."
-msgstr ""
+msgstr "Je me trouve trop ouverte et défaite... je me trouve défaite tout court."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/26
 msgctxt "Narrator"
 msgid "Tydus looks at you, but she's clearly elsewhere reliving some yet unspoken trauma."
-msgstr ""
+msgstr "Tydus vous regarde, mais elle est manifestement ailleurs, à revivre quelque traumatisme encore tu."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/34
 msgctxt "Tydus"
 msgid "She was such a proud sweater. Such a stoic weaving of cashmere and wool, to be felled by a single missiled blot of marinara."
-msgstr ""
+msgstr "C'était un si fier pull. Un si stoïque tissage de cachemire et de laine, abattu par un seul projectile de marinara."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/42
 msgctxt "Tydus"
 msgid "The spikéd pill of tragedy has passed / but in these guts the nightshade knife persists."
-msgstr ""
+msgstr "La pilule hérissée de la tragédie est passée / mais dans ces entrailles le couteau de belladone demeure."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/0/s/0
 msgctxt "Choix"
 msgid "Tydus, you don't have to do this alone, you know."
-msgstr ""
+msgstr "Tydus, tu n'as pas à faire ça toute seule, tu sais."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/1/s/0
 msgctxt "Choix"
 msgid "I understand. I liked that sweater, too."
-msgstr ""
+msgstr "Je comprends. Moi aussi, j'aimais bien ce pull."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-0/7
 msgctxt "Tydus"
 msgid "Don't I? Such has always been my way."
-msgstr ""
+msgstr "N'est-ce pas ? Telle fut toujours ma manière."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-0/15
 msgctxt "Tydus"
 msgid "In my lowered state, I see the mirage of an offer of companionship in your words."
-msgstr ""
+msgstr "Dans mon état d'abaissement, je vois le mirage d'une offre de compagnie dans tes paroles."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-0/23
 msgctxt "Tydus"
 msgid "But surely it is just that, a false idol crying out in the desert air for worship and for water."
-msgstr ""
+msgstr "Mais ce n'est sûrement que cela, une fausse idole qui crie dans l'air du désert pour qu'on l'adore et qu'on l'abreuve."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-0/31
 msgctxt "Tydus"
 msgid "Who would want to fight by my side. And who now, at the bottom of the pendulum's path."
-msgstr ""
+msgstr "Qui voudrait combattre à mes côtés. Et qui, maintenant, au fond de la course du pendule."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-0/39/0/s/0
 msgctxt "Choix"
 msgid "I would. A worthy battle is always worth fighting."
-msgstr ""
+msgstr "Moi. Un combat digne vaut toujours d'être mené."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-0/39/1/s/0
 msgctxt "Choix"
 msgid "I'll hang around just to hear you talk more."
-msgstr ""
+msgstr "Je traînerai ici rien que pour t'entendre parler encore."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-1/7
 msgctxt "Tydus"
 msgid "You did? And do you indeed?"
-msgstr ""
+msgstr "Tu l'as fait ? Et le fais-tu vraiment ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-1/15
 msgctxt "Tydus"
 msgid "Ah yes, of course... you would be the one to win at the end of my victory..."
-msgstr ""
+msgstr "Ah oui, bien sûr... tu serais celui ou celle qui gagne au terme de ma victoire..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-1/23
 msgctxt "Tydus"
 msgid "...to feel the loss most keenly after the field has been cleared and there are no more daring actions to be hazarded for bravery."
-msgstr ""
+msgstr "...pour sentir la perte le plus vivement une fois le champ déblayé, quand plus aucun acte audacieux n'est à risquer pour la bravoure."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-1/31
 msgctxt "Tydus"
 msgid "I ask forgiveness for my lack of vision. You and I are together in this."
-msgstr ""
+msgstr "Je te demande pardon pour mon manque de vision. Toi et moi sommes ensemble en ceci."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-3/50/c-1/39
 msgctxt "Tydus"
 msgid "When dauntless I proceed into the fray / not for myself or pods alone I dare."
-msgstr ""
+msgstr "Quand j'avance sans peur dans la mêlée / ce n'est point pour moi ou pour mes pods seuls que j'ose."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/7
 msgctxt "Tydus"
 msgid "Be confused, thou fool!"
-msgstr ""
+msgstr "Sois {{confus|confuse|confus·e}}, {{insensé|insensée|insensé·e}} !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/18
 msgctxt "Tydus"
 msgid "I shall not descend from pure expression to explain myself to you, nor ascend from the mud-thick depths I now inhabit to walk along your false-sunned, paper-bloomed simplicity!"
-msgstr ""
+msgstr "Je ne descendrai pas de l'expression pure pour m'expliquer à toi, ni ne remonterai des profondeurs épaisses de boue où je demeure pour cheminer dans ta simplicité de fausse lumière et de fleurs en papier !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/26
 msgctxt "Tydus"
 msgid "I require not your pity nor your understanding gaze."
-msgstr ""
+msgstr "Je n'ai besoin ni de ta pitié ni de ton regard compréhensif."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/0/s/0
 msgctxt "Choix"
 msgid "Great. You have neither."
-msgstr ""
+msgstr "Super. Tu n'as ni l'une ni l'autre."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/7
 msgctxt "Tydus"
 msgid "Well well. Fortune smiles upon the unworthy today..."
-msgstr ""
+msgstr "Eh bien. La fortune sourit aux indignes aujourd'hui..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/15
 msgctxt "Tydus"
 msgid "I may have faced a battle that has bested me, but here, in the form of this mewling amphibious wretch the chance to redeem my honor!"
-msgstr ""
+msgstr "J'ai peut-être affronté une bataille qui m'a terrassée, mais voici, sous la forme de ce misérable amphibie qui pleurniche, l'occasion de racheter mon honneur !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/26
 msgctxt "Tydus"
 msgid "I warn you, flea, should you continue down this path, there may be no returning from the land you penetrate!"
-msgstr ""
+msgstr "Je t'avertis, puce, si tu poursuis sur cette voie, il n'y aura peut-être aucun retour de la contrée où tu pénètres !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/37
 msgctxt "Tydus"
 msgid "Do you wish to continue down this path of ire and permanent retribution?"
-msgstr ""
+msgstr "Souhaites-tu poursuivre sur cette voie de courroux et de représailles éternelles ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/0/s/0
 msgctxt "Choix"
 msgid "Eek. Permanent? No. No, I'll adjust my attitude."
-msgstr ""
+msgstr "Aïe. Éternelles ? Non. Non, je vais changer d'attitude."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/1/s/0
 msgctxt "Choix"
 msgid "Oh, please. You're a windbag. I'm done."
-msgstr ""
+msgstr "Oh, je t'en prie. Tu n'es qu'un moulin à paroles. J'en ai fini."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/c-0/7
 msgctxt "Tydus"
 msgid "Yes. Adjust. Go and adjust, affix your delicate sensibilities to the cart that will pull you safely through the terrifying landscape of my expression!"
-msgstr ""
+msgstr "Oui. Ajuste-toi. Va t'ajuster, arrime ta délicate sensibilité à la charrette qui te mènera {{sain|saine|sain·e}} et {{sauf|saufve|sauf·ve}} à travers le terrifiant paysage de mon expression !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/c-0/15
 msgctxt "Tydus"
 msgid "Perhaps I fault you not in truth, but here / amongst the battle wreckage, rage yet reigns."
-msgstr ""
+msgstr "Peut-être ne te blâmé-je point en vérité, mais ici / parmi les débris de la bataille, la rage règne encore."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/c-0/23
 msgctxt "Tydus"
 msgid "I advise a flight to safe environs while that path remains open to you..."
-msgstr ""
+msgstr "Je te conseille de fuir vers des lieux sûrs tant que ce chemin t'est ouvert..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/c-0/31
 msgctxt "Tydus"
 msgid "...for night shall gather in around you with a sensate shadow and block out the sun of understanding for all time..."
-msgstr ""
+msgstr "...car la nuit se refermera sur toi d'une ombre sensible et masquera le soleil de la compréhension pour tous les temps..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/c-1/7
 msgctxt "Tydus"
 msgid "Despite the failure I confront this day / my worth and valor unbesmirchéd lie!"
-msgstr ""
+msgstr "Malgré l'échec que j'affronte en ce jour / ma valeur et mon mérite gisent sans souillure !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/c-1/15
 msgctxt "Tydus"
 msgid "A banishment from my sight shall serve both our purposes, I fear... and let thee rail and plea against it as thou must!"
-msgstr ""
+msgstr "Un bannissement de ma vue servira nos deux desseins, je le crains... et tempête et supplie contre, si tu le dois !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_two/0/g-0/16/c-4/34/c-0/45/c-1/23
 msgctxt "Tydus"
 msgid "Much good may it do to an amused ear."
-msgstr ""
+msgstr "Grand bien te fasse, pour une oreille amusée."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/0
 msgctxt "Tydus"
 msgid "I see. At least I think I see."
-msgstr ""
+msgstr "Je vois. Du moins je crois voir."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/8
 msgctxt "Tydus"
 msgid "My eyes are yet clouded by tears, the spent blue blood of valiant pods I threw to watery slaughter."
-msgstr ""
+msgstr "Mes yeux sont encore voilés de larmes, le sang bleu épuisé des pods vaillants que j'ai jetés au carnage aquatique."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/16/s/0
 msgctxt "Choix"
 msgid "I'm sorry to hear that..."
-msgstr ""
+msgstr "Je suis {{désolé|désolée|désolé·e}} de l'apprendre..."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/17/s/0
 msgctxt "Choix"
 msgid "Sounds very violent."
-msgstr ""
+msgstr "Ça a l'air très violent."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/c-0/7
 msgctxt "Tydus"
 msgid "Thank you."
-msgstr ""
+msgstr "Merci."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/c-1/7
 msgctxt "Tydus"
 msgid "It is."
-msgstr ""
+msgstr "Ça l'est."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/g-0/0
 msgctxt "Tydus"
 msgid "But I shall think on your offer."
-msgstr ""
+msgstr "Mais je réfléchirai à ton offre."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/g-0/8
 msgctxt "Tydus"
 msgid "Though alone I've walked this weary path / the darkest curtain may yet lift to light."
-msgstr ""
+msgstr "Bien que seule j'aie foulé ce triste chemin / le plus sombre rideau peut encore s'ouvrir sur la lumière."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/g-0/16
 msgctxt "Tydus"
 msgid "Grant me time, if thou wouldst. I am yet discomposed, and would not treat on matters weighty until I am recovered."
-msgstr ""
+msgstr "Accorde-moi du temps, si tu le veux bien. Je suis encore décomposée et ne traiterais pas d'affaires graves avant d'être remise."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "I will... whatever you need."
-msgstr ""
+msgstr "Je le ferai... tout ce dont tu as besoin."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "Sure, if I have time."
-msgstr ""
+msgstr "Bien sûr, si j'ai le temps."
 
+# Traduction IA – à relire
 #: tydus_tide/companion/0/g-1/0
 msgctxt "Tydus"
 msgid "Come back. Come back... I ask thee."
-msgstr ""
+msgstr "Reviens. Reviens... je te le demande."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/0
 msgctxt "Tydus"
 msgid "Do you mean..."
-msgstr ""
+msgstr "Veux-tu dire..."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/8
 msgctxt "Tydus"
 msgid "You speak as though we are... a team."
-msgstr ""
+msgstr "Tu parles comme si nous étions... une équipe."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/16/s/0
 msgctxt "Choix"
 msgid "We are a team!"
-msgstr ""
+msgstr "On est une équipe !"
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/17/s/0
 msgctxt "Choix"
 msgid "Kinda, though you feel more like you don't care about me."
-msgstr ""
+msgstr "Un peu, même si j'ai plutôt l'impression que je ne t'importe pas."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/c-0/7
 msgctxt "Tydus"
 msgid "Could you mean, and the mere mention is an arrow in the dark field of my battle-wearied consciousness, that I am not commanding in isolation?"
-msgstr ""
+msgstr "Voudrais-tu dire, et la simple mention est une flèche dans le champ obscur de ma conscience harassée de combats, que je ne commande point en isolement ?"
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/c-0/15
 msgctxt "Tydus"
 msgid "Comradeship as arm in arm we march / not alone but linked in faith and purpose /"
-msgstr ""
+msgstr "La camaraderie, quand bras dessus bras dessous nous marchons / non seuls mais liés de foi et de dessein /"
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/c-0/23
 msgctxt "Tydus"
 msgid "lights the hollow of an emptied heart / the way to vict'ry clean and undiminished."
-msgstr ""
+msgstr "éclaire le creux d'un coeur vidé / la voie d'une victoire propre et intacte."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/c-0/31
 msgctxt "Tydus"
 msgid "Of course. I am the general... but you, the purchaser, the arbiter of deployment and even of the field of engagement..."
-msgstr ""
+msgstr "Bien sûr. Je suis la générale... mais toi, l'acheteur ou l'acheteuse, l'arbitre du déploiement et même du champ d'engagement..."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/c-1/7
 msgctxt "Tydus"
 msgid "My apologies... I'm too used to command to content myself with camaraderie."
-msgstr ""
+msgstr "Mes excuses... j'ai trop l'habitude de commander pour me contenter de camaraderie."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/c-1/15
 msgctxt "Tydus"
 msgid "Too focused on the threads and I forget the wearer."
-msgstr ""
+msgstr "Trop attentive aux fils, j'oublie celui ou celle qui les porte."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/g-0/0
 msgctxt "Tydus"
 msgid "...Commandant. It would be folly... it has been folly to call you less so."
-msgstr ""
+msgstr "...{{Commandant|Commandante|Commandant·e}}. Ce serait folie... ce fut folie de t'appeler autrement."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/g-0/8
 msgctxt "Tydus"
 msgid "From my attrition may you grant me pause / a bending fresh to actions ta'en in haste / is needed..."
-msgstr ""
+msgstr "De mon usure puisses-tu m'accorder une pause / un fléchissement neuf aux actes pris trop vite / s'impose..."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/g-0/16
 msgctxt "Tydus"
 msgid "I cannot speak more now. If my Commandant thou art, I beg thy patience as I recompose."
-msgstr ""
+msgstr "Je ne puis en dire plus pour l'heure. Si tu es mon {{Commandant|Commandante|Commandant·e}}, je réclame ta patience le temps de me recomposer."
 
+# Traduction IA – à relire
 #: tydus_tide/team/0/g-0/24
 msgctxt "Tydus"
 msgid "It shall be my honor to receive thy counsel and thy society when I have reformed."
-msgstr ""
+msgstr "Ce sera mon honneur de recevoir ton conseil et ta compagnie quand je me serai reformée."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/14
 msgctxt "Tydus"
 msgid "So you have returned."
-msgstr ""
+msgstr "Te voilà donc {{revenu|revenue|revenu·e}}."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/22/b/1
 msgctxt "Tydus"
 msgid "Returned, hast thou? Hm. I'll confess to a budding interest in meeting you anew... perhaps this time you will choose the path of honor."
-msgstr ""
+msgstr "{{Revenu|Revenue|Revenu·e}}, dis-tu ? Hm. J'avoue un intérêt naissant à te rencontrer de nouveau... peut-être choisiras-tu cette fois la voie de l'honneur."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/23/b/1
 msgctxt "Tydus"
 msgid "Once again. I begin to doubt thy intentions."
-msgstr ""
+msgstr "Encore une fois. Je commence à douter de tes intentions."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/24/b/1
 msgctxt "Tydus"
 msgid "No, but the ire rises. But how monstrous of me. Perhaps you do but throw yourself into the fray with a pure heart. One final chance I offer thee."
-msgstr ""
+msgstr "Non, mais la colère monte. Quelle monstruosité de ma part. Peut-être te jettes-tu dans la mêlée d'un coeur pur. Une dernière chance, je te l'offre."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/27
 msgctxt "Tydus"
 msgid "Sensations new and welcome fill my breast / as stranger, leader, colleague doth present."
-msgstr ""
+msgstr "Des sensations neuves et bienvenues emplissent mon sein / tandis que se présente l'étranger, le chef, le collègue."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/35
 msgctxt "Tydus"
 msgid "As I now see, mine army is but yours / so must I, loyal, follow in its wake."
-msgstr ""
+msgstr "Comme je le vois à présent, mon armée n'est que la tienne / aussi dois-je, loyale, suivre dans son sillage."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/43
 msgctxt "Tydus"
 msgid "And though exhaustion yet lies heavy on my lid / your enterprise will spring me forth anew."
-msgstr ""
+msgstr "Et quoique l'épuisement pèse encore sur ma paupière / ton entreprise me fera jaillir à nouveau."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/51
 msgctxt "Tydus"
 msgid "Have you a task? Have you a great battle to be fought?"
-msgstr ""
+msgstr "As-tu une tâche ? As-tu une grande bataille à mener ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/59/s/0
 msgctxt "Choix"
 msgid "Well... what army are you talking about, exactly?"
-msgstr ""
+msgstr "Hum... de quelle armée tu parles, exactement ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/60/s/0
 msgctxt "Choix"
 msgid "No need to spring forth. We've got time."
-msgstr ""
+msgstr "Pas besoin de jaillir. On a le temps."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/61/s/0
 msgctxt "Choix"
 msgid "Always a battle. Life's a battle."
-msgstr ""
+msgstr "Toujours une bataille. La vie est une bataille."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/11
 msgctxt "Tydus"
 msgid "What army? Do you not know?"
-msgstr ""
+msgstr "Quelle armée ? Ne le sais-tu pas ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/19
 msgctxt "Tydus"
 msgid "They are the tiny bricks upon which an empire is built, they are the fluid flowing through the veins of the life you live, blood unseen!"
-msgstr ""
+msgstr "Ce sont les minuscules briques sur lesquelles se bâtit un empire, le fluide qui coule dans les veines de la vie que tu mènes, sang invisible !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/27
 msgctxt "Tydus"
 msgid "The cleanliness you take for granted they provide at the expense of existence itself."
-msgstr ""
+msgstr "La propreté que tu tiens pour acquise, elles la fournissent au prix de l'existence même."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/35
 msgctxt "Tydus"
 msgid "Would you meet them? Would you lift the veil from your eyes and appreciate the sacrifices that make you possible?"
-msgstr ""
+msgstr "Voudrais-tu les rencontrer ? Voudrais-tu lever le voile de tes yeux et apprécier les sacrifices qui te rendent possible ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/0/s/0
 msgctxt "Choix"
 msgid "Well when you put it like that, obviously I will!"
-msgstr ""
+msgstr "Dit comme ça, évidemment que oui !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/1/s/0
 msgctxt "Choix"
 msgid "Kinda like the understanding I have now."
-msgstr ""
+msgstr "Un peu comme la compréhension que j'en ai maintenant."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/7
 msgctxt "Tydus"
 msgid "And what understanding is that?"
-msgstr ""
+msgstr "Et quelle compréhension est-ce ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "You detergent, me wearer of clean clothes."
-msgstr ""
+msgstr "Toi détergent, moi porteur ou porteuse de vêtements propres."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Um, that my clean gym socks don't require \"sacrifice\"?"
-msgstr ""
+msgstr "Euh, que mes chaussettes de sport propres n'exigent aucun « sacrifice » ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/c-0/7
 msgctxt "Tydus"
 msgid "Ah. Well. In light of this grayscale darkness you seem so proud of, I am afraid I can no longer give you a choice."
-msgstr ""
+msgstr "Ah. Eh bien. À la lumière de cette obscurité grisâtre dont tu sembles si {{fier|fière|fier·ère}}, je crains de ne plus pouvoir te laisser le choix."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/c-0/15
 msgctxt "Tydus"
 msgid "You WILL understand what they have done for you, what they will do for you willingly."
-msgstr ""
+msgstr "Tu COMPRENDRAS ce qu'ils ont fait pour toi, ce qu'ils feront pour toi de plein gré."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "No I won't. You can't make me do anything."
-msgstr ""
+msgstr "Non, je ne comprendrai pas. Tu ne peux rien me forcer à faire."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "Ok... I guess."
-msgstr ""
+msgstr "Ok... je suppose."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/c-0/26/c-0/24
 msgctxt "Tydus"
 msgid "I stand in rage and torrent 'for the lines / of willing soldiers, destined for the field / where death and glory each the other pines / but in the face of apathy, I yield."
-msgstr ""
+msgstr "Je me dresse en rage et en torrent devant les rangs / de soldats consentants, promis au champ / où mort et gloire chacune l'autre convoite / mais face à l'apathie, je cède."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/c-0/26/c-0/32
 msgctxt "Tydus"
 msgid "I cannot make you do. But I can make you go."
-msgstr ""
+msgstr "Je ne puis te forcer à faire. Mais je puis te forcer à partir."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-0/43/c-1/15/c-0/26/c-0/40
 msgctxt "Tydus"
 msgid "The power of my presence I yet hold."
-msgstr ""
+msgstr "Le pouvoir de ma présence, je le détiens encore."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/11
 msgctxt "Tydus"
 msgid "Time. Haven't we always time? What is time?"
-msgstr ""
+msgstr "Le temps. N'a-t-on pas toujours le temps ? Qu'est-ce que le temps ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/19
 msgctxt "Tydus"
 msgid "Time is measured only by our actions, by our awareness of it..."
-msgstr ""
+msgstr "Le temps ne se mesure qu'à nos actes, qu'à la conscience que nous en avons..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/27
 msgctxt "Tydus"
 msgid "I am aware only of the time stolen by death, my Dipodgenes expiring."
-msgstr ""
+msgstr "Je n'ai conscience que du temps dérobé par la mort, mes Dipodgenes qui expirent."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/35
 msgctxt "Tydus"
 msgid "Time is the time elapsed between their noble rush and their dissolution."
-msgstr ""
+msgstr "Le temps est celui qui s'écoule entre leur noble élan et leur dissolution."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/43
 msgctxt "Tydus"
 msgid "Yes, we've time. But such a stain as ink or blood that seeps / with empty mercy and with mirth remains."
-msgstr ""
+msgstr "Oui, nous avons le temps. Mais telle une tache d'encre ou de sang qui s'infiltre / sans pitié vaine et dans la joie demeure."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/0/s/0
 msgctxt "Choix"
 msgid "Damn. You... speak really beautifully."
-msgstr ""
+msgstr "Mince. Tu parles vraiment magnifiquement."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/1/s/0
 msgctxt "Choix"
 msgid "Yep, totally lost."
-msgstr ""
+msgstr "Ouais, complètement {{perdu|perdue|perdu·e}}."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/2/s/0
 msgctxt "Choix"
 msgid "What is a Dipodgenes?"
-msgstr ""
+msgstr "C'est quoi, un Dipodgenes ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/7
 msgctxt "Tydus"
 msgid "It is my curse. It is a depth of feeling that is never filled."
-msgstr ""
+msgstr "C'est ma malédiction. C'est une profondeur de sentiment qui ne se remplit jamais."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/15
 msgctxt "Tydus"
 msgid "Perhaps, if I could bring you into it, it would not feel so fathomless?"
-msgstr ""
+msgstr "Peut-être, si je pouvais t'y mener, ne paraîtrait-elle plus si insondable ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/23
 msgctxt "Tydus"
 msgid "Would you consent to learn more deeply of my world?"
-msgstr ""
+msgstr "Consentirais-tu à découvrir plus profondément mon monde ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Um, yeah. Totally."
-msgstr ""
+msgstr "Euh, ouais. Carrément."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "Eh... don't wanna get that heavy right now."
-msgstr ""
+msgstr "Hum... pas envie de me plomber le moral maintenant."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/31/c-0/7
 msgctxt "Tydus"
 msgid "Then I shall show you my companions. The truest and most fleeting friends."
-msgstr ""
+msgstr "Alors je te présenterai mes compagnons. Les plus vrais et les plus éphémères des amis."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/31/c-1/13
 msgctxt "Tydus"
 msgid "Of course."
-msgstr ""
+msgstr "Bien sûr."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-0/31/c-1/24
 msgctxt "Tydus"
 msgid "A time and a place. I've swum alone till puckered plastic bites/ more lonely darkness nips a practiced wound."
-msgstr ""
+msgstr "Il y a un temps et un lieu. J'ai nagé seule jusqu'à ce que le plastique froissé morde / que plus de ténèbres solitaires mordent une plaie rodée."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-1/7
 msgctxt "Tydus"
 msgid "Lost. The only place to start when one is seeking!"
-msgstr ""
+msgstr "Perdue. Le seul point de départ pour qui cherche !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-1/15
 msgctxt "Tydus"
 msgid "I was lost once. Lost, empty I wandered through the echoing inner reaches!"
-msgstr ""
+msgstr "J'ai été perdue, jadis. Perdue, vide, j'errais dans les profondeurs qui résonnent !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-1/23
 msgctxt "Tydus"
 msgid "Until them. Until I was filled, with friendship and with purpose."
-msgstr ""
+msgstr "Jusqu'à eux. Jusqu'à ce que je sois emplie, d'amitié et de dessein."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-1/31
 msgctxt "Tydus"
 msgid "Only in the darkness, lost and quiet / can the gentle beacon lead us home!"
-msgstr ""
+msgstr "Seulement dans l'obscurité, perdus et silencieux / le doux phare peut-il nous guider jusque chez nous !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-1/42
 msgctxt "Tydus"
 msgid "Come. Meet the harlequin heroes of the field!"
-msgstr ""
+msgstr "Viens. Rencontre les héros arlequins du champ !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-2/7
 msgctxt "Tydus"
 msgid "Do you ask... you do not know."
-msgstr ""
+msgstr "Tu demandes... tu ne sais pas."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-2/15
 msgctxt "Tydus"
 msgid "Forgive me! Or perhaps I am shocked by what you do not see..."
-msgstr ""
+msgstr "Pardonne-moi ! Ou peut-être suis-je choquée par ce que tu ne vois pas..."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-2/23
 msgctxt "Tydus"
 msgid "How strange, that we can see the same horizon day and night and yet its contours are unexplored."
-msgstr ""
+msgstr "Comme il est étrange que nous puissions contempler le même horizon jour et nuit et que ses contours demeurent inexplorés !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-1/51/c-2/31
 msgctxt "Tydus"
 msgid "Allow the remedy to flood your understanding at long last!"
-msgstr ""
+msgstr "Laisse le remède inonder ton entendement enfin !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/11
 msgctxt "Tydus"
 msgid "Indeed! The viscous burble before the storm!"
-msgstr ""
+msgstr "En effet ! Le glouglou visqueux avant la tempête !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/19
 msgctxt "Tydus"
 msgid "The boldest challenge, baiting danger's ego / soaking in the bloody moment's grin!"
-msgstr ""
+msgstr "Le défi le plus audacieux, qui appâte l'ego du danger / trempé dans le sourire de l'instant sanglant !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/27
 msgctxt "Tydus"
 msgid "Perhaps you would meet the troops that carry out our carnage-minded stratagems?"
-msgstr ""
+msgstr "Peut-être voudrais-tu rencontrer les troupes qui mènent nos stratagèmes avides de carnage ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/35
 msgctxt "Tydus"
 msgid "The bold Dipodgenes?"
-msgstr ""
+msgstr "Les vaillants Dipodgenes ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/43/0/s/0
 msgctxt "Choix"
 msgid "Hell yeah. Bring on the review!"
-msgstr ""
+msgstr "Et comment ! Que la revue commence !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/43/1/s/0
 msgctxt "Choix"
 msgid "Y'know, not right now, but I'm sure they're great!"
-msgstr ""
+msgstr "Tu sais, pas maintenant, mais je suis {{sûr|sûre|sûr·e}} qu'ils sont géniaux !"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/43/c-1/13
 msgctxt "Tydus"
 msgid "Not right now. Ah yes. Because to the minds of some, the later moment is the greater. The now is already passing, so why grasp at it?"
-msgstr ""
+msgstr "Pas maintenant. Ah oui. Car pour l'esprit de certains, l'instant futur est le plus grand. Le présent passe déjà, alors à quoi bon s'y accrocher ?"
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/43/c-1/21
 msgctxt "Tydus"
 msgid "Why attempt to live when life is flowing by us, unchallenged."
-msgstr ""
+msgstr "Pourquoi tenter de vivre quand la vie s'écoule près de nous, sans défi."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/43/c-1/29
 msgctxt "Tydus"
 msgid "Rising bile, a curling lip sucks air / my exhaled ire repelling vile indifference."
-msgstr ""
+msgstr "La bile monte, une lèvre qui se plisse aspire l'air / mon courroux exhalé repoussant la vile indifférence."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/43/c-1/37
 msgctxt "Tydus"
 msgid "Should you require a translation... I advise distance from me."
-msgstr ""
+msgstr "Si tu as besoin d'une traduction... je te conseille de prendre tes distances."
 
+# Traduction IA – à relire
 #: tydus_tide/tydus_encounter_three/0/c-2/43/c-1/45
 msgctxt "Tydus"
 msgid "And quickly."
-msgstr ""
+msgstr "Et vite."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenes_never/0/4
 msgctxt "Tydus"
 msgid "How darest thou. Thou show'st thy face here, in this sacred realm which thou hast profaned with indifference and irritation..."
-msgstr ""
+msgstr "Comment oses-tu. Tu montres ton visage ici, dans ce royaume sacré que tu as profané d'indifférence et d'irritation..."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenes_never/0/12
 msgctxt "Tydus"
 msgid "...an unwelcome grain of sand to produce a rotted and misshapen pearl!"
-msgstr ""
+msgstr "...grain de sable importun pour produire une perle pourrie et difforme !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenes_never/0/20/s/0
 msgctxt "Choix"
 msgid "I just wasn't interested!"
-msgstr ""
+msgstr "Ça ne m'intéressait juste pas !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenes_never/0/21/s/0
 msgctxt "Choix"
 msgid "I thought it would be funny."
-msgstr ""
+msgstr "Je pensais que ce serait drôle."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/6
 msgctxt "Narrator"
 msgid "A group of petite pink and blue beings enter from all sides, grouping around Tydus. There's something intensely dramatic about them—is it their Tragedy Mask-like faces? Perhaps the way they pose like theater players?"
-msgstr ""
+msgstr "Un groupe de petits êtres roses et bleus entre de tous côtés et se rassemble autour de Tydus. Il y a en eux quelque chose d'extrêmement dramatique. Est-ce leurs visages en masque de tragédie ? Peut-être leur façon de poser comme des acteurs de théâtre ?"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/17
 msgctxt "Narrator"
 msgid "They cluster around their leader, each striking an elegant and theatrical pose. Tydus spreads her arms wide. She's clearly proud of this little group."
-msgstr ""
+msgstr "Ils se regroupent autour de leur chef, chacun prenant une pose élégante et théâtrale. Tydus écarte grand les bras. Elle est manifestement fière de cette petite troupe."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/28
 msgctxt "Tydus"
 msgid "I present to you... The Dipodgenes!"
-msgstr ""
+msgstr "Je te présente... Les Dipodgenes !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/39
 msgctxt "Narrator"
 msgid "The Dipodgenes speak as one, like a Spring Breeze-scented greek chorus."
-msgstr ""
+msgstr "Les Dipodgenes parlent d'une seule voix, tel un choeur grec parfumé à la Brise de Printemps."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/50
 msgctxt "Dipodgenes"
 msgid "Lead us to the great beyond. We shall purify and be purified!!"
-msgstr ""
+msgstr "Mène-nous vers l'au-delà. Nous purifierons et serons purifiés !!"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/58
 msgctxt "Tydus"
 msgid "They are mine to command, though I do not relish in my duty."
-msgstr ""
+msgstr "Ils sont miens à commander, bien que je ne goûte point ce devoir."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/69
 msgctxt "Tydus"
 msgid "They are who I deploy into the fray. They bring me victory, they bring us victory..."
-msgstr ""
+msgstr "Ce sont eux que je déploie dans la mêlée. Ils m'apportent la victoire, ils nous apportent la victoire..."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/80
 msgctxt "Tydus"
 msgid "...and it destroys them."
-msgstr ""
+msgstr "...et cela les détruit."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/88
 msgctxt "Tydus"
 msgid "Sound buzzers, and our dirtied ensign waves! Vict'ry bought by friends in drownéd graves."
-msgstr ""
+msgstr "Sonnez les buzzers, et notre enseigne souillée flotte ! Victoire payée par des amis en tombes noyées."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/96
 msgctxt "Dipodgenes"
 msgid "Mother, Children, Leader, Soldiers..."
-msgstr ""
+msgstr "Mère, Enfants, Chef, Soldats..."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/104
 msgctxt "Dipodgenes"
 msgid "We rally for thee, General! Guard well and..."
-msgstr ""
+msgstr "Nous nous rallions à toi, Générale ! Garde bien et..."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/112
 msgctxt "Dipodgenes"
 msgid "<w>Sacrifice! Sacrifice! Sacrifice!!</w>"
-msgstr ""
+msgstr "<w>Sacrifice ! Sacrifice ! Sacrifice !!</w>"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/123/s/0
 msgctxt "Choix"
 msgid "Yeah. This is waaaay too weird... I'm outta here!"
-msgstr ""
+msgstr "Ouais. C'est beaucoup trop bizarre... je me casse !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/124/s/0
 msgctxt "Choix"
 msgid "This is so sad! I can see why this takes such a toll on you."
-msgstr ""
+msgstr "C'est tellement triste ! Je vois pourquoi ça te coûte autant."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/125/s/0
 msgctxt "Choix"
 msgid "So beautiful. They have such courage."
-msgstr ""
+msgstr "Si beau. Ils ont tant de courage."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/126/s/0
 msgctxt "Choix"
 msgid "Hey, Dipodgenes! Hm, they look delicious. Imma eat one."
-msgstr ""
+msgstr "Hé, Dipodgenes ! Hm, ils ont l'air délicieux. J'en mange un."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-0/14
 msgctxt "Tydus"
 msgid "Weird??"
-msgstr ""
+msgstr "Bizarre ??"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-0/28
 msgctxt "Tydus"
 msgid "It must be so! It must be \"weird\" to realize the wheels within wheels necessary to support this life you take for granted!"
-msgstr ""
+msgstr "Il faut croire ! Il doit être « bizarre » de saisir les rouages dans les rouages nécessaires à soutenir cette vie que tu tiens pour acquise !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-0/36
 msgctxt "Tydus"
 msgid "The courage and sacrifice of my Dipodgenes, I assure you, is the least weird thing present on this field!"
-msgstr ""
+msgstr "Le courage et le sacrifice de mes Dipodgenes, je t'assure, est la chose la moins bizarre présente sur ce champ !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-0/44
 msgctxt "Tydus"
 msgid "A field which I fear shall no longer suffer the tread of an unconscious heel."
-msgstr ""
+msgstr "Un champ qui, je le crains, ne souffrira plus le pas d'un talon inconscient."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/7
 msgctxt "Tydus"
 msgid "A toll, indeed. The slow-drop leaking, coin by coin my strength bled by the loss of them to whom the battle always falls."
-msgstr ""
+msgstr "Un tribut, en effet. La lente fuite goutte à goutte, pièce à pièce, ma force saignée par la perte de ceux sur qui la bataille retombe toujours."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/18
 msgctxt "Tydus"
 msgid "If I could take their place... ah if I could but sacrifice for them the way they do so lovingly for me."
-msgstr ""
+msgstr "Si je pouvais prendre leur place... ah si seulement je pouvais me sacrifier pour eux comme ils le font si tendrement pour moi."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/26
 msgctxt "Tydus"
 msgid "There is more to do here... there is more of them to know. There is more of us to know, and the next battle is always in the offing!"
-msgstr ""
+msgstr "Il y a encore à faire ici... il y a encore d'eux à connaître. Il y a encore de nous à connaître, et la prochaine bataille est toujours en vue !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/37
 msgctxt "Tydus"
 msgid "But I ask, familiar stranger, for reprieve."
-msgstr ""
+msgstr "Mais je te demande, {{étranger|étrangère|étranger·ère}} {{familier|familière|familier·ère}}, un répit."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/45
 msgctxt "Tydus"
 msgid "Preparation has begun for our next engagement, as it must be near. Perhaps you will join us again."
-msgstr ""
+msgstr "Les préparatifs ont commencé pour notre prochain engagement, qui doit être proche. Peut-être te joindras-tu de nouveau à nous."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/53
 msgctxt "Tydus"
 msgid "Perhaps you will come and feel the glorious sadness you have but glimpsed."
-msgstr ""
+msgstr "Peut-être viendras-tu éprouver la glorieuse tristesse que tu n'as fait qu'entrevoir."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/0/s/0
 msgctxt "Choix"
 msgid "I think what you mean is, come back. If so, I will. Promise."
-msgstr ""
+msgstr "Je crois que tu veux dire : reviens. Si c'est ça, je reviendrai. Promis."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/1/s/0
 msgctxt "Choix"
 msgid "Wouldn't miss it!"
-msgstr ""
+msgstr "Je ne raterais ça pour rien au monde !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/2/s/0
 msgctxt "Choix"
 msgid "I don't know... I'm kind of sensitive to this stuff."
-msgstr ""
+msgstr "Je sais pas... je suis assez sensible à ce genre de trucs."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-0/7
 msgctxt "Tydus"
 msgid "That is indeed my meaning. It pleases me to be understood... if only yet shallowly."
-msgstr ""
+msgstr "C'est bien ce que je voulais dire. Cela me plaît d'être comprise... ne serait-ce que superficiellement."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-1/7
 msgctxt "Tydus"
 msgid "Hm. You hold great promise, I feel. Your zeal to be present for the intensity and depth I only let you glimpse."
-msgstr ""
+msgstr "Hm. Tu portes de grandes promesses, je le sens. Ton zèle à être {{présent|présente|présent·e}} pour l'intensité et la profondeur que je ne t'ai laissé qu'entrevoir."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-1/15
 msgctxt "Tydus"
 msgid "I look forward to your return."
-msgstr ""
+msgstr "J'attends ton retour avec impatience."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/7
 msgctxt "Tydus"
 msgid "It is right to be sensitive to love. To loss."
-msgstr ""
+msgstr "Il est juste d'être sensible à l'amour. À la perte."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "No, no, I meant detergent. I have sensitive skin."
-msgstr ""
+msgstr "Non, non, je parlais de la lessive. J'ai la peau sensible."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "It is. I'll try. That's all I can promise right now."
-msgstr ""
+msgstr "C'est vrai. Je vais essayer. C'est tout ce que je peux promettre pour l'instant."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/c-0/7
 msgctxt "Tydus"
 msgid "If that was an attempt at what is called a \"joke,\" I am not amused."
-msgstr ""
+msgstr "Si c'était une tentative de ce qu'on nomme une « blague », je ne suis point amusée."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/c-0/18
 msgctxt "Tydus"
 msgid "To move wild laughter in the throat of death, it cannot be. It is impossible. And the throat of death is all that would disgorge what lies before you."
-msgstr ""
+msgstr "Qu'un rire sauvage monte dans la gorge de la mort, cela ne se peut. C'est impossible. Et la gorge de la mort est tout ce qui vomirait ce qui s'étale devant toi."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/c-0/26
 msgctxt "Tydus"
 msgid "I advise another attempt at forthrightness. But not now."
-msgstr ""
+msgstr "Je conseille un autre essai de franchise. Mais pas maintenant."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/c-0/34
 msgctxt "Tydus"
 msgid "Gather thy thoughts, assay again anew / the dance of knowing and of being known."
-msgstr ""
+msgstr "Rassemble tes pensées, tente à nouveau / la danse de connaître et d'être connu."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/c-1/7
 msgctxt "Tydus"
 msgid "I understand. A forthright effort honestly begun / is honest honor to a forthright soul."
-msgstr ""
+msgstr "Je comprends. Un effort franc honnêtement entrepris / est honnête honneur pour une âme franche."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-1/61/c-2/15/c-1/15
 msgctxt "Tydus"
 msgid "We are here."
-msgstr ""
+msgstr "Nous y sommes."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/7
 msgctxt "Tydus"
 msgid "They are mere bit players in an epic they cannot see. I am their eye, their protector and their destroyer."
-msgstr ""
+msgstr "Ils ne sont que figurants dans une épopée qu'ils ne voient pas. Je suis leur oeil, leur protectrice et leur destructrice."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/18
 msgctxt "Tydus"
 msgid "And each time I am put away, to await the next battle, I wonder."
-msgstr ""
+msgstr "Et chaque fois qu'on me range, dans l'attente de la prochaine bataille, je me demande."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/26
 msgctxt "Tydus"
 msgid "Will I be able to throw them unto death again when the time comes?"
-msgstr ""
+msgstr "Serai-je capable de les jeter à la mort de nouveau quand l'heure viendra ?"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/34
 msgctxt "Tydus"
 msgid "Once more unto the breach, they cry, once more! / My own heart cow'ring 'neath their couraged roar."
-msgstr ""
+msgstr "Encore une fois à la brèche, crient-ils, encore ! / Mon propre coeur se tapit sous leur rugissement courageux."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/42
 msgctxt "Dipodgenes"
 msgid "Abyss, Abyss, death calls with snaking hiss, We rise, roil and unflinchingly enlist!"
-msgstr ""
+msgstr "Abysse, Abysse, la mort appelle d'un sifflement rampant, Nous nous levons, bouillonnons et nous enrôlons sans broncher !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/50
 msgctxt "Dipodgenes"
 msgid "General, Forward, Onward!"
-msgstr ""
+msgstr "Général, En avant, Toujours plus loin !"
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/0/s/0
 msgctxt "Choix"
 msgid "I think what you do is really powerful. I admire you."
-msgstr ""
+msgstr "Je trouve que ce que tu fais est vraiment puissant. Je t'admire."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/1/s/0
 msgctxt "Choix"
 msgid "I had no idea I was part of something like this."
-msgstr ""
+msgstr "Je ne savais pas que je faisais partie de quelque chose comme ça."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/2/s/0
 msgctxt "Choix"
 msgid "I mean, if you really love them... maybe don't kill them? Just a thought."
-msgstr ""
+msgstr "Enfin, si tu les aimes vraiment... peut-être éviter de les tuer ? Juste une idée."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/c-0/7
 msgctxt "Tydus"
 msgid "Oh... Not until this very moment did I realize how I have longed to hear those words."
-msgstr ""
+msgstr "Oh... Jusqu'à cet instant je ne savais pas combien j'avais aspiré à entendre ces mots."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/c-0/18
 msgctxt "Tydus"
 msgid "I could not have known the new longing that I might find in the fighting of this noble war..."
-msgstr ""
+msgstr "Je ne pouvais savoir le désir nouveau que je trouverais dans le combat de cette noble guerre..."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/c-0/26
 msgctxt "Tydus"
 msgid "...aside an equal. Aside another who could see it."
-msgstr ""
+msgstr "...aux côtés d'un égal. Aux côtés d'un autre qui puisse la voir."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/c-0/34
 msgctxt "Tydus"
 msgid "To see, to see, and seeing to be seen / a nameless pleasure like a bell is struck."
-msgstr ""
+msgstr "Voir, voir, et en voyant être vu / un plaisir sans nom tel une cloche qui sonne."
 
+# Traduction IA – à relire
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/c-0/42
 msgctxt "Tydus"
 msgid "If experience is any teacher, you will go now."
-msgstr ""
+msgstr "Si l'expérience est bonne maîtresse, tu t'en iras maintenant."
 
 #: tydus_tide/Dipodgenesexplained/0/c-2/58/c-0/50
 msgctxt "Tydus"
