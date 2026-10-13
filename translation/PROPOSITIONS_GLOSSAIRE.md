@@ -88,3 +88,8 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 ## prissy_plant (agent Sonnet, 2026-10-13)
 - Flirtilizer → Flirtilisant ; The Woot → le Wouhou ; Wootering Can → l'Arrosouhou
 - Stackgammon → Empilgammon ; Great Nations Park Service → Service des Parcs des Grandes Nations
+
+## arma_alarm (agent Sonnet, 2026-10-13)
+- the Smokes → les Clopes ; crawlspace → vide sanitaire ; hateship → hainitié
+- Firewatch Deputy → adjointe de veille incendie ; deputy firefighter → pompier adjoint / pompière adjointe
+- BEEP → BIP, <w>BLEEP → <w>BIIIP

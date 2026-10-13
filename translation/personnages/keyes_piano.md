@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (Keyes, piano à queue).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (par défaut), avec un ton hautain et soigné.
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, snob, cultivé ; phrases élégantes, mots de musique classique, quelques mots français/italiens.
+- **Personnalité, manière de parler** : diva de conservatoire, exigeante, noir ou blanc (star ou ratée), prend tout comme une tournée de concert. Appelle le joueur ou la joueuse « Maestro » (épicène, gardé tel quel) et « mon cœur » pour « dearest ».
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Maestro » ; rider = « fiche technique (rider) » ; hand-me-down / « Hanmedaun » = mot mal entendu, à adapter (ex. « de seconde main » / « Sekonmin ») ; jeux sur touches (keys), pédales, accord.
+- **Exemples de répliques traduites (référence de ton)** : « Maestro. » ; « Ce qui est <i>effrayant</i> chez une artiste qui peaufine sa prestation ? » ; « Unfortunately I have nothing to perform today » -> « Hélas, je n'ai rien à jouer aujourd'hui... »

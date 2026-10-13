@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: freddy_fridge/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "REFRIGERATOR"
-msgstr ""
+msgstr "RÉFRIGÉRATEUR"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/0
 msgctxt "Freddy"
 msgid "Hmm... time for a snack..."
-msgstr ""
+msgstr "Hmm... l'heure du casse-croûte..."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/8/b/1
 msgctxt "Freddy"
 msgid "Oh, it's you."
-msgstr ""
+msgstr "Oh, c'est toi."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/11/s/0
 msgctxt "Choix"
 msgid "Hey, Freddy. Just looking for some cheese."
-msgstr ""
+msgstr "Salut, Freddy. Je cherche du fromage."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/7
 msgctxt "Freddy"
 msgid "'Looking for some cheese' is the kinda talk for someone on a quest."
-msgstr ""
+msgstr "« Je cherche du fromage », c'est le genre de phrase d'un aventurier en pleine quête."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/15
 msgctxt "Freddy"
 msgid "This ain't a snack, huh?"
-msgstr ""
+msgstr "Ce n'est pas pour un petit creux, hein ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Nope - for Vaughn Trapp!"
-msgstr ""
+msgstr "Non, c'est pour Vaughn Trapp !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/7
 msgctxt "Freddy"
 msgid "Wow. Haven't heard that name in a long time."
-msgstr ""
+msgstr "Wow. Ça faisait longtemps que je n'avais pas entendu ce nom."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/15
 msgctxt "Freddy"
 msgid "Well, I got a block of cheddar with your name on it."
-msgstr ""
+msgstr "Bon, j'ai un bloc de cheddar qui porte ton nom."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/23
 msgctxt "Freddy"
 msgid "Or well... his name."
-msgstr ""
+msgstr "Enfin... son nom à lui."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/31
 msgctxt "Freddy"
 msgid "Anyway, hope it does the trick."
-msgstr ""
+msgstr "Bref, j'espère que ça fera l'affaire."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/42
 msgctxt "Narrator"
 msgid "Freddy hands you a small block of cheese."
-msgstr ""
+msgstr "Freddy vous tend un petit bloc de fromage."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/50/0/s/0
 msgctxt "Choix"
 msgid "Excellent. Thanks!"
-msgstr ""
+msgstr "Excellent. Merci !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/50/c-0/7/b/1
 msgctxt "Freddy"
 msgid "...tell Vaughn to take care."
-msgstr ""
+msgstr "...dis à Vaughn de faire attention à lui."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_get_cheese/0/c-0/23/c-0/50/c-0/10/b/1
 msgctxt "Freddy"
 msgid "No problem. See ya later, cool kid!"
-msgstr ""
+msgstr "Pas de souci. À plus tard, cool kid !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/3
 msgctxt "Narrator"
 msgid "You'd hoped to meet your refrigerator, but it seems he's already busy with another guest."
-msgstr ""
+msgstr "Vous espériez rencontrer votre réfrigérateur, mais il semble déjà occupé avec un autre invité."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/11
 msgctxt "Mitchell"
 msgid "Freddy... this is all rather dull."
-msgstr ""
+msgstr "Freddy... tout ceci est assez fastidieux."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/22
 msgctxt "Freddy"
 msgid "How can you say that when you haven't heard the COOLEST part?"
-msgstr ""
+msgstr "Comment peux-tu dire ça alors que tu n'as pas entendu la partie la plus COOL ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/30
 msgctxt "Mitchell"
 msgid "Regale me."
-msgstr ""
+msgstr "Régale-moi."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/38
 msgctxt "Freddy"
 msgid "The point in which gelatin goes from a liquid to a solid. Can you guess the temperature?"
-msgstr ""
+msgstr "Le moment où la gélatine passe de liquide à solide. Tu devines la température ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/46
 msgctxt "Mitchell"
 msgid "Certainly."
-msgstr ""
+msgstr "Certainement."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/54
 msgctxt "Freddy"
 msgid "Gooooo on. Guess for me."
-msgstr ""
+msgstr "Alleeez. Devine pour moi."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/62/b/1
 msgctxt "Mitchell"
 msgid "I do not guess. Perhaps this human would like to assay an attempt?"
-msgstr ""
+msgstr "Je ne devine pas. Peut-être que cet humain voudrait s'y essayer ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/65/b/1
 msgctxt "Mitchell"
 msgid "I do not guess. Perhaps the human would like to assay an attempt?"
-msgstr ""
+msgstr "Je ne devine pas. Peut-être que l'humain voudrait s'y essayer ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/68/b/1
 msgctxt "Mitchell"
 msgid "I do not guess. Perhaps my lover would like to assay an attempt?"
-msgstr ""
+msgstr "Je ne devine pas. Peut-être que ma moitié voudrait s'y essayer ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/71/s/0
 msgctxt "Choix"
 msgid "Umm, below 60 degrees Fahrenheit?"
-msgstr ""
+msgstr "Hum, en dessous de 15 degrés ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/72/s/0
 msgctxt "Choix"
 msgid "At freezing?"
-msgstr ""
+msgstr "À zéro ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/73/s/0
 msgctxt "Choix"
 msgid "Trick question. Gelatin is always a soup!"
-msgstr ""
+msgstr "Question piège. La gélatine, c'est toujours de la soupe !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/c-0/7
 msgctxt "Freddy"
 msgid "Wooooooow. How did you know?!"
-msgstr ""
+msgstr "Waoooouh. Comment t'as su ?!"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/c-1/7
 msgctxt "Freddy"
 msgid "Not that cold! It starts at 60 degrees Fahrenheit!"
-msgstr ""
+msgstr "Pas si froid ! Ça commence à 15 degrés !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/c-2/7
 msgctxt "Freddy"
 msgid "I... I've never heard of it that way. I think that's wrong. But fun guess!"
-msgstr ""
+msgstr "Je... je ne l'avais jamais entendu comme ça. Je crois que c'est faux. Mais belle tentative !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/0
 msgctxt "Mitchell"
 msgid "Oh, look at the time. I must be on my way to a more interesting conversation."
-msgstr ""
+msgstr "Oh, regardez l'heure. Je dois filer vers une conversation plus intéressante."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/11
 msgctxt "Narrator"
 msgid "Now alone, the massive yeti turns his attention to you. You want to speak to him, but it takes you a few moments to process what you're seeing."
-msgstr ""
+msgstr "Maintenant seul, l'immense yéti tourne son attention vers vous. Vous voulez lui parler, mais il vous faut quelques instants pour digérer ce que vous voyez."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/19
 msgctxt "Narrator"
 msgid "...yep. That is indeed a yeti—massive, furry, and decked out in his finest winter wear."
-msgstr ""
+msgstr "...oui. C'est bien un yéti : massif, velu, et vêtu de ses plus beaux habits d'hiver."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/27
 msgctxt "Freddy"
 msgid "Huh. He ran like he didn't want to be here or somethin'!"
-msgstr ""
+msgstr "Huh. Il a filé comme s'il n'avait pas envie d'être là ou quoi !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/35
 msgctxt "Freddy"
 msgid "But you! With the answers and the listening! That can only mean one thing."
-msgstr ""
+msgstr "Mais toi ! Les réponses, l'écoute ! Ça ne peut vouloir dire qu'une chose."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/43/s/0
 msgctxt "Choix"
 msgid "...that thing is?"
-msgstr ""
+msgstr "...cette chose étant ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/44/s/0 freddy_fridge/freddy_intro_encounter/0/g-2/43/s/0
 msgctxt "Choix"
 msgid "What are you talking about?"
-msgstr ""
+msgstr "De quoi tu parles ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/45/s/0
 msgctxt "Choix"
 msgid "You're madly in love with me?"
-msgstr ""
+msgstr "Tu es dingue de moi ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/c-3/7 freddy_fridge/freddy_intro_encounter/0/g-0/c-4/7
 msgctxt "Freddy"
 msgid "With you standin' in the kitchen, I'm no longer the coolest thing in here!"
-msgstr ""
+msgstr "Avec toi dans la cuisine, je ne suis plus la chose la plus cool ici !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/c-5/7
 msgctxt "Freddy"
 msgid "Well yeah! But not in an official kinda way."
-msgstr ""
+msgstr "Ben oui ! Mais pas de façon officielle."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-0/c-5/15
 msgctxt "Freddy"
 msgid "It's that with you standin' in the kitchen, I'm no longer the coolest thing in here!"
-msgstr ""
+msgstr "C'est que, avec toi dans la cuisine, je ne suis plus la chose la plus cool ici !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "That was... kinda sweet."
-msgstr ""
+msgstr "C'était... plutôt mignon."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "Corny alert!"
-msgstr ""
+msgstr "Alerte ringard !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-1/c-6/7
 msgctxt "Freddy"
 msgid "That's me! I try to be sweeter than that chocolate bar you've been hiding from yourself inside the butter drawer for the past few weeks."
-msgstr ""
+msgstr "Tout moi, ça ! J'essaie d'être plus doux que cette tablette de chocolat que tu te caches à toi-même dans le bac à beurre depuis des semaines."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-1/c-6/15
 msgctxt "Freddy"
 msgid "Don't worry."
-msgstr ""
+msgstr "Ne t'en fais pas."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-1/c-6/23
 msgctxt "Freddy"
 msgid "...I'll never tell."
-msgstr ""
+msgstr "...je ne dirai rien."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-1/c-7/7
 msgctxt "Freddy"
 msgid "Canned, creamed, or fritters?"
-msgstr ""
+msgstr "En boîte, en crème ou en beignets ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/0
 msgctxt "Freddy"
 msgid "But really, to what does 'ole Freddy here owe the pleasure of this visit?"
-msgstr ""
+msgstr "Mais sérieusement, à quoi le vieux Freddy doit-il le plaisir de cette visite ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/11
 msgctxt "Freddy"
 msgid "Oh! Did you make another order to Food Fetch?! What did you get this time?"
-msgstr ""
+msgstr "Oh ! Tu as passé une autre commande sur Food Fetch ?! Tu as pris quoi cette fois ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/19
 msgctxt "Freddy"
 msgid "Did you order sushi? Oh, I love it when you get those little rolls that have the tiny bubbles on top."
-msgstr ""
+msgstr "Tu as commandé des sushis ? Oh, j'adore quand tu prends ces petits rouleaux avec les minuscules bulles sur le dessus."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/27
 msgctxt "Freddy"
 msgid "No! Wait! You know what we haven't had in a while? Burritos!"
-msgstr ""
+msgstr "Non ! Attends ! Tu sais ce qu'on n'a pas eu depuis longtemps ? Des burritos !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/35
 msgctxt "Freddy"
 msgid "But you might want to hold back on the beans because... well, you know why."
-msgstr ""
+msgstr "Mais tu devrais peut-être y aller doucement sur les haricots parce que... enfin, tu sais pourquoi."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/44/s/0
 msgctxt "Choix"
 msgid "You got it, Freddy."
-msgstr ""
+msgstr "Comme tu veux, Freddy."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/45/s/0
 msgctxt "Choix"
 msgid "We're going there already?"
-msgstr ""
+msgstr "On en est déjà là ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/c-8/7
 msgctxt "Freddy"
 msgid "...farts?"
-msgstr ""
+msgstr "...les pets ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/c-8/15
 msgctxt "Freddy"
 msgid "Sorry I know that's not the best thing to talk about but I'm just giving you bean consumption tips!"
-msgstr ""
+msgstr "Désolé, je sais que ce n'est pas le meilleur sujet, mais je te donne juste des conseils sur la consommation de haricots !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-2/c-10/7
 msgctxt "Freddy"
 msgid "Hey just tellin' the truth!"
-msgstr ""
+msgstr "Hé, je dis juste la vérité !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/0
 msgctxt "Freddy"
 msgid "So what are you doin' here now..."
-msgstr ""
+msgstr "Alors qu'est-ce que tu fabriques ici..."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/8
 msgctxt "Freddy"
 msgid "Don't tell me. Let me guess... let me guess..."
-msgstr ""
+msgstr "Ne me dis rien. Laisse-moi deviner... laisse-moi deviner..."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/16
 msgctxt "Freddy"
 msgid "Are you feeling fancy today? You look fancy, cool kid. I bet you are feeling fancy."
-msgstr ""
+msgstr "Tu te sens d'humeur raffinée aujourd'hui ? Tu as l'air raffiné, cool kid. Je parie que tu te sens raffiné."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/24
 msgctxt "Freddy"
 msgid "I got it! You ordered my favorite... that duck from the one place that I can never pronounce."
-msgstr ""
+msgstr "J'ai trouvé ! Tu as commandé mon plat préféré... ce canard de cet endroit que je n'arrive jamais à prononcer."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/32
 msgctxt "Freddy"
 msgid "I loooooooove duck!"
-msgstr ""
+msgstr "J'adoooore le canard !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/40/s/0
 msgctxt "Choix"
 msgid "Nope."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/41/s/0
 msgctxt "Choix"
 msgid "Hmmm... what else do you like?"
-msgstr ""
+msgstr "Hmmm... qu'est-ce que tu aimes d'autre ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/42/s/0
 msgctxt "Choix"
 msgid "What about rubber duck?"
-msgstr ""
+msgstr "Et le canard en plastique ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/c-13/7
 msgctxt "Freddy"
 msgid "Rebel?"
-msgstr ""
+msgstr "Rebel ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-3/c-13/15
 msgctxt "Freddy"
 msgid "That thing scares me."
-msgstr ""
+msgstr "Cette chose me fait peur."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/0
 msgctxt "Freddy"
 msgid "Hmm... A burger? Chicken tenders? Empanadas?"
-msgstr ""
+msgstr "Hmm... Un burger ? Des tenders de poulet ? Des empanadas ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/8
 msgctxt "Freddy"
 msgid "Oh, I love when you use Food Fetch!"
-msgstr ""
+msgstr "Oh, j'adore quand tu utilises Food Fetch !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/16
 msgctxt "Freddy"
 msgid "The possibilities are endless!"
-msgstr ""
+msgstr "Les possibilités sont infinies !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/24
 msgctxt "Freddy"
 msgid "...as endless as they can be within a 10 mile radius."
-msgstr ""
+msgstr "...aussi infinies qu'elles peuvent l'être dans un rayon de 15 kilomètres."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/32/s/0
 msgctxt "Choix"
 msgid "Food Fetch is a ripoff! I'm trying to cut back."
-msgstr ""
+msgstr "Food Fetch, c'est de l'arnaque ! J'essaie de réduire."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/33/s/0
 msgctxt "Choix"
 msgid "We have plenty of food here, don't we?"
-msgstr ""
+msgstr "On a plein de nourriture ici, non ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/c-14/7
 msgctxt "Freddy"
 msgid "Oh! Why didn't you say so?"
-msgstr ""
+msgstr "Oh ! Pourquoi tu ne l'as pas dit plus tôt ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/c-15/7
 msgctxt "Freddy"
 msgid "Oh sure! We sure do!"
-msgstr ""
+msgstr "Oh oui ! Ça, on en a !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/c-15/15
 msgctxt "Freddy"
 msgid "You sound so adult, cool kid. \"We have food at home!\" Hehehe."
-msgstr ""
+msgstr "Tu parles comme un adulte, cool kid. « On a à manger à la maison ! » Hehehe."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/c-15/23
 msgctxt "Freddy"
 msgid "But, I guess you do still have stuff left over from the last few Food Fetch orders."
-msgstr ""
+msgstr "Mais bon, il te reste encore des trucs des dernières commandes Food Fetch."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-4/c-15/31/0/s/0
 msgctxt "Choix"
 msgid "I wonder what I've got..."
-msgstr ""
+msgstr "Je me demande ce que j'ai..."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-5/0
 msgctxt "Freddy"
 msgid "You hungry? What can we get you? We've got those left overs from that Thai Me To The Moon place, the slice of cake from I Like Big Bundts, or the pizza from Pie On Life. Which will it be?"
-msgstr ""
+msgstr "Tu as faim ? Qu'est-ce qu'on te sert ? On a les restes de chez Thai Me To The Moon, la part de gâteau de chez I Like Big Bundts, ou la pizza de chez Pie On Life. Ce sera quoi ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-5/8/s/0
 msgctxt "Choix"
 msgid "Pad See for me, please!"
-msgstr ""
+msgstr "Du Pad See pour moi, s'il te plaît !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-5/9/s/0
 msgctxt "Choix"
 msgid "Cake does sound really good right now."
-msgstr ""
+msgstr "Le gâteau me tente vraiment, là."
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-5/10/s/0
 msgctxt "Choix"
 msgid "Gimme that 'za!"
-msgstr ""
+msgstr "Passe-moi cette pizza !"
 
+# Traduction IA – à relire
 #: freddy_fridge/freddy_intro_encounter/0/g-5/11/s/0
 msgctxt "Choix"
 msgid "I'm actually not that hungry right now."
-msgstr ""
+msgstr "En fait, je n'ai pas si faim pour l'instant."
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/10
 msgctxt "Freddy"
 msgid "Excellent choice!"
-msgstr ""
+msgstr "Excellent choix !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/18
 msgctxt "Freddy"
 msgid "If I may describe the dish to you..."
-msgstr ""
+msgstr "Si je peux me permettre de te décrire le plat..."
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/26
 msgctxt "Freddy"
 msgid "<w>ahem</w>"
-msgstr ""
+msgstr "<w>ahem</w>"
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/37
 msgctxt "Freddy"
 msgid "What we have for you today is a beautiful Pad See Ew with broccoli, shiitake AND button mushrooms, some egg (?), and just a hint of some kinda spice that makes the whole thing sing!"
-msgstr ""
+msgstr "Ce qu'on a pour toi aujourd'hui, c'est un magnifique Pad See Ew avec du brocoli, des shiitakés ET des champignons de Paris, un peu d'oeuf (?), et juste une pointe d'une épice qui fait chanter l'ensemble !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/45
 msgctxt "Freddy"
 msgid "Aw you can't go wrong with anything from Thai Me To The Moon! They always have the freshest ingredients and best reusable containers!"
-msgstr ""
+msgstr "Ah, on ne peut pas se tromper avec Thai Me To The Moon ! Leurs ingrédients sont toujours ultra frais et leurs boîtes réutilisables sont les meilleures !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/53
 msgctxt "Freddy"
 msgid "And don't worry. I kept it nice and fresh for you."
-msgstr ""
+msgstr "Et ne t'inquiète pas. Je te l'ai gardé bien frais."
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/61
 msgctxt "Freddy"
 msgid "Remember, heat it up with just a liiiiitle bit of oil in a pan for a few minutes. If you do choose to nuke it, don't do it too long. You could dry the whole thing out!"
-msgstr ""
+msgstr "Rappelle-toi : fais-le réchauffer avec juste un tout petit peu d'huile dans une poêle pendant quelques minutes. Si tu choisis le micro-ondes, ne le laisse pas trop longtemps. Tu risques de tout dessécher !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/69/s/0
 msgctxt "Choix"
 msgid "Thanks for that!"
-msgstr ""
+msgstr "Merci du conseil !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Thai_Me_Moon/0/70/s/0
 msgctxt "Choix"
 msgid "I'll eat it cold. It tastes better that way."
-msgstr ""
+msgstr "Je le mangerai froid. C'est meilleur comme ça."
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/10
 msgctxt "Freddy"
 msgid "Yummmy! I like big bundts and I cannot lie!"
-msgstr ""
+msgstr "Miam ! J'aime les gros bundts et je ne peux pas le nier !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/21
 msgctxt "Freddy"
 msgid "I am still surprised that you had the willpower to save this thing! This Peaches and Cream Bundt cake is just bursting with flavor!"
-msgstr ""
+msgstr "Je suis encore surpris que tu aies eu la volonté de le garder ! Ce gâteau Bundt pêches-crème déborde de saveur !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/29
 msgctxt "Freddy"
 msgid "No peach flavoring here, cool kid! They use the real stuff!"
-msgstr ""
+msgstr "Pas d'arôme de pêche ici, cool kid ! Ils utilisent de la vraie !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/37
 msgctxt "Freddy"
 msgid "I... did dry it out a bit as I held it for you. Easy fix, though!"
-msgstr ""
+msgstr "Je... l'ai un peu desséché en le gardant pour toi. Mais c'est facile à rattraper !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/45
 msgctxt "Freddy"
 msgid "Get two paper towels kinda moist, put one under the slice and one over it, then slide it into the microwave."
-msgstr ""
+msgstr "Prends deux essuie-tout légèrement humides, mets-en un sous la part et un dessus, puis glisse le tout au micro-ondes."
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/53/s/0
 msgctxt "Choix"
 msgid "The microwave?"
-msgstr ""
+msgstr "Au micro-ondes ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/c-0/7
 msgctxt "Freddy"
 msgid "Truuuust me. Just for like... twenty seconds or so? Ka-Pow! A bundt so fluffy you can't help but take a bite!"
-msgstr ""
+msgstr "Fais-moi confiaaance. Juste une vingtaine de secondes, peut-être ? Ka-Pow ! Un Bundt si moelleux que tu ne pourras pas t'empêcher d'y mordre !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Twenty seconds. Got it!"
-msgstr ""
+msgstr "Vingt secondes. Compris !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Big_Bundts/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Stale cake is where it's at! I'll be just fine."
-msgstr ""
+msgstr "Le gâteau rassis, y a que ça de vrai ! Je m'en sortirai très bien."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/10
 msgctxt "Freddy"
 msgid "No such thing as a bad slice of pizza!"
-msgstr ""
+msgstr "Il n'existe pas de mauvaise part de pizza !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/21
 msgctxt "Freddy"
 msgid "I will say, I was judging you a little when I saw the pineapple on it, cool kid. But, I'll admit it smelled fantastic."
-msgstr ""
+msgstr "Je dois avouer que j'ai eu un petit jugement en voyant l'ananas dessus, cool kid. Mais je reconnais que ça sentait fantastique."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/29/s/0
 msgctxt "Choix"
 msgid "Pineapple on pizza is my reason for living."
-msgstr ""
+msgstr "L'ananas sur la pizza, c'est ma raison de vivre."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/30/s/0
 msgctxt "Choix"
 msgid "Yeah they made a mistake when I delivered."
-msgstr ""
+msgstr "Ouais, ils ont fait une erreur à la livraison."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/c-0/11
 msgctxt "Freddy"
 msgid "Yes! Me too! I was testin' ya!"
-msgstr ""
+msgstr "Oui ! Moi aussi ! Je te testais !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/c-0/28
 msgctxt "Freddy"
 msgid "Ah just kiddin' cool kid. It's... it's not true love just yet."
-msgstr ""
+msgstr "Ah, je rigole, cool kid. Ce n'est pas encore le grand amour."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/c-0/45
 msgctxt "Freddy"
 msgid "But still... I like your style."
-msgstr ""
+msgstr "Mais quand même... j'aime ton style."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/c-1/7
 msgctxt "Freddy"
 msgid "I hear ya - that can happen. Hope you still gave 'em a good tip!"
-msgstr ""
+msgstr "Je comprends, ça arrive. J'espère que tu leur as quand même laissé un bon pourboire !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/0
 msgctxt "Freddy"
 msgid "Man... that pizza... The way that cheese was stretching?"
-msgstr ""
+msgstr "Mec... cette pizza... Tu as vu comme le fromage filait ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/8
 msgctxt "Freddy"
 msgid "I get shivers just thinking about it. So good!"
-msgstr ""
+msgstr "J'en ai des frissons rien que d'y penser. Si bon !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/16
 msgctxt "Freddy"
 msgid "The 'za is a way of life!"
-msgstr ""
+msgstr "La pizza, c'est un art de vivre !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/24
 msgctxt "Freddy"
 msgid "I know you eat it cold sometimes, but I can make a suggestion on how to make it better?"
-msgstr ""
+msgstr "Je sais que tu la manges parfois froide, mais je peux te suggérer comment la rendre meilleure ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "Sure, what'cha got?"
-msgstr ""
+msgstr "Vas-y, je t'écoute."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "Naw, I'll stick with it cold."
-msgstr ""
+msgstr "Non, je garde la version froide."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/c-2/13
 msgctxt "Freddy"
 msgid "Slide that leftover slice on a pan inside the oven on low. Let that cheese get all gooey again. Then the pizza will be perfection!"
-msgstr ""
+msgstr "Glisse la part de reste sur une plaque dans le four à feu doux. Laisse le fromage redevenir tout coulant. Et la pizza sera parfaite !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/c-3/7
 msgctxt "Freddy"
 msgid "Going back to those college days, huh? I feel that. No such thing as a bad way to eat a slice!"
-msgstr ""
+msgstr "Retour aux années fac, hein ? Je comprends. Il n'y a pas de mauvaise façon de manger une part !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pie_On_Life/0/g-0/c-3/15
 msgctxt "Freddy"
 msgid "If you want to try something new, slide it in the oven for a bit. It will tantalize your taste buds, bud!"
-msgstr ""
+msgstr "Si tu veux essayer du nouveau, glisse-la un moment au four. Elle va émoustiller tes papilles, pote !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Intro_encounter_wrapup/0
 msgctxt "Freddy"
 msgid "Next time you are feeling peckish, you know where to find me, cool kid! I'll be here waiting!"
-msgstr ""
+msgstr "La prochaine fois que tu as un petit creux, tu sais où me trouver, cool kid ! Je serai là à t'attendre !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Intro_encounter_wrapup_2/0
 msgctxt "Freddy"
 msgid "Don't forget you have some tasty dishes waiting here for you, cool kid!"
-msgstr ""
+msgstr "N'oublie pas que de bons petits plats t'attendent ici, cool kid !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Intro_encounter_wrapup_2/8
 msgctxt "Freddy"
 msgid "If you wanna have something later, just let me know!"
-msgstr ""
+msgstr "Si tu veux manger quelque chose plus tard, dis-le-moi !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/0
 msgctxt "Freddy"
 msgid "Well, if it isn't the coolest human in the kitchen!"
-msgstr ""
+msgstr "Tiens, mais voilà la personne la plus cool de la cuisine !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/8
 msgctxt "Freddy"
 msgid "I was talking about you, in case you were wondering."
-msgstr ""
+msgstr "Je parlais de toi, au cas où tu te poserais la question."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/16/s/0
 msgctxt "Choix"
 msgid "Thanks Freddy!"
-msgstr ""
+msgstr "Merci Freddy !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/17/s/0
 msgctxt "Choix"
 msgid "I wasn't wondering."
-msgstr ""
+msgstr "Je ne me posais pas la question."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/c-0/7
 msgctxt "Freddy"
 msgid "Just speakin' truth, cool kid."
-msgstr ""
+msgstr "Je dis juste la vérité, cool kid."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/c-1/7
 msgctxt "Freddy"
 msgid "All right."
-msgstr ""
+msgstr "Bon."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/0
 msgctxt "Freddy"
 msgid "What can I get for you today?"
-msgstr ""
+msgstr "Qu'est-ce que je peux te servir aujourd'hui ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Eh, maybe I'll eat later."
-msgstr ""
+msgstr "Bof, je mangerai peut-être plus tard."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "What you got that I can munch on?"
-msgstr ""
+msgstr "Qu'est-ce que tu as à me proposer à grignoter ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-2/7
 msgctxt "Freddy"
 msgid "Oh, sure! Don't forget to eat though! Every meal is the most important one of the day! I'll be here when you get hungry!"
-msgstr ""
+msgstr "Oh, d'accord ! N'oublie pas de manger quand même ! Chaque repas est le plus important de la journée ! Je serai là quand tu auras faim !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-3/7
 msgctxt "Freddy"
 msgid "Let's see what's still good in here."
-msgstr ""
+msgstr "Voyons ce qui est encore bon là-dedans."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-3/15/b/1
 msgctxt "Freddy"
 msgid "Oh! We have the Thai food."
-msgstr ""
+msgstr "Oh ! On a le plat thaï."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-3/18/b/1
 msgctxt "Freddy"
 msgid "Still have a few slices of pizza."
-msgstr ""
+msgstr "Il reste encore quelques parts de pizza."
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-3/21/b/1
 msgctxt "Freddy"
 msgid "We got that delicious smelling cake waiting for ya!"
-msgstr ""
+msgstr "On a ce gâteau qui sent délicieusement bon et qui t'attend !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-3/24/0/s/0
 msgctxt "Choix"
 msgid "The pizza for me!"
-msgstr ""
+msgstr "La pizza pour moi !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-3/24/1/s/0
 msgctxt "Choix"
 msgid "Thai sounds like it'll hit the spot!"
-msgstr ""
+msgstr "Le thaï, ça devrait faire l'affaire !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Leftovers/0/g-0/c-3/24/2/s/0
 msgctxt "Choix"
 msgid "Cake! Cake! Caaaake!"
-msgstr ""
+msgstr "Du gâteau ! Du gâteau ! Du gâââteau !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/0
 msgctxt "Freddy"
 msgid "Cool kid! I'm so glad you're here."
-msgstr ""
+msgstr "Cool kid ! Je suis si content que tu sois là."
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/8
 msgctxt "Freddy"
 msgid "I'm really starting to get worried."
-msgstr ""
+msgstr "Je commence vraiment à m'inquiéter."
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/16/s/0
 msgctxt "Choix"
 msgid "About what?"
-msgstr ""
+msgstr "À propos de quoi ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/7
 msgctxt "Freddy"
 msgid "All this food! You haven't eaten a single bit of it!"
-msgstr ""
+msgstr "Toute cette nourriture ! Tu n'en as pas mangé une miette !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/15
 msgctxt "Freddy"
 msgid "Is everything okay? Did I do something? I promise I'm keeping it as fresh as I can for you!"
-msgstr ""
+msgstr "Tout va bien ? J'ai fait quelque chose ? Je te promets que je la garde aussi fraîche que possible pour toi !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Oh yeah. I'm just getting my food from somewhere else!"
-msgstr ""
+msgstr "Oh oui. Je me nourris juste ailleurs !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "You're more concerned about the food than me?"
-msgstr ""
+msgstr "Tu t'inquiètes plus pour la nourriture que pour moi ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/23/2/s/0
 msgctxt "Choix"
 msgid "I came here to grab something to eat actually!"
-msgstr ""
+msgstr "En fait, je suis venu chercher quelque chose à manger !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/23/c-0/7
 msgctxt "Freddy"
 msgid "You are getting Food Fetch without me!? I thought that was our thing!"
-msgstr ""
+msgstr "Tu commandes sur Food Fetch sans moi !? Je croyais que c'était notre truc !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/23/c-0/15
 msgctxt "Freddy"
 msgid "Just as long as you are eating, that's all I'm here for."
-msgstr ""
+msgstr "Du moment que tu manges, c'est tout ce qui m'importe."
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/23/c-1/7
 msgctxt "Freddy"
 msgid "I'm concerned about all of it! I mean, I can only keep things edible for so long. And you NEED FOOD TO LIVE! I like you alive."
-msgstr ""
+msgstr "Je m'inquiète pour tout ! Je ne peux garder les choses comestibles qu'un temps. Et il te FAUT DE LA NOURRITURE POUR VIVRE ! Je te préfère en vie."
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/c-0/23/c-2/7
 msgctxt "Freddy"
 msgid "Phew! And here I was, worried for nothing!"
-msgstr ""
+msgstr "Ouf ! Et moi qui m'inquiétais pour rien !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/g-0/0
 msgctxt "Freddy"
 msgid "So... are you thinking about grabbing something to mash between the molars?"
-msgstr ""
+msgstr "Alors... tu penses à prendre de quoi te mettre sous la dent ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "I'm good! Thank you though."
-msgstr ""
+msgstr "Ça va, merci quand même !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "All the food talk has made me hungry..."
-msgstr ""
+msgstr "Toute cette conversation sur la bouffe m'a donné faim..."
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/g-0/c-1/13
 msgctxt "Freddy"
 msgid "...okay. If you say so. Just know I wanna make sure you are taken care of, cool kid!"
-msgstr ""
+msgstr "...d'accord. Si tu le dis. Sache juste que je veux m'assurer qu'on prend soin de toi, cool kid !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Going_Bad/0/g-0/c-2/7
 msgctxt "Freddy"
 msgid "GREAT! Let's see what we've got!"
-msgstr ""
+msgstr "SUPER ! Voyons ce qu'on a !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/0
 msgctxt "Freddy"
 msgid "Let me see, let me see."
-msgstr ""
+msgstr "Voyons voir, voyons voir."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/16
 msgctxt "Freddy"
 msgid "Ah! I think these might be on their last leg, BUT they are still good."
-msgstr ""
+msgstr "Ah ! Je crois qu'ils sont en bout de course, MAIS ils sont encore bons."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/24/b/1
 msgctxt "Freddy"
 msgid "We got a slice 'o' pizza that you can nibble on."
-msgstr ""
+msgstr "On a une part de pizza que tu peux grignoter."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/27/b/1
 msgctxt "Freddy"
 msgid "The bundt cake can be feasted 'pon!"
-msgstr ""
+msgstr "Le gâteau Bundt n'attend que d'être dévoré !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/30/b/1
 msgctxt "Freddy"
 msgid "You could polish off the thai noodles!"
-msgstr ""
+msgstr "Tu pourrais finir les nouilles thaïes !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/33
 msgctxt "Freddy"
 msgid "The world is your oyster!"
-msgstr ""
+msgstr "Le monde est ton huître !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/41
 msgctxt "Freddy"
 msgid "Oooh... now I want oysters."
-msgstr ""
+msgstr "Oooh... maintenant j'ai envie d'huîtres."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/49/s/0
 msgctxt "Choix"
 msgid "Pizza never gets old!"
-msgstr ""
+msgstr "La pizza, on ne s'en lasse jamais !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/50/s/0
 msgctxt "Choix"
 msgid "Send noods!"
-msgstr ""
+msgstr "Envoie les nouilles !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/51/s/0
 msgctxt "Choix"
 msgid "Slide me that dessert!"
-msgstr ""
+msgstr "Passe-moi ce dessert !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/52/s/0
 msgctxt "Choix"
 msgid "On second thought... I don't want anything."
-msgstr ""
+msgstr "Tout compte fait... je ne veux rien."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/c-3/19
 msgctxt "Freddy"
 msgid "Alright, cool kid! I'll try to keep this stuff nice and cool for ya a little while longer."
-msgstr ""
+msgstr "D'accord, cool kid ! J'essaierai de garder tout ça bien au frais encore un moment."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/g-0/0
 msgctxt "Freddy"
 msgid "There's that piece of chocolate that's calling my name, though."
-msgstr ""
+msgstr "Mais ce morceau de chocolat m'appelle, là."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Hey! That's my chocolate!"
-msgstr ""
+msgstr "Hé ! C'est mon chocolat !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "I thought you were keeping that safe for me!"
-msgstr ""
+msgstr "Je croyais que tu me le gardais en lieu sûr !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/g-1/0
 msgctxt "Freddy"
 msgid "Oh no! Look at the time."
-msgstr ""
+msgstr "Oh non ! Regarde l'heure."
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/g-1/8
 msgctxt "Freddy"
 msgid "Is your refrigerator runnin'?"
-msgstr ""
+msgstr "Ton frigo tourne ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/g-1/16
 msgctxt "Freddy"
 msgid "Cuz I sure am!"
-msgstr ""
+msgstr "Moi, en tout cas, je file !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Food_Choices/0/g-1/24
 msgctxt "Freddy"
 msgid "See ya next time, cool kid!"
-msgstr ""
+msgstr "À la prochaine, cool kid !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/3
 msgctxt "Freddy"
 msgid "What's wrong with Food Fetch?"
-msgstr ""
+msgstr "Qu'est-ce qui ne va pas avec Food Fetch ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/11
 msgctxt "Stefan"
 msgid "There is nothing wrong with Food Fetch. There is something wrong with us always USING Food Fetch! I was not made to simply... reheat pizza."
-msgstr ""
+msgstr "Il n'y a rien qui ne va pas avec Food Fetch. Ce qui ne va pas, c'est qu'on l'UTILISE tout le temps ! Je n'ai pas été conçu pour simplement... réchauffer de la pizza."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/22
 msgctxt "Freddy"
 msgid "It's the best way to do it!"
-msgstr ""
+msgstr "C'est la meilleure façon de faire !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/30
 msgctxt "Stefan"
 msgid "But, to make your own pizza. To place your own toppings, arranging them into the masterful design, and allowing me to help elevate the dish to the best it can be..."
-msgstr ""
+msgstr "Mais faire sa propre pizza. Choisir ses garnitures, les disposer en une composition magistrale, et me laisser contribuer à élever le plat à son plus haut niveau..."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/38
 msgctxt "Stefan"
 msgid "...that is the stuff dreams are made of."
-msgstr ""
+msgstr "...voilà l'étoffe des rêves."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/46/s/0 freddy_fridge/freddy_doug_encounter/0/53/s/0
 msgctxt "Choix"
 msgid "Am I interrupting something?"
-msgstr ""
+msgstr "Je dérange ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/47/s/0
 msgctxt "Choix"
 msgid "What are you two talking about?"
-msgstr ""
+msgstr "De quoi vous parlez, tous les deux ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/g-0/0
 msgctxt "Freddy"
 msgid "Stefan is upset I told him to warm the pizza up in the oven."
-msgstr ""
+msgstr "Stefan est contrarié parce que je lui ai dit de réchauffer la pizza au four."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/g-0/11
 msgctxt "Stefan"
 msgid "Upset? I'm not upset! You told them what you suggested was correct."
-msgstr ""
+msgstr "Contrarié ? Je ne suis pas contrarié ! Tu as dit à la personne que ta suggestion était la bonne."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/g-0/19
 msgctxt "Freddy"
 msgid "I just wanted them to have a great lunch. Isn't that what we both want?"
-msgstr ""
+msgstr "Je voulais juste qu'on ait un super déjeuner. N'est-ce pas ce qu'on veut tous les deux ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/g-0/27
 msgctxt "Stefan"
 msgid "Of course I do. Who do you think I am? A good meal is the best thing in the world!"
-msgstr ""
+msgstr "Bien sûr que oui. Pour qui me prends-tu ? Un bon repas est la meilleure chose au monde !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/g-0/35
 msgctxt "Freddy"
 msgid "What did you think? Was the pizza better warmed up in the oven?"
-msgstr ""
+msgstr "Alors, t'en as pensé quoi ? La pizza était meilleure réchauffée au four ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/g-0/43/s/0
 msgctxt "Choix"
 msgid "I'll admit, that was the way to go!"
-msgstr ""
+msgstr "Je dois l'admettre, c'était la bonne méthode !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Stefan/0/g-0/44/s/0
 msgctxt "Choix"
 msgid "I ate it cold. Like leftover pizza should be eaten."
-msgstr ""
+msgstr "Je l'ai mangée froide. Comme on doit manger les restes de pizza."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/0
 msgctxt "Freddy"
 msgid "See, Stefan? Nothing wrong with some leftovers from Food Fetch."
-msgstr ""
+msgstr "Tu vois, Stefan ? Il n'y a rien de mal à manger des restes de Food Fetch."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/8
 msgctxt "Stefan"
 msgid "...I'm glad you enjoyed that meal then. When you are ready to cook some REAL cuisine, you will know where to find me."
-msgstr ""
+msgstr "...je suis content que ce repas vous ait plu, alors. Quand vous serez {{prêt|prête|prêt·e}} à cuisiner une VRAIE cuisine, vous saurez où me trouver."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/16
 msgctxt "Freddy"
 msgid "Loosen up a bit. Cool kid enjoyed the food. Isn't that all that matters?"
-msgstr ""
+msgstr "Détends-toi un peu. Le cool kid a apprécié la bouffe. N'est-ce pas tout ce qui compte ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/24
 msgctxt "Stefan"
 msgid "You have a point, Freddy. I still think fresh cooked pizza would be so delicious."
-msgstr ""
+msgstr "Tu marques un point, Freddy. Je pense toujours qu'une pizza fraîchement cuite serait tellement délicieuse."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/32
 msgctxt "Stefan"
 msgid "I can smell the cheese now. And the tomato sauce. Oh, I'd watch it bubble and crisp up."
-msgstr ""
+msgstr "Je sens déjà le fromage. Et la sauce tomate. Oh, je la regarderais buller et croustiller."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/40
 msgctxt "Freddy"
 msgid "If you're trying to make me hungry, it's working."
-msgstr ""
+msgstr "Si tu essaies de me donner faim, ça marche."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/48
 msgctxt "Stefan"
 msgid "See? You aren't the only one who knows about food, Freddy."
-msgstr ""
+msgstr "Tu vois ? Tu n'es pas le seul à t'y connaître en nourriture, Freddy."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/56/s/0
 msgctxt "Choix"
 msgid "We should make a pizza sometime!"
-msgstr ""
+msgstr "On devrait faire une pizza un de ces jours !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/57/s/0
 msgctxt "Choix"
 msgid "I'll just order Pie on Life through Food Fetch."
-msgstr ""
+msgstr "Je vais juste commander chez Pie on Life via Food Fetch."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/c-0/7
 msgctxt "Freddy"
 msgid "That's a great idea, cool kid!"
-msgstr ""
+msgstr "Super idée, cool kid !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/c-0/15
 msgctxt "Stefan"
 msgid "But... it was my idea."
-msgstr ""
+msgstr "Mais... c'était mon idée."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/c-0/23
 msgctxt "Freddy"
 msgid "You're just trying to impress cool kid."
-msgstr ""
+msgstr "Tu essaies juste d'impressionner le cool kid."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/c-0/31
 msgctxt "Stefan"
 msgid "It was MY idea!"
-msgstr ""
+msgstr "C'était MON idée !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/c-0/39
 msgctxt "Freddy"
 msgid "Okay! If you say so."
-msgstr ""
+msgstr "D'accord ! Si tu le dis."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/c-0/47
 msgctxt "Stefan"
 msgid "You are... something else, Freddy."
-msgstr ""
+msgstr "Tu es... incroyable, Freddy."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/c-1/7
 msgctxt "Freddy"
 msgid "And I'll be here to hold all the leftovers!"
-msgstr ""
+msgstr "Et moi, je serai là pour garder tous les restes !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/g-0/0
 msgctxt "Stefan"
 msgid "I'm leaving before Freddy makes me start a fire."
-msgstr ""
+msgstr "Je m'en vais avant que Freddy ne me pousse à mettre le feu."
 
+# Traduction IA – à relire
 #: freddy_fridge/Warm_Pizza/0/g-0/8
 msgctxt "Stefan"
 msgid "Let me know when you are ready to do some REAL cooking. You know where to find me."
-msgstr ""
+msgstr "Dites-moi quand vous serez {{prêt|prête|prêt·e}} à faire de la VRAIE cuisine. Vous savez où me trouver."
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/0
 msgctxt "Stefan"
 msgid "You did WHAT?!"
-msgstr ""
+msgstr "Tu as fait QUOI ?!"
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/11
 msgctxt "Stefan"
 msgid "YOU ATE IT COLD!"
-msgstr ""
+msgstr "TU L'AS MANGÉE FROIDE !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/19
 msgctxt "Freddy"
 msgid "Oooo, cool kid. You've done it now."
-msgstr ""
+msgstr "Oooh, cool kid. Là, tu l'as fait."
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/27
 msgctxt "Stefan"
 msgid "You allowed the human to eat it cold, Freddy?"
-msgstr ""
+msgstr "Tu as laissé l'humain la manger froide, Freddy ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/35
 msgctxt "Freddy"
 msgid "What?! I was just doing my job! Cool kid can do whatever they want."
-msgstr ""
+msgstr "Quoi ?! Je faisais juste mon boulot ! Le cool kid fait ce qu'il veut."
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/43
 msgctxt "Stefan"
 msgid "We are cooking our own pizza next time, okay?"
-msgstr ""
+msgstr "La prochaine fois, on cuisine notre propre pizza, d'accord ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/51/s/0
 msgctxt "Choix"
 msgid "What's wrong with me eating it cold?"
-msgstr ""
+msgstr "Qu'est-ce qui ne va pas à la manger froide ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/52/s/0
 msgctxt "Choix"
 msgid "I think Pie on Life is the best pizza!"
-msgstr ""
+msgstr "Je trouve que Pie on Life, c'est la meilleure pizza !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Cold_Pizza/0/g-0/0
 msgctxt "Stefan"
 msgid "...I'm not even going to dignify that with a response. I need to get back to work."
-msgstr ""
+msgstr "...je ne vais même pas daigner répondre à ça. Je dois retourner travailler."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/0
 msgctxt "Freddy"
 msgid "You'll have to excuse Stefan. Sometimes I think he loves food more than I do."
-msgstr ""
+msgstr "Il faudra excuser Stefan. Parfois je me dis qu'il aime la nourriture plus que moi."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/8
 msgctxt "Freddy"
 msgid "Which is IMPOSSIBLE! He's just frosty that I had a good idea."
-msgstr ""
+msgstr "Ce qui est IMPOSSIBLE ! Il est juste glacial parce que j'ai eu une bonne idée."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/16
 msgctxt "Freddy"
 msgid "I know a lot about food!"
-msgstr ""
+msgstr "Je m'y connais en nourriture, moi !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/24
 msgctxt "Freddy"
 msgid "You have really good taste, btw."
-msgstr ""
+msgstr "Au fait, t'as vraiment bon goût."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/32/s/0
 msgctxt "Choix"
 msgid "Did you just say btw out loud?"
-msgstr ""
+msgstr "Tu viens de dire « au fait » en abrégé à voix haute ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/7
 msgctxt "Freddy"
 msgid "I'm just trying to be a cool kid like you!"
-msgstr ""
+msgstr "J'essaie juste d'être un cool kid comme toi !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Well, stop it. I'm the cool one!"
-msgstr ""
+msgstr "Eh bien, arrête. Le cool, c'est moi !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "You don't have to try so hard. You already are cool."
-msgstr ""
+msgstr "Pas besoin de forcer autant. Tu es déjà cool."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/c-0/7
 msgctxt "Freddy"
 msgid "You got it, cool kid. You got it."
-msgstr ""
+msgstr "Comme tu veux, cool kid. Comme tu veux."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/c-1/13
 msgctxt "Freddy"
 msgid "Well, maybe we can chill together more often."
-msgstr ""
+msgstr "Bon, on pourrait peut-être se détendre ensemble plus souvent."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/c-1/21/0/s/0
 msgctxt "Choix"
 msgid "Good thing I know where to find you!"
-msgstr ""
+msgstr "Heureusement que je sais où te trouver !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/c-1/21/1/s/0
 msgctxt "Choix"
 msgid "Eh, if I get hungry, I'll swing by."
-msgstr ""
+msgstr "Bah, si j'ai faim, je passerai."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/c-1/21/c-0/7
 msgctxt "Freddy"
 msgid "I'll be chilling here, waiting for you!"
-msgstr ""
+msgstr "Je serai là à me rafraîchir, à t'attendre !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_Flirt/0/c-0/15/c-1/21/c-1/7
 msgctxt "Freddy"
 msgid "Morning munchies or midnight snack, I'll be here!"
-msgstr ""
+msgstr "Petit creux du matin ou grignotage de minuit, je serai là !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/4
 msgctxt "Freddy"
 msgid "Oh! Before you go! Do you want a snack?"
-msgstr ""
+msgstr "Oh ! Avant que tu partes ! Tu veux un en-cas ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/12/s/0
 msgctxt "Choix"
 msgid "Sure! Thanks!"
-msgstr ""
+msgstr "Avec plaisir ! Merci !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/13/s/0
 msgctxt "Choix"
 msgid "I'm okay!"
-msgstr ""
+msgstr "Ça va, merci !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/c-0/16
 msgctxt "Freddy"
 msgid "Great! Here you go!"
-msgstr ""
+msgstr "Super ! Tiens !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/c-0/24/0/s/0
 msgctxt "Choix"
 msgid "Uh... what?"
-msgstr ""
+msgstr "Euh... quoi ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/c-0/24/c-0/7
 msgctxt "Freddy"
 msgid "Oh, I thought you said."
-msgstr ""
+msgstr "Oh, je croyais que tu avais dit oui."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/c-0/24/c-0/15
 msgctxt "Freddy"
 msgid "Haha!"
-msgstr ""
+msgstr "Haha !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/c-0/24/c-0/23
 msgctxt "Freddy"
 msgid "Well!"
-msgstr ""
+msgstr "Bon !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/c-0/24/c-0/31
 msgctxt "Freddy"
 msgid "Just keep it."
-msgstr ""
+msgstr "Garde-le, c'est tout."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/c-1/7
 msgctxt "Freddy"
 msgid "Okay cool. Maybe next time."
-msgstr ""
+msgstr "Ok, cool. Peut-être la prochaine fois."
 
+# Traduction IA – à relire
 #: freddy_fridge/Pizza_wrapup/0/g-0/0
 msgctxt "Freddy"
 msgid "I'll see you around, cool kid!"
-msgstr ""
+msgstr "À plus tard, cool kid !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/0
 msgctxt "Freddy"
 msgid "Hey! Cool kid! Good to see you again! Wait right here."
-msgstr ""
+msgstr "Hé ! Cool kid ! Content de te revoir ! Attends ici."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/8
 msgctxt "Freddy"
 msgid "Beverly!! COME HERE!"
-msgstr ""
+msgstr "Beverly !! VIENS ICI !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/16/s/0
 msgctxt "Choix"
 msgid "What's all this about?"
-msgstr ""
+msgstr "C'est quoi, tout ça ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/17/s/0
 msgctxt "Choix"
 msgid "Beverly? Why are you calling her?"
-msgstr ""
+msgstr "Beverly ? Pourquoi tu l'appelles ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/18/s/0
 msgctxt "Choix"
 msgid "What is a Beverly?"
-msgstr ""
+msgstr "C'est quoi, une Beverly ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/c-2/7
 msgctxt "Freddy"
 msgid "The beverages! Found in the mini-bar over yonder."
-msgstr ""
+msgstr "Les boissons ! On les trouve au mini-bar, là-bas."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/0
 msgctxt "Freddy"
 msgid "She told me to let her know next time you came by."
-msgstr ""
+msgstr "Elle m'a demandé de la prévenir la prochaine fois que tu passerais."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/14/b/1
 msgctxt "Beverly"
 msgid "Is he back?"
-msgstr ""
+msgstr "Il est de retour ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/17/b/1
 msgctxt "Beverly"
 msgid "Is she back?"
-msgstr ""
+msgstr "Elle est de retour ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/20/b/1
 msgctxt "Beverly"
 msgid "Are they back?"
-msgstr ""
+msgstr "Iel est de retour ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/23
 msgctxt "Freddy"
 msgid "Yep! Right here."
-msgstr ""
+msgstr "Ouaip ! Juste ici."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/31/b/1
 msgctxt "Beverly"
 msgid "Ah - hello, hater. This isn't about us. It's about Freddy."
-msgstr ""
+msgstr "Ah, bonjour, rabat-joie. Ça ne concerne pas notre cas. Ça concerne Freddy."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/34/b/1
 msgctxt "Beverly"
 msgid "There you are!"
-msgstr ""
+msgstr "Te voilà !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/37/b/1
 msgctxt "Beverly"
 msgid "So good to see ya! The Tumbler has been doing real well thanks to you."
-msgstr ""
+msgstr "Ravie de te voir ! Le Tumbler marche très bien grâce à toi."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/40
 msgctxt "Beverly"
 msgid "Listen, I know that Freddy here has been giving you some good advice on food. He told me about your <i>spicy</i> session..."
-msgstr ""
+msgstr "Écoute, je sais que Freddy t'a donné de bons conseils culinaires. Il m'a parlé de ta séance <i>épicée</i>..."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/48/b/1
 msgctxt "Freddy"
 msgid "Just helping him elevate those leftovers!"
-msgstr ""
+msgstr "Je l'aidais juste à sublimer ses restes !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/51/b/1
 msgctxt "Freddy"
 msgid "Just helping her elevate those leftovers!"
-msgstr ""
+msgstr "Je l'aidais juste à sublimer ses restes !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/54/b/1
 msgctxt "Freddy"
 msgid "Just helping them elevate those leftovers!"
-msgstr ""
+msgstr "Je l'aidais juste à sublimer ses restes !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/57
 msgctxt "Beverly"
 msgid "That's what I like about you, Freddy. Always thinking about how to make things better."
-msgstr ""
+msgstr "C'est ce que j'aime chez toi, Freddy. Toujours en train de chercher comment améliorer les choses."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/65
 msgctxt "Beverly"
 msgid "But! You know what every good meal should have?"
-msgstr ""
+msgstr "Mais ! Tu sais ce que tout bon repas devrait avoir ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/73
 msgctxt "Beverly"
 msgid "A drink!"
-msgstr ""
+msgstr "Un verre !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/84/s/0
 msgctxt "Choix"
 msgid "A drink? Now? Isn't it too early?"
-msgstr ""
+msgstr "Un verre ? Maintenant ? C'est pas un peu tôt ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/85/s/0
 msgctxt "Choix"
 msgid "A drink sounds fantastic!"
-msgstr ""
+msgstr "Un verre, ça me tente énormément !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/86/s/0
 msgctxt "Choix"
 msgid "Perfect time for drinking if you ask me."
-msgstr ""
+msgstr "Si tu veux mon avis, c'est le moment idéal pour boire."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/c-3/7
 msgctxt "Beverly"
 msgid "Nonsense! It's never too early."
-msgstr ""
+msgstr "Balivernes ! Il n'est jamais trop tôt."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/c-4/7
 msgctxt "Beverly"
 msgid "That's the spirits! Freddy, be a dear and bust out some ice!"
-msgstr ""
+msgstr "Voilà de l'esprit ! Freddy, sois un amour et sors-nous de la glace !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/c-5/7
 msgctxt "Beverly"
 msgid "That's the spirit!"
-msgstr ""
+msgstr "Voilà l'esprit !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-0/c-5/15
 msgctxt "Beverly"
 msgid "LITERALLY"
-msgstr ""
+msgstr "LITTÉRALEMENT"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-1/0
 msgctxt "Freddy"
 msgid "Bev knows what pairs with everything."
-msgstr ""
+msgstr "Bev sait ce qui s'accorde avec tout."
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-1/8
 msgctxt "Beverly"
 msgid "I have the perfect thing. A nice Pinot Noir! I could grab a bottle right now, if you want. What do you think, Freddy?"
-msgstr ""
+msgstr "J'ai ce qu'il faut. Un joli Pinot noir ! Je peux en sortir une bouteille tout de suite, si tu veux. Qu'en dis-tu, Freddy ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-1/16
 msgctxt "Freddy"
 msgid "I leave that up to the cool kid! What do you think?"
-msgstr ""
+msgstr "Je laisse le cool kid décider ! Qu'en penses-tu ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-1/24/s/0
 msgctxt "Choix"
 msgid "Bottoms up!"
-msgstr ""
+msgstr "Cul sec !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Freddy_Beverly/0/g-1/25/s/0
 msgctxt "Choix"
 msgid "I think I'll pass this time."
-msgstr ""
+msgstr "Je crois que je passe mon tour cette fois."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/0
 msgctxt "Beverly"
 msgid "Great! Let me grab some glasses!"
-msgstr ""
+msgstr "Parfait ! Je vais chercher des verres !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/11
 msgctxt "Freddy"
 msgid "Look at us! Sharing a drink with the coolest person around!"
-msgstr ""
+msgstr "Regardez-nous ! En train de partager un verre avec la personne la plus cool des environs !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/19/s/0
 msgctxt "Choix"
 msgid "I know! It's almost like... a date..."
-msgstr ""
+msgstr "Je sais ! On dirait presque... un rendez-vous..."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/7
 msgctxt "Narrator"
 msgid "Freddy's bushy eyebrows raise—he looks taken aback, but not horrified by the idea."
-msgstr ""
+msgstr "Les sourcils broussailleux de Freddy se haussent. Il paraît pris de court, mais pas horrifié par l'idée."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/15
 msgctxt "Freddy"
 msgid "A date? I hadn't thought about it like that."
-msgstr ""
+msgstr "Un rendez-vous ? Je n'y avais pas pensé comme ça."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/23
 msgctxt "Freddy"
 msgid "Is that something you would ever want to do?"
-msgstr ""
+msgstr "C'est quelque chose que tu voudrais faire un jour ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "I mean, if you're cool with it."
-msgstr ""
+msgstr "Je veux dire, si ça te va."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "Oh, I don't know. Maybe?"
-msgstr ""
+msgstr "Oh, je ne sais pas. Peut-être ?"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/31/2/s/0
 msgctxt "Choix"
 msgid "Not really, no."
-msgstr ""
+msgstr "Pas vraiment, non."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/31/c-0/13
 msgctxt "Freddy"
 msgid "Huh, I mean I wouldn't mind it..."
-msgstr ""
+msgstr "Hum, enfin, ça ne me dérangerait pas..."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/31/c-1/7
 msgctxt "Freddy"
 msgid "Okay, playing it cool."
-msgstr ""
+msgstr "Ok, on reste cool."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/31/c-2/7
 msgctxt "Freddy"
 msgid "Cool cool cool cool cool."
-msgstr ""
+msgstr "Cool cool cool cool cool."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/c-0/31/c-2/15
 msgctxt "Freddy"
 msgid "Me either..."
-msgstr ""
+msgstr "Moi non plus..."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/0
 msgctxt "Beverly"
 msgid "Okay! Here we go! This is a delicious grape."
-msgstr ""
+msgstr "Voilà ! C'est un délicieux raisin."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/11
 msgctxt "Freddy"
 msgid "Here's to you, cool kid!"
-msgstr ""
+msgstr "À toi, cool kid !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/19/s/0
 msgctxt "Choix"
 msgid "<i>Drink all in one gulp.</i>"
-msgstr ""
+msgstr "<i>Boire d'un trait.</i>"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/20/s/0
 msgctxt "Choix"
 msgid "<i>Slowly sip.</i>"
-msgstr ""
+msgstr "<i>Siroter lentement.</i>"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/21/s/0
 msgctxt "Choix"
 msgid "<i>Attempt to eat the glass.</i>"
-msgstr ""
+msgstr "<i>Tenter de manger le verre.</i>"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-1/7
 msgctxt "Narrator"
 msgid "You take the glass from Beverly and drain it in one go."
-msgstr ""
+msgstr "Vous prenez le verre des mains de Beverly et le videz d'un trait."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-1/18
 msgctxt "Beverly"
 msgid "Oh wow! You must have been thirsty!"
-msgstr ""
+msgstr "Oh wow ! Tu devais avoir soif !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-1/26
 msgctxt "Beverly"
 msgid "There was a time where people didn't pair their foods with alcohol like they do now."
-msgstr ""
+msgstr "Il fut un temps où les gens n'associaient pas leurs plats à l'alcool comme aujourd'hui."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-1/34 freddy_fridge/Drinking_With_Friends/0/g-0/c-2/37 freddy_fridge/Drinking_With_Friends/0/g-0/c-3/35/c-0/39
 msgctxt "Beverly"
 msgid "I like to call those the dark ages."
-msgstr ""
+msgstr "J'aime appeler ça le Moyen Âge."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-2/7
 msgctxt "Narrator"
 msgid "You take the glass from Beverly, taking a slow, dignified sip and savoring it."
-msgstr ""
+msgstr "Vous prenez le verre des mains de Beverly et prenez une lente gorgée, pleine de dignité, en la savourant."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-2/21
 msgctxt "Freddy"
 msgid "Savoring the flavor. Nice!"
-msgstr ""
+msgstr "On savoure les arômes. Bien !"
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-2/29
 msgctxt "Beverly"
 msgid "There was a time where people didn't pair their foods with alcohols like they do now."
-msgstr ""
+msgstr "Il fut un temps où les gens n'associaient pas leurs plats aux alcools comme aujourd'hui."
 
+# Traduction IA – à relire
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-3/7
 msgctxt "Narrator"
 msgid "You raise the glass up, inspecting it in silence for a few moments before you bring it to your lips and begin to crunch it down."
-msgstr ""
+msgstr "Vous levez le verre et l'inspectez en silence quelques instants avant de le porter à vos lèvres et de commencer à le croquer."
 
 #: freddy_fridge/Drinking_With_Friends/0/g-0/c-3/18/b/1
 msgctxt "Beverly"
