@@ -23,10 +23,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie. Parle de lui à la troisième personne (« Jean Loo », « Lil' Crapper », « il »).
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : rappeur grandiloquent, vantard, théâtral ; phrases courtes, syntaxe un peu cassée (« C'est pas bon ! »), « hein ? » à la place de « eh ? », quelques mots de franglais rap (« yo », « crap »). Toujours en train de rimer quand il chante (♪).
+- **Personnalité, manière de parler** : ego démesuré, méprise les « poseurs », exige qu'on soit à sa hauteur ; ne parle que de lui. Narrator le décrit sans ménagement.
+- **Tics verbaux, expressions récurrents, jeux de mots à préserver** : « Lil' Crapper » (nom de scène, inchangé) ; « crap / crapper / crapping » = cool-rap : « crapper », « crappeur », « crapper » (NOTE : cool-rap) ; « Get out of his face ! » -> « Dégage de son visage ! » ; Ballcock (le flotteur, micro) répète les répliques du joueur. Défi de rimes : le prénom d'exemple reste « Jack », rimes en -ak (sac, claque, baraque, cloaque, plaque, smack, snack).
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Lil' Crapper is not a teacher. He is the TEST! » -> « Lil' Crapper n'est pas un prof. Il est le TEST ! »
+  - « Get out of his face! » -> « Dégage de son visage ! »
+  - « Oui, an artiste knows his art. » -> « Oui, un artiste connaît son art. »

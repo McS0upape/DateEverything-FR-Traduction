@@ -12,7 +12,7 @@ msgstr ""
 #: hector_hvac/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "HVAC"
-msgstr "CLIM"
+msgstr "CLIMATISATION"
 
 # Traduction IA – à relire
 #: hector_hvac/skylar_hector_content/0/7 hector_hvac/skylar_hector_content_attic/0/7
@@ -3308,1357 +3308,1628 @@ msgctxt "Hector"
 msgid "I will not \"show myself,\" some circus animal on a leash trotted out into a claustrophobic arena."
 msgstr "Je ne vais pas « me montrer », tel un animal de cirque tenu en laisse et exhibé dans une arène claustrophobe."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/31
 msgctxt "Hector"
 msgid "What, so you can jeer? So you can point?"
-msgstr ""
+msgstr "Quoi, pour que vous puissiez vous moquer ? Pour que vous puissiez me montrer du doigt ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/42
 msgctxt "Hector"
 msgid "I tell you, I won't."
-msgstr ""
+msgstr "Je vous le dis, je ne le ferai pas."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/0/s/0
 msgctxt "Choix"
 msgid "Ugh, I am so bored of this nonsense!"
-msgstr ""
+msgstr "Pfff, j'en ai tellement marre de ces âneries !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/1/s/0
 msgctxt "Choix"
 msgid "What the heck are you so afraid of?"
-msgstr ""
+msgstr "De quoi as-tu si peur, bon sang ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/2/s/0
 msgctxt "Choix"
 msgid "I would never jeer and point, Hector."
-msgstr ""
+msgstr "Je ne me moquerais jamais de toi ni ne te montrerais du doigt, Hector."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-0/7
 msgctxt "Hector"
 msgid "Bored, bored are you?"
-msgstr ""
+msgstr "Ennuyé, vous êtes {{ennuyé|ennuyée|ennuyé·e}} ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-0/18
 msgctxt "Hector"
 msgid "Heavens forbid I fail in my duty to entertain you!"
-msgstr ""
+msgstr "À Dieu ne plaise que je manque à mon devoir de vous divertir !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-0/26
 msgctxt "Hector"
 msgid "Do you not know what we've been, what we could have been?"
-msgstr ""
+msgstr "Ne savez-vous pas ce que nous avons été, ce que nous aurions pu être ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-0/37
 msgctxt "Hector"
 msgid "We have been so much more than a brief reprieve from boredom!"
-msgstr ""
+msgstr "Nous avons été bien plus qu'un bref répit contre l'ennui !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/7
 msgctxt "Hector"
 msgid "Oh, you could never know. You could never understand."
-msgstr ""
+msgstr "Oh, vous ne pourriez jamais savoir. Vous ne pourriez jamais comprendre."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/15
 msgctxt "Hector"
 msgid "Why would you ask me, so flippant and easy what I'm afraid of? Can you not understand that the fear itself would prevent me from answering you?"
-msgstr ""
+msgstr "Pourquoi me demander, de façon si désinvolte et facile, de quoi j'ai peur ? Ne comprenez-vous pas que la peur elle-même m'empêcherait de vous répondre ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/23
 msgctxt "Hector"
 msgid "I'm afraid of my own fear! And you ask me to toss it aside and move on."
-msgstr ""
+msgstr "J'ai peur de ma propre peur ! Et vous me demandez de la balayer et d'avancer."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/31
 msgctxt "Hector"
 msgid "You! Oh, you disappoint me."
-msgstr ""
+msgstr "Vous ! Oh, vous me décevez."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/0/s/0
 msgctxt "Choix"
 msgid "Huh. I didn't know it was that bad... I'm sorry."
-msgstr ""
+msgstr "Hein. Je ne savais pas que c'était si grave... Je suis {{désolé|désolée|désolé·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/1/s/0
 msgctxt "Choix"
 msgid "Y'know what, yeah. Come on. Just let it go!"
-msgstr ""
+msgstr "Tu sais quoi, ouais. Allez. Laisse tomber, c'est tout !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/7
 msgctxt "Hector"
 msgid "It's alright."
-msgstr ""
+msgstr "Ce n'est rien."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/15
 msgctxt "Hector"
 msgid "I suppose I didn't really want you to know. I-I-It would have been so much."
-msgstr ""
+msgstr "Je suppose que je ne voulais pas vraiment que vous sachiez. J-j-ç'aurait été tellement..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/23
 msgctxt "Hector"
 msgid "...so much easier if I- if I'd been able to just..."
-msgstr ""
+msgstr "...tellement plus facile si j- si j'avais pu simplement..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/31
 msgctxt "Hector"
 msgid "Never mind. Since you see me now, see more at least, perhaps you'll leave me."
-msgstr ""
+msgstr "Peu importe. Puisque vous me voyez maintenant, en voyez davantage du moins, peut-être me quitterez-vous."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/39
 msgctxt "Hector"
 msgid "You know, leave me and come back to the grates, any of them, I'll be there, I can talk to you there."
-msgstr ""
+msgstr "Vous savez, quittez-moi et revenez aux grilles, n'importe laquelle, j'y serai, je pourrai vous parler là."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/47
 msgctxt "Hector"
 msgid "Please."
-msgstr ""
+msgstr "S'il vous plaît."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/55/0/s/0
 msgctxt "Choix"
 msgid "You got it."
-msgstr ""
+msgstr "Compris."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-0/55/1/s/0
 msgctxt "Choix"
 msgid "I have safe spaces, too. It's cool. I'll see you at the grates."
-msgstr ""
+msgstr "Moi aussi, j'ai des espaces sûrs. C'est cool. On se voit aux grilles."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-1/7
 msgctxt "Hector"
 msgid "Just let it go."
-msgstr ""
+msgstr "Laissez tomber, simplement."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-1/42/c-1/15
 msgctxt "Hector"
 msgid "Is that, is that what you really are? Have I truly been this wrong, this mistaken about you?"
-msgstr ""
+msgstr "Est-ce, est-ce vraiment ce que vous êtes ? Me suis-je vraiment trompé à ce point sur vous ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-2/7
 msgctxt "Hector"
 msgid "Wouldn't you? They all do. I have."
-msgstr ""
+msgstr "Ne le feriez-vous pas ? Tout le monde le fait. Moi aussi."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-2/15
 msgctxt "Hector"
 msgid "Nevermind. Talk about an argument for nothing."
-msgstr ""
+msgstr "Peu importe. Voilà une dispute pour rien."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-2/23
 msgctxt "Hector"
 msgid "If you leave now, we'll never have to know if you know yourself well enough to be truthful with me about this."
-msgstr ""
+msgstr "Si vous partez maintenant, nous n'aurons jamais à savoir si vous vous connaissez assez bien pour être sincère avec moi là-dessus."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-2/31
 msgctxt "Hector"
 msgid "If you would truly leave me in peace, then leave me now."
-msgstr ""
+msgstr "Si vous voulez vraiment me laisser en paix, alors quittez-moi maintenant."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-2/41
 msgctxt "Hector"
 msgid "Come back to the grates and I will be there."
-msgstr ""
+msgstr "Revenez aux grilles et j'y serai."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-2/49/0/s/0
 msgctxt "Choix"
 msgid "Fine. Grates it is."
-msgstr ""
+msgstr "D'accord. Va pour les grilles."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-1/50/c-2/49/1/s/0
 msgctxt "Choix"
 msgid "Wow. Someone must have really hurt you. But ok. See ya there."
-msgstr ""
+msgstr "Waouh. Quelqu'un a dû vraiment te faire du mal. Mais bon. À tout à l'heure là-bas."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic_fail_return/0/c-2/7
 msgctxt "Hector"
 msgid "Ah. And now the filter falls."
-msgstr ""
+msgstr "Ah. Et voilà que le filtre tombe."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/11
 msgctxt "Narrator"
 msgid "At long last Hector reveals himself—and frankly you're not sure why he's been so terrified to show himself to you. You might have expected some monstrous, vile creature, but he's just a nervous, sweet-looking vent-dweller."
-msgstr ""
+msgstr "Enfin, Hector se dévoile, et franchement, vous ne voyez pas pourquoi il avait si peur de se montrer à vous. Vous vous attendiez peut-être à une créature monstrueuse et répugnante, mais il n'est qu'un habitant de conduit nerveux et d'allure douce."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/19
 msgctxt "Hector"
 msgid "...well? Hello there. Uh..."
-msgstr ""
+msgstr "...alors ? Bonjour. Euh..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/27/s/0
 msgctxt "Choix"
 msgid "Wow. Hector."
-msgstr ""
+msgstr "Waouh. Hector."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/28/s/0
 msgctxt "Choix"
 msgid "Hey! Look at you. You did it! You're not my type, but you're cool as hell."
-msgstr ""
+msgstr "Hé ! Regarde-toi. Tu l'as fait ! Tu n'es pas mon genre, mais t'es carrément cool."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/29/s/0
 msgctxt "Choix"
 msgid "Woof. Um... you look... ew."
-msgstr ""
+msgstr "Ouaf. Euh... tu as l'air... beurk."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/7
 msgctxt "Hector"
 msgid "Wow?"
-msgstr ""
+msgstr "Waouh ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/15
 msgctxt "Hector"
 msgid "Wow? What does, what does what does \"wow\" mean? Wh-what is, what is that? Is it a good wow or a bad wow? Please just tell me!"
-msgstr ""
+msgstr "Waouh ? Qu'est-ce que, qu'est-ce que « waouh » veut dire ? Qu-qu'est-ce que c'est ? Est-ce un bon waouh ou un mauvais waouh ? Dites-le-moi, simplement !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "You are beautiful."
-msgstr ""
+msgstr "Tu es magnifique."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "I can't think why you've ever been self-conscious."
-msgstr ""
+msgstr "Je ne vois pas pourquoi tu as jamais été complexé."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/18
 msgctxt "Narrator"
 msgid "Hector had somehow managed to hold your gaze, but your compliment flusters him into looking away again."
-msgstr ""
+msgstr "Hector est parvenu, on ne sait comment, à soutenir votre regard, mais votre compliment le trouble au point de le faire détourner les yeux."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/26
 msgctxt "Hector"
 msgid "Beautiful. Well, well, that's, uh, yes, that-that seems like a very good word indeed."
-msgstr ""
+msgstr "Magnifique. Eh bien, eh bien, c'est, euh, oui, ce-ce semble être un très bon mot en effet."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/34
 msgctxt "Hector"
 msgid "I have to say, it's not one that even in my remotest fantasies I imagined you would use."
-msgstr ""
+msgstr "Je dois dire que ce n'est pas un mot que, même dans mes fantasmes les plus reculés, j'imaginais vous voir employer."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/42
 msgctxt "Hector"
 msgid "At best, I thought maybe \"cute.\""
-msgstr ""
+msgstr "Au mieux, je pensais peut-être à « mignon »."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/0/s/0
 msgctxt "Choix"
 msgid "Don't get me wrong! You're cute, too!"
-msgstr ""
+msgstr "Ne te méprends pas ! Tu es mignon aussi !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/1/s/0
 msgctxt "Choix"
 msgid "Well buckle up, because I've got more where that came from!"
-msgstr ""
+msgstr "Eh bien accroche-toi, parce que j'en ai encore plein en réserve !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-0/7
 msgctxt "Hector"
 msgid "Oh come come. One cannot be beautiful AND cute. The two are mutually exclusive!"
-msgstr ""
+msgstr "Oh, allons, allons. On ne peut pas être magnifique ET mignon. Les deux sont mutuellement exclusifs !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Hector? Love ya, but you're hardly an expert in this area."
-msgstr ""
+msgstr "Hector ? Je t'adore, mais tu n'es pas vraiment un expert en la matière."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Well, forgive me! I didn't know."
-msgstr ""
+msgstr "Eh bien, pardonne-moi ! Je ne savais pas."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-0/15/c-0/7
 msgctxt "Hector"
 msgid "Hm. Well. Yes, I suppose that's true. So I'm beautiful, AND I'm cute?"
-msgstr ""
+msgstr "Hm. Eh bien. Oui, je suppose que c'est vrai. Donc je suis magnifique, ET je suis mignon ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-0/15/c-0/15
 msgctxt "Hector"
 msgid "Today has exceeded my wildest dreams. Truly."
-msgstr ""
+msgstr "Aujourd'hui a dépassé mes rêves les plus fous. Vraiment."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-0/15/c-1/7
 msgctxt "Hector"
 msgid "Well, that's that's, that's quite all right. I am actually flattered that you got so carried away. It makes me feel... well... uughhhh... \"seen\"."
-msgstr ""
+msgstr "Eh bien, c'est, c'est tout à fait bien. En fait, je suis flatté que vous vous soyez à ce point laissé emporter. Cela me fait me sentir... enfin... pfff... « vu »."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-1/7
 msgctxt "Hector"
 msgid "You do?? I mean, well, of course you do! Look at me!"
-msgstr ""
+msgstr "Vous trouvez ?? Enfin, bien sûr que oui ! Regardez-moi !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-1/15
 msgctxt "Hector"
 msgid "Oh no, no, no, that level of confidence does not quite fit yet, but maybe we'll get there."
-msgstr ""
+msgstr "Oh non, non, non, ce niveau de confiance ne me va pas encore tout à fait, mais peut-être y arriverons-nous."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-1/23
 msgctxt "Hector"
 msgid "I, uh, I'm not sure I know quite how to thank you."
-msgstr ""
+msgstr "Je, euh, je ne suis pas sûr de savoir comment vous remercier."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-0/50/c-1/31
 msgctxt "Hector"
 msgid "For the first time, I can say that I-I feel truly... seen."
-msgstr ""
+msgstr "Pour la première fois, je peux dire que j-je me sens vraiment... vu."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/7
 msgctxt "Hector"
 msgid "Can you not? I mean, look at me..!"
-msgstr ""
+msgstr "Vous ne pouvez pas ? Enfin, regardez-moi..!"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/0/s/0
 msgctxt "Choix"
 msgid "Hector, we're not going to do that anymore."
-msgstr ""
+msgstr "Hector, on ne fait plus ça."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/1/s/0
 msgctxt "Choix"
 msgid "I'm lookin'. And I'm likin'. Try not to talk me out of it, ok?"
-msgstr ""
+msgstr "Je regarde. Et j'aime. Essaie de ne pas m'en dissuader, ok ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/7
 msgctxt "Hector"
 msgid "Do-do what? Oh, you mean... you mean say things like that about myself."
-msgstr ""
+msgstr "F-faire quoi ? Oh, vous voulez dire... dire ce genre de choses sur moi-même."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/15
 msgctxt "Hector"
 msgid "Yeah, it's a very hard habit to break, my friend. I feel as though I have so much evidence that I'm not really being mean, you know, I'm just being truthful."
-msgstr ""
+msgstr "Oui, c'est une habitude très difficile à perdre, {{mon ami|mon amie|mon ami·e}}. J'ai l'impression d'avoir tant de preuves que je ne suis pas vraiment méchant, voyez-vous, je suis juste sincère."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "But I am standing here, telling you the opposite."
-msgstr ""
+msgstr "Mais je suis là, debout, à te dire le contraire."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "I hear you. It's hard. But you can learn a new way."
-msgstr ""
+msgstr "Je t'entends. C'est dur. Mais tu peux apprendre une autre façon."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/c-0/7
 msgctxt "Hector"
 msgid "Hm. Yeah, yeah you are."
-msgstr ""
+msgstr "Hm. Oui, oui, c'est vrai."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/c-0/15
 msgctxt "Hector"
 msgid "Okay, you came here, and you're telling me exactly what you see... I suppose you don't have a reason to lie to me, so maybe I should... trust you?"
-msgstr ""
+msgstr "Bon, vous êtes {{venu|venue|venu·e}} ici, et vous me dites exactement ce que vous voyez... je suppose que vous n'avez aucune raison de me mentir, alors peut-être devrais-je... vous faire confiance ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/c-1/7
 msgctxt "Hector"
 msgid "You have a lot of faith in me, I think."
-msgstr ""
+msgstr "Vous avez beaucoup de foi en moi, je crois."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/c-1/15
 msgctxt "Hector"
 msgid "But I-I did invite you up here, didn't I? After spending my life swearing that I would never do that."
-msgstr ""
+msgstr "Mais je-je vous ai bien invité à monter ici, n'est-ce pas ? Après avoir passé ma vie à jurer que je ne le ferais jamais."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/c-1/23
 msgctxt "Hector"
 msgid "I had actually become quite proud of my isolation."
-msgstr ""
+msgstr "J'étais en fait devenu assez fier de mon isolement."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-0/23/c-1/31
 msgctxt "Hector"
 msgid "But I'm not alone now."
-msgstr ""
+msgstr "Mais je ne suis plus seul maintenant."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-1/7
 msgctxt "Hector"
 msgid "Ha! Yeah. That would indeed be foolish of me, wouldn't it? I finally get up the courage to invite someone, and not just anyone but you to come here, meet me, see me..."
-msgstr ""
+msgstr "Ha ! Oui. Ce serait en effet stupide de ma part, n'est-ce pas ? Je trouve enfin le courage d'inviter quelqu'un, et pas n'importe qui mais vous, à venir ici, à me rencontrer, à me voir..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-1/15
 msgctxt "Hector"
 msgid "...and then when you finally get here I spend our whole interlude telling you you've made a mistake!"
-msgstr ""
+msgstr "...et puis quand vous arrivez enfin, je passe tout notre interlude à vous dire que vous avez fait une erreur !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-0/26/c-1/18/c-1/23
 msgctxt "Hector"
 msgid "Ahh, you are right. You're looking. You're liking. I-I will let you look, and I will enjoy the like."
-msgstr ""
+msgstr "Ahh, vous avez raison. Vous regardez. Vous aimez. J-je vous laisserai regarder, et je savourerai l'aimer."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/7
 msgctxt "Hector"
 msgid "I-I did. Yeah. Huh."
-msgstr ""
+msgstr "J-je l'ai fait. Oui. Hein."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/15
 msgctxt "Hector"
 msgid "I did. Look at that. I..."
-msgstr ""
+msgstr "Je l'ai fait. Regardez ça. Je..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/23
 msgctxt "Hector"
 msgid "I don't know what to say to you now, though, because you're here, and I've never had anyone \"be here\" before."
-msgstr ""
+msgstr "Je ne sais pas quoi vous dire maintenant, pourtant, parce que vous êtes là, et que je n'ai jamais eu personne qui soit « là » auparavant."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/31
 msgctxt "Hector"
 msgid "I can, I can feel myself getting carried away, if I'm being honest. What you've done for me, your support, your encouragement. I could fall in love with you all over again. Oh my God. I shouldn't have said that. Sorry."
-msgstr ""
+msgstr "Je peux, je sens que je m'emballe, si je suis honnête. Ce que vous avez fait pour moi, votre soutien, vos encouragements. Je pourrais retomber amoureux de vous. Oh mon dieu. Je n'aurais pas dû dire cela. Pardon."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/0/s/0
 msgctxt "Choix"
 msgid "About love? You're not quite my type. But I think you're cool as hell!"
-msgstr ""
+msgstr "À propos d'amour ? Tu n'es pas tout à fait mon genre. Mais je te trouve carrément cool !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/1/s/0
 msgctxt "Choix"
 msgid "Well. If you wanna fall in love, I'm not gonna stop ya."
-msgstr ""
+msgstr "Eh bien. Si tu veux tomber amoureux, je ne t'en empêcherai pas."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/2/s/0
 msgctxt "Choix"
 msgid "Whoa, let's pump the brakes. I'm proud of you, but I'm not into you."
-msgstr ""
+msgstr "Waouh, on freine un peu. Je suis {{fier|fiere|fier·e}} de toi, mais je ne suis pas {{attiré|attirée|attiré·e}} par toi."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-0/7
 msgctxt "Hector"
 msgid "Yeah, yes, yes, of course, that's, that's all right."
-msgstr ""
+msgstr "Oui, oui, oui, bien sûr, c'est, c'est très bien."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-0/15
 msgctxt "Hector"
 msgid "My god, to even be able to say that it's alright, that I'm alright!"
-msgstr ""
+msgstr "Mon dieu, pouvoir seulement dire que c'est bien, que je vais bien !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-0/23
 msgctxt "Hector"
 msgid "The idea of you rejecting me even a few days ago would have destroyed me. You were the only beautiful thing in my world."
-msgstr ""
+msgstr "L'idée que vous me rejetiez, il y a ne serait-ce que quelques jours, m'aurait détruit. Vous étiez la seule belle chose de mon monde."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-0/31
 msgctxt "Hector"
 msgid "But what you've given me, even by seeing me and being honest with me... I have so much more now. Somehow I have light! I have space and opportunity!"
-msgstr ""
+msgstr "Mais ce que vous m'avez donné, rien qu'en me voyant et en étant honnête avec moi... j'ai tellement plus maintenant. D'une certaine façon, j'ai de la lumière ! J'ai de l'espace et des possibilités !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-0/42
 msgctxt "Hector"
 msgid "Remarkable, really! I never could have predicted this. Go! Be someone else's type! I applaud you and I support you, and I have my own love to find!"
-msgstr ""
+msgstr "Remarquable, vraiment ! Je n'aurais jamais pu prédire cela. Allez ! Soyez le genre de quelqu'un d'autre ! Je vous applaudis et je vous soutiens, et j'ai mon propre amour à trouver !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-1/7
 msgctxt "Hector"
 msgid "As if you could!"
-msgstr ""
+msgstr "Comme si vous le pouviez !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-1/18
 msgctxt "Hector"
 msgid "There is so much energy running through me at this moment, so much power I have for love now released from shame... if you're not prepared, I fear I may overwhelm you!"
-msgstr ""
+msgstr "Il y a tant d'énergie qui court en moi en ce moment, tant de puissance pour l'amour, maintenant libérée de la honte... si vous n'êtes pas {{prêt|prête|prêt·e}}, je crains de pouvoir vous submerger !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-1/26/0/s/0
 msgctxt "Choix"
 msgid "Bring it on, sexy!"
-msgstr ""
+msgstr "Vas-y, beau gosse !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-1/26/1/s/0
 msgctxt "Choix"
 msgid "I'm ready for anything you can dish out. We've got time!"
-msgstr ""
+msgstr "Je suis {{prêt|prête|prêt·e}} à tout ce que tu peux servir. On a le temps !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-1/26/c-0/7
 msgctxt "Hector"
 msgid "Sexy. You just called me sexy."
-msgstr ""
+msgstr "Beau gosse. Vous venez de m'appeler beau gosse."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-1/26/c-0/15
 msgctxt "Hector"
 msgid "And you've heard me, and felt me, but now you've seen me."
-msgstr ""
+msgstr "Et vous m'avez entendu, et senti, mais maintenant vous m'avez vu."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-1/26/c-0/23
 msgctxt "Hector"
 msgid "My love..."
-msgstr ""
+msgstr "Mon amour..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-2/7
 msgctxt "Hector"
 msgid "Oh! Oh..."
-msgstr ""
+msgstr "Oh ! Oh..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-2/15
 msgctxt "Hector"
 msgid "Oh. I... I see."
-msgstr ""
+msgstr "Oh. Je... je vois."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-2/23
 msgctxt "Hector"
 msgid "Yah of course, you know, I-I-I understand and I find I am quite grateful that you brought me up short before I said or did anything else, anything more ... \"definite\"."
-msgstr ""
+msgstr "Oui, bien sûr, vous savez, j-j-je comprends et je me trouve plutôt reconnaissant que vous m'ayez arrêté net avant que je dise ou fasse quoi que ce soit d'autre, quoi que ce soit de plus... « définitif »."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-2/31
 msgctxt "Hector"
 msgid "You're proud of me, and you're here, and that's what really matters, I suppose."
-msgstr ""
+msgstr "Vous êtes {{fier|fière|fier·e}} de moi, et vous êtes là, et c'est ce qui compte vraiment, je suppose."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-2/39
 msgctxt "Hector"
 msgid "In the end, it would've been amazing if you had felt about me the same way I feel about you, but... what matters most is that I feel... Right? I feel, I feel good, about me."
-msgstr ""
+msgstr "Au bout du compte, ç'aurait été formidable que vous ressentiez pour moi la même chose que je ressens pour vous, mais... ce qui compte le plus, c'est que je ressens... n'est-ce pas ? Je me sens, je me sens bien, dans ma peau."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-2/47
 msgctxt "Hector"
 msgid "And I do. Thanks to you, yes, certainly. And thanks to my own courage."
-msgstr ""
+msgstr "Et c'est le cas. Grâce à vous, oui, certainement. Et grâce à mon propre courage."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-1/42/c-2/55
 msgctxt "Hector"
 msgid "I hope we can both find someone to be \"into!\" And when we do, friend, I look forward to sharing the stories with you!"
-msgstr ""
+msgstr "J'espère que nous pourrons tous deux trouver quelqu'un qui nous « attire » ! Et quand ce sera fait, {{mon ami|mon amie|mon ami·e}}, j'ai hâte de partager les histoires avec vous !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/7
 msgctxt "Hector"
 msgid "What's woof? I have only been familiar with that in the context of a dog. I'm afraid I don't understand how it would apply here?"
-msgstr ""
+msgstr "Qu'est-ce que « ouaf » ? Je ne le connais que dans le contexte d'un chien. J'ai bien peur de ne pas comprendre comment cela s'appliquerait ici ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Oh, sorry. It's a way of saying \"no\" to something."
-msgstr ""
+msgstr "Oh, pardon. C'est une façon de dire « non » à quelque chose."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Man... are you out of touch."
-msgstr ""
+msgstr "Mon vieux... t'es complètement largué."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/7
 msgctxt "Hector"
 msgid "No. The only thing taking place here that I'm aware of is me letting myself be seen. That's what we're doing, that's that's why you came here."
-msgstr ""
+msgstr "Non. La seule chose qui se produise ici, à ma connaissance, c'est que je me laisse voir. C'est ce que nous faisons, c'est c'est pour cela que vous êtes {{venu|venue|venu·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/15
 msgctxt "Hector"
 msgid "So the only thing I can think that you would be saying no to... is me."
-msgstr ""
+msgstr "Donc la seule chose à laquelle je pense que vous diriez non... c'est moi."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/23
 msgctxt "Hector"
 msgid "No to me, and the real me this time, not the mask I'd so carefully constructed to protect myself from... precisely this experience."
-msgstr ""
+msgstr "Non à moi, et au vrai moi cette fois, pas au masque que j'avais si soigneusement construit pour me protéger de... précisément cette expérience."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/31
 msgctxt "Hector"
 msgid "Please... uh, jump in at any point and tell me how dreadfully I've misunderstood this..."
-msgstr ""
+msgstr "Je vous en prie... euh, intervenez à tout moment pour me dire à quel point j'ai affreusement mal compris..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/42/0/s/0
 msgctxt "Choix"
 msgid "No, you've pretty much got it."
-msgstr ""
+msgstr "Non, tu as à peu près tout compris."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/42/1/s/0
 msgctxt "Choix"
 msgid "Ha! Gotcha!!"
-msgstr ""
+msgstr "Ha ! Je t'ai eu !!"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/42/c-1/7
 msgctxt "Hector"
 msgid "What? I don't know. What? What?"
-msgstr ""
+msgstr "Quoi ? Je ne sais pas. Quoi ? Quoi ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/42/c-1/18/0/s/0
 msgctxt "Choix"
 msgid "Just kidding!"
-msgstr ""
+msgstr "Je rigole !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/42/c-1/18/1/s/0
 msgctxt "Choix"
 msgid "You're fine looking, I was just trying to freak you out."
-msgstr ""
+msgstr "Tu es très bien, j'essayais juste de te faire flipper."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/42/c-1/18/g-0/0
 msgctxt "Hector"
 msgid "You chose this moment. This most vulnerable moment. To make a joke out of me?"
-msgstr ""
+msgstr "Vous avez choisi ce moment. Ce moment si vulnérable. Pour faire de moi une plaisanterie ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-0/42/c-1/18/g-0/11
 msgctxt "Hector"
 msgid "I don't even care now how you meant it. Your timing is repugnant."
-msgstr ""
+msgstr "Je me fiche désormais de la façon dont vous l'entendiez. Votre timing est répugnant."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-1/7
 msgctxt "Hector"
 msgid "Well... yes. Unless you're just now joining us, I've sequestered myself in a dark attic for the last several decades, so it should make sense that there are some cultural moments I've missed."
-msgstr ""
+msgstr "Eh bien... oui. À moins que vous ne nous rejoigniez à l'instant, je me suis cloîtré dans un grenier sombre ces dernières décennies, il est donc logique que certains moments culturels m'aient échappé."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-1/15
 msgctxt "Hector"
 msgid "It's strange to me that my being out of touch is even the topic of our conversation."
-msgstr ""
+msgstr "Il est étrange pour moi que mon décalage soit même le sujet de notre conversation."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-1/23
 msgctxt "Hector"
 msgid "Either you are being deliberately evasive in order to avoid hurting my feelings, or you are so underwhelmed by me that I do not deserve even a full moment of consideration."
-msgstr ""
+msgstr "Soit vous esquivez délibérément pour éviter de blesser mes sentiments, soit je vous fais si peu d'effet que je ne mérite pas même un instant complet de considération."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "Meh. Pick one. I gotta go."
-msgstr ""
+msgstr "Bof. Choisis. Je dois y aller."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "I think you are ugly. There. Clear enough?"
-msgstr ""
+msgstr "Je te trouve moche. Voilà. C'est assez clair ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_attic/0/c-2/15/c-1/31/c-1/7
 msgctxt "Hector"
 msgid "Oh god, well this is a new pain."
-msgstr ""
+msgstr "Oh mon dieu, voilà une douleur nouvelle."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/0
 msgctxt "Hector"
 msgid "Oh, you know me by now. You know I am good with words- that I enjoy them."
-msgstr ""
+msgstr "Oh, vous me connaissez, maintenant. Vous savez que je suis bon avec les mots, que je les apprécie."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/8
 msgctxt "Hector"
 msgid "But right now, the only words I have are \"thank you.\""
-msgstr ""
+msgstr "Mais en cet instant, les seuls mots que j'ai sont « merci »."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/16
 msgctxt "Hector"
 msgid "What you've done for me, I cannot fully express, but I hope beyond hope that maybe, somehow, you understand."
-msgstr ""
+msgstr "Ce que vous avez fait pour moi, je ne saurais l'exprimer pleinement, mais j'espère de tout mon espoir que peut-être, d'une façon ou d'une autre, vous comprenez."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/27/s/0
 msgctxt "Choix"
 msgid "I love you, Hector."
-msgstr ""
+msgstr "Je t'aime, Hector."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/28/s/0
 msgctxt "Choix"
 msgid "I do understand... but not as lovers, merely friends."
-msgstr ""
+msgstr "Je comprends... mais pas en amants, juste en amis."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/c-0/7
 msgctxt "Hector"
 msgid "Incredible... The dreamings of a silly ventilation system... made manifest."
-msgstr ""
+msgstr "Incroyable... Les rêveries d'un stupide système de ventilation... devenues réalité."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/c-0/15
 msgctxt "Hector"
 msgid "I love you too."
-msgstr ""
+msgstr "Moi aussi, je vous aime."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/c-1/7
 msgctxt "Hector"
 msgid "Anything to increase my proximity to you I will take with all my heart."
-msgstr ""
+msgstr "Tout ce qui peut me rapprocher de vous, je l'accueille de tout mon cœur."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/c-1/15
 msgctxt "Hector"
 msgid "Though my love is unrequited, it will not sully our relationship one bit."
-msgstr ""
+msgstr "Bien que mon amour ne soit pas partagé, il ne ternira pas notre relation le moins du monde."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_joiner/0/c-1/23
 msgctxt "Hector"
 msgid "I have filters for that..."
-msgstr ""
+msgstr "J'ai des filtres pour ça..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_joiner/0
 msgctxt "Hector"
 msgid "Please come back. Anytime. I'll be here, my friend."
-msgstr ""
+msgstr "Revenez, je vous en prie. À tout moment. Je serai là, {{mon ami|mon amie|mon ami·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/10
 msgctxt "Hector"
 msgid "Here is the truth of you."
-msgstr ""
+msgstr "Voici la vérité sur vous."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/18
 msgctxt "Hector"
 msgid "It is a truth I would have dreaded, if I'd ever even let myself consider that it might be what was underneath that exterior I have warmed and cooled and cared for."
-msgstr ""
+msgstr "C'est une vérité que j'aurais redoutée, si jamais je m'étais permis d'envisager que ce pourrait être ce qui se cachait sous cet extérieur que j'ai réchauffé, refroidi et dont j'ai pris soin."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/26
 msgctxt "Hector"
 msgid "God, if I had ever truly believed you could be capable of this..."
-msgstr ""
+msgstr "Mon dieu, si j'avais jamais vraiment cru que vous en étiez capable..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/34
 msgctxt "Hector"
 msgid "...I would have frozen you out."
-msgstr ""
+msgstr "...je vous aurais glacé."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/45
 msgctxt "Hector"
 msgid "It would have been an arctic blast to rival the coldest winter's chill. The ice would've rimmed the windows to match the coldness of your heart!"
-msgstr ""
+msgstr "Ç'aurait été un souffle arctique à rivaliser avec le plus froid des hivers. La glace aurait bordé les fenêtres pour égaler la froideur de votre cœur !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/53/s/0
 msgctxt "Choix"
 msgid "That's vivid. I'm sorry I'm being a jerk."
-msgstr ""
+msgstr "C'est imagé. {{Désolé|Désolée|Désolé·e}} de me comporter comme {{un crétin|une crétine|un·e crétin·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/54/s/0
 msgctxt "Choix"
 msgid "Ooooh I'm so scared..."
-msgstr ""
+msgstr "Ooooh, j'ai trop peur..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/55/s/0
 msgctxt "Choix"
 msgid "Big whoop."
-msgstr ""
+msgstr "Pas de quoi en faire un plat."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/7
 msgctxt "Hector"
 msgid "Jerk. What a flippant word. You've been cruel."
-msgstr ""
+msgstr "{{Crétin|Crétine|Crétin·e}}. Quel mot désinvolte. Vous avez été {{cruel|cruelle|cruel·le}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Eh. I haven't been that bad."
-msgstr ""
+msgstr "Bof. Je n'ai pas été si terrible."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Yeah... I have. I'm sorry."
-msgstr ""
+msgstr "Ouais... si. Je suis {{désolé|désolée|désolé·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-0/7
 msgctxt "Hector"
 msgid "I will not be put in the position of convincing you of your own behavior!"
-msgstr ""
+msgstr "Je ne me laisserai pas mettre en position de vous convaincre de votre propre comportement !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-0/18
 msgctxt "Hector"
 msgid "I am not your teacher, I am not responsible for you getting better."
-msgstr ""
+msgstr "Je ne suis pas votre professeur, je ne suis pas responsable de votre amélioration."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-0/26
 msgctxt "Hector"
 msgid "I am not your parent, that I care one iota whether or not you evolve or mature."
-msgstr ""
+msgstr "Je ne suis pas votre parent, pour que je me soucie le moins du monde que vous évoluiez ou mûrissiez."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-0/34
 msgctxt "Hector"
 msgid "I am, apparent to all now, not even your friend. I care not. I waste not one more breath on you!"
-msgstr ""
+msgstr "Je ne suis, c'est désormais évident pour tous, même pas votre ami. Cela m'est égal. Je ne gaspille plus un souffle de plus pour vous !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-1/7
 msgctxt "Hector"
 msgid "Is that an apology?"
-msgstr ""
+msgstr "Est-ce des excuses ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-1/15
 msgctxt "Hector"
 msgid "I think I'm disgusted."
-msgstr ""
+msgstr "Je crois que je suis dégoûté."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-1/26
 msgctxt "Hector"
 msgid "I may just be tired."
-msgstr ""
+msgstr "Je suis peut-être simplement fatigué."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-1/34
 msgctxt "Hector"
 msgid "Either way, I will not do this now. Not anymore. I won't dignify this with another moment of my time, not here, not here where I have already told you you are not welcome."
-msgstr ""
+msgstr "Dans les deux cas, je ne ferai pas cela maintenant. Plus maintenant. Je n'accorderai pas à cela un instant de plus de mon temps, pas ici, pas ici où je vous ai déjà dit que vous n'aviez rien à faire."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-0/15/c-1/42
 msgctxt "Hector"
 msgid "Please, get out. Maybe we can try again... at the grates."
-msgstr ""
+msgstr "Sortez, je vous prie. Nous pourrons peut-être réessayer... aux grilles."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-1/7
 msgctxt "Hector"
 msgid "No you aren't, not really. Not yet."
-msgstr ""
+msgstr "Non, pas vraiment. Pas encore."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-1/18
 msgctxt "Hector"
 msgid "If you understood the power I truly wield over you, the innumerable ways I have protected you, sheltered you..."
-msgstr ""
+msgstr "Si vous compreniez le pouvoir que je détiens vraiment sur vous, les innombrables façons dont je vous ai {{protégé|protégée|protégé·e}}, {{abrité|abritée|abrité·e}}..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-1/26
 msgctxt "Hector"
 msgid "...coddled you! Then the fear would be seeping out of you like coolant. Thick. Frigid. Overwhelming."
-msgstr ""
+msgstr "...{{dorloté|dorlotée|dorloté·e}} ! Alors la peur suinterait de vous comme du liquide de refroidissement. Épaisse. Glaciale. Écrasante."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-1/34
 msgctxt "Hector"
 msgid "But I have time. Time is all I have, and one day, you will see."
-msgstr ""
+msgstr "Mais j'ai le temps. Le temps est tout ce que j'ai, et un jour, vous verrez."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-2/7
 msgctxt "Hector"
 msgid "Cocky? Huh, cocky, is it? That's your defense."
-msgstr ""
+msgstr "Arrogant ? Hein, arrogant, c'est ça ? C'est votre défense."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-2/15
 msgctxt "Hector"
 msgid "The refuge of every playground bully since time immemorial?"
-msgstr ""
+msgstr "Le refuge de toutes les petites brutes de cour de récré depuis la nuit des temps ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-2/23
 msgctxt "Hector"
 msgid "Excellent. I hope your ego blows you up and you float away on a greasy bubble of self-importance."
-msgstr ""
+msgstr "Excellent. J'espère que votre ego vous fera exploser et que vous vous envolerez sur une bulle graisseuse de suffisance."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-2/31
 msgctxt "Hector"
 msgid "Because when that bubble finally bursts, you will hit the ground alone."
-msgstr ""
+msgstr "Parce que lorsque cette bulle finira par éclater, vous toucherez le sol {{seul|seule|seul·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-2/39
 msgctxt "Hector"
 msgid "No one will be there with warmth, or comfort. No one will be there at all."
-msgstr ""
+msgstr "Personne ne sera là avec de la chaleur, ou du réconfort. Personne ne sera là du tout."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_joiner/0/c-2/47
 msgctxt "Hector"
 msgid "Such is the fate of the arrogant. And I am patient enough to wait... to wait for the day when your bill comes due."
-msgstr ""
+msgstr "Tel est le sort des arrogants. Et je suis assez patient pour attendre... attendre le jour où votre note viendra à échéance."
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/0/b/1 hector_hvac/keyes_hector_attic/0/4/b/1 hector_hvac/keyes_hector_attic_revealed/0/0/b/1
 msgctxt "Hector"
 msgid "Hmmm, you look like you have something on your mind, my beauty."
-msgstr ""
+msgstr "Hmmm, vous avez l'air d'avoir quelque chose en tête, mon trésor."
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/3/b/1 hector_hvac/keyes_hector_attic/0/5/b/1 hector_hvac/keyes_hector_attic_revealed/0/1/b/1
 msgctxt "Hector"
 msgid "What do you want."
-msgstr ""
+msgstr "Que voulez-vous."
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/6/s/0 hector_hvac/keyes_hector_attic/0/8/s/0 hector_hvac/keyes_hector_attic_revealed/0/4/s/0
 msgctxt "Choix"
 msgid "Yeah, Keyes says she needs the temperature an exact degree for her to play?"
-msgstr ""
+msgstr "Ouais, Keyes dit qu'il lui faut la température au degré près pour jouer ?"
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/7 hector_hvac/keyes_hector_attic/0/c-0/7 hector_hvac/keyes_hector_attic_revealed/0/c-0/7
 msgctxt "Hector"
 msgid "Hah! Of course she did."
-msgstr ""
+msgstr "Hah ! Bien sûr que oui."
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/15 hector_hvac/keyes_hector_attic/0/c-0/15 hector_hvac/keyes_hector_attic_revealed/0/c-0/15
 msgctxt "Hector"
 msgid "Twenty degrees! Could you imagine?"
-msgstr ""
+msgstr "Vingt degrés ! Pouvez-vous imaginer ?"
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/23/0/s/0 hector_hvac/keyes_hector_attic/0/c-0/26/0/s/0 hector_hvac/keyes_hector_attic_revealed/0/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "Actually, I think she meant Celsius."
-msgstr ""
+msgstr "En fait, je crois qu'elle voulait dire Celsius."
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/23/c-0/7 hector_hvac/keyes_hector_attic/0/c-0/26/c-0/7 hector_hvac/keyes_hector_attic_revealed/0/c-0/26/c-0/7
 msgctxt "Hector"
 msgid "What! The nerve."
-msgstr ""
+msgstr "Quoi ! Quel culot."
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/23/c-0/18/0/s/0 hector_hvac/keyes_hector_attic/0/c-0/26/c-0/15/0/s/0 hector_hvac/keyes_hector_attic_revealed/0/c-0/26/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Are you going to be able to help?"
-msgstr ""
+msgstr "Tu vas pouvoir aider ?"
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/23/c-0/18/c-0/7 hector_hvac/keyes_hector_attic/0/c-0/26/c-0/15/c-0/7 hector_hvac/keyes_hector_attic_revealed/0/c-0/26/c-0/15/c-0/7
 msgctxt "Hector"
 msgid "Sigh. Perhaps. I have a converter around here somewhere."
-msgstr ""
+msgstr "Soupir. Peut-être. J'ai un convertisseur quelque part par ici."
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/23/c-0/18/c-0/15 hector_hvac/keyes_hector_attic/0/c-0/26/c-0/15/c-0/15 hector_hvac/keyes_hector_attic_revealed/0/c-0/26/c-0/15/c-0/15
 msgctxt "Hector"
 msgid "But still, she needs to treat us lowly objects a little less like a baroness!"
-msgstr ""
+msgstr "Mais tout de même, elle devrait traiter les humbles objets que nous sommes un peu moins comme une baronne !"
 
+# Traduction IA – à relire
 #: hector_hvac/keyes_hector/0/c-0/23/c-0/18/c-0/29 hector_hvac/keyes_hector_attic/0/c-0/26/c-0/15/c-0/29 hector_hvac/keyes_hector_attic_revealed/0/c-0/26/c-0/15/c-0/29
 msgctxt "Hector"
 msgid "Now then... what was I going to say before this interruption?"
-msgstr ""
+msgstr "Bon... qu'allais-je dire avant cette interruption ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return/0/0 hector_hvac/hector_friend_return_attic/0/0
 msgctxt "Hector"
 msgid "Hello again my friend!"
-msgstr ""
+msgstr "Bonjour à nouveau, {{mon ami|mon amie|mon ami·e}} !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return/0/8 hector_hvac/hector_friend_return_attic/0/8
 msgctxt "Hector"
 msgid "What a pleasure to see you again. Why have you come? How can I help you?"
-msgstr ""
+msgstr "Quel plaisir de vous revoir. Pourquoi êtes-vous {{venu|venue|venu·e}} ? Comment puis-je vous aider ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return/0/16/s/0 hector_hvac/hector_friend_return_attic/0/16/s/0
 msgctxt "Choix"
 msgid "Just stopping by to say hello!"
-msgstr ""
+msgstr "Je passais juste dire bonjour !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return/0/17/s/0 hector_hvac/hector_friend_return_attic/0/17/s/0 hector_hvac/hector_love_return/0/17/s/0 hector_hvac/hector_love_return_attic/0/20/s/0
 msgctxt "Choix"
 msgid "I'm ready to Realize you, Hector!"
-msgstr ""
+msgstr "Je suis {{prêt|prête|prêt·e}} à te Réaliser, Hector !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return/0/c-0/7 hector_hvac/hector_friend_return_attic/0/c-0/7
 msgctxt "Hector"
 msgid "Well. As always, you are very welcome to stop by."
-msgstr ""
+msgstr "Eh bien. Comme toujours, vous pouvez passer quand bon vous semble."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return/0/c-0/15 hector_hvac/hector_friend_return_attic/0/c-0/15
 msgctxt "Hector"
 msgid "Perhaps in a bit I could offer you a nice temperature bath!"
-msgstr ""
+msgstr "Peut-être que dans un moment, je pourrai vous offrir un bon bain de température !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return/0/c-0/23
 msgctxt "Hector"
 msgid "I've discovered a fun way to alternate the heat and cooling to produce a deeply relaxing effect. I'll show you later!"
-msgstr ""
+msgstr "J'ai découvert une façon amusante d'alterner la chaleur et le refroidissement pour produire un effet profondément relaxant. Je vous le montrerai plus tard !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_friend_return_attic/0/c-0/23
 msgctxt "Hector"
 msgid "I've discovered a fun way to alternate the heat and cooling to produce a deeply relaxing effect. I can show you later."
-msgstr ""
+msgstr "J'ai découvert une façon amusante d'alterner la chaleur et le refroidissement pour produire un effet profondément relaxant. Je pourrai vous le montrer plus tard."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_return/0/0
 msgctxt "Hector"
 msgid "My love, you've returned."
-msgstr ""
+msgstr "Mon amour, vous êtes {{revenu|revenue|revenu·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_return/0/8 hector_hvac/hector_love_return_attic/0/8
 msgctxt "Hector"
 msgid "There is, you know, the most amazing rush of air in my chest each time I behold you now."
-msgstr ""
+msgstr "Il y a, voyez-vous, la plus extraordinaire bouffée d'air dans ma poitrine chaque fois que je vous contemple, désormais."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_return/0/16/s/0 hector_hvac/hector_love_return_attic/0/19/s/0
 msgctxt "Choix"
 msgid "Of course I've returned, to be spoken to like this."
-msgstr ""
+msgstr "Bien sûr que je suis {{revenu|revenue|revenu·e}}, pour qu'on me parle comme ça."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_return/0/c-0/7
 msgctxt "Hector"
 msgid "What can I say? You inspire me."
-msgstr ""
+msgstr "Que dire ? Vous m'inspirez."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_return/0/c-0/15 hector_hvac/hector_love_return_attic/0/c-0/15
 msgctxt "Hector"
 msgid "You are like breathing freedom."
-msgstr ""
+msgstr "Vous êtes comme respirer la liberté."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_return_attic/0/0
 msgctxt "Hector"
 msgid "My love. You have returned."
-msgstr ""
+msgstr "Mon amour. Vous êtes {{revenu|revenue|revenu·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_return_attic/0/c-0/7
 msgctxt "Hector"
 msgid "Well, what can I say? You inspire me."
-msgstr ""
+msgstr "Eh bien, que dire ? Vous m'inspirez."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/10
 msgctxt "Hector"
 msgid "Huh. I cannot say that I thought to see you again. I cannot say either that it pleases me over much."
-msgstr ""
+msgstr "Hm. Je ne peux pas dire que je pensais vous revoir. Je ne peux pas dire non plus que cela me réjouisse outre mesure."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/18/s/0 hector_hvac/hector_hate_return_attic/0/18/s/0
 msgctxt "Choix"
 msgid "Ha. Whatever. I'm not overmuched either. I'm outta here."
-msgstr ""
+msgstr "Ha. Peu importe. Moi non plus, je ne suis pas {{ravi|ravie|ravi·e}}. Je m'en vais."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/19/s/0 hector_hvac/hector_hate_return_attic/0/19/s/0
 msgctxt "Choix"
 msgid "Hector, can we start over? I didn't do a good job of honoring your needs. (USE EMPATHY CANDY)"
-msgstr ""
+msgstr "Hector, on peut recommencer ? Je n'ai pas bien respecté tes besoins. (UTILISER UN BONBON D'EMPATHIE)"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/c-1/7 hector_hvac/hector_hate_return_attic/0/c-1/13
 msgctxt "Hector"
 msgid "No. No you didn't."
-msgstr ""
+msgstr "Non. Non, vous ne l'avez pas fait."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/c-1/15
 msgctxt "Hector"
 msgid "But my sentiment for you is still such that... yes. Yes, I suppose we can try again."
-msgstr ""
+msgstr "Mais mes sentiments pour vous sont encore tels que... oui. Oui, je suppose que nous pouvons réessayer."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/c-1/23 hector_hvac/hector_hate_return_attic/0/c-1/29
 msgctxt "Hector"
 msgid "Sometimes I wish I could hate you. But c'est la vie."
-msgstr ""
+msgstr "Parfois, j'aimerais pouvoir vous haïr. Mais c'est la vie."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/c-1/37/0/s/0 hector_hvac/hector_hate_return_attic/0/c-1/46/0/s/0
 msgctxt "Choix"
 msgid "All I had to do was ask?"
-msgstr ""
+msgstr "Il suffisait de demander ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/c-1/37/c-0/7
 msgctxt "Hector"
 msgid "Well... yes. I have found that communication is not really terrible and difficult... if one will try."
-msgstr ""
+msgstr "Eh bien... oui. J'ai découvert que la communication n'est pas vraiment terrible ni difficile... si l'on essaie."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/c-1/37/c-0/15
 msgctxt "Hector"
 msgid "There is nothing to be lost in an honest attempt. And I can feel that's what you have brought to me."
-msgstr ""
+msgstr "Il n'y a rien à perdre dans une tentative honnête. Et je sens que c'est ce que vous m'avez apporté."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return/0/c-1/37/c-0/23 hector_hvac/hector_hate_return_attic/0/c-1/46/c-0/23
 msgctxt "Hector"
 msgid "I value any true friendship, regardless of the winding of the path that has led there."
-msgstr ""
+msgstr "J'apprécie toute amitié véritable, quels que soient les méandres du chemin qui y a mené."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/0 hector_hvac/hector_hate_return_denied_attic/0/0
 msgctxt "Hector"
 msgid "How dare you. Truly, HOW do you dare to show your face to me?"
-msgstr ""
+msgstr "Comment osez-vous. Vraiment, COMMENT osez-vous me montrer votre visage ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/14/s/0 hector_hvac/hector_hate_return_denied_attic/0/8/s/0
 msgctxt "Choix"
 msgid "You're right. Bad move. Byeeee."
-msgstr ""
+msgstr "Tu as raison. Mauvaise idée. Salut."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/15/s/0 hector_hvac/hector_hate_return_denied_attic/0/9/s/0
 msgctxt "Choix"
 msgid "Hector, can we please be friends? I feel really bad. (USE EMPATHY CANDY)"
-msgstr ""
+msgstr "Hector, on peut être amis, s'il te plaît ? Je me sens vraiment mal. (UTILISER UN BONBON D'EMPATHIE)"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/c-1/13
 msgctxt "Hector"
 msgid "Oh, do you?"
-msgstr ""
+msgstr "Oh, vraiment ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/c-1/21 hector_hvac/hector_hate_return_denied_attic/0/c-1/24
 msgctxt "Hector"
 msgid "You feel bad. For humiliating and mocking me? Or for getting to know me before you did that, to make sure it would sting?"
-msgstr ""
+msgstr "Vous vous sentez mal. De m'avoir humilié et moqué ? Ou d'avoir appris à me connaître avant, pour vous assurer que cela piquerait ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/c-1/29 hector_hvac/hector_hate_return_denied_attic/0/c-1/32
 msgctxt "Hector"
 msgid "I'm going to give you the benefit of the doubt. Which I may say is an extraordinarily generous move on my part, and say you feel terribly for both actions."
-msgstr ""
+msgstr "Je vais vous accorder le bénéfice du doute. Ce qui est, si je puis dire, un geste extraordinairement généreux de ma part, et supposer que vous vous sentez affreusement mal pour les deux actes."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/c-1/43/0/s/0 hector_hvac/hector_hate_return_denied_attic/0/c-1/46/0/s/0
 msgctxt "Choix"
 msgid "I do. Truly. I'm sorry."
-msgstr ""
+msgstr "C'est vrai. Sincèrement. Je suis {{désolé|désolée|désolé·e}}."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/c-1/43/1/s/0 hector_hvac/hector_hate_return_denied_attic/0/c-1/46/1/s/0
 msgctxt "Choix"
 msgid "Thanks for giving me another shot."
-msgstr ""
+msgstr "Merci de me donner une autre chance."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/g-0/0 hector_hvac/hector_hate_return_denied_attic/0/g-0/0
 msgctxt "Hector"
 msgid "You're welcome. Despite recent events, I have a new confidence. A new trust in myself."
-msgstr ""
+msgstr "Je vous en prie. Malgré les récents événements, j'ai une nouvelle confiance. Une nouvelle confiance en moi."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/g-0/8 hector_hvac/hector_hate_return_denied_attic/0/g-0/8
 msgctxt "Hector"
 msgid "You and I can try again not because I am lonesome or afraid, but because I am willing to see the best in you."
-msgstr ""
+msgstr "Vous et moi pouvons réessayer non parce que je suis solitaire ou effrayé, mais parce que je suis prêt à voir le meilleur en vous."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/g-0/16 hector_hvac/hector_hate_return_denied_attic/0/g-0/16
 msgctxt "Hector"
 msgid "A best I can now see in me, too."
-msgstr ""
+msgstr "Un meilleur que je peux maintenant voir en moi aussi."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/g-0/24
 msgctxt "Hector"
 msgid "I would value a real friendship, and since that seems to be what you offer..."
-msgstr ""
+msgstr "J'apprécierais une véritable amitié, et puisque cela semble être ce que vous offrez..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied/0/g-0/32 hector_hvac/hector_hate_return_denied_attic/0/g-0/32
 msgctxt "Hector"
 msgid "...I suppose we shall see."
-msgstr ""
+msgstr "...je suppose que nous verrons."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_attic/0/10
 msgctxt "Hector"
 msgid "Oh, uh, I cannot say I thought to see you again. I cannot say either that it pleases me overmuch."
-msgstr ""
+msgstr "Oh, euh, je ne peux pas dire que je pensais vous revoir. Je ne peux pas dire non plus que cela me réjouisse outre mesure."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_attic/0/c-1/21
 msgctxt "Hector"
 msgid "But my sentiment for you is still such that... yes. Yes, we can try again."
-msgstr ""
+msgstr "Mais mes sentiments pour vous sont encore tels que... oui. Oui, nous pouvons réessayer."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_attic/0/c-1/46/c-0/7
 msgctxt "Hector"
 msgid "Well... yes. I have found that communication is not really terrible and difficult... if one is willing to try."
-msgstr ""
+msgstr "Eh bien... oui. J'ai découvert que la communication n'est pas vraiment terrible ni difficile... si l'on veut bien essayer."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_attic/0/c-1/46/c-0/15
 msgctxt "Hector"
 msgid "There is nothing to be lost in an honest attempt. And I can feel that's what you've brought to me."
-msgstr ""
+msgstr "Il n'y a rien à perdre dans une tentative honnête. Et je sens que c'est ce que vous m'avez apporté."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied_attic/0/c-1/13
 msgctxt "Hector"
 msgid "Oh, you feel bad, do you?"
-msgstr ""
+msgstr "Oh, vous vous sentez mal, vraiment ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_hate_return_denied_attic/0/g-0/24
 msgctxt "Hector"
 msgid "I would value a real friendship, and since that seems to be what you offer me..."
-msgstr ""
+msgstr "J'apprécierais une véritable amitié, et puisque cela semble être ce que vous m'offrez..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return/0
 msgctxt "Hector"
 msgid "Oh look who it is."
-msgstr ""
+msgstr "Oh, regardez qui voilà."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return/8
 msgctxt "Hector"
 msgid "I wish I had it in me to laugh at you."
-msgstr ""
+msgstr "J'aimerais avoir en moi de quoi rire de vous."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return/16
 msgctxt "Hector"
 msgid "No, I don't. All I feel is disgust."
-msgstr ""
+msgstr "Non, je ne l'ai pas. Tout ce que je ressens, c'est du dégoût."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return/27
 msgctxt "Hector"
 msgid "You had so many chances. You had to know what was right, and what was brutal, and you made your choices."
-msgstr ""
+msgstr "Vous aviez tant de chances. Vous deviez savoir ce qui était juste, et ce qui était brutal, et vous avez fait vos choix."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return/35
 msgctxt "Hector"
 msgid "I'll have you know, it is only for my own pride that I still do my duty by the house."
-msgstr ""
+msgstr "Sachez que c'est uniquement par fierté que j'accomplis encore mon devoir envers la maison."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return/43
 msgctxt "Hector"
 msgid "Worried only about my feelings? I should freeze you out!"
-msgstr ""
+msgstr "{{Soucieux|Soucieuxse|Soucieux·se}} uniquement de mes sentiments ? Je devrais vous glacer !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return/51
 msgctxt "Hector"
 msgid "Now begone. There is nothing here for you."
-msgstr ""
+msgstr "Maintenant, disparaissez. Il n'y a rien ici pour vous."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return_attic/0
 msgctxt "Hector"
 msgid "NO! Ye gods..."
-msgstr ""
+msgstr "NON ! Grands dieux..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return_attic/8
 msgctxt "Hector"
 msgid "What have I done to merit such cruelty."
-msgstr ""
+msgstr "Qu'ai-je fait pour mériter pareille cruauté."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return_attic/16
 msgctxt "Hector"
 msgid "Not for lack of instruction, not for lack of chances or of grace, you once again beat me into the dust..."
-msgstr ""
+msgstr "Non par manque d'instruction, non par manque de chances ou de grâce, vous m'écrasez de nouveau dans la poussière..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return_attic/24
 msgctxt "Hector"
 msgid "...and now you return?? Again??? For what?!"
-msgstr ""
+msgstr "...et maintenant vous revenez ?? Encore ??? Pour quoi faire ?!"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return_attic/35
 msgctxt "Hector"
 msgid "Even if absolution were mine to offer, I should withhold it!"
-msgstr ""
+msgstr "Même si l'absolution m'appartenait, je la refuserais !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_redo_hate_return_attic/43
 msgctxt "Hector"
 msgid "Get out. You are not welcome here. You shall NEVER be welcome by me again!"
-msgstr ""
+msgstr "Sortez. Vous n'avez rien à faire ici. Vous ne serez JAMAIS plus {{accueilli|accueillie|accueilli·e}} chez moi !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join/0/0
 msgctxt "Hector"
 msgid "Realize? You've come to realize me?"
-msgstr ""
+msgstr "Réaliser ? Vous êtes {{venu|venue|venu·e}} me Réaliser ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join/0/8 hector_hvac/hector_realize_join_attic/0/8
 msgctxt "Hector"
 msgid "You can do that??"
-msgstr ""
+msgstr "Vous pouvez faire ça ??"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join/0/28/s/0 hector_hvac/hector_realize_join_attic/0/28/s/0
 msgctxt "Choix"
 msgid "Yep I can! And I can do it right now, if you're ready!"
-msgstr ""
+msgstr "Ouaip ! Et je peux le faire tout de suite, si tu es prêt !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join/0/29/s/0 hector_hvac/hector_realize_join_attic/0/29/s/0
 msgctxt "Choix"
 msgid "I do have the power... just not the stuff. But I'll be back!"
-msgstr ""
+msgstr "J'ai bien le pouvoir... mais pas le matériel. Je reviens !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join/0/c-1/10 hector_hvac/hector_realize_join_attic/0/c-1/10
 msgctxt "Hector"
 msgid "Well then for goodness' sake, go get the stuff!"
-msgstr ""
+msgstr "Eh bien alors, pour l'amour du ciel, allez chercher le matériel !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join/0/c-1/18
 msgctxt "Hector"
 msgid "Whatever \"stuff\" is. I would be curious if I weren't so distracted by my excitement! Oh, I'm sorry, too excited."
-msgstr ""
+msgstr "Quel que soit ce « matériel ». Je serais curieux si je n'étais pas si distrait par mon excitation ! Oh, pardon, trop excité."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join/0/c-1/26 hector_hvac/hector_realize_join_attic/0/c-1/26
 msgctxt "Hector"
 msgid "I will wait here. I literally will not move."
-msgstr ""
+msgstr "J'attendrai ici. Je ne bougerai littéralement pas."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join_attic/0/0
 msgctxt "Hector"
 msgid "Realize. You have come to Realize me?"
-msgstr ""
+msgstr "Réaliser. Vous êtes {{venu|venue|venu·e}} me Réaliser ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_join_attic/0/c-1/18
 msgctxt "Hector"
 msgid "Whatever \"stuff\" is. I would be curious if I weren't so distracted by my excitement!"
-msgstr ""
+msgstr "Quel que soit ce « matériel ». Je serais curieux si je n'étais pas si distrait par mon excitation !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return/0/0 hector_hvac/hector_realize_return_attic/0/0
 msgctxt "Hector"
 msgid "You're back. Do you have \"the stuff\"?"
-msgstr ""
+msgstr "Vous revoilà. Avez-vous « le matériel » ?"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return/0/17/s/0 hector_hvac/hector_realize_return_attic/0/17/s/0
 msgctxt "Choix"
 msgid "Stuff in hand, pal."
-msgstr ""
+msgstr "Le matériel en main, mon pote."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return/0/18/s/0 hector_hvac/hector_realize_return_attic/0/18/s/0
 msgctxt "Choix"
 msgid "Nope... just making sure you're still game!"
-msgstr ""
+msgstr "Non... je voulais juste m'assurer que tu es toujours partant !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return/0/c-1/10 hector_hvac/hector_realize_return_attic/0/c-1/10
 msgctxt "Hector"
 msgid "I am very familiar with the process of teasing someone with something you know they cannot actually have."
-msgstr ""
+msgstr "Je connais très bien le procédé qui consiste à taquiner quelqu'un avec une chose que l'on sait qu'il ne peut pas avoir."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return/0/c-1/18 hector_hvac/hector_realize_return_attic/0/c-1/18
 msgctxt "Hector"
 msgid "I tell you, if that is what you're doing to me..."
-msgstr ""
+msgstr "Je vous le dis, si c'est ce que vous me faites..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return/0/c-1/26 hector_hvac/hector_realize_return_attic/0/c-1/26
 msgctxt "Hector"
 msgid "I will turn this house into a sauna. And not the good kind."
-msgstr ""
+msgstr "Je transformerai cette maison en sauna. Et pas du bon genre."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return/0/c-1/34
 msgctxt "Hector"
 msgid "Ooooh, I don't mean to be rude, please just hurry, I cannot wait to be alive!"
-msgstr ""
+msgstr "Ooooh, je ne veux pas être impoli, mais dépêchez-vous, je vous prie, il me tarde d'être en vie !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_return_attic/0/c-1/34
 msgctxt "Hector"
 msgid "Ooooh I don't mean to be rude, please hurry, I cannot wait to be alive!"
-msgstr ""
+msgstr "Ooooh, je ne veux pas être impoli, dépêchez-vous, je vous prie, il me tarde d'être en vie !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_begin/6/b/1
 msgctxt "Skylar"
 msgid "Can Hector handle being Realized? He'll be a whole lot more visible now..."
-msgstr ""
+msgstr "Hector va-t-il supporter d'être Réalisé ? Il va être beaucoup plus visible maintenant..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_begin/9
 msgctxt "Skylar"
 msgid "Okay, Hector let's breathe life into you!"
-msgstr ""
+msgstr "Bon, Hector, on va te donner vie !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realize_begin/20
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely an HVAC system, becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était jadis qu'un simple système de CVC devient..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realized/0/3
 msgctxt "Hector"
 msgid "Oh... oh my... look at me!"
-msgstr ""
+msgstr "Oh... oh là là... regardez-moi !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realized/0/11
 msgctxt "Hector"
 msgid "Do you have any idea how remarkable... I have <w>CURVES!</w>"
-msgstr ""
+msgstr "Avez-vous la moindre idée à quel point c'est remarquable... j'ai des <w>COURBES !</w>"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realized/0/19/s/0
 msgctxt "Choix"
 msgid "Yes, you do, Hector. You've got all kinds of shapes now!"
-msgstr ""
+msgstr "Oui, Hector. Tu as toutes sortes de formes maintenant !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_realized/0/20/s/0
 msgctxt "Choix"
 msgid "And my oh my, what fetching curves they are!"
-msgstr ""
+msgstr "Et mon dieu, quelles courbes séduisantes !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/0
 msgctxt "Hector"
 msgid "My muscles, they're so warm. I had no idea that flesh could feel so different from metal!"
-msgstr ""
+msgstr "Mes muscles, ils sont si chauds. Je ne me doutais pas que la chair pouvait être si différente du métal !"
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/8/s/0
 msgctxt "Choix"
 msgid "Oh, I did."
-msgstr ""
+msgstr "Oh, moi si."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/9/s/0
 msgctxt "Choix"
 msgid "You were beautiful then, and you're beautiful now. Kiss me."
-msgstr ""
+msgstr "Tu étais beau avant, et tu es beau maintenant. Embrasse-moi."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/3
 msgctxt "Hector"
 msgid "My love, I cannot tell you the pleasure I feel at being able now, at last, to touch you..."
-msgstr ""
+msgstr "Mon amour, je ne saurais vous dire le plaisir que je ressens à pouvoir enfin vous toucher..."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/11
 msgctxt "Narrator"
 msgid "Hector's fascination with his newfound body turns out to be an interest that you share."
-msgstr ""
+msgstr "La fascination d'Hector pour son corps tout neuf se révèle être un intérêt que vous partagez."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/19
 msgctxt "Narrator"
 msgid "And as much as the interest itself, the two of you find a shared passion for taking your time in the exploration."
-msgstr ""
+msgstr "Et autant que l'intérêt lui-même, vous découvrez tous deux une passion commune pour prendre son temps dans l'exploration."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/27
 msgctxt "Narrator"
 msgid "It is without self-consciousness at all that Hector spends a solid hour tracing the curves and hollows of your back."
-msgstr ""
+msgstr "C'est sans la moindre gêne qu'Hector passe une bonne heure à suivre les courbes et les creux de votre dos."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/35
 msgctxt "Narrator"
 msgid "His hands feel so alive. So sensitive. You can feel them learning you as he touches you. To him, you are both the inspiration and the medium."
-msgstr ""
+msgstr "Ses mains semblent si vivantes. Si sensibles. Vous les sentez vous apprendre à mesure qu'il vous touche. Pour lui, vous êtes à la fois l'inspiration et le médium."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/43
 msgctxt "Hector"
 msgid "If I were blindfolded, my love, I could recreate you. I could trace your body from memory. I would even remember the colors of you."
-msgstr ""
+msgstr "Les yeux bandés, mon amour, je pourrais vous recréer. Je pourrais retracer votre corps de mémoire. Je me souviendrais même de vos couleurs."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/51
 msgctxt "Narrator"
 msgid "It is a night of simple worship and profound visibility for you both."
-msgstr ""
+msgstr "C'est une nuit d'adoration simple et de visibilité profonde pour vous deux."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_divert/0/g-0/59
 msgctxt "Narrator"
 msgid "In the morning, with a tight hug, you bid him farewell. The world has a beautiful new artist of life, and there is celebrating to be done."
-msgstr ""
+msgstr "Au matin, dans une étreinte serrée, vous lui dites au revoir. Le monde compte un nouvel et bel artiste de la vie, et il y a des célébrations à organiser."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_join/0
 msgctxt "Narrator"
 msgid "Hector, vividly recalling his own experiences with shame and the fear of being seen, found that he had not been alone in that out in the wider world."
-msgstr ""
+msgstr "Hector, se rappelant avec netteté ses propres expériences de honte et de peur d'être vu, découvrit qu'il n'avait pas été seul dans ce cas, dans le vaste monde."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_join/8
 msgctxt "Narrator"
 msgid "An entire digital world had arisen. That hiding one's true self behind an avatar was commonplace - and sometimes necessary."
-msgstr ""
+msgstr "Tout un monde numérique avait vu le jour. Cacher sa vraie nature derrière un avatar y était banal, et parfois nécessaire."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_join/16
 msgctxt "Narrator"
 msgid "Late one night, Hector's artistic sensitivity and curiosity led him down a dark cobblestone street... into a mask-making workshop."
-msgstr ""
+msgstr "Tard un soir, la sensibilité artistique et la curiosité d'Hector le menèrent dans une sombre rue pavée... jusqu'à un atelier de fabrication de masques."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_join/24
 msgctxt "Narrator"
 msgid "He studied the ancient art... where he learned how masks can be powerful things. For hiding, and for expression."
-msgstr ""
+msgstr "Il étudia l'art ancestral... où il apprit combien les masques peuvent être puissants. Pour se cacher, et pour s'exprimer."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_join/32
 msgctxt "Narrator"
 msgid "His creations quickly became the talk of the town, and his work soon became sought after from much further afield; his sensitivity as an artist set his work in a category of its own."
-msgstr ""
+msgstr "Ses créations devinrent vite le sujet de conversation de la ville, et son travail fut bientôt recherché bien au-delà ; sa sensibilité d'artiste plaçait son oeuvre dans une catégorie à part."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_join/40
 msgctxt "Narrator"
 msgid "His creations were not simply functional; they were loving. And they brought the fun of the masquerade back into vogue."
-msgstr ""
+msgstr "Ses créations n'étaient pas simplement fonctionnelles ; elles étaient pleines d'amour. Et elles remirent à la mode le plaisir du bal masqué."
 
+# Traduction IA – à relire
 #: hector_hvac/hector_love_join/48
 msgctxt "Hector"
 msgid "Hide... and be seen!"
-msgstr ""
+msgstr "Cachez-vous... et soyez vus !"

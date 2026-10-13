@@ -29,7 +29,7 @@
 - **Genre grammatical du personnage** : il (Dunk, athlète baraqué ; Kristof et Shelley : Kristof il, Shelley elle)
 - **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : familier, sportif, solaire et bienveillant ; Kristof : solennel, viking, vouvoie « Duncan » ? non, tutoie tout le monde avec emphase ; Shelley : bourrine, familière
+- **Registre** : familier, sportif, solaire et bienveillant ; Kristof : solennel, viking, emphatique (tutoie) ; Shelley : bourrine, familière
 - **Personnalité, manière de parler** : Dunk est un colosse positif, encourageant, qui n'abandonne personne ; mots d'ordre « good vibes », respect des limites. Ellipses (« j'fais », « y'a »), exclamations.
 - **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : surnoms épicènes « pote », « champion·ne » via {{…}} ; « Hell yeah » -> « Ouais, grave ! » / « Carrément ! » ; « Let's get it baby » -> « On y va, bébé ! » ; « bummer talk » -> « des paroles de rabat-joie » ; Kristof : « Exercise is VIOLENCE » -> « L'exercice, c'est de la VIOLENCE ».
 - **Exemples de répliques traduites (référence de ton)** : « Hé hé, y'a pas de souci, pote ! » ; « Ça, c'est de l'attitude positive, j'adore ! » ; Kristof : « Ne contamine pas ces gens avec ta faiblesse, Duncan. »

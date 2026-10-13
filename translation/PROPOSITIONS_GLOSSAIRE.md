@@ -49,3 +49,5 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - IMPORTANT cohérence : épée de Jacques « Le Pique » → « Le Braquemart » (relecture Opus, beau_box) — à appliquer dans jacques_ship et partout ailleurs
 - Cabrizzio : trauma dump → déballer ses traumas ; mots italiens, Il Ragazzo Pazzo, Zia Ventrina inchangés (agent cabrizzio_cabinet)
 - Artt : Sacred Paint → Sainte Peinture ; co-curator → {{co-conservateur|co-conservatrice|…}} (agent artt_art)
+- Hector : HVAC → Climatisation / CLIMATISATION (aligné sur DateADex et screen_tutorials) ; Hector vouvoie le joueur (agent hector_hvac)
+- Drysdale : tassel hound → chien à pompons (harmoniser avec mateo_blanket) ; cherub → chérubin ; The Pale Betrayal → la Trahison Blême ; Dishy Divas → Divas Canon (agent drysdale_dryer)
