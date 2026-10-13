@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: barry_beauty/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "BEAUTY SUPPLIES"
-msgstr ""
+msgstr "PRODUITS DE BEAUTÉ"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/6
 msgctxt "Narrator"
 msgid "A stylist with a very vertical, very pink hairdo appraises you, lifting his glasses to take a better look at you. His face is kind, his features soft, and his makeup? Impeccable."
-msgstr ""
+msgstr "Un styliste à la coiffure très verticale et très rose vous jauge en soulevant ses lunettes pour mieux vous voir. Son visage est doux, ses traits aussi, et son maquillage ? Impeccable."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/14 barry_beauty/barry_intro/0/85
 msgctxt "Barry"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/33 barry_beauty/barry_asks/0/g-2/8 barry_beauty/barry_asks/0/g-2/c-11/33
 msgctxt "Barry"
 msgid "Hm."
-msgstr ""
+msgstr "Hm."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/55
 msgctxt "Barry"
 msgid "Ah how about we..."
-msgstr ""
+msgstr "Et si on commençait par..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/63
 msgctxt "Barry"
 msgid "...oh?"
-msgstr ""
+msgstr "...oh ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/74 barry_beauty/barry_asks/0/g-0/8/c-7/7
 msgctxt "Barry"
 msgid "Ah."
-msgstr ""
+msgstr "Ah."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/96
 msgctxt "Barry"
 msgid "Oh dear."
-msgstr ""
+msgstr "Oh là là."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/104
 msgctxt "Barry"
 msgid "I think I'm getting lost right at the start of all this."
-msgstr ""
+msgstr "Je crois que je me perds dès le début de tout ça."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/115
 msgctxt "Barry"
 msgid "I'm so, so, so, so sorry, darling. My brain runs quicker than cheap mascara sometimes."
-msgstr ""
+msgstr "Je suis désolé, désolé, désolé, désolé, mon chou. Mon cerveau file plus vite qu'un mascara premier prix."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/123
 msgctxt "Barry"
 msgid "Oh, stupid Barry. Disposable Barry. You’re doing it again!"
-msgstr ""
+msgstr "Oh, Barry l'idiot. Barry le jetable. Tu recommences !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/131
 msgctxt "Barry"
 msgid "I'll just stop... talking."
-msgstr ""
+msgstr "Je vais juste... arrêter de parler."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/139/s/0
 msgctxt "Choix"
 msgid "Uh... hello?"
-msgstr ""
+msgstr "Euh... bonjour ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/140/s/0
 msgctxt "Choix"
 msgid "Can we start over?"
-msgstr ""
+msgstr "On peut recommencer ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/c-0/7
 msgctxt "Barry"
 msgid "Yes yes yes. Hello is what anyone at the top of their game WOULD say."
-msgstr ""
+msgstr "Oui oui oui. Bonjour, c'est exactement ce que dirait quelqu'un au sommet de son art."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/c-1/7
 msgctxt "Barry"
 msgid "...I would like that, yes."
-msgstr ""
+msgstr "...ça me plairait, oui."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-0/0
 msgctxt "Narrator"
 msgid "He takes a deep breath, shaking off his awkwardness and giving you a friendly smile."
-msgstr ""
+msgstr "Il inspire profondément, chasse sa gêne et vous adresse un sourire amical."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-0/8
 msgctxt "Barry"
 msgid "Let’s take this from the perfectly coiffed top, shall we?"
-msgstr ""
+msgstr "Reprenons depuis le haut, parfaitement coiffé, d'accord ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-0/16
 msgctxt "Barry"
 msgid "My name is Barry Styles, I am your one-stop shop for looking good, feeling great, not that I have to work too hard at that because, and I don’t know if I made myself clear enough on this point darling, you are looking FAB-U-LOUS!"
-msgstr ""
+msgstr "Je m'appelle Barry Styles, je suis votre guichet unique pour être beau, se sentir bien, et pas besoin que je me fatigue pour ça parce que, et je ne sais pas si j'ai été assez clair là-dessus, mon coeur, tu es {{FA-BU-LEUX|FA-BU-LEUSE|FA-BU-LEUX·SE}} !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-0/27
 msgctxt "Barry"
 msgid "I’ll be honest, because I like to be clearer than a freshly unblocked pore, I really don’t like talking about myself, hun. I’d much rather talk all about YOU!"
-msgstr ""
+msgstr "Je serai honnête, parce que j'aime être plus limpide qu'un pore fraîchement débouché : je n'aime pas trop parler de moi, mon chou. Je préfère mille fois parler de TOI !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-0/35
 msgctxt "Barry"
 msgid "And eyebrow hydration, of course. You really cannot underestimate how important it is to avoid a thirsty brow, baby."
-msgstr ""
+msgstr "Et d'hydratation des sourcils, bien sûr. On ne dira jamais assez combien il est important d'éviter le sourcil assoiffé, chéri·e."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-0/43/s/0
 msgctxt "Choix"
 msgid "Thirsty... brow."
-msgstr ""
+msgstr "Sourcil... assoiffé."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-0/44/s/0
 msgctxt "Choix"
 msgid "Of course!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-1/0
 msgctxt "Barry"
 msgid "But mostly, I wanna talk all about you. In fact, if you’d be so gracious as to indulge me, I’d love to really get under the skin."
-msgstr ""
+msgstr "Mais surtout, je veux parler de toi. En fait, si tu me faisais l'honneur de me laisser faire, j'adorerais te passer sous la peau."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "Please... I'm ready."
-msgstr ""
+msgstr "Je t'en prie... je suis {{prêt|prête|prêt·e}}."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "Literally?"
-msgstr ""
+msgstr "Littéralement ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/0
 msgctxt "Barry"
 msgid "Oh, not literally, obviously. My products are for external use only."
-msgstr ""
+msgstr "Oh, pas littéralement, évidemment. Mes produits sont à usage externe uniquement."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/8
 msgctxt "Barry"
 msgid "I mean, can I ask you a few questions?"
-msgstr ""
+msgstr "Je veux dire, je peux te poser quelques questions ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/19/s/0
 msgctxt "Choix"
 msgid "Sure, let's do it."
-msgstr ""
+msgstr "Bien sûr, allons-y."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/20/s/0
 msgctxt "Choix"
 msgid "I guess so."
-msgstr ""
+msgstr "Je suppose que oui."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/21/s/0
 msgctxt "Choix"
 msgid "I am so lost already."
-msgstr ""
+msgstr "Je suis déjà complètement {{perdu|perdue|perdu·e}}."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-6/7
 msgctxt "Barry"
 msgid "Oh fabulous, darling!"
-msgstr ""
+msgstr "Oh, fabuleux, mon coeur !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-7/13
 msgctxt "Barry"
 msgid "Oh dear, if I can't ask you a few queries, then this might go really poorly."
-msgstr ""
+msgstr "Oh là là, si je ne peux pas te poser quelques questions, ça risque de très mal tourner."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-7/21
 msgctxt "Barry"
 msgid "I do well with queries, surveys, trivia, tidbits, and nibnobs, especially nibnobs."
-msgstr ""
+msgstr "Je me débrouille bien avec les questions, les sondages, les quiz, les anecdotes et les tralalas, surtout les tralalas."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-7/29
 msgctxt "Barry"
 msgid "We'll get to nibnobs when I'm damn well ready..."
-msgstr ""
+msgstr "On abordera les tralalas quand je serai bien prêt, nom d'un chien..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-7/37/0/s/0
 msgctxt "Choix"
 msgid "What the hell is a nibnob?"
-msgstr ""
+msgstr "C'est quoi, un tralala, bon sang ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-7/37/1/s/0
 msgctxt "Choix"
 msgid "You got it, Barry. Off to a rousing start."
-msgstr ""
+msgstr "C'est bien parti, Barry. Départ en fanfare."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-7/37/c-0/7
 msgctxt "Barry"
 msgid "Oh dear. We aren't ready. I knew it was too soon. I'll have to come back again."
-msgstr ""
+msgstr "Oh là là. On n'est pas prêts. Je savais que c'était trop tôt. Je reviendrai."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-7/37/c-1/7
 msgctxt "Barry"
 msgid "Arousing as well..."
-msgstr ""
+msgstr "Et en fanfare, ça excite aussi..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-2/c-8/7
 msgctxt "Barry"
 msgid "You and me both, darling.."
-msgstr ""
+msgstr "Toi et moi, mon coeur.."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/0
 msgctxt "Barry"
 msgid "Okay okay okay, this is super exciting, I just love learning about what other people like. I haven’t yet met with a taste I can’t cater to. So with that in mind, I simply HAVE to ask..."
-msgstr ""
+msgstr "Bon bon bon, c'est super excitant, j'adore découvrir ce que les autres aiment. Je n'ai encore jamais croisé un goût que je ne sache satisfaire. Dans cet esprit, je DOIS absolument demander..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/8
 msgctxt "Barry"
 msgid "<w>...drumroll...!</w>"
-msgstr ""
+msgstr "<w>...roulement de tambour...!</w>"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/0
 msgctxt "Barry"
 msgid "Favorite brand of tweezer?"
-msgstr ""
+msgstr "Ta marque de pince à épiler préférée ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/8/s/0
 msgctxt "Choix"
 msgid "That's your first question?"
-msgstr ""
+msgstr "C'est ta première question ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/9/s/0
 msgctxt "Choix"
 msgid "Tweezers, huh?"
-msgstr ""
+msgstr "Des pinces à épiler, hein ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/10/s/0
 msgctxt "Choix"
 msgid "Oh lemme think. I have a preference for sure."
-msgstr ""
+msgstr "Oh, laisse-moi réfléchir. J'ai une préférence, c'est sûr."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/11/s/0
 msgctxt "Choix"
 msgid "I simply do not care about this."
-msgstr ""
+msgstr "Je n'en ai strictement rien à faire."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-9/7
 msgctxt "Barry"
 msgid "Not a tweezer kinda human? Uhh more a plucker? That’s absolutely okay, I know plenty of pluckers and they’re all plucking lovely."
-msgstr ""
+msgstr "Pas du genre pince ? Plutôt du genre arracheur ? C'est tout à fait OK, je connais plein d'arracheurs et ils sont tous arrachants de gentillesse."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-9/15
 msgctxt "Barry"
 msgid "I always like to say that you are valid, no matter how hard you pluck."
-msgstr ""
+msgstr "J'aime toujours dire que tu es valide, peu importe à quel point tu t'arraches."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-10/7
 msgctxt "Barry"
 msgid "Oh... okay, okay, that’s fine, darling. I had a whole extravagant Q n’ A planned out just for you, but if there’s one thing I know, it’s not to press too hard, that’s how you get an uneven skin tone."
-msgstr ""
+msgstr "Oh... d'accord, d'accord, pas de souci, mon chou. J'avais prévu tout un quiz extravagant rien que pour toi, mais s'il y a bien un truc que je sais, c'est qu'il ne faut pas trop appuyer, sinon le teint devient irrégulier."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-10/15
 msgctxt "Barry"
 msgid "I’m absolutely happy to move on if you are."
-msgstr ""
+msgstr "Je suis tout à fait content de passer à autre chose si toi aussi."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-10/23/0/s/0
 msgctxt "Choix"
 msgid "Yeah, let's move on."
-msgstr ""
+msgstr "Oui, passons à la suite."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-10/23/1/s/0
 msgctxt "Choix"
 msgid "No, I've got a preference."
-msgstr ""
+msgstr "Non, j'ai une préférence."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-10/23/c-0/7
 msgctxt "Barry"
 msgid "Let's!!"
-msgstr ""
+msgstr "Passons !!"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-10/23/c-1/7
 msgctxt "Barry"
 msgid "Then tell me..."
-msgstr ""
+msgstr "Alors dis-moi..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-11/7
 msgctxt "Barry"
 msgid "Let's hear it my little kitten!"
-msgstr ""
+msgstr "Je t'écoute, mon petit chaton !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/7
 msgctxt "Barry"
 msgid "Oh but I can't imagine! Tweezers? Oh, they’re- I think- they're all just great, really, aren’t they?"
-msgstr ""
+msgstr "Oh mais je ne peux pas imaginer ! Les pinces à épiler ? Oh, elles sont... je crois... toutes très bien, non, franchement ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/15
 msgctxt "Barry"
 msgid "I couldn't pick a favorite if I tried, and trust me, I've tried."
-msgstr ""
+msgstr "Je ne saurais pas en choisir une préférée, même en essayant, et crois-moi, j'ai essayé."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/23
 msgctxt "Barry"
 msgid "For hours."
-msgstr ""
+msgstr "Pendant des heures."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/31
 msgctxt "Barry"
 msgid "Just staring at tweezers."
-msgstr ""
+msgstr "À fixer des pinces à épiler."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/39
 msgctxt "Barry"
 msgid "I love tweezers."
-msgstr ""
+msgstr "J'adore les pinces à épiler."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/47
 msgctxt "Barry"
 msgid "Even the word is satisfying to say."
-msgstr ""
+msgstr "Même le mot est satisfaisant à prononcer."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/55
 msgctxt "Barry"
 msgid "Tweezer."
-msgstr ""
+msgstr "Pince."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/63
 msgctxt "Barry"
 msgid "Tweezers."
-msgstr ""
+msgstr "Pinces."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_intro/0/g-3/19/c-12/71
 msgctxt "Barry"
 msgid "Tweeeeezers."
-msgstr ""
+msgstr "Piiiiinces."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/0
 msgctxt "Barry"
 msgid "Tweeze me!"
-msgstr ""
+msgstr "Pince-moi !"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/8/s/0
 msgctxt "Choix"
 msgid "Teezy Weezy’s Tweezer Brand Tweezers"
-msgstr ""
+msgstr "Les pinces à épiler de la marque Teezy Weezy"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/9/s/0
 msgctxt "Choix"
 msgid "Polished Response’s Slickline Brand"
-msgstr ""
+msgstr "La gamme Slickline de Polished Response"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/10/s/0
 msgctxt "Choix"
 msgid "The Smile Republic ones"
-msgstr ""
+msgstr "Celles de Smile Republic"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/11/s/0
 msgctxt "Choix"
 msgid "Gotta be Creedle & Crabnuts"
-msgstr ""
+msgstr "Forcément Creedle & Crabnuts"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/12/s/0
 msgctxt "Choix"
 msgid "Anything dull, preferably rusted"
-msgstr ""
+msgstr "N'importe quoi d'émoussé, de préférence rouillé"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/13/s/0
 msgctxt "Choix"
 msgid "I like those little ones with tortoiseshell handles"
-msgstr ""
+msgstr "J'aime bien les petites avec le manche en écaille de tortue"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-0/7
 msgctxt "Barry"
 msgid "Oh, you really know your tweezers if you know Teezy Weezy!"
-msgstr ""
+msgstr "Oh, tu t'y connais en pinces si tu connais Teezy Weezy !"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-0/15
 msgctxt "Barry"
 msgid "Did you know that Teezy Weezy’s Tweezer Brand Tweezers won the Massachusetts Most Accurate Tweezers Award three years running between 1995 and 1997?"
-msgstr ""
+msgstr "Tu savais que les pinces à épiler de la marque Teezy Weezy ont remporté le Prix de la Pince la Plus Précise du Massachusetts trois années de suite, de 1995 à 1997 ?"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-0/23
 msgctxt "Barry"
 msgid "The Teezy Weezy Company doesn’t like to talk about 1998. They’d have had ‘99 in the bag though, if the awards hadn’t shut down after that girl lost an eye!"
-msgstr ""
+msgstr "La société Teezy Weezy n'aime pas parler de 1998. Elle aurait raflé 99 les doigts dans le nez, si le concours n'avait pas fermé après l'histoire de la fille qui a perdu un oeil !"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-1/7
 msgctxt "Barry"
 msgid "Ooh, classy choice! Polished Responses' line of beauty products is second to none, except for the cases where they aren't."
-msgstr ""
+msgstr "Ooh, choix chic ! La gamme beauté de Polished Response n'a pas d'égale, sauf quand elle en a."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-1/15
 msgctxt "Barry"
 msgid "Everything they put out emphasizes sleek form factors that promote keen aesthetic without sacrificing functionality."
-msgstr ""
+msgstr "Tout ce qu'ils sortent mise sur des formes élégantes qui servent l'esthétique sans sacrifier la fonction."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-1/23
 msgctxt "Barry"
 msgid "You wouldn’t think tweezers could turn heads, but when you pull a Polished Response product out of your handbag, the only way it won’t get noticed is if they’re being upstaged by your Polished Response handbag!"
-msgstr ""
+msgstr "On ne croirait pas qu'une pince à épiler puisse faire tourner les têtes, mais quand tu sors un produit Polished Response de ton sac, le seul moyen de passer inaperçu, c'est d'être éclipsé par ton sac Polished Response !"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-2/7
 msgctxt "Barry"
 msgid "Iiiiiinteresting! Smile Republic doesn’t get the highest user reviews out there, especially not after they released that combination waffle frying hair curler..."
-msgstr ""
+msgstr "Iiiiintéressant ! Smile Republic n'est pas la mieux notée par les utilisateurs, surtout depuis la sortie de ce fer à friser gaufrier-poêle..."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-2/15
 msgctxt "Barry"
 msgid "But if you want reliability, dependable build quality, and effective results... well, you can pick any other beauty line because Smile Republic is for those who like to live dangerously!"
-msgstr ""
+msgstr "Mais si tu veux de la fiabilité, une construction solide et des résultats efficaces... eh bien choisis n'importe quelle autre marque, car Smile Republic, c'est pour ceux qui aiment vivre dangereusement !"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-3/7
 msgctxt "Barry"
 msgid "Is there anything that company doesn’t make? They literally make other companies! At least... if you believe the rumor they helped the Scunthorpe Mafia set up that shell corporation."
-msgstr ""
+msgstr "Y a-t-il quoi que ce soit que cette société ne fabrique pas ? Elle fabrique littéralement d'autres sociétés ! Du moins... si on en croit la rumeur selon laquelle elle aurait aidé la mafia de Scunthorpe à monter sa société écran."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-3/15
 msgctxt "Barry"
 msgid "I like their tweezers though. They’re metal, they grip small things, they have those little grooves running across the curvy bit. They’re um..."
-msgstr ""
+msgstr "J'aime bien leurs pinces, pourtant. Elles sont en métal, elles pincent les petits trucs, elles ont ces petites rainures sur la partie courbe. Elles sont, euh..."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-3/23
 msgctxt "Barry"
 msgid "Well, they’re just really regular tweezers, aren't they."
-msgstr ""
+msgstr "Enfin, ce sont juste des pinces à épiler normales, quoi."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-4/7
 msgctxt "Barry"
 msgid "Huh... that’s an... uhhhh... yep. Dull and rusted. Go off on whatever makes you feel good, I suppose."
-msgstr ""
+msgstr "Hein... c'est un... euuuh... oui. Émoussé et rouillé. Fais ce qui te fait du bien, j'imagine."
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-5/7
 msgctxt "Barry"
 msgid "Oh my word they are just the CUTEST, aren’t they?"
-msgstr ""
+msgstr "Oh là là, elles sont tout simplement les PLUS MIGNONNES, non ?"
 
+# Traduction IA – à relire
 #: barry_beauty/tweezer_menu/0/c-5/15
 msgctxt "Barry"
 msgid "They’re so little and nippy and pinchy, ooh! Simply adorable! Far too cute to be used on the nose hairs they’re always used for, but I try not to think about that when I’m hugging them."
-msgstr ""
+msgstr "Elles sont si petites, si pincantes, si pinçantes, ooh ! Adorables ! Bien trop mignonnes pour servir aux poils de nez, comme toujours, mais j'essaie de ne pas y penser quand je les serre dans mes bras."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/3
 msgctxt "Barry"
 msgid "So!"
-msgstr ""
+msgstr "Bon !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/11
 msgctxt "Barry"
 msgid "Let me just make a mental note. No need to actually write it down, got a mind like a steel trap... at least when it comes to tweezers and tweezer-related lifestyle choices."
-msgstr ""
+msgstr "Je fais juste une note mentale. Pas besoin de l'écrire, j'ai une mémoire en acier... du moins pour les pinces à épiler et les choix de vie qui vont avec."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/19
 msgctxt "Barry"
 msgid "Ask me to remember a job interview or doctor’s appointment and I can’t help you, but random hair conditioner trivia? I could give you that for days!"
-msgstr ""
+msgstr "Demande-moi de retenir un entretien d'embauche ou un rendez-vous chez le médecin et je ne peux rien pour toi, mais des anecdotes au hasard sur les après-shampoings ? J'en ai pour des jours !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/38/s/0
 msgctxt "Choix"
 msgid "So, what’s the next question?"
-msgstr ""
+msgstr "Alors, c'est quoi la prochaine question ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/39/s/0
 msgctxt "Choix"
 msgid "Okay, lay a conditioner fact on me."
-msgstr ""
+msgstr "D'accord, balance-moi une info sur l'après-shampoing."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/40/s/0
 msgctxt "Choix"
 msgid "Next question?"
-msgstr ""
+msgstr "La question suivante ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/7
 msgctxt "Barry"
 msgid "Mmm, uh, sorry?"
-msgstr ""
+msgstr "Mmm, euh, pardon ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I think you were asking questions?"
-msgstr ""
+msgstr "Je crois que tu posais des questions ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/15/c-0/7
 msgctxt "Barry"
 msgid "Right, right! The critical path!"
-msgstr ""
+msgstr "Ah oui, oui ! Le fil rouge !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/15/c-0/18
 msgctxt "Barry"
 msgid "Let us continue right on down with..."
-msgstr ""
+msgstr "Continuons donc avec..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/15/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "What's your favorite lipstick color?"
-msgstr ""
+msgstr "C'est quoi ton rouge à lèvres préféré ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/15/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "What is your deepest darkest secret?"
-msgstr ""
+msgstr "C'est quoi ton plus sombre secret ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/15/c-0/26/c-1/7
 msgctxt "Barry"
 msgid "Oh dear. Too deep too quickly. I like surface level, surface!"
-msgstr ""
+msgstr "Oh là là. Trop profond trop vite. J'aime la surface, en surface !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-0/15/c-0/26/c-1/15 barry_beauty/barry_post_tweezers/0/c-2/21
 msgctxt "Barry"
 msgid "Here, I'll do it."
-msgstr ""
+msgstr "Tiens, je m'en charge."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/13 barry_beauty/barry_encounter_three_friend/0/g-1/c-6/15
 msgctxt "Barry"
 msgid "Oh!"
-msgstr ""
+msgstr "Oh !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/21
 msgctxt "Barry"
 msgid "Uh-huh. Oh, no."
-msgstr ""
+msgstr "Mm-hm. Oh, non."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/29
 msgctxt "Barry"
 msgid "I’ve been put on the spot."
-msgstr ""
+msgstr "On m'a mis au pied du mur."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/40
 msgctxt "Barry"
 msgid "Oh, wait! How about this?"
-msgstr ""
+msgstr "Oh, attends ! Et ça ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/48
 msgctxt "Barry"
 msgid "While it’s bad for your hair if you wash it every day, you can safely condition every day with no washing required. This is great, because I think people should use conditioner as much as possible."
-msgstr ""
+msgstr "Se laver les cheveux tous les jours abîme la chevelure, mais on peut très bien faire un après-shampoing tous les jours sans lavage. C'est génial, parce que je pense qu'on devrait mettre de l'après-shampoing le plus possible."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/56
 msgctxt "Barry"
 msgid "Not so much for the health benefits, but the fact that it just makes hair feel really, really nice, doesn't it?"
-msgstr ""
+msgstr "Pas tant pour la santé du cheveu que parce que ça rend les cheveux vraiment, vraiment agréables au toucher, non ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/64
 msgctxt "Barry"
 msgid "Freshly conditioned hair is the chocolate milk of texture. At least that’s what I always say."
-msgstr ""
+msgstr "Un cheveu fraîchement conditionné, c'est le lait chocolaté des textures. C'est ce que je dis toujours."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-1/72
 msgctxt "Barry"
 msgid "Well, I don't always say that. That was the first time I ever said it, but I'll keep saying it now. Uh, what were we doing? Oh, right! Time for your second question! Ask me this time!"
-msgstr ""
+msgstr "Bon, je ne le dis pas toujours. C'est la première fois que je le dis, mais je vais le dire tout le temps maintenant. Euh, on faisait quoi ? Ah oui ! L'heure de ta deuxième question ! Cette fois, c'est toi qui me la poses !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_post_tweezers/0/c-2/13
 msgctxt "Barry"
 msgid "Yes darling, it's a tit-for-tat now! Play along, play along my little swan!"
-msgstr ""
+msgstr "Oui mon coeur, c'est donnant-donnant maintenant ! Joue le jeu, joue le jeu, mon petit cygne !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/0
 msgctxt "Barry"
 msgid "Barry, what's your favorite lipstick color?"
-msgstr ""
+msgstr "Barry, c'est quoi ton rouge à lèvres préféré ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/8/s/0
 msgctxt "Choix"
 msgid "Barry, What's your favorite lipstick color?"
-msgstr ""
+msgstr "Barry, c'est quoi ton rouge à lèvres préféré ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/0
 msgctxt "Barry"
 msgid "This is a good one! A classique of a beauty question. We can’t have a beauty Q&A without knowing your favorite lipstick color, can we?"
-msgstr ""
+msgstr "Excellente question ! Un classique de la beauté. Impossible de faire un quiz beauté sans connaître ton rouge à lèvres préféré, non ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/8
 msgctxt "Barry"
 msgid "Mine..."
-msgstr ""
+msgstr "Le mien..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/16
 msgctxt "Barry"
 msgid "Is pink!"
-msgstr ""
+msgstr "C'est le rose !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/24
 msgctxt "Barry"
 msgid "Impressive, no?"
-msgstr ""
+msgstr "Impressionnant, non ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/32/s/0
 msgctxt "Choix"
 msgid "Rather impressive."
-msgstr ""
+msgstr "Plutôt impressionnant."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/33/s/0
 msgctxt "Choix"
 msgid "That sounds very middle of the road."
-msgstr ""
+msgstr "Ça me paraît très consensuel."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/34/s/0
 msgctxt "Choix"
 msgid "I wouldn't say impressive is the right word?"
-msgstr ""
+msgstr "Je ne dirais pas que « impressionnant » est le bon mot ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/c-1/13
 msgctxt "Barry"
 msgid "That's what I said!"
-msgstr ""
+msgstr "C'est ce que j'ai dit !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/c-2/7
 msgctxt "Barry"
 msgid "Oh, wow, just like your response."
-msgstr ""
+msgstr "Oh, wow, exactement comme ta réponse."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/lipstickjoin/c-3/7
 msgctxt "Barry"
 msgid "Oh, you're right, right, right, right, it is merely grand."
-msgstr ""
+msgstr "Oh, tu as raison, raison, raison, raison, c'est simplement bien."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/0
 msgctxt "Barry"
 msgid "...what, pray tell, is yours?"
-msgstr ""
+msgstr "...et le tien, dis-moi ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Pink."
-msgstr ""
+msgstr "Rose."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/1/s/0
 msgctxt "Choix"
 msgid "Red."
-msgstr ""
+msgstr "Rouge."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/2/s/0
 msgctxt "Choix"
 msgid "A different color."
-msgstr ""
+msgstr "Une autre couleur."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/3/s/0
 msgctxt "Choix"
 msgid "I don't like lipstick."
-msgstr ""
+msgstr "Je n'aime pas le rouge à lèvres."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-4/7
 msgctxt "Barry"
 msgid "My favorite too!"
-msgstr ""
+msgstr "Aussi le mien !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-4/24
 msgctxt "Barry"
 msgid "The thing about pink is the diversity of mood it conveys. At once playfully innocent and cheekily suggestive, its cultural association with femininity has seen it both stigmatized and embraced in equal measure."
-msgstr ""
+msgstr "Le truc avec le rose, c'est la diversité d'humeurs qu'il véhicule. À la fois ludiquement innocent et coquinement suggestif, son association culturelle avec la féminité l'a fait autant stigmatiser qu'adopter."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-4/32
 msgctxt "Barry"
 msgid "Its use, more than any other color, can either be a display of conformity or of rebellion, and perhaps most importantly of all, it just really pairs well with my eyes."
-msgstr ""
+msgstr "Plus que n'importe quelle autre couleur, il peut afficher le conformisme comme la rébellion et, surtout, il va vraiment super bien avec mes yeux."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-5/7
 msgctxt "Barry"
 msgid "Well, when it comes to \"classique\", can we look any further than red?"
-msgstr ""
+msgstr "Bon, en matière de « classique », peut-on trouver mieux que le rouge ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-5/15
 msgctxt "Barry"
 msgid "It’s the look of the sexy, the sultry, and it slots neatly into almost any aesthetic. It’s the first line choice of lip shade for a reason."
-msgstr ""
+msgstr "C'est la couleur du sexy, du sensuel, et elle s'intègre à presque tous les styles. Ce n'est pas pour rien que c'est le premier choix de teinte pour les lèvres."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-5/23
 msgctxt "Barry"
 msgid "It’s a color that truly says \"here are my lips, right here, on my face, the little flappy things just in front of my thing.\" You truly can’t go wrong with red."
-msgstr ""
+msgstr "C'est une couleur qui dit vraiment « voici mes lèvres, juste là, sur mon visage, les petits machins flasques sous mon nez ». On ne se trompe jamais avec le rouge."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-6/7
 msgctxt "Barry"
 msgid "Oh, not one for the traditional? I can certainly respect that."
-msgstr ""
+msgstr "Oh, pas du genre traditionnel ? Je respecte tout à fait ça."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-6/15
 msgctxt "Barry"
 msgid "There’s nothing that says lippy can’t be any color you want it to be, after all. Now don’t tell me darling, let me guess your fave."
-msgstr ""
+msgstr "Rien n'interdit au rouge à lèvres d'être de la couleur que tu veux, après tout. Ne me dis rien, mon coeur, laisse-moi deviner ta préférée."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-6/23
 msgctxt "Barry"
 msgid "Uuuhhhmmm... blue. No, green. You strike me as a green. Or teal. Or black. Oh please say it’s black, I’ve not gone goth in forever!"
-msgstr ""
+msgstr "Euuuhhhmmm... bleu. Non, vert. Tu me fais penser à du vert. Ou du turquoise. Ou du noir. Oh, dis que c'est du noir, ça fait une éternité que je ne suis pas redevenu gothique !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-6/31
 msgctxt "Barry"
 msgid "Wait, no, I got it. It's gold, isn't it? Rose gold. Green! No, no wait, I already said green. It's gotta be blue then. Maybe teal?"
-msgstr ""
+msgstr "Attends, non, j'ai trouvé. C'est de l'or, n'est-ce pas ? Or rose. Vert ! Non, non attends, j'ai déjà dit vert. Alors ça doit être bleu. Peut-être turquoise ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-0/8/c-6/39
 msgctxt "Barry"
 msgid "Ah, this is too hard. I’m just going to stick with \"other.\""
-msgstr ""
+msgstr "Ah, c'est trop dur. Je vais me contenter de « autre »."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/0
 msgctxt "Barry"
 msgid "Moving on! It’s time for our final question... for now."
-msgstr ""
+msgstr "Passons ! C'est l'heure de notre dernière question... pour l'instant."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/16
 msgctxt "Barry"
 msgid "That sounded threatening."
-msgstr ""
+msgstr "Ça sonnait comme une menace."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/24
 msgctxt "Barry"
 msgid "Anyway, third Q."
-msgstr ""
+msgstr "Bref, troisième question."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/32
 msgctxt "Barry"
 msgid "What do you think is the biggest reason to wear makeup?"
-msgstr ""
+msgstr "Selon toi, quelle est la meilleure raison de se maquiller ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/40/s/0
 msgctxt "Choix"
 msgid "To feel confident."
-msgstr ""
+msgstr "Pour se sentir {{sûr|sûre|sûr·e}} de soi."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/41/s/0
 msgctxt "Choix"
 msgid "To feel sexy."
-msgstr ""
+msgstr "Pour se sentir sexy."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/42/s/0
 msgctxt "Choix"
 msgid "To feel unique."
-msgstr ""
+msgstr "Pour se sentir unique."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/43/s/0
 msgctxt "Choix"
 msgid "To feel like somebody else."
-msgstr ""
+msgstr "Pour se sentir quelqu'un d'autre."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/44/s/0
 msgctxt "Choix"
 msgid "I don't wear makeup."
-msgstr ""
+msgstr "Je ne me maquille pas."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-8/7
 msgctxt "Barry"
 msgid "Yeah... yeah I get that."
-msgstr ""
+msgstr "Ouais... ouais, je comprends."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-8/15
 msgctxt "Barry"
 msgid "We all have things we’re self conscious about, and I think makeup helps. It’s one of the things I love most about what I do, helping someone get that boost they need."
-msgstr ""
+msgstr "On a tous des choses qui nous complexent, et je pense que le maquillage aide. C'est l'un de mes aspects préférés dans mon métier : donner à quelqu'un le coup de pouce dont il a besoin."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-8/23
 msgctxt "Barry"
 msgid "It's not the lippy and the eye shadow that makes a person look good, like truly good. It's how someone carries themself, you know?"
-msgstr ""
+msgstr "Ce n'est pas le rouge à lèvres ni le fard à paupières qui rend beau, vraiment beau. C'est la manière dont on se porte, tu vois ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-9/7
 msgctxt "Barry"
 msgid "That is one super valid reason, darling. A good makeup job can really draw out the hotness."
-msgstr ""
+msgstr "Voilà une raison super valable, mon coeur. Un bon maquillage peut vraiment faire ressortir le canon qui sommeille."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-9/15
 msgctxt "Barry"
 msgid "When I do my thing, there’s a real joy in framing someone’s eyes to show just how alluring they are, or highlighting some gorgeous cheekbones."
-msgstr ""
+msgstr "Quand je fais mon truc, c'est une vraie joie d'encadrer des yeux pour montrer à quel point ils sont envoûtants, ou de mettre en valeur de magnifiques pommettes."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-9/23
 msgctxt "Barry"
 msgid "Pinpointing the steamiest features and putting all the attention on them. That’s art, hun."
-msgstr ""
+msgstr "Repérer les traits les plus torrides et braquer toute l'attention dessus. Ça, c'est de l'art, mon chou."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-10/13
 msgctxt "Barry"
 msgid "Oh very much yes, darling. Standing out from the crowd, I love it."
-msgstr ""
+msgstr "Oh oui, tout à fait, mon coeur. Se démarquer de la foule, j'adore."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-10/24
 msgctxt "Barry"
 msgid "A sublime way to feel good about yourself, so long as you're into the attention, of course. Not everyone appreciates someone who sets themselves apart, know what I mean?"
-msgstr ""
+msgstr "Une façon sublime de se sentir bien dans sa peau, du moment qu'on aime attirer l'attention, bien sûr. Tout le monde n'apprécie pas ceux qui se démarquent, tu vois ce que je veux dire ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-10/32
 msgctxt "Barry"
 msgid "There’s always gonna be those who want conformity, to keep you comfortably quiet. Maybe they’re jealous of the self confidence needed to be boldly different."
-msgstr ""
+msgstr "Il y aura toujours des gens qui veulent de la conformité, pour te garder bien sage et silencieux. Peut-être qu'ils jalousent la confiance en soi qu'il faut pour être audacieusement différent."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-10/40
 msgctxt "Barry"
 msgid "Or maybe they’re just self centered and think their idea of \"normal\" is the only way to be."
-msgstr ""
+msgstr "Ou peut-être qu'ils sont juste égocentriques et pensent que leur idée du « normal » est la seule possible."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-10/48
 msgctxt "Barry"
 msgid "I’ve met my fair share of traditionalists who just... they just take the unique and they hammer it and batter it until it fits their template. Don’t ever let them take the hammer to you."
-msgstr ""
+msgstr "J'ai croisé ma part de traditionalistes qui prennent l'unique et le martèlent, le cabossent jusqu'à ce que ça rentre dans leur moule. Ne les laisse jamais te passer au marteau."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-11/25
 msgctxt "Barry"
 msgid "That’s quite an answer."
-msgstr ""
+msgstr "Sacrée réponse."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-11/41
 msgctxt "Barry"
 msgid "It’s... I dunno, there’s something relatable about it, maybe? Something about that just hits different and I can’t quite suss out why."
-msgstr ""
+msgstr "C'est... je ne sais pas, il y a un truc auquel je m'identifie, peut-être ? Quelque chose qui me touche différemment, et je n'arrive pas à comprendre pourquoi."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-11/49
 msgctxt "Barry"
 msgid "You know when someone says a thing, and it really makes you feel some kinda way. I’ve always seen makeup as the highlighter - it can downplay and play up our features, but it’s not the artifice some cynics like to claim."
-msgstr ""
+msgstr "Tu sais quand quelqu'un dit un truc qui te fait ressentir quelque chose, sans trop savoir quoi. J'ai toujours vu le maquillage comme un enlumineur : il peut atténuer ou souligner nos traits, mais ce n'est pas l'artifice que certains cyniques prétendent."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-11/57
 msgctxt "Barry"
 msgid "There’s no subjective perspective when it comes to aesthetic, though. My job is to make people love who they are... but I guess sometimes we all get the desire to paint over ourselves."
-msgstr ""
+msgstr "Pas de perspective subjective en matière d'esthétique, pourtant. Mon boulot, c'est de faire aimer aux gens ce qu'ils sont... mais je suppose qu'on a tous parfois envie de se repeindre."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-11/65
 msgctxt "Barry"
 msgid "Can’t say it’s not a desire I understand."
-msgstr ""
+msgstr "Je ne peux pas dire que je ne comprenne pas cette envie."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-2/c-12/7
 msgctxt "Barry"
 msgid "Ah, understood!"
-msgstr ""
+msgstr "Ah, compris !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-3/0
 msgctxt "Barry"
 msgid "Sorry. I spoke a lot. Again. Of course I did. I’m an oversharer. Need to stop that."
-msgstr ""
+msgstr "Pardon. J'ai beaucoup parlé. Encore. Évidemment. Je suis un bavard. Faut que j'arrête."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-3/11/s/0
 msgctxt "Choix"
 msgid "Yeah, it wouldn’t hurt to scale it back a bit. Not everyone wants to hear that much."
-msgstr ""
+msgstr "Ouais, ça ne ferait pas de mal de lever le pied. Tout le monde n'a pas envie d'en entendre autant."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-3/12/s/0
 msgctxt "Choix"
 msgid "It really is fine. You don’t have to keep apologizing for being you."
-msgstr ""
+msgstr "Ça va vraiment. Tu n'as pas à t'excuser sans arrêt d'être toi."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-3/13/s/0
 msgctxt "Choix"
 msgid "Well it’s a bit much, but I’m not that bothered."
-msgstr ""
+msgstr "C'est un peu beaucoup, mais ça ne me dérange pas trop."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-3/c-14/7
 msgctxt "Narrator"
 msgid "Barry still looks embarrassed, but a sweet little flush comes over his pale cheeks, and he smiles at you."
-msgstr ""
+msgstr "Barry a toujours l'air gêné, mais une petite rougeur adorable gagne ses joues pâles, et il vous sourit."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/8
 msgctxt "Barry"
 msgid "Well darling, that about wraps up the Qs. It was gonna be a big 20 question thingy, but I just, well, didn’t do it, I suppose."
-msgstr ""
+msgstr "Voilà, mon coeur, ça conclut les questions. Ça devait être un grand truc à 20 questions, mais je ne l'ai tout simplement pas fait, j'imagine."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/16
 msgctxt "Barry"
 msgid "Plus I forgot half the ideas I had for it when I thought about combs for an hour."
-msgstr ""
+msgstr "En plus, j'ai oublié la moitié de mes idées en pensant aux peignes pendant une heure."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/24/s/0
 msgctxt "Choix"
 msgid "Combs? Who can think about combs of all things?"
-msgstr ""
+msgstr "Des peignes ? Qui peut bien penser à des peignes ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/25/s/0
 msgctxt "Choix"
 msgid "That’s okay. I had fun with it!"
-msgstr ""
+msgstr "Pas de souci. Je me suis {{amusé|amusée|amusé·e}} !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/26/s/0
 msgctxt "Choix"
 msgid "No biggie."
-msgstr ""
+msgstr "Pas grave."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/c-16/13
 msgctxt "Barry"
 msgid "Hm. It is pretty silly, isn’t it? God, Barry, you’re really blowing it, just don’t start talking about combs. Sorry. I’ll stop bothering you."
-msgstr ""
+msgstr "Hm. C'est assez bête, n'est-ce pas ? Mon Dieu, Barry, tu gâches tout, surtout ne te mets pas à parler de peignes. Pardon. J'arrête de t'embêter."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/c-17/13
 msgctxt "Barry"
 msgid "Really? That’s wonderful, darling! I had a lot of fun too. Oh, I really hope we can have another fabulous chat again!"
-msgstr ""
+msgstr "Vraiment ? C'est génial, mon coeur ! Je me suis beaucoup amusé aussi ! Oh, j'espère vraiment qu'on pourra refaire une discussion fabuleuse !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_asks/0/g-4/c-18/13
 msgctxt "Barry"
 msgid "Yeah! Maybe I'll have a fourth question next time. Eh, maybe."
-msgstr ""
+msgstr "Ouais ! Peut-être que j'aurai une quatrième question la prochaine fois. Bof, peut-être."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/6
 msgctxt "Barry"
 msgid "Well hello again, darling! Absolutely fab to be in your lumescent company again. What’s new with you? I hope all is gorgeous!"
-msgstr ""
+msgstr "Eh bien bonjour encore, mon coeur ! Absolument fab de retrouver ta compagnie lumescente. Quoi de neuf ? J'espère que tout est sublime !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/14/s/0
 msgctxt "Choix"
 msgid "Hi again, Barry!"
-msgstr ""
+msgstr "Rebonjour, Barry !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/15/s/0
 msgctxt "Choix"
 msgid "You are gorgeous."
-msgstr ""
+msgstr "Tu es sublime."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/c-0/7
 msgctxt "Barry"
 msgid "Hello!"
-msgstr ""
+msgstr "Bonjour !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/c-1/7
 msgctxt "Barry"
 msgid "I am indeed!"
-msgstr ""
+msgstr "En effet !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/0
 msgctxt "Barry"
 msgid "So since we last chatted, I memorized the hex codes of all my favorite shades of pink... and then I forgot them."
-msgstr ""
+msgstr "Depuis notre dernière discussion, j'ai mémorisé les codes hexadécimaux de toutes mes nuances de rose préférées... et je les ai oubliés."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/11
 msgctxt "Barry"
 msgid "I was supposed to be organizing all my color palettes before I got distracted by thinking about pink things and trying to name all the stuff I know that’s pink."
-msgstr ""
+msgstr "Je devais ranger toutes mes palettes de couleurs avant de me laisser distraire à penser à des trucs roses et à essayer de nommer tout ce que je connais de rose."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/19
 msgctxt "Barry"
 msgid "So anyway, if you were thinking of going with the Smile Republic Berry-Red eye shadow today, I apologize in advance for not knowing where it is."
-msgstr ""
+msgstr "Alors voilà, si tu pensais prendre le fard à paupières Rouge Baie de Smile Republic aujourd'hui, je m'excuse d'avance de ne pas savoir où il est."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/27/0/s/0
 msgctxt "Choix"
 msgid "You really do have a lot going on in that brain, don’t you?"
-msgstr ""
+msgstr "Il s'en passe, des choses, dans ta tête, hein ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/27/1/s/0
 msgctxt "Choix"
 msgid "Are you ever just normal about anything?"
-msgstr ""
+msgstr "Tu es déjà normal, parfois, sur quoi que ce soit ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/27/c-2/13
 msgctxt "Barry"
 msgid "Heh... I suppose I do, which is funny because if you’d ask me I’d say my head’s empty most of the time."
-msgstr ""
+msgstr "Hé... je suppose que oui, ce qui est drôle parce que si tu me demandais, je te dirais que j'ai la tête vide la plupart du temps."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/27/c-2/21
 msgctxt "Barry"
 msgid "I forget enough things that it should be, but the moment a thought’s gone, the space immediately gets filled up with something else."
-msgstr ""
+msgstr "J'oublie assez de choses pour que ce soit le cas, mais dès qu'une pensée s'en va, la place est aussitôt remplie par autre chose."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-0/27/c-3/13
 msgctxt "Barry"
 msgid "Am I ever...? Huh. I guess I’m just way too extra much of the time. Sorry. I’m sorry."
-msgstr ""
+msgstr "Moi, normal ? Hum. Je crois que je suis juste beaucoup trop extra la plupart du temps. Pardon. Je suis désolé."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/0
 msgctxt "Barry"
 msgid "Well, that reminds me, I was actually going to ask if you could help me with that."
-msgstr ""
+msgstr "Eh bien, ça me rappelle que j'allais justement te demander si tu pouvais m'aider avec ça."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/8
 msgctxt "Barry"
 msgid "I mean, from the color coordination on your amazing outfit alone, it's—it's clear you're far, far, far more level-headed than I am, darling, and..."
-msgstr ""
+msgstr "Je veux dire, rien qu'à la coordination des couleurs de ta tenue incroyable, c'est évident que tu as la tête bien plus sur les épaules que moi, mon coeur, et..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/16
 msgctxt "Barry"
 msgid "I'm, well, I'm messier than one gets trying to do their mascara in the back of a moving taxi."
-msgstr ""
+msgstr "Je suis, eh bien, plus bordélique que quelqu'un qui se met du mascara à l'arrière d'un taxi en marche."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "I wouldn’t say I’m a beacon of organization, but I can do my best to help."
-msgstr ""
+msgstr "Je ne dirais pas que je suis un modèle d'organisation, mais je ferai de mon mieux pour t'aider."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "And you need me to help clean up the chaos?"
-msgstr ""
+msgstr "Et tu as besoin que je t'aide à ranger le chaos ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/26/s/0
 msgctxt "Choix"
 msgid "Sounds more like you need a babysitter than my help."
-msgstr ""
+msgstr "Ça ressemble plus à un besoin de baby-sitter que d'aide."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-4/13 barry_beauty/barry_encounter_two/0/g-2/c-5/13
 msgctxt "Barry"
 msgid "If you’re offering, I’d absolutely LOVE the help, sweetie."
-msgstr ""
+msgstr "Si tu me proposes, j'ADORERAIS de l'aide, mon chou."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-4/24 barry_beauty/barry_encounter_two/0/g-2/c-5/24
 msgctxt "Barry"
 msgid "Lately I’ve just found it really, really hard to focus on anything."
-msgstr ""
+msgstr "Ces derniers temps, j'ai vraiment, vraiment du mal à me concentrer sur quoi que ce soit."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-4/32
 msgctxt "Barry"
 msgid "You know, I've realized after we spoke last time that I actually can’t remember what we talked about."
-msgstr ""
+msgstr "Tu sais, j'ai réalisé après notre dernière discussion que je ne me souviens plus de quoi on a parlé."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-4/40 barry_beauty/barry_encounter_two/0/g-2/c-5/40
 msgctxt "Barry"
 msgid "Like, I-I have little flickers of the conversation!"
-msgstr ""
+msgstr "Genre, j'ai des petits éclats de la conversation !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-4/48 barry_beauty/barry_encounter_two/0/g-2/c-5/48
 msgctxt "Barry"
 msgid "Like snapshots almost, but... oh you were really interesting and I enjoyed chatting and oh, I feel awful that I can’t remember anything as if you weren’t and I didn’t."
-msgstr ""
+msgstr "Presque comme des instantanés, mais... oh, tu étais vraiment {{intéressant|intéressante|intéressant·e}} et j'ai adoré discuter, et oh, je me sens horriblement mal de ne me souvenir de rien, comme si ce n'était pas vrai."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-5/32
 msgctxt "Barry"
 msgid "You know, I realized after we spoke last time that I actually can’t remember what we talked about."
-msgstr ""
+msgstr "Tu sais, j'ai réalisé après notre dernière discussion que je ne me souviens plus de quoi on a parlé."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-6/7
 msgctxt "Barry"
 msgid "Oh wouldn't we all, darling? Go back to the days of being babysat. Something in-between a parent and a childhood friend..."
-msgstr ""
+msgstr "Oh, qui n'en rêverait pas, mon coeur ? Retourner à l'époque où on se faisait garder. Quelque chose entre un parent et un ami d'enfance..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-6/15
 msgctxt "Barry"
 msgid "Maybe you could get yourself extra helpings of cocoa if you promise not to tell the old folks."
-msgstr ""
+msgstr "Tu pourrais peut-être te faire resservir du cacao si tu promets de ne rien dire aux vieux."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-2/c-6/23
 msgctxt "Barry"
 msgid "But I deflect..."
-msgstr ""
+msgstr "Mais je digresse..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-3/0
 msgctxt "Narrator"
 msgid "Barry falls silent, the weight of his confession clearly getting to him."
-msgstr ""
+msgstr "Barry se tait, visiblement accablé par le poids de sa confession."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-3/19/s/0
 msgctxt "Choix"
 msgid "Barry, it’s okay to not remember everything. I don’t think forgetting the details of a conversation is that terrible a thing to do."
-msgstr ""
+msgstr "Barry, ce n'est pas grave de ne pas tout retenir. Je ne pense pas qu'oublier les détails d'une conversation soit si terrible."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-3/20/s/0
 msgctxt "Choix"
 msgid "Don’t worry about it. It was just a casual chat, hardly something that needs burning into your brain."
-msgstr ""
+msgstr "Ne t'en fais pas. C'était juste une discussion décontractée, rien qui mérite d'être gravé dans ton cerveau."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-3/21/s/0
 msgctxt "Choix"
 msgid "You tried to push a bunch of makeup onto me, asked some silly questions, that’s it."
-msgstr ""
+msgstr "Tu as essayé de me refourguer plein de maquillage, tu as posé quelques questions bizarres, c'est tout."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/0
 msgctxt "Barry"
 msgid "It’s more than that, though. For example, if I watched a movie, do you know how much I’d remember by the time we hit the credits? Same thing, just snapshots."
-msgstr ""
+msgstr "C'est plus que ça, pourtant. Par exemple, si je regarde un film, tu sais combien je m'en rappelle au moment du générique ? Pareil, des instantanés."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/8
 msgctxt "Barry"
 msgid "Maybe a line or two, for a while, but... it can be more important stuff than that, too."
-msgstr ""
+msgstr "Une réplique ou deux, un moment, mais... ça peut aussi être des choses plus importantes."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/16
 msgctxt "Barry"
 msgid "It could be- It could be the happiest day of my life and I’d still walk away with cliff notes that’ll fade in no time at all."
-msgstr ""
+msgstr "Ce pourrait être... ce pourrait être le plus beau jour de ma vie et je repartirais quand même avec des notes de fiche qui s'effaceront en un rien de temps."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/24
 msgctxt "Barry"
 msgid "Feels like my brain robs from itself, just takes away the things I experience and leaves an outline in its place."
-msgstr ""
+msgstr "J'ai l'impression que mon cerveau se pille lui-même, m'enlève ce que je vis et ne laisse qu'un contour à la place."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/32
 msgctxt "Barry"
 msgid "I can feel life crumbling away behind me like a particularly cheap liner pen."
-msgstr ""
+msgstr "Je sens la vie s'effriter derrière moi comme un crayon contour des yeux particulièrement bas de gamme."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/43/s/0
 msgctxt "Choix"
 msgid "That sounds, honestly, quite scary. I’m so sorry that happens to you."
-msgstr ""
+msgstr "Franchement, ça a l'air effrayant. Je suis vraiment {{désolé|désolée|désolé·e}} que ça t'arrive."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/44/s/0
 msgctxt "Choix"
 msgid "So you’re forgetful, is what you’re saying."
-msgstr ""
+msgstr "Donc tu es tête en l'air, c'est ça."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/45/s/0
 msgctxt "Choix"
 msgid "Feels like if this stuff were actually important to you, you’d remember it, right?"
-msgstr ""
+msgstr "On dirait que si c'était vraiment important pour toi, tu t'en souviendrais, non ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/46/s/0
 msgctxt "Choix"
 msgid "It sounds like you’re really trying though. For some of us, our brains just don’t cooperate like they should."
-msgstr ""
+msgstr "On dirait que tu fais vraiment des efforts, pourtant. Pour certains, le cerveau ne coopère tout simplement pas comme il devrait."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/c-10/13
 msgctxt "Barry"
 msgid "Thank you. It makes me feel really bad."
-msgstr ""
+msgstr "Merci. Ça me fait vraiment mal."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/c-10/21
 msgctxt "Barry"
 msgid "Guilty sometimes, like it’s not exactly respectful to forget peoples’ names the fifth time you’ve heard them, or constantly fail to honor commitments because you lose all track of them."
-msgstr ""
+msgstr "Je me sens parfois coupable, parce que ce n'est pas très respectueux d'oublier le nom des gens la cinquième fois qu'on l'entend, ou de manquer sans cesse à ses engagements parce qu'on les perd de vue."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/c-10/29
 msgctxt "Barry"
 msgid "Or get told something really important and meaningful, something you should really, truly treasure, and just... and just lose it."
-msgstr ""
+msgstr "Ou de recevoir quelque chose de vraiment important et significatif, quelque chose qu'on devrait vraiment, sincèrement chérir, et simplement... le perdre."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/c-11/13
 msgctxt "Barry"
 msgid "Well, put simply, yeah. I don’t know, it feels like more than forgetful. Everyone else around here seems way better at remembering stuff."
-msgstr ""
+msgstr "Eh bien, pour faire simple, oui. Je ne sais pas, ça paraît plus que de l'étourderie. Tout le monde ici a l'air bien meilleur que moi pour se souvenir des choses."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/c-12/13
 msgctxt "Barry"
 msgid "I often think that too. If things really did matter to me, I should remember them instead of being a big jerk and forgetting."
-msgstr ""
+msgstr "Je me dis souvent ça aussi. Si les choses comptaient vraiment pour moi, je m'en souviendrais au lieu d'être un gros nul qui oublie."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-4/c-13/13
 msgctxt "Barry"
 msgid "I try to remind myself of that. I really don’t mean to forget. In fact, the harder I try to remember a thing, the more likely it is that I’ll struggle to commit it to memory, or get distracted by something, or whatever."
-msgstr ""
+msgstr "J'essaie de me le rappeler. Je ne veux vraiment pas oublier. En fait, plus j'essaie de retenir un truc, plus j'ai de chances de galérer à le mémoriser, ou de me laisser distraire par quelque chose, ou que sais-je."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-5/0
 msgctxt "Barry"
 msgid "Then again, my stupid brain’s a steel trap for stuff that’s totally not all that important. It’s just whatever silly thing I’m mega focused on at the time."
-msgstr ""
+msgstr "Et pourtant, mon stupide cerveau est une mémoire d'acier pour des trucs totalement sans importance. Juste le machin idiot sur lequel je suis hyper concentré à ce moment-là."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-5/8
 msgctxt "Barry"
 msgid "I once learned a whole bunch of meaningless facts about Herne Bay in Kent. At one point I could quote you every line of I Want to be Your Granary, or give you the history of the pinball machine."
-msgstr ""
+msgstr "Un jour, j'ai appris tout un tas de faits sans intérêt sur Herne Bay, dans le Kent. À un moment, je pouvais te réciter chaque ligne de I Want to be Your Granary, ou te raconter l'histoire du flipper."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-5/16
 msgctxt "Barry"
 msgid "I could have told you all that, until I got bored and forgot."
-msgstr ""
+msgstr "J'aurais pu te raconter tout ça, jusqu'à ce que je m'ennuie et que j'oublie."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-5/24/s/0
 msgctxt "Choix"
 msgid "So you hyperfixate on things? Makes sense that you’d remember that stuff."
-msgstr ""
+msgstr "Donc tu fais des hyperfixations ? C'est logique que tu retiennes ces trucs-là."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-5/25/s/0
 msgctxt "Choix"
 msgid "Sounds normal to me. You remember things you’re interested in."
-msgstr ""
+msgstr "Ça me paraît normal. On retient ce qui nous intéresse."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-5/26/s/0
 msgctxt "Choix"
 msgid "Just seems to prove that you only remember what’s important to you, and most of that isn’t important to anyone else."
-msgstr ""
+msgstr "Ça semble prouver que tu ne retiens que ce qui compte pour toi, et que la plupart de ces trucs ne comptent pour personne d'autre."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/0
 msgctxt "Barry"
 msgid "Heh, the only thing that ever really stays is the thing I talk people's ears off about all the time. Cosmetics, product, makeup, and skincare, all that glitz!"
-msgstr ""
+msgstr "Hé, la seule chose qui reste vraiment, c'est ce dont je rebats les oreilles des gens tout le temps. Cosmétiques, produits, maquillage et soins de la peau, tout ce clinquant !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/8
 msgctxt "Barry"
 msgid "I’m never not fascinated by the things we style ourselves with, and I guess that’s what makes Barry Styles, Barry Styles."
-msgstr ""
+msgstr "Je ne me lasse jamais de ce dont on se pare, et je crois que c'est ce qui fait de Barry Styles Barry Styles."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/16
 msgctxt "Barry"
 msgid "It’s what I can remember, so that’s me."
-msgstr ""
+msgstr "C'est ce dont je me souviens, donc c'est moi."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/24
 msgctxt "Barry"
 msgid "Pretty ironic, darling... the closest thing to my heart is only skin deep."
-msgstr ""
+msgstr "Assez ironique, mon coeur... ce que j'ai de plus cher n'a que la peau pour épaisseur."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/32/s/0
 msgctxt "Choix"
 msgid "Maybe for some, but you make people feel good. That’s definitely something that matters."
-msgstr ""
+msgstr "Peut-être pour certains, mais tu fais du bien aux gens. Ça, ça compte, c'est certain."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/33/s/0
 msgctxt "Choix"
 msgid "Gotta have a hobby, right?"
-msgstr ""
+msgstr "Il faut bien un passe-temps, non ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/34/s/0
 msgctxt "Choix"
 msgid "Well, I wasn’t going to be the one to say you’re shallow."
-msgstr ""
+msgstr "Eh bien, je n'allais pas être celui qui dirait que tu es superficiel."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/c-17/7
 msgctxt "Narrator"
 msgid "Barry gives you a warm smile."
-msgstr ""
+msgstr "Barry vous adresse un chaleureux sourire."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/c-17/15
 msgctxt "Barry"
 msgid "That’s a lovely way of looking at it. You have a beautiful perspective."
-msgstr ""
+msgstr "Voilà une belle façon de voir les choses. Tu as une perspective magnifique."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-6/c-18/7
 msgctxt "Barry"
 msgid "Heh, I guess so."
-msgstr ""
+msgstr "Hé, je suppose que oui."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-7/0/s/0
 msgctxt "Choix"
 msgid "So, what was it you actually needed my help with?"
-msgstr ""
+msgstr "Alors, de quoi avais-tu vraiment besoin que je t'aide ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-7/c-20/7
 msgctxt "Barry"
 msgid "Oh yes! I forgot that’s what actually started this."
-msgstr ""
+msgstr "Oh oui ! J'avais oublié que c'était ça qui avait tout lancé."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-7/c-20/15
 msgctxt "Barry"
 msgid "I can’t remember a single thing, and it looks to me like you’re able to keep track of roughly a hundred things at once."
-msgstr ""
+msgstr "Je ne me souviens de rien, et toi, tu as l'air capable de suivre une centaine de choses à la fois."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-7/c-20/23
 msgctxt "Barry"
 msgid "So like... how? How can I at least pay attention to the things I want to pay attention to?"
-msgstr ""
+msgstr "Alors comment ? Comment je peux au moins prêter attention aux choses auxquelles je veux prêter attention ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/0/s/0
 msgctxt "Choix"
 msgid "Hmm... well it seems to me that if you can’t keep everything in your head, keeping it somewhere else might be the best thing."
-msgstr ""
+msgstr "Hmm... il me semble que si tu ne peux pas tout garder en tête, le mieux est peut-être de le garder ailleurs."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/1/s/0
 msgctxt "Choix"
 msgid "Sounds like you need a therapist or something. Really not sure I can help you sort your brain out."
-msgstr ""
+msgstr "On dirait que tu as besoin d'un thérapeute ou quelque chose. Je ne suis pas {{sûr|sûre|sûr·e}} de pouvoir t'aider à démêler ton cerveau."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/7
 msgctxt "Barry"
 msgid "Hmm, how do you mean, hun?"
-msgstr ""
+msgstr "Hmm, comment ça, mon chou ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/0/s/0
 msgctxt "Choix"
 msgid "I don’t know how to answer that, really. Stuff goes in, stuff doesn’t go out."
-msgstr ""
+msgstr "Je ne sais pas trop quoi répondre. Des trucs entrent, des trucs ne ressortent pas."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/1/s/0
 msgctxt "Choix"
 msgid "This might sound obvious but... write things down?"
-msgstr ""
+msgstr "Ça va peut-être paraître évident, mais... note les choses ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-0/13
 msgctxt "Barry"
 msgid "So you’re saying our brains just work or don’t?"
-msgstr ""
+msgstr "Donc tu veux dire que notre cerveau marche ou ne marche pas ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-0/21/0/s/0
 msgctxt "Choix"
 msgid "Something like that. I’m not an expert. Just repeat it a lot until it sinks in?"
-msgstr ""
+msgstr "Un truc comme ça. Je ne suis pas {{expert|experte|expert·e}}. Répète-le beaucoup jusqu'à ce que ça rentre ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-0/21/c-0/7
 msgctxt "Barry"
 msgid "Just repeat it a lot, just repeat it a lot, just repeat it a lot, just repeat it a lot... yeah, I suppose that could work."
-msgstr ""
+msgstr "Le répéter beaucoup, le répéter beaucoup, le répéter beaucoup, le répéter beaucoup... oui, je suppose que ça pourrait marcher."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-0/21/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I don’t know what to recommend other than just try to not forget things?"
-msgstr ""
+msgstr "Je ne sais pas quoi te conseiller à part essayer de ne pas oublier ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-0/21/c-0/15/c-0/7
 msgctxt "Barry"
 msgid "Try. Yeah, just try. Makes sense, really, doesn't it? Oh, thank you, darling. I'll just try harder from now on."
-msgstr ""
+msgstr "Essayer. Oui, juste essayer. C'est logique, au fond, non ? Oh, merci, mon coeur. J'essaierai juste plus fort à partir de maintenant."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/17
 msgctxt "Barry"
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/0/s/0
 msgctxt "Choix"
 msgid "Not just important dates, but all sorts of things."
-msgstr ""
+msgstr "Pas seulement les dates importantes, mais toutes sortes de choses."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/7
 msgctxt "Barry"
 msgid "All sorts of things..."
-msgstr ""
+msgstr "Toutes sortes de choses..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Things others said that made you laugh. The details of events that you keep wishing you didn’t forget."
-msgstr ""
+msgstr "Ce que d'autres ont dit et qui t'a fait rire. Les détails d'événements que tu regrettes sans cesse d'avoir oubliés."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/7
 msgctxt "Barry"
 msgid "Hahaha. Oh yes, of course darling, it’s so obvious... yet I never actually do it."
-msgstr ""
+msgstr "Hahaha. Oh oui, bien sûr mon coeur, c'est tellement évident... et pourtant je ne le fais jamais."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/15
 msgctxt "Barry"
 msgid "Sometimes I think to do it, but then I... I just don't. Feels like too much, or I convince myself I don't need to."
-msgstr ""
+msgstr "Parfois j'y pense, mais ensuite je... je ne le fais pas. Ça paraît trop, ou je me convaincs que je n'en ai pas besoin."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/26
 msgctxt "Barry"
 msgid "But... I do need to, don’t I?"
-msgstr ""
+msgstr "Mais... j'en ai besoin, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "To be blunt, yeah."
-msgstr ""
+msgstr "Pour être {{franc|franche|franc·he}}, oui."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/7
 msgctxt "Barry"
 msgid "Heck, even if I forget to bring a notepad, I’m literally never more than two inches away from a liner pen and my own arms."
-msgstr ""
+msgstr "Mince, même si j'oublie d'apporter un carnet, je ne suis littéralement jamais à plus de cinq centimètres d'un crayon contour et de mes propres bras."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Using the tools of the trade aren’t a bad idea, actually!"
-msgstr ""
+msgstr "Utiliser les outils du métier, c'est pas une mauvaise idée, en fait !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/7
 msgctxt "Barry"
 msgid "Hmm... oh! Like, I could use the orange eyeshadow as a highlighter for super important notes ‘cos it’s a lovely shade and it’s always left unused on the palette..."
-msgstr ""
+msgstr "Hmm... oh ! Genre, je pourrais utiliser le fard à paupières orange comme surligneur pour les notes super importantes parce que c'est une teinte adorable et qu'il reste toujours inutilisé dans la palette..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/15
 msgctxt "Barry"
 msgid "And I have this red ink liner that’s always been too splodgy for lips but oh it'd look gorgeous in a notebook."
-msgstr ""
+msgstr "Et j'ai cet eye-liner à encre rouge qui a toujours été trop baveux pour les lèvres mais oh, il serait magnifique dans un carnet."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/23
 msgctxt "Barry"
 msgid "Ahhh!"
-msgstr ""
+msgstr "Ahhh !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/34
 msgctxt "Barry"
 msgid "I didn’t even think about how fabulous the book itself could look!"
-msgstr ""
+msgstr "Je n'avais même pas pensé à quel point le carnet lui-même pourrait être fabuleux !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/42/0/s/0
 msgctxt "Choix"
 msgid "That’s the idea! If you make it fun, you make it far easier to remember."
-msgstr ""
+msgstr "C'est l'idée ! Si tu t'amuses, tu retiens bien plus facilement."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/42/c-0/7
 msgctxt "Barry"
 msgid "I’m getting giddy just thinking about glittering up a notebook. Like giving my own memories a makeover! This is brilliant. This is just brilliant. Thank you, thank you so much!"
-msgstr ""
+msgstr "J'en ai le vertige rien qu'à imaginer pailleter un carnet. Comme offrir un relooking à mes propres souvenirs ! C'est génial. C'est tout simplement génial. Merci, merci beaucoup !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/42/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "I’m delighted to have helped."
-msgstr ""
+msgstr "Je suis {{ravi|ravie|ravi·e}} d'avoir aidé."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/42/c-0/18/1/s/0
 msgctxt "Choix"
 msgid "I love hearing you say 'brilliant'."
-msgstr ""
+msgstr "J'adore t'entendre dire « génial »."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/42/c-0/18/c-0/7 barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/42/c-0/18/c-1/24
 msgctxt "Barry"
 msgid "Now... I absolutely must get to work."
-msgstr ""
+msgstr "Maintenant... je dois absolument me mettre au travail."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-21/15/c-1/25/c-0/15/c-0/34/c-0/15/c-0/42/c-0/18/c-1/13
 msgctxt "Barry"
 msgid "Brilliant!"
-msgstr ""
+msgstr "Génial !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_encounter_two/0/g-8/c-22/13
 msgctxt "Barry"
 msgid "Yeah... yeah. Sorry to have bothered you with my silliness."
-msgstr ""
+msgstr "Ouais... ouais. Pardon de t'avoir {{embêté|embêtée|embêté·e}} avec mes bêtises."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/6
 msgctxt "Barry"
 msgid "Hello beautiful!"
-msgstr ""
+msgstr "Bonjour, beauté !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/14/s/0
 msgctxt "Choix"
 msgid "Hi Barry."
-msgstr ""
+msgstr "Salut Barry."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/15/s/0
 msgctxt "Choix"
 msgid "Helllllooo!!!"
-msgstr ""
+msgstr "Coucouuuuu !!!"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/c-0/7
 msgctxt "Barry"
 msgid "Yes that's me! I love the sound of my name, you know. I could say my name all day!"
-msgstr ""
+msgstr "Oui, c'est moi ! J'adore le son de mon prénom, tu sais. Je pourrais le répéter toute la journée !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/c-0/15
 msgctxt "Barry"
 msgid "Sometimes I do when no one is watching..."
-msgstr ""
+msgstr "Parfois je le fais quand personne ne regarde..."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/c-1/13
 msgctxt "Barry"
 msgid "That's the spirit!"
-msgstr ""
+msgstr "Voilà l'esprit !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/0
 msgctxt "Barry"
 msgid "I just remembered, I’ve been working on another one of my world famous Styles Profiles™ surveys!"
-msgstr ""
+msgstr "Je viens de me rappeler, je travaille sur un autre de mes célèbres sondages Styles Profiles™ !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/8
 msgctxt "Barry"
 msgid "I’m calling my quizzes Styles Profiles now, because it’s definitely a thing, I swear!"
-msgstr ""
+msgstr "J'appelle mes quiz des Styles Profiles maintenant, parce que c'est clairement un truc, je le jure !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/19
 msgctxt "Barry"
 msgid "Last time we took a trip to the wonderful world of cosmetic products, but looking good is only part of feeling good, is it not?"
-msgstr ""
+msgstr "La dernière fois, on a fait un tour dans le merveilleux monde des produits cosmétiques, mais être beau n'est qu'une partie du bien-être, non ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/27
 msgctxt "Barry"
 msgid "For the next stage of my artistically audacious audit, I’ve drummed up a series of questions all about hygiene and freshness in a second round I like to call: Coming Clean!"
-msgstr ""
+msgstr "Pour la prochaine étape de mon audit artistiquement audacieux, j'ai concocté une série de questions sur l'hygiène et la fraîcheur, dans une seconde manche que j'appelle : Tout propre !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/41/s/0
 msgctxt "Choix"
 msgid "Sounds great! I love talking in detail about the personal hygiene habits of myself and others!"
-msgstr ""
+msgstr "Génial ! J'adore parler en détail des habitudes d'hygiène personnelle de moi-même et des autres !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/42/s/0
 msgctxt "Choix"
 msgid "What you’re planning to ask is appropriate, right? This sounds like it might get... personal."
-msgstr ""
+msgstr "Ce que tu comptes demander est approprié, hein ? On dirait que ça pourrait devenir... personnel."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/43/s/0
 msgctxt "Choix"
 msgid "Another quiz? I’m not feeling it, thanks."
-msgstr ""
+msgstr "Un autre quiz ? Je n'ai pas trop envie, merci."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/c-2/13
 msgctxt "Barry"
 msgid "Ohmygosh, me too!"
-msgstr ""
+msgstr "Oh mon dieu, moi non plus !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/c-2/24
 msgctxt "Barry"
 msgid "It’s easily in my top five things to discuss with friends and strangers!"
-msgstr ""
+msgstr "C'est facilement dans mon top cinq des sujets de discussion avec amis et inconnus !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/c-2/32
 msgctxt "Barry"
 msgid "Of course, I’ve ensured that none of these questions are too personal, darling - as someone who hangs out in a bathroom all day, I totally understand the importance of discretion!"
-msgstr ""
+msgstr "Bien sûr, je me suis assuré qu'aucune de ces questions ne soit trop personnelle, mon coeur : quand on traîne dans une salle de bains toute la journée, on comprend très bien l'importance de la discrétion !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/c-3/13
 msgctxt "Barry"
 msgid "Oh holy cuticle clippers, I should’ve thought about how that sounded!"
-msgstr ""
+msgstr "Oh, sainte pince à cuticules, j'aurais dû réfléchir à comment ça sonnait !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/c-3/21
 msgctxt "Barry"
 msgid "Sorry, no, sorry, the questions aren’t that personal, it’s a very casual, product-driven set of Qs like last time."
-msgstr ""
+msgstr "Pardon, non, pardon, les questions ne sont pas si personnelles, c'est un jeu de questions très décontracté, axé produits, comme la dernière fois."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/c-3/29
 msgctxt "Barry"
 msgid "I’d never start asking anything invasive - as someone who hangs out in a bathroom all day, I totally understand the importance of discretion!"
-msgstr ""
+msgstr "Je ne poserais jamais rien d'indiscret : quand on traîne dans une salle de bains toute la journée, on comprend très bien l'importance de la discrétion !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-0/c-4/13
 msgctxt "Barry"
 msgid "Oh... hm. Yeah, that’s fair. Sorry, I didn’t mean to presume on your time, hun."
-msgstr ""
+msgstr "Oh... hm. Ouais, c'est justifié. Pardon, je ne voulais pas empiéter sur ton temps, mon chou."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "Please tell me more!"
-msgstr ""
+msgstr "Dis-m'en plus, je t'en prie !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-1/1/s/0 barry_beauty/barry_encounter_3_hate/0/g-2/40/c-0/39/0/s/0
 msgctxt "Choix"
 msgid "Okay then."
-msgstr ""
+msgstr "D'accord alors."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-2/0
 msgctxt "Barry"
 msgid "Right, so, last time we talked tweezers, we talked makeup, we talked aesthetic."
-msgstr ""
+msgstr "Bon, donc, la dernière fois, on a parlé pinces à épiler, on a parlé maquillage, on a parlé esthétique."
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-2/8
 msgctxt "Barry"
 msgid "This time around, in the interests of getting to know you more and work out exactly how best to get you at your best, I’ve got a whole set of queries about the products you like when getting fresh!"
-msgstr ""
+msgstr "Cette fois, pour mieux te connaître et trouver comment te mettre au mieux de ta forme, j'ai tout un ensemble de questions sur les produits que tu aimes pour te rafraîchir !"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-2/16
 msgctxt "Barry"
 msgid "So what do you think, hun, are you up for Styles Profiles™ Round Two: Coming Clean?"
-msgstr ""
+msgstr "Alors qu'en dis-tu, mon chou, {{partant|partante|partant·e}} pour Styles Profiles™ Manche Deux : Tout propre ?"
 
+# Traduction IA – à relire
 #: barry_beauty/barry_quiz_encounter/0/g-2/24/s/0 barry_beauty/barry_love_divert/0/72/s/0
 msgctxt "Choix"
 msgid "Sure thing!"
-msgstr ""
+msgstr "Carrément !"
 
 #: barry_beauty/barry_quiz_encounter/0/g-2/25/s/0
 msgctxt "Choix"
