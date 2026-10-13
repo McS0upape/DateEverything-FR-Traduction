@@ -73,3 +73,10 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Bazoomies → loloches
 - soundboard → table de sons
 - prix parodiques (Best Actress…) → Meilleure Actrice, etc. ; noms des variantes de Lucinda (Lust, Lush, Lewd…) en anglais
+
+## jacques_ship (agent Sonnet, 2026-10-13)
+- Davy Phones : inchangé ; Davy Jones' Locker → le Coffre de Davy Phones
+- Swab the deck → briquer le pont ; Secret Sword → l'Épée Secrète
+- Queen Divan's Revenge → La Vengeance du Divan de la Reine ; Brazen Belle → la Belle Effrontée ; San Barcomiedo : inchangé
+- Pish → Peuh
+- À valider : gag « parler français fait plus peur » inversé en « en anglais, c'est plus effrayant » (ids 260-266)
