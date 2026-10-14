@@ -27,10 +27,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : masculin (cinq Hank, numérotés 1 à 5, tous « il »).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoiement.
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : argot de sportifs extrêmes et de bros (verlan, anglicismes), très enthousiaste, ultra familier. Hank 3 dragueur lourd (sous-entendus), Hank 4 ne parle presque qu'en slang (« de ouf », « no cap », « gucci »), Hank 5 plus pompeux, Hank 2 blasé.
+- **Personnalité, manière de parler** : surnoms au joueur ou à la joueuse épicènes : « poto », « coloc », « la team », « fam » (jamais « frérot », « mec », « gars » pour lui ou elle). Entre eux, « les gars » possible.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : Hank Gliding = « Delta-Hank » (deltaplane + Hank) ; « no cap » -> « no cap » / « sans maj » (pour le jeu avec Réaliser) ; « Visualiser pour réaliser » ; Red Bowl = marque de bols rouges (non traduite) ; Adrenaline Den = « Antre de l'Adrénaline ».
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Yooo! Check it! » -> « Yooo ! Matez ça ! »
+  - « We're the Hanks! » -> « On est les Hanks ! »
+  - « Strangers are just homies you haven't vibed with yet! » -> « Les inconnus, c'est juste des potos avec qui t'as pas encore vibré ! »
