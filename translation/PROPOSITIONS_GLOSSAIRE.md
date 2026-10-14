@@ -170,3 +170,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## mac_computer
 - Mac : iel, tutoie ; doomscroller ; chamallow
+
+## sophia_safe
+- Blissmas → Noëlicité ; Safeword → mot de sécurité (le mot choisi : « Coffre-fort ») ; Wretch → vermisseau ; IRS Agent → Agent du Fisc ; Prep cook → commis

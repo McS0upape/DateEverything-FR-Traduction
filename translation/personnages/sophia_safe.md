@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
-- **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Genre grammatical du personnage** : elle (une coffre-fort ; « la coffre-fort » / « je suis un coffre-fort » : on dit « coffre-fort », féminin dans ses répliques : « Je suis avant tout un coffre-fort », accords au féminin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (dédain, condescendance)
+- **Le joueur ou la joueuse lui parle avec** : tu (et l'appelle « maîtresse »)
+- **Registre** : soutenu, hautain, théâtral, avec des écarts vers le familier quand elle sort du rôle
+- **Personnalité, manière de parler** : dominatrice pro mais novice, très sérieuse sur sa « carrière », se déride et s'inquiète du consentement (« pas trop dur ? »). Insultes élaborées.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « wretch » -> « vermisseau » (épicène, masculin invariable, adjectifs au masculin : « mon petit vermisseau docile ») ; « mistress » -> « maîtresse » ; « safeword » -> « mot de sécurité » (jeu safe/sûr : « coffre-fort » / « sécurité »).
+- **Exemples de répliques traduites (référence de ton)** : « Bonjour, pitoyable petit vermisseau sans valeur. » ; « Tu me traites comme je le mérite, maîtresse. » ; « Je veux que ce soit sexy, pas triste, tu vois ? »
