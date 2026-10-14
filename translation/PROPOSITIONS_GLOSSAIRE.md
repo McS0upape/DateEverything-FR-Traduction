@@ -134,3 +134,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **holly_holidays** : Venetian's Day = Saint-Vénitien ; Valdiviantine's Day = Saint-Valdivientin ; Holly Day, Blissmas, Balloween, Hollyween (garder) ; Gleester in July = Gleester en juillet ; Gleester Bunny = Lapin de Gleester ; HOLIDAY DECORATIONS = DÉCORATIONS DE FÊTES.
 - **willi_work** : funemployment = chômage-plaisir ; touch base = faire un point ; scope = cadrage. (Scandalabra gardé tel quel, nom propre.)
 - **sinclaire_sink** : Vagabonda the Sinclairious = Vagabonda la Sinclairieuse ; drain/disposal = broyeur d'évier ; claims adjuster = expert en sinistres ; Ace of Spades = L'As de Pique ; Banana Club (garder) ; Generally National Auto Insurance = Assurances Auto Généralement Nationales.
+- **tina_triangle** : throuple = trouple ; Love on Triangle Island = L'Amour sur l'Île du Triangle ; square (insulte) = carré.
