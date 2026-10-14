@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (sec, autoritaire)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : cadre sup' survoltée, jargon corporate (agenda, scope, aligner, pivoter, deadline) mêlé de jurons crus (putain, bordel)
+- **Personnalité, manière de parler** : perfectionniste, autoritaire, rancunière envers le joueur ou la joueuse (« traître » qui a formé l'IA), anxieuse sous le vernis ; phrases courtes, ordres, sarcasme, tendresse maladroite
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Meeting adjourned » = « Réunion terminée » ; Willi Work = Willi Work ; surnoms adressés au joueur : épicènes (« chef » évité, préférer « mon bras droit », « toi ») ; Hanks (cintres) = Hanks, parlent en surfeurs extrêmes (« homie », « dawg ») ; Dunk crie en speaker de stade
+- **Exemples de répliques traduites (référence de ton)** : « Réunion terminée. » ; « Je ne t'ai pas demandé ce qui te met à l'aise : c'est toi qui nous as mis dans ce pétrin, c'est moi qui nous en sors. » ; « Les bons plans, les bonnes astuces pour réussir un entretien ! »

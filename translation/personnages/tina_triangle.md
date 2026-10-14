@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, vulgaire, populaire (gouaille), beaucoup de MAJUSCULES et de « God / GOD » (« Oh mon Dieu », « Putain »).
+- **Personnalité, manière de parler** : diva de télé-réalité, autoritaire, théâtrale, drama queen, vexée pour un rien, secrètement sensible. Obsédée par les triangles (amoureux), les angles, Love on Triangle Island (« L'Amour sur l'Île du Triangle »). Surnoms épicènes : « chou », « mon cœur », « ma belle gueule », « poussin » ; « square » = « carré » ; « honey » = « mon chou ».
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : angles (aigu, obtus, droit), sommets (vertices), throuple = « trouple », love triangle = « triangle amoureux », « ménage à trois ». Élisions populaires (« j'suis », « y'a », « tryna » = « j'essaie de »).
+- **Exemples de répliques traduites (référence de ton)** : « Chut ! Tu perturbes mes pensées ! » ; « Je suis ir-ré-SIS-tible, mon chou ! » ; « DEHORS ! Ouste ! »
