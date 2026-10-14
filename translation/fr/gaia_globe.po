@@ -8,3272 +8,3926 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: gaia_globe/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "GLOBE"
-msgstr ""
+msgstr "GLOBE"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/16/b/1
 msgctxt "Gaia"
 msgid "Well hello adventurer! That was some quest we went on!"
-msgstr ""
+msgstr "Eh ben salut, {{aventurier|aventurière|aventurier·ère}} ! Quelle quête on a vécue, hein !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/19/b/1
 msgctxt "Gaia"
 msgid "Well hello adventurer! That was some quest we went on, though we missed you at the end."
-msgstr ""
+msgstr "Eh ben salut, {{aventurier|aventurière|aventurier·ère}} ! Quelle quête on a vécue, hein... même si tu nous as manqué à la fin."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/22
 msgctxt "Narrator"
 msgid "A red-haired traveler lifts her goggles to peek at you, revealing freckled cheeks and stunning blue eyes. There's a friendly air about her that makes you want to hear her stories."
-msgstr ""
+msgstr "Une voyageuse aux cheveux roux relève ses lunettes d'aviatrice pour vous observer, révélant des joues parsemées de taches de rousseur et de superbes yeux bleus. Elle dégage quelque chose d'amical qui vous donne envie d'écouter ses histoires."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/30
 msgctxt "Gaia"
 msgid "Now... b'y m'love you looks some lost. Where y'longs to?"
-msgstr ""
+msgstr "Ben là, mon coeur, t'as l'air pas mal perdu. Où c'est qu'tu veux aller, asteure ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/39/s/0
 msgctxt "Choix"
 msgid "\"Buy your love\"?"
-msgstr ""
+msgstr "« Asteure » ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/c-0/13
 msgctxt "Gaia"
 msgid "Oh! Sorry. Sometimes my accent comes out when I get too excited."
-msgstr ""
+msgstr "Oh ! Pardon. Des fois, mon accent ressort quand je m'emballe."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/c-1/7
 msgctxt "Gaia"
 msgid "Haha! Sorry, sorry. Sometimes my accent comes out when I'm excited."
-msgstr ""
+msgstr "Haha ! Pardon, pardon. Des fois, mon accent ressort quand je m'emballe."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/0
 msgctxt "Gaia"
 msgid "I was made in Newfoundland, ya see. This little rock riiiight..."
-msgstr ""
+msgstr "J'ai été fabriquée à Terre-Neuve, tu vois. Ce petit caillou jusssste..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/8
 msgctxt "Narrator"
 msgid "She spins around and points to one of the patches on her jacket sleeves."
-msgstr ""
+msgstr "Elle pivote sur elle-même et pointe l'un des écussons cousus sur les manches de sa veste."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/22
 msgctxt "Gaia"
 msgid "...here!"
-msgstr ""
+msgstr "...ici !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/33
 msgctxt "Gaia"
 msgid "Friendliest folk you'll ever meet, but the dialect can be a little much for some. I'll try to speak plain for ya. Name's Gaia, by the way."
-msgstr ""
+msgstr "Le monde le plus accueillant que tu rencontreras jamais, mais le parler peut en faire un peu trop pour certains. Je vais essayer de parler clair pour toi. Moi, c'est Gaia, au fait."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/44
 msgctxt "Gaia"
 msgid "So! Where are you from?"
-msgstr ""
+msgstr "Alors ! Tu viens d'où, toi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/52/s/0
 msgctxt "Choix"
 msgid "Uh. Well... we're in my house, so..."
-msgstr ""
+msgstr "Euh. Ben... on est chez moi, donc..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/53/s/0
 msgctxt "Choix"
 msgid "Nowhere."
-msgstr ""
+msgstr "De nulle part."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/54/s/0
 msgctxt "Choix"
 msgid "Newfoundland."
-msgstr ""
+msgstr "De Terre-Neuve."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/55/s/0
 msgctxt "Choix"
 msgid "I'm from"
-msgstr ""
+msgstr "Je viens de"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/c-2/7
 msgctxt "Gaia"
 msgid "Ah... Here, then. Right. Makes sense."
-msgstr ""
+msgstr "Ah... D'ici, donc. Ouais. Ça se tient."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/c-3/7
 msgctxt "Gaia"
 msgid "Sure b'y, me too. Got nowhere to be from and nothin' to be doin'."
-msgstr ""
+msgstr "Ben oui, moi aussi. Aucun endroit d'où venir, pis rien à faire."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/c-3/15
 msgctxt "Gaia"
 msgid "I won't pry if ya don't like it."
-msgstr ""
+msgstr "Je fouinerai pas si t'aimes pas ça."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/c-4/7
 msgctxt "Gaia"
 msgid "Really? I've never seen you 'round St. John's have I?"
-msgstr ""
+msgstr "Vraiment ? Je suis jamais tombée sur toi dans les rues de St. John's, hein ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-0/c-5/7
 msgctxt "Gaia"
 msgid "Ah that makes sense with the accent I'm hearin' on ya."
-msgstr ""
+msgstr "Ah, ça se tient, avec l'accent que je te sens."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/11
 msgctxt "Gaia"
 msgid "It's a right shame, though..."
-msgstr ""
+msgstr "C'est quand même bien dommage..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/19
 msgctxt "Gaia"
 msgid "See, I got all these countries and rivers and seas on my jacket. It's a collection I been workin' on. And I know the names, but I don't really know the PLACES, y'know?"
-msgstr ""
+msgstr "Vois-tu, j'ai plein de pays, de rivières pis de mers sur ma veste. C'est une collection que je me monte. Pis je connais les noms, mais je connais pas vraiment les ENDROITS, tu comprends ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/27
 msgctxt "Gaia"
 msgid "I mean, heck, I got 'em all memorized even. United States, Canada, Mexico, Panama, the works. But without a story behind it, they all feel so far away."
-msgstr ""
+msgstr "Je veux dire, bon sang, je les sais même tous par coeur. États-Unis, Canada, Mexique, Panama, tout le tralala. Mais sans une histoire derrière, ils semblent tous si loin."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/35
 msgctxt "Gaia"
 msgid "You think they'd be in arm's reach, considering they're on my sleeves. But it's a brain problem. I just can't pin anything down without <i>context</i>."
-msgstr ""
+msgstr "On croirait qu'ils seraient à portée de main, vu qu'ils sont sur mes manches. Mais c'est un problème de cerveau. J'arrive à rien fixer sans <i>contexte</i>."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/43
 msgctxt "Gaia"
 msgid "Without stories, maps're just paper. Dots and lines."
-msgstr ""
+msgstr "Sans histoires, une carte, c'est juste du papier. Des points pis des lignes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/51
 msgctxt "Gaia"
 msgid "The reason I ask where you're from is so I can shape the places in my mind with some kinda meaning. 'Cause right now it feels a bit like I'm just wearing a big vest of unchecked boxes!"
-msgstr ""
+msgstr "Si je te demande d'où tu viens, c'est pour donner un peu de sens aux endroits dans ma tête. Parce que là, j'ai un peu l'impression de porter un grand gilet de cases à cocher !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/59
 msgctxt "Gaia"
 msgid "Oh, jeez, here I go, talkin' your ear off. Sorry about that."
-msgstr ""
+msgstr "Oh là là, c'est reparti, je te casse les oreilles. Désolée."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/67
 msgctxt "Gaia"
 msgid "It's just..."
-msgstr ""
+msgstr "C'est juste que..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/75
 msgctxt "Gaia"
 msgid "I'm having trouble putting myself out there. And I'm <i>so</i> interested in being \"out there\"."
-msgstr ""
+msgstr "J'ai du mal à me lancer. Pis j'ai <i>tellement</i> envie d'aller « là-bas »."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/83/s/0
 msgctxt "Choix"
 msgid "What about the Quest? Was that enough?"
-msgstr ""
+msgstr "Et la Quête ? Ça ne suffisait pas ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/84/s/0
 msgctxt "Choix"
 msgid "Why can't you just warp around like everyone else seems to be able to do?"
-msgstr ""
+msgstr "Pourquoi tu te téléportes pas, tout simplement, comme tout le monde a l'air de le faire ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/c-6/7
 msgctxt "Gaia"
 msgid "Sure! But how many quests are there like that 'un?"
-msgstr ""
+msgstr "Bien sûr ! Mais combien de quêtes comme celle-là y a-t-il ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/c-6/15/0/s/0
 msgctxt "Choix"
 msgid "Sounds like you're about to give me one of your own..."
-msgstr ""
+msgstr "On dirait que tu vas me donner une des tiennes..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/c-6/15/1/s/0
 msgctxt "Choix"
 msgid "I see what you mean."
-msgstr ""
+msgstr "Je vois ce que tu veux dire."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/c-6/15/c-0/7
 msgctxt "Gaia"
 msgid "Sharp!"
-msgstr ""
+msgstr "Futé !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-1/c-7/7
 msgctxt "Gaia"
 msgid "I've tried!"
-msgstr ""
+msgstr "J'ai essayé !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-2/0
 msgctxt "Gaia"
 msgid "I want to talk to the others, but I think I must be too forward or something! I skip on up to them and ask them about themselves, and they just run away!"
-msgstr ""
+msgstr "J'ai envie de parler aux autres, mais je dois être trop directe ou je sais pas quoi ! Je saute vers eux, je leur pose des questions sur eux, pis ils filent !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-2/8/s/0 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-4/19/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "That can't be. You seem so nice!"
-msgstr ""
+msgstr "C'est pas possible. T'as l'air tellement sympa !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-2/c-8/7
 msgctxt "Gaia"
 msgid "Oh, y'know."
-msgstr ""
+msgstr "Oh, tu sais."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-2/c-9/7
 msgctxt "Gaia"
 msgid "It's not about just being nice..."
-msgstr ""
+msgstr "C'est pas juste une question d'être gentille..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/0
 msgctxt "Gaia"
 msgid "I come up to the others so I can ask about 'em. Get to know 'em, who they are."
-msgstr ""
+msgstr "Je vais vers les autres pour leur demander qui ils sont. Les connaître, quoi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/8
 msgctxt "Gaia"
 msgid "But before I can get to the point I always go spoutin' off about somethin' or other - like telling 'em factoids I've heard about what I imagine their home to be."
-msgstr ""
+msgstr "Mais avant d'en venir au fait, je me mets toujours à déblatérer sur un truc ou un autre, comme des anecdotes que j'ai entendues sur ce que j'imagine être chez eux."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/16
 msgctxt "Gaia"
 msgid "And 9 times out of 10 I'm some level of wrong."
-msgstr ""
+msgstr "Pis neuf fois sur dix, je me trompe plus ou moins."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/24
 msgctxt "Gaia"
 msgid "...and the other time I'm right but it's in an insulting way."
-msgstr ""
+msgstr "...et l'autre fois, j'ai raison, mais d'une façon vexante."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/32
 msgctxt "Gaia"
 msgid "One thing leads to another and they give me this look. Then soon enough they find an excuse to leave. I'm just. Bad at it, I guess!"
-msgstr ""
+msgstr "Une chose en entraîne une autre, ils me regardent bizarrement. Pis bientôt, ils trouvent une excuse pour partir. Je suis juste. Nulle à ça, j'imagine !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/0
 msgctxt "Gaia"
 msgid "Sometimes I feel like no matter how hard I push myself, I'm just going in circles. Y'know what I mean?"
-msgstr ""
+msgstr "Des fois, j'ai l'impression que j'ai beau me pousser, je tourne juste en rond. Tu vois ce que je veux dire ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/8/s/0
 msgctxt "Choix"
 msgid "Yeah, I'm working on getting better with people too."
-msgstr ""
+msgstr "Ouais, moi aussi, j'essaie de m'améliorer avec les gens."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/9/s/0
 msgctxt "Choix"
 msgid "Uh huh..."
-msgstr ""
+msgstr "Mmh mmh..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/10/s/0
 msgctxt "Choix"
 msgid "I don't know what you mean."
-msgstr ""
+msgstr "Je vois pas ce que tu veux dire."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/c-10/7
 msgctxt "Gaia"
 msgid "It's hard, isn't it?!"
-msgstr ""
+msgstr "C'est dur, hein ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/c-10/15
 msgctxt "Gaia"
 msgid "I can see why you'd need to practice for dating. It's just too easy to mess up."
-msgstr ""
+msgstr "Je comprends pourquoi t'as besoin de t'entraîner pour les rencards. C'est trop facile de se planter."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/c-10/23
 msgctxt "Gaia"
 msgid "You say one wrong thing and POOF! They're gone! It's so frustrating!!!"
-msgstr ""
+msgstr "Tu dis un truc de travers et POUF ! Ils sont partis ! C'est tellement frustrant !!!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/c-10/31
 msgctxt "Gaia"
 msgid "Er... sorry. I think I might be <i>Mercator</i> Projecting on your situation a little bit."
-msgstr ""
+msgstr "Euh... pardon. Je crois que je fais une projection de <i>Mercator</i> sur ta situation."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-3/40/c-12/7
 msgctxt "Gaia"
 msgid "There I go, speakin' in circles again..."
-msgstr ""
+msgstr "Et voilà, je parle en rond encore..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/0
 msgctxt "Gaia"
 msgid "Oh! WHOA!"
-msgstr ""
+msgstr "Oh ! OH LÀ !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/8
 msgctxt "Gaia"
 msgid "I just had the best idea!"
-msgstr ""
+msgstr "J'ai eu la meilleure idée !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/16
 msgctxt "Gaia"
 msgid "You're running to the four winds meetin' with people and speakin' with the others, yeah? I'm sure some of those folks come from other places, right?"
-msgstr ""
+msgstr "Tu cours aux quatre vents, tu rencontres du monde, tu parles aux autres, non ? Je suis sûre que certains viennent d'ailleurs, pas vrai ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/24
 msgctxt "Gaia"
 msgid "Travelers, y'know's what I'm sayin'?"
-msgstr ""
+msgstr "Des voyageurs, tu vois ce que je veux dire ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/32
 msgctxt "Gaia"
 msgid "Why don't you ask 'em what they're about? Get to know 'em a little better, figures how they ticks, then come back 'n we'll have a yarn! Sound good?"
-msgstr ""
+msgstr "Pourquoi tu leur demanderais pas c'est quoi, leur histoire ? Apprends à mieux les connaître, comprends comment ils fonctionnent, pis reviens, on jasera ! Ça te dit ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/40/s/0
 msgctxt "Choix"
 msgid "Sorry, I didn't catch that exactly?"
-msgstr ""
+msgstr "Pardon, j'ai pas tout saisi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/41/s/0
 msgctxt "Choix"
 msgid "I think I get what you're puttin' down."
-msgstr ""
+msgstr "Je crois que je vois où tu veux en venir."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/c-13/7
 msgctxt "Gaia"
 msgid "Speak plain, Gaia, speak plain..."
-msgstr ""
+msgstr "Parle clair, Gaia, parle clair..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-5/c-13/15
 msgctxt "Gaia"
 msgid "Okay. So."
-msgstr ""
+msgstr "Bon. Alors."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-6/0
 msgctxt "Gaia"
 msgid "You're speaking with objects all over the house. You know how some of us have little labels that say things like \"Made in China\" or \"Hecho en Argentina\" on the bottom?"
-msgstr ""
+msgstr "Tu parles à des objets partout dans la maison. Tu sais comment certains d'entre nous ont une petite étiquette dessous, avec « Made in China » ou « Hecho en Argentina » ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-6/8
 msgctxt "Gaia"
 msgid "Well, that means those objects are <b>Travelers!</b> They come from away!"
-msgstr ""
+msgstr "Eh ben, ça veut dire que ces objets sont des <b>Voyageurs !</b> Ils viennent d'ailleurs !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-6/16
 msgctxt "Gaia"
 msgid "They're from somewhere else! Somewhere on my jacket!"
-msgstr ""
+msgstr "Ils sont d'un autre endroit ! D'un endroit sur ma veste !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-6/24
 msgctxt "Gaia"
 msgid "THOSE are the objects I need to talk to! Those are the ones who can fill out my checklist!"
-msgstr ""
+msgstr "CEUX-LÀ, ce sont les objets à qui je dois parler ! Ceux qui peuvent remplir ma liste !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-6/32/s/0
 msgctxt "Choix"
 msgid "Travelers..."
-msgstr ""
+msgstr "Des Voyageurs..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-6/33/s/0
 msgctxt "Choix"
 msgid "I love filling out checklists."
-msgstr ""
+msgstr "J'adore remplir des listes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-6/34/s/0
 msgctxt "Choix"
 msgid "I feel an adventure coming on."
-msgstr ""
+msgstr "Je sens une aventure arriver."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/0
 msgctxt "Gaia"
 msgid "This map is uncharted. But if you can bring me back <b>stories from those travelers</b>, then I'd be able to write little notes down here and there, and pretty soon I'll be a bonafide travel guide!"
-msgstr ""
+msgstr "Cette carte est inexplorée. Mais si tu me ramènes <b>des histoires de ces voyageurs</b>, je pourrai noter des petits trucs ici et là, pis bientôt je serai un vrai guide de voyage !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/8
 msgctxt "Gaia"
 msgid "It's everything I've ever wanted. And you'll get a chance to practice talking more!"
-msgstr ""
+msgstr "C'est tout ce dont j'ai toujours rêvé. Pis toi, tu pourras t'entraîner à parler davantage !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/16
 msgctxt "Gaia"
 msgid "Are you shy? I can help! People tell me that I never shut up. I can help <i>you</i> learn to never shut up! Doesn't that sound great?"
-msgstr ""
+msgstr "T'es timide ? Je peux t'aider ! On me dit que je la ferme jamais. Je peux t'apprendre à <i>toi</i> aussi à jamais la fermer ! Ça sonne bien, non ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/24/s/0
 msgctxt "Choix"
 msgid "That'd be perfect!"
-msgstr ""
+msgstr "Ce serait parfait !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/25/s/0
 msgctxt "Choix"
 msgid "I thought you said that everyone runs away from you..."
-msgstr ""
+msgstr "Je croyais que tu disais que tout le monde te fuyait..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/26/s/0
 msgctxt "Choix"
 msgid "Why don't you just look stuff up online?"
-msgstr ""
+msgstr "Pourquoi tu cherches pas simplement sur internet ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/c-18/7
 msgctxt "Gaia"
 msgid "Right?!"
-msgstr ""
+msgstr "N'est-ce pas ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/c-19/7
 msgctxt "Gaia"
 msgid "Yeah. Well, then I'll stand on the other side of them so they run towards you!"
-msgstr ""
+msgstr "Ouais. Ben, je me mettrai de l'autre côté pour qu'ils courent vers toi !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/c-19/15
 msgctxt "Gaia"
 msgid "C'mon! Please, pretty please?!"
-msgstr ""
+msgstr "Allez ! S'il te plaît, s'il te plaît, s'il te plaît ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/c-20/7
 msgctxt "Gaia"
 msgid "No way! That stuff is useless!"
-msgstr ""
+msgstr "Pas question ! Ce truc-là est inutile !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/c-20/15
 msgctxt "Gaia"
 msgid "I want first-hand stories! Something with a personal touch!"
-msgstr ""
+msgstr "Je veux des histoires de première main ! Quelque chose avec une touche personnelle !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/c-20/23
 msgctxt "Gaia"
 msgid "Second-hand sources are boring. Heck, <i>I'm</i> a second-hand source and I don't know anything. I mean, what the heck is \"Arr-Kansas?\" Is that like a second Kansas just for pirates? Who knows!"
-msgstr ""
+msgstr "Les sources de seconde main, c'est ennuyeux. Bon sang, <i>moi</i>, je suis une source de seconde main, pis je sais rien de rien. Non mais, c'est quoi, un « Arr-Kansas » ? Un deuxième Kansas rien que pour les pirates ? Qui sait !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-7/c-20/31
 msgctxt "Gaia"
 msgid "This is exactly why I need your help."
-msgstr ""
+msgstr "C'est exactement pour ça que j'ai besoin de ton aide."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/0
 msgctxt "Gaia"
 msgid "I'm sure it'll work out. You scratch my cartouche, I'll scratch yours."
-msgstr ""
+msgstr "Je suis sûre que ça va marcher. Tu m'aides à trouver mon nord, je t'aide à trouver le tien."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/8
 msgctxt "Gaia"
 msgid "Whaddaya say, partner? Exploration buddies?"
-msgstr ""
+msgstr "Alors, qu'est-ce que t'en dis, partenaire ? Binôme d'exploration ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/16/s/0
 msgctxt "Choix"
 msgid "Sure, why not?"
-msgstr ""
+msgstr "Bien sûr, pourquoi pas ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/17/s/0
 msgctxt "Choix"
 msgid "No thanks."
-msgstr ""
+msgstr "Non merci."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/18/s/0
 msgctxt "Choix"
 msgid "Actually, I think I've already met some travelers!"
-msgstr ""
+msgstr "En fait, je crois que j'ai déjà rencontré des voyageurs !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/7
 msgctxt "Gaia"
 msgid "Really?!"
-msgstr ""
+msgstr "Vraiment ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/15
 msgctxt "Gaia"
 msgid "Aw, I appreciate it! Really saves me a lot of hemmin' and hawin'!"
-msgstr ""
+msgstr "Aww, merci ! Ça m'évite un paquet de tergiversations !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/23
 msgctxt "Gaia"
 msgid "You go out and find some objects from foreign lands. Oh, and let me know if you need any help!"
-msgstr ""
+msgstr "Va trouver des objets de contrées lointaines. Ah, pis dis-moi si t'as besoin d'un coup de main !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/31
 msgctxt "Gaia"
 msgid "It's hard to explain, but I've got a pretty good sense of these things. I can't give you an exact name or anything for who to talk to, but I <i>can</i> get you close!"
-msgstr ""
+msgstr "C'est dur à expliquer, mais j'ai un assez bon pif pour ces choses-là. Je peux pas te donner un nom exact ou quoi que ce soit, mais je <i>peux</i> t'en rapprocher !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/39
 msgctxt "Gaia"
 msgid "It's kind of like a geocache. I can give you an idea of their general location, but if you want to find those travelers you'll need to hunt 'em down yourself."
-msgstr ""
+msgstr "C'est un peu comme un géocaching. Je peux te donner une idée de leur emplacement général, mais si tu veux trouver ces voyageurs, faudra les traquer toi-même."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/47
 msgctxt "Gaia"
 msgid "I've learned firsthand that others don't take it too well if you run up to them and scream \"WHERE ARE YOU FROM?!\""
-msgstr ""
+msgstr "J'ai appris à mes dépens que les autres le prennent pas très bien quand on leur fonce dessus en hurlant « TU VIENS D'OÙ ?! »"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/0/s/0
 msgctxt "Choix"
 msgid "Like you did with me?"
-msgstr ""
+msgstr "Comme tu l'as fait avec moi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/7
 msgctxt "Gaia"
 msgid "Yeah! Like that! That was a disaster!"
-msgstr ""
+msgstr "Ouais ! Comme ça ! Ç'a été un désastre !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/15
 msgctxt "Gaia"
 msgid "Point is, you can't just ask objects about their origins out of the gate. You gotta <b>awaken</b> 'em first."
-msgstr ""
+msgstr "Le fait est qu'on peut pas demander aux objets leurs origines comme ça, de but en blanc. Faut d'abord les <b>éveiller</b>."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/26
 msgctxt "Gaia"
 msgid "Don't worry too much about the details. Once you're close with someone, you'll learn more about them automatically."
-msgstr ""
+msgstr "T'inquiète pas trop pour les détails. Une fois que t'es proche de quelqu'un, t'en apprends davantage automatiquement."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/34
 msgctxt "Gaia"
 msgid "So! What do you say? Do you want some hints on where to find travelers?! Or do you feel like searching on yer own?"
-msgstr ""
+msgstr "Alors ! Qu'est-ce que t'en dis ? Tu veux des indices pour trouver des voyageurs ?! Ou t'as envie de chercher par toi-même ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/0/s/0
 msgctxt "Choix"
 msgid "Hint, please!"
-msgstr ""
+msgstr "Un indice, s'il te plaît !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/1/s/0
 msgctxt "Choix"
 msgid "I'm feeling lucky!"
-msgstr ""
+msgstr "Je tente ma chance !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-0/7
 msgctxt "Gaia"
 msgid "Alright! Hint! Hint, hint, hint!"
-msgstr ""
+msgstr "Parfait ! Un indice ! Indice, indice, indice !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-0/15
 msgctxt "Gaia"
 msgid "Let's spin me round and see which object I get a sense for..."
-msgstr ""
+msgstr "Faisons tourner la boule pour voir quel objet je sens..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-1/7
 msgctxt "Gaia"
 msgid "Nice!"
-msgstr ""
+msgstr "Joli !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-1/15
 msgctxt "Gaia"
 msgid "(Not to be confused with <i>Nice...</i>)"
-msgstr ""
+msgstr "(Sans lien avec <i>Nice</i>, la ville...)"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-1/23
 msgctxt "Gaia"
 msgid "Alright, fellow explorer! G'wan then! Don't be too long!"
-msgstr ""
+msgstr "Bon ! Allez, partenaire d'exploration ! Vas-y donc ! Traîne pas trop !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-1/31
 msgctxt "Gaia"
 msgid "Seriously, though. Don't be too long. I get so antsy just sitting here spinning in place."
-msgstr ""
+msgstr "Sérieusement, par contre. Traîne pas trop. Je m'impatiente, assise là à tourner sur moi-même."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-1/39
 msgctxt "Gaia"
 msgid "Be sure to <b>check in with me every once in awhile</b> even if you haven't found any Travelers yet! I can wait a bit, but..."
-msgstr ""
+msgstr "Pense à <b>passer me voir de temps en temps</b>, même si t'as pas encore trouvé de Voyageurs ! Je peux attendre un peu, mais..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-1/47
 msgctxt "Gaia"
 msgid "Mmmmmmmmm, I'm honestly pretty impatient! Especially when I'm EXCITED!"
-msgstr ""
+msgstr "Mmmmmmmmm, je suis franchement pas mal impatiente ! Surtout quand je suis EXCITÉE !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-21/58/c-0/42/c-1/58
 msgctxt "Gaia"
 msgid "Good luck!"
-msgstr ""
+msgstr "Bonne chance !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-22/7
 msgctxt "Gaia"
 msgid "O-Oh. Uh... okay then! No problem. Just remember that I'll be here if you change your mind. Okay?"
-msgstr ""
+msgstr "O-Oh. Euh... d'accord ! Pas de souci. Rappelle-toi juste que je serai là si tu changes d'avis. D'accord ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_firstencounter/0/g-8/c-22/15
 msgctxt "Gaia"
 msgid "I'll always be... right here."
-msgstr ""
+msgstr "Je serai toujours... juste ici."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/0/b/1
 msgctxt "Gaia"
 msgid "Hello again, m'love! Got any traveler stories for me?"
-msgstr ""
+msgstr "Re-salut, mon coeur ! T'as des histoires de voyageurs pour moi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/1/b/1
 msgctxt "Gaia"
 msgid "Oh. You're back! Don't suppose you had second thoughts about helping me chat up some world-travelers?"
-msgstr ""
+msgstr "Oh. Te revoilà ! Tu m'as pas fait changer d'avis sur l'idée de m'aider à jaser avec des globe-trotteurs, j'imagine ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/4/s/0
 msgctxt "Choix"
 msgid "Yes, actually. I spoke with someone."
-msgstr ""
+msgstr "En fait, oui. J'ai parlé à quelqu'un."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/5/s/0
 msgctxt "Choix"
 msgid "I’m not really sure where to find \"world-travelers\". Any leads?"
-msgstr ""
+msgstr "Je sais pas trop où trouver des « globe-trotteurs ». Une piste ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/6/s/0
 msgctxt "Choix"
 msgid "Nothing yet, but I'll keep looking."
-msgstr ""
+msgstr "Rien pour l'instant, mais je continue de chercher."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/7/s/0
 msgctxt "Choix"
 msgid "This is dumb."
-msgstr ""
+msgstr "C'est débile."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-1/7
 msgctxt "Gaia"
 msgid "I've got a general sense of where they are! Let's spin me around and see who I can find!"
-msgstr ""
+msgstr "J'ai une idée générale de où ils sont ! Faisons tourner la boule pour voir qui je trouve !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-1/15 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/23/c-2/15
 msgctxt "Gaia"
 msgid "<w>Wheeeee!</w>"
-msgstr ""
+msgstr "<w>Wiiiiiii !</w>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-2/7 gaia_globe/gaia_storytime/0/1/c-3/7
 msgctxt "Gaia"
 msgid "Ok! Well keep at it, friend! Thanks for checking in. I’ll be waiting!"
-msgstr ""
+msgstr "Ok ! Eh ben, continue comme ça, mon coeur ! Merci d'être passé. Je t'attendrai !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/7
 msgctxt "Gaia"
 msgid "...what?"
-msgstr ""
+msgstr "...quoi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "None of these objects are really \"Travelers\"."
-msgstr ""
+msgstr "Aucun de ces objets n'est vraiment un « Voyageur »."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/7
 msgctxt "Gaia"
 msgid "What d'ya mean?"
-msgstr ""
+msgstr "Qu'est-ce que tu veux dire ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "All objects are from so many different places."
-msgstr ""
+msgstr "Tous les objets viennent de tellement d'endroits différents."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/7
 msgctxt "Gaia"
 msgid "So?"
-msgstr ""
+msgstr "Et alors ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "So it's silly to think that they would have something to teach you about their 'homeland'. It's reductive."
-msgstr ""
+msgstr "Alors c'est idiot de penser qu'ils auraient quoi que ce soit à t'apprendre sur leur « patrie ». C'est réducteur."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Just because they look a certain way or have an accent doesn't mean they are encyclopedias on one country."
-msgstr ""
+msgstr "Ce n'est pas parce qu'ils ont une certaine allure ou un accent que ce sont des encyclopédies sur un seul pays."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/g-0/8
 msgctxt "Gaia"
 msgid "I'm sorry you feel that way... but it gives me joy."
-msgstr ""
+msgstr "Je suis navrée que tu le prennes comme ça... mais ça me rend heureuse."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/g-0/16
 msgctxt "Gaia"
 msgid "Is that so wrong for a silly little globe?"
-msgstr ""
+msgstr "C'est mal, pour un petit globe ridicule ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/g-0/24/0/s/0
 msgctxt "Choix"
 msgid "Yep."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/g-0/24/1/s/0
 msgctxt "Choix"
 msgid "No, you're right."
-msgstr ""
+msgstr "Non, tu as raison."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/g-0/24/c-1/15
 msgctxt "Gaia"
 msgid "Well thanks for bringing the limitations of my quest to attention."
-msgstr ""
+msgstr "Eh bien, merci d'avoir attiré mon attention sur les limites de ma quête."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_secondencounter/0/c-3/15/c-0/15/c-0/15/g-0/24/c-1/23
 msgctxt "Gaia"
 msgid "Bye for now."
-msgstr ""
+msgstr "Salut pour l'instant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_forgotten/0/0
 msgctxt "Gaia"
 msgid "Oh. It’s you."
-msgstr ""
+msgstr "Oh. C'est toi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_forgotten/0/8
 msgctxt "Gaia"
 msgid "Got kinda used to you walkin' back and forth, not even lookin' my way. ...guess you forgot, huh?"
-msgstr ""
+msgstr "J'avais fini par m'habituer à te voir passer et repasser sans même me regarder. ...j'imagine que t'avais oublié, hein ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_forgotten/0/16/s/0
 msgctxt "Choix"
 msgid "To be honest, I kind of did."
-msgstr ""
+msgstr "Pour être honnête, un peu."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_forgotten/0/17/s/0
 msgctxt "Choix"
 msgid "No, no, of course not! In fact, I've got a story for you."
-msgstr ""
+msgstr "Non, non, bien sûr que non ! En fait, j'ai une histoire pour toi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_forgotten/0/c-1/7 gaia_globe/gaia_storytime/0/gaia_storytime_start/0
 msgctxt "Gaia"
 msgid "...really? Then g'wan then, let's hear it!"
-msgstr ""
+msgstr "...vraiment ? Alors vas-y donc, on t'écoute !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/1/8
 msgctxt "Gaia"
 msgid "Anyways, that's great! Got it all written down!"
-msgstr ""
+msgstr "En tout cas, c'est super ! J'ai tout noté !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/1/16
 msgctxt "Gaia"
 msgid "Did you have any more?"
-msgstr ""
+msgstr "T'en avais d'autres ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/1/24/s/0
 msgctxt "Choix"
 msgid "Yeah!"
-msgstr ""
+msgstr "Ouais !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/1/25/s/0
 msgctxt "Choix"
 msgid "No, that's it!"
-msgstr ""
+msgstr "Non, c'est tout !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/1/26/s/0
 msgctxt "Choix"
 msgid "That should be all of them!"
-msgstr ""
+msgstr "Ça devrait être tous !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/1/27/s/0
 msgctxt "Choix"
 msgid "Not right now, but I want to keep looking for more!"
-msgstr ""
+msgstr "Pas maintenant, mais je veux continuer à en chercher !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/11/s/0
 msgctxt "Choix"
 msgid "The Scandalabra is from a small village in Switzerland!"
-msgstr ""
+msgstr "Scandalabra vient d'un petit village de Suisse !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/12/s/0
 msgctxt "Choix"
 msgid "Amir is from the middle east."
-msgstr ""
+msgstr "Amir vient du Moyen-Orient."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/13/s/0
 msgctxt "Choix"
 msgid "Dorian is from England, gotta be."
-msgstr ""
+msgstr "Dorian vient d'Angleterre, ça ne peut être que ça."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/14/s/0
 msgctxt "Choix"
 msgid "I talked to Keyes!"
-msgstr ""
+msgstr "J'ai parlé à Keyes !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/15/s/0
 msgctxt "Choix"
 msgid "Y'know how Jean Loo is a rapper?"
-msgstr ""
+msgstr "Tu sais que Jean Loo est rappeur ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/16/s/0
 msgctxt "Choix"
 msgid "Hero Hime is from a crane game, I think."
-msgstr ""
+msgstr "Hero Hime vient d'une machine à pince, je crois."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/17/s/0
 msgctxt "Choix"
 msgid "So pretty sure Keith is from Spain."
-msgstr ""
+msgstr "Donc Keith vient sûrement d'Espagne."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/18/s/0
 msgctxt "Choix"
 msgid "Well, I, Ronaldini is from Saskatchewan."
-msgstr ""
+msgstr "Eh bien, I, Ronaldini vient de la Saskatchewan."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/19/s/0
 msgctxt "Choix"
 msgid "Jacques Pierrot is a pirate from places unknown..."
-msgstr ""
+msgstr "Jacques Pierrot est un pirate venu d'on ne sait où..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/20/s/0
 msgctxt "Choix"
 msgid "Kopi is from Singapore!"
-msgstr ""
+msgstr "Kopi vient de Singapour !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/21/s/0
 msgctxt "Choix"
 msgid "Miranda is from Mexico!"
-msgstr ""
+msgstr "Miranda vient du Mexique !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/22/s/0
 msgctxt "Choix"
 msgid "Dasha's from Russia."
-msgstr ""
+msgstr "Dasha vient de Russie."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/23/s/0
 msgctxt "Choix"
 msgid "Have you heard of our resident goddess, Rongomaiwhenua?"
-msgstr ""
+msgstr "Tu as entendu parler de notre déesse résidente, Rongomaiwhenua ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/24/s/0
 msgctxt "Choix"
 msgid "Mateo Manta is from Mexico!"
-msgstr ""
+msgstr "Mateo Manta vient du Mexique !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/25/s/0
 msgctxt "Choix"
 msgid "Cabrizzio is very Italian."
-msgstr ""
+msgstr "Cabrizzio est très italien."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/26/s/0
 msgctxt "Choix"
 msgid "Drysdale must be from abroad with that accent!"
-msgstr ""
+msgstr "Drysdale doit venir de l'étranger, avec cet accent !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/27/s/0
 msgctxt "Choix"
 msgid "Kristof is... from somewhere there's vikings!"
-msgstr ""
+msgstr "Kristof vient... d'un endroit où il y a des vikings !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/28/s/0
 msgctxt "Choix"
 msgid "Daisuke is from Japan."
-msgstr ""
+msgstr "Daisuke vient du Japon."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/29/s/0
 msgctxt "Choix"
 msgid "...actually, I don't think I have any others. Sorry."
-msgstr ""
+msgstr "...en fait, je crois que j'en ai pas d'autres. Pardon."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-4/11
 msgctxt "Gaia"
 msgid "G'wan sure."
-msgstr ""
+msgstr "Vas-y donc, bien sûr."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-4/19/0/s/0
 msgctxt "Choix"
 msgid "Yes, he traveled all the way here through many different hands!"
-msgstr ""
+msgstr "Oui, il est arrivé jusqu'ici en passant par plein de mains différentes !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-4/19/c-0/7
 msgctxt "Gaia"
 msgid "Okay, if you say so."
-msgstr ""
+msgstr "Bon, si tu le dis."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-4/19/c-0/15/c-0/7
 msgctxt "Gaia"
 msgid "Eh, sorry ducky, sounds like he was pullin' your leg. He just doesn't have that same... somethin' that the other travelers do."
-msgstr ""
+msgstr "Eh, désolée, mon coeur, on dirait qu'il te faisait marcher. Il a pas ce petit... quelque chose que les autres voyageurs ont."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-4/19/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "So... you think he lied?"
-msgstr ""
+msgstr "Donc... tu penses qu'il a menti ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-4/19/c-0/15/c-0/15/c-0/7
 msgctxt "Gaia"
 msgid "Yeah! Sorry!"
-msgstr ""
+msgstr "Ouais ! Désolée !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/15 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/56 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/51
 msgctxt "Gaia"
 msgid "Ooh!"
-msgstr ""
+msgstr "Ooh !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/29
 msgctxt "Amir"
 msgid "Salam, Gaia."
-msgstr ""
+msgstr "Salam, Gaia."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/37
 msgctxt "Gaia"
 msgid "Oh, goodness, look at you!"
-msgstr ""
+msgstr "Oh, mince, regarde-moi ça !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/45
 msgctxt "Amir"
 msgid "I will regale you with a fact about my homeland of Iran."
-msgstr ""
+msgstr "Je vais te régaler d'un fait sur ma patrie, l'Iran."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/53
 msgctxt "Amir"
 msgid "Persian weddings are marvelous affairs."
-msgstr ""
+msgstr "Les mariages persans sont des affaires merveilleuses."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/61
 msgctxt "Amir"
 msgid "They have a beautiful ceremonial spread called <i>Sofreh Aghd</i>."
-msgstr ""
+msgstr "Il y a une magnifique table cérémonielle appelée <i>Sofreh Aghd</i>."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/69
 msgctxt "Amir"
 msgid "It's got spices, coins, desserts, and best of all, a large mirror as the centerpiece."
-msgstr ""
+msgstr "Elle contient des épices, des pièces, des desserts et, surtout, un grand miroir en son centre."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/77
 msgctxt "Amir"
 msgid "The bride comes in veiled, and the groom gets his first look at her through the mirror."
-msgstr ""
+msgstr "La mariée entre voilée, et le marié l'aperçoit pour la première fois dans le miroir."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/85
 msgctxt "Gaia"
 msgid "Aww... That's so romantic~!"
-msgstr ""
+msgstr "Aww... C'est tellement romantique~ !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/96
 msgctxt "Amir"
 msgid "I think so too."
-msgstr ""
+msgstr "Je trouve aussi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/104
 msgctxt "Amir"
 msgid "The mirror symbolizes light and a bright future for the happy couple."
-msgstr ""
+msgstr "Le miroir symbolise la lumière et un avenir radieux pour les heureux époux."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/112
 msgctxt "Amir"
 msgid "There's also candelabras on either side of the mirror. Their fire symbolizes purity."
-msgstr ""
+msgstr "Il y a aussi des candélabres de chaque côté du miroir. Leur flamme symbolise la pureté."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/120
 msgctxt "Gaia"
 msgid "Wow."
-msgstr ""
+msgstr "Wow."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/128
 msgctxt "Gaia"
 msgid "The mirror set up sounds like somethin' else. But the candelabra part worries me a bit."
-msgstr ""
+msgstr "L'histoire du miroir, c'est quelque chose. Mais la partie sur les candélabres m'inquiète un peu."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/136
 msgctxt "Gaia"
 msgid "I hope Scandalabra's never been invited to one of those. (He's kinda sketchy.)"
-msgstr ""
+msgstr "J'espère que Scandalabra a jamais été invité à un truc comme ça. (Il est un peu louche.)"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-5/144
 msgctxt "Amir"
 msgid "Oh my goodness... I wouldn't invite him to be part of my spread."
-msgstr ""
+msgstr "Oh mon Dieu... Je ne l'inviterais pas à faire partie de ma table."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/15
 msgctxt "Gaia"
 msgid "That's lovely!"
-msgstr ""
+msgstr "C'est adorable !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/29
 msgctxt "Dorian"
 msgid "What's all this, then."
-msgstr ""
+msgstr "C'est quoi, tout ce raffut, alors."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/37
 msgctxt "Gaia"
 msgid "Oh! That's one of the things they say over there!"
-msgstr ""
+msgstr "Oh ! C'est une de ces expressions qu'ils ont, là-bas !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/45
 msgctxt "Dorian"
 msgid "Rubbish."
-msgstr ""
+msgstr "Balivernes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/53
 msgctxt "Gaia"
 msgid "Ooooh - keep going."
-msgstr ""
+msgstr "Ooooh - continue."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/61
 msgctxt "Dorian"
 msgid "Are you having a laugh?"
-msgstr ""
+msgstr "Tu te fiches de moi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/69
 msgctxt "Gaia"
 msgid "I'm.... taking the piss?"
-msgstr ""
+msgstr "Je... me paie ta fiole ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/77
 msgctxt "Dorian"
 msgid "Listen, you two."
-msgstr ""
+msgstr "Écoutez, vous deux."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/85
 msgctxt "Dorian"
 msgid "Canada and America are beholden to ENGLAND for smithing and refining the language we're speaking right now."
-msgstr ""
+msgstr "Le Canada et l'Amérique sont redevables à l'ANGLETERRE d'avoir forgé et affiné la langue que nous parlons en ce moment même."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/93
 msgctxt "Dorian"
 msgid "Which is called?"
-msgstr ""
+msgstr "Qui s'appelle ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/0/s/0
 msgctxt "Choix"
 msgid "English?"
-msgstr ""
+msgstr "L'anglais ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/1/s/0
 msgctxt "Choix"
 msgid "American?"
-msgstr ""
+msgstr "L'américain ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/2/s/0
 msgctxt "Choix"
 msgid "Canadian?"
-msgstr ""
+msgstr "Le canadien ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/c-0/7
 msgctxt "Dorian"
 msgid "ENGLISH."
-msgstr ""
+msgstr "L'ANGLAIS."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/c-0/18
 msgctxt "Dorian"
 msgid "From England, land of 'Angles'."
-msgstr ""
+msgstr "D'Angleterre, terre des « Angles »."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/c-1/7
 msgctxt "Dorian"
 msgid "YOU BLOODY WELL KNOW IT'S NOT."
-msgstr ""
+msgstr "TU SAIS TRÈS BIEN QUE NON, BON SANG."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/c-2/7
 msgctxt "Dorian"
 msgid "We're speaking Canadian, are we?"
-msgstr ""
+msgstr "On parle canadien, peut-être ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/c-2/15
 msgctxt "Dorian"
 msgid "Did you take Canadian classes in primary school?"
-msgstr ""
+msgstr "T'as pris des cours de canadien à l'école primaire ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/c-2/23
 msgctxt "Dorian"
 msgid "Did you watch anime with Canadian subtitles?"
-msgstr ""
+msgstr "T'as regardé des animés avec des sous-titres canadiens ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/c-2/34
 msgctxt "Dorian"
 msgid "Don't think so."
-msgstr ""
+msgstr "Je ne crois pas."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/g-0/3
 msgctxt "Gaia"
 msgid "Did we... learn anything? From that..."
-msgstr ""
+msgstr "Est-ce qu'on... a appris quelque chose ? De tout ça..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-6/101/g-0/11
 msgctxt "Gaia"
 msgid "(I do like getting under his doorframe just a little, though - always worth a giggle.)"
-msgstr ""
+msgstr "(J'avoue que ça me plaît de lui faire sortir un peu de ses gonds, ça vaut toujours un petit rire.)"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/15
 msgctxt "Gaia"
 msgid "That's far..."
-msgstr ""
+msgstr "C'est juste..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/26
 msgctxt "Keyes"
 msgid "Darling! Allow me to tell you about my homeland: Nigeria!"
-msgstr ""
+msgstr "Ma chère ! Permets-moi de te parler de ma patrie : le Nigeria !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/34
 msgctxt "Keyes"
 msgid "As is my duty as a performer, I have brought only the most incredible and spine-tingling facts, spoken to you in a most arresting manner."
-msgstr ""
+msgstr "Comme le veut mon devoir d'artiste, je n'ai apporté que les faits les plus incroyables et les plus saisissants, énoncés de la manière la plus captivante qui soit."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/42
 msgctxt "Keyes"
 msgid "Chappal Wahdi is the highest point in Nigeria, standing at 2,419 meters!"
-msgstr ""
+msgstr "Le Chappal Wahdi est le point culminant du Nigeria, avec 2 419 mètres !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/50
 msgctxt "Gaia"
 msgid "Uh huh, uh huh..."
-msgstr ""
+msgstr "Mmh mmh, mmh mmh..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/58
 msgctxt "Keyes"
 msgid "Also, Nigeria is the only place in the world where you can find the Anambra waxbill bird, a member of the estrildid finch family."
-msgstr ""
+msgstr "Par ailleurs, le Nigeria est le seul endroit au monde où l'on trouve l'astrild d'Anambra, un oiseau de la famille des estrildidés."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/66
 msgctxt "Keyes"
 msgid "And before you think that you can find this fearless flyer all over Nigeria... think again."
-msgstr ""
+msgstr "Et avant de croire que l'on peut croiser ce téméraire ailé partout au Nigeria... détrompe-toi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/74 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/138 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/198
 msgctxt "Gaia"
 msgid "Oh!"
-msgstr ""
+msgstr "Oh !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/82
 msgctxt "Keyes"
 msgid "It is only found in Southern Nigeria."
-msgstr ""
+msgstr "On ne le trouve que dans le sud du Nigeria."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/90 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/15
 msgctxt "Gaia"
 msgid "Wow!"
-msgstr ""
+msgstr "Wow !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/98
 msgctxt "Gaia"
 msgid "Is that all!"
-msgstr ""
+msgstr "C'est tout !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/106
 msgctxt "Keyes"
 msgid "I have one more fact, extremely rare and terribly secret."
-msgstr ""
+msgstr "J'ai encore un fait, extrêmement rare et terriblement secret."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/114
 msgctxt "Keyes"
 msgid "There are 3,798 km of railways."
-msgstr ""
+msgstr "Il y a 3 798 km de voies ferrées."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/122
 msgctxt "Keyes"
 msgid "293 km of them 1.435m standard gauge."
-msgstr ""
+msgstr "Dont 293 km à écartement standard de 1,435 m."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/130
 msgctxt "Keyes"
 msgid "3,505 km of them 1.067m narrow gauge."
-msgstr ""
+msgstr "Dont 3 505 km à voie étroite de 1,067 m."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/146
 msgctxt "Keyes"
 msgid "I trust you all enjoyed the performance."
-msgstr ""
+msgstr "J'espère que vous avez tous apprécié la représentation."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-7/154
 msgctxt "Gaia"
 msgid "Bye!"
-msgstr ""
+msgstr "Salut !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/15
 msgctxt "Gaia"
 msgid "Pretty sure everyone knows that. You can hear him all over the house."
-msgstr ""
+msgstr "Je suis presque sûre que tout le monde sait ça. On l'entend dans toute la maison."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/29
 msgctxt "Jean Loo"
 msgid "Including here! Jean Loo is here now."
-msgstr ""
+msgstr "Y compris ici ! Jean Loo est là maintenant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/37
 msgctxt "Gaia"
 msgid "Wah!"
-msgstr ""
+msgstr "Wah !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/45
 msgctxt "Gaia"
 msgid "Jeez b'y, you scared the mountains off me..."
-msgstr ""
+msgstr "Bon sang, tu m'as fait une de ces peurs..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/53
 msgctxt "Jean Loo"
 msgid "Lil' Crapper, he has been informed that you wish to know about his homeland, eh?"
-msgstr ""
+msgstr "Le p'tit Crapper, il a été informé que tu veux tout savoir sur sa patrie, hein ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/61
 msgctxt "Jean Loo"
 msgid "This he will tell you... In the form of a rap!"
-msgstr ""
+msgstr "Ça, il va te le dire... Sous forme de rap !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/69
 msgctxt "Gaia"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/77
 msgctxt "Gaia"
 msgid "No, that's okay."
-msgstr ""
+msgstr "Non, ça va, merci."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/85
 msgctxt "Narrator"
 msgid "Jean Loo begins beatboxing."
-msgstr ""
+msgstr "Jean Loo commence à beatboxer."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/93
 msgctxt "Jean Loo"
 msgid "♪ Hip-hop's is popular in the US. When it comes to <i>le rap</i> people say they're the best. ♪"
-msgstr ""
+msgstr "♪ Le hip-hop, aux États-Unis, c'est populaire. Côté <i>rap</i>, on dit qu'ils sont les meilleurs sur terre. ♪"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/101
 msgctxt "Jean Loo"
 msgid "♪ But the French start to lash out with their silver tongues. / You think we're 2nd place? We are second to none! ♪"
-msgstr ""
+msgstr "♪ Mais les Français sortent la langue, bien pendue et acérée. / Nous, deuxièmes ? On n'est derrière personne, c'est réglé ! ♪"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/109
 msgctxt "Jean Loo"
 msgid "♪ You come for my people? The battle is on. / Flushed out with a faceful of varied <i>verlan</i>. ♪"
-msgstr ""
+msgstr "♪ Tu t'attaques à mon peuple ? La bataille est lancée. / Tu t'prends en pleine face du <i>verlan</i> à gogo, balancé. ♪"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/117
 msgctxt "Narrator"
 msgid "Jean Loo leans over and does a call and response with himself."
-msgstr ""
+msgstr "Jean Loo se penche et se fait lui-même un appel et réponse."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/125
 msgctxt "Jean Loo"
 msgid "<i>\"Verlan?\" \"Verlan?\" Qu'est-ce que le \"verlan\"?!</i>"
-msgstr ""
+msgstr "<i>« Verlan ? » « Verlan ? » C'est quoi, le « verlan » ?!</i>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/133
 msgctxt "Jean Loo"
 msgid "♪ <i>Verlan</i> is the well where new language is drawn! ♪"
-msgstr ""
+msgstr "♪ Le <i>verlan</i>, c'est le puits où la langue se renouvelle ! ♪"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/141
 msgctxt "Jean Loo"
 msgid "♪ If the syllables permit, you turn and reverse it / The meaning's the same but you change how it's worded! ♪"
-msgstr ""
+msgstr "♪ Si les syllabes le permettent, tu les retournes et tu inverses / Le sens reste le même, mais la forme est diverse ! ♪"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/149
 msgctxt "Jean Loo"
 msgid "So, uh... You take the syllables of a word. But then you swap them. So, example:"
-msgstr ""
+msgstr "Donc, euh... Tu prends les syllabes d'un mot. Mais ensuite, tu les inverses. Par exemple :"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/157
 msgctxt "Jean Loo"
 msgid "<i>Musique</i>. <i>Musique</i> becomes <i>\"zicmu\".<i> It means the same as before. But now it is backwards. Now it is <i>spicy.<i>"
-msgstr ""
+msgstr "<i>Musique</i>. <i>Musique</i> devient <i>« zicmu ».<i> Ça veut dire la même chose qu'avant. Mais maintenant, c'est à l'envers. Maintenant, c'est <i>épicé.<i>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/165
 msgctxt "Gaia"
 msgid "Oh. Okay. I get it, I think!"
-msgstr ""
+msgstr "Oh. D'accord. Je crois que j'ai pigé !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/173
 msgctxt "Gaia"
 msgid "That's cool. Or, I guess.. \"ool-coo?\" Nah, that's pig latin! Doesn't really work in English, huh?"
-msgstr ""
+msgstr "C'est cool. Ou plutôt... « looc » ? Nan, ça marche pas trop avec les mots d'une syllabe, hein !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-8/181
 msgctxt "Jean Loo"
 msgid "<i>Non!</i> This is one of the reasons French is the best language! And so Jean Loo uses it now to bid you </i>adieu!</i>"
-msgstr ""
+msgstr "<i>Eh !</i> C'est une des raisons pour lesquelles le français est la meilleure langue ! Pis Jean Loo s'en sert maintenant pour te dire </i>à plus !</i>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/15
 msgctxt "Gaia"
 msgid "Wow! I thought she was Japanese! I never heard of \"Akraingam\". Where's that?"
-msgstr ""
+msgstr "Wow ! Je la croyais japonaise ! J'ai jamais entendu parler de « Machinapince ». C'est où, ça ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/29
 msgctxt "Hero-Hime"
 msgid "A \"crane game\"! It's a type of arcade game."
-msgstr ""
+msgstr "Une « machine à pince » ! C'est un type de jeu d'arcade."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/37
 msgctxt "Gaia"
 msgid "Ohhh. Wow, I'm some stunned."
-msgstr ""
+msgstr "Ohhh. Wow, ça m'en bouche un coin."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/45
 msgctxt "Gaia"
 msgid "See, when I said needed help understanding more of the outside world? This is what I was talkin' about."
-msgstr ""
+msgstr "Tu vois, quand j'ai dit que j'avais besoin d'aide pour mieux comprendre le monde extérieur ? C'est de ça que je parlais."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/53
 msgctxt "Gaia"
 msgid "OOkay! Crane game. G'wan. Tell me about it."
-msgstr ""
+msgstr "Bon ! Machine à pince. Vas-y donc. Raconte-moi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/61
 msgctxt "Hero-Hime"
 msgid "Players manipulate a crane through a pile of prizes. If they have the skills, they get to keep any they take home!"
-msgstr ""
+msgstr "Les joueurs manoeuvrent une pince au-dessus d'un tas de lots. S'ils ont le coup de main, ils peuvent garder tout ce qu'ils ramènent chez eux !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/72 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/112
 msgctxt "Nekoboru"
 msgid "Nekoboru."
-msgstr ""
+msgstr "Nekoboru."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/80
 msgctxt "Hero-Hime"
 msgid "That's right, Nekoboru. If you want to get good - the only way is hard work and lots and lots of coins."
-msgstr ""
+msgstr "C'est ça, Nekoboru. Si tu veux devenir bon, il n'y a qu'un moyen : travailler dur et beaucoup, beaucoup de pièces."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/88
 msgctxt "Gaia"
 msgid "What can you win?"
-msgstr ""
+msgstr "Qu'est-ce qu'on peut gagner ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/96
 msgctxt "Hero-Hime"
 msgid "Prizes can be anything from figures, to candy, to posters... even vegetables."
-msgstr ""
+msgstr "Les lots peuvent être n'importe quoi : figurines, bonbons, posters... même des légumes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/104
 msgctxt "Gaia"
 msgid "I don't think I'd want to eat a vegetable that's been sitting in a stack of prizes for who-knows-how long."
-msgstr ""
+msgstr "Je crois que j'aurais pas envie de manger un légume qui traîne dans un tas de lots depuis Dieu sait combien de temps."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/120
 msgctxt "Hero-Hime"
 msgid "Haha! That's right Nekoboru."
-msgstr ""
+msgstr "Haha ! C'est ça, Nekoboru."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/128
 msgctxt "Gaia"
 msgid "Haha! Yeah!"
-msgstr ""
+msgstr "Haha ! Ouais !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-9/142
 msgctxt "Gaia"
 msgid "(...you didn't get that either, right? It's not just me?)"
-msgstr ""
+msgstr "(...toi non plus t'as pas compris, hein ? C'est pas juste moi ?)"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/15
 msgctxt "Gaia"
 msgid "Makes sense to me with a devilishly charming accent like that..."
-msgstr ""
+msgstr "Ça se tient, avec un accent diaboliquement charmant comme ça..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/29
 msgctxt "Keith"
 msgid "Alas, no!!"
-msgstr ""
+msgstr "Hélas, non !!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/37
 msgctxt "Keith"
 msgid "Gibraltar is a small place next to Spain. There are only around 32,000 people who live there."
-msgstr ""
+msgstr "Gibraltar est un petit endroit à côté de l'Espagne. Il n'y a qu'environ 32 000 personnes qui y vivent."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/45
 msgctxt "Gaia"
 msgid "Oops. That's embarrassing."
-msgstr ""
+msgstr "Oups. C'est embarrassant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/53
 msgctxt "Keith"
 msgid "One would think of all of us here, shouldn't you know its location?"
-msgstr ""
+msgstr "On pourrait penser que, de nous tous ici, tu devrais en connaître l'emplacement ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/61
 msgctxt "Gaia"
 msgid "Not everything is labelled, okay!!!"
-msgstr ""
+msgstr "Tout n'est pas étiqueté, d'accord !!!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/69
 msgctxt "Gaia"
 msgid "And there's some countries stuck to me backside!!!!!"
-msgstr ""
+msgstr "Pis y a des pays collés sur mon derrière !!!!!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/80
 msgctxt "Keith"
 msgid "Hah!"
-msgstr ""
+msgstr "Hah !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/88
 msgctxt "Keith"
 msgid "You can remember I hail from Gibraltar because we have a key on our flag!"
-msgstr ""
+msgstr "Tu peux retenir que je viens de Gibraltar parce qu'on a une clé sur notre drapeau !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/96
 msgctxt "Gaia"
 msgid "Oh, that <i>is</i> easy to remember!"
-msgstr ""
+msgstr "Oh, ça, c'est <i>facile</i> à retenir !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/104
 msgctxt "Gaia"
 msgid "I won't forget it! I've got it... <i>on lock</i>."
-msgstr ""
+msgstr "Je l'oublierai pas ! Je l'ai... <i>sous clé</i>."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-10/112
 msgctxt "Keith"
 msgid "I... must be on my way."
-msgstr ""
+msgstr "Je... dois y aller."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/15
 msgctxt "Gaia"
 msgid "What?! Really?! I didn't know he was Canadian! He's a magician so I figure he must be from somewhere exotic."
-msgstr ""
+msgstr "Quoi ?! Vraiment ?! Je savais pas qu'il était canadien ! C'est un magicien, alors je me disais qu'il venait forcément d'un endroit exotique."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/29
 msgctxt "I, Ronaldini"
 msgid "But I am from the most exotic of Canadian locales!"
-msgstr ""
+msgstr "Mais je viens des contrées canadiennes les plus exotiques qui soient !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/37
 msgctxt "Gaia"
 msgid "Oh! Nunavut?"
-msgstr ""
+msgstr "Oh ! Du Nunavut ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/45
 msgctxt "I, Ronaldini"
 msgid "Lloydminster, Saskatchewan."
-msgstr ""
+msgstr "Lloydminster, Saskatchewan."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/53
 msgctxt "Gaia"
 msgid "Bless you!"
-msgstr ""
+msgstr "À tes souhaits !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/61
 msgctxt "Gaia"
 msgid "Figures you'd be from Saskatchewan, though. Place is as flat as an ironing board."
-msgstr ""
+msgstr "Ça m'étonne pas que tu viennes de la Saskatchewan, remarque. C'est plat comme une planche à repasser."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/69
 msgctxt "I, Ronaldini"
 msgid "How dare you assume that just because of my own form!"
-msgstr ""
+msgstr "Comment oses-tu supposer cela rien qu'à cause de ma forme !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/77
 msgctxt "Gaia"
 msgid "Sorry! All I know is that part of me is flat! Look! Rectangle!!!"
-msgstr ""
+msgstr "Pardon ! Tout ce que je sais, c'est qu'une partie de moi est plate ! Regarde ! Rectangle !!!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/85
 msgctxt "I, Ronaldini"
 msgid "My dear Gaia, since I have been let out of my small door, I have done some research on my homestead!"
-msgstr ""
+msgstr "Ma chère Gaia, depuis qu'on m'a laissé sortir de ma petite porte, j'ai mené quelques recherches sur mon pays natal !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/93
 msgctxt "Gaia"
 msgid "I await the prestige..."
-msgstr ""
+msgstr "J'attends le prestige..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/101
 msgctxt "I, Ronaldini"
 msgid "There exist many a dune of sand in Saskatchewan!"
-msgstr ""
+msgstr "Il existe maintes dunes de sable en Saskatchewan !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/112
 msgctxt "Gaia"
 msgid "Sand dunes?"
-msgstr ""
+msgstr "Des dunes de sable ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/120
 msgctxt "I, Ronaldini"
 msgid "Northernmost sand dunes in the world!"
-msgstr ""
+msgstr "Les dunes de sable les plus septentrionales du monde !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/128
 msgctxt "Gaia"
 msgid "I would imagine it would be difficult to clean clothes full of sand, wouldn't it?"
-msgstr ""
+msgstr "J'imagine que ça doit être difficile de nettoyer des vêtements pleins de sable, non ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/136
 msgctxt "I, Ronaldini"
 msgid "Hence leaving the world of laundry and entering the realm of magical arts!"
-msgstr ""
+msgstr "D'où mon départ du monde de la lessive pour entrer dans le royaume des arts magiques !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/144
 msgctxt "Gaia"
 msgid "Wow. Never would've guessed."
-msgstr ""
+msgstr "Wow. Jamais je l'aurais deviné."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/152
 msgctxt "I, Ronaldini"
 msgid "The more you know..."
-msgstr ""
+msgstr "Plus on en sait..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-11/168
 msgctxt "I, Ronaldini"
 msgid "I, Ronaldini away!!"
-msgstr ""
+msgstr "I, Ronaldini s'éclipse !!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/15
 msgctxt "Gaia"
 msgid "Oh, I've always wondered where Jacques was from!"
-msgstr ""
+msgstr "Oh, j'ai toujours voulu savoir d'où venait Jacques !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/29
 msgctxt "Jacques"
 msgid "Wondering about me without my permission, eh?"
-msgstr ""
+msgstr "Tu te poses des questions sur moi sans ma permission, hein ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/37
 msgctxt "Gaia"
 msgid "O-Oh, I'm sorry!"
-msgstr ""
+msgstr "O-Oh, pardon !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/45/b/1
 msgctxt "Jacques"
 msgid "Haven't we quested together somewhere before? Dark... bugs... a goddess?"
-msgstr ""
+msgstr "On n'a pas déjà fait une quête ensemble quelque part ? Du noir... des insectes... une déesse ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/45/b/9
 msgctxt "Jacques"
 msgid "You should definitely know where I'm from at any rate."
-msgstr ""
+msgstr "En tout cas, tu devrais forcément savoir d'où je viens."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/48
 msgctxt "Jacques"
 msgid "I am from the sea. My mother was a gale and my father a column of thunder!"
-msgstr ""
+msgstr "Je viens de la mer. Ma mère était un coup de vent et mon père, une colonne de tonnerre !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/64
 msgctxt "Gaia"
 msgid "But where were you assembled?"
-msgstr ""
+msgstr "Mais où as-tu été assemblé ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/80
 msgctxt "Jacques"
 msgid "Pegwell Bay. Just east of Ramsgate."
-msgstr ""
+msgstr "Pegwell Bay. Juste à l'est de Ramsgate."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/88
 msgctxt "Gaia"
 msgid "Issat where you got your peg leg?"
-msgstr ""
+msgstr "C'est là-bas que t'as décroché ta jambe de bois ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/96
 msgctxt "Jacques"
 msgid "Well, I got this peg leg from a fierce battle with the seven headed hydra known as Penelopae!"
-msgstr ""
+msgstr "Eh bien, cette jambe de bois, je la dois à un combat acharné contre l'hydre à sept têtes connue sous le nom de Penelopae !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/104
 msgctxt "Gaia"
 msgid "Sounds frightening!"
-msgstr ""
+msgstr "Ça a l'air effrayant !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/0/s/0
 msgctxt "Choix"
 msgid "Yeah... I wonder..."
-msgstr ""
+msgstr "Ouais... je me demande..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/1/s/0
 msgctxt "Choix"
 msgid "She's actually just the harmless office supplies."
-msgstr ""
+msgstr "En fait, c'est juste des fournitures de bureau inoffensives."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/c-1/7
 msgctxt "Jacques"
 msgid "Imagine! Being made of so many different types of object! Pens with their stabbing and staining - paper clips morphing into phantasmagorical shapes..."
-msgstr ""
+msgstr "Imagine ! Être fait de tant de sortes d'objets différents ! Des stylos qui poignardent et qui tachent, des trombones qui se métamorphosent en formes fantasmagoriques..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/c-1/15
 msgctxt "Jacques"
 msgid "...and what sailor has ever survived an encounter with glue of such super-strength as to stick their fingers together!"
-msgstr ""
+msgstr "...et quel marin a jamais survécu à une rencontre avec une colle assez surpuissante pour lui coller les doigts ensemble !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/c-1/23
 msgctxt "Gaia"
 msgid "\"There... be... dragons... \" Got it!"
-msgstr ""
+msgstr "« Ici... il y a... des dragons... » Noté !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/0
 msgctxt "Jacques"
 msgid "And I know more about that ocean than your painted swells can ever tell!"
-msgstr ""
+msgstr "Et j'en sais plus sur cet océan que tes houles peintes ne pourront jamais en dire !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/8
 msgctxt "Gaia"
 msgid "Oh yeah? Try to out ocean-fact me!"
-msgstr ""
+msgstr "Ah ouais ? Essaie de me battre en faits sur l'océan !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/16
 msgctxt "Jacques"
 msgid "When a sailor scrubs the deck of a ship at sea, the goal is to scrub the saltwater deeper into the wood because it prevents wood eating bacteria from growing."
-msgstr ""
+msgstr "Quand un marin récure le pont d'un navire en mer, le but est d'enfoncer l'eau salée plus profond dans le bois, car cela empêche les bactéries qui mangent le bois de proliférer."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/24
 msgctxt "Jacques"
 msgid "I do all the scrubbing meself as me own crew seems to be on permanent bloody holiday."
-msgstr ""
+msgstr "Je fais tout le récurage moi-même, vu que mon propre équipage semble en vacances permanentes, bon sang."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/32
 msgctxt "Gaia"
 msgid "...okay, fair enough. Didn't know that."
-msgstr ""
+msgstr "...bon, d'accord. Je savais pas ça."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/40
 msgctxt "Gaia"
 msgid "Most of my ocean facts are about how cold and murdery it is."
-msgstr ""
+msgstr "La plupart de mes faits sur l'océan, c'est surtout qu'il est froid et meurtrier."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/51
 msgctxt "Gaia"
 msgid "And also how water in our bay's totally toxic for a long time because we dumped like 500 years of sewage into it. Whoops."
-msgstr ""
+msgstr "Pis aussi que l'eau de notre baie est toxique depuis un bail parce qu'on y a déversé genre 500 ans d'eaux usées. Oups."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-12/112/g-0/59
 msgctxt "Jacques"
 msgid "Aye, sewage - the true scourge of the seas."
-msgstr ""
+msgstr "Oui, les eaux usées : le véritable fléau des mers."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/0/s/0
 msgctxt "Choix"
 msgid "Her name is based on the word for coffee in Malaysian and Indonesian."
-msgstr ""
+msgstr "Son nom vient du mot pour « café » en malais et en indonésien."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/13
 msgctxt "Kopi"
 msgid "That's right! Coffee, or 'kopi', has a rich culture in Southeast Asia!"
-msgstr ""
+msgstr "Exactement ! Le café, ou « kopi », a une culture riche en Asie du Sud-Est !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/21
 msgctxt "Kopi"
 msgid "No matter where you are... Singapore, Malaysia, Indonesia, Thailand, Brunei... the Kopitiam is super culturally significant!"
-msgstr ""
+msgstr "Où que tu sois... Singapour, Malaisie, Indonésie, Thaïlande, Brunei... le Kopitiam est super important culturellement !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/32
 msgctxt "Gaia"
 msgid "Huh? The what??"
-msgstr ""
+msgstr "Hein ? Le quoi ??"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/43
 msgctxt "Kopi"
 msgid "Oh, Kopitiam! That's the name for coffee shops! It comes from 'kopi' from Malay and Indonesian, and 'tiam' from the word for \"shop\" in Hokkien!"
-msgstr ""
+msgstr "Oh, le Kopitiam ! C'est le nom des cafés ! Ça vient de « kopi » en malais et en indonésien, et de « tiam », le mot hokkien pour « boutique » !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/59
 msgctxt "Kopi"
 msgid "It's where people come together to really just... socialise! Whether that's to appreciate the caffeine, or to see old friends..."
-msgstr ""
+msgstr "C'est là où les gens se retrouvent pour juste... socialiser ! Que ce soit pour apprécier la caféine ou pour retrouver de vieux amis..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/67
 msgctxt "Kopi"
 msgid "Kopi isn't just about being a drink; it's about bringing together community!"
-msgstr ""
+msgstr "Kopi, ce n'est pas qu'une boisson : c'est rassembler une communauté !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/75
 msgctxt "Kopi"
 msgid "Gosh, it sounds like I'm talking in the third person, doesn't it?"
-msgstr ""
+msgstr "Mince, on dirait que je parle à la troisième personne, non ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/83
 msgctxt "Kopi"
 msgid "But it's true, Southeast Asia is really a hotpot of cultures from all walks of life!"
-msgstr ""
+msgstr "Mais c'est vrai, l'Asie du Sud-Est est un vrai melting-pot de cultures de tous horizons !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/91 gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/53
 msgctxt "Gaia"
 msgid "Mmhm."
-msgstr ""
+msgstr "Mmhm."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/99
 msgctxt "Kopi"
 msgid "Heck, people probably don't really expect me to be Singaporean."
-msgstr ""
+msgstr "Franchement, les gens s'attendent sûrement pas à ce que je sois singapourienne."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/107
 msgctxt "Kopi"
 msgid "I dunno, I think it's because I was originally assembled in Australia? Some brand called Breadville?"
-msgstr ""
+msgstr "Je sais pas, je crois que c'est parce que j'ai été assemblée à l'origine en Australie ? Une marque qui s'appelait Breadville ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-13/23/c-0/115
 msgctxt "Gaia"
 msgid "Still, what a wild factoid! Let me just write that right over Singapore on my map..."
-msgstr ""
+msgstr "Quand même, quelle anecdote dingue ! Je vais juste l'écrire par-dessus Singapour sur ma carte..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/21
 msgctxt "Miranda"
 msgid "That I am!"
-msgstr ""
+msgstr "Tout à fait !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/29
 msgctxt "Miranda"
 msgid "As the resident singer here, I want to regale you with a musical fact!"
-msgstr ""
+msgstr "En tant que chanteuse résidente, je veux vous régaler d'un fait musical !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/37
 msgctxt "Gaia"
 msgid "I like music. I like facts."
-msgstr ""
+msgstr "J'aime la musique. J'aime les faits."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/45
 msgctxt "Miranda"
 msgid "Mexico has a rich history with mariachi music."
-msgstr ""
+msgstr "Le Mexique a une riche histoire avec la musique mariachi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/61
 msgctxt "Miranda"
 msgid "The first female band to ever perform mariachi was \"Las Adelitas\"."
-msgstr ""
+msgstr "Le premier groupe féminin à avoir jamais joué du mariachi s'appelait « Las Adelitas »."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/69
 msgctxt "Miranda"
 msgid "They were named after a famous ballad, <i>La Adelita</i>, which is about a woman fighting in the Mexican Revolution."
-msgstr ""
+msgstr "Elles portaient le nom d'une célèbre ballade, <i>La Adelita</i>, qui parle d'une femme se battant pendant la Révolution mexicaine."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/77
 msgctxt "Miranda"
 msgid "<i>Adelita</i> is the nickname given to the women who fought alongside men in the Mexican Revolutionary War."
-msgstr ""
+msgstr "<i>Adelita</i> est le surnom donné aux femmes qui ont combattu aux côtés des hommes pendant la guerre révolutionnaire mexicaine."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/85
 msgctxt "Gaia"
 msgid "Ooh, <i>vive la révolution</i>!"
-msgstr ""
+msgstr "Ooh, <i>viva la rivoluzione</i> !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/96
 msgctxt "Gaia"
 msgid "...wait. That's French. I'm an idiot."
-msgstr ""
+msgstr "...attends. C'est de l'italien. Je suis nulle."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/107
 msgctxt "Miranda"
 msgid "Actually the Spanish is pretty much the same. <i>Viva la revolución.</i>"
-msgstr ""
+msgstr "En fait, l'espagnol est à peu près pareil. <i>Viva la revolución.</i>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-14/115
 msgctxt "Gaia"
 msgid "Haha! I lied! I'm a genius! A language-knowing genius!"
-msgstr ""
+msgstr "Haha ! J'ai menti ! Je suis un génie ! Un génie polyglotte !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/21
 msgctxt "Dasha"
 msgid "Did someone say the words <i>'Dasha'</i> and <i>'Russia'?!</i>"
-msgstr ""
+msgstr "Quelqu'un a dit mots <i>« Dasha »</i> et <i>« Russie » ?!</i>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/29
 msgctxt "Gaia"
 msgid "They did, yeah."
-msgstr ""
+msgstr "Ouais, c'est ça."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/37
 msgctxt "Dasha"
 msgid "Da. Well... perhaps you are hoping for Dasha to show you Russian culture of weight-lifting?"
-msgstr ""
+msgstr "Da. Alors... peut-être tu espères que Dasha te montre culture russe de l'haltérophilie ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/45
 msgctxt "Gaia"
 msgid "Just give us some fun facts."
-msgstr ""
+msgstr "Donne-nous juste des anecdotes marrantes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/53
 msgctxt "Dasha"
 msgid "Ah."
-msgstr ""
+msgstr "Ah."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/61
 msgctxt "Dasha"
 msgid "Well..."
-msgstr ""
+msgstr "Alors..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/69
 msgctxt "Dasha"
 msgid "Tell me, little globe, are you familiar with Russian Fox Experiment?"
-msgstr ""
+msgstr "Dis-moi, petit globe, tu connais expérience russe sur les renards ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/77
 msgctxt "Gaia"
 msgid "What? No. Tell me. Were they turning people into foxes?!"
-msgstr ""
+msgstr "Quoi ? Non. Raconte. Ils transformaient des gens en renards ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/85
 msgctxt "Dasha"
 msgid "No."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/93
 msgctxt "Gaia"
 msgid "Boo."
-msgstr ""
+msgstr "Bouh."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/101
 msgctxt "Gaia"
 msgid "Go on."
-msgstr ""
+msgstr "Continue."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/109
 msgctxt "Dasha"
 msgid "A Russian geneticist started experiment to see if one could domesticate foxes."
-msgstr ""
+msgstr "Un généticien russe a commencé expérience pour voir si on peut domestiquer renards."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/117
 msgctxt "Narrator"
 msgid "She pauses for effect."
-msgstr ""
+msgstr "Elle marque une pause pour l'effet."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/125
 msgctxt "Gaia"
 msgid "Well... could they?"
-msgstr ""
+msgstr "Alors... ils ont pu ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/133
 msgctxt "Dasha"
 msgid "To put it simply, yes. But it was complicated experiment."
-msgstr ""
+msgstr "Pour faire simple, oui. Mais c'était expérience compliquée."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/141
 msgctxt "Dasha"
 msgid "Scientists wanted to better understand domestication process."
-msgstr ""
+msgstr "Scientifiques voulaient mieux comprendre processus de domestication."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/149
 msgctxt "Dasha"
 msgid "They found domesticated foxes showed certain traits in common with dogs."
-msgstr ""
+msgstr "Ils ont trouvé que renards domestiqués montraient certains traits en commun avec chiens."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/157
 msgctxt "Dasha"
 msgid "For example: ears of flop, spots of many colors..."
-msgstr ""
+msgstr "Par exemple : oreilles qui pendent, taches de beaucoup de couleurs..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/165
 msgctxt "Dasha"
 msgid "One fox even had star patch on forehead! Imagine!"
-msgstr ""
+msgstr "Un renard avait même tache en étoile sur le front ! Imagine !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/173
 msgctxt "Dasha"
 msgid "A fox looking like anime heroine..."
-msgstr ""
+msgstr "Un renard qui ressemble à héroïne d'anime..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/181
 msgctxt "Gaia"
 msgid "You said it was complicated... but that sounds pretty simple!"
-msgstr ""
+msgstr "Tu as dit que c'était compliqué... mais ça a l'air tout simple !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/189
 msgctxt "Dasha"
 msgid "It is VERY complicated. I am simply good explainer."
-msgstr ""
+msgstr "C'est TRÈS compliqué. Dasha est juste bonne pour expliquer."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/197
 msgctxt "Gaia"
 msgid "So what else did they learn about domestication then?"
-msgstr ""
+msgstr "Alors, qu'est-ce qu'ils ont appris d'autre sur la domestication ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/205
 msgctxt "Dasha"
 msgid "Many things!"
-msgstr ""
+msgstr "Beaucoup de choses !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/213
 msgctxt "Gaia"
 msgid "Such as?"
-msgstr ""
+msgstr "Comme quoi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/221
 msgctxt "Dasha"
 msgid "You know... there was the... domestication..."
-msgstr ""
+msgstr "Tu sais... il y avait la... domestication..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/237
 msgctxt "Dasha"
 msgid "...is complicated."
-msgstr ""
+msgstr "...est compliquée."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/245
 msgctxt "Narrator"
 msgid "An awkward silence falls. Dasha purses her lips, then does a big, exaggerated yawn."
-msgstr ""
+msgstr "Un silence gêné s'installe. Dasha pince les lèvres, puis fait un énorme bâillement exagéré."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/253
 msgctxt "Dasha"
 msgid "Well, it's long journey to here from desk. Oh, so tired. Dasha must be going now."
-msgstr ""
+msgstr "Bon, c'est long voyage jusqu'ici depuis bureau. Oh, si fatiguée. Dasha doit partir maintenant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/264
 msgctxt "Gaia"
 msgid "Ooh, okay! That's weird!"
-msgstr ""
+msgstr "Ooh, d'accord ! C'est bizarre !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/272
 msgctxt "Gaia"
 msgid "So I guess floppy ears and stuff are just the universal pet traits, huh?"
-msgstr ""
+msgstr "Donc je suppose que les oreilles tombantes et tout ça, ce sont juste les traits universels des animaux de compagnie, hein ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/280
 msgctxt "Gaia"
 msgid "That's... not a fact I expected about Russia of all places!"
-msgstr ""
+msgstr "C'est... pas une anecdote que j'attendais sur la Russie, de tous les pays !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/288
 msgctxt "Gaia"
 msgid "Mission accomplished."
-msgstr ""
+msgstr "Mission accomplie."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-15/296
 msgctxt "Gaia"
 msgid "(Note to self: Look into buying a fox...)"
-msgstr ""
+msgstr "(Note à moi-même : me renseigner sur l'achat d'un renard...)"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/15
 msgctxt "Gaia"
 msgid "Of course! I met her in that sooty place you call a 'crawl space'."
-msgstr ""
+msgstr "Bien sûr ! Je l'ai rencontrée dans cet endroit couvert de suie que tu appelles « vide sanitaire »."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/29
 msgctxt "Rongomaiwhenua"
 msgid "Hello, my child."
-msgstr ""
+msgstr "Bonjour, mon enfant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/61
 msgctxt "Rongomaiwhenua"
 msgid "You appear to wish for me to give you some sort of 'fact'."
-msgstr ""
+msgstr "Tu sembles souhaiter que je te livre une sorte de « fait »."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/69
 msgctxt "Gaia"
 msgid "You got me."
-msgstr ""
+msgstr "Tu m'as eue."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/77
 msgctxt "Rongomaiwhenua"
 msgid "Many of my formations are beautiful in ways that only I can sense."
-msgstr ""
+msgstr "Nombre de mes formations sont belles d'une manière que moi seule peux percevoir."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/85
 msgctxt "Rongomaiwhenua"
 msgid "There is beauty in some delicately arranged constructs hundreds of meters below my surface that you may never witness."
-msgstr ""
+msgstr "Il existe une beauté dans certains ouvrages délicatement agencés, des centaines de mètres sous ma surface, que tu ne verras peut-être jamais."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/93
 msgctxt "Rongomaiwhenua"
 msgid "For your sake, I do find a certain formation called \"Queen's Head\" in what has been designated as Yehliu, Taiwan."
-msgstr ""
+msgstr "Par égard pour toi, je retiens une certaine formation nommée « Tête de la Reine », dans ce que vous avez désigné comme Yehliu, à Taïwan."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/104
 msgctxt "Rongomaiwhenua"
 msgid "Here the formation has naturally crafted a bust of one of your famous human queens, Nefertiti."
-msgstr ""
+msgstr "Là, la formation a façonné naturellement un buste de l'une de vos célèbres reines humaines, Néfertiti."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/112
 msgctxt "Rongomaiwhenua"
 msgid "Purely accidental, but worth noting nonetheless."
-msgstr ""
+msgstr "Purement accidentel, mais digne d'être noté néanmoins."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/120
 msgctxt "Gaia"
 msgid "Ooh, very cool. I've heard some cool rock facts in my day, and I'd say that one head and shoulders above the rest!"
-msgstr ""
+msgstr "Ooh, très cool. J'en ai entendu, des anecdotes de cailloux, dans ma vie, et celle-là dépasse toutes les autres d'une bonne tête !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/128
 msgctxt "Rongomaiwhenua"
 msgid "Remain well, small representation of my form."
-msgstr ""
+msgstr "Porte-toi bien, petite représentation de ma forme."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-16/145
 msgctxt "Gaia"
 msgid "I wonder if Rongomaiwhenua would be interested in my island? We do call it \"The Rock\" sometimes! Seems like it'd be in her wheelhouse."
-msgstr ""
+msgstr "Je me demande si Rongomaiwhenua serait intéressée par mon île ? On l'appelle « le Caillou » parfois ! Ça devrait être dans ses cordes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/15
 msgctxt "Gaia"
 msgid "You don't say?"
-msgstr ""
+msgstr "Sans blague ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/29
 msgctxt "Mateo"
 msgid "Did I just hear someone about to talk about textiles?"
-msgstr ""
+msgstr "Je viens d'entendre quelqu'un s'apprêter à parler de textiles ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/37
 msgctxt "Mateo"
 msgid "I am from Mexico - which has a long history of textile work... stretching back 3500 years."
-msgstr ""
+msgstr "Je viens du Mexique, qui a une longue histoire de travail textile... qui s'étire sur 3 500 ans."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/45
 msgctxt "Gaia"
 msgid "Stretching back like <i>fabric</i>!"
-msgstr ""
+msgstr "Qui s'étire, comme du <i>tissu</i> !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/61
 msgctxt "Gaia"
 msgid "I am so funny."
-msgstr ""
+msgstr "Je suis trop drôle."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/69
 msgctxt "Mateo"
 msgid "Don't worry, I love talking about fabric!"
-msgstr ""
+msgstr "T'inquiète, j'adore parler de tissu !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/77
 msgctxt "Mateo"
 msgid "Humid areas use cotton for clothing. Drier climates like Mexico use fiber from plants like yucca."
-msgstr ""
+msgstr "Les régions humides utilisent le coton pour les vêtements. Les climats plus secs, comme le Mexique, utilisent la fibre de plantes comme le yucca."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/85
 msgctxt "Gaia"
 msgid "Yucca... Why does that sound familiar...?"
-msgstr ""
+msgstr "Yucca... Pourquoi ça me dit quelque chose...?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/93
 msgctxt "Gaia"
 msgid "Oh! OH!"
-msgstr ""
+msgstr "Oh ! OH !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/101
 msgctxt "Gaia"
 msgid "Does that grow in the Yucatán Peninsula? Is that why it's called the YUCA-tán?!"
-msgstr ""
+msgstr "Ça pousse dans la péninsule du Yucatán ? C'est pour ça qu'on dit YUCA-tán ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/109
 msgctxt "Mateo"
 msgid "Hate to disappoint but... long ago some conquistadors asked the locals what their land was called and they said something that sounded like \"Yucatán\"."
-msgstr ""
+msgstr "Désolé de te décevoir, mais... il y a longtemps, des conquistadors ont demandé aux habitants comment s'appelait leur terre, et ils ont répondu quelque chose qui sonnait comme « Yucatán »."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/117
 msgctxt "Mateo"
 msgid "Which meant, \"I can't understand what you're saying.\""
-msgstr ""
+msgstr "Ce qui voulait dire : « Je ne comprends pas ce que vous dites. »"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/125
 msgctxt "Gaia"
 msgid "<i>SNORT</i> Kinda sounds like an ol' wives' tale."
-msgstr ""
+msgstr "<i>PFFT</i> Ça sent un peu la légende de grand-mère."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/133
 msgctxt "Mateo"
 msgid "<i>SNORT</i>"
-msgstr ""
+msgstr "<i>PFFT</i>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-17/141
 msgctxt "Mateo"
 msgid "Yeah, probably... still pretty funny though!"
-msgstr ""
+msgstr "Ouais, sûrement... mais c'est quand même plutôt drôle !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/15
 msgctxt "Gaia"
 msgid "And rather fetching, no?"
-msgstr ""
+msgstr "Et plutôt accrocheur, non ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/29
 msgctxt "Cabrizzio"
 msgid "I am Cabrizzio. And I am from Italia."
-msgstr ""
+msgstr "Je suis Cabrizzio. Et je viens d'Italia."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/37
 msgctxt "Gaia"
 msgid "D'ya have any facts?"
-msgstr ""
+msgstr "T'as des anecdotes ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/45
 msgctxt "Cabrizzio"
 msgid "These are all the facts I can give."
-msgstr ""
+msgstr "Ce sont toutes les anecdotes que je peux donner."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/53
 msgctxt "Cabrizzio"
 msgid "Aside from the fact that I am from Italia."
-msgstr ""
+msgstr "À part le fait que je viens d'Italia."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/61
 msgctxt "Gaia"
 msgid "Well, at least we got to hear your beautiful voice!"
-msgstr ""
+msgstr "Bon, au moins on a pu entendre ta belle voix !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/69
 msgctxt "Cabrizzio"
 msgid "Thank you for visiting, Cabrizzio..."
-msgstr ""
+msgstr "Merci de ta visite, Cabrizzio..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-18/88
 msgctxt "Gaia"
 msgid "Isn't that my line??"
-msgstr ""
+msgstr "C'est pas ma réplique, ça ??"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-19/11
 msgctxt "Gaia"
 msgid "Ah no..."
-msgstr ""
+msgstr "Ah non..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-19/19
 msgctxt "Gaia"
 msgid "Some travelers just have accents!"
-msgstr ""
+msgstr "Certains voyageurs ont juste un accent !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-19/27
 msgctxt "Gaia"
 msgid "He and Washford were cut from the same cloth..."
-msgstr ""
+msgstr "Lui et Washford sont taillés dans le même tissu..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-19/35
 msgctxt "Gaia"
 msgid "...er, metal tube."
-msgstr ""
+msgstr "...euh, le même tambour de métal."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-19/43
 msgctxt "Gaia"
 msgid "He just plays it up for the fans."
-msgstr ""
+msgstr "Il en rajoute juste pour les fans."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/21
 msgctxt "Kristof"
 msgid "Noreg!"
-msgstr ""
+msgstr "Noreg !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/29
 msgctxt "Gaia"
 msgid "Sorry?"
-msgstr ""
+msgstr "Pardon ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/37
 msgctxt "Kristof"
 msgid "...Norway."
-msgstr ""
+msgstr "...La Norvège."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/45
 msgctxt "Gaia"
 msgid "Oh I see - Noreg is the word that your brethren use to name your country!"
-msgstr ""
+msgstr "Oh, je vois : Noreg, c'est le mot que vos frères utilisent pour nommer votre pays !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/53
 msgctxt "Gaia"
 msgid "You look - fierce, Kristof. Where are you from?"
-msgstr ""
+msgstr "T'as l'air... féroce, Kristof. Tu viens d'où ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/61
 msgctxt "Kristof"
 msgid "Hell."
-msgstr ""
+msgstr "Hell."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/69
 msgctxt "Gaia"
 msgid "Oh! I didn't know that was a real place! How do you deal with all the fire and brimstone?"
-msgstr ""
+msgstr "Oh ! J'ignorais que c'était un vrai endroit ! Comment tu supportes tout ce feu et ce soufre ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/77
 msgctxt "Kristof"
 msgid "Brimstone? Are you speaking of <i>hel</i>?"
-msgstr ""
+msgstr "Du soufre ? Tu parles de <i>Hel</i> ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/85
 msgctxt "Gaia"
 msgid "No, Hell!"
-msgstr ""
+msgstr "Non, de l'Enfer !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/93
 msgctxt "Kristof"
 msgid "Hel!"
-msgstr ""
+msgstr "Hel !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/101
 msgctxt "Gaia"
 msgid "Yes, Hell?"
-msgstr ""
+msgstr "Oui, l'Enfer ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/0/s/0
 msgctxt "Choix"
 msgid "I think he's spelling it differently, Gaia."
-msgstr ""
+msgstr "Je crois qu'il l'écrit différemment, Gaia."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/7
 msgctxt "Kristof"
 msgid "Hell is the town where I was made."
-msgstr ""
+msgstr "Hell est la ville où j'ai été fabriqué."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/15
 msgctxt "Kristof"
 msgid "Hel is the place you will go when I am done with many many violences upon you."
-msgstr ""
+msgstr "Hel est l'endroit où tu iras quand j'aurai fini de te faire subir de nombreuses nombreuses violences."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/23
 msgctxt "Gaia"
 msgid "Upon me!?"
-msgstr ""
+msgstr "Sur moi !?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/34
 msgctxt "Kristof"
 msgid "How else do you think I will conquer the world if not on a globe first?"
-msgstr ""
+msgstr "Comment crois-tu que je conquerrai le monde, sinon d'abord sur un globe ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/42/0/s/0
 msgctxt "Choix"
 msgid "Uh, Kristof, Gaia is a sweetheart. There will be no conquering of her today."
-msgstr ""
+msgstr "Euh, Kristof, Gaia est un amour. Il n'y aura pas de conquête d'elle aujourd'hui."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/42/c-0/7
 msgctxt "Kristof"
 msgid "Fine. Maybe not this globe... But watch out - other representations of the world!"
-msgstr ""
+msgstr "Soit. Peut-être pas ce globe... Mais attention : les autres représentations du monde !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/42/c-0/18
 msgctxt "Gaia"
 msgid "...should I be afraid?"
-msgstr ""
+msgstr "...je devrais avoir peur ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/42/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "No, he's all the way in the gym."
-msgstr ""
+msgstr "Non, il est tout au fond, dans la salle de sport."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-20/109/c-0/42/c-0/26/c-0/7
 msgctxt "Gaia"
 msgid "Phew!"
-msgstr ""
+msgstr "Ouf !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/15
 msgctxt "Gaia"
 msgid "Oh wow, Japan?"
-msgstr ""
+msgstr "Oh wow, le Japon ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/29/b/1
 msgctxt "Gaia"
 msgid "Hero-hime is from there too!"
-msgstr ""
+msgstr "Hero-hime vient de là-bas aussi !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/29/b/9
 msgctxt "Daisuke"
 msgid "Hero-hime is from a fictional version of Japan."
-msgstr ""
+msgstr "Hero-hime vient d'une version fictive du Japon."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/29/b/20
 msgctxt "Daisuke"
 msgid "A crane game, if I am not mistaken."
-msgstr ""
+msgstr "Une machine à pince, si je ne m'abuse."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/29/b/28
 msgctxt "Daisuke"
 msgid "I am from the real version of Japan."
-msgstr ""
+msgstr "Je viens de la version réelle du Japon."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/32
 msgctxt "Daisuke"
 msgid "Osaka, to be precise."
-msgstr ""
+msgstr "Osaka, pour être précis."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/40
 msgctxt "Gaia"
 msgid "Oh yes, we love precision."
-msgstr ""
+msgstr "Oh oui, on adore la précision."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/48
 msgctxt "Gaia"
 msgid "What <i>precisely</i> is it that makes Osaka special?"
-msgstr ""
+msgstr "Qu'est-ce qui rend Osaka <i>précisément</i> spéciale ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/56
 msgctxt "Daisuke"
 msgid "It is impossible to sum up Osaka in only a few words."
-msgstr ""
+msgstr "Il est impossible de résumer Osaka en quelques mots seulement."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/64
 msgctxt "Gaia"
 msgid "Could you try? This game's already over a million words as it is."
-msgstr ""
+msgstr "Tu pourrais essayer ? Ce jeu fait déjà plus d'un million de mots comme ça."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/72
 msgctxt "Daisuke"
 msgid "This game?"
-msgstr ""
+msgstr "Ce jeu ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/80
 msgctxt "Gaia"
 msgid "You know... this little game we're playin'. Spot the travelers?"
-msgstr ""
+msgstr "Tu sais... ce petit jeu auquel on joue. Repérer les voyageurs ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/88
 msgctxt "Daisuke"
 msgid "Ah. Yes. Well..."
-msgstr ""
+msgstr "Ah. Oui. Eh bien..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/96
 msgctxt "Daisuke"
 msgid "Osaka is known for its historical sites and tourist attractions."
-msgstr ""
+msgstr "Osaka est connue pour ses sites historiques et ses attractions touristiques."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/104
 msgctxt "Daisuke"
 msgid "Osaka Castle, for example, and Dotonbori."
-msgstr ""
+msgstr "Le château d'Osaka, par exemple, et Dotonbori."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/112
 msgctxt "Gaia"
 msgid "Do-ton-whatty?"
-msgstr ""
+msgstr "Do-ton-quoi ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/120
 msgctxt "Daisuke"
 msgid "Dotonbori is an area famous for its neon lights, nightlife, and the canal which shares its name."
-msgstr ""
+msgstr "Dotonbori est un quartier célèbre pour ses néons, sa vie nocturne et le canal qui partage son nom."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/128
 msgctxt "Daisuke"
 msgid "I have heard it is featured heavily in a popular video game series about the yakuza, but that is none of my business."
-msgstr ""
+msgstr "J'ai entendu dire qu'il figure en bonne place dans une célèbre série de jeux vidéo sur les yakuzas, mais cela ne me regarde pas."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/136
 msgctxt "Gaia"
 msgid "Yakuza? You mean the Japanese mafia?"
-msgstr ""
+msgstr "Yakuza ? Tu parles de la mafia japonaise ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/144
 msgctxt "Daisuke"
 msgid "None. Of. My. Business."
-msgstr ""
+msgstr "Ça. Ne. Me. Regarde. Pas."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/152
 msgctxt "Gaia"
 msgid "Right..."
-msgstr ""
+msgstr "Bon..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/163
 msgctxt "Daisuke"
 msgid "In Japan Osaka is loved for more than just heritage sites and nightlife."
-msgstr ""
+msgstr "Au Japon, Osaka est aimée pour bien plus que ses sites patrimoniaux et sa vie nocturne."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/171
 msgctxt "Daisuke"
 msgid "People from Osaka have a reputation for being more friendly and nosy than those from Tokyo."
-msgstr ""
+msgstr "Les gens d'Osaka ont la réputation d'être plus amicaux et plus fouineurs que ceux de Tokyo."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/179
 msgctxt "Daisuke"
 msgid "We have become known for the manzai style of comedy, a two-person comedy act."
-msgstr ""
+msgstr "Nous sommes connus pour le manzai, un style de comédie en duo."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/187
 msgctxt "Daisuke"
 msgid "It is so closely-associated with Osaka that many manzai comedians speak with a Kansai-accent when they perform."
-msgstr ""
+msgstr "Il est si étroitement associé à Osaka que de nombreux comédiens de manzai parlent avec l'accent du Kansai quand ils se produisent."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/195
 msgctxt "Gaia"
 msgid "Oh wow! Guess some accents just make things sound better."
-msgstr ""
+msgstr "Oh wow ! Je suppose que certains accents rendent juste tout plus joli."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/203
 msgctxt "Daisuke"
 msgid "I cannot speak to that."
-msgstr ""
+msgstr "Je ne saurais m'exprimer là-dessus."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/211
 msgctxt "Daisuke"
 msgid "The bottom line is that we are simply funnier than everyone else."
-msgstr ""
+msgstr "En résumé, nous sommes tout simplement plus drôles que tout le monde."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/219
 msgctxt "Gaia"
 msgid "Oh yeah... I'm just barely holdin' myself together talkin' to ya."
-msgstr ""
+msgstr "Oh ouais... j'ai du mal à rester d'une pièce en te parlant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/227
 msgctxt "Daisuke"
 msgid "Thank you."
-msgstr ""
+msgstr "Merci."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/238
 msgctxt "Gaia"
 msgid "Wonder if we could get him to put on a comedy show for us one of these nights..."
-msgstr ""
+msgstr "Je me demande si on pourrait lui faire donner un spectacle comique pour nous un de ces soirs..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-21/246
 msgctxt "Gaia"
 msgid "No, no, better not. Don't know if I could handle laughing quite so much."
-msgstr ""
+msgstr "Non, non, mieux vaut pas. Je sais pas si je supporterais de rire autant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/7
 msgctxt "Gaia"
 msgid "Aw, dang. Well, thanks for checking in."
-msgstr ""
+msgstr "Oh zut. Bon, merci d'être passé."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/15
 msgctxt "Gaia"
 msgid "Did you need any hints on where to find more travelers?"
-msgstr ""
+msgstr "T'as besoin d'indices pour trouver d'autres voyageurs ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/23/0/s/0
 msgctxt "Choix"
 msgid "Honestly, just ready to be all done with finding them!"
-msgstr ""
+msgstr "Franchement, j'ai hâte d'en avoir fini avec cette recherche !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/23/1/s/0
 msgctxt "Choix"
 msgid "Nah, I'm good."
-msgstr ""
+msgstr "Non, ça ira."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/23/2/s/0
 msgctxt "Choix"
 msgid "That could help, yeah."
-msgstr ""
+msgstr "Ça pourrait aider, oui."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/23/c-1/7
 msgctxt "Gaia"
 msgid "Okay. Good luck!"
-msgstr ""
+msgstr "D'accord. Bonne chance !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_storytime/0/gaia_storytime_start/c-22/23/c-2/7
 msgctxt "Gaia"
 msgid "I got a general sense of where they are! Let's spin me around and see who I can find!"
-msgstr ""
+msgstr "J'ai une idée générale de où ils sont ! Faisons tourner la boule pour voir qui je trouve !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/0/b/1
 msgctxt "Gaia"
 msgid "Okay!"
-msgstr ""
+msgstr "D'accord !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/0/b/9
 msgctxt "Gaia"
 msgid "... Y'know to be honest, it really hurt seein' you walk by and not so much as acknowledge me for , like, a whole week... But I s'pose what I asked you to do takes time."
-msgstr ""
+msgstr "... Tu sais, pour être honnête, ça m'a vraiment fait mal de te voir passer sans même me remarquer pendant, genre, une semaine entière... Mais j'imagine que ce que je t'ai demandé prend du temps."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/0/b/17
 msgctxt "Gaia"
 msgid "Thanks for takin' time outta your day to come back and talk to me. It means a lot."
-msgstr ""
+msgstr "Merci d'avoir pris du temps dans ta journée pour revenir me parler. Ça compte beaucoup."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/1/b/1
 msgctxt "Gaia"
 msgid "Cool, thanks again!"
-msgstr ""
+msgstr "Super, merci encore !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/4
 msgctxt "Gaia"
 msgid "Say, um... Not to be greedy, but... I’d really love to hear some more stories, if you wouldn’t mind?"
-msgstr ""
+msgstr "Dis, euh... C'est pas pour être gourmande, mais... j'adorerais entendre encore quelques histoires, si ça te dérange pas ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/12
 msgctxt "Gaia"
 msgid "Not too many, just a couple, and only if ya got the time."
-msgstr ""
+msgstr "Pas trop, juste deux ou trois, et seulement si t'as le temps."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/20
 msgctxt "Gaia"
 msgid "(Though, truth be told, I'd love as many as you could get...)"
-msgstr ""
+msgstr "(Même si, à vrai dire, j'adorerais en avoir autant que tu pourrais m'en rapporter...)"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/28
 msgctxt "Gaia"
 msgid "Please?"
-msgstr ""
+msgstr "S'il te plaît ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/36/s/0
 msgctxt "Choix"
 msgid "Sure."
-msgstr ""
+msgstr "Bien sûr."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/37/s/0
 msgctxt "Choix"
 msgid "Sorry, but I don't think I have time."
-msgstr ""
+msgstr "Pardon, mais je pense pas avoir le temps."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/38/s/0
 msgctxt "Choix"
 msgid "Just being real, you're bugged out and I'm trying to Realize other characters."
-msgstr ""
+msgstr "Je te le dis franchement, tu pètes un câble et moi j'essaie de Réaliser d'autres personnages."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_request/0/c-0/7
 msgctxt "Gaia"
 msgid "Aw, you're the best! Thanks, muh lover!"
-msgstr ""
+msgstr "Aww, t'es un amour ! Merci, mon coeur !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/60/b/1
 msgctxt "Gaia"
 msgid "W-Whoa! That's... that's all of 'em! You talked to all of them! I don't even know HOW I know... but I do!"
-msgstr ""
+msgstr "W-Ouah ! C'est... c'est tous ! Tu leur as parlé à tous ! Je sais même pas COMMENT je le sais... mais je le sais !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/60/b/12
 msgctxt "Gaia"
 msgid "T-Thank you... It really means the world to me."
-msgstr ""
+msgstr "M-Merci... Ça représente le monde entier pour moi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/60/b/23
 msgctxt "Gaia"
 msgid "Here, take me favorite book. Around the World in 80 Days."
-msgstr ""
+msgstr "Tiens, prends mon livre préféré. Le Tour du monde en 80 jours."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/60/b/34
 msgctxt "Gaia"
 msgid "You did it yourself in less than half the time Phineas did."
-msgstr ""
+msgstr "Tu l'as fait toi-même en moins de la moitié du temps de Phileas."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/63/b/1
 msgctxt "Gaia"
 msgid "Oh, what's this now? Aw... love, you didn't have to go and do all that for me."
-msgstr ""
+msgstr "Oh, c'est quoi, ça ? Aww... mon coeur, t'avais pas à faire tout ça pour moi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/63/b/9
 msgctxt "Gaia"
 msgid "Thank you. It really means the world to me."
-msgstr ""
+msgstr "Merci. Ça représente le monde entier pour moi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/66/b/1
 msgctxt "Gaia"
 msgid "This was really sweet of you. It really means the world to me."
-msgstr ""
+msgstr "C'était vraiment adorable de ta part. Ça représente le monde entier pour moi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/69
 msgctxt "Gaia"
 msgid "My brain is actually working! I feel filled out! Completed! Fully <i>charted!</i> WA-HOO!!!"
-msgstr ""
+msgstr "Mon cerveau fonctionne vraiment ! Je me sens remplie ! Complète ! Entièrement <i>cartographiée</i> ! YOUHOU !!!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/80/s/0
 msgctxt "Choix"
 msgid "I'm so happy for you!"
-msgstr ""
+msgstr "Ça me fait super plaisir pour toi !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/81/s/0
 msgctxt "Choix"
 msgid "Go, Gaia, go!"
-msgstr ""
+msgstr "Vas-y, Gaia, vas-y !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/0
 msgctxt "Gaia"
 msgid "Wow... That's so strange."
-msgstr ""
+msgstr "Wow... C'est tellement étrange."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/11
 msgctxt "Gaia"
 msgid "I finally have a full list of places that I know I could visit... But the only place I want to be is next to you."
-msgstr ""
+msgstr "J'ai enfin une liste complète d'endroits que je sais pouvoir visiter... Mais le seul endroit où je veux être, c'est à côté de toi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/19
 msgctxt "Narrator"
 msgid "The realization of what she's just said brings a sweet flush to Gaia's freckled cheeks."
-msgstr ""
+msgstr "La prise de conscience de ce qu'elle vient de dire fait monter une douce rougeur aux joues tachetées de Gaia."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/27
 msgctxt "Gaia"
 msgid "A-Ah! Gosh, that's embarrassing! Probably shouldn't just say stuff out loud like that!"
-msgstr ""
+msgstr "A-Ah ! Mince, c'est gênant ! Je devrais pas dire des trucs comme ça à voix haute !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/35/s/0
 msgctxt "Choix"
 msgid "I'd love that, Gaia."
-msgstr ""
+msgstr "Ça me ferait super plaisir, Gaia."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/36/s/0
 msgctxt "Choix"
 msgid "Yeah... I thought we'd be better as friends?"
-msgstr ""
+msgstr "Ouais... je me disais qu'on serait mieux dans l'amitié ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-2/7
 msgctxt "Gaia"
 msgid "Thinkin' about you just makes my head spin, to be honest."
-msgstr ""
+msgstr "Penser à toi me fait tourner la tête, à vrai dire."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-2/15
 msgctxt "Gaia"
 msgid "If it's not too much trouble, would you mind bringin' me along on your next outing?"
-msgstr ""
+msgstr "Si c'est pas trop demander, ça te dérangerait de m'emmener avec toi à ta prochaine sortie ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-2/23
 msgctxt "Gaia"
 msgid "I don't care where we go! As long as I'm with you, I'll be peachy keen! Heehee!"
-msgstr ""
+msgstr "Je m'en fiche, de où on va ! Tant que je suis avec toi, je serai au top ! Hihi !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-3/7 gaia_globe/gaia_friend/0/60
 msgctxt "Gaia"
 msgid "Aw, that's alright then, you g'wan!"
-msgstr ""
+msgstr "Aw, bon, alors c'est pas grave, vas-y donc !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-3/15
 msgctxt "Gaia"
 msgid "Friends it is!"
-msgstr ""
+msgstr "Ce sera l'amitié, alors !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-3/23 gaia_globe/gaia_friend/0/76
 msgctxt "Gaia"
 msgid "My mental scrapbook is so much grander now, thanks to you! Let's take a photo."
-msgstr ""
+msgstr "Mon album mental est bien plus grandiose maintenant, grâce à toi ! Prenons une photo."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-3/31 gaia_globe/gaia_friend/0/84
 msgctxt "Narrator"
 msgid "Gaia whips out a mobile phone, snaps a photo, and tucks it back in her jacket before you can even react."
-msgstr ""
+msgstr "Gaia sort un téléphone portable, prend une photo et le range dans sa veste avant même que vous ayez pu réagir."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-3/45 gaia_globe/gaia_friend/0/95
 msgctxt "Gaia"
 msgid "<w>Cla-click!</w> There! It’s added."
-msgstr ""
+msgstr "<w>Clic-clac !</w> Voilà ! C'est ajouté."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-3/53 gaia_globe/gaia_friend/0/103
 msgctxt "Gaia"
 msgid "You think I'd be rotted bein' stuck here, but it's not too bad with your kind floatin' about, I must say."
-msgstr ""
+msgstr "Tu croirais que je pourrirais, coincée ici, mais c'est pas si mal avec vos semblables qui flottent dans le coin, faut dire."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love/0/g-0/c-3/64/0/s/0 gaia_globe/gaia_friend/0/111/s/0
 msgctxt "Choix"
 msgid "Thanks! ...I think?"
-msgstr ""
+msgstr "Merci ! ...je crois ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_friend/0/68
 msgctxt "Gaia"
 msgid "I s'pose this is enough anyways. Much better than an empty map! I can use the info you gave me as a starting point and explore from there! It's like a hint on a treasure hunt."
-msgstr ""
+msgstr "J'imagine que ça suffit, de toute façon ! Bien mieux qu'une carte vide ! Je peux utiliser ce que tu m'as donné comme point de départ et explorer à partir de là ! C'est comme un indice dans une chasse au trésor."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hate/60
 msgctxt "Gaia"
 msgid "Seriously?!"
-msgstr ""
+msgstr "Sérieusement ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hate/68
 msgctxt "Gaia"
 msgid "You've got some nerve, y'know that?!"
-msgstr ""
+msgstr "T'as du culot, tu sais ça ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hate/76
 msgctxt "Gaia"
 msgid "I'm right tilted now! 23.5 degrees, in fact!"
-msgstr ""
+msgstr "Là, je suis penchée de chez penchée ! De 23,5 degrés, en fait !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hate/84
 msgctxt "Gaia"
 msgid "Tell you what. I've got an idea: How about you pick one o' the countries on my sleeves... Then go there, and don't come back!"
-msgstr ""
+msgstr "Je vais te dire. J'ai une idée : et si tu choisissais un des pays sur mes manches... Puis que t'y ailles, et que tu reviennes pas !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hate/95 gaia_globe/globe_hatereturn/0/0
 msgctxt "Gaia"
 msgid "Hmph!"
-msgstr ""
+msgstr "Hmph !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hate/137
 msgctxt "Reggie"
 msgid "The breakup heard 'round the world."
-msgstr ""
+msgstr "La rupture dont on a entendu parler dans le monde entier."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/0
 msgctxt "Gaia"
 msgid "Welcome back, my angel! My trout!"
-msgstr ""
+msgstr "Bon retour, mon ange ! Ma truite !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/11/s/0
 msgctxt "Choix"
 msgid "Aww. I'm your angel!"
-msgstr ""
+msgstr "Aww. Je suis ton ange !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/12/s/0
 msgctxt "Choix"
 msgid "<i>Make a fish face.</i> Blub blub."
-msgstr ""
+msgstr "<i>Faire une bouche de poisson.</i> Glou glou."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/13/s/0
 msgctxt "Choix"
 msgid "I'm ready to Realize you, Gaia."
-msgstr ""
+msgstr "Je suis {{prêt|prête|prêt·e}} à te Réaliser, Gaia."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-0/7
 msgctxt "Gaia"
 msgid "And together we can fly anywhere we want! Here, pick a place!"
-msgstr ""
+msgstr "Et ensemble, on pourra voler où on veut ! Tiens, choisis un endroit !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-0/15
 msgctxt "Narrator"
 msgid "Gaia begins spinning."
-msgstr ""
+msgstr "Gaia se met à tourner."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "...poke!"
-msgstr ""
+msgstr "...tape !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-0/26/c-0/7
 msgctxt "Gaia"
 msgid "Haha! That tickles!"
-msgstr ""
+msgstr "Haha ! Ça chatouille !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/7
 msgctxt "Gaia"
 msgid "Love yer blubs. Ever think about visiting the ocean? Which coast is your favorite?"
-msgstr ""
+msgstr "J'adore tes glous. T'as déjà pensé à visiter l'océan ? Quelle côte tu préfères ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/0/s/0
 msgctxt "Choix"
 msgid "Atlantic"
-msgstr ""
+msgstr "L'Atlantique"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/1/s/0
 msgctxt "Choix"
 msgid "Pacific"
-msgstr ""
+msgstr "Le Pacifique"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/2/s/0
 msgctxt "Choix"
 msgid "I'm more of a freshwater person."
-msgstr ""
+msgstr "Je suis plutôt eau douce."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-0/7
 msgctxt "Gaia"
 msgid "Ah, nothin' like home. I could show you around the Rock! Or we could go further south, if you want. Or across the pond!"
-msgstr ""
+msgstr "Ah, y a rien de tel que chez soi. Je pourrais te faire visiter le Caillou ! Ou on pourrait aller plus au sud, si tu veux. Ou de l'autre côté de la mare !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-0/15
 msgctxt "Gaia"
 msgid "Aaaah, I'm so excited!"
-msgstr ""
+msgstr "Aaaah, je suis tellement excitée !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-1/7
 msgctxt "Gaia"
 msgid "Ooh, we could trot through one of those redwood forests! All the way up and down the ring of fire!"
-msgstr ""
+msgstr "Ooh, on pourrait sillonner une de ces forêts de séquoias ! Tout le long de la ceinture de feu !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-1/15
 msgctxt "Gaia"
 msgid "It'd be nice to go somewhere warm for a change. Had enough of that RDF."
-msgstr ""
+msgstr "Ce serait agréable d'aller dans un endroit chaud, pour changer. J'en ai assez de ce PBB."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "...RDF?"
-msgstr ""
+msgstr "...PBB ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-1/23/c-0/7
 msgctxt "Gaia"
 msgid "Rain, drizzle, and fog!"
-msgstr ""
+msgstr "Pluie, bruine et brouillard !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-1/23/c-0/15
 msgctxt "Gaia"
 msgid "Alright, there's no changin' my mind now! We'll go somewhere tropical. You and me!"
-msgstr ""
+msgstr "Bon, rien ne me fera changer d'avis maintenant ! On va dans un endroit tropical. Toi et moi !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_lovereturn/0/c-1/18/c-2/7
 msgctxt "Gaia"
 msgid "That's why you're me trout!"
-msgstr ""
+msgstr "C'est pour ça que t'es ma truite !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/0
 msgctxt "Gaia"
 msgid "Oh hey! How you makin' out?"
-msgstr ""
+msgstr "Oh, salut ! Alors, tu conclus ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/8/s/0
 msgctxt "Choix"
 msgid "E-Excuse me?"
-msgstr ""
+msgstr "P-Pardon ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/9/s/0
 msgctxt "Choix"
 msgid "Haven't made out with anyone yet."
-msgstr ""
+msgstr "J'ai conclu avec personne pour l'instant."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/10/s/0
 msgctxt "Choix"
 msgid "I've got good news - I'm ready to Realize you."
-msgstr ""
+msgstr "J'ai une bonne nouvelle : je suis {{prêt|prête|prêt·e}} à te Réaliser."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/7
 msgctxt "Gaia"
 msgid "Oh. Uh... Is everything going well with you, friend?"
-msgstr ""
+msgstr "Oh. Euh... Tout se passe bien pour toi, mon coeur ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Oh, I'm alright."
-msgstr ""
+msgstr "Oh, ça va."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/15/c-0/7
 msgctxt "Gaia"
 msgid "She comes and she goes?"
-msgstr ""
+msgstr "Ça va, ça vient ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "She does!"
-msgstr ""
+msgstr "Ça va, ça vient !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/15/c-0/15/c-0/7
 msgctxt "Gaia"
 msgid "That's all we can ask for, I s'pose."
-msgstr ""
+msgstr "C'est tout ce qu'on peut demander, j'imagine."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Yep. Well... see you around!"
-msgstr ""
+msgstr "Ouais. Bon... à plus !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Narrator"
 msgid "Gaia spins in a circle."
-msgstr ""
+msgstr "Gaia tourne en rond."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-0/15/c-0/15/c-0/15/c-0/18
 msgctxt "Gaia"
 msgid "She comes and she goes~!"
-msgstr ""
+msgstr "Ça va, ça vient~ !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-1/7
 msgctxt "Gaia"
 msgid "That's not what I meant."
-msgstr ""
+msgstr "C'est pas ce que je voulais dire."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_friendshipreturn/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Oh! Haha. Awkward. ...bye!"
-msgstr ""
+msgstr "Oh ! Haha. Gênant. ...salut !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_join/0/0
 msgctxt "Gaia"
 msgid "Wha?! Go 'way, sure!"
-msgstr ""
+msgstr "Quoi ?! Non mais sans blague !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_join/0/8
 msgctxt "Gaia"
 msgid "Seriously!? I can run around and travel on planes and boats and what-have-you?"
-msgstr ""
+msgstr "Sérieusement ?! Je peux courir partout et voyager en avion et en bateau et tout le tralala ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_join/0/16
 msgctxt "Gaia"
 msgid "I get to have LEGS?!"
-msgstr ""
+msgstr "J'ai le droit d'avoir des JAMBES ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_join/0/36/s/0
 msgctxt "Choix"
 msgid "Yes, legs!"
-msgstr ""
+msgstr "Oui, des jambes !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_join/0/37/s/0
 msgctxt "Choix"
 msgid "Or... I'd like to Realize you... but I don't have the stats yet."
-msgstr ""
+msgstr "Ou... j'aimerais te Réaliser... mais j'ai pas encore les stats."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_join/0/c-1/10
 msgctxt "Gaia"
 msgid "Aww... Okay. I'll wait right here. You got this gal excited so don't let me down!"
-msgstr ""
+msgstr "Aww... D'accord. J'attends ici. Tu m'as fait m'emballer, alors me déçois pas !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_return/0/0
 msgctxt "Gaia"
 msgid "You're back! Are you ready to Realize!?"
-msgstr ""
+msgstr "Te revoilà ! On passe à la Réalisation !?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_return/0/17/s/0
 msgctxt "Choix"
 msgid "Yes, I have what it takes now."
-msgstr ""
+msgstr "Oui, j'ai ce qu'il faut maintenant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_return/0/18/s/0
 msgctxt "Choix"
 msgid "Ah... sorry to keep doing this, but no."
-msgstr ""
+msgstr "Ah... pardon de remettre ça, mais non."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_return/0/c-1/10
 msgctxt "Gaia"
 msgid "Well quit pullin' my leg then! Aaaah, I can't take the waiting!!!"
-msgstr ""
+msgstr "Alors arrête de me faire marcher ! Aaaah, je supporte plus l'attente !!!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_return/0/c-1/18
 msgctxt "Narrator"
 msgid "Gaia spins in a circle, faster than usual..."
-msgstr ""
+msgstr "Gaia tourne en rond, plus vite que d'habitude..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_begin/0
 msgctxt "Gaia"
 msgid "Aaaah, I'm so excited! I feel like I could fly!"
-msgstr ""
+msgstr "Aaaah, je suis tellement excitée ! J'ai l'impression que je pourrais voler !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_begin/11
 msgctxt "Gaia"
 msgid "Actually, that'd be wicked. Can my human body have wings? Can I be a wing-a-ling human? Can you do that?!"
-msgstr ""
+msgstr "Franchement, ce serait énorme. Mon corps humain peut avoir des ailes ? Je peux être une humaine à ailes ? Tu peux faire ça ?!"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_begin/25
 msgctxt "Skylar"
 msgid "I'm afraid not. But I'll do my best to keep that feeling intact!"
-msgstr ""
+msgstr "J'ai bien peur que non. Mais je ferai de mon mieux pour que cette sensation reste intacte !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_begin/33/b/1
 msgctxt "Skylar"
 msgid "Boy, I hope this works for our first one... Gaia deserves to see her world!"
-msgstr ""
+msgstr "Bon sang, j'espère que ça marche pour notre première... Gaia mérite de voir son monde !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_begin/36
 msgctxt "Skylar"
 msgid "Spin for us, Gaia!"
-msgstr ""
+msgstr "Tourne pour nous, Gaia !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realize_begin/47
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely a globe, becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était jadis qu'un globe devient...."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/3
 msgctxt "Gaia"
 msgid "Whoa."
-msgstr ""
+msgstr "Ouah."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/11
 msgctxt "Gaia"
 msgid "WHOA!"
-msgstr ""
+msgstr "OUAH !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/22
 msgctxt "Gaia"
 msgid "Check me out! I'm just a little guy! A little guy who fits comfortably on economy airliner seats!"
-msgstr ""
+msgstr "Regardez-moi ça ! Je suis toute petite ! Une petite qui tient confortablement sur un siège d'avion en classe éco !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/30
 msgctxt "Gaia"
 msgid "Where should I fly to first? Where should I visit?! Aaaah, I can't decide!"
-msgstr ""
+msgstr "Où je devrais aller en premier ? Qu'est-ce que je devrais visiter ?! Aaaah, je peux pas me décider !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/38
 msgctxt "Narrator"
 msgid "Gaia spins around but quickly becomes dizzy. She teeters back and forth with swirls in her eyes."
-msgstr ""
+msgstr "Gaia tourne sur elle-même mais est vite prise de vertige. Elle titube d'un côté et de l'autre, des spirales dans les yeux."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/46
 msgctxt "Gaia"
 msgid "WaaaAaaAaah... If I do that again I'm gonna lose me lunch."
-msgstr ""
+msgstr "OuaaAaaAaah... Si je refais ça, je vais perdre mon déjeuner."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/54
 msgctxt "Gaia"
 msgid "Gasp! I'll have lunch to lose! There's so many human things I gets to do!"
-msgstr ""
+msgstr "Oh ! J'aurai un déjeuner à perdre ! Y a tellement de trucs d'humaine à faire !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/62/s/0
 msgctxt "Choix"
 msgid "Like maybe... a little kiss?"
-msgstr ""
+msgstr "Genre... un petit bisou ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/63/s/0
 msgctxt "Choix"
 msgid "Like travel?"
-msgstr ""
+msgstr "Genre voyager ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/c-0/10
 msgctxt "Gaia"
 msgid "I would absolutely—"
-msgstr ""
+msgstr "Je veux bien, absolument—"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/c-0/18
 msgctxt "Gaia"
 msgid "<w>Urp</w> Blugh..."
-msgstr ""
+msgstr "<w>Hrp</w> Beurk..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "Maybe later when you're not in danger of puking."
-msgstr ""
+msgstr "Peut-être plus tard, quand tu risqueras plus de vomir."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "<i>Peck her on the cheek.</i>"
-msgstr ""
+msgstr "<i>Lui faire un bécot sur la joue.</i>"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/c-0/26/c-0/7
 msgctxt "Gaia"
 msgid "That! Is fair!"
-msgstr ""
+msgstr "Ça ! C'est juste !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/c-0/26/c-1/7
 msgctxt "Gaia"
 msgid "Teehee!"
-msgstr ""
+msgstr "Hihi !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_realized/0/c-0/26/c-1/18
 msgctxt "Gaia"
 msgid "You're some sweet."
-msgstr ""
+msgstr "T'es vraiment adorable."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/0
 msgctxt "Gaia"
 msgid "Okay. First thing's first! Gotta gets meself a ticket. Gotta gets meself a passport!"
-msgstr ""
+msgstr "Bon. Priorité aux priorités ! Faut que je me trouve un billet. Faut que je me trouve un passeport !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/8
 msgctxt "Gaia"
 msgid "There's no time to lose! I'm gonna get on the first bus I can find and just go. Where I end up... nobody knows!"
-msgstr ""
+msgstr "Y a pas de temps à perdre ! Je vais monter dans le premier bus que je trouve et partir, c'est tout. Où je finirai... personne le sait !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/16/s/0
 msgctxt "Choix"
 msgid "Okay, good luck."
-msgstr ""
+msgstr "D'accord, bonne chance."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/17/s/0
 msgctxt "Choix"
 msgid "Please write down my number in case you need it."
-msgstr ""
+msgstr "Note bien mon numéro, au cas où."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/g-0/0
 msgctxt "Narrator"
 msgid "Gaia salutes you. She scampers upstairs and frantically begins packing."
-msgstr ""
+msgstr "Gaia vous salue. Elle grimpe l'escalier quatre à quatre et se met frénétiquement à faire ses valises."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/g-0/8
 msgctxt "Narrator"
 msgid "Her first few months as a human are fraught with problems. Airport security doesn't take \"I used to be a piece of furniture\" as an excuse. She ends up detained more than once."
-msgstr ""
+msgstr "Ses premiers mois d'humaine sont semés d'embûches. La sécurité des aéroports n'accepte pas « J'étais un meuble avant » comme excuse. Elle finit retenue plus d'une fois."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/g-0/16
 msgctxt "Narrator"
 msgid "However, within the year Gaia begins her globetrotting journey."
-msgstr ""
+msgstr "Cependant, avant la fin de l'année, Gaia commence son périple de globe-trotteuse."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/g-0/24
 msgctxt "Narrator"
 msgid "She always travels light, but never forgets to bring her scrapbook which contains hundreds of pages of photos, postcards, restaurant menus, tickets, and anything else she can catalogue."
-msgstr ""
+msgstr "Elle voyage toujours léger, mais n'oublie jamais son album, qui contient des centaines de pages de photos, de cartes postales, de menus de restaurants, de billets et de tout ce qu'elle peut cataloguer d'autre."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/g-0/32
 msgctxt "Narrator"
 msgid "Whenever you plan a trip, Gaia is the first one you call. She always knows the best spots."
-msgstr ""
+msgstr "Chaque fois que vous prévoyez un voyage, Gaia est la première que vous appelez. Elle connaît toujours les meilleurs endroits."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/g-0/40
 msgctxt "Narrator"
 msgid "And whenever you disembark at the airport, she's always waiting for you at the baggage claim."
-msgstr ""
+msgstr "Et chaque fois que vous débarquez à l'aéroport, elle vous attend toujours au tapis des bagages."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_love_join/0/g-0/48
 msgctxt "Narrator"
 msgid "Even if you didn't tell her you'd be traveling."
-msgstr ""
+msgstr "Même si vous ne lui aviez pas dit que vous voyagiez."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/8
 msgctxt "Gaia"
 msgid "I'm givin' you the silent treatment! What goes around comes around."
-msgstr ""
+msgstr "Je t'applique la loi du silence ! Ce qui tourne finit par revenir."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/16/s/0
 msgctxt "Choix"
 msgid "...like a globe?"
-msgstr ""
+msgstr "...comme un globe ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/17/s/0
 msgctxt "Choix"
 msgid "Yeah... just because we might have a difference of opinion doesn't mean that we can't be friends. (USE SMARTS CANDY)"
-msgstr ""
+msgstr "Ouais... ce n'est pas parce qu'on n'est peut-être pas d'accord que l'amitié est impossible entre nous. (UTILISER UN BONBON DE SAVOIR)"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-0/7
 msgctxt "Gaia"
 msgid "Like a globe!"
-msgstr ""
+msgstr "Comme un globe !"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-1/7
 msgctxt "Gaia"
 msgid "Oh?"
-msgstr ""
+msgstr "Oh ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-1/15
 msgctxt "Gaia"
 msgid "I s'pose you're right about that."
-msgstr ""
+msgstr "J'imagine que t'as raison là-dessus."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-1/23
 msgctxt "Gaia"
 msgid "I gave you a quest, but maybe I was wrong for doin' that in the first place."
-msgstr ""
+msgstr "Je t'ai donné une quête, mais j'avais peut-être tort de le faire, au départ."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-1/31
 msgctxt "Gaia"
 msgid "...and I do appreciate you taking the time."
-msgstr ""
+msgstr "...et j'apprécie vraiment que tu y aies consacré du temps."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-1/39
 msgctxt "Gaia"
 msgid "You might not've found me the traveler stories I was looking for, but... At least I know we both have an eye for faraway places."
-msgstr ""
+msgstr "T'as peut-être pas trouvé les histoires de voyageurs que je cherchais, mais... Au moins, je sais qu'on a tous les deux un faible pour les contrées lointaines."
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-1/47/0/s/0
 msgctxt "Choix"
 msgid "Friends?"
-msgstr ""
+msgstr "Potes ?"
 
+# Traduction IA – à relire
 #: gaia_globe/globe_hatereturn/0/c-1/47/c-0/7
 msgctxt "Gaia"
 msgid "...friends."
-msgstr ""
+msgstr "...potes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_mirror/28
 msgctxt "Gaia"
 msgid "Well... Sometimes before going on a journey it can be a good idea to <b>reflect</b> on things first! Look inside so you know where you want to be on the outside."
-msgstr ""
+msgstr "Eh bien... Des fois, avant de partir en voyage, c'est une bonne idée de d'abord <b>réfléchir</b> ! Regarder à l'intérieur pour savoir où tu veux être à l'extérieur."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_mirror/39
 msgctxt "Gaia"
 msgid "Any idea where you might be able to reflect?"
-msgstr ""
+msgstr "Une idée d'où tu pourrais bien réfléchir ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_piano/28
 msgctxt "Gaia"
 msgid "Y'know, the things I've heard 'round here do tend to be little secrets!"
-msgstr ""
+msgstr "Tu sais, les choses que j'ai entendues par ici ont tendance à être des petits secrets !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_piano/36
 msgctxt "Gaia"
 msgid "So for the privacy of others, I'll be sure to say my next one <i>pianissimo</i>."
-msgstr ""
+msgstr "Alors, par respect pour l'intimité des autres, je veillerai à dire la prochaine <i>pianissimo</i>."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_piano/47
 msgctxt "Gaia"
 msgid "But not this time. Nope."
-msgstr ""
+msgstr "Mais pas cette fois. Non."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_toilet/28
 msgctxt "Gaia"
 msgid "I hear the toilet has a funny way 'a talkin'."
-msgstr ""
+msgstr "Paraît que les toilettes ont une drôle de façon de parler."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_toilet/36
 msgctxt "Gaia"
 msgid "Literally. I literally <i>hear</i> him. He's so loud."
-msgstr ""
+msgstr "Littéralement. Je l'<i>entends</i>, littéralement. Il est tellement bruyant."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_toilet/47
 msgctxt "Gaia"
 msgid "A strange way of talkin' might mean he's from outta town, if ya know what I mean. You could check there?"
-msgstr ""
+msgstr "Une drôle de façon de parler, ça peut vouloir dire qu'il vient d'ailleurs, si tu vois ce que je veux dire. Tu pourrais aller voir là-bas ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_anime/28
 msgctxt "Gaia"
 msgid "Hmm... Well, most TV comes from the US. But I know you watch anime sometimes! That's from overseas!"
-msgstr ""
+msgstr "Hmm... Bon, la plupart des séries télé viennent des États-Unis. Mais je sais que tu regardes des animés des fois ! Ça, ça vient d'outre-mer !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_anime/39
 msgctxt "Gaia"
 msgid "Don't suppose you've got any merchandise, do ya?"
-msgstr ""
+msgstr "T'aurais pas du merchandising, par hasard ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_key/28
 msgctxt "Gaia"
 msgid "Once heard a rumor about a smooth-talker who could open any kind of door. I bet that guy’s been lots of places!"
-msgstr ""
+msgstr "J'ai entendu une rumeur un jour, sur un beau parleur qui pouvait ouvrir n'importe quelle porte. Je parie que ce type a été dans plein d'endroits !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_key/36
 msgctxt "Gaia"
 msgid "Maybe even seen the whole world over, <b>lock</b>, stock, and barrel!"
-msgstr ""
+msgstr "Peut-être même qu'il a vu le monde entier d'un seul tour de <b>clé</b> !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_iron/28
 msgctxt "Gaia"
 msgid "Y'know, there used to be this magic show. The magician was supposed to be super mysterious. I wonder what ever happened to that guy?"
-msgstr ""
+msgstr "Tu sais, y avait un spectacle de magie, avant. Le magicien était censé être super mystérieux. Je me demande ce qu'il est devenu, ce gars-là ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_iron/39
 msgctxt "Gaia"
 msgid "Magicians always have names like \"El Magnifico\" or \"I'll Pull-a-Rabbit-Out-Of-a-Hat-io! Those sound foreign! Maybe he was a traveler too!"
-msgstr ""
+msgstr "Les magiciens ont toujours des noms comme « El Magnifico » ou « Je-Sors-un-Lapin-du-Chapeau-io » ! Ça sonne étranger ! Peut-être que lui aussi, c'était un voyageur !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_ship/28
 msgctxt "Gaia"
 msgid "Oh! How could I forget! Cap’n Jacques Pierrot! He's got a ship, he must’ve gone plenty of places!"
-msgstr ""
+msgstr "Oh ! Comment j'ai pu oublier ! Le capitaine Jacques Pierrot ! Il a un bateau, il a forcément été dans plein d'endroits !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_ship/39
 msgctxt "Gaia"
 msgid "He's just across the way by the chesterfield there."
-msgstr ""
+msgstr "Il est juste en face, près du divan, là."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_ship/47
 msgctxt "Gaia"
 msgid "Er... the couch. Sorry. More 'a my islander speak comin' out, haha."
-msgstr ""
+msgstr "Euh... le canapé. Pardon. Encore mon parler d'insulaire qui ressort, haha."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_coffee/28
 msgctxt "Gaia"
 msgid "Gosh... There are so many options. Before I send you runnin' all over the place, maybe you should grab a cup of coffee!"
-msgstr ""
+msgstr "Mince... Y a tellement d'options. Avant de t'envoyer courir partout, tu devrais peut-être prendre une tasse de café !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_coffee/39
 msgctxt "Gaia"
 msgid "That'll keep your brain active while you're exploring!"
-msgstr ""
+msgstr "Ça va garder ton cerveau actif pendant que tu explores !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_toaster/28
 msgctxt "Gaia"
 msgid "As me mudder used to say, \"If you wanna broaden your horizons, follow your stomach! If you don't stay well fed, pretty soon you'll be TOAST!\""
-msgstr ""
+msgstr "Comme disait ma mère : « Si tu veux élargir tes horizons, suis ton estomac ! Si tu manges pas à ta faim, bientôt tu seras GRILLÉ ! »"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_toaster/39
 msgctxt "Gaia"
 msgid "She said it exactly like that. My mom was a weird, weird lady."
-msgstr ""
+msgstr "Elle le disait exactement comme ça. Ma mère était une drôle, drôle de dame."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_blanket/28
 msgctxt "Gaia"
 msgid "You'd think anybody with an accent would be a traveler, but that's not true! Sometimes they're second or third generation and just picked it up from their parents."
-msgstr ""
+msgstr "On croirait que tous ceux qui ont un accent sont des voyageurs, mais c'est faux ! Des fois, ils sont de deuxième ou troisième génération et ils l'ont juste pris de leurs parents."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_blanket/39
 msgctxt "Gaia"
 msgid "You don't want to make any kind of <b>blanket statement</b> about anyone. I learned that the hard way."
-msgstr ""
+msgstr "Faut pas mettre tout le monde sous la même <b>couverture</b>. Je l'ai appris à la dure."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_desk/28
 msgctxt "Gaia"
 msgid "Hmmm... someone with world experience... Hard to think of someone who fits that desk-cription."
-msgstr ""
+msgstr "Hmmm... quelqu'un avec de l'expérience du monde... Dur de penser à quelqu'un qui colle à cette desk-cription."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_desk/39
 msgctxt "Gaia"
 msgid "Er. <i>Description</i>. Sorry. Bit me tongue."
-msgstr ""
+msgstr "Euh. <i>Description</i>. Pardon. Je me suis mordu la langue."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_geodes/28
 msgctxt "Gaia"
 msgid "I know this seems tricky! There are so many folks to talk to. But some of them can only be found through a magnificent quest..."
-msgstr ""
+msgstr "Je sais que ça a l'air compliqué ! Y a tellement de monde à qui parler. Mais certains ne peuvent être trouvés qu'à travers une magnifique quête..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_geodes/39
 msgctxt "Gaia"
 msgid "Try speakin' with Beau! She's great with quests."
-msgstr ""
+msgstr "Essaie de parler à Beau ! Elle est super avec les quêtes."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_cabinet/0/28
 msgctxt "Gaia"
 msgid "The cabinets... the cabinets!"
-msgstr ""
+msgstr "Les placards... les placards !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_cabinet/0/45/s/0
 msgctxt "Choix"
 msgid "Are you okay?"
-msgstr ""
+msgstr "Ça va ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_cabinet/0/c-0/7
 msgctxt "Gaia"
 msgid "It's a vision... clear as day."
-msgstr ""
+msgstr "C'est une vision... claire comme le jour."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_cabinet/0/c-0/15
 msgctxt "Gaia"
 msgid "Cabinets."
-msgstr ""
+msgstr "Placards."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_cabinet/0/c-0/26
 msgctxt "Gaia"
 msgid "Do y'know what that might mean?"
-msgstr ""
+msgstr "Tu sais ce que ça pourrait vouloir dire ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_cabinet/0/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "I should go speak with the cabinets?"
-msgstr ""
+msgstr "Je devrais aller parler aux placards ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_cabinet/0/c-0/34/c-0/7
 msgctxt "Gaia"
 msgid "...maybe.... maybe..."
-msgstr ""
+msgstr "...peut-être.... peut-être..."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_crosstrainer/28
 msgctxt "Gaia"
 msgid "Sometimes I feel like I go 'round in circles."
-msgstr ""
+msgstr "Des fois, j'ai l'impression de tourner en rond."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_crosstrainer/36
 msgctxt "Gaia"
 msgid "But you humans have these machines that let you walk forever and go nowhere!"
-msgstr ""
+msgstr "Mais vous, les humains, vous avez ces machines qui vous permettent de marcher indéfiniment sans aller nulle part !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_dishes/28
 msgctxt "Gaia"
 msgid "Sometimes I get dizzy with all these tectonic plates movin' 'round inside me."
-msgstr ""
+msgstr "Des fois, j'ai le tournis avec toutes ces plaques tectoniques qui bougent en moi."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint_dishes/36
 msgctxt "Gaia"
 msgid "But as I don't spose there's anything tectonic nearby, you'll have to do with regular ones!"
-msgstr ""
+msgstr "Mais comme y a sûrement rien de tectonique dans le coin, tu devras te contenter des assiettes ordinaires !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint2/0/0
 msgctxt "Gaia"
 msgid "Hope that helps. Sorry, I'm still a little scatterbrained!"
-msgstr ""
+msgstr "J'espère que ça aide. Pardon, j'ai encore la tête un peu en l'air !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint2/0/8/s/0
 msgctxt "Choix"
 msgid "Any other leads?"
-msgstr ""
+msgstr "D'autres pistes ?"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint2/0/9/s/0
 msgctxt "Choix"
 msgid "Thanks, I'll see what I can do."
-msgstr ""
+msgstr "Merci, je vais voir ce que je peux faire."
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_hint2/0/c-1/7 gaia_globe/gaia_seen_everyone/0/c-0/7
 msgctxt "Gaia"
 msgid "Good luck! Don't get lost!"
-msgstr ""
+msgstr "Bonne chance ! Te perds pas !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_seen_everyone/0/0
 msgctxt "Gaia"
 msgid "...whoa! That's crazy!"
-msgstr ""
+msgstr "...ouah ! C'est dingue !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_seen_everyone/0/11
 msgctxt "Gaia"
 msgid "I don't have any hints left!"
-msgstr ""
+msgstr "Je n'ai plus d'indices !"
 
+# Traduction IA – à relire
 #: gaia_globe/gaia_seen_everyone/0/19/s/0
 msgctxt "Choix"
 msgid "Okay - the hunt is on!"
-msgstr ""
+msgstr "Bon, la chasse est ouverte !"

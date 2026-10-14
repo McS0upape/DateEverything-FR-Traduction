@@ -24,10 +24,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier chaleureux, accent « du Sud » en VO rendu par un parler franc et un peu traînant ; sait aussi parler en universitaire (jargon d'archéologie, citations).
+- **Personnalité, manière de parler** : mouton de poussière, mannequin (Playbunny) et professeure titulaire à D.I.R.T. ; pin-up cultivée, sans filtre, qui n'accepte ni condescendance ni préjugés ; taquine, séductrice, sélective. Compagnon : Lint Eastwood (« Meyorp »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « honey / sugar » → « mon chou », « mon coeur », « mon sucre » (épicènes, invariables) ; « jackrabbit » → « lapinou » ; Lint Eastwood (nom inchangé) ; D.I.R.T. garde le sigle ; Dustbunny = « mouton de poussière » ; Playbunny inchangé.
+- **Exemples de répliques traduites (référence de ton)** : « Oh ! Mon Dieu, que c'est lumineux ! Tu m'as fait sursauter, mon chou ! » ; « Et tu as du charme. Pour un sac de viande plein de bestioles. » ; « Je suis professeure titulaire à D.I.R.T., mon sucre. »

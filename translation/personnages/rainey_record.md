@@ -26,10 +26,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (féminin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, argot des Années folles (flapper) ; diction de gouailleuse, élisions (« j'te », « y a pas », « m'sieur »)
+- **Personnalité, manière de parler** : fêtarde exubérante, déni total de son état (disque trop rapide / aigu depuis sa chute), s'énerve vite, très chaleureuse au fond
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : surnoms « sucre », « mon chou » (épicènes) ; « pipe down » -> « la ferme / ferme ça » ; « beat it » -> « dégage / décampe » (jeu avec le beat) ; « cut a rug » -> « se trémousser » ; « You're on the trolley » -> « T'es dans le bon wagon / t'es dans le coup » ; « wet blanket » -> « rabat-joie / éteignoir » ; argot jazz : hooch -> gnôle, giggle water -> eau de rire
+- **Exemples de répliques traduites (référence de ton)** : « Te reste pas planté là comme un éteignoir ! » ; « Allez, remue-moi ça ! » ; « Bois un coup, sucre ! »

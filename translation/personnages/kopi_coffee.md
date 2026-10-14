@@ -23,10 +23,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier chaleureux, ton de barista enthousiaste, un peu maladroit quand elle est gênée (« euh », « oh »)
+- **Personnalité, manière de parler** : énergique, soigneuse et passionnée de café, très discrète sur les secrets (garde le secret des clients), mais elle tire vite des conclusions et peut s'emballer ou s'énerver. Surnoms épicènes : « chou », « client préféré » → {{client préféré|cliente préférée|client·e préféré·e}} si besoin.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : Roofbucks (enseigne), jeux sur « beans / spill the beans » (vendre la mèche, « grain »), « warm up » (réchauffer), « Gosh » (« Oh là là »), « Hello, sunshine ». Humour de café (« café-ine », « crème »).
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Welcome to Roofbucks! The home for all your coffee needs. » → « Bienvenue chez Roofbucks ! La maison de tous vos besoins en café. »
+  - « Everyone likes coffee, darling. » → « Tout le monde aime le café, chou. »
+  - « Stay caffeinated! » → « Que la caféine soit avec toi ! »

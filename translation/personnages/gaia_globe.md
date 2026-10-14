@@ -28,10 +28,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, chaleureux, volubile ; accent terre-neuvien rendu par une touche de parler québécois/acadien (« ben », « pis », « ouais », « g'wan » = « vas-y donc », « mon coeur », « mon ange »), sans excès. Quand elle parle « plain » : français standard.
+- **Personnalité, manière de parler** : exploratrice enthousiaste, bavarde, impatiente, un peu maladroite socialement ; rêve de voyages ; adore les histoires ; s'emballe, s'excuse, fait des apartés entre parenthèses. Surnoms épicènes uniquement (« mon coeur », « l'ami », « partenaire »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : jeux de mots de géographie/cartes (Mercator, tourner en rond, « sur le gril/verrou »), « Travelers » = Voyageurs (en gras), « Speak plain » = parler clair.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Well hello adventurer! » -> « Eh ben salut, aventurier ou aventurière ! » (ou « Salut l'aventure ! »)
+  - « Speak plain, Gaia, speak plain... » -> « Parle clair, Gaia, parle clair... »
+  - « Without stories, maps're just paper. » -> « Sans histoires, une carte, c'est juste du papier. »

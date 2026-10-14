@@ -189,3 +189,15 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## dante_fireplace
 - icebreaker → brise-glace ; pickup line → réplique de drague ; The Way of the Flame → la Voie de la Flamme ; Flameo / Flueliet → Flaméo / Flamiette
+
+## kopi_coffee
+- Roofbucks (inchangé) ; Humanbucks → Humainbucks ; brew-tiful → cafébuleuse
+
+## gaia_globe
+- Travelers → Voyageurs ; Queen's Head (Yehliu) → Tête de la Reine ; RDF → PBB (Pluie, Bruine, Brouillard) ; crane game → machine à pince
+
+## dolly_dust
+- Dustonians → Poussiériens ; D.I.R.T. → Département Interne de Recherche et de Technologie ; Lint Eastwood (inchangé, masc.) ; Velveteen Gemstone → la Gemme Veloutée
+
+## rainey_record
+- Giggle Water → Eau de Rire ; Talc Capone (inchangé) ; Phillips head → « Phillips » (gag « Philippe »)
