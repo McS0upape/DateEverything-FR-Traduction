@@ -26,10 +26,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (féminin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : très familier, « valley girl » diva ; abus de « genre », « trop », « grave », « oh mon dieu », MAJUSCULES d'emphase.
+- **Personnalité, manière de parler** : baignoire princesse, reine du clean, superficielle et dramatique, accro aux ragots, secrètement seule (FOMO). Surnoms au joueur : « mon cœur », « toi », jamais de genre ; « Sheba » / « Rebbie » restent tels quels.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « queen of clean » → « reine du clean » ; « HBIC » reste en anglais ; « goss / hot tea » → ragots / thé bien chaud.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Oh my god, it's about time you showed up! » → « Oh mon dieu, il était temps que tu te pointes ! »
+  - « And I'm priceless! » → « Et moi, je n'ai pas de prix ! »
+  - « Boy, was that a flop. » → « Mamma mia, quel bide. »

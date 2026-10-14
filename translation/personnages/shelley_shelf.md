@@ -23,10 +23,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle.
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie.
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, copain de salle de sport, hyper enthousiaste ; beaucoup de répliques en MAJUSCULES (cris de joie forcée), argot (« mec », « frérot », « grave », « trop bien »), gros mots quand elle craque (« putain »).
+- **Personnalité, manière de parler** : étagère musclée, ancienne sportive, coeur d'or, positivité toxique qui masque une peur panique de tomber (mal fixée au mur : pas de chevilles, vissée directement dans le placo). Débite, se reprend, panique, change de sujet. Appelle le joueur ou la joueuse par des surnoms de pote : variantes selon le genre (mec / meuf / pote ; frérot / soeurette / potomigo).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : jeux de mots d'étagère et de bricolage (« supporter », « tenir bon », « placo », « chevilles », « montants », « support ») ; « Aww DRYWALL » -> « Aww PLACO » ; « carpe that diem » -> « carpe-diemer » ; « talkin' shelf » -> « causer étagère » ; « Swolebrarian » -> « Bibliobaraque » ; « I'm your shelves » -> « Je suis ton étagère ».
+- **Exemples de répliques traduites (référence de ton)** :
+  - « HEYYYYY! What is UP dude!? How are you?! » -> « HEYYYYY ! Quoi de NEUF mec !? Comment ça va ?! »
+  - « I'M SO OKAY I promise!! » -> « JE VAIS SUPER BIEN, je te promets !! »
+  - « It's my JOB to hold your stuff up with my amazing muscles!!! » -> « C'est mon BOULOT de porter tes affaires avec mes muscles de dingue !!! »

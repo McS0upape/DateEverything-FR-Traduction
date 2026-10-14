@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: connie_console/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "VIDEO GAME CONSOLE"
-msgstr ""
+msgstr "CONSOLE DE JEUX VIDÉO"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/6
 msgctxt "Narrator"
 msgid "The game console turns on."
-msgstr ""
+msgstr "La console de jeux s'allume."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/11
 msgctxt "Narrator"
 msgid "Team 17"
-msgstr ""
+msgstr "Team 17"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/16
 msgctxt "Narrator"
 msgid "Sassy Chap Games"
-msgstr ""
+msgstr "Sassy Chap Games"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/21
 msgctxt "Narrator"
 msgid "Moonsurgents: Resurgence"
-msgstr ""
+msgstr "Moonsurgents: Resurgence"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/32/b/1
 msgctxt "Narrator"
 msgid "This has to be the most immersive video game you've ever played. Your in-game companion is an absolute stunner, but she doesn't leave you much time to take in the sight of her."
-msgstr ""
+msgstr "Ce doit être le jeu vidéo le plus immersif auquel vous ayez jamais joué. Votre compagne virtuelle est une beauté renversante, mais elle ne vous laisse guère le temps de la contempler."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/32/b/9
 msgctxt "Narrator"
 msgid "She waves you forward, looking around as though she expects an attack to come at any moment."
-msgstr ""
+msgstr "Elle vous fait signe d'avancer, scrutant les alentours comme si une attaque pouvait surgir à tout instant."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/35/b/1
 msgctxt "Narrator"
 msgid "Here you are once again-back where you started, with your beautiful companion urging you to make a decision."
-msgstr ""
+msgstr "Vous revoici au point de départ, votre sublime compagne vous pressant de prendre une décision."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/35/b/9
 msgctxt "Narrator"
 msgid "She looks at you just the same way she did the last time... with a strange familiarity, but still not quite recognizing who you truly are."
-msgstr ""
+msgstr "Elle vous regarde exactement comme la dernière fois... avec une étrange familiarité, sans toutefois reconnaître tout à fait qui vous êtes vraiment."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/38
 msgctxt "Luna"
 msgid "You're here! I didn't think you'd make it back."
-msgstr ""
+msgstr "Tu es là ! Je pensais pas que tu reviendrais."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/52
 msgctxt "Luna"
 msgid "Which way do you want to go?"
-msgstr ""
+msgstr "Par où tu veux aller ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/60/s/0
 msgctxt "Choix"
 msgid "Wait - we've definitely met. Don't you remember?"
-msgstr ""
+msgstr "Attends, on s'est déjà rencontrés. Tu t'en souviens pas ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/61/s/0 connie_console/connie_encounter_three/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "Lingonberries!"
-msgstr ""
+msgstr "Airelles !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/62/s/0
 msgctxt "Choix"
 msgid "Uh... what?"
-msgstr ""
+msgstr "Euh... quoi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/63/s/0
 msgctxt "Choix"
 msgid "You're being very forward... do you think we've met or something?"
-msgstr ""
+msgstr "Tu y vas fort... tu crois qu'on se connaît ou quoi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/64/s/0 connie_console/connie_love_return/0/33/s/0 connie_console/connie_friend_return/0/33/s/0 connie_console/connie_hate_return/0/26/s/0
 msgctxt "Choix"
 msgid "Telly said Davi might have come this way?"
-msgstr ""
+msgstr "Telly a dit que Davi serait peut-être passé par là ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-2/7
 msgctxt "Luna"
 msgid "Which way do you want to go? They're coming!"
-msgstr ""
+msgstr "Par où tu veux aller ? Ils arrivent !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/7
 msgctxt "Luna"
 msgid "Of course we've met! We're in the middle of a huge battle for Regolith on Colony 16!"
-msgstr ""
+msgstr "Évidemment qu'on s'est rencontrés ! On est en pleine bataille pour le Régolithe sur la Colonie 16 !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/18/0/s/0
 msgctxt "Choix"
 msgid "Regolith?"
-msgstr ""
+msgstr "Le Régolithe ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/18/1/s/0
 msgctxt "Choix"
 msgid "Where?"
-msgstr ""
+msgstr "Où ça ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/18/2/s/0
 msgctxt "Choix"
 msgid "Yeah, let's battle!"
-msgstr ""
+msgstr "Ouais, battons-nous !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/18/c-0/7
 msgctxt "Luna"
 msgid "The prime resource of our times? What... have you been living under a drock?"
-msgstr ""
+msgstr "La ressource essentielle de notre époque ? Quoi... t'as vécu sous un drok ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/18/c-1/7
 msgctxt "Luna"
 msgid "The moon, goolie! We were born here."
-msgstr ""
+msgstr "La lune, pote ! C'est ici qu'on est nés."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/18/c-1/15
 msgctxt "Luna"
 msgid "You been doing too much scruzz... I swear."
-msgstr ""
+msgstr "Tu abuses du scruzz, je te jure."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-3/18/c-2/7
 msgctxt "Luna"
 msgid "Phew, had me scared for a second yail."
-msgstr ""
+msgstr "Ouf, j'ai eu peur une seconde, pote."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/c-4/7 connie_console/connie_love_return/0/c-3/7 connie_console/connie_friend_return/0/c-3/7 connie_console/connie_hate_return/0/c-2/7
 msgctxt "Narrator"
 msgid "She ignores you entirely."
-msgstr ""
+msgstr "Elle vous ignore complètement."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/0
 msgctxt "Luna"
 msgid "You just equipped my zower rifle, which means that you're thinking of unloading a whole lotta zacre charges on these scroufs out here."
-msgstr ""
+msgstr "Tu viens d'équiper mon fusil zower, donc je suppose que tu comptes balancer plein de charges de zacre sur ces scroufs."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/8
 msgctxt "Luna"
 msgid "What're we gonna do?"
-msgstr ""
+msgstr "On fait quoi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/16/s/0
 msgctxt "Choix"
 msgid "Unload a whole lotta zacre charges on the scroufs."
-msgstr ""
+msgstr "Balancer plein de charges de zacre sur les scroufs."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/17/s/0
 msgctxt "Choix"
 msgid "Talk to the scroufs."
-msgstr ""
+msgstr "Parler aux scroufs."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/18/s/0
 msgctxt "Choix"
 msgid "Run away from the scroufs."
-msgstr ""
+msgstr "Fuir les scroufs."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/19/s/0
 msgctxt "Choix"
 msgid "What the fuck are scroufs?"
-msgstr ""
+msgstr "C'est quoi, putain, ces scroufs ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-5/7
 msgctxt "Luna"
 msgid "Bizorch!"
-msgstr ""
+msgstr "Bizorch !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-5/21 connie_console/connie_encounter_start/0/fps/c-6/24 connie_console/connie_encounter_start/0/fps/c-7/21 connie_console/connie_encounter_start/0/fps/c-8/35
 msgctxt "Scrouf"
 msgid "Auugh! GRaaaaah!"
-msgstr ""
+msgstr "Auugh ! GRaaaaah !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-5/35
 msgctxt "Luna"
 msgid "EAT ZACRE, WORM!"
-msgstr ""
+msgstr "BOUFFE DU ZACRE, VERMINE !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-5/49
 msgctxt "Scrouf"
 msgid "Ack! Grrrr... ...eh."
-msgstr ""
+msgstr "Ack ! Grrrr... ...bof."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-6/7
 msgctxt "Luna"
 msgid "Talk to them? Sure... I guess I'll just put my weapon down and wait for the bullets to whizz through my skull."
-msgstr ""
+msgstr "Leur parler ? Bien sûr... je vais juste poser mon arme et attendre que les balles me sifflent dans le crâne."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-6/38
 msgctxt "Luna"
 msgid "Damn. All this yapping and now we're overrun. I'm shooting!"
-msgstr ""
+msgstr "Merde. À force de papoter, on est submergés. Je tire !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-7/7
 msgctxt "Luna"
 msgid "You can't just run away! Those yails are relentless!"
-msgstr ""
+msgstr "Tu peux pas juste fuir ! Ces ordures sont increvables !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-7/35 connie_console/connie_encounter_start/0/fps/c-8/49
 msgctxt "Luna"
 msgid "Damn. All that yapping and now we're overrun. I'm shooting!"
-msgstr ""
+msgstr "Merde. À force de papoter, on est submergés. Je tire !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-8/7
 msgctxt "Luna"
 msgid "Scroufs? They're Upholders spliced in genetically from downside Novaya Moskva. Tough little freedles."
-msgstr ""
+msgstr "Les scroufs ? Des Gardiens modifiés génétiquement, venus d'en bas, de Novaya Moskva. De sacrés petits freedles."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/fps/c-8/21
 msgctxt "Luna"
 msgid "Their claws can turn into sprayer guns - real new tech that gives me the greens."
-msgstr ""
+msgstr "Leurs griffes se transforment en pulvérisateurs, une techno toute neuve qui me file les glandes."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/0
 msgctxt "Luna"
 msgid "88 charges later, that's a whole lotta scrouf carcasses. Nice haul!"
-msgstr ""
+msgstr "88 charges plus tard, ça fait un paquet de carcasses de scroufs. Beau butin !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/11
 msgctxt "Luna"
 msgid "That outta teach Selene and her goons."
-msgstr ""
+msgstr "Ça devrait servir de leçon à Selene et à sa bande."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/19
 msgctxt "Luna"
 msgid "We're near the compound of the Upholders."
-msgstr ""
+msgstr "On approche du complexe des Gardiens."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/27
 msgctxt "Luna"
 msgid "They'll have Assassin Class Upholders as well as Surveillance Class."
-msgstr ""
+msgstr "Il y aura des Gardiens de classe Assassin, et de classe Surveillance aussi."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/35
 msgctxt "Luna"
 msgid "We'll have to sneak our way in, then probably start dispatching them with utmost violence. You up for it?"
-msgstr ""
+msgstr "On va devoir s'infiltrer, puis probablement les éliminer avec la plus extrême violence. T'es partant ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/0/s/0
 msgctxt "Choix"
 msgid "Violence is wrong."
-msgstr ""
+msgstr "La violence, c'est mal."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/1/s/0
 msgctxt "Choix"
 msgid "Let's go - we got the right equipment?"
-msgstr ""
+msgstr "Allons-y, on a le bon équipement ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/2/s/0
 msgctxt "Choix"
 msgid "Is this a stealth section or something?"
-msgstr ""
+msgstr "C'est une séquence d'infiltration, ou quoi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-9/7
 msgctxt "Luna"
 msgid "Ha! You don't want violence, go play a relate-sim on your greepad."
-msgstr ""
+msgstr "Ha ! Tu veux pas de violence ? Va jouer à un simulateur de relations sur ton greepad."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-9/15
 msgctxt "Luna"
 msgid "What we've got ahead of us is lots more shootin' and killin'."
-msgstr ""
+msgstr "Ce qui nous attend, c'est encore plus de tirs et de morts."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-9/23/0/s/0
 msgctxt "Choix"
 msgid "Okay... carry on with the killin'."
-msgstr ""
+msgstr "D'accord... continue de tuer."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-9/23/1/s/0
 msgctxt "Choix"
 msgid "Not my style. But I can change you. Trust me."
-msgstr ""
+msgstr "Pas mon style. Mais je peux te changer. Fais-moi confiance."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-9/23/c-1/7 connie_console/recipe_find/0/c-0/23/c-0/34/c-2/15
 msgctxt "Luna"
 msgid "Sure."
-msgstr ""
+msgstr "Si tu le dis."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-10/7
 msgctxt "Luna"
 msgid "You're right! I'll put on my +5 shadowsuit - it'll help us get through the sensors in there."
-msgstr ""
+msgstr "T'as raison ! Je vais enfiler ma combinaison d'ombre +5, elle nous aidera à passer les capteurs là-dedans."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-10/18
 msgctxt "Luna"
 msgid "Upholder tech is nasty."
-msgstr ""
+msgstr "La techno des Gardiens, c'est du vilain."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-0/43/c-11/7
 msgctxt "Luna"
 msgid "Yeah! Sneaky stuff!"
-msgstr ""
+msgstr "Ouais ! Du sournois !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/0
 msgctxt "Luna"
 msgid "I've found an entrance on the darkside - should be an easy way in if we just follow the marker on the map."
-msgstr ""
+msgstr "J'ai trouvé une entrée côté obscur, ça devrait être facile d'entrer si on suit le marqueur sur la carte."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "Sounds good - following!"
-msgstr ""
+msgstr "Ça marche, je te suis !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "Where are we going?"
-msgstr ""
+msgstr "On va où ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/c-13/7
 msgctxt "Luna"
 msgid "To defeat the final boss!"
-msgstr ""
+msgstr "Vaincre le boss final !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/c-13/15/0/s/0
 msgctxt "Choix"
 msgid "Who is that?"
-msgstr ""
+msgstr "C'est qui ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/c-13/15/1/s/0
 msgctxt "Choix"
 msgid "Death to the final boss!"
-msgstr ""
+msgstr "Mort au boss final !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/c-13/15/c-0/7
 msgctxt "Luna"
 msgid "Selene. She's the worst."
-msgstr ""
+msgstr "Selene. La pire."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/c-13/15/c-0/18
 msgctxt "Luna"
 msgid "She and the Upholders turned Colony 16 into a Regolith extraction facility that's gotten the local wildlife real annoyed."
-msgstr ""
+msgstr "Elle et les Gardiens ont transformé la Colonie 16 en site d'extraction de Régolithe, ce qui a bien énervé la faune locale."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/c-13/15/c-0/26
 msgctxt "Luna"
 msgid "Which is a problem when the local wildlife is 150 ft long and made of scales."
-msgstr ""
+msgstr "Ce qui pose problème quand la faune locale mesure 45 mètres de long et est couverte d'écailles."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_start/0/g-2/c-13/15/c-1/7
 msgctxt "Luna"
 msgid "Woohoo! Death!"
-msgstr ""
+msgstr "Youhou ! La mort !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/0
 msgctxt "Narrator"
 msgid "After a short walk you find yourself standing in front of a bullet-ridden metal door, way out in the middle of the cold grey landscape."
-msgstr ""
+msgstr "Après une courte marche, vous vous retrouvez devant une porte métallique criblée de balles, au beau milieu d'un paysage froid et gris."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/8
 msgctxt "Luna"
 msgid "This is the entrance I've never seen anyone use."
-msgstr ""
+msgstr "C'est l'entrée que je n'ai jamais vu personne utiliser."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/16
 msgctxt "Luna"
 msgid "With my trockpicking skills - we'll have this open in no time."
-msgstr ""
+msgstr "Avec mes talents de crochetage, on l'ouvre en deux temps trois mouvements."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/24/s/0
 msgctxt "Choix"
 msgid "Luna, tell me more about yourself."
-msgstr ""
+msgstr "Luna, parle-moi de toi."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/25/s/0
 msgctxt "Choix"
 msgid "Let's get it done."
-msgstr ""
+msgstr "Finissons-en."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/7
 msgctxt "Luna"
 msgid "Me? I'm your average member of the Resistance."
-msgstr ""
+msgstr "Moi ? Je suis une résistante ordinaire."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/15
 msgctxt "Luna"
 msgid "Maybe... above average."
-msgstr ""
+msgstr "Enfin... un peu au-dessus de la moyenne."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/23
 msgctxt "Luna"
 msgid "We fight against the Upholders who are determined to do everything in their power to druck everything up here on my Homeworld."
-msgstr ""
+msgstr "On se bat contre les Gardiens, qui sont décidés à tout faire pour druck tout ici, sur ma planète natale."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "And who am I to you?"
-msgstr ""
+msgstr "Et moi, je suis qui pour toi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "Are we sure the Upholders are the bad guys?"
-msgstr ""
+msgstr "On est sûrs que les Gardiens sont les méchants ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/31/c-0/7
 msgctxt "Luna"
 msgid "You? I always thought of you as a companion. Someone who followed me around and gave me advice."
-msgstr ""
+msgstr "Toi ? Pour moi, t'es une sorte d'acolyte : quelqu'un qui me suit partout et me donne des conseils."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/31/c-0/15
 msgctxt "Luna"
 msgid "Cute, but expendable."
-msgstr ""
+msgstr "Adorable, mais jetable."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/c-0/31/c-1/7
 msgctxt "Luna"
 msgid "Positive about that. The surroundings might be grey, but what's going on here is black and white."
-msgstr ""
+msgstr "Certaine. Le décor est peut-être gris, mais ce qui se passe ici est tout noir ou tout blanc."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/0
 msgctxt "Narrator"
 msgid "Luna picks the lock, allowing you to peer inside. You can see hallways filled with shining electronic doors off into the distance."
-msgstr ""
+msgstr "Luna crochète la serrure, ce qui vous permet de jeter un oeil à l'intérieur. Vous apercevez des couloirs remplis de portes électroniques scintillantes qui s'étirent au loin."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/8
 msgctxt "Luna"
 msgid "Here we go - Upholder central inside. I'm seeing Grunt Class Upholders, who shouldn't be too bad."
-msgstr ""
+msgstr "C'est parti : le coeur des Gardiens, juste là. Je vois des Gardiens de classe Sbire, qui ne devraient pas poser trop de problèmes."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/16
 msgctxt "Luna"
 msgid "But there will be Surveillance Class too, which can sound the alarm."
-msgstr ""
+msgstr "Mais il y aura aussi de la classe Surveillance, qui peut donner l'alerte."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "There will be an Assassin Class Upholder right around the first corridor we pass."
-msgstr ""
+msgstr "Il y aura un Gardien de classe Assassin juste après le premier couloir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "This doesn't ever go great for us."
-msgstr ""
+msgstr "Ça ne se passe jamais bien pour nous."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/26/s/0
 msgctxt "Choix"
 msgid "Sounds dangerous..."
-msgstr ""
+msgstr "Ça a l'air dangereux..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "Put on your xeno-goggles!"
-msgstr ""
+msgstr "Mets tes xéno-lunettes !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-2/7
 msgctxt "Luna"
 msgid "Hm... just knowing that isn't enough to help. They've got ultra-tech that renders them invisible to all senses."
-msgstr ""
+msgstr "Hm... le savoir ne suffit pas. Ils ont de l'ultra-techno qui les rend invisibles pour tous les sens."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-2/15
 msgctxt "Luna"
 msgid "Kraa... Can't believe that's our fate."
-msgstr ""
+msgstr "Kraa... Impossible de croire que c'est notre destin."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "So it is..."
-msgstr ""
+msgstr "Eh oui..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-2/23/1/s/0
 msgctxt "Choix"
 msgid "Why don't you put on your xeno-goggles?"
-msgstr ""
+msgstr "Pourquoi tu mets pas tes xéno-lunettes ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-2/23/c-1/11
 msgctxt "Luna"
 msgid "And leave myself open to getting killed?"
-msgstr ""
+msgstr "Et me laisser à découvert pour me faire tuer ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-2/23/c-1/19
 msgctxt "Luna"
 msgid "That tech is impressive, but not combat-ready."
-msgstr ""
+msgstr "Cette techno est impressionnante, mais pas prête pour le combat."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-3/7
 msgctxt "Luna"
 msgid "That's okay - this time will be different..."
-msgstr ""
+msgstr "C'est pas grave, cette fois sera différente..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-3/15
 msgctxt "Luna"
 msgid "I'll simply use <i>more</i> bullets."
-msgstr ""
+msgstr "Je vais simplement utiliser <i>plus</i> de balles."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-4/7
 msgctxt "Luna"
 msgid "It is. Very."
-msgstr ""
+msgstr "Oui. Tout à fait."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/7 connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/7
 msgctxt "Luna"
 msgid "Why? That will drastically reduce my combat capabilities!"
-msgstr ""
+msgstr "Pourquoi ? Ça réduirait drastiquement mes capacités de combat !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/0/s/0 connie_console/connie_love_return/0/30/s/0 connie_console/connie_friend_return/0/30/s/0
 msgctxt "Choix"
 msgid "That's what you said last time."
-msgstr ""
+msgstr "C'est ce que tu disais la dernière fois."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/1/s/0
 msgctxt "Choix"
 msgid "But if we only take out one Assassin Class Upholder, we'll be free and clear to sneak through."
-msgstr ""
+msgstr "Mais si on élimine un seul Gardien de classe Assassin, on pourra se faufiler sans problème."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/7
 msgctxt "Luna"
 msgid "It's true!"
-msgstr ""
+msgstr "C'est vrai !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "Then you said to 'Not listen to the sirop-addled junkie who said no to wearing the goggles in that timeline.'"
-msgstr ""
+msgstr "Ensuite, tu m'as dit de « ne pas écouter la droguée au sirop qui a refusé de mettre les lunettes dans cette chronologie »."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/7
 msgctxt "Luna"
 msgid "Uhh... that's me all right."
-msgstr ""
+msgstr "Euh... ça, c'est bien moi."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/15 connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/15
 msgctxt "Luna"
 msgid "Fine, I'll wear the goggles."
-msgstr ""
+msgstr "Bon, je mets les lunettes."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/23 connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/23
 msgctxt "Luna"
 msgid "But you have to tell me where our mark is."
-msgstr ""
+msgstr "Mais tu dois me dire où est notre cible."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "There was always an Assassin Class Upholder right around the first corridor we pass."
-msgstr ""
+msgstr "Il y avait toujours un Gardien de classe Assassin juste après le premier couloir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/31/c-0/7 connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/31/c-0/7 connie_console/connie_encounter_three/0/g-1/9/0 connie_console/connie_quest_true_crafting/0/crafting/0
 msgctxt "Luna"
 msgid "Got it."
-msgstr ""
+msgstr "Compris."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-0/18/c-0/31/c-0/15 connie_console/connie_quest_true_crafting/0/8
 msgctxt "Narrator"
 msgid "Luna puts on the xeno-goggles, and enters the compound cautiously."
-msgstr ""
+msgstr "Luna met les xéno-lunettes et pénètre prudemment dans le complexe."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/7
 msgctxt "Luna"
 msgid "Hmm... good point."
-msgstr ""
+msgstr "Hmm... bon argument."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/31/0/s/0 connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-1/18/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "There is always an Assassin Class Upholder right around the first corridor we pass."
-msgstr ""
+msgstr "Il y a toujours un Gardien de classe Assassin juste après le premier couloir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-0/c-5/18/c-1/31/c-0/15
 msgctxt "Narrator"
 msgid "Luna puts on the xeno-goggles and enters the compound, cautious and alert for the first sign of trouble."
-msgstr ""
+msgstr "Luna met les xéno-lunettes et entre dans le complexe, prudente et attentive au moindre signe de danger."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/0
 msgctxt "Luna"
 msgid "How do you suggest we do this?"
-msgstr ""
+msgstr "Tu proposes quoi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "As quietly as possible."
-msgstr ""
+msgstr "Le plus discrètement possible."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "Try to date one of the guards..."
-msgstr ""
+msgstr "Essaie de draguer un des gardes..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "Who cares - guns blazing!"
-msgstr ""
+msgstr "On s'en fout, flingues à fond !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/7
 msgctxt "Luna"
 msgid "Makes sense."
-msgstr ""
+msgstr "Logique."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/15/b/1
 msgctxt "Luna"
 msgid "With the shadowsuit, there's no way they'll hear us coming."
-msgstr ""
+msgstr "Avec la combinaison d'ombre, ils ne nous entendront jamais arriver."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/18
 msgctxt "Narrator"
 msgid "Using all your available grace and patience, you and Luna slowly make your way down the corridors."
-msgstr ""
+msgstr "Avec toute la grâce et toute la patience dont vous êtes capable, vous et Luna progressez lentement dans les couloirs."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/26
 msgctxt "Luna"
 msgid "<i>Close behind me, yail.</i>"
-msgstr ""
+msgstr "<i>Reste juste derrière moi, pote.</i>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/34
 msgctxt "Narrator"
 msgid "You drift past both Grunt and Surveillance Upholders with ease."
-msgstr ""
+msgstr "Vous dépassez sans peine des Gardiens Sbires et Surveillance."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/42
 msgctxt "Luna"
 msgid "<i>Good choice on the stealth... I usually prefer the part where we—</i>"
-msgstr ""
+msgstr "<i>Bon choix, la discrétion... moi, je préfère d'habitude la partie où on—</i>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/50 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/212 connie_console/connie_encounter_two/0/g-1/c-8/115
 msgctxt "Assassin Upholder"
 msgid "<w>t h e r e y o u a r e</w>"
-msgstr ""
+msgstr "<w>t e v o i l à</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/64
 msgctxt "Luna"
 msgid "<w>Oh no - Assassin!</w>"
-msgstr ""
+msgstr "<w>Oh non, un Assassin !</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/78
 msgctxt "Narrator"
 msgid "From your stealthy vantage point you can get a vague sense of what's happening."
-msgstr ""
+msgstr "Depuis votre cachette, vous ne devinez que vaguement ce qui se passe."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/83
 msgctxt "Narrator"
 msgid "A vast laser juts out from some sort of holographic human from down the end of the corridor."
-msgstr ""
+msgstr "Un immense laser jaillit d'une sorte d'humain holographique au bout du couloir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/91
 msgctxt "Narrator"
 msgid "The light engulfs Luna and renders her immobile."
-msgstr ""
+msgstr "La lumière engloutit Luna et l'immobilise."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/0/s/0 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/0/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/0/s/0
 msgctxt "Choix"
 msgid "<i>Grab Luna and run.</i>"
-msgstr ""
+msgstr "<i>Attraper Luna et courir.</i>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/1/s/0 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/1/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/1/s/0
 msgctxt "Choix"
 msgid "<i>Watch helplessly.</i>"
-msgstr ""
+msgstr "<i>Observer sans rien pouvoir faire.</i>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/7 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/7 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/7
 msgctxt "Narrator"
 msgid "Bravely, you take Luna's frozen body and crash through the remainder of the hallway."
-msgstr ""
+msgstr "Courageusement, vous prenez le corps figé de Luna et fracassez le reste du couloir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/18 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/15 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/18
 msgctxt "Narrator"
 msgid "Once she is removed from the power of the strange weapon, she hangs limply in your arms for a moment, enjoying the ride."
-msgstr ""
+msgstr "Une fois soustraite au pouvoir de l'arme étrange, elle pend mollement dans vos bras un instant, profitant du trajet."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/26/0/s/0 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/26/0/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "<i>Give her a wink and a smile...</i>"
-msgstr ""
+msgstr "<i>Lui adresser un clin d'oeil et un sourire...</i>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "<i>Continue to run like a badass.</i>"
-msgstr ""
+msgstr "<i>Continuer de courir comme une légende.</i>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-0/26/c-0/13
 msgctxt "Luna"
 msgid "Guess I don't have to whisper anymore..."
-msgstr ""
+msgstr "Je suppose que j'ai plus besoin de chuchoter..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/7 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/7 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/7
 msgctxt "Luna"
 msgid "Do... I have to... do everything... myself."
-msgstr ""
+msgstr "Faut... que je... tout faire... moi-même."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/15 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/15 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/15
 msgctxt "Narrator"
 msgid "From Luna's pockets, a small device drops, and soon the hallway is immersed in a bright yellow flash."
-msgstr ""
+msgstr "Un petit appareil tombe des poches de Luna, et bientôt le couloir est plongé dans un éclair jaune éclatant."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/23 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/23 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/23
 msgctxt "Narrator"
 msgid "The laser stops momentarily - and Luna gets to her feet after falling to the ground."
-msgstr ""
+msgstr "Le laser s'interrompt un instant, et Luna se relève après avoir chuté au sol."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-6/99/c-1/31 connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-1/31 connie_console/connie_encounter_two/0/g-1/c-8/154/c-1/31
 msgctxt "Luna"
 msgid "Follow me!"
-msgstr ""
+msgstr "Suis-moi !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/7
 msgctxt "Luna"
 msgid "Dating? Why would you do that?"
-msgstr ""
+msgstr "Draguer ? Pourquoi tu ferais ça ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/0/s/0
 msgctxt "Choix"
 msgid "Well, sometimes you meet things on your adventure and start to... have feelings for them."
-msgstr ""
+msgstr "Eh bien, parfois on rencontre des choses pendant l'aventure et on commence à... avoir des sentiments pour elles."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/7
 msgctxt "Luna"
 msgid "Do you have feelings for me?"
-msgstr ""
+msgstr "T'as des sentiments pour moi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Too early to tell."
-msgstr ""
+msgstr "Trop tôt pour le dire."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Yup."
-msgstr ""
+msgstr "Ouaip."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/0
 msgctxt "Luna"
 msgid "Interesting..."
-msgstr ""
+msgstr "Intéressant..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/8
 msgctxt "Luna"
 msgid "See, I'm more familiar with reloading, looting, and corridors, personally."
-msgstr ""
+msgstr "Moi, personnellement, je suis plus familière du rechargement, du looting et des couloirs."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/16
 msgctxt "Luna"
 msgid "But we can try this 'dating'."
-msgstr ""
+msgstr "Mais on peut essayer ce « drague »."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/24
 msgctxt "Narrator"
 msgid "Luna strides boldly up to a nearby Grunt."
-msgstr ""
+msgstr "Luna s'avance hardiment vers un Sbire proche."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/32
 msgctxt "Luna"
 msgid "Hey Grunt, wanna date?"
-msgstr ""
+msgstr "Hé, Sbire, ça te dit de sortir avec moi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/46
 msgctxt "Grunt Upholder"
 msgid "<w>WHAT</w>"
-msgstr ""
+msgstr "<w>QUOI</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/63
 msgctxt "Luna"
 msgid "You, me - go out and watch a flyck? Drive around Hanatown? Eat spaghetti and plarkton?"
-msgstr ""
+msgstr "Toi, moi, on sort voir un flyck ? On se balade dans Hanatown ? On mange des spaghettis au plarkton ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/77
 msgctxt "Grunt Upholder"
 msgid "<w>HM. YOU ARE A CUTE ONE.</w>"
-msgstr ""
+msgstr "<w>HM. TU ES MIGNONNE.</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/91
 msgctxt "Narrator"
 msgid "From the Grunt's pocket, a voice barks loudly."
-msgstr ""
+msgstr "Dans la poche du Sbire, une voix aboie."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/99
 msgctxt "Surveillance Upholder"
 msgid "Grunt! What are you doing!"
-msgstr ""
+msgstr "Sbire ! Qu'est-ce que tu fabriques !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/107
 msgctxt "Grunt Upholder"
 msgid "<w>I I I</w>"
-msgstr ""
+msgstr "<w>J J J</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/115
 msgctxt "Surveillance Upholder"
 msgid "Get her!"
-msgstr ""
+msgstr "Attrapez-la !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/123 connie_console/connie_encounter_two/0/g-1/c-8/23
 msgctxt "Luna"
 msgid "Ah bits, we've got company!"
-msgstr ""
+msgstr "Ah, zut, on a de la visite !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/137
 msgctxt "Narrator"
 msgid "Except for the smitten Grunt Upholder (who to this day still holds a candle for Luna), the hallways are swarmed with guards."
-msgstr ""
+msgstr "Hormis le Sbire fou amoureux (qui, à ce jour, en pince encore pour Luna), les couloirs grouillent de gardes."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/145 connie_console/connie_encounter_two/0/g-1/c-8/51
 msgctxt "Surveillance Upholder"
 msgid "<w>CEASE CEASE CEASE</w>"
-msgstr ""
+msgstr "<w>STOP STOP STOP</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/159 connie_console/connie_encounter_two/0/g-1/c-8/59
 msgctxt "Luna"
 msgid "Eat plasma, drights!"
-msgstr ""
+msgstr "Mangez du plasma, ordures !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/176 connie_console/connie_encounter_two/0/g-1/c-8/76
 msgctxt "Grunt Upholder"
 msgid "<w>UGH UGH UGH</w>"
-msgstr ""
+msgstr "<w>UGH UGH UGH</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/190 connie_console/connie_encounter_two/0/g-1/c-8/90
 msgctxt "Narrator"
 msgid "The battle rages through the halls as you and Luna drop guard after guard..."
-msgstr ""
+msgstr "La bataille fait rage dans les couloirs, vous et Luna abattant garde après garde..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/204 connie_console/connie_encounter_two/0/g-1/c-8/104
 msgctxt "Luna"
 msgid "Hahahahah!!"
-msgstr ""
+msgstr "Hahahahah !!"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/229 connie_console/connie_encounter_two/0/g-1/c-8/132
 msgctxt "Luna"
 msgid "Oh no... I can't see them... I can't... move..."
-msgstr ""
+msgstr "Oh non... je les vois pas... je peux plus... bouger..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/243 connie_console/connie_encounter_two/0/g-1/c-8/146
 msgctxt "Narrator"
 msgid "You can't quite tell what is happening, but a vast laser peeks from around a corner and engulfs Luna's stiffened form."
-msgstr ""
+msgstr "Vous ne comprenez pas bien ce qui se passe, mais un immense laser surgit d'un angle et engloutit Luna, raide comme un piquet."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/26/1/s/0 connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "<i>Continue running like a badass.</i>"
-msgstr ""
+msgstr "<i>Continuer de courir comme une légende.</i>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-7/15/c-0/15/g-0/251/c-0/26/c-0/13
 msgctxt "Luna"
 msgid "Is this what dating gets you? Not too bad I suppose."
-msgstr ""
+msgstr "C'est ça que ça donne, de draguer ? C'est pas si mal, je suppose."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-8/7
 msgctxt "Luna"
 msgid "Let's light this place up!"
-msgstr ""
+msgstr "On met le feu à cet endroit !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-8/15
 msgctxt "Narrator"
 msgid "After merely a few charges spring from Luna's rifle, the corridor is absolutely swarmed with guards."
-msgstr ""
+msgstr "Après quelques charges à peine tirées du fusil de Luna, le couloir grouille de gardes."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-8/37
 msgctxt "Grunt Upholder"
 msgid "<w>DROP YOUR WEAPON</w>"
-msgstr ""
+msgstr "<w>LÂCHEZ VOTRE ARME</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/g-1/c-8/154/c-0/26/c-0/14
 msgctxt "Luna"
 msgid "Not bad, yail. Not bad."
-msgstr ""
+msgstr "Pas mal, pote. Pas mal."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/runjoin/8
 msgctxt "Narrator"
 msgid "You run further through the maze-like compound and finally make it to an empty office."
-msgstr ""
+msgstr "Vous courez plus loin dans le complexe labyrinthique et atteignez enfin un bureau vide."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_two/0/runjoin/19
 msgctxt "Luna"
 msgid "Kraa... we lost a lot of gear there in the trist of battle. But at least we still have enough health to get us through to the end."
-msgstr ""
+msgstr "Kraa... on a perdu un paquet de matos dans le trist du combat. Mais on a encore assez de santé pour aller jusqu'au bout."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/0
 msgctxt "Luna"
 msgid "We're getting close..."
-msgstr ""
+msgstr "On y est presque..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/8
 msgctxt "Luna"
 msgid "You want to press on? Or should we take a crafting break?"
-msgstr ""
+msgstr "Tu veux continuer ? Ou on fait une pause artisanat ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/16/s/0
 msgctxt "Choix"
 msgid "To the boss!"
-msgstr ""
+msgstr "Au boss !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/17/s/0
 msgctxt "Choix"
 msgid "What's crafting?"
-msgstr ""
+msgstr "C'est quoi, l'artisanat ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/c-0/7 connie_console/connie_quest_true_stealth/0/g-0/c-3/63/c-0/7
 msgctxt "Luna"
 msgid "Let's go."
-msgstr ""
+msgstr "Allons-y."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/c-1/7
 msgctxt "Luna"
 msgid "We have a chance to use what's left in our inventory to make something that will help us in the final battle."
-msgstr ""
+msgstr "On peut utiliser ce qui reste dans notre inventaire pour fabriquer un truc qui nous aidera dans le combat final."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Let's get crafty..."
-msgstr ""
+msgstr "Mettons-nous à bricoler..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "That sounds boring. Let's fight the bad lady!"
-msgstr ""
+msgstr "Ça a l'air ennuyeux. Allons battre la méchante !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/c-1/15/c-1/7
 msgctxt "Luna"
 msgid "Heh. Yeah, crafting sucks."
-msgstr ""
+msgstr "Heh. Ouais, l'artisanat, c'est nul."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/0
 msgctxt "Luna"
 msgid "All right, we can craft something really special using this workbench."
-msgstr ""
+msgstr "Bon, on peut fabriquer un truc vraiment spécial avec cet établi."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/8
 msgctxt "Luna"
 msgid "This thing can take anything we've got and transform it into anything we don't."
-msgstr ""
+msgstr "Ce machin peut prendre tout ce qu'on a et le transformer en tout ce qu'on n'a pas."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Does it take compliments?"
-msgstr ""
+msgstr "Il accepte les compliments ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/18/s/0
 msgctxt "Choix"
 msgid "You're going to fight Crescentia... and Selene, you know."
-msgstr ""
+msgstr "Tu vas affronter Crescentia... et Selene, tu sais."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/19/s/0 connie_console/connie_quest_true_crafting/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "What do we have in our inventory?"
-msgstr ""
+msgstr "Qu'est-ce qu'on a dans l'inventaire ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-2/7
 msgctxt "Luna"
 msgid "Yail, I gotta say. You think I'm sputz or something?"
-msgstr ""
+msgstr "Pote, franchement. Tu me prends pour une sputz ou quoi ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-2/15
 msgctxt "Luna"
 msgid "We're still in the same timeline where I told you that! That's not gonna convince me of anything."
-msgstr ""
+msgstr "On est toujours dans la chronologie où je t'ai dit ça ! Ça va pas me convaincre."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-3/13
 msgctxt "Luna"
 msgid "Compliments?"
-msgstr ""
+msgstr "Des compliments ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-3/21/0/s/0
 msgctxt "Choix"
 msgid "Yeah, you look great. So glad I get to have you as my partner here."
-msgstr ""
+msgstr "Ouais, tu es superbe. Quelle chance de t'avoir comme partenaire."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-3/21/1/s/0
 msgctxt "Choix"
 msgid "You're the fiercest damn warrior I've ever seen! Love your moves!"
-msgstr ""
+msgstr "T'es la guerrière la plus féroce que j'aie jamais vue ! J'adore tes mouvements !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-3/21/2/s/0
 msgctxt "Choix"
 msgid "Your voice makes my insides... do things."
-msgstr ""
+msgstr "Ta voix fait des trucs à mes entrailles."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-3/21/c-0/7
 msgctxt "Luna"
 msgid "Thanks - you're not too bad yourself."
-msgstr ""
+msgstr "Merci, toi non plus t'es pas mal."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-3/21/c-1/7
 msgctxt "Luna"
 msgid "Thanks! Those moves came from years of button-mashing."
-msgstr ""
+msgstr "Merci ! Ces mouvements, c'est des années à marteler des boutons."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-3/21/c-2/7
 msgctxt "Luna"
 msgid "Oh... interesting. I will be aware of that so I don't distract you in combat."
-msgstr ""
+msgstr "Oh... intéressant. J'y ferai attention pour pas te distraire au combat."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-4/7
 msgctxt "Luna"
 msgid "Hm."
-msgstr ""
+msgstr "Hm."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-4/15
 msgctxt "Luna"
 msgid "I'm not quite sure I believe you just yet."
-msgstr ""
+msgstr "Je suis pas sûre de te croire tout de suite."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-4/23
 msgctxt "Luna"
 msgid "But noted. I'm prepared for anything."
-msgstr ""
+msgstr "Mais noté. Je suis prête à tout."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-5/7
 msgctxt "Luna"
 msgid "Not much... we got zonked by that last encounter pretty hard."
-msgstr ""
+msgstr "Pas grand-chose... la dernière rencontre nous a bien assommés."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-5/15
 msgctxt "Luna"
 msgid "One Globule, One Wood, and One Scrouf skin."
-msgstr ""
+msgstr "Un Globule, un Bois et une peau de scrouf."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-5/23/0/s/0
 msgctxt "Choix"
 msgid "What can we make with that?"
-msgstr ""
+msgstr "On peut fabriquer quoi avec ça ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-5/23/1/s/0
 msgctxt "Choix"
 msgid "Sounds dismal."
-msgstr ""
+msgstr "Lamentable."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-5/23/c-0/7
 msgctxt "Luna"
 msgid "We'll have to find out."
-msgstr ""
+msgstr "On va devoir le découvrir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-5/23/c-1/7
 msgctxt "Luna"
 msgid "Dismal? Sounds like an earther word."
-msgstr ""
+msgstr "Lamentable ? On dirait un mot de terrien."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-0/c-5/23/c-1/15
 msgctxt "Luna"
 msgid "Here on the moon we say dhismal."
-msgstr ""
+msgstr "Ici, sur la lune, on dit lamhentable."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-1/0
 msgctxt "Luna"
 msgid "Okay. Let's get started with..."
-msgstr ""
+msgstr "Bon. Commençons par..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-1/9/8 connie_console/connie_quest_true_crafting/0/crafting/8
 msgctxt "Luna"
 msgid "And then?"
-msgstr ""
+msgstr "Et ensuite ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-1/9/16/0/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/0/s/0
 msgctxt "Choix"
 msgid "One Globule."
-msgstr ""
+msgstr "Un Globule."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-1/9/16/1/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/1/s/0
 msgctxt "Choix"
 msgid "One Wood."
-msgstr ""
+msgstr "Un Bois."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-1/9/16/2/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/2/s/0
 msgctxt "Choix"
 msgid "One Scrouf skin."
-msgstr ""
+msgstr "Une peau de scrouf."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-1/9/16/3/s/0 connie_console/connie_quest_true_crafting/0/crafting/16/3/s/0
 msgctxt "Choix"
 msgid "That's it... I think."
-msgstr ""
+msgstr "C'est tout... je crois."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/0
 msgctxt "Luna"
 msgid "All right... I don't think that's gonna give us anything we really need, unfortunately."
-msgstr ""
+msgstr "Bon... j'ai bien peur que ça nous donne rien dont on ait vraiment besoin."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/8
 msgctxt "Luna"
 msgid "But there's no reason to lose hope! Lemme just put these together and..."
-msgstr ""
+msgstr "Mais pas de raison de perdre espoir ! Laisse-moi assembler tout ça et..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/16/b/5
 msgctxt "Luna"
 msgid "It's... pretty globular."
-msgstr ""
+msgstr "C'est... plutôt globuleux."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/16/b/13
 msgctxt "Luna"
 msgid "Which is always good for defense!"
-msgstr ""
+msgstr "Ce qui est toujours bon pour la défense !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/19/b/5
 msgctxt "Luna"
 msgid "The wood gives nice heft, raising our attack!"
-msgstr ""
+msgstr "Le bois donne un bon poids, ce qui augmente notre attaque !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/22/b/5
 msgctxt "Luna"
 msgid "The scrouf skin makes anything look a lot better for comfort."
-msgstr ""
+msgstr "La peau de scrouf rend n'importe quoi bien plus confortable."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/25/b/1
 msgctxt "Luna"
 msgid "Oh wait. We didn't put in anything at all. What was I thinking?"
-msgstr ""
+msgstr "Oh, attends. On n'a rien mis du tout. À quoi je pensais ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/25/b/9 connie_console/connie_quest_true_crafting/0/g-2/15/b/9
 msgctxt "Luna"
 msgid "Oh well! Worth a shot!"
-msgstr ""
+msgstr "Tant pis ! Ça valait le coup d'essayer !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_three/0/g-2/26/b/5
 msgctxt "Luna"
 msgid "We've got an amazing new piece of armor from this. That'll help us in the battle ahead!"
-msgstr ""
+msgstr "On a une nouvelle armure incroyable grâce à ça. Elle nous aidera dans la bataille qui vient !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/0
 msgctxt "Narrator"
 msgid "You and Luna make your way through the final threshold, and stop right before the entrance."
-msgstr ""
+msgstr "Vous et Luna franchissez le dernier seuil et vous arrêtez juste avant l'entrée."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/11
 msgctxt "Luna"
 msgid "Oh no... there it is."
-msgstr ""
+msgstr "Oh non... le voilà."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/19
 msgctxt "Luna"
 msgid "The horror of it all."
-msgstr ""
+msgstr "Toute l'horreur de la chose."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/27
 msgctxt "Narrator"
 msgid "The way opens up into a large Regolith cavern. Mining constructs mingle with moon rocks as the terminus of the station is reached."
-msgstr ""
+msgstr "Le passage s'ouvre sur une vaste caverne de Régolithe. Des engins miniers côtoient les roches lunaires : c'est le terminus de la station."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/32
 msgctxt "Narrator"
 msgid "But perched high on the crane next to a large glowing blue crack in the Regolith, was a well-outfitted spacer who looked just like Luna."
-msgstr ""
+msgstr "Mais perchée en haut de la grue, près d'une large fissure bleue luisante dans le Régolithe, se tenait une spatiale bien équipée qui ressemblait trait pour trait à Luna."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/46
 msgctxt "Selene"
 msgid "You came just in time for the festivities to begin..."
-msgstr ""
+msgstr "Vous arrivez juste à temps pour le début des festivités..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/54
 msgctxt "Luna"
 msgid "Selene Moonrise... Prepare to die."
-msgstr ""
+msgstr "Selene Moonrise... Prépare-toi à mourir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/71
 msgctxt "Selene"
 msgid "Luna... you'll never take Crescentia's power."
-msgstr ""
+msgstr "Luna... tu ne t'empareras jamais du pouvoir de Crescentia."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/85/s/0
 msgctxt "Choix"
 msgid "Who is Crescentia?"
-msgstr ""
+msgstr "C'est qui, Crescentia ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/86/s/0
 msgctxt "Choix"
 msgid "Who is Selene?"
-msgstr ""
+msgstr "C'est qui, Selene ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/87/s/0
 msgctxt "Choix"
 msgid "Shoot her in the face already!"
-msgstr ""
+msgstr "Tire-lui dans la figure, c'est tout !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/88/s/0
 msgctxt "Choix"
 msgid "With our extra resources - we can get this taken care of real fast."
-msgstr ""
+msgstr "Avec nos ressources en plus, on règle ça en deux temps trois mouvements."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-0/7
 msgctxt "Luna"
 msgid "Crescentia - the goddess of the moon."
-msgstr ""
+msgstr "Crescentia, la déesse de la lune."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-0/21
 msgctxt "Selene"
 msgid "We found her in 2066."
-msgstr ""
+msgstr "On l'a trouvée en 2066."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-0/35
 msgctxt "Selene"
 msgid "And next year she'll be destroyed."
-msgstr ""
+msgstr "Et l'an prochain, elle sera détruite."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-0/43
 msgctxt "Selene"
 msgid "Leaving us free to harvest."
-msgstr ""
+msgstr "Nous laissant libres de récolter."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-1/7
 msgctxt "Selene"
 msgid "Who is that with you? Some low-level peon?"
-msgstr ""
+msgstr "C'est qui, avec toi ? Un larbin de bas niveau ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-1/15
 msgctxt "Selene"
 msgid "I always send those to the drock pits."
-msgstr ""
+msgstr "Je les envoie toujours aux fosses à drok."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-1/23
 msgctxt "Luna"
 msgid "Do you need to know any more?"
-msgstr ""
+msgstr "T'as besoin d'en savoir plus ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-1/37
 msgctxt "Luna"
 msgid "We kill her."
-msgstr ""
+msgstr "On la tue."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-2/7
 msgctxt "Luna"
 msgid "Yes! What's wrong with me..."
-msgstr ""
+msgstr "Oui ! Qu'est-ce qui m'arrive..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/c-3/7
 msgctxt "Luna"
 msgid "I agree - I am Invincible!!"
-msgstr ""
+msgstr "Je suis d'accord, je suis Invincible !!"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/0
 msgctxt "Narrator"
 msgid "The glowing crack seems to swell."
-msgstr ""
+msgstr "La fissure luisante semble gonfler."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/8
 msgctxt "Luna"
 msgid "Eat charge, bitch!"
-msgstr ""
+msgstr "Mange de la charge, salope !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/19
 msgctxt "Selene"
 msgid "Hmph."
-msgstr ""
+msgstr "Hmph."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/33
 msgctxt "Narrator"
 msgid "The blue deposit of moon-rock erupts - and from the crack a monstrous creature bursts forth."
-msgstr ""
+msgstr "Le gisement bleu de roche lunaire entre en éruption, et de la fissure jaillit une créature monstrueuse."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/41
 msgctxt "Selene"
 msgid "Crescentia - go!"
-msgstr ""
+msgstr "Crescentia, va !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/49
 msgctxt "Crescentia"
 msgid "<w>KRRREEEEE!!!!</w>"
-msgstr ""
+msgstr "<w>KRRREEEEE !!!!</w>"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/63
 msgctxt "Luna"
 msgid "Auugh!"
-msgstr ""
+msgstr "Auugh !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/77/s/0
 msgctxt "Choix"
 msgid "Shoot more, harder!"
-msgstr ""
+msgstr "Tire plus, plus fort !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/78/s/0
 msgctxt "Choix"
 msgid "Use items!"
-msgstr ""
+msgstr "Utilise des objets !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/79/s/0
 msgctxt "Choix"
 msgid "360 No-scope!"
-msgstr ""
+msgstr "No-scope à 360 !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/80/s/0
 msgctxt "Choix"
 msgid "Use the power of Love, Luna! Lingonberrryyy!!!"
-msgstr ""
+msgstr "Utilise le pouvoir de l'Amour, Luna ! Airelleeees !!!"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/c-4/7
 msgctxt "Luna"
 msgid "I'm trying!"
-msgstr ""
+msgstr "J'essaie !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/c-5/7
 msgctxt "Luna"
 msgid "Take this!"
-msgstr ""
+msgstr "Prends ça !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/c-5/15
 msgctxt "Narrator"
 msgid "Luna throws an elemental grenade that blasts Crescentia's scaly hide."
-msgstr ""
+msgstr "Luna lance une grenade élémentaire qui calcine le cuir écailleux de Crescentia."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/c-6/7
 msgctxt "Luna"
 msgid "Ha! Easy!"
-msgstr ""
+msgstr "Ha ! Fastoche !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/c-7/7
 msgctxt "Luna"
 msgid "What? Love has like 0 attack."
-msgstr ""
+msgstr "Quoi ? L'Amour a genre 0 en attaque."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/c-7/15
 msgctxt "Luna"
 msgid "I choose the old standby..."
-msgstr ""
+msgstr "Je choisis la valeur sûre..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-0/c-7/23
 msgctxt "Luna"
 msgid "An unceasing burst of zacre charges."
-msgstr ""
+msgstr "Une rafale ininterrompue de charges de zacre."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/0/b/1
 msgctxt "Narrator"
 msgid "Thanks to your crafting, Luna is able to withstand the mighty force of Crescentia's power."
-msgstr ""
+msgstr "Grâce à votre artisanat, Luna parvient à résister à la puissante force de Crescentia."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/3
 msgctxt "Narrator"
 msgid "The battle is fierce, but ultimately Crescentia, and Selene, fall to the ground."
-msgstr ""
+msgstr "Le combat est féroce, mais finalement Crescentia et Selene s'effondrent."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/17
 msgctxt "Narrator"
 msgid "Presumably dead."
-msgstr ""
+msgstr "Mortes, vraisemblablement."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/25
 msgctxt "Luna"
 msgid "Wow. Did that without even a single save."
-msgstr ""
+msgstr "Wow. On a fait ça sans une seule sauvegarde."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/39
 msgctxt "Luna"
 msgid "Great job, yail. Couldn't have done it without you."
-msgstr ""
+msgstr "Beau boulot, pote. J'aurais pas pu sans toi."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/50/s/0
 msgctxt "Choix"
 msgid "I'm so glad to be there for you."
-msgstr ""
+msgstr "Ça me fait tellement plaisir d'être là pour toi."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/51/s/0
 msgctxt "Choix"
 msgid "That was fun!"
-msgstr ""
+msgstr "C'était marrant !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/52/s/0
 msgctxt "Choix"
 msgid "Could this be something more?"
-msgstr ""
+msgstr "Ça pourrait être quelque chose de plus ?"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/53/s/0
 msgctxt "Choix"
 msgid "This is the same as the other times..."
-msgstr ""
+msgstr "C'est pareil que les autres fois..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/c-8/7
 msgctxt "Luna"
 msgid "You're the best partner I could ever have asked for. You always chose the right path, unwaveringly."
-msgstr ""
+msgstr "Je n'aurais jamais pu rêver mieux comme partenaire. T'as toujours choisi la bonne voie, sans jamais faiblir."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/c-9/7
 msgctxt "Luna"
 msgid "I'm glad! I think this is fun, too!"
-msgstr ""
+msgstr "Ça me fait plaisir ! Je trouve ça marrant aussi !"
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/c-10/7
 msgctxt "Luna"
 msgid "Well..."
-msgstr ""
+msgstr "Eh bien..."
 
+# Traduction IA – à relire
 #: connie_console/connie_encounter_four/0/g-1/c-11/7
 msgctxt "Luna"
 msgid "Is it? I feel so pumped full of denahinadrine that I can't imagine we didn't alter the timeline at least a little!"
-msgstr ""
+msgstr "Vraiment ? J'ai tellement de dénahinadrine dans les veines que je vois pas comment on aurait pas modifié la chronologie, ne serait-ce qu'un peu !"
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/4
 msgctxt "Narrator"
 msgid "Luna's xeno-goggles catch a small screen dropped from Selene's grasp."
-msgstr ""
+msgstr "Les xéno-lunettes de Luna captent un petit écran échappé de la main de Selene."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/15
 msgctxt "Luna"
 msgid "Wait... Selene left something behind!"
-msgstr ""
+msgstr "Attends... Selene a laissé un truc derrière elle !"
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/23
 msgctxt "Narrator"
 msgid "Luna picks it up and turns on the display."
-msgstr ""
+msgstr "Luna le ramasse et allume l'écran."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/31
 msgctxt "Luna"
 msgid "It's the recipe for a Harmonic Stratospire!"
-msgstr ""
+msgstr "C'est la recette d'une Stratospire Harmonique !"
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/39 connie_console/harmonic_options/0/c-0/18
 msgctxt "Luna"
 msgid "The Resistance has been working on this tech for a generation - it's a way to take fractured timelines and concentrate the differences in power into a deadly beam."
-msgstr ""
+msgstr "La Résistance travaille sur cette techno depuis une génération : elle permet de prendre des chronologies fracturées et de concentrer les différences de puissance en un rayon mortel."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/50
 msgctxt "Luna"
 msgid "That beam can erase a crack in the continuum for good. And I think something about your timeline-tripping abilities and Selene's rise to power have something to do with each other."
-msgstr ""
+msgstr "Ce rayon peut effacer définitivement une faille du continuum. Et je crois que tes capacités de voyage temporel et l'ascension de Selene ont un lien."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/58/s/0
 msgctxt "Choix"
 msgid "That's great - let's make it! Let's stop Selene!"
-msgstr ""
+msgstr "Génial, fabriquons-la ! Arrêtons Selene !"
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/7
 msgctxt "Luna"
 msgid "But she's already died in this timeline."
-msgstr ""
+msgstr "Mais elle est déjà morte dans cette chronologie."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/15
 msgctxt "Luna"
 msgid "You'll have to come back... with the knowledge of the recipe."
-msgstr ""
+msgstr "Tu devras revenir... avec la connaissance de la recette."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "What is the recipe?"
-msgstr ""
+msgstr "C'est quoi, la recette ?"
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/7
 msgctxt "Luna"
 msgid "It's 4 Globules, 1 Wood, and 2 Scrouf skins. Remember it."
-msgstr ""
+msgstr "C'est 4 Globules, 1 Bois et 2 peaux de scrouf. Retiens-la."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/15
 msgctxt "Luna"
 msgid "Remember... me..."
-msgstr ""
+msgstr "Souviens-toi... de moi..."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/23
 msgctxt "Narrator"
 msgid "Luna is already beginning to fade away."
-msgstr ""
+msgstr "Luna commence déjà à s'effacer."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "I'll do it for you, my love."
-msgstr ""
+msgstr "Je le ferai pour toi, mon amour."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/34/1/s/0
 msgctxt "Choix"
 msgid "Yes, my Upholder."
-msgstr ""
+msgstr "Oui, ma Gardienne."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/34/2/s/0
 msgctxt "Choix"
 msgid "I hate you, Luna."
-msgstr ""
+msgstr "Je te déteste, Luna."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/34/c-0/7
 msgctxt "Luna"
 msgid "Thank you."
-msgstr ""
+msgstr "Merci."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/34/c-1/7
 msgctxt "Luna"
 msgid "Blood to blood - till the end."
-msgstr ""
+msgstr "Sang pour sang, jusqu'à la fin."
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/34/c-2/7
 msgctxt "Luna"
 msgid "Hah. Because I'll forget?"
-msgstr ""
+msgstr "Hah. Parce que j'oublierai ?"
 
+# Traduction IA – à relire
 #: connie_console/recipe_find/0/c-0/23/c-0/34/c-2/23
 msgctxt "Luna"
 msgid "I hate you, too."
-msgstr ""
+msgstr "Moi aussi, je te déteste."
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/0
 msgctxt "Luna"
 msgid "Lingonberries..."
-msgstr ""
+msgstr "Airelles..."
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/8
 msgctxt "Luna"
 msgid "Oh my dunes..."
-msgstr ""
+msgstr "Oh, mes dunes..."
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/16
 msgctxt "Luna"
 msgid "We've got a timeline crisis here!"
-msgstr ""
+msgstr "On a une crise temporelle !"
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/24/s/0
 msgctxt "Choix"
 msgid "Yes, you told me to say that to you last time."
-msgstr ""
+msgstr "Oui, tu m'as dit de te dire ça la dernière fois."
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/25/s/0
 msgctxt "Choix"
 msgid "I'm here to help!"
-msgstr ""
+msgstr "Je suis là pour aider !"
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/26/s/0
 msgctxt "Choix"
 msgid "Yep, and we've even done the whole conversation before where we talk about it."
-msgstr ""
+msgstr "Yep, et on a même déjà eu toute la conversation où on en parle."
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/c-0/7
 msgctxt "Luna"
 msgid "Preparation came in handy."
-msgstr ""
+msgstr "Se préparer a été utile."
 
+# Traduction IA – à relire
 #: connie_console/connie_quest_true_stealth/0/c-1/7
 msgctxt "Luna"
 msgid "Thank Snowwa you were one of the good ones."
-msgstr ""
+msgstr "Remercie Snowwa, t'étais du bon côté."
 
 #: connie_console/connie_quest_true_stealth/0/c-2/7
 msgctxt "Luna"

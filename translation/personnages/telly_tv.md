@@ -23,10 +23,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (Telly)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, bateleur de télé, argot « cool » un peu daté, très énergique
+- **Personnalité, manière de parler** : showman hyperactif qui parle en rimes et couplets approximatifs, truffe ses répliques de citations de séries et films (traduites avec la VF connue entre « »), obsédé par ses 5 000 chaînes, jaloux de Valdiviflix. Surnoms épicènes pour le joueur (mon chou, trésor, beauté, coeur, star).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : rimes internes (en français, rimes en -é, -ion, -ant), « 15 000 autres émissions », citations pop en « », « Nickel ! » pour « Noice ! », football = football américain, « tight end » = « arrière ».
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Ne touche pas à ce bouton, cinéphile, parce que mon public de studio préféré vient d'arriver ! »
+  - « Ne me dis pas quoi faire : entre nous, c'est la fin de l'affaire. »
+  - « Décroche du quotidien, libère ton esprit, et profite de 120 000 heures de programmes <i>réunis.</i> »

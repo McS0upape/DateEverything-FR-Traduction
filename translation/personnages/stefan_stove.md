@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie.
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier de cuisine pro, sec, sanguin ; il gueule en MAJUSCULES puis se radoucit.
+- **Personnalité, manière de parler** : chef de cuisine bourru au coeur tendre, perfectionniste, obsédé par la cuisine maison et le temps de cuisson ; rudoie tout le monde. Mr. Cluckles (minuteur-poule) le calme.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : champ lexical de la chaleur et de la cuisine (bouillir, déborder, mijoter, chaleur, hotte, boutons) ; Luke l'appelle « Chef » (militaire), Stefan corrige en « chef cuisinier ». Stove = cuisinière.
+- **Exemples de répliques traduites (référence de ton)** : « C'EST MA cuisine ! » ; « Désolé d'avoir débordé comme ça. » ; « Je me débrouille avec ma hotte. »

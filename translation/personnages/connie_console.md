@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (Luna, héroïne de FPS ; Connie Soul, elle aussi)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, argot de soldate de science-fiction lunaire ; jurons francs (bordel, putain) quand la VO jure. Connie Soul : plus posée, joueuse, clins d'oeil de jeu vidéo.
+- **Personnalité, manière de parler** : Luna est une résistante bravache, sarcastique, qui répète en boucle des boucles temporelles (jeu à choix, PNJ). Argot lunaire inventé à rendre par des néologismes : yail -> « pote » (épicène, adresse au joueur) ou « ordure » (insulte) ; drock -> « drok » ; zacre -> « zacre » (munitions) ; kraa -> « Kraaa » ; scruzz -> « scruzz » ; goolie -> « lunien » ; Snowwa (déesse) inchangé ; Lingonberries -> « Airelles ! ».
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : parodie de FPS (reloading, looting, corridors = recharger, looter, couloirs) ; Upholders = « Gardiens » ; scroufs = « scroufs » ; Choix répliques en italique pour les actions.
+- **Exemples de répliques traduites (référence de ton)** : « You're here! I didn't think you'd make it back. » -> « Tu es là ! Je pensais pas que tu reviendrais. » ; « Eat plasma, drights! » -> « Mangez du plasma, ordures ! »

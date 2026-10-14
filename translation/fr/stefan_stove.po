@@ -8,3302 +8,3962 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: stefan_stove/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "STOVE"
-msgstr ""
+msgstr "CUISINIÈRE"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/0
 msgctxt "Narrator"
 msgid "A burly chef stands in your kitchen, looking at you expectantly as he stirs a sauce pot. Despite his intimidating stature, there's warmth in the depths of his dark eyes."
-msgstr ""
+msgstr "Un imposant chef se tient dans votre cuisine et vous regarde d'un air plein d'attente en remuant une casserole de sauce. Malgré sa stature intimidante, il y a de la chaleur au fond de ses yeux sombres."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/8
 msgctxt "Stefan"
 msgid "You must be my new sous chef."
-msgstr ""
+msgstr "Tu dois être mon nouveau commis."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/16
 msgctxt "Stefan"
 msgid "I'm Stefan."
-msgstr ""
+msgstr "Moi, c'est Stefan."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/31
 msgctxt "Stefan"
 msgid "Are you ready for prep?"
-msgstr ""
+msgstr "Tu es {{prêt|prête|prêt·e}} pour la mise en place ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/39/s/0
 msgctxt "Choix"
 msgid "Prep?"
-msgstr ""
+msgstr "La mise en place ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/40/s/0
 msgctxt "Choix"
 msgid "I'm not here to cook."
-msgstr ""
+msgstr "Je ne suis pas là pour cuisiner."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/8
 msgctxt "Narrator"
 msgid "Stefan regards you in silence for a few long moments."
-msgstr ""
+msgstr "Stefan vous dévisage en silence pendant de longues secondes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/16
 msgctxt "Stefan"
 msgid "THEN WHY ARE YOU HERE?!"
-msgstr ""
+msgstr "ALORS POURQUOI TU ES LÀ ?!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/30
 msgctxt "Narrator"
 msgid "An adorable chicken-shaped timer slides into the conversation, settling on Stefan's shoulder."
-msgstr ""
+msgstr "Un adorable minuteur en forme de poule se glisse dans la conversation et vient se poser sur l'épaule de Stefan."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/41
 msgctxt "Mr. Cluckles"
 msgid "Ba-gawk."
-msgstr ""
+msgstr "Cot-cot-codec."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/49
 msgctxt "Stefan"
 msgid "You're right, Mr. Cluckles. I could stand to be nicer."
-msgstr ""
+msgstr "Tu as raison, Mr. Cluckles. Je pourrais être plus aimable."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/71
 msgctxt "Narrator"
 msgid "He takes a deep breath, steadying himself, then points dramatically at you."
-msgstr ""
+msgstr "Il inspire profondément pour se reprendre, puis vous désigne d'un geste théâtral."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/79
 msgctxt "Stefan"
 msgid "You! What are you doing in my kitchen?"
-msgstr ""
+msgstr "Toi ! Qu'est-ce que tu fais dans MA cuisine ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/87/0/s/0
 msgctxt "Choix"
 msgid "Ummm... this is my kitchen."
-msgstr ""
+msgstr "Euh... c'est ma cuisine, ici."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/87/1/s/0
 msgctxt "Choix"
 msgid "Sorry, chef!"
-msgstr ""
+msgstr "Pardon, chef !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/87/2/s/0
 msgctxt "Choix"
 msgid "Are you a stove or an oven?"
-msgstr ""
+msgstr "T'es une cuisinière ou un four ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/87/c-2/7
 msgctxt "Stefan"
 msgid "This is MY kitchen."
-msgstr ""
+msgstr "C'est MA cuisine."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-0/87/c-2/15
 msgctxt "Stefan"
 msgid "You must have me confused for someone who thinks this kind of thing is funny."
-msgstr ""
+msgstr "Tu me prends pour quelqu'un qui trouve ce genre de blague drôle."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/3
 msgctxt "Stefan"
 msgid "I'm BUSY!"
-msgstr ""
+msgstr "J'ai DU BOULOT !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/14
 msgctxt "Stefan"
 msgid "I've got a whole lot of folks to feed and unless you are here to help, I need you to step out of th..."
-msgstr ""
+msgstr "J'ai une tonne de gens à nourrir et à moins que tu sois là pour aider, je te demande de sortir de mon..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/22
 msgctxt "Stefan"
 msgid "Wait...."
-msgstr ""
+msgstr "Attends..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/30
 msgctxt "Stefan"
 msgid "Do you smell that?!"
-msgstr ""
+msgstr "Tu sens ça ?!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/38/s/0
 msgctxt "Choix"
 msgid "No?"
-msgstr ""
+msgstr "Non ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/39/s/0
 msgctxt "Choix"
 msgid "Just your bad attitude."
-msgstr ""
+msgstr "Juste ton sale caractère."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/c-5/7
 msgctxt "Stefan"
 msgid "Yet you possess a nose, do you not?"
-msgstr ""
+msgstr "Pourtant tu as un nez, non ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/c-5/15
 msgctxt "Stefan"
 msgid "I make do with my hood."
-msgstr ""
+msgstr "Moi, je me débrouille avec ma hotte."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-2/c-6/7
 msgctxt "Stefan"
 msgid "Oh, how dare you!"
-msgstr ""
+msgstr "Oh, mais comment oses-tu !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/3
 msgctxt "Mr. Cluckles"
 msgid "Ba-GAWWWK! Ba-GAWWWK!"
-msgstr ""
+msgstr "Cot-COOODEC ! Cot-COOODEC !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/11
 msgctxt "Stefan"
 msgid "Yes, yes, yes, yes. I'm preheated. I know."
-msgstr ""
+msgstr "Oui, oui, oui, oui. Je suis préchauffé. Je sais."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/22
 msgctxt "Stefan"
 msgid "Thank you Mr. Cluckles. Always keeping me on track."
-msgstr ""
+msgstr "Merci, Mr. Cluckles. Toujours là pour me remettre sur les rails."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/33
 msgctxt "Stefan"
 msgid "Unlike SOME humans who come in MY kitchen just to distract me!"
-msgstr ""
+msgstr "Contrairement à CERTAINS humains qui viennent dans MA cuisine juste pour me déconcentrer !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/41/s/0
 msgctxt "Choix"
 msgid "Aww, it's a little chicken timer!"
-msgstr ""
+msgstr "Oh, un petit minuteur poule !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/42/s/0
 msgctxt "Choix"
 msgid "It's my kitchen, dude. End of story."
-msgstr ""
+msgstr "C'est ma cuisine, mon vieux. Point final."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/c-7/7
 msgctxt "Stefan"
 msgid "That little chicken timer offers more help than you can imagine."
-msgstr ""
+msgstr "Ce petit minuteur poule m'aide plus que tu ne l'imagines."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/c-7/15
 msgctxt "Stefan"
 msgid "He understands the type of establishment I'm trying to run around here!"
-msgstr ""
+msgstr "Lui, il comprend le genre d'établissement que j'essaie de tenir ici !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/c-8/7
 msgctxt "Stefan"
 msgid "You know, I miss when humans understood the value of the boiling pot of water."
-msgstr ""
+msgstr "Tu sais, ça me manque, l'époque où les humains comprenaient la valeur d'une casserole d'eau qui bout."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/c-8/15
 msgctxt "Stefan"
 msgid "When they would let a sauce properly reduce over time. The aroma of spices filled the air."
-msgstr ""
+msgstr "Où ils laissaient une sauce réduire tranquillement. Où l'arôme des épices emplissait l'air."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/c-8/23
 msgctxt "Stefan"
 msgid "And everything was home-made."
-msgstr ""
+msgstr "Et où tout était fait maison."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/c-8/31
 msgctxt "Stefan"
 msgid "And now all people do is use Food Fetch!!"
-msgstr ""
+msgstr "Et maintenant, tout ce que les gens font, c'est utiliser Food Fetch !!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-3/c-8/39
 msgctxt "Stefan"
 msgid "THEY ARE MISSING THE ENTIRE POINT OF IT ALL!"
-msgstr ""
+msgstr "ILS PASSENT À CÔTÉ DE L'ESSENTIEL !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/0/s/0
 msgctxt "Choix"
 msgid "What are you even talking about?"
-msgstr ""
+msgstr "Mais de quoi tu parles ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/1/s/0
 msgctxt "Choix"
 msgid "...are you okay?"
-msgstr ""
+msgstr "...ça va, toi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/c-9/7
 msgctxt "Stefan"
 msgid "Food. Glorious food!"
-msgstr ""
+msgstr "La bouffe. Glorieuse bouffe !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/c-9/15
 msgctxt "Stefan"
 msgid "Much more important than whatever little quest you happen to be on right now."
-msgstr ""
+msgstr "Bien plus importante que la petite quête que tu poursuis en ce moment."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/c-10/7
 msgctxt "Stefan"
 msgid "Only a human who doesn't understand cooking would ask me that."
-msgstr ""
+msgstr "Seul un humain qui ne comprend rien à la cuisine me poserait cette question."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/c-10/15
 msgctxt "Stefan"
 msgid "COOKING IS LIFE! It is not just food, it is your SOUL!"
-msgstr ""
+msgstr "CUISINER, C'EST LA VIE ! Ce n'est pas que de la nourriture, c'est ton ÂME !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/c-10/26
 msgctxt "Stefan"
 msgid "Maybe one day, you will understand that."
-msgstr ""
+msgstr "Peut-être qu'un jour, tu comprendras."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-4/c-10/34
 msgctxt "Stefan"
 msgid "Until then, I'm wasting heat standing around here talking to you."
-msgstr ""
+msgstr "En attendant, je gaspille de la chaleur à rester planté là à te parler."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-5/0/s/0
 msgctxt "Choix"
 msgid "Anyone ever tell you how rude you are?"
-msgstr ""
+msgstr "On t'a déjà dit à quel point tu es désagréable ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-5/1/s/0
 msgctxt "Choix"
 msgid "I'll let you cook."
-msgstr ""
+msgstr "Je te laisse cuisiner."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-5/c-11/7
 msgctxt "Stefan"
 msgid "Of course they do."
-msgstr ""
+msgstr "Évidemment qu'on me l'a dit."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-5/c-11/15
 msgctxt "Stefan"
 msgid "And they didn't know a crepe from a grape. So I couldn't give a damn about what they say."
-msgstr ""
+msgstr "Et ils ne savaient pas faire la différence entre une crêpe et une crête. Alors leur avis, je m'en fiche comme de ma première poêle."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-5/c-11/23/0/s/0
 msgctxt "Choix"
 msgid "Then I'll leave."
-msgstr ""
+msgstr "Alors je m'en vais."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-5/c-11/23/1/s/0
 msgctxt "Choix"
 msgid "Wait... I know a crepe from a drape? Does that count?"
-msgstr ""
+msgstr "Attends... moi, je sais faire la différence entre une crêpe et un crêpe de Chine. Ça compte ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-6/0
 msgctxt "Stefan"
 msgid "Go on. Shoo."
-msgstr ""
+msgstr "Allez. Ouste."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-6/8
 msgctxt "Stefan"
 msgid "Okay Mr. Cluckles. All prep should be done in seven and a half minutes."
-msgstr ""
+msgstr "Bon, Mr. Cluckles. Toute la mise en place doit être finie dans sept minutes et demie."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-6/19
 msgctxt "Stefan"
 msgid "Start the timer."
-msgstr ""
+msgstr "Lance le minuteur."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-6/27
 msgctxt "Mr. Cluckles"
 msgid "Bu bu bu... Ba-Gawk!"
-msgstr ""
+msgstr "Cot cot cot... Cot-codec !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_intro/0/g-6/35
 msgctxt "Stefan"
 msgid "And... Go!"
-msgstr ""
+msgstr "Et... C'est parti !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/4
 msgctxt "Stefan"
 msgid "AH! It's you again! Someone must like the heat of the kitchen!"
-msgstr ""
+msgstr "AH ! Encore toi ! Il y en a qui aiment la chaleur de la cuisine, on dirait !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/12/s/0
 msgctxt "Choix"
 msgid "Maybe I like how hot you are!"
-msgstr ""
+msgstr "Peut-être que j'aime que tu sois aussi chaud !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/13/s/0
 msgctxt "Choix"
 msgid "You haven't calmed down yet?"
-msgstr ""
+msgstr "Tu ne t'es toujours pas calmé ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/0
 msgctxt "Stefan"
 msgid "Oh, I see how it is..."
-msgstr ""
+msgstr "Ah, je vois..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/8
 msgctxt "Stefan"
 msgid "YOU HAVE NO RESPECT FOR HOW MUCH ATTENTION COOKING TAKES!"
-msgstr ""
+msgstr "TU N'AS AUCUN RESPECT POUR L'ATTENTION QUE DEMANDE LA CUISINE !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/19
 msgctxt "Stefan"
 msgid "There are plenty of others in this kitchen you can 'date' who AREN'T ME!"
-msgstr ""
+msgstr "Il y a plein d'autres gens dans cette cuisine avec qui tu peux « sortir » et qui ne sont PAS MOI !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/27
 msgctxt "Mr. Cluckles"
 msgid "Ba ba. Bu ba ba BAGAW."
-msgstr ""
+msgstr "Cot-cot. Cot cot cot CODEC."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/35
 msgctxt "Stefan"
 msgid "Yeah, you're right, you're right. You always right!"
-msgstr ""
+msgstr "Ouais, tu as raison, tu as raison. Tu as toujours raison !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/46
 msgctxt "Stefan"
 msgid "I'll calm down."
-msgstr ""
+msgstr "Je vais me calmer."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/54
 msgctxt "Stefan"
 msgid "I'm blind baking a pie crust, okay? I need to FOCUS!"
-msgstr ""
+msgstr "Je fais cuire un fond de tarte à blanc, d'accord ? Il faut que je me CONCENTRE !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/62
 msgctxt "Stefan"
 msgid "Chat with some of the others and maybe... MAYBE... I'll have time for you."
-msgstr ""
+msgstr "Va discuter avec les autres et peut-être... PEUT-ÊTRE... que j'aurai du temps pour toi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/70
 msgctxt "Mr. Cluckles"
 msgid "BAGAWWWWWW! BAGAWWWWW!"
-msgstr ""
+msgstr "CODEEEEEC ! CODEEEEEC !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/78
 msgctxt "Stefan"
 msgid "Ah, yes! It's ready!"
-msgstr ""
+msgstr "Ah, oui ! C'est prêt !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_mingle/0/g-0/89
 msgctxt "Stefan"
 msgid "Go on, boil off! I've got a custard to whip up."
-msgstr ""
+msgstr "Allez, évapore-toi ! J'ai une crème à fouetter."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/18
 msgctxt "Stefan"
 msgid "FREDDY!"
-msgstr ""
+msgstr "FREDDY !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/29
 msgctxt "Freddy"
 msgid "Stefan! Buddy!"
-msgstr ""
+msgstr "Stefan ! Mon pote !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/40
 msgctxt "Stefan"
 msgid "Hey, don't buddy me. What is it that we talked about last week?"
-msgstr ""
+msgstr "Eh, ne me fais pas le coup du pote. De quoi on a parlé la semaine dernière ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/48
 msgctxt "Freddy"
 msgid "Um..."
-msgstr ""
+msgstr "Euh..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/56
 msgctxt "Freddy"
 msgid "Ah, I can't remember."
-msgstr ""
+msgstr "Ah, je m'en souviens plus."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/64
 msgctxt "Stefan"
 msgid "A smart fridge, but yet, you can't remember one simple thing."
-msgstr ""
+msgstr "Un frigo intelligent, et pourtant, tu n'es pas fichu de te rappeler une seule petite chose."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/72
 msgctxt "Stefan"
 msgid "Tell me... why did you order a Slot Pocket from me?"
-msgstr ""
+msgstr "Dis-moi... pourquoi tu m'as commandé un Slot Pocket ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/80
 msgctxt "Freddy"
 msgid "Oh, because they heat better in the oven!"
-msgstr ""
+msgstr "Oh, parce qu'ils chauffent mieux au four !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/88
 msgctxt "Stefan"
 msgid "THOSE ARE FOODS FOR LUKE! NOT ME!"
-msgstr ""
+msgstr "CES TRUCS-LÀ, C'EST POUR LUKE ! PAS POUR MOI !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/105/s/0
 msgctxt "Choix"
 msgid "What's the big deal?"
-msgstr ""
+msgstr "Il y a un problème ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/106/s/0
 msgctxt "Choix"
 msgid "Freddy, you don't have to take this."
-msgstr ""
+msgstr "Freddy, tu n'es pas obligé de te laisser parler comme ça."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/c-0/7
 msgctxt "Stefan"
 msgid "What- what- what- What's the big deal?! WHAT'S THE BIG DEAL?!"
-msgstr ""
+msgstr "Qu... qu... Qu'est-ce que c'est que ce problème ?! IL Y A UN PROBLÈME ?!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/c-1/7
 msgctxt "Freddy"
 msgid "I'm glad someone has my back."
-msgstr ""
+msgstr "Content que quelqu'un me soutienne."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/c-1/15/b/1
 msgctxt "Freddy"
 msgid "Even if you didn't before..."
-msgstr ""
+msgstr "Même si ce n'était pas le cas avant..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/0
 msgctxt "Stefan"
 msgid "SEE, THIS IS WHY I..."
-msgstr ""
+msgstr "VOILÀ POURQUOI JE..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/8
 msgctxt "Mr. Cluckles"
 msgid "Bu bu bu... BaGaw."
-msgstr ""
+msgstr "Cot cot cot... Codec."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/16
 msgctxt "Stefan"
 msgid "Okay. Okay. Okay. Cool-down, Stefan. They don't know any better."
-msgstr ""
+msgstr "Bon. Bon. Bon. Refroidis, Stefan. Ils ne savent pas ce qu'ils font."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/30
 msgctxt "Stefan"
 msgid "I need both of you to listen very... very closely."
-msgstr ""
+msgstr "J'ai besoin que vous m'écoutiez tous les deux très... très attentivement."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/38
 msgctxt "Stefan"
 msgid "I can heat a Slot Pocket to perfection."
-msgstr ""
+msgstr "Je peux chauffer un Slot Pocket à la perfection."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/46
 msgctxt "Stefan"
 msgid "But, I was not given both convection and conduction for it to be wasted on a frozen pastry filled with subpar meat products."
-msgstr ""
+msgstr "Mais on ne m'a pas donné à la fois la convection et la conduction pour les gaspiller sur une pâtisserie surgelée fourrée de viande de basse qualité."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/54
 msgctxt "Stefan"
 msgid "If you want something like that done, you can talk to Luke."
-msgstr ""
+msgstr "Si tu veux ce genre de truc, va voir Luke."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/65
 msgctxt "Stefan"
 msgid "Not me."
-msgstr ""
+msgstr "Pas moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/73/s/0
 msgctxt "Choix"
 msgid "Both convection and conduction? That's fancy."
-msgstr ""
+msgstr "La convection ET la conduction ? C'est sophistiqué."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/74/s/0
 msgctxt "Choix"
 msgid "Leave you to your fancy foods. Got it."
-msgstr ""
+msgstr "Je te laisse à tes plats sophistiqués. Compris."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/c-2/7
 msgctxt "Stefan"
 msgid "So you do know a thing or two... interesting."
-msgstr ""
+msgstr "Donc tu t'y connais un peu... intéressant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-0/c-3/7
 msgctxt "Stefan"
 msgid "See? Now was that so hard to understand?"
-msgstr ""
+msgstr "Tu vois ? C'était si difficile à comprendre ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-1/0
 msgctxt "Freddy"
 msgid "I won't ask you to do that again."
-msgstr ""
+msgstr "Je ne te redemanderai pas ça."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-1/8
 msgctxt "Stefan"
 msgid "Thank you!"
-msgstr ""
+msgstr "Merci !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-1/16
 msgctxt "Freddy"
 msgid "...but did you do it this time?"
-msgstr ""
+msgstr "...mais tu l'as fait, cette fois ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-1/32
 msgctxt "Stefan"
 msgid "Of course I did. Here."
-msgstr ""
+msgstr "Évidemment que je l'ai fait. Tiens."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-1/40
 msgctxt "Stefan"
 msgid "Do not tell anyone."
-msgstr ""
+msgstr "Ne le dis à personne."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-1/48
 msgctxt "Freddy"
 msgid "Thanks duderino!"
-msgstr ""
+msgstr "Merci, mon pote !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_freddy/0/g-1/56
 msgctxt "Stefan"
 msgid "LEAVE!"
-msgstr ""
+msgstr "DÉGAGE !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/21
 msgctxt "Cabrizzio"
 msgid "Stefano! Bravo!"
-msgstr ""
+msgstr "Stefano ! Bravo !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/32
 msgctxt "Cabrizzio"
 msgid "Bravo. Never before in my existence have I felt so... full..."
-msgstr ""
+msgstr "Bravo. Jamais de toute mon existence je ne me suis senti aussi... plein..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/40
 msgctxt "Cabrizzio"
 msgid "...and for a cabinet, that is a very special sensation in which to achieve a new peak!"
-msgstr ""
+msgstr "...et pour un placard, c'est une sensation très particulière que d'atteindre un nouveau sommet !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/51
 msgctxt "Stefan"
 msgid "Oh, Cabrizzio. It touches me deeply to be so appreciated."
-msgstr ""
+msgstr "Oh, Cabrizzio. Ça me touche profondément d'être autant apprécié."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/65/s/0
 msgctxt "Choix"
 msgid "What's all the praise for?"
-msgstr ""
+msgstr "Pourquoi tous ces éloges ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/66/s/0
 msgctxt "Choix"
 msgid "Deep touching, fullness... what on earth is happening here."
-msgstr ""
+msgstr "Toucher profond, plénitude... mais qu'est-ce qui se passe ici ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/0
 msgctxt "Narrator"
 msgid "Stefan turns to you with a proud smile."
-msgstr ""
+msgstr "Stefan se tourne vers vous avec un sourire fier."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/8
 msgctxt "Stefan"
 msgid "Our dear Cabrizzio just tried my new dish!"
-msgstr ""
+msgstr "Notre cher Cabrizzio vient de goûter mon nouveau plat !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/16
 msgctxt "Cabrizzio"
 msgid "Tried. I have not tried. I have revelled in your new dish! What must I do to taste it once more??"
-msgstr ""
+msgstr "Goûter. Je n'ai pas goûté. Je me suis délecté de ton nouveau plat ! Que dois-je faire pour le savourer encore ??"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/24
 msgctxt "Stefan"
 msgid "Oh! Brother, just ask! Of course, it will take some time."
-msgstr ""
+msgstr "Oh ! Frère, il suffit de demander ! Bien sûr, ça prendra un peu de temps."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/32
 msgctxt "Cabrizzio"
 msgid "Time. Hm. I don't know that my need will wait..."
-msgstr ""
+msgstr "Du temps. Hm. Je ne sais pas si mon besoin saura attendre..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/40
 msgctxt "Cabrizzio"
 msgid "No no no no. I cannot wait, not another moment, amore. Please, activate your appetizing alchemy!"
-msgstr ""
+msgstr "Non non non non. Je ne peux pas attendre, pas un instant de plus, amore. Je t'en prie, active ton alchimie appétissante !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/48
 msgctxt "Stefan"
 msgid "Beautifully said, but it's not quite that easy."
-msgstr ""
+msgstr "Joliment dit, mais ce n'est pas aussi simple."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/56
 msgctxt "Stefan"
 msgid "I... spent four hours on the beef alone, you see."
-msgstr ""
+msgstr "J'ai... passé quatre heures sur le boeuf seul, tu vois."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/64
 msgctxt "Cabrizzio"
 msgid "Four hours? FOUR?! Can you not just... do it faster! Skip a step, perhaps?"
-msgstr ""
+msgstr "Quatre heures ? QUATRE ?! Tu ne peux pas aller plus vite ? Sauter une étape, peut-être ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/75
 msgctxt "Stefan"
 msgid "Uh, uh, WHAAT?! Skip a step?????"
-msgstr ""
+msgstr "Qu... quoi ?! Sauter une étape ?????"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/86/s/0
 msgctxt "Choix"
 msgid "Oh, bad."
-msgstr ""
+msgstr "Oh, ça commence mal."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-0/87/s/0
 msgctxt "Choix"
 msgid "Four hours is a long time just for food."
-msgstr ""
+msgstr "Quatre heures, c'est long, juste pour de la bouffe."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/0
 msgctxt "Stefan"
 msgid "Braising is art. It takes time. It takes patience."
-msgstr ""
+msgstr "Braiser est un art. Ça demande du temps. Ça demande de la patience."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/8
 msgctxt "Stefan"
 msgid "MULTI-STEP BRAISING IS THE ONLY WAY I CAN INFUSE THE INTENSE FLAVORS THAT HAVE SO INSPIRED YOU INTO MY MEAT CANVAS!"
-msgstr ""
+msgstr "LE BRAISAGE EN PLUSIEURS ÉTAPES EST LE SEUL MOYEN D'INFUSER LES SAVEURS INTENSES QUI T'ONT TANT INSPIRÉ SUR MA TOILE DE VIANDE !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/19
 msgctxt "Stefan"
 msgid "So no, Cabrizzio. I. DO. NOT. SKIP!"
-msgstr ""
+msgstr "Alors non, Cabrizzio. JE. NE. SAUTE. RIEN !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/30
 msgctxt "Cabrizzio"
 msgid "My dear friend. I cannot promise you that I will want it in four hours!"
-msgstr ""
+msgstr "Mon cher ami. Je ne peux pas te promettre que j'en voudrai encore dans quatre heures !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/41
 msgctxt "Cabrizzio"
 msgid "Who knows where my passions will have driven me that far in the future?"
-msgstr ""
+msgstr "Qui sait où mes passions m'auront mené d'ici là ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/52
 msgctxt "Stefan"
 msgid "How DARE you, you water-stained piece of birch -"
-msgstr ""
+msgstr "Comment OSES-TU, espèce de bout de bouleau taché d'eau -"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/63
 msgctxt "Mr. Cluckles"
 msgid "Bu bu bu... bugaw."
-msgstr ""
+msgstr "Cot cot cot... codec."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/71
 msgctxt "Stefan"
 msgid "Ohmygosh- I'm sorry Mr. Cluckles but I will NOT calm down!"
-msgstr ""
+msgstr "Mon Dieu- Pardon, Mr. Cluckles, mais je ne me calmerai PAS !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/82
 msgctxt "Stefan"
 msgid "If you can't appreciate the time it takes to make the food -"
-msgstr ""
+msgstr "Si tu n'es pas capable d'apprécier le temps qu'il faut pour faire un plat -"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/90
 msgctxt "Stefan"
 msgid "YOU DON'T GET TO ENJOY THE FOOD!"
-msgstr ""
+msgstr "TU N'AS PAS LE DROIT D'EN PROFITER !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/98/s/0
 msgctxt "Choix"
 msgid "I'm with you on this one!"
-msgstr ""
+msgstr "Je suis d'accord avec toi sur ce coup !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/99/s/0
 msgctxt "Choix"
 msgid "Come on. Grilled cheeses are amazing, and they take like ten minutes."
-msgstr ""
+msgstr "Allez. Les croque-monsieur sont géniaux et ça prend dix minutes, environ."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/c-4/7
 msgctxt "Stefan"
 msgid "THANK YOU!"
-msgstr ""
+msgstr "MERCI !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-1/c-5/7
 msgctxt "Stefan"
 msgid "...why is the human talking?"
-msgstr ""
+msgstr "...pourquoi l'humain parle ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/0
 msgctxt "Cabrizzio"
 msgid "Oh my friend. If I have offended, please, please forgive me."
-msgstr ""
+msgstr "Oh, mon ami. Si je t'ai offensé, je t'en prie, pardonne-moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/8
 msgctxt "Cabrizzio"
 msgid "Deny me not the pleasure of your creativity!"
-msgstr ""
+msgstr "Ne me prive pas du plaisir de ta créativité !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/16
 msgctxt "Stefan"
 msgid "I want everyone out! OUT, OUT, OUT!"
-msgstr ""
+msgstr "Je veux que tout le monde sorte ! DEHORS, DEHORS, DEHORS !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/27
 msgctxt "Cabrizzio"
 msgid "Ah, Stefano. So sad."
-msgstr ""
+msgstr "Ah, Stefano. Si triste."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/35
 msgctxt "Cabrizzio"
 msgid "Even sadder that I cannot oblige you by giving you the space you request... Because I reside here just twelve inches above you..."
-msgstr ""
+msgstr "Encore plus triste que je ne puisse te faire la grâce de t'offrir l'espace que tu demandes... Car je loge juste trente centimètres au-dessus de toi..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/43
 msgctxt "Narrator"
 msgid "Stefan is silent, but the tension in the air is palpable."
-msgstr ""
+msgstr "Stefan reste silencieux, mais la tension dans l'air est palpable."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/51
 msgctxt "Stefan"
 msgid "Mr. Cluckles?"
-msgstr ""
+msgstr "Mr. Cluckles ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/59
 msgctxt "Mr. Cluckles"
 msgid "Bagaw?"
-msgstr ""
+msgstr "Codec ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/67
 msgctxt "Stefan"
 msgid "Set a meditation timer, please. Before I burn this whole kitchen down."
-msgstr ""
+msgstr "Lance un minuteur de méditation, s'il te plaît. Avant que je ne réduise toute cette cuisine en cendres."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/75
 msgctxt "Mr. Cluckles"
 msgid "Ba ba bagawk."
-msgstr ""
+msgstr "Cot cot codec."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/83
 msgctxt "Stefan"
 msgid "Everyone else..."
-msgstr ""
+msgstr "Tous les autres..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/94
 msgctxt "Stefan"
 msgid "Leave."
-msgstr ""
+msgstr "Sortez."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/105
 msgctxt "Cabrizzio"
 msgid "I..."
-msgstr ""
+msgstr "Je..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/113
 msgctxt "Cabrizzio"
 msgid "I will just be very, very, very very quiet."
-msgstr ""
+msgstr "Je serai juste très, très, très très silencieux."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cabrizzio/0/g-2/121
 msgctxt "Stefan"
 msgid "Hmph. Fine. Silent, you understand. Cruel-tongued cupboard."
-msgstr ""
+msgstr "Hmph. Bien. En silence, tu m'entends. Placard à la langue cruelle."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/18
 msgctxt "Mr. Cluckles"
 msgid "Bu bu bu ba bu bu bu bu ba."
-msgstr ""
+msgstr "Cot cot cot co cot cot cot cot co."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/29
 msgctxt "Stefan"
 msgid "I know, I know. I'll stay calm."
-msgstr ""
+msgstr "Je sais, je sais. Je reste calme."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/37
 msgctxt "Stefan"
 msgid "Okay... here we go."
-msgstr ""
+msgstr "Bon... c'est parti."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/45
 msgctxt "Stefan"
 msgid "Oh. Hey. I thought you were someone else."
-msgstr ""
+msgstr "Oh. Salut. Je pensais que c'était quelqu'un d'autre."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/53/s/0
 msgctxt "Choix"
 msgid "What? No yelling at me?"
-msgstr ""
+msgstr "Quoi ? Tu ne me cries pas dessus ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/54/s/0
 msgctxt "Choix"
 msgid "Who are you expecting?"
-msgstr ""
+msgstr "Tu attends qui ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/0
 msgctxt "Stefan"
 msgid "I thought you were going to be the Friar."
-msgstr ""
+msgstr "Je pensais que ce serait le Frère."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/8
 msgctxt "Stefan"
 msgid "We have some things to discuss."
-msgstr ""
+msgstr "Nous avons des choses à discuter."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/16
 msgctxt "Narrator"
 msgid "Stefan tenses up, his gaze somewhere behind you."
-msgstr ""
+msgstr "Stefan se raidit, le regard perdu quelque part derrière vous."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/27
 msgctxt "Friar Errol"
 msgid "You summoned me, and I have come."
-msgstr ""
+msgstr "Tu m'as appelé, et me voici."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/38
 msgctxt "Stefan"
 msgid "You're late."
-msgstr ""
+msgstr "Tu es en retard."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/46
 msgctxt "Friar Errol"
 msgid "You are lucky I have come at all, blasphemer."
-msgstr ""
+msgstr "Tu as de la chance que je sois venu, blasphémateur."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/65
 msgctxt "Mr. Cluckles"
 msgid "Ba ba ba bu..."
-msgstr ""
+msgstr "Cot cot cot co..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/73
 msgctxt "Stefan"
 msgid "I know, I know. Deep breaths... haaa... hoooo..."
-msgstr ""
+msgstr "Je sais, je sais. Respirations profondes... haaa... hoooo..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/84/s/0
 msgctxt "Choix"
 msgid "Woooow. Look at you keeping your cool."
-msgstr ""
+msgstr "Woooow. Regarde-toi, tu gardes ton calme."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/85/s/0
 msgctxt "Choix"
 msgid "Hello, Friar."
-msgstr ""
+msgstr "Bonjour, Frère."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/c-2/7
 msgctxt "Stefan"
 msgid "Shut it!"
-msgstr ""
+msgstr "Ta gueule !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-0/c-3/7
 msgctxt "Narrator"
 msgid "Friar Errol simply gives you a polite nod, returning his gaze to Stefan."
-msgstr ""
+msgstr "Frère Errol se contente de vous adresser un hochement de tête poli, puis reporte son regard sur Stefan."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/0
 msgctxt "Friar Errol"
 msgid "State your case. Quickly."
-msgstr ""
+msgstr "Expose ton cas. Vite."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/8
 msgctxt "Stefan"
 msgid "Look. I heard you've been talkin' a lot around the house about air fryers are the wave of the future and blah blah blah."
-msgstr ""
+msgstr "Écoute. J'ai entendu dire que tu racontes partout dans la maison que les friteuses à air sont la vague du futur et patati et patata."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/16
 msgctxt "Friar Errol"
 msgid "'Blah blah blah'? You would handwave the gospel of convection?"
-msgstr ""
+msgstr "« Patati et patata » ? Tu balaies d'un geste l'évangile de la convection ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/24
 msgctxt "Stefan"
 msgid "FINE! YOU'RE TRYIN' TO REPLACE ME! FOMENTING MUTINY BEHIND MY BACK!"
-msgstr ""
+msgstr "TRÈS BIEN ! TU ESSAIES DE ME REMPLACER ! TU FOMENTES UNE MUTINERIE DANS MON DOS !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/35
 msgctxt "Friar Errol"
 msgid "Ah, there it is. The grease demon possessing you has risen to the surface."
-msgstr ""
+msgstr "Ah, voilà. Le démon de la graisse qui te possède est remonté à la surface."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/43
 msgctxt "Stefan"
 msgid "...the what?"
-msgstr ""
+msgstr "...le quoi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/51/s/0
 msgctxt "Choix"
 msgid "Oh yeah, that's exactly what's happening."
-msgstr ""
+msgstr "Ah oui, c'est exactement ce qui se passe."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-1/52/s/0
 msgctxt "Choix"
 msgid "Grease demon? Is this guy okay?"
-msgstr ""
+msgstr "Un démon de la graisse ? Il va bien, ce type ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/0
 msgctxt "Friar Errol"
 msgid "Fear not. You may be unworthy, but a man of convection never allows his flock to suffer."
-msgstr ""
+msgstr "Ne crains rien. Tu es peut-être indigne, mais un homme de convection ne laisse jamais souffrir son troupeau."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/8
 msgctxt "Narrator"
 msgid "The friar pulls a small fan from deep within his robes, turning it on and aiming it at Stefan."
-msgstr ""
+msgstr "Le frère sort un petit ventilateur du fond de sa robe, l'allume et le pointe vers Stefan."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/19
 msgctxt "Friar Errol"
 msgid "OUT, DEMON! OUT!"
-msgstr ""
+msgstr "DEHORS, DÉMON ! DEHORS !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/27
 msgctxt "Stefan"
 msgid "Hey, hey, hey, what the hell are you doing!?"
-msgstr ""
+msgstr "Hé, hé, hé, mais qu'est-ce que tu fabriques !?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/32
 msgctxt "Friar Errol"
 msgid "THE POWER OF CONVECTION COMPELS YOU!"
-msgstr ""
+msgstr "LA PUISSANCE DE LA CONVECTION T'ORDONNE !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/43
 msgctxt "Stefan"
 msgid "HAVE YOU LOST YOUR MIND?!"
-msgstr ""
+msgstr "TU AS PERDU LA TÊTE ?!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/51
 msgctxt "Friar Errol"
 msgid "I have never been more clear-headed in my life. BEGONE, DEMON OF GREASE!"
-msgstr ""
+msgstr "Je n'ai jamais eu les idées aussi claires de ma vie. DISPARAIS, DÉMON DE LA GRAISSE !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/59/s/0
 msgctxt "Choix"
 msgid "This is starting to sound like a movie... the Convect-sorcist?"
-msgstr ""
+msgstr "Ça commence à ressembler à un film... le Convexorciste ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-2/60/s/0
 msgctxt "Choix"
 msgid "You should probably just go."
-msgstr ""
+msgstr "Tu devrais probablement partir."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/0
 msgctxt "Friar Errol"
 msgid "I cannot leave this stove to his suffering."
-msgstr ""
+msgstr "Je ne peux pas abandonner cette cuisinière à sa souffrance."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/8
 msgctxt "Stefan"
 msgid "Uh... <w>BOoOOOoOO!</w>"
-msgstr ""
+msgstr "Euh... <w>BOOOUOUOUOUH !</w>"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/19
 msgctxt "Stefan"
 msgid "<w>IT IS I, THE GREASE DEMON!</w>"
-msgstr ""
+msgstr "<w>C'EST MOI, LE DÉMON DE LA GRAISSE !</w>"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/27
 msgctxt "Narrator"
 msgid "Friar Errol rears back in shock, holding the fan out in front of him. He looks absolutely terrified."
-msgstr ""
+msgstr "Frère Errol recule sous le choc, le ventilateur brandi devant lui. Il a l'air absolument terrifié."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/38
 msgctxt "Friar Errol"
 msgid "BACK, DEMON! I ORDER YOU TO LEAVE THIS STOVE! OUT! OUT!"
-msgstr ""
+msgstr "RETIRE-TOI, DÉMON ! JE T'ORDONNE DE QUITTER CETTE CUISINIÈRE ! DEHORS ! DEHORS !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/49
 msgctxt "Narrator"
 msgid "He blows the air directly into Stefan's face. Stefan looks at you, then back at the Friar."
-msgstr ""
+msgstr "Il souffle l'air directement sur le visage de Stefan. Stefan vous regarde, puis se tourne de nouveau vers le Frère."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/60
 msgctxt "Stefan"
 msgid "Oh nooo... my greatest weakness... a light breeze."
-msgstr ""
+msgstr "Oh nooon... mon plus grand point faible... une légère brise."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/68
 msgctxt "Stefan"
 msgid "I've had it! I'm getting out of here!"
-msgstr ""
+msgstr "J'en ai assez ! Je m'en vais !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/79
 msgctxt "Stefan"
 msgid "It's me, the grease demon, signing off."
-msgstr ""
+msgstr "C'est moi, le démon de la graisse, qui raccroche."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/90
 msgctxt "Stefan"
 msgid "I'm really leaving now... <w>ooooooOooo...</w>"
-msgstr ""
+msgstr "Je pars pour de bon maintenant... <w>ooooooOooo...</w>"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/101
 msgctxt "Stefan"
 msgid "...bye..."
-msgstr ""
+msgstr "...salut..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/109
 msgctxt "Narrator"
 msgid "Stefan's performance is hardly convincing, but the Friar wipes his brow and sighs."
-msgstr ""
+msgstr "La prestation de Stefan est à peine convaincante, mais le Frère s'essuie le front et soupire."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/120
 msgctxt "Friar Errol"
 msgid "I see now. You summoned me to exorcise you. Very good."
-msgstr ""
+msgstr "Je vois, maintenant. Tu m'as convoqué pour que je t'exorcise. Très bien."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/128
 msgctxt "Friar Errol"
 msgid "Here. Keep this with you, and stay away from any grease from this point forward."
-msgstr ""
+msgstr "Tiens. Garde ceci sur toi, et tiens-toi à l'écart de toute graisse à partir de maintenant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/136
 msgctxt "Stefan"
 msgid "Sure. I just need to... uh... pray."
-msgstr ""
+msgstr "Bien sûr. Il faut juste que je... euh... prie."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/144
 msgctxt "Narrator"
 msgid "Stefan holds up the little fan with a strained smile."
-msgstr ""
+msgstr "Stefan brandit le petit ventilateur avec un sourire crispé."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/155
 msgctxt "Friar Errol"
 msgid "Excellent. Be well, and may you always walk in His Currents."
-msgstr ""
+msgstr "Excellent. Porte-toi bien, et puisses-tu toujours marcher dans Ses Courants."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/166
 msgctxt "Narrator"
 msgid "As soon as the friar leaves, Stefan exhales loudly."
-msgstr ""
+msgstr "Dès que le frère est parti, Stefan expire bruyamment."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/174
 msgctxt "Stefan"
 msgid "That was uhhh..."
-msgstr ""
+msgstr "C'était euhhh..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/182
 msgctxt "Mr. Cluckles"
 msgid "Buck buck bagaw..."
-msgstr ""
+msgstr "Cot cot codec..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/190
 msgctxt "Stefan"
 msgid "Woo... Yeah. Look, I'm gonna need some time to \"decompress\"."
-msgstr ""
+msgstr "Ouf... Ouais. Écoute, il va me falloir un peu de temps pour « décompresser »."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friar/0/g-3/204
 msgctxt "Stefan"
 msgid "Come back later."
-msgstr ""
+msgstr "Reviens plus tard."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/18
 msgctxt "Stefan"
 msgid "Luke!"
-msgstr ""
+msgstr "Luke !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/29
 msgctxt "Luke"
 msgid "Chief Stefan! Thank the Immortals you’re still alive!"
-msgstr ""
+msgstr "Chef Stefan ! Merci les Immortels, vous êtes toujours en vie !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/40
 msgctxt "Luke"
 msgid "When I received your emergency distress beacon, I came as fast as I could."
-msgstr ""
+msgstr "Quand j'ai reçu votre balise de détresse, je suis venu aussi vite que j'ai pu."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/48
 msgctxt "Luke"
 msgid "Swarmers were dug in all along Highway Death and ambushed me right outside the outskirts of Deathbourg. Had to bash and mash nearly a dozen skulls."
-msgstr ""
+msgstr "Des Swarmers étaient embusqués tout le long de l'Autoroute de la Mort et m'ont tendu une embuscade juste aux abords de Deathbourg. J'ai dû défoncer et pulvériser près d'une douzaine de crânes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/56
 msgctxt "Luke"
 msgid "And before you ask: yes, bashing and mashing skulls is horrific — but I wasn’t gonna let any of them heathen swarmers use your blood for fuel, no sir Chief."
-msgstr ""
+msgstr "Et avant que vous demandiez : oui, défoncer et pulvériser des crânes, c'est horrible, mais je n'allais pas laisser un seul de ces Swarmers hérétiques se servir de votre sang comme carburant, non monsieur Chef."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/64
 msgctxt "Luke"
 msgid "Even if I do still hear them screaming in my dreams."
-msgstr ""
+msgstr "Même si je les entends encore hurler dans mes rêves."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/72
 msgctxt "Stefan"
 msgid "Chef. It’s <i>Chef</i> Stefan."
-msgstr ""
+msgstr "Chef cuisinier. C'est <i>Chef cuisinier</i> Stefan."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/80
 msgctxt "Luke"
 msgid "Really? Are you sure?"
-msgstr ""
+msgstr "Vraiment ? Vous êtes sûr ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/88
 msgctxt "Luke"
 msgid "What rank is that? Like a colonel?"
-msgstr ""
+msgstr "C'est quel grade, ça ? Genre colonel ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/96
 msgctxt "Stefan"
 msgid "What? No. It's not military rank. It's the title of someone who prepares meals."
-msgstr ""
+msgstr "Quoi ? Non. Ce n'est pas un grade militaire. C'est le titre de celui qui prépare les repas."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/104
 msgctxt "Stefan"
 msgid "In my case, Mitchell Linn-starred meals that will change your life."
-msgstr ""
+msgstr "Dans mon cas, des repas étoilés au Mitchelin qui te changeront la vie."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/115
 msgctxt "Luke"
 msgid "Oh man, that sounds radical. I could use a real meal lemme tell you, Chief."
-msgstr ""
+msgstr "Oh là là, ça a l'air radical. Un vrai repas, ça me ferait du bien, je vous le dis, Chef."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/123
 msgctxt "Luke"
 msgid "I’ve been subsisting off protein gels and carnitine chews for damn near 56 months now."
-msgstr ""
+msgstr "Je survis à coups de gels protéinés et de pastilles de carnitine depuis quasiment 56 mois."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/131
 msgctxt "Luke"
 msgid "It’s gotten so bad that my blood’s turned purple — and some of my less necessary organs have liquified."
-msgstr ""
+msgstr "C'est devenu tellement grave que mon sang est devenu violet et que certains de mes organes les moins indispensables se sont liquéfiés."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/139
 msgctxt "Luke"
 msgid "Ever had an organ liquify on ya, Chief?"
-msgstr ""
+msgstr "Ça vous est déjà arrivé, un organe qui se liquéfie, Chef ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/147
 msgctxt "Stefan"
 msgid "No, but this conversation is making me feel like my brain is liquifying."
-msgstr ""
+msgstr "Non, mais cette conversation me donne l'impression que mon cerveau se liquéfie."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/155
 msgctxt "Luke"
 msgid "OH CRUCK! That’s the first sign of a gamma worm infestation!"
-msgstr ""
+msgstr "OH, CRUCK ! C'est le premier signe d'une infestation de vers gamma !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/163
 msgctxt "Luke"
 msgid "They’re probably burrowing in your amygdala right now!"
-msgstr ""
+msgstr "Ils sont probablement en train de creuser dans votre amygdale en ce moment même !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/171
 msgctxt "Luke"
 msgid "Someone call a medic, stat!"
-msgstr ""
+msgstr "Quelqu'un appelle un médecin, vite !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/179/s/0
 msgctxt "Choix"
 msgid "I’m on it!"
-msgstr ""
+msgstr "Je m'en occupe !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/180/s/0
 msgctxt "Choix"
 msgid "What’s the number?"
-msgstr ""
+msgstr "C'est quoi le numéro ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/181/s/0
 msgctxt "Choix"
 msgid "Why don’t you just do it yourself?"
-msgstr ""
+msgstr "Pourquoi tu ne le fais pas toi-même ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/c-1/7
 msgctxt "Luke"
 msgid "I don’t know! Just try every number combination you can think of! One of them has to be right!"
-msgstr ""
+msgstr "Je ne sais pas ! Essayez toutes les combinaisons de chiffres auxquelles vous pensez ! Il y en a forcément une de bonne !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Ok but..."
-msgstr ""
+msgstr "D'accord mais..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/c-2/7
 msgctxt "Luke"
 msgid "I can’t dial anything with these irradiated fingers, Ranger! The bones are all limp! I got limp phalanges, Ranger!"
-msgstr ""
+msgstr "Je ne peux rien composer avec ces doigts irradiés, Ranger ! Les os sont tout mous ! J'ai des phalanges molles, Ranger !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Ok whatever."
-msgstr ""
+msgstr "Ouais, ouais, d'accord."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/0
 msgctxt "Luke"
 msgid "Quickly, Ranger: we don’t have much time!"
-msgstr ""
+msgstr "Vite, Ranger : on n'a pas beaucoup de temps !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/8
 msgctxt "Luke"
 msgid "They lay their eggs in your brain at night when it’s cool and when it’s warm out they start to thaw!"
-msgstr ""
+msgstr "Ils pondent leurs oeufs dans votre cerveau la nuit quand il fait frais, et quand il fait chaud, ils commencent à dégeler !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/16
 msgctxt "Stefan"
 msgid "Yeah, thatsgreatthatsgreatthatsgreat- Hey, speaking of thawing, that's actually the reason why I called you here."
-msgstr ""
+msgstr "Ouais, super, super, super- Hé, en parlant de dégeler, c'est justement pour ça que je t'ai fait venir."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/24
 msgctxt "Luke"
 msgid "For the mission, Chief?"
-msgstr ""
+msgstr "Pour la mission, Chef ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/32
 msgctxt "Stefan"
 msgid "What? Oh yeah sure, for \"the mission.\""
-msgstr ""
+msgstr "Quoi ? Ah oui, bien sûr, pour « la mission »."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/40
 msgctxt "Luke"
 msgid "Well I’m ready, Chief. I was <i>born</i> ready."
-msgstr ""
+msgstr "Eh bien je suis prêt, Chef. Je suis <i>né</i> prêt."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/51
 msgctxt "Luke"
 msgid "Mostly ‘cause minutes after I was born they implanted a chip inside my brain."
-msgstr ""
+msgstr "Surtout parce que quelques minutes après ma naissance, on m'a implanté une puce dans le cerveau."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/62
 msgctxt "Luke"
 msgid "Never told me what it was for; said I’d know when the time was right. And Chief, I swear to the Immortals that the time—"
-msgstr ""
+msgstr "On ne m'a jamais dit à quoi elle servait ; on m'a dit que je le saurais le moment venu. Et Chef, je jure aux Immortels que le moment-"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/73
 msgctxt "Stefan"
 msgid "Why won’t he stop talking?!"
-msgstr ""
+msgstr "Pourquoi il ne s'arrête pas de parler ?!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/81/s/0
 msgctxt "Choix"
 msgid "Maybe it’s the chip?"
-msgstr ""
+msgstr "C'est peut-être la puce ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/82/s/0
 msgctxt "Choix"
 msgid "You gotta take control! Give him orders."
-msgstr ""
+msgstr "Il faut que tu en prennes le contrôle ! Donne-lui des ordres."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/c-3/7
 msgctxt "Stefan"
 msgid "Sounds like someone needs to put him in his place."
-msgstr ""
+msgstr "On dirait que quelqu'un doit le remettre à sa place."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-0/c-4/7
 msgctxt "Stefan"
 msgid "Orders huh? Well why didn’t you just say so..."
-msgstr ""
+msgstr "Des ordres, hein ? Eh bien pourquoi tu ne l'as pas dit plus tôt..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/0
 msgctxt "Stefan"
 msgid "<i>Luke</i> listen to me, ok? As your superior officer, I need you to shut up for literally 30 seconds."
-msgstr ""
+msgstr "<i>Luke</i>, écoute-moi, d'accord ? En tant que ton officier supérieur, j'ai besoin que tu te taises pendant littéralement 30 secondes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/8
 msgctxt "Stefan"
 msgid "Can you do that one for me? Can you just shut your hole?"
-msgstr ""
+msgstr "Tu peux me faire ça ? Tu peux fermer ta gueule, juste un moment ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/16
 msgctxt "Luke"
 msgid "Yes Sir, Chief!"
-msgstr ""
+msgstr "Oui, Chef !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/24
 msgctxt "Stefan"
 msgid "Excellent! Now listen up, soldier!"
-msgstr ""
+msgstr "Excellent ! Maintenant, écoute bien, soldat !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/32
 msgctxt "Stefan"
 msgid "We’ve got a life-changing meal to serve in less than 20 minutes, and some imbecile forgot to defrost the chicken."
-msgstr ""
+msgstr "Nous avons un repas qui change la vie à servir dans moins de 20 minutes, et un imbécile a oublié de décongeler le poulet."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/40
 msgctxt "Stefan"
 msgid "And unless we can thaw that bird in record time, Operation Poulet à la Normande is facing imminent mission failure!"
-msgstr ""
+msgstr "Et à moins de décongeler cet oiseau en temps record, l'Opération Poulet à la Normande court à l'échec de la mission !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/48
 msgctxt "Stefan"
 msgid "And I don’t need to tell you what the dire consequences of mission failure would mean for us all..."
-msgstr ""
+msgstr "Et je n'ai pas besoin de te dire ce que les conséquences désastreuses d'un échec de la mission signifieraient pour nous tous..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/56
 msgctxt "Stefan"
 msgid "So soldier, can I count on you?"
-msgstr ""
+msgstr "Alors, soldat, je peux compter sur toi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/64
 msgctxt "Luke"
 msgid "Sir, yes sir!"
-msgstr ""
+msgstr "À vos ordres, Chef !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/75
 msgctxt "Stefan"
 msgid "Then throw open the chassis, soldier! We’ve got a bird to nuke!"
-msgstr ""
+msgstr "Alors ouvre grand le châssis, soldat ! On a un oiseau à nuker !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/86/s/0
 msgctxt "Choix"
 msgid "I'll just... go."
-msgstr ""
+msgstr "Je vais juste... y aller."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-1/87/s/0
 msgctxt "Choix"
 msgid "Have fun, I guess."
-msgstr ""
+msgstr "Amusez-vous bien, je suppose."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-2/0
 msgctxt "Stefan"
 msgid "That’s it, soldier! Nuke that bird straight to hell!"
-msgstr ""
+msgstr "C'est ça, soldat ! Nuke-moi cet oiseau jusqu'en enfer !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_luke/0/g-2/8
 msgctxt "Stefan"
 msgid "Now where did I put that apple brandy..."
-msgstr ""
+msgstr "Maintenant, où est-ce que j'ai mis cette eau-de-vie de pomme..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/4
 msgctxt "Stefan"
 msgid "You are persistent, aren't you?"
-msgstr ""
+msgstr "Tu es persistant, hein ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/12
 msgctxt "Stefan"
 msgid "That's a... rather attractive quality."
-msgstr ""
+msgstr "C'est une qualité... plutôt séduisante."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/23
 msgctxt "Stefan"
 msgid "Okay. I'll bite. I have no orders up. What can I interest you in?"
-msgstr ""
+msgstr "Bon. Je mords à l'hameçon. Je n'ai aucune commande en attente. Qu'est-ce qui pourrait t'intéresser ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/31
 msgctxt "Stefan"
 msgid "I make a killer soda bread."
-msgstr ""
+msgstr "Je fais un pain irlandais d'enfer."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/39/s/0
 msgctxt "Choix"
 msgid "I just wanted to get to know you more."
-msgstr ""
+msgstr "Je voulais juste mieux te connaître."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/40/s/0
 msgctxt "Choix"
 msgid "I'm trying to get you to fall in love with me."
-msgstr ""
+msgstr "J'essaie de te faire tomber amoureux de moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/c-0/7 stefan_stove/stefan_opens_up/0/c-1/7
 msgctxt "Narrator"
 msgid "Stefan raises a suspicious brow at you."
-msgstr ""
+msgstr "Stefan hausse un sourcil suspicieux dans votre direction."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/c-0/15
 msgctxt "Stefan"
 msgid "You aren't turning my knobs, are you?"
-msgstr ""
+msgstr "Tu ne serais pas en train de me tourner les boutons, par hasard ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/c-0/23
 msgctxt "Stefan"
 msgid "Everyday, I'm here making orders for these lazybones around here."
-msgstr ""
+msgstr "Tous les jours, je suis là à passer des commandes à ces fainéants."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/c-0/31
 msgctxt "Stefan"
 msgid "Rarely does one stop to ask how I'm doing."
-msgstr ""
+msgstr "Il est rare que quelqu'un s'arrête pour me demander comment je vais."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/c-0/39
 msgctxt "Mr. Cluckles"
 msgid "BAGAWWWK!"
-msgstr ""
+msgstr "COOODEC !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/c-0/47
 msgctxt "Stefan"
 msgid "Besides you, Mr. Cluckles."
-msgstr ""
+msgstr "Sauf toi, Mr. Cluckles."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/c-1/15
 msgctxt "Stefan"
 msgid "Love?? Nobody loves the head chef. Man, get outta here!"
-msgstr ""
+msgstr "De l'amour ?? Personne n'aime le chef de cuisine. Allez, dégage !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "It might be because you yell at everyone."
-msgstr ""
+msgstr "C'est peut-être parce que tu cries sur tout le monde."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/7
 msgctxt "Stefan"
 msgid "It isn't my job to be quiet. It's my job to make good food."
-msgstr ""
+msgstr "Ce n'est pas mon travail d'être discret. Mon travail, c'est de faire de la bonne cuisine."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/15
 msgctxt "Stefan"
 msgid "It's not my fault the others don't listen."
-msgstr ""
+msgstr "Ce n'est pas ma faute si les autres n'écoutent pas."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/23
 msgctxt "Stefan"
 msgid "You haven't cooked in ages. I've had to pick up all the slack."
-msgstr ""
+msgstr "Tu n'as pas cuisiné depuis une éternité. J'ai dû tout reprendre à ma charge."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/0/s/0
 msgctxt "Choix"
 msgid "Wow. Rude."
-msgstr ""
+msgstr "Wow. Malpoli."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/1/s/0
 msgctxt "Choix"
 msgid "Maybe I've been busy!"
-msgstr ""
+msgstr "J'étais peut-être occupé !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/2/s/0
 msgctxt "Choix"
 msgid "Cooking isn't really my thing."
-msgstr ""
+msgstr "La cuisine, ce n'est pas vraiment mon truc."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/7
 msgctxt "Stefan"
 msgid "I'm just serving up the truth, piping hot."
-msgstr ""
+msgstr "Je ne fais que te servir la vérité, bien chaude."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You could just try being nicer."
-msgstr ""
+msgstr "Tu pourrais essayer d'être plus gentil."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I don't have to take this from my own stove."
-msgstr ""
+msgstr "Je n'ai pas à supporter ça de la part de ma propre cuisinière."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/c-0/7
 msgctxt "Stefan"
 msgid "Okay, okay. I hear you."
-msgstr ""
+msgstr "D'accord, d'accord. Je t'entends."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-0/15/c-1/7
 msgctxt "Stefan"
 msgid "Can't stand the heat, eh? Come back when you can."
-msgstr ""
+msgstr "Tu ne supportes pas la chaleur, hein ? Reviens quand tu pourras."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/7
 msgctxt "Stefan"
 msgid "Well, MAYBE IF YOU —"
-msgstr ""
+msgstr "Eh bien, PEUT-ÊTRE QUE SI TU —"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/18
 msgctxt "Mr. Cluckles"
 msgid "Ba ba ba..."
-msgstr ""
+msgstr "Cot cot cot..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/26
 msgctxt "Stefan"
 msgid "Okay, okay..."
-msgstr ""
+msgstr "Bon, bon..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/37
 msgctxt "Stefan"
 msgid "I guess life can be pretty demanding."
-msgstr ""
+msgstr "Je suppose que la vie peut être assez exigeante."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-1/45
 msgctxt "Stefan"
 msgid "I'm sorry for boiling over like that."
-msgstr ""
+msgstr "Désolé d'avoir débordé comme ça."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/7
 msgctxt "Stefan"
 msgid "Well, maybe you aren't trying hard enough."
-msgstr ""
+msgstr "Eh bien, peut-être que tu ne fais pas assez d'efforts."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Are you always this rude?"
-msgstr ""
+msgstr "Tu es toujours aussi désagréable ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "I've tried and it's not for me."
-msgstr ""
+msgstr "J'ai essayé et ce n'est pas pour moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/c-0/7
 msgctxt "Stefan"
 msgid "It takes practice and HARD WORK! If you put forth some effort, you might be surprised!"
-msgstr ""
+msgstr "Ça demande de la pratique et du TRAVAIL ! Si tu y mettais un peu d'effort, tu aurais peut-être une surprise !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-0/c-2/31/c-2/15/c-1/7
 msgctxt "Stefan"
 msgid "If you really gave it your all, I mean really gave it your all, then I suppose... I can live with that."
-msgstr ""
+msgstr "Si tu donnais vraiment tout, mais vraiment tout, alors je suppose... que je peux faire avec."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/0
 msgctxt "Stefan"
 msgid "Cooking... transcendent."
-msgstr ""
+msgstr "Cuisiner... transcendant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/8
 msgctxt "Stefan"
 msgid "Imagine, if you will, a meal cooked by someone you care about."
-msgstr ""
+msgstr "Imagine, si tu veux bien, un repas cuisiné par quelqu'un qui compte pour toi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/16
 msgctxt "Stefan"
 msgid "There is a small little something for you to snack on, the smells of the main course wafting through the kitchen."
-msgstr ""
+msgstr "Il y a un petit quelque chose à grignoter pour toi, et les odeurs du plat principal flottent dans la cuisine."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/24
 msgctxt "Stefan"
 msgid "Your mouth, salivating in anticipation. This moment... this food foreplay? It's magical."
-msgstr ""
+msgstr "Ta bouche salive d'avance. Ce moment... ces préliminaires culinaires ? C'est magique."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/32
 msgctxt "Stefan"
 msgid "Finally, the plate is in front of you. You take your first bite and your mind races. You take in the flavors, the spices, the... everything!"
-msgstr ""
+msgstr "Enfin, l'assiette est devant toi. Tu prends ta première bouchée et ton esprit s'emballe. Tu savoures les saveurs, les épices, le... tout !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/40
 msgctxt "Stefan"
 msgid "You are feeding every part of you, even if just for a short period of time."
-msgstr ""
+msgstr "Tu nourris chaque partie de toi-même, ne serait-ce que pour un court instant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/48
 msgctxt "Stefan"
 msgid "And then... it's gone. The plate is finished, the bowl is empty, and the only thing left is your appreciation of the meal."
-msgstr ""
+msgstr "Et puis... c'est fini. L'assiette est vide, le bol est vide, et il ne reste que ton appréciation du repas."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/56
 msgctxt "Stefan"
 msgid "But, even that is now a nostalgic memory at best."
-msgstr ""
+msgstr "Mais même ça n'est plus, au mieux, qu'un souvenir nostalgique."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/64
 msgctxt "Stefan"
 msgid "At least until you have that meal again."
-msgstr ""
+msgstr "Du moins jusqu'à ce que tu refasses ce repas."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/72/s/0
 msgctxt "Choix"
 msgid "I see..."
-msgstr ""
+msgstr "Je vois..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/73/s/0
 msgctxt "Choix"
 msgid "Wow. A stovetop soliloquy."
-msgstr ""
+msgstr "Wow. Un monologue sur plaque de cuisson."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-1/c-4/7
 msgctxt "Stefan"
 msgid "The very best kind."
-msgstr ""
+msgstr "Le meilleur genre qui soit."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/0
 msgctxt "Stefan"
 msgid "Tell me, does your nose not wish to be carried away by the delicious smell of food? DOES MY FOOD NOT DELIGHT?"
-msgstr ""
+msgstr "Dis-moi, ton nez ne rêve pas de se laisser emporter par la délicieuse odeur de la cuisine ? MA CUISINE NE TE RAVIT PAS ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "The smell of some foods make me nauseous."
-msgstr ""
+msgstr "L'odeur de certains plats me donne la nausée."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/9/s/0 stefan_stove/stefan_friend_return/0/24/s/0
 msgctxt "Choix"
 msgid "Yes!"
-msgstr ""
+msgstr "Oui !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-5/7
 msgctxt "Stefan"
 msgid "You jest."
-msgstr ""
+msgstr "Tu plaisantes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-5/15/0/s/0
 msgctxt "Choix"
 msgid "Yeah, it's really off putting."
-msgstr ""
+msgstr "Non, c'est vraiment repoussant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-5/15/c-0/7
 msgctxt "Stefan"
 msgid "...that's something I've never really considered."
-msgstr ""
+msgstr "...je n'y avais jamais vraiment pensé."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/7
 msgctxt "Stefan"
 msgid "Then why don't we cook something together at long last?"
-msgstr ""
+msgstr "Alors pourquoi ne cuisinerait-on pas quelque chose ensemble, enfin ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/0/s/0 stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "That sounds great!"
-msgstr ""
+msgstr "Ça me plairait beaucoup !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/1/s/0
 msgctxt "Choix"
 msgid "Maybe..."
-msgstr ""
+msgstr "Peut-être..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/2/s/0
 msgctxt "Choix"
 msgid "I would rather have a taste of your fine ass, if you know what I mean..."
-msgstr ""
+msgstr "Je goûterais bien ton joli cul, si tu vois ce que je veux dire..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-0/7
 msgctxt "Stefan"
 msgid "There we go! That's the spirit! I knew I saw the fire in you!"
-msgstr ""
+msgstr "Voilà ! C'est ça, l'esprit ! Je savais que je voyais le feu en toi !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-0/15
 msgctxt "Stefan"
 msgid "Whenever you are ready to throw down, you let me know!"
-msgstr ""
+msgstr "Quand tu seras {{prêt|prête|prêt·e}} à te lancer, tu me le dis !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/7
 msgctxt "Stefan"
 msgid "Maybe???"
-msgstr ""
+msgstr "Peut-être ???"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/18
 msgctxt "Mr. Cluckles"
 msgid "Bagaaaawww... ba ba."
-msgstr ""
+msgstr "Codaaaaac... cot cot."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/26
 msgctxt "Stefan"
 msgid "Ugh. You're always right, Mr. Cluckles."
-msgstr ""
+msgstr "Pfff. Tu as toujours raison, Mr. Cluckles."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/37
 msgctxt "Stefan"
 msgid "I'm disappointed by 'maybe', but I simply can't wait to be enamoured by the intoxicating smell of cooking again!"
-msgstr ""
+msgstr "Ce « peut-être » me déçoit, mais j'ai hâte d'être de nouveau enivré par la senteur de la cuisine !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-1/45
 msgctxt "Stefan"
 msgid "I'll be here if you change that wildly inconsistent mind of yours."
-msgstr ""
+msgstr "Je serai là si tu changes d'avis, esprit totalement inconstant que tu es."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/7
 msgctxt "Narrator"
 msgid "Stefan squints at you."
-msgstr ""
+msgstr "Stefan vous regarde en plissant les yeux."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/15
 msgctxt "Stefan"
 msgid "Yorfinass?"
-msgstr ""
+msgstr "Tonjolicul ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/23
 msgctxt "Stefan"
 msgid "Is that... Swedish?"
-msgstr ""
+msgstr "C'est... du suédois ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/31
 msgctxt "Stefan"
 msgid "I don't- I don't know that recipe."
-msgstr ""
+msgstr "Je ne... je ne connais pas cette recette."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/0/s/0
 msgctxt "Choix"
 msgid "Come on... I'm curious to see how hot you can get."
-msgstr ""
+msgstr "Allez... j'ai envie de voir jusqu'où tu peux chauffer."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/7
 msgctxt "Stefan"
 msgid "Are you trying to stoke my own fire?"
-msgstr ""
+msgstr "Tu essaies d'attiser mon feu ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/15
 msgctxt "Stefan"
 msgid "...certainly feels like I'm sweltering."
-msgstr ""
+msgstr "...j'ai sacrément l'impression de crever de chaud."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Is that right?"
-msgstr ""
+msgstr "Ah bon ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/7
 msgctxt "Stefan"
 msgid "Why don't we, uh, cook something together later?"
-msgstr ""
+msgstr "Pourquoi on ne cuisinerait pas quelque chose ensemble, plus tard ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/15
 msgctxt "Stefan"
 msgid "This is a language I'm much more comfortable speaking."
-msgstr ""
+msgstr "C'est une langue dans laquelle je me sens bien plus à l'aise."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Sure!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Is cooking all you think about?"
-msgstr ""
+msgstr "Tu ne penses qu'à la cuisine ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-0/7
 msgctxt "Stefan"
 msgid "You sure know how to get your oven pre-heated."
-msgstr ""
+msgstr "Tu sais vraiment comment préchauffer mon four."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-0/18
 msgctxt "Stefan"
 msgid "You come back soon!"
-msgstr ""
+msgstr "Reviens vite !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-0/26
 msgctxt "Stefan"
 msgid "I'll keep the fire going for you."
-msgstr ""
+msgstr "Je garde le feu allumé pour toi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/7
 msgctxt "Stefan"
 msgid "Making food is very important to me."
-msgstr ""
+msgstr "Faire à manger, c'est très important pour moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/15
 msgctxt "Stefan"
 msgid "But... there's room enough in the kitchen for two cooks, if you catch my meaning."
-msgstr ""
+msgstr "Mais... il y a largement la place pour deux cuistots dans la cuisine, si tu vois ce que je veux dire."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/23
 msgctxt "Stefan"
 msgid "If you'd like to talk more about it, you'll have to do so a little later."
-msgstr ""
+msgstr "Si tu veux en parler plus longuement, il faudra le faire un peu plus tard."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/31
 msgctxt "Stefan"
 msgid "Once I've cooled down a bit."
-msgstr ""
+msgstr "Quand je me serai un peu refroidi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-2/c-6/18/c-2/39/c-0/23/c-0/23/c-1/39
 msgctxt "Stefan"
 msgid "I just might burn anything I touch right now, y'know what I'm sayin'."
-msgstr ""
+msgstr "Je risque de brûler tout ce que je touche en ce moment, tu vois ce que je veux dire."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/4
 msgctxt "Stefan"
 msgid "Good food should bring everyone together."
-msgstr ""
+msgstr "La bonne cuisine devrait rassembler tout le monde."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/12
 msgctxt "Stefan"
 msgid "How could anyone would be repulsed by it?!"
-msgstr ""
+msgstr "Comment peut-on en être dégoûté ?!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/20/s/0
 msgctxt "Choix"
 msgid "I'm not repulsed... but not all food is for me."
-msgstr ""
+msgstr "Ça ne me dégoûte pas... mais tout n'est pas fait pour moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/21/s/0
 msgctxt "Choix"
 msgid "Maybe you should broaden your horizons."
-msgstr ""
+msgstr "Tu devrais peut-être élargir tes horizons."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/7
 msgctxt "Stefan"
 msgid "Well, I suppose you can't like everything!"
-msgstr ""
+msgstr "Eh bien, on ne peut pas tout aimer, j'imagine !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/15/0/s/0
 msgctxt "Choix"
 msgid "Right!"
-msgstr ""
+msgstr "Exactement !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/7
 msgctxt "Stefan"
 msgid "What about this. How do you feel about making a meal that you like with me?"
-msgstr ""
+msgstr "Et si on faisait ça : qu'est-ce que tu dirais de préparer avec moi un repas qui te plaît ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Maybe another time."
-msgstr ""
+msgstr "Une autre fois, peut-être."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-0/7
 msgctxt "Stefan"
 msgid "I'm sure we can find something you find delectable."
-msgstr ""
+msgstr "Je suis sûr qu'on peut trouver quelque chose que tu trouves délectable."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-0/18
 msgctxt "Stefan"
 msgid "Come back when you're ready!"
-msgstr ""
+msgstr "Reviens quand tu seras {{prêt|prête|prêt·e}} !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-1/7
 msgctxt "Stefan"
 msgid "Well, if you change your mind I will be right here."
-msgstr ""
+msgstr "Eh bien, si tu changes d'avis, je serai ici."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-7/15/c-0/15/c-1/15
 msgctxt "Stefan"
 msgid "What an interesting conundrum... not enjoying food..."
-msgstr ""
+msgstr "Quel curieux dilemme... ne pas aimer manger..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/7
 msgctxt "Stefan"
 msgid "Are you really telling the great Chef Stefan Stove to broaden his horizons?"
-msgstr ""
+msgstr "Tu es en train de dire au grand Chef Stefan Stove d'élargir ses horizons ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/15
 msgctxt "Stefan"
 msgid "I have simmered, baked, fried, and even broiled foods from across the globe."
-msgstr ""
+msgstr "J'ai mijoté, cuit au four, frit et même grillé des plats des quatre coins du globe."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/0/s/0
 msgctxt "Choix"
 msgid "I didn't mean to offend, I'm just saying food can be triggering to people."
-msgstr ""
+msgstr "Je ne voulais pas te vexer, je dis juste que la nourriture peut être difficile à vivre pour certaines personnes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/1/s/0
 msgctxt "Choix"
 msgid "I meant considering different perspectives."
-msgstr ""
+msgstr "Je voulais dire qu'il faut envisager d'autres points de vue."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/7
 msgctxt "Stefan"
 msgid "You mean to say that food can be a negative experience?"
-msgstr ""
+msgstr "Tu veux dire que la nourriture peut être une expérience négative ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/1/s/0 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Are you always this dense?"
-msgstr ""
+msgstr "Tu as toujours la tête aussi dure ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/7
 msgctxt "Stefan"
 msgid "Outside of allergies and food poisoning, I have never considered that a meal could bring up bad memories."
-msgstr ""
+msgstr "À part les allergies et les intoxications alimentaires, je n'avais jamais envisagé qu'un repas puisse réveiller de mauvais souvenirs."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/15
 msgctxt "Stefan"
 msgid "Well the world is wide after all. Perhaps I have some things to learn."
-msgstr ""
+msgstr "Eh bien, le monde est vaste, après tout. J'ai peut-être des choses à apprendre."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I'd be glad to help."
-msgstr ""
+msgstr "Ça me ferait plaisir de t'aider."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/23/c-0/7
 msgctxt "Stefan"
 msgid "I'd like that a lot!"
-msgstr ""
+msgstr "Ça me plairait beaucoup !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-0/23/c-0/15 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/31
 msgctxt "Stefan"
 msgid "But not today, I have much to think about."
-msgstr ""
+msgstr "Mais pas aujourd'hui, j'ai beaucoup de choses à méditer."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/7
 msgctxt "Stefan"
 msgid "Have you seen my muscles? I'm as dense as steel!"
-msgstr ""
+msgstr "Tu as vu mes muscles ? Je suis dur comme l'acier !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/0/s/0 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "That's not what I meant."
-msgstr ""
+msgstr "Ce n'est pas ce que je voulais dire."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/7
 msgctxt "Stefan"
 msgid "So are we cooking together... or not?"
-msgstr ""
+msgstr "Alors, on cuisine ensemble... ou pas ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/18
 msgctxt "Stefan"
 msgid "I'm having trouble following this."
-msgstr ""
+msgstr "J'ai du mal à suivre."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/0/s/0 stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Yes, let's see if we can't teach you something new about cooking."
-msgstr ""
+msgstr "Oui, voyons si on ne peut pas t'apprendre quelque chose de nouveau sur la cuisine."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "Don't worry, I'll leave."
-msgstr ""
+msgstr "Pas de souci, je m'en vais."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/c-0/7
 msgctxt "Stefan"
 msgid "Then it's a date! Come back when you're ready, baby!"
-msgstr ""
+msgstr "Alors c'est un rendez-vous ! Reviens quand tu seras {{prêt|prête|prêt·e}}, bébé !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-0/15/c-1/15/c-0/26/c-1/7
 msgctxt "Stefan"
 msgid "So long!"
-msgstr ""
+msgstr "À bientôt !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/7
 msgctxt "Stefan"
 msgid "Like different ways to cut an onion?"
-msgstr ""
+msgstr "Comme les différentes façons de couper un oignon ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Food can bring up past trauma."
-msgstr ""
+msgstr "La nourriture peut faire remonter d'anciens traumatismes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/7
 msgctxt "Stefan"
 msgid "I don't think I get it right now..."
-msgstr ""
+msgstr "Je ne crois pas comprendre, pour l'instant..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/15
 msgctxt "Stefan"
 msgid "But I'm ready to listen to what you're saying."
-msgstr ""
+msgstr "Mais je suis prêt à écouter ce que tu dis."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-0/23
 msgctxt "Stefan"
 msgid "I would like to talk more about it..."
-msgstr ""
+msgstr "J'aimerais en parler davantage..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/7
 msgctxt "Stefan"
 msgid "Have you seen my sturdy form? I'm as dense as steel!"
-msgstr ""
+msgstr "Tu as vu ma solide carrure ? Je suis dur comme l'acier !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/7
 msgctxt "Stefan"
 msgid "Are we going to cook together or not?"
-msgstr ""
+msgstr "On va cuisiner ensemble ou pas ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "More the latter..."
-msgstr ""
+msgstr "Plutôt la seconde option..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-0/7
 msgctxt "Stefan"
 msgid "Then it's a date! Come back when you're ready, baby."
-msgstr ""
+msgstr "Alors c'est un rendez-vous ! Reviens quand tu seras {{prêt|prête|prêt·e}}, bébé."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-1/7
 msgctxt "Stefan"
 msgid "Well, if you change your mind, you know where to find me!"
-msgstr ""
+msgstr "Eh bien, si tu changes d'avis, tu sais où me trouver !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-1/15
 msgctxt "Stefan"
 msgid "Staring at... Dishy...."
-msgstr ""
+msgstr "En train de fixer... Dishy...."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_opens_up/0/g-3/c-8/26/c-1/15/c-1/15/c-0/15/c-1/26
 msgctxt "Narrator"
 msgid "Stefan's gaze wanders over to your dishwasher, a full-body shudder coming over him."
-msgstr ""
+msgstr "Le regard de Stefan dérive vers votre lave-vaisselle, et un frisson lui parcourt tout le corps."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/0
 msgctxt "Stefan"
 msgid "What??"
-msgstr ""
+msgstr "Quoi ??"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/8
 msgctxt "Stefan"
 msgid "Mr. Cluckles! That's five green bean souffles all day! Five!"
-msgstr ""
+msgstr "Mr. Cluckles ! Ça fait cinq soufflés aux haricots verts en tout ! Cinq !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/19
 msgctxt "Mr. Cluckles"
 msgid "BaAAAwA!"
-msgstr ""
+msgstr "CoAAAdeC !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/24
 msgctxt "Stefan"
 msgid "Well then, you tell them I'm working on it!"
-msgstr ""
+msgstr "Eh bien, dis-leur que j'y travaille !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/43
 msgctxt "Stefan"
 msgid "Oh... it's you."
-msgstr ""
+msgstr "Oh... c'est toi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/51
 msgctxt "Stefan"
 msgid "You got something you want to order?"
-msgstr ""
+msgstr "Tu veux commander quelque chose ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/59/s/0
 msgctxt "Choix"
 msgid "I wanted to catch up with you."
-msgstr ""
+msgstr "Je voulais prendre de tes nouvelles."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/60/s/0
 msgctxt "Choix"
 msgid "I came back to see if you were still rude."
-msgstr ""
+msgstr "Je repasse voir si tu es toujours aussi grossier."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/7
 msgctxt "Stefan"
 msgid "I would love nothing more..."
-msgstr ""
+msgstr "Je ne demanderais rien de mieux..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/18
 msgctxt "Stefan"
 msgid "Because here with you... the sun dims, the stars pale, the moon herself bows to the glow of your brow..."
-msgstr ""
+msgstr "Car ici avec toi... le soleil pâlit, les étoiles blêmissent, la lune elle-même s'incline devant l'éclat de ton front..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/26
 msgctxt "Stefan"
 msgid "Here with you, is there music? I hear only the beat of my heart as it seeks the rhythm of your own through the liquid dawn. COME ON NOW!"
-msgstr ""
+msgstr "Ici avec toi, y a-t-il de la musique ? Je n'entends que les battements de mon coeur qui cherche le rythme du tien à travers l'aube liquide. ALLEZ, QUOI !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "Stefan? What are you saying?"
-msgstr ""
+msgstr "Stefan ? Qu'est-ce que tu racontes ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/1/s/0
 msgctxt "Choix"
 msgid "In your dreams!"
-msgstr ""
+msgstr "Dans tes rêves !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/2/s/0
 msgctxt "Choix"
 msgid "Yes, quite!"
-msgstr ""
+msgstr "Absolument !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/0
 msgctxt "Stefan"
 msgid "Haha! Thought I'd try one of Cabrizzio's lines!"
-msgstr ""
+msgstr "Haha ! J'ai voulu tenter une réplique de Cabrizzio !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/0/s/0
 msgctxt "Choix"
 msgid "It doesn't really suit you..."
-msgstr ""
+msgstr "Ça ne te va pas vraiment..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/1/s/0
 msgctxt "Choix"
 msgid "I kinda like it."
-msgstr ""
+msgstr "Je trouve ça plutôt joli."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/c-0/7
 msgctxt "Stefan"
 msgid "Better off being myself then."
-msgstr ""
+msgstr "Je ferais mieux d'être moi-même, alors."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/c-1/7
 msgctxt "Stefan"
 msgid "I'll have to ask him to give me some more bon mots..."
-msgstr ""
+msgstr "Il faudra que je lui demande de me donner d'autres bons mots..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/0
 msgctxt "Stefan"
 msgid "Anyway... What's up?"
-msgstr ""
+msgstr "Bref... Qu'est-ce qui t'amène ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/0/s/0 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I wonder... why do you take food so seriously?"
-msgstr ""
+msgstr "Je me demande... pourquoi tu prends la nourriture si au sérieux ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/7 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/7
 msgctxt "Stefan"
 msgid "Aside from the fact that I'm a stove?"
-msgstr ""
+msgstr "À part le fait que je suis une cuisinière ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/15 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/15
 msgctxt "Stefan"
 msgid "Sure..."
-msgstr ""
+msgstr "Bien sûr..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/23 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/23
 msgctxt "Stefan"
 msgid "Mr. Cluckles! Taking five!"
-msgstr ""
+msgstr "Mr. Cluckles ! Pause de cinq minutes !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/31 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/31
 msgctxt "Mr. Cluckles"
 msgid "Bagaw!"
-msgstr ""
+msgstr "Codec !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/36 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/36
 msgctxt "Stefan"
 msgid "Because it's a backstory!"
-msgstr ""
+msgstr "Parce que j'ai un passé !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-0/34/g-0/14/g-0/8/c-0/44 stefan_stove/stefan_second_encounter/0/c-1/15/c-0/15/c-0/44
 msgctxt "Mr. Cluckles"
 msgid "Bu ba bu bu bu bu bug..."
-msgstr ""
+msgstr "Cot co cot cot cot cot cot..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-1/7
 msgctxt "Stefan"
 msgid "About that... I'm sorry. Sometimes the stress of the job gets me a little carried away."
-msgstr ""
+msgstr "À ce propos... je suis désolé. Parfois le stress du travail me fait m'emporter un peu."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Apology accepted."
-msgstr ""
+msgstr "Excuses acceptées."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "Is that your idea of an apology?"
-msgstr ""
+msgstr "C'est ça, ta façon de t'excuser ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-1/15/c-0/7
 msgctxt "Stefan"
 msgid "Huh, I'm glad we can move forward."
-msgstr ""
+msgstr "Ah, content qu'on puisse aller de l'avant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-1/15/c-1/7
 msgctxt "Stefan"
 msgid "I sincerely apologized to you. What more do you want?"
-msgstr ""
+msgstr "Je me suis sincèrement excusé auprès de toi. Que veux-tu de plus ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_second_encounter/0/c-1/15/c-1/18/0/s/0
 msgctxt "Choix"
 msgid "Nothing, I guess."
-msgstr ""
+msgstr "Rien, je suppose."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/8
 msgctxt "Stefan"
 msgid "My mother, an old chiminea, bless her hearth, always told me that true love blossoms in the kitchen."
-msgstr ""
+msgstr "Ma mère, une vieille cheminée d'extérieur, paix à son foyer, m'a toujours dit que le véritable amour s'épanouit dans la cuisine."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/16
 msgctxt "Stefan"
 msgid "The reason I work so hard is to honor that saying."
-msgstr ""
+msgstr "Si je travaille aussi dur, c'est pour honorer ce dicton."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/24
 msgctxt "Stefan"
 msgid "To me, food is the delicate act of uniting those from all walks of life."
-msgstr ""
+msgstr "Pour moi, la cuisine est l'art délicat de réunir des gens de tous horizons."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/32
 msgctxt "Stefan"
 msgid "It's a brief moment where you can escape from the business of modern life and just enjoy."
-msgstr ""
+msgstr "C'est un bref moment où l'on peut échapper à l'agitation de la vie moderne et simplement profiter."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/40
 msgctxt "Stefan"
 msgid "Breathe."
-msgstr ""
+msgstr "Respirer."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/48
 msgctxt "Stefan"
 msgid "It's a reminder that hard work often rewards us with fulfillment."
-msgstr ""
+msgstr "C'est un rappel que le travail acharné nous récompense souvent par de l'épanouissement."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/56/s/0
 msgctxt "Choix"
 msgid "But whenever you work, you're always yelling and super busy!"
-msgstr ""
+msgstr "Mais dès que tu travailles, tu cries tout le temps et tu es hyper occupé !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/57/s/0
 msgctxt "Choix"
 msgid "That's kind of romantic."
-msgstr ""
+msgstr "C'est plutôt romantique."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/c-0/7
 msgctxt "Stefan"
 msgid "Of course!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/c-0/15
 msgctxt "Stefan"
 msgid "I keep it that way so that my patrons can enjoy their meal without thinking of those who crafted it!"
-msgstr ""
+msgstr "Je fais en sorte que ce soit ainsi pour que mes clients puissent savourer leur repas sans penser à ceux qui l'ont conçu !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/c-0/23
 msgctxt "Stefan"
 msgid "That's why I work behind closed oven doors most of the time..."
-msgstr ""
+msgstr "C'est pour ça que je travaille derrière les portes closes du four la plupart du temps..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/c-0/31
 msgctxt "Stefan"
 msgid "So that the finished piece appears effortless."
-msgstr ""
+msgstr "Pour que l'oeuvre finie paraisse sans effort."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/c-1/7
 msgctxt "Stefan"
 msgid "I'm glad you think so!"
-msgstr ""
+msgstr "Je suis content que tu le penses !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-0/8
 msgctxt "Stefan"
 msgid "Would you... like to hear a secret?"
-msgstr ""
+msgstr "Tu... voudrais entendre un secret ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "Sure..."
-msgstr ""
+msgstr "Bien sûr..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "No..."
-msgstr ""
+msgstr "Non..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-0/c-2/7
 msgctxt "Stefan"
 msgid "I really hate raw food."
-msgstr ""
+msgstr "Je déteste vraiment la nourriture crue."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-0/c-3/15
 msgctxt "Stefan"
 msgid "I really hate raw food!"
-msgstr ""
+msgstr "Je déteste vraiment la nourriture crue !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "That makes sense, I suppose."
-msgstr ""
+msgstr "Ça se comprend, je suppose."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "You don't say?"
-msgstr ""
+msgstr "Sans blague ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/0
 msgctxt "Stefan"
 msgid "It tends not to be fragrant and it's usually only simple prep work."
-msgstr ""
+msgstr "Elle n'a généralement pas d'odeur, et ce n'est le plus souvent que de la simple préparation."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/8
 msgctxt "Stefan"
 msgid "All the satisfaction of managing heat, wafting in the aroma of roasting ingredients, waiting for everything to be done exactly right and at exactly the right time..."
-msgstr ""
+msgstr "Toute la satisfaction de maîtriser la chaleur, de humer l'arôme des ingrédients qui rôtissent, d'attendre que tout soit prêt exactement comme il faut et exactement au bon moment..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/16
 msgctxt "Stefan"
 msgid "It's all gone."
-msgstr ""
+msgstr "Tout ça disparaît."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/24
 msgctxt "Stefan"
 msgid "It's replaced with the cold precision that is best left for hospitals."
-msgstr ""
+msgstr "Ça laisse place à la précision froide qu'on ferait mieux de réserver aux hôpitaux."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/32/s/0
 msgctxt "Choix"
 msgid "I can see that..."
-msgstr ""
+msgstr "Je vois ce que tu veux dire..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/33/s/0
 msgctxt "Choix"
 msgid "No way! Raw food is the best!"
-msgstr ""
+msgstr "Pas du tout ! Le cru, c'est le meilleur !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/7
 msgctxt "Stefan"
 msgid "You can?"
-msgstr ""
+msgstr "Vraiment ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/15
 msgctxt "Stefan"
 msgid "You can!"
-msgstr ""
+msgstr "Vraiment !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/23
 msgctxt "Stefan"
 msgid "Please... get the word out. Raw is blah!"
-msgstr ""
+msgstr "S'il te plaît... fais passer le mot. Le cru, c'est bof !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/31/0/s/0
 msgctxt "Choix"
 msgid "Raw is blah!"
-msgstr ""
+msgstr "Le cru, c'est bof !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/31/1/s/0
 msgctxt "Choix"
 msgid "Cooked is Crooked!"
-msgstr ""
+msgstr "Le cuit, c'est truqué !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/31/2/s/0
 msgctxt "Choix"
 msgid "Food culture is subjective to different lived experiences!"
-msgstr ""
+msgstr "La culture culinaire dépend des expériences vécues de chacun !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/31/c-0/7
 msgctxt "Stefan"
 msgid "Yes!!"
-msgstr ""
+msgstr "Oui !!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/31/c-1/7
 msgctxt "Stefan"
 msgid "No!! No!!"
-msgstr ""
+msgstr "Non !! Non !!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-6/31/c-1/18 stefan_stove/stefan_backstory/0/g-2/c-6/31/c-2/7
 msgctxt "Stefan"
 msgid "That doesn't even really rhyme!"
-msgstr ""
+msgstr "Ça ne rime même pas vraiment !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-7/11
 msgctxt "Stefan"
 msgid "I respect your opinion."
-msgstr ""
+msgstr "Je respecte ton opinion."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-2/c-7/19
 msgctxt "Stefan"
 msgid "Even if it isn't the right one."
-msgstr ""
+msgstr "Même si ce n'est pas la bonne."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-3/0
 msgctxt "Mr. Cluckles"
 msgid "BAGAWAW bu bu bu BAGAWAWA!"
-msgstr ""
+msgstr "CODECODEC cot cot cot CODECODECO !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-3/5
 msgctxt "Stefan"
 msgid "ALL RIGHT MR. CLUCKLES I'M COMING!"
-msgstr ""
+msgstr "TRÈS BIEN MR. CLUCKLES, J'ARRIVE !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-3/13
 msgctxt "Stefan"
 msgid "Thanks for hearing me out."
-msgstr ""
+msgstr "Merci de m'avoir écouté."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_backstory/0/g-3/21
 msgctxt "Stefan"
 msgid "Come on over sometime and I'll make you something special."
-msgstr ""
+msgstr "Passe me voir un de ces jours et je te préparerai quelque chose de spécial."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/8
 msgctxt "Stefan"
 msgid "Hey! Thanks for coming back."
-msgstr ""
+msgstr "Hé ! Merci de revenir me voir."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/16
 msgctxt "Stefan"
 msgid "I know I kind of put you on ice the last time you came to talk with me."
-msgstr ""
+msgstr "Je sais que je t'ai un peu mis au frigo la dernière fois que tu es venu me parler."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/24/s/0
 msgctxt "Choix"
 msgid "I hope there is a good reason!"
-msgstr ""
+msgstr "J'espère qu'il y a une bonne raison !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/25/s/0
 msgctxt "Choix"
 msgid "It's okay."
-msgstr ""
+msgstr "Ce n'est pas grave."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/c-0/7
 msgctxt "Stefan"
 msgid "There is!"
-msgstr ""
+msgstr "Il y en a une !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/c-1/7
 msgctxt "Stefan"
 msgid "I appreciate how calm you are about all of this."
-msgstr ""
+msgstr "J'apprécie que tu restes aussi calme par rapport à tout ça."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/c-1/15
 msgctxt "Stefan"
 msgid "I could... learn your ways..."
-msgstr ""
+msgstr "Je pourrais... apprendre tes méthodes..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-0/0
 msgctxt "Stefan"
 msgid "Well."
-msgstr ""
+msgstr "Bon."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-0/8
 msgctxt "Stefan"
 msgid "Mr. Cluckles and I have been talking."
-msgstr ""
+msgstr "Mr. Cluckles et moi, on a discuté."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "This should be good."
-msgstr ""
+msgstr "Ça va être croustillant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "If you can call what he does 'talking'."
-msgstr ""
+msgstr "Si tu peux appeler « discuter » ce qu'il fait."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-0/c-3/7
 msgctxt "Stefan"
 msgid "Squawking, rather."
-msgstr ""
+msgstr "Caqueter, plutôt."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/0
 msgctxt "Stefan"
 msgid "He said that your level-headedness was something to be admired."
-msgstr ""
+msgstr "Il a dit que ton sang-froid était admirable."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/8
 msgctxt "Stefan"
 msgid "And I said I wouldn't call it that... more of a naive curiosity masquerading as—"
-msgstr ""
+msgstr "Et j'ai répondu que je n'appellerais pas ça comme ça... plutôt une curiosité naïve qui se fait passer pour-"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/16
 msgctxt "Mr. Cluckles"
 msgid "GAW!"
-msgstr ""
+msgstr "CODEC !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/24
 msgctxt "Stefan"
 msgid "Ah, yes. I'm getting carried away."
-msgstr ""
+msgstr "Ah, oui. Je m'emporte."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/43
 msgctxt "Stefan"
 msgid "I wanted to present something to you."
-msgstr ""
+msgstr "Je voulais te présenter quelque chose."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/51
 msgctxt "Stefan"
 msgid "I know I came across a bit heated."
-msgstr ""
+msgstr "Je sais que j'ai été un peu soupe au lait."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/59
 msgctxt "Stefan"
 msgid "So.... I made you something... raw."
-msgstr ""
+msgstr "Alors... je t'ai préparé quelque chose... de cru."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/67
 msgctxt "Narrator"
 msgid "He presents a covered silver dish to you, removing the cover with a flourish."
-msgstr ""
+msgstr "Il vous présente un plat d'argent couvert, et soulève le couvercle d'un geste théâtral."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/78
 msgctxt "Stefan"
 msgid "A nice heaping platter of SUSHI!"
-msgstr ""
+msgstr "Un bon gros plateau de SUSHIS !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/86/s/0
 msgctxt "Choix"
 msgid "You made a raw meal? For me?"
-msgstr ""
+msgstr "Tu as préparé un repas cru ? Pour moi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/c-4/7
 msgctxt "Stefan"
 msgid "I don't need to be yelling and carrying on all the time about my conceited opinions."
-msgstr ""
+msgstr "Je n'ai pas besoin de crier et de m'agiter tout le temps avec mes opinions prétentieuses."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-1/c-4/15
 msgctxt "Stefan"
 msgid "I just need to remember those who I'm making it for."
-msgstr ""
+msgstr "Il faut juste que je me souvienne de ceux pour qui je cuisine."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "Nice! I love raw stuff like this!"
-msgstr ""
+msgstr "Génial ! J'adore ce genre de truc cru !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/1/s/0
 msgctxt "Choix"
 msgid "Ugh... this is terrible. Raw is Blah!"
-msgstr ""
+msgstr "Beurk... c'est affreux. Le cru, c'est bof !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/7
 msgctxt "Stefan"
 msgid "Yes! That smile on a patron's face is the spice of life!"
-msgstr ""
+msgstr "Oui ! Ce sourire sur le visage d'un client, c'est le piment de la vie !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/0/s/0
 msgctxt "Choix"
 msgid "Am I more than a patron to you, Stefan?"
-msgstr ""
+msgstr "Je suis plus qu'un client pour toi, Stefan ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/7
 msgctxt "Stefan"
 msgid "Well... there's only one way to find out."
-msgstr ""
+msgstr "Eh bien... il n'y a qu'un moyen de le savoir."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/15
 msgctxt "Stefan"
 msgid "Will you cook with me?"
-msgstr ""
+msgstr "Tu cuisineras avec moi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/0/s/0 stefan_stove/stefan_realize_join/0/22/s/0
 msgctxt "Choix"
 msgid "Of course!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "No... I hope you're all right with that."
-msgstr ""
+msgstr "Non... j'espère que ça te va."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/c-0/7
 msgctxt "Stefan"
 msgid "Fantastic! To the stovetop! Let's go!"
-msgstr ""
+msgstr "Fantastique ! Direction les fourneaux ! Allons-y !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/c-1/7
 msgctxt "Stefan"
 msgid "I respect that."
-msgstr ""
+msgstr "Je respecte ça."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-5/18/c-0/23/c-1/15
 msgctxt "Stefan"
 msgid "Aight, how about this? Let's keep things casual. We all need that one friend who can cook, right?"
-msgstr ""
+msgstr "D'accord, et si on faisait ça ? On reste décontractés. On a tous besoin d'un ami qui sait cuisiner, non ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/7
 msgctxt "Stefan"
 msgid "SEE MR. CLUCKLES!?"
-msgstr ""
+msgstr "TU VOIS, MR. CLUCKLES !?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/15
 msgctxt "Stefan"
 msgid "Hup!"
-msgstr ""
+msgstr "Hop !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/26
 msgctxt "Narrator"
 msgid "Stefan wrenches the plate from your grasp and tosses it into the trash with a speed and intensity that could generously be described as 'excessive'."
-msgstr ""
+msgstr "Stefan vous arrache l'assiette des mains et la jette à la poubelle avec une vitesse et une intensité que l'on pourrait généreusement qualifier d'« excessives »."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/37/b/1
 msgctxt "Cam"
 msgid "...SCORE!!"
-msgstr ""
+msgstr "...GAGNÉ !!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/40
 msgctxt "Stefan"
 msgid "Good on you for letting me humor the little chick."
-msgstr ""
+msgstr "Merci de m'avoir laissé faire plaisir au petit poussin."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/48
 msgctxt "Stefan"
 msgid "We know why we're here - to eat some nice warm food!"
-msgstr ""
+msgstr "On sait pourquoi on est là : pour manger un bon plat chaud !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/56
 msgctxt "Stefan"
 msgid "Shall we?"
-msgstr ""
+msgstr "On y va ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/0/s/0
 msgctxt "Choix"
 msgid "Definitely."
-msgstr ""
+msgstr "Carrément."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/1/s/0
 msgctxt "Choix"
 msgid "Actually... I'm just not that into food."
-msgstr ""
+msgstr "En fait... la nourriture, ce n'est pas trop mon truc."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/c-1/10
 msgctxt "Stefan"
 msgid "...you're right. You told me that."
-msgstr ""
+msgstr "...tu as raison. Tu me l'avais dit."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_sushi_date/0/g-2/c-6/64/c-1/21
 msgctxt "Stefan"
 msgid "I have to tell you something."
-msgstr ""
+msgstr "Il faut que je te dise quelque chose."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/0
 msgctxt "Stefan"
 msgid "That first time we really talked about food and how it made you uncomfortable... it really made me think."
-msgstr ""
+msgstr "La première fois qu'on a vraiment parlé de nourriture et de la façon dont elle te mettait mal à l'aise... ça m'a vraiment fait réfléchir."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/8
 msgctxt "Stefan"
 msgid "You are, in fact, the first one here to make me do so."
-msgstr ""
+msgstr "Tu es, en fait, le premier ici à m'y avoir poussé."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/16
 msgctxt "Stefan"
 msgid "Everyone else just lets me go off on a boil, but you make me simmer."
-msgstr ""
+msgstr "Tous les autres me laissent bouillir de rage, mais toi, tu me fais mijoter."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/24
 msgctxt "Stefan"
 msgid "You give me things to stew on."
-msgstr ""
+msgstr "Tu me donnes de quoi ruminer à feu doux."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/32
 msgctxt "Stefan"
 msgid "I won't cook for you if you don't want me to. But I would regard you as my friend."
-msgstr ""
+msgstr "Je ne cuisinerai pas pour toi si tu ne le veux pas. Mais je te considérerais comme mon ami."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/40
 msgctxt "Stefan"
 msgid "If you'll have me."
-msgstr ""
+msgstr "Si tu veux bien de moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/48/s/0
 msgctxt "Choix"
 msgid "I would, Stefan. Thank you for respecting my choices."
-msgstr ""
+msgstr "Avec plaisir, Stefan. Merci de respecter mes choix."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/49/s/0
 msgctxt "Choix"
 msgid "Oh, well actually... are there nachos involved?"
-msgstr ""
+msgstr "Oh, eh bien en fait... il y a des nachos dans le coin ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/c-0/7
 msgctxt "Stefan"
 msgid "Now, don't get up in arms if I mention food again! It's just still kinda my... whole deal."
-msgstr ""
+msgstr "Maintenant, ne monte pas sur tes grands chevaux si je reparle de nourriture ! C'est encore un peu... mon truc, quoi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/c-0/12
 msgctxt "Stefan"
 msgid "But if you want to come by and talk about anything else, my pilot light is always on for you."
-msgstr ""
+msgstr "Mais si tu veux passer discuter de n'importe quoi d'autre, ma veilleuse est toujours allumée pour toi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/c-1/7
 msgctxt "Stefan"
 msgid "Perhaps..."
-msgstr ""
+msgstr "Peut-être..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "To the stovetop!"
-msgstr ""
+msgstr "Direction les fourneaux !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_nocook/0/c-1/15/c-0/7
 msgctxt "Stefan"
 msgid "I'm there!"
-msgstr ""
+msgstr "J'y suis !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/0
 msgctxt "Stefan"
 msgid "Now what do we make?"
-msgstr ""
+msgstr "Alors, on prépare quoi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/8/s/0
 msgctxt "Choix"
 msgid "An appetizer!"
-msgstr ""
+msgstr "Une entrée !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/9/s/0
 msgctxt "Choix"
 msgid "I'm thinking a main course..."
-msgstr ""
+msgstr "Je pense à un plat principal..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/10/s/0
 msgctxt "Choix"
 msgid "Gotta get some nice dessert!"
-msgstr ""
+msgstr "Il nous faut un bon dessert !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-0/7
 msgctxt "Stefan"
 msgid "A perfect way to set your palate. A little foreplay before the main course!"
-msgstr ""
+msgstr "Une façon parfaite de préparer ton palais. Un petit préliminaire avant le plat de résistance !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-0/24
 msgctxt "Stefan"
 msgid "Here we are - using one of my sheet pans - Nachos á la Estufa!"
-msgstr ""
+msgstr "Voilà, sur l'une de mes plaques : des Nachos á la Estufa !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-1/7
 msgctxt "Stefan"
 msgid "Getting right into the thick of it!"
-msgstr ""
+msgstr "On entre directement dans le vif du sujet !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-1/18
 msgctxt "Stefan"
 msgid "Now this one takes some time and effort..."
-msgstr ""
+msgstr "Celui-là demande du temps et des efforts..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-1/32/b/4
 msgctxt "Stefan"
 msgid "But with a steady hand and experience - you can have your very own tender and succulent Beef Wellington."
-msgstr ""
+msgstr "Mais avec une main sûre et de l'expérience, tu peux obtenir ton propre Boeuf Wellington tendre et succulent."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-1/35/b/4
 msgctxt "Stefan"
 msgid "But with a steady hand and experience - you can have your very own tender and succulent Mushroom Wellington."
-msgstr ""
+msgstr "Mais avec une main sûre et de l'expérience, tu peux obtenir ton propre Wellington aux champignons tendre et succulent."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-1/38/0/s/0
 msgctxt "Choix"
 msgid "But, I'm vegetarian."
-msgstr ""
+msgstr "Mais moi, je ne mange pas de viande."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-1/38/1/s/0
 msgctxt "Choix"
 msgid "Yum!"
-msgstr ""
+msgstr "Miam !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-1/38/c-0/11
 msgctxt "Stefan"
 msgid "Don't you think I know that! It's vegetarian beef made from mushroom duxelles - a mince carefully prepared by Chef Stefan!"
-msgstr ""
+msgstr "Tu crois que je ne le sais pas ! C'est du boeuf végétarien à base de duxelles de champignons, un hachis soigneusement préparé par le Chef Stefan !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-2/7
 msgctxt "Stefan"
 msgid "Dessert is like the end of a really good book. It should leave you satisfied and fulfilled."
-msgstr ""
+msgstr "Le dessert, c'est comme la fin d'un très bon livre. Il doit te laisser comblé et rassasié."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-2/18
 msgctxt "Stefan"
 msgid "And maybe a little tired..."
-msgstr ""
+msgstr "Et peut-être un peu fatigué..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-2/32
 msgctxt "Stefan"
 msgid "It's the hottest dessert around... Baked Alaska!"
-msgstr ""
+msgstr "C'est le dessert le plus chaud du moment... l'omelette norvégienne !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/c-2/43
 msgctxt "Stefan"
 msgid "Enjoy!"
-msgstr ""
+msgstr "Bon appétit !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/0
 msgctxt "Stefan"
 msgid "You really understand a way to a stove's heart."
-msgstr ""
+msgstr "Tu connais vraiment le chemin du coeur d'une cuisinière."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/8
 msgctxt "Stefan"
 msgid "Now wasn't that easy?"
-msgstr ""
+msgstr "C'était pas facile, peut-être ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/19/s/0
 msgctxt "Choix"
 msgid "You did all the work! I'm not very good at cooking."
-msgstr ""
+msgstr "La cuisine, c'est pas vraiment mon fort. C'est toi qui as tout fait !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/20/s/0
 msgctxt "Choix"
 msgid "Kind of..."
-msgstr ""
+msgstr "Un peu..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-3/7
 msgctxt "Stefan"
 msgid "You get what you put in."
-msgstr ""
+msgstr "On récolte ce qu'on sème."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-3/15
 msgctxt "Stefan"
 msgid "No one starts off being a world class chef."
-msgstr ""
+msgstr "Personne ne commence en étant chef de renommée mondiale."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-3/23
 msgctxt "Stefan"
 msgid "You learn little by little along the way."
-msgstr ""
+msgstr "On apprend petit à petit en chemin."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-3/31/0/s/0
 msgctxt "Choix"
 msgid "It's not so scary when you put it that way."
-msgstr ""
+msgstr "Ça fait moins peur dit comme ça."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-3/31/1/s/0
 msgctxt "Choix"
 msgid "Yeah! It's fun too!"
-msgstr ""
+msgstr "Ouais ! C'est amusant aussi !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-3/31/c-0/7
 msgctxt "Stefan"
 msgid "It just takes practice and patience."
-msgstr ""
+msgstr "Il faut juste de la pratique et de la patience."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/7
 msgctxt "Stefan"
 msgid "Kind of?"
-msgstr ""
+msgstr "Un peu ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/15/0/s/0
 msgctxt "Choix"
 msgid "I didn't do anything at all."
-msgstr ""
+msgstr "Je n'ai rien fait du tout."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/7
 msgctxt "Stefan"
 msgid "Ah, but you did! You did the most important thing of all."
-msgstr ""
+msgstr "Ah, mais si ! Tu as fait la chose la plus importante de toutes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/15
 msgctxt "Stefan"
 msgid "Inspire this old chef into making something fun."
-msgstr ""
+msgstr "Inspirer ce vieux chef pour qu'il prépare quelque chose d'amusant."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/23
 msgctxt "Stefan"
 msgid "And taking the time to relax, explore raw foods and do it well."
-msgstr ""
+msgstr "Et prendre le temps de se détendre, d'explorer les aliments crus et de bien le faire."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/31
 msgctxt "Mr. Cluckles"
 msgid "BGAG!"
-msgstr ""
+msgstr "BGAG !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/39
 msgctxt "Narrator"
 msgid "Stefan frowns."
-msgstr ""
+msgstr "Stefan fronce les sourcils."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-0/4/c-4/15/c-0/58
 msgctxt "Stefan"
 msgid "That time he really just did say \"Bgag\"."
-msgstr ""
+msgstr "Cette fois, il a vraiment juste dit « Bgag »."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-2/0
 msgctxt "Stefan"
 msgid "...I suppose a little respite is worth the effort."
-msgstr ""
+msgstr "...je suppose qu'un petit répit vaut bien l'effort."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-2/8
 msgctxt "Stefan"
 msgid "You know, I really enjoyed cooking with you."
-msgstr ""
+msgstr "Tu sais, j'ai vraiment aimé cuisiner avec toi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-2/16
 msgctxt "Stefan"
 msgid "Perhaps you could give this old stove a whirl and... do it again?"
-msgstr ""
+msgstr "Peut-être que tu pourrais tenter ta chance avec ce vieux fourneau et... recommencer ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "I'd love nothing more!"
-msgstr ""
+msgstr "Avec grand plaisir !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "It was a little much for me."
-msgstr ""
+msgstr "C'était un peu trop pour moi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_cook/0/g-2/26/s/0
 msgctxt "Choix"
 msgid "It was literally the worst experience I've had."
-msgstr ""
+msgstr "C'était littéralement la pire expérience de ma vie."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_path/0
 msgctxt "Stefan"
 msgid "You know what? I think we're done here."
-msgstr ""
+msgstr "Tu sais quoi ? Je crois qu'on en a fini ici."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_path/11
 msgctxt "Stefan"
 msgid "It's very clear that you don't value what I have to say."
-msgstr ""
+msgstr "Il est très clair que tu n'accordes aucune valeur à ce que j'ai à dire."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_path/19
 msgctxt "Stefan"
 msgid "You've turned my passions into a cold flame."
-msgstr ""
+msgstr "Tu as transformé mes passions en flamme froide."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_path/27
 msgctxt "Stefan"
 msgid "I don't think I'll ever cook again."
-msgstr ""
+msgstr "Je crois que je ne cuisinerai plus jamais."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_path/35
 msgctxt "Stefan"
 msgid "How can I when the very thought of making food reminds me of you?"
-msgstr ""
+msgstr "Comment le pourrais-je alors que la seule idée de faire à manger me rappelle toi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_path/43
 msgctxt "Stefan"
 msgid "I hope you enjoy raw food... for it is the one thing in this world that I hate."
-msgstr ""
+msgstr "J'espère que tu aimeras la nourriture crue... car c'est la seule chose au monde que je déteste."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_path/88
 msgctxt "Reggie"
 msgid "Rejection is a dish best served cold."
-msgstr ""
+msgstr "Le rejet est un plat qui se sert froid."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_love_ending/0
 msgctxt "Stefan"
 msgid "You have set my heart aflame!"
-msgstr ""
+msgstr "Tu as enflammé mon coeur !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_love_ending/8
 msgctxt "Stefan"
 msgid "From this moment forth I burn only for you, baby!"
-msgstr ""
+msgstr "À partir de cet instant, je ne brûle que pour toi, bébé !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_love_ending/16
 msgctxt "Stefan"
 msgid "How I tremble in anticipation of cooking side by side again!"
-msgstr ""
+msgstr "Comme je tremble d'impatience à l'idée de cuisiner de nouveau côte à côte !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_love_ending/27
 msgctxt "Stefan"
 msgid "Together we shall make the most delicious food the world has ever known."
-msgstr ""
+msgstr "Ensemble, nous préparerons les plats les plus délicieux que le monde ait jamais connus."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_love_ending/35
 msgctxt "Stefan"
 msgid "And most importantly, it'll be solely for us!"
-msgstr ""
+msgstr "Et surtout, ce sera rien que pour nous !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_ending/0
 msgctxt "Stefan"
 msgid "I'm really glad that we got a chance to bond together."
-msgstr ""
+msgstr "Je suis vraiment content qu'on ait eu l'occasion de tisser des liens."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_ending/11
 msgctxt "Stefan"
 msgid "I think we can both learn a lot from each other."
-msgstr ""
+msgstr "Je crois qu'on peut tous les deux beaucoup apprendre l'un de l'autre."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_ending/19
 msgctxt "Stefan"
 msgid "You can count on Stefan to always have your back my dear friend."
-msgstr ""
+msgstr "Tu peux compter sur Stefan pour toujours te soutenir, mon cher ami."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_ending/27
 msgctxt "Stefan"
 msgid "And of course I'll always be around to cook with you, if you ever want!"
-msgstr ""
+msgstr "Et bien sûr, je serai toujours là pour cuisiner avec toi, si tu en as envie !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_return/0/8 stefan_stove/nocooking_friend_return/0/0
 msgctxt "Stefan"
 msgid "My friend!"
-msgstr ""
+msgstr "Mon ami !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_return/0/16
 msgctxt "Stefan"
 msgid "Here to cook again?"
-msgstr ""
+msgstr "Tu viens cuisiner de nouveau ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_return/0/25/s/0
 msgctxt "Choix"
 msgid "Just came to check on Chef!"
-msgstr ""
+msgstr "Je passais juste voir Chef !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_return/0/26/s/0 stefan_stove/nocooking_friend_return/0/17/s/0
 msgctxt "Choix"
 msgid "I want to Realize you, Stefan!"
-msgstr ""
+msgstr "Je veux te Réaliser, Stefan !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_return/0/c-0/7
 msgctxt "Stefan"
 msgid "Then let's cook and enjoy!"
-msgstr ""
+msgstr "Alors cuisinons et régalons-nous !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_return/0/c-1/7
 msgctxt "Stefan"
 msgid "Thanks for coming 'round. I'll make you something special."
-msgstr ""
+msgstr "Merci de passer. Je vais te préparer quelque chose de spécial."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_friend_return/0/c-1/15
 msgctxt "Narrator"
 msgid "With your friend Chef Stefan, every meal is a special one."
-msgstr ""
+msgstr "Avec votre ami Chef Stefan, chaque repas est un repas d'exception."
 
+# Traduction IA – à relire
 #: stefan_stove/nocooking_friend_return/0/8
 msgctxt "Stefan"
 msgid "Here to regale me of tales outside my comfort zone?"
-msgstr ""
+msgstr "Tu viens me raconter des histoires qui sortent de ma zone de confort ?"
 
+# Traduction IA – à relire
 #: stefan_stove/nocooking_friend_return/0/16/s/0
 msgctxt "Choix"
 msgid "Can't wait to tell you all about this weird day I've been having..."
-msgstr ""
+msgstr "J'ai hâte de te raconter cette drôle de journée que je passe..."
 
+# Traduction IA – à relire
 #: stefan_stove/nocooking_friend_return/0/c-0/7
 msgctxt "Stefan"
 msgid "Let me take a load off and listen..."
-msgstr ""
+msgstr "Laisse-moi me poser et t'écouter..."
 
+# Traduction IA – à relire
 #: stefan_stove/nocooking_friend_return/0/c-0/15
 msgctxt "Narrator"
 msgid "Chef Stefan cooks up not just tasty meals, but the most satisfying therapy that only a friend can serve."
-msgstr ""
+msgstr "Chef Stefan ne mijote pas seulement de bons petits plats, mais aussi la thérapie la plus satisfaisante qu'un ami puisse servir."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_true_love_return/0/0
 msgctxt "Stefan"
 msgid "My love, my muse!"
-msgstr ""
+msgstr "Mon amour, ma muse !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_true_love_return/0/11
 msgctxt "Stefan"
 msgid "Are you back to make the most marvelous of meals?"
-msgstr ""
+msgstr "Tu reviens pour préparer les plus merveilleux des repas ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_true_love_return/0/19/s/0
 msgctxt "Choix"
 msgid "Let's make something delicious!"
-msgstr ""
+msgstr "Préparons quelque chose de délicieux !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_true_love_return/0/20/s/0
 msgctxt "Choix"
 msgid "I'm here because I want to Realize you, Stefan!"
-msgstr ""
+msgstr "Je suis là parce que je veux te Réaliser, Stefan !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_true_love_return/0/c-0/7
 msgctxt "Stefan"
 msgid "Let us create something that will imprint a lasting memory on our palate for many years!"
-msgstr ""
+msgstr "Créons quelque chose qui gravera un souvenir durable sur nos papilles pour de nombreuses années !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_true_love_return/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "As long as it has love, it'll be great!"
-msgstr ""
+msgstr "Tant qu'il y a de l'amour, ce sera super !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_true_love_return/0/c-0/15/c-0/7
 msgctxt "Stefan"
 msgid "That's the secret ingredient!"
-msgstr ""
+msgstr "C'est l'ingrédient secret !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/0
 msgctxt "Stefan"
 msgid "I seethe with cold fire."
-msgstr ""
+msgstr "Je bous d'un feu froid."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/11/s/0
 msgctxt "Choix"
 msgid "Can I talk to the chicken at least?"
-msgstr ""
+msgstr "Je peux au moins parler à la poule ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/12/s/0
 msgctxt "Choix"
 msgid "You have every right to be angry, Chef. I think we can both move forward in the spirit of culinary delight. (USE POISE CANDY)"
-msgstr ""
+msgstr "Tu as toutes les raisons d'être en colère, Chef. Je crois qu'on peut aller de l'avant tous les deux dans l'esprit du plaisir culinaire. (UTILISER UN BONBON DE PRESTANCE)"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-0/7
 msgctxt "Stefan"
 msgid "Diminish my spirit no more and begone from here!"
-msgstr ""
+msgstr "Ne m'abats plus le moral et disparais d'ici !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/13
 msgctxt "Stefan"
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/21
 msgctxt "Stefan"
 msgid "While I may have been burnt by you before..."
-msgstr ""
+msgstr "Même si tu m'as déjà brûlé par le passé..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/29
 msgctxt "Stefan"
 msgid "I see a future where we craft delicious dishes in each other’s company."
-msgstr ""
+msgstr "Je vois un avenir où nous concoctons de délicieux plats en compagnie l'un de l'autre."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/37/0/s/0
 msgctxt "Choix"
 msgid "It would be an honor, Chef."
-msgstr ""
+msgstr "Ce serait un honneur, Chef."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/37/c-0/7
 msgctxt "Stefan"
 msgid "...you have to apologize to Mr. Cluckles as well."
-msgstr ""
+msgstr "...tu dois aussi présenter tes excuses à Mr. Cluckles."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I am sorry Mr. Cluckles."
-msgstr ""
+msgstr "Pardon, Mr. Cluckles."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/7
 msgctxt "Mr. Cluckles"
 msgid "...Gawk."
-msgstr ""
+msgstr "...Codec."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/15
 msgctxt "Stefan"
 msgid "Oh, what’s a few pieces of burnt toast - besides unacceptable - between friends?"
-msgstr ""
+msgstr "Oh, que sont quelques tranches de pain grillé brûlées, en plus d'être inacceptables, entre amis ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/26
 msgctxt "Stefan"
 msgid "How’s friend sound?"
-msgstr ""
+msgstr "Qu'est-ce que tu dirais d'« ami » ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_hate_return/0/c-1/37/c-0/15/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "Sounds fantastic, Chef!"
-msgstr ""
+msgstr "Ça me paraît fantastique, Chef !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/0
 msgctxt "Stefan"
 msgid "WOAH!"
-msgstr ""
+msgstr "OH !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/14
 msgctxt "Stefan"
 msgid "Not just me, right? Me and Mr. Cluckles?"
-msgstr ""
+msgstr "Pas que moi, hein ? Moi et Mr. Cluckles ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/23/s/0
 msgctxt "Choix"
 msgid "Can't have one without the other!"
-msgstr ""
+msgstr "On ne peut pas avoir l'un sans l'autre !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/g-0/0
 msgctxt "Stefan"
 msgid "Now you're cooking with gas!"
-msgstr ""
+msgstr "Là, ça chauffe !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/g-0/11
 msgctxt "Stefan"
 msgid "Do you have all the necessary ingredients?"
-msgstr ""
+msgstr "Tu as tous les ingrédients nécessaires ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "Yes, Chef! I've come prepared!"
-msgstr ""
+msgstr "Oui, Chef ! J'ai tout ce qu'il faut !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "Sorry, Chef! I need a bit more time."
-msgstr ""
+msgstr "Pardon, Chef ! Il me faut encore un peu de temps."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/g-0/c-3/10
 msgctxt "Stefan"
 msgid "Ah, ey, some of the best recipes take time."
-msgstr ""
+msgstr "Ah, eh, certaines des meilleures recettes demandent du temps."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_join/0/g-0/c-3/18
 msgctxt "Stefan"
 msgid "Gather the necessary spices and meet me back here! I'll be waiting!"
-msgstr ""
+msgstr "Rassemble les épices nécessaires et reviens me voir ici ! Je t'attends !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_return/0/0
 msgctxt "Stefan"
 msgid "You're back! I take it you're ready to Realize me?"
-msgstr ""
+msgstr "Te revoilà ! J'imagine que tu es prêt à me Réaliser ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_return/0/17/s/0
 msgctxt "Choix"
 msgid "Yes Chef!"
-msgstr ""
+msgstr "Oui Chef !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_return/0/18/s/0
 msgctxt "Choix"
 msgid "I am still getting everything ready."
-msgstr ""
+msgstr "Je prépare encore tout."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_return/0/c-1/10
 msgctxt "Stefan"
 msgid "I'll wait here, then. A watched pot never boils. I'll let you cook!"
-msgstr ""
+msgstr "Alors je t'attends ici. Pot surveillé ne bout jamais. Je te laisse cuisiner !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_begin/6/b/1
 msgctxt "Skylar"
 msgid "Our fiery chef will be our first Realization? Here's hoping it works..."
-msgstr ""
+msgstr "Notre chef flamboyant sera notre première Réalisation ? Espérons que ça marche..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_begin/9
 msgctxt "Skylar"
 msgid "Living is served!"
-msgstr ""
+msgstr "La vie est servie !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_begin/20
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely a stove, becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était qu'une cuisinière devient..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/3
 msgctxt "Narrator"
 msgid "Stefan looks down at his body, then at each of his hands in turn. You've never seen him this excited."
-msgstr ""
+msgstr "Stefan regarde son corps, puis chacune de ses mains tour à tour. Vous ne l'avez jamais vu aussi excité."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/11
 msgctxt "Stefan"
 msgid "Ah! I'm... HUMAN! Hotdogdrizzledhoneyonabiscuit, I'M SO EXCITED! Ah! YES!"
-msgstr ""
+msgstr "Ah ! Je suis... HUMAIN ! Hotdogmiellésurlebiscuit, JE SUIS TELLEMENT EXCITÉ ! Ah ! OUI !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/22
 msgctxt "Narrator"
 msgid "Mr. Cluckles, now a bizarre combination of man and chicken, skitters across the tile, nearly colliding with Stefan as he tries to get the hang of his new legs."
-msgstr ""
+msgstr "Mr. Cluckles, désormais un étrange mélange d'homme et de poule, détale sur le carrelage et manque de heurter Stefan, qui tente de s'habituer à ses nouvelles jambes."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/30
 msgctxt "Mr. Cluckles"
 msgid "<w> BaGAWWK BaWWAAW BAGAWWW!</w>"
-msgstr ""
+msgstr "<w> CodeCOOODEC CodeCOOODEC CODECOOOODEC !</w>"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/35
 msgctxt "Stefan"
 msgid "Mr. Cluckles!!! Look at you! Oh, this is now highly unsanitary."
-msgstr ""
+msgstr "Mr. Cluckles !!! Regarde-toi ! Oh, c'est maintenant hautement insalubre."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/46
 msgctxt "Narrator"
 msgid "Stefan takes some time to calm Mr. Cluckles down. A chicken-man running around the kitchen isn't the safest thing in the world."
-msgstr ""
+msgstr "Stefan prend un moment pour calmer Mr. Cluckles. Un homme-poule qui court dans la cuisine, ce n'est pas ce qu'il y a de plus sûr au monde."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/54
 msgctxt "Stefan"
 msgid "Okay, he's calm now. I think."
-msgstr ""
+msgstr "Bon, il est calme, maintenant. Je crois."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/62
 msgctxt "Mr. Cluckles"
 msgid "<w>Ba ba ba bagawk.</w>"
-msgstr ""
+msgstr "<w>Cot cot cot codec.</w>"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/67/s/0
 msgctxt "Choix"
 msgid "You both are... real humans... of some kind?"
-msgstr ""
+msgstr "Vous êtes tous les deux... de vrais humains... d'une certaine sorte ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/g-0/0
 msgctxt "Stefan"
 msgid "We are! That means I can go work in a professional kitchen now!"
-msgstr ""
+msgstr "Oui ! Ça veut dire que je peux aller travailler dans une cuisine professionnelle, maintenant !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/g-0/8
 msgctxt "Stefan"
 msgid "But... I don't think I'll be cooking chicken any time soon."
-msgstr ""
+msgstr "Mais... je ne crois pas que je cuisinerai du poulet de sitôt."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "Make sense to me..."
-msgstr ""
+msgstr "Ça me paraît logique..."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realized/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Are you open to cooking up a little somethin' somethin' with me?"
-msgstr ""
+msgstr "Ça te dirait de préparer un petit je-ne-sais-quoi avec moi ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/3
 msgctxt "Stefan"
 msgid "Oh, I think we can whip something up, for sure!"
-msgstr ""
+msgstr "Oh, je crois qu'on peut mijoter quelque chose, c'est sûr !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/14
 msgctxt "Stefan"
 msgid "Mr. Cluckles... can you leave the room?"
-msgstr ""
+msgstr "Mr. Cluckles... tu peux quitter la pièce ?"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/22
 msgctxt "Mr. Cluckles"
 msgid "<w>Bagawk ba ba ba ba bu. </w>"
-msgstr ""
+msgstr "<w>Codec cot cot cot cot co. </w>"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/27
 msgctxt "Stefan"
 msgid "There are some things a chicken-turned-human just doesn't need to see."
-msgstr ""
+msgstr "Il y a des choses qu'une poule devenue humaine n'a pas besoin de voir."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/35
 msgctxt "Narrator"
 msgid "You not only connect with Stefan, you also discover you have a new use for honey."
-msgstr ""
+msgstr "Vous ne faites pas que nouer des liens avec Stefan : vous découvrez aussi un nouvel usage pour le miel."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/43
 msgctxt "Narrator"
 msgid "And whipped cream. Cherries."
-msgstr ""
+msgstr "Et la chantilly. Les cerises."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/51
 msgctxt "Narrator"
 msgid "And gelatin powder."
-msgstr ""
+msgstr "Et la gélatine en poudre."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_love_path/59
 msgctxt "Narrator"
 msgid "Your union leaves you with a much richer appreciation for the versatility of certain ingredients. And their respective viscosities."
-msgstr ""
+msgstr "Votre union vous laisse une bien meilleure appréciation de la polyvalence de certains ingrédients. Et de leurs viscosités respectives."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/0
 msgctxt "Narrator"
 msgid "Stefan and Mr. Cluckles strike out on their own (after a quick fix from Skylar to make Mr. Cluckles a proper chicken)."
-msgstr ""
+msgstr "Stefan et Mr. Cluckles se lancent de leur côté (après un rapide coup de pouce de Skylar pour redonner à Mr. Cluckles sa forme de vraie poule)."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/11
 msgctxt "Narrator"
 msgid "However, they quickly find that the real world has its own difficulties."
-msgstr ""
+msgstr "Cependant, ils découvrent vite que le monde réel a ses propres difficultés."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/19
 msgctxt "Narrator"
 msgid "Now a human who can burn himself... Stefan's cavalier attitude around a real stove results in far too many accidents."
-msgstr ""
+msgstr "Devenu un humain qui peut se brûler... l'attitude désinvolte de Stefan face à une vraie cuisinière provoque beaucoup trop d'accidents."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/27
 msgctxt "Stefan"
 msgid "Damn those things are hot!!"
-msgstr ""
+msgstr "Putain, ces trucs sont chauds !!"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/38
 msgctxt "Narrator"
 msgid "Remembering the joy he felt in creating sushi, Stefan and Mr. Cluckles move to a small island off the coast of Japan, where he submits himself to rigorous tutelage under a great sushi master."
-msgstr ""
+msgstr "Se souvenant de la joie qu'il a ressentie en préparant des sushis, Stefan et Mr. Cluckles s'installent sur une petite île au large du Japon, où il se soumet à l'enseignement rigoureux d'un grand maître sushi."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/46
 msgctxt "Narrator"
 msgid "Stefan has relearned everything he ever knew about food. He purchases a small hut off the coast, determined to search out and serve only the freshest seafood."
-msgstr ""
+msgstr "Stefan a tout réappris de ce qu'il savait sur la cuisine. Il achète une petite cabane sur la côte, déterminé à ne chercher et servir que les fruits de mer les plus frais."
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/54
 msgctxt "Stefan"
 msgid "I'm seeing a big one down there, Mr. Cluckles!"
-msgstr ""
+msgstr "J'en vois un gros là-dessous, Mr. Cluckles !"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/62
 msgctxt "Mr. Cluckles"
 msgid "<w>BAGAWK BAGAWWWK!</w>"
-msgstr ""
+msgstr "<w>CODEC COOODEC !</w>"
 
+# Traduction IA – à relire
 #: stefan_stove/stefan_realize_friend_join/67
 msgctxt "Narrator"
 msgid "With Stefan's dedication, and Mr. Cluckles remarkable, aquiline diving capability, their unassuming hut becomes a mecca for perfect sushi."
-msgstr ""
+msgstr "Grâce au dévouement de Stefan et aux remarquables capacités de plongeon, dignes d'un aigle, de Mr. Cluckles, leur modeste cabane devient la Mecque du sushi parfait."
