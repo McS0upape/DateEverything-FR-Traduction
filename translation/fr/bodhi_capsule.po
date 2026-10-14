@@ -8,2957 +8,3548 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: bodhi_capsule/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "TIME CAPSULE"
-msgstr ""
+msgstr "CAPSULE TEMPORELLE"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/0 bodhi_capsule/bodhi_realize_zoey/0/0
 msgctxt "Bodhi"
 msgid "Hey, I was looking through my various items inside my capsule... and I found this cursed little necklace!"
-msgstr ""
+msgstr "Eh, je fouillais dans mes affaires, là, dans ma capsule... et j'ai trouvé ce petit collier maudit !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/8 bodhi_capsule/bodhi_realize_zoey/0/8
 msgctxt "Bodhi"
 msgid "It's pretty bodacious if you ask me."
-msgstr ""
+msgstr "Il est plutôt d'enfer, si tu veux mon avis."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/16/s/0 bodhi_capsule/bodhi_realize_zoey/0/16/s/0
 msgctxt "Choix"
 msgid "Is it bodacious?"
-msgstr ""
+msgstr "Il est d'enfer ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/17/s/0 bodhi_capsule/bodhi_realize_zoey/0/17/s/0
 msgctxt "Choix"
 msgid "Cursed you say?"
-msgstr ""
+msgstr "Maudit, tu dis ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/c-0/7 bodhi_capsule/bodhi_realize_zoey/0/c-0/7
 msgctxt "Bodhi"
 msgid "You asked me! Thanks!"
-msgstr ""
+msgstr "C'est toi qui m'as demandé ! Merci !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/c-1/7 bodhi_capsule/bodhi_realize_zoey/0/c-1/7
 msgctxt "Bodhi"
 msgid "Yep. Was getting a bad vibe... I thought it might have been gas but instead it was definitely this necklace."
-msgstr ""
+msgstr "Ouaip. J'avais une mauvaise vibe... j'ai cru que c'étaient des gaz, mais non, c'était clairement ce collier."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/3 bodhi_capsule/bodhi_realize_zoey/0/g-0/3
 msgctxt "Narrator"
 msgid "Bodhi holds a small, jeweled pink pendant on a gold chain out to you—it's shaped like a heart, and sparkles prettily when it catches the light."
-msgstr ""
+msgstr "Bodhi vous tend un petit pendentif rose serti de pierres, au bout d'une chaîne en or. Il a la forme d'un coeur et scintille joliment dès qu'il capte la lumière."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/11 bodhi_capsule/bodhi_realize_zoey/0/g-0/11
 msgctxt "Bodhi"
 msgid "You want it? I normally don't give my precious materials away but this one doesn't seem to fit my style."
-msgstr ""
+msgstr "Tu le veux ? D'habitude je ne me sépare pas de mes précieux trésors, mais celui-là n'est pas trop mon style."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/19/s/0 bodhi_capsule/bodhi_realize_zoey/0/g-0/19/s/0
 msgctxt "Choix"
 msgid "I'll take it! Zoey probably wants it."
-msgstr ""
+msgstr "Je le prends ! Zoey le voudra sûrement."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/c-2/7 bodhi_capsule/bodhi_realize_zoey/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "Zoey?"
-msgstr ""
+msgstr "Zoey ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/c-2/15/0/s/0 bodhi_capsule/bodhi_realize_zoey/0/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "She's the ghost upstairs!"
-msgstr ""
+msgstr "C'est le fantôme à l'étage !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/c-2/15/c-0/7 bodhi_capsule/bodhi_realize_zoey/0/g-0/c-2/15/c-0/7
 msgctxt "Bodhi"
 msgid "A <w>g-g-g-g-ghost??</w>"
-msgstr ""
+msgstr "Un <w>fa-fa-fa-fa-fantôme ??</w>"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/c-2/15/c-0/21 bodhi_capsule/bodhi_realize_zoey/0/g-0/c-2/15/c-0/21
 msgctxt "Narrator"
 msgid "Bodhi's hand shoots out, dropping the necklace into your hand without even waiting to see if you're ready. He flees, calling over his shoulder to you as he goes."
-msgstr ""
+msgstr "Bodhi lance le bras et laisse tomber le collier dans votre main, sans même attendre que vous soyez {{prêt|prête|prêt·e}}. Il détale en vous lançant par-dessus son épaule :"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_zoey/0/g-0/c-2/15/c-0/29 bodhi_capsule/bodhi_realize_zoey/0/g-0/c-2/15/c-0/29
 msgctxt "Bodhi"
 msgid "I'm out. Take it!"
-msgstr ""
+msgstr "Moi, je me tire. Prends-le !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/0
 msgctxt "Narrator"
 msgid "You see a concerned face peeking through what might be a cryogenic tube, containing tape both sticky and cassette."
-msgstr ""
+msgstr "Vous apercevez un visage inquiet qui guette à travers ce qui ressemble à un tube cryogénique, rempli de scotch et de cassette."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/8
 msgctxt "Narrator"
 msgid "The face notices your presence, and begins to speak..."
-msgstr ""
+msgstr "Le visage remarque votre présence et se met à parler..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/16
 msgctxt "Bodhi"
 msgid "<w>YES!!</w> This is <w>CHOICE!!</w> I am officially <w>FOUND!!</w>"
-msgstr ""
+msgstr "<w>OUIIII !!</w> C'est <w>MORTEL !!</w> Je suis officiellement <w>TROUVÉ !!</w>"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/27/s/0
 msgctxt "Choix"
 msgid "What am I looking at here?"
-msgstr ""
+msgstr "Qu'est-ce que je regarde, là ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/28/s/0
 msgctxt "Choix"
 msgid "Oh, a time capsule. Neat!"
-msgstr ""
+msgstr "Oh, une capsule temporelle. Chouette !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/c-0/7
 msgctxt "Bodhi"
 msgid "Heeelloooo?! Anybody out there?"
-msgstr ""
+msgstr "Allôôôô ?! Y a quelqu'un dehors ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/c-1/7
 msgctxt "Bodhi"
 msgid "You got it, compadre!"
-msgstr ""
+msgstr "Bien vu, mon pote !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/0
 msgctxt "Bodhi"
 msgid "Mind letting me out of this thing?"
-msgstr ""
+msgstr "Ça te dirait de me sortir de ce truc ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/11/s/0
 msgctxt "Choix"
 msgid "Wait a minute... So, you're the \"thing\" right? But also trapped inside the thing?"
-msgstr ""
+msgstr "Attends une minute... Donc, le « truc », c'est toi, c'est ça ? Mais tu es aussi coincé dans le truc ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/12/s/0
 msgctxt "Choix"
 msgid "If I let you out are you going to cease to be? Like, dematerialize or something?"
-msgstr ""
+msgstr "Si je te fais sortir, tu vas cesser d'exister ? Genre te dématérialiser ou je ne sais quoi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/13/s/0
 msgctxt "Choix"
 msgid "Can you see me through that little window?"
-msgstr ""
+msgstr "Tu me vois, par cette petite fenêtre ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "Yup, I am both in and of the time capsule you now possess. Pretty rad, huh?"
-msgstr ""
+msgstr "Yep, je suis à la fois dans la capsule temporelle et la capsule temporelle elle-même, que tu possèdes désormais. Plutôt radical, non ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Yup. \"Totally.\" Guess I'll let you out."
-msgstr ""
+msgstr "Ouais. « Totalement. » Bon, je te laisse sortir."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/7
 msgctxt "Bodhi"
 msgid "Nope! I mean, I don't think so? Maybe!"
-msgstr ""
+msgstr "Non ! Enfin, je crois pas ? Peut-être !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/15
 msgctxt "Bodhi"
 msgid "Haha! Only one way to find out. Let 'er rip!"
-msgstr ""
+msgstr "Haha ! Il n'y a qu'un moyen de le savoir. Vas-y, lâche tout !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/23/0/s/0
 msgctxt "Choix"
 msgid "Alright then. If you're down, I'm down."
-msgstr ""
+msgstr "Bon, d'accord. Si tu es partant, je suis partant."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/23/c-0/7
 msgctxt "Bodhi"
 msgid "Down? I mean, I was down; down in the ground, but now I'm out!"
-msgstr ""
+msgstr "Partant ? Moi j'étais enterré, dans le sol, mais maintenant je suis dehors !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/23/c-0/15/0/s/0 bodhi_capsule/bodhi_hate_3/0/8/s/0
 msgctxt "Choix"
 msgid "What?"
-msgstr ""
+msgstr "Quoi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/23/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Yeah, that's not quite what I..."
-msgstr ""
+msgstr "Ouais, c'est pas tout à fait ce que je..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/23/c-0/15/g-0/3 bodhi_capsule/bodhi_dining_room/0/g-2/c-6/26/c-0/15/c-0/7 bodhi_capsule/bodhi_dining_room/0/g-2/c-6/26/c-0/15/c-1/7
 msgctxt "Bodhi"
 msgid "What?"
-msgstr ""
+msgstr "Quoi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/23/c-0/15/g-0/11/0/s/0
 msgctxt "Choix"
 msgid "Nevermind, let's get you out of there."
-msgstr ""
+msgstr "Laisse tomber, on va te sortir de là."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-3/23/c-0/15/g-0/11/1/s/0
 msgctxt "Choix"
 msgid "Hold on tight, pal!"
-msgstr ""
+msgstr "Tiens bon, mon pote !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-4/7
 msgctxt "Bodhi"
 msgid "Not really, compadre. I've been in here for about 40 years."
-msgstr ""
+msgstr "Pas vraiment, mon pote. Ça fait quarante ans que je suis là-dedans."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-4/15
 msgctxt "Bodhi"
 msgid "It's a little crusty and musty."
-msgstr ""
+msgstr "Ça sent un peu le renfermé et le moisi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/introduction/0/g-0/c-4/23/0/s/0
 msgctxt "Choix"
 msgid "Okay then. Here goes nothing!"
-msgstr ""
+msgstr "Très bien. Allez, on y va !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/6
 msgctxt "Narrator"
 msgid "The stranger who stands before you can best be described as nostalgia given form, an assortment of 80's memorabilia sculpted into a well-muscled male figure."
-msgstr ""
+msgstr "L'inconnu qui se dresse devant vous se décrit au mieux comme la nostalgie faite chair : un assemblage de souvenirs des années 80, sculpté en une silhouette masculine bien musclée."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/23
 msgctxt "Bodhi"
 msgid "<w>WOOOOOOO HOOOO!!</w> Yeah! I'm free! The 80s is surviving and thriving, baby! Ohho, yeah!"
-msgstr ""
+msgstr "<w>YOUHOUUUUU !!</w> Ouais ! Je suis libre ! Les années 80 sont vivantes et en pleine forme, bébé ! Ohoh, ouais !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/34
 msgctxt "Narrator"
 msgid "Although his cassette tape ribbon obscures much of his face, you can still make out a friendly expression and handsome features."
-msgstr ""
+msgstr "Même si son ruban de cassette lui masque une bonne partie du visage, vous distinguez une expression amicale et des traits séduisants."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/39/s/0
 msgctxt "Choix"
 msgid "Wait, I thought you were a time capsule."
-msgstr ""
+msgstr "Attends, je croyais que tu étais une capsule temporelle."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/40/s/0
 msgctxt "Choix"
 msgid "I'm confused. How can you be an entire decade? You're a tube of old junk."
-msgstr ""
+msgstr "Je suis perdu. Comment peux-tu être une décennie entière ? Tu es un tube de vieilleries."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/c-0/7
 msgctxt "Bodhi"
 msgid "Weeeelll, yes and no. Think of me as the ESSENCE of what's inside that time capsule. The 80's personified!"
-msgstr ""
+msgstr "Weeeelll, oui et non. Vois-moi comme l'ESSENCE de ce qu'il y a dans cette capsule. Les années 80 en personne !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/c-1/7
 msgctxt "Bodhi"
 msgid "Exsqueeze me, amigo, I am the personification of the 80's. I am not old junk, I am radical!"
-msgstr ""
+msgstr "Excusez-moââ, mon pote, je suis la personnification des années 80. Je ne suis pas une vieillerie, je suis radical !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/c-1/18
 msgctxt "Bodhi"
 msgid "I may be a tube... but that makes me tubular, wouldn't ya say?"
-msgstr ""
+msgstr "Je suis peut-être un tube... mais ça me rend tubesque, tu ne trouves pas ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/0
 msgctxt "Narrator"
 msgid "He pulls an electric guitar from somewhere, playing a very loud and intense note as he strikes a pose."
-msgstr ""
+msgstr "Il sort une guitare électrique de nulle part et balance une note très forte et très intense en prenant la pose."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/8
 msgctxt "Bodhi"
 msgid "Better yet, don't think too hard about it at all. 80's fever reigns!!!!!!!"
-msgstr ""
+msgstr "Mieux encore, ne te prends pas trop la tête avec ça. La fièvre des années 80 règne !!!!!!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "I LOVE the 80's."
-msgstr ""
+msgstr "J'ADORE les années 80."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "Oh. As in the 1980's? I don't know much about it other than retro media. I wasn't even born yet."
-msgstr ""
+msgstr "Oh. Les années 1980, donc ? Je n'y connais pas grand-chose à part les médias rétro. Je n'étais même pas {{né|née|né·e}}."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "Oh, HECK yeah, compadre!!! And the 80s love you back!!"
-msgstr ""
+msgstr "Oh, et COMMENT, mon pote !!! Et les années 80 t'adorent aussi !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/7
 msgctxt "Bodhi"
 msgid "Oooooohhh my friend. Then do I ever have a story for you!"
-msgstr ""
+msgstr "Oooooohhh mon ami. Alors là, j'ai une histoire pour toi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "Okay then! Sounds like da bomb."
-msgstr ""
+msgstr "D'accord ! Ça a l'air d'être la bombe."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/1/s/0
 msgctxt "Choix"
 msgid "Will I like it? I mean, what's so great about the 80's?"
-msgstr ""
+msgstr "Je vais aimer ? Enfin, qu'est-ce qu'il y a de si génial dans les années 80 ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-0/7
 msgctxt "Bodhi"
 msgid "Whoa, friend, do you mean like an actual bomb? Cuz I don't truck with violence."
-msgstr ""
+msgstr "Houlà, mon ami, tu parles d'une vraie bombe ? Parce que moi, la violence, je ne marche pas."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-0/18
 msgctxt "Bodhi"
 msgid "I'm much more a lover than a bomber of shit."
-msgstr ""
+msgstr "Je suis plus un amoureux qu'un lanceur de bombes de merde."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-0/26
 msgctxt "Bodhi"
 msgid "Point being! I have no idea what you're saying."
-msgstr ""
+msgstr "Bref ! Je ne comprends rien à ce que tu racontes !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "Ooooh right... \"da bomb\" was the 90's, huh."
-msgstr ""
+msgstr "Ooooh, c'est vrai... « la bombe », c'était les années 90, hein."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-0/34/c-0/7
 msgctxt "Bodhi"
 msgid "Bahaha! I guess in a way I wasn't born then, dude!"
-msgstr ""
+msgstr "Bahaha ! D'une certaine façon, je n'étais pas né à l'époque, mon pote !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-1/7
 msgctxt "Bodhi"
 msgid "WHAT'S SO GREAT ABOUT THE 80'S?!?! Hoo buddy, there's a lot to cover! Are you ready to get freddy??"
-msgstr ""
+msgstr "QU'EST-CE QU'IL Y A DE SI GÉNIAL DANS LES ANNÉES 80 ?!?! Hou là là, il y a de quoi dire ! Ça te dit un petit tour avec les Griffes de la nuit ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-1/18/0/s/0
 msgctxt "Choix"
 msgid "Sure... why not!"
-msgstr ""
+msgstr "Bien sûr... pourquoi pas !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-1/18/1/s/0
 msgctxt "Choix"
 msgid "Nah. I think I'll keep my cultural relevance in this century."
-msgstr ""
+msgstr "Bof. Je préfère garder ma pertinence culturelle dans ce siècle."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-1/18/c-0/7
 msgctxt "Bodhi"
 msgid "Awesome!"
-msgstr ""
+msgstr "Génial !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/g-0/c-3/15/c-1/18/c-1/7
 msgctxt "Bodhi"
 msgid "Oh ouch. If I'm being honest, that one kinda stung."
-msgstr ""
+msgstr "Aïe. Pour être honnête, celle-là, elle a piqué."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/9
 msgctxt "Narrator"
 msgid "Bodhi begins to play his guitar in earnest, singing with all the skill and bombast of the 80's musicians he no doubt adores."
-msgstr ""
+msgstr "Bodhi se met à jouer de la guitare pour de bon et chante avec tout le talent et toute l'emphase des musiciens des années 80 qu'il adore sans aucun doute."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/43
 msgctxt "Bodhi"
 msgid "You got that old nostalgic feeling"
-msgstr ""
+msgstr "Tu ressens ce vieux frisson nostalgique"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/54
 msgctxt "Bodhi"
 msgid "Drifting off to a better time"
-msgstr ""
+msgstr "Qui t'emporte vers des temps meilleurs"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/65
 msgctxt "Bodhi"
 msgid "Putting all your hopes in decades long ago"
-msgstr ""
+msgstr "Tu mets tous tes espoirs dans des décennies lointaines"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/76
 msgctxt "Bodhi"
 msgid "But you’re flying ever so high"
-msgstr ""
+msgstr "Mais tu voles tellement haut, ô oui"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/87
 msgctxt "Bodhi"
 msgid "Then your heart starts to remember"
-msgstr ""
+msgstr "Puis ton coeur commence à se souvenir"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/98
 msgctxt "Bodhi"
 msgid "A world more simple and kind"
-msgstr ""
+msgstr "D'un monde plus simple, plus doux"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/109
 msgctxt "Bodhi"
 msgid "Oh babe I pray you hear the memory in my song"
-msgstr ""
+msgstr "Oh bébé, j'espère que tu entends le souvenir dans ma chanson"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/120
 msgctxt "Bodhi"
 msgid "As I take you back to the time"
-msgstr ""
+msgstr "Quand je te ramène à ce temps"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/131
 msgctxt "Bodhi"
 msgid "To the time"
-msgstr ""
+msgstr "À ce temps"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/142 bodhi_capsule/bodhi_song/0/241
 msgctxt "Bodhi"
 msgid "Here we go again to the 80’s"
-msgstr ""
+msgstr "On y retourne, direction les années 80"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/153
 msgctxt "Bodhi"
 msgid "Glowin’ in the neon lights with my baby"
-msgstr ""
+msgstr "Je brille dans les néons avec mon amour"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/164
 msgctxt "Bodhi"
 msgid "It’s love and you know what the date is"
-msgstr ""
+msgstr "C'est l'amour, et tu sais quel jour on est"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/175
 msgctxt "Bodhi"
 msgid "Things are movin’ too fast"
-msgstr ""
+msgstr "Tout va beaucoup trop vite"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/186
 msgctxt "Bodhi"
 msgid "That’s how we did it in the past"
-msgstr ""
+msgstr "Mais c'est comme ça qu'on faisait, avant"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/197
 msgctxt "Bodhi"
 msgid "In the 80’s"
-msgstr ""
+msgstr "Dans les années 80"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/266/s/0
 msgctxt "Choix"
 msgid "<i>Finish listening.</i>"
-msgstr ""
+msgstr "<i>Écouter jusqu'au bout.</i>"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-0/12
 msgctxt "Bodhi"
 msgid "Yeah!!"
-msgstr ""
+msgstr "Ouais !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-0/26/b/1
 msgctxt "Narrator"
 msgid "Every time you hear him play, it brings a wave of nostalgia to your heart."
-msgstr ""
+msgstr "Chaque fois que vous l'entendez jouer, une vague de nostalgie envahit votre coeur."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-0/26/b/6
 msgctxt "Narrator"
 msgid "And the time spent with Bodhi spinning pottery makes time fly by faster than you ever imagined..."
-msgstr ""
+msgstr "Et le temps passé avec Bodhi à tourner de la poterie file bien plus vite que vous ne l'auriez jamais imaginé..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "Bodhi, that was WILD!!"
-msgstr ""
+msgstr "Bodhi, c'était DINGUE !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-0/30/s/0
 msgctxt "Choix"
 msgid "How long have you been working on that?!"
-msgstr ""
+msgstr "Ça fait combien de temps que tu travailles dessus ?!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-0/c-1/7
 msgctxt "Bodhi"
 msgid "You know it!"
-msgstr ""
+msgstr "Tu l'as dit !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "I made it up on the spot. Just for you."
-msgstr ""
+msgstr "Je l'ai inventée sur le moment. Rien que pour toi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "You've got charm in spades, Bodhi. Can we hang out all the time?"
-msgstr ""
+msgstr "Tu as un charme fou, Bodhi. On peut traîner ensemble tout le temps ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "Amazing. I LOVE the 80's!! And I think I'm in love with you!"
-msgstr ""
+msgstr "Incroyable. J'ADORE les années 80 !! Et je crois que je craque pour toi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/7
 msgctxt "Bodhi"
 msgid "Heck yes! Hanging and banging is my jam!"
-msgstr ""
+msgstr "Et comment ! Traîner et cogner, c'est mon truc !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/0/s/0
 msgctxt "Choix"
 msgid "Banging... pots right?"
-msgstr ""
+msgstr "Cogner... des pots, hein ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/1/s/0
 msgctxt "Choix"
 msgid "Bangarang, baby!"
-msgstr ""
+msgstr "Bangarang, bébé !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/c-0/7
 msgctxt "Bodhi"
 msgid "Sorry - I tend to slip into that kinda speech without realizing."
-msgstr ""
+msgstr "Pardon, j'ai tendance à parler comme ça sans m'en rendre compte."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/c-0/18
 msgctxt "Bodhi"
 msgid "Gotta get up with the jams of today!"
-msgstr ""
+msgstr "Faut que je me mette à la page avec les tubes d'aujourd'hui !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/c-1/7
 msgctxt "Bodhi"
 msgid "Sorry. I don't get it."
-msgstr ""
+msgstr "Désolé. Je ne comprends pas."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Ah, 1991."
-msgstr ""
+msgstr "Ah, 1991."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/c-1/15/c-0/7
 msgctxt "Bodhi"
 msgid "I'm numerically challenged! I gotta hard cutoff!"
-msgstr ""
+msgstr "Je suis nul en chiffres ! J'ai une date limite fixe !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-3/18/c-1/15/c-0/15
 msgctxt "Bodhi"
 msgid "For now! A capsule can learn, can't he?"
-msgstr ""
+msgstr "Pour l'instant ! Une capsule peut apprendre, non ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_song/0/g-1/c-4/7
 msgctxt "Bodhi"
 msgid "And I know I'm in love with YOU! WOOOOOOOO!!!!"
-msgstr ""
+msgstr "Et moi je sais que je suis amoureux de TOI ! YOUHOUUUU !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/0
 msgctxt "Bodhi"
 msgid "But first, I need a minute to \"decompress\" if you know what I mean..."
-msgstr ""
+msgstr "Mais d'abord, il me faut une minute pour « décompresser », si tu vois ce que je veux dire..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/8/s/0
 msgctxt "Choix"
 msgid "Because you were sealed in the tube?"
-msgstr ""
+msgstr "Parce que tu étais scellé dans le tube ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/c-0/7
 msgctxt "Bodhi"
 msgid "Totally..."
-msgstr ""
+msgstr "Totalement..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Tubular."
-msgstr ""
+msgstr "Tubesque."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Radical, dude!"
-msgstr ""
+msgstr "Radical, mon pote !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "Nice reference, pal, totally topical!"
-msgstr ""
+msgstr "Belle référence, mon pote, bien dans l'actu !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/c-0/15/c-1/7
 msgctxt "Bodhi"
 msgid "Hahaha, precisely, o fresh one!"
-msgstr ""
+msgstr "Hahaha, exactement, ô jeune pousse !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-0/0
 msgctxt "Bodhi"
 msgid "Now you're getting it."
-msgstr ""
+msgstr "Là, tu commences à piger."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Anything else you need?"
-msgstr ""
+msgstr "Tu as besoin d'autre chose ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "You good down here?"
-msgstr ""
+msgstr "Ça va, en bas ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-0/c-1/7
 msgctxt "Bodhi"
 msgid "Nah. I might bop around the house a bit if that's cool?"
-msgstr ""
+msgstr "Nan. Je vais peut-être faire un tour dans la maison, si ça te va ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "I wouldn't mind a new view. Catch a few rays? Maybe watch some boob tube..."
-msgstr ""
+msgstr "Un nouveau paysage ne serait pas de refus. Prendre un peu le soleil ? Regarder un peu la téloche..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "There was a lot of tube talk in the 80's, huh?"
-msgstr ""
+msgstr "Il y avait beaucoup de blabla sur les tubes dans les années 80, hein ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "Alright, get some rest and we'll chat later."
-msgstr ""
+msgstr "Bon, repose-toi bien, on se parle plus tard."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-1/c-3/7
 msgctxt "Bodhi"
 msgid "Huh, I guess so, now that I'm like, hearin' it out loud."
-msgstr ""
+msgstr "Hein, c'est vrai, maintenant que je l'entends à voix haute."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-1/c-4/7
 msgctxt "Bodhi"
 msgid "You got it!"
-msgstr ""
+msgstr "Comme tu voudras !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-2/0
 msgctxt "Bodhi"
 msgid "Alright then, I'll be around, just chillin' like a villain."
-msgstr ""
+msgstr "Bon alors, je serai dans le coin, à chiller comme un méchant."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "A villain? I don't want a villain in my house!"
-msgstr ""
+msgstr "Un méchant ? Je ne veux pas de méchant chez moi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "Can't wait to learn about where you come from. Sounds... different."
-msgstr ""
+msgstr "J'ai hâte d'en apprendre plus sur d'où tu viens. Ça a l'air... différent."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-2/c-5/7
 msgctxt "Bodhi"
 msgid "No no, it's slang, it's like, actually a cool thing to be chillin' like a villain!"
-msgstr ""
+msgstr "Mais non, c'est de l'argot, en fait c'est trop cool de chiller comme un méchant !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-2/c-5/18
 msgctxt "Bodhi"
 msgid "But I get it. We're kinda speakin' different lingos at this moment!"
-msgstr ""
+msgstr "Mais je comprends. On ne parle pas tout à fait la même langue en ce moment !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-2/c-5/26
 msgctxt "Bodhi"
 msgid "We've got a lot of good education to get to, and there's totally time for it!"
-msgstr ""
+msgstr "On a plein de belles leçons à voir, et on a tout le temps pour ça !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-3/0
 msgctxt "Bodhi"
 msgid "I'll teach you the ways, Daniel-san."
-msgstr ""
+msgstr "Je t'enseignerai la voie, Daniel-san."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-3/8/s/0 bodhi_capsule/bodhi_hate_1/0/c-0/26/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Who's Daniel-san?"
-msgstr ""
+msgstr "C'est qui, Daniel-san ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-3/9/s/0
 msgctxt "Choix"
 msgid "You got it, Mr. Skiyagi!"
-msgstr ""
+msgstr "Compris, Monsieur Skiyagi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-3/c-7/7
 msgctxt "Bodhi"
 msgid "Hehe. Very soon, you will understand how totally bogus that question made you look!"
-msgstr ""
+msgstr "Hihi. Très bientôt, tu comprendras à quel point cette question t'a fait passer pour un bouffon !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-3/c-7/15
 msgctxt "Bodhi"
 msgid "For now though, no worries. All good."
-msgstr ""
+msgstr "Pour l'instant, pas de souci. Tout va bien."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-3/c-8/7
 msgctxt "Bodhi"
 msgid "Ah, look at you, acing the class already!"
-msgstr ""
+msgstr "Ah, regarde-toi, tu assures déjà en cours !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-3/c-8/18
 msgctxt "Bodhi"
 msgid "You are gonna be a bodacious student, I can tell."
-msgstr ""
+msgstr "Tu vas être un élève d'enfer, je le sens."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-4/9
 msgctxt "Bodhi"
 msgid "Okey dokey smokey, just gonna shut the peepers and recuperate."
-msgstr ""
+msgstr "D'ac, d'ac, tabac, je ferme les mirettes et je récupère."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friendship_1/0/g-4/17
 msgctxt "Bodhi"
 msgid "Talk to ya later!"
-msgstr ""
+msgstr "À plus tard !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/7
 msgctxt "Bodhi"
 msgid "You're just not into it. Did I read that right? That's cool."
-msgstr ""
+msgstr "Ça ne te branche pas. C'est bien ça ? Pas de souci."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/15/s/0
 msgctxt "Choix"
 msgid "Sorry. Another time, though, I'd be... stoked to hear about your decade."
-msgstr ""
+msgstr "Pardon. Mais une autre fois, ça me ferait... plaisir d'entendre parler de ta décennie."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/16/s/0
 msgctxt "Choix"
 msgid "Yeah... I'm really not. The 80s is just... kinda corny."
-msgstr ""
+msgstr "Ouais... pas vraiment. Les années 80, c'est un peu... ringard."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/7
 msgctxt "Bodhi"
 msgid "Really?"
-msgstr ""
+msgstr "Vraiment ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/15
 msgctxt "Bodhi"
 msgid "Well alright then! I will wait with some deep anticipation. I'll be chillin' like a villain whenever you're ready!"
-msgstr ""
+msgstr "Eh bien d'accord ! J'attendrai dans une grande impatience. Je chillerai comme un méchant dès que tu voudras !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "A villain?"
-msgstr ""
+msgstr "Un méchant ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/26/c-0/7
 msgctxt "Bodhi"
 msgid "Yeah. Villain. It's slang? You know what, nevermind. If you come back, Daniel-san, I'll teach you the ways."
-msgstr ""
+msgstr "Ouais. Un méchant. C'est de l'argot ? Tu sais quoi, laisse tomber. Si tu reviens, Daniel-san, je t'enseignerai la voie."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/26/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "You got it Mr. Skiyagi!"
-msgstr ""
+msgstr "Compris, Monsieur Skiyagi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/26/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "Oof. Forget it. You can't handle it right now, I don't think."
-msgstr ""
+msgstr "Ouf. Oublie ça. Tu ne peux pas l'encaisser pour l'instant, je crois."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/26/c-0/15/c-0/18 bodhi_capsule/bodhi_hate_1/0/c-0/26/c-0/15/c-1/18
 msgctxt "Narrator"
 msgid "You take your leave."
-msgstr ""
+msgstr "Vous prenez congé."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-0/26/c-0/15/c-1/7
 msgctxt "Bodhi"
 msgid "Ahhhaa, maybe you know more about the 80's than you think you do...!"
-msgstr ""
+msgstr "Ahhhaa, peut-être que tu en sais plus sur les années 80 que tu ne le crois...!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-1/7
 msgctxt "Bodhi"
 msgid "Wow. Harsh, dude."
-msgstr ""
+msgstr "Wow. Dur, mon pote."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-1/18
 msgctxt "Bodhi"
 msgid "If you're not into the info, then I'm definitely not gonna force you. Also, just FYI, the 80's are not corny."
-msgstr ""
+msgstr "Si l'info ne te branche pas, je ne vais certainement pas te forcer. Et juste pour info, les années 80 ne sont pas ringardes."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_1/0/c-1/26
 msgctxt "Bodhi"
 msgid "They're radical."
-msgstr ""
+msgstr "Elles sont radicales."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/0
 msgctxt "Bodhi"
 msgid "Yo."
-msgstr ""
+msgstr "Yo."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/8/s/0
 msgctxt "Choix"
 msgid "Hey Bodhi."
-msgstr ""
+msgstr "Salut, Bodhi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/9/s/0
 msgctxt "Choix"
 msgid "Glad you're still around."
-msgstr ""
+msgstr "Content que tu sois toujours là."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/0
 msgctxt "Bodhi"
 msgid "For sure! This is kinda my spot, you know."
-msgstr ""
+msgstr "Évidemment ! C'est un peu mon coin, tu sais."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/8
 msgctxt "Bodhi"
 msgid "Surprised to see you though, dude. Don't you like... hate me?"
-msgstr ""
+msgstr "Je suis surpris de te voir, mon pote. Tu ne me... détestes pas ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "hate you? Um, no."
-msgstr ""
+msgstr "Te détester ? Euh, non."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Weeeelll, hate's a strong word, but... meh."
-msgstr ""
+msgstr "Weeeelll, détester, c'est un grand mot, mais... bof."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "I mean, you said, you weren't into me so, you know."
-msgstr ""
+msgstr "Enfin, tu as dit que je ne te branchais pas, alors, tu vois."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/15
 msgctxt "Bodhi"
 msgid "I kinda figured if it wasn't the one thing it was probably the other thing."
-msgstr ""
+msgstr "Je me suis dit que si ce n'était pas l'un, c'était sûrement l'autre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "I said, I wasn't crazy about the 80's. I don't \"hate\" you."
-msgstr ""
+msgstr "J'ai dit que les années 80 ne me passionnaient pas. Je ne te « déteste » pas."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/23/1/s/0
 msgctxt "Choix"
 msgid "Bodhi. That's black and white thinking, bro."
-msgstr ""
+msgstr "Bodhi. C'est de la pensée en noir et blanc, ça."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/23/c-0/7
 msgctxt "Bodhi"
 msgid "Oh, wow, well that's rad to hear."
-msgstr ""
+msgstr "Oh, wow, eh bien, ça fait plaisir à entendre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/23/c-0/15
 msgctxt "Bodhi"
 msgid "I just thought, you know, with you saving me and all we could be... I dunno..."
-msgstr ""
+msgstr "Je pensais juste, tu vois, que puisque tu m'avais sauvé et tout, on pourrait être... je sais pas..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/23/c-0/23
 msgctxt "Bodhi"
 msgid "Friends or something."
-msgstr ""
+msgstr "Amis ou un truc du genre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/23/c-1/7
 msgctxt "Bodhi"
 msgid "Ahhh wait, I've heard of this. Like, I'm thinking there's only two options? Black or white, when really it's like a whole range of colors?"
-msgstr ""
+msgstr "Ahhh attends, j'en ai entendu parler. Genre, je me dis qu'il n'y a que deux options ? Noir ou blanc, alors qu'en vrai, il y a toute une palette de couleurs ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-2/23/c-1/15
 msgctxt "Bodhi"
 msgid "Radical! Lotsa options! With you, dude. So we don't have to have like a love connection or anything, we can maybe... be friends?? Did I just figure that out right?"
-msgstr ""
+msgstr "Radical ! Plein d'options ! Avec toi, mon pote. Donc on n'est pas obligés d'avoir un coup de foudre ou je ne sais quoi, on peut peut-être... être amis ?? J'ai bien compris, là ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/7
 msgctxt "Bodhi"
 msgid "What is your problem!?"
-msgstr ""
+msgstr "C'est quoi ton problème !?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/0/s/0
 msgctxt "Choix"
 msgid "It's the 80's. They're just so... done."
-msgstr ""
+msgstr "Ce sont les années 80. Elles sont tellement... finies."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/1/s/0
 msgctxt "Choix"
 msgid "We've already remade every movie, remixed every song, refined the fashion."
-msgstr ""
+msgstr "On a déjà refait tous les films, remixé toutes les chansons, perfectionné la mode."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/g-0/0
 msgctxt "Bodhi"
 msgid "Ah tell me you didn't remake Point Brake... Because I can't be held responsible for that!"
-msgstr ""
+msgstr "Ah, dis-moi que vous n'avez pas fait de remake de Point Brake... Parce que je ne peux pas être tenu pour responsable de ça !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/g-0/8
 msgctxt "Bodhi"
 msgid "You can't blame me for the way I've been portrayed."
-msgstr ""
+msgstr "Tu ne peux pas me reprocher la façon dont on m'a dépeint."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/g-0/16
 msgctxt "Bodhi"
 msgid "Catch me up, dude! Let's be friends! I learn about your era, you learn about mine."
-msgstr ""
+msgstr "Mets-moi à jour, mon pote ! Soyons amis ! Moi j'apprends ton époque, toi tu apprends la mienne."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/g-0/27
 msgctxt "Bodhi"
 msgid "Because trust me, whatever you think you know about the 80's... I'm gonna give you like insider knowledge."
-msgstr ""
+msgstr "Parce que crois-moi, tout ce que tu crois savoir sur les années 80... je vais te donner des infos de l'intérieur."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/g-0/35/0/s/0
 msgctxt "Choix"
 msgid "Insider knowledge or not, man... we're buds."
-msgstr ""
+msgstr "Infos de l'intérieur ou pas, mon pote... on est potes."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/g-0/35/1/s/0
 msgctxt "Choix"
 msgid "Welcome back to the modern age, Bodhi!"
-msgstr ""
+msgstr "Bienvenue dans l'ère moderne, Bodhi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-0/c-3/18/g-0/35/g-0/0
 msgctxt "Bodhi"
 msgid "Really?! Ah this is bodaciously good!!"
-msgstr ""
+msgstr "Vraiment ?! Ah, c'est d'enfer !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "So long as you promise not to bust into some cheesy song or something."
-msgstr ""
+msgstr "Tant que tu promets de ne pas te mettre à chanter une chanson ringarde ou un truc du genre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "Oh yeah. I think I'm gonna fall in love with the 80's!"
-msgstr ""
+msgstr "Oh ouais. Je crois que je vais craquer pour les années 80 !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-1/c-4/7
 msgctxt "Bodhi"
 msgid "No promises. I do love to express myself vocally... Ha ha."
-msgstr ""
+msgstr "Je ne promets rien. J'adore m'exprimer avec ma voix... Ha ha."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-1/c-5/7
 msgctxt "Bodhi"
 msgid "Awesome! There was never a doubt. I knew right from the beginning that you and the 80's were totally gonna vibe."
-msgstr ""
+msgstr "Génial ! Je n'ai jamais douté. Dès le début, je savais que toi et les années 80, ça allait totalement matcher."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-1/c-5/15/0/s/0
 msgctxt "Choix"
 msgid "Hey, we still say vibe! So... cool!"
-msgstr ""
+msgstr "Eh, on dit toujours « vibe » ! Donc... cool !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-1/c-5/15/c-0/7
 msgctxt "Bodhi"
 msgid "Ah, no way! See, the good stuff persists, I guess!"
-msgstr ""
+msgstr "Ah, pas possible ! Tu vois, les bonnes choses survivent, apparemment !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-1/c-5/15/c-0/18
 msgctxt "Bodhi"
 msgid "Listen. I'd love to get caught up on some current culture..."
-msgstr ""
+msgstr "Écoute. J'aimerais bien me mettre à jour sur la culture actuelle..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "So, what do you want to do?"
-msgstr ""
+msgstr "Alors, qu'est-ce que tu veux faire ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-2/c-6/7
 msgctxt "Bodhi"
 msgid "A change of view might be nice. Somewhere with some sunshine."
-msgstr ""
+msgstr "Un changement de décor serait sympa. Quelque part avec un peu de soleil."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/0
 msgctxt "Bodhi"
 msgid "Maybe I could watch some TV? Educate myself on the world we're inhabiting right here right now?"
-msgstr ""
+msgstr "Je pourrais peut-être regarder la télé ? M'instruire sur le monde où on vit, ici et maintenant ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/8/s/0
 msgctxt "Choix"
 msgid "God no. I'll come back when you're ready for a real conversation."
-msgstr ""
+msgstr "Ah non, sûrement pas. Je reviendrai quand tu seras prêt à avoir une vraie conversation."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/9/s/0
 msgctxt "Choix"
 msgid "Deal. I'll put you up in the living room."
-msgstr ""
+msgstr "Marché conclu. Je t'installe dans le salon."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/c-7/11
 msgctxt "Bodhi"
 msgid "Whoa. Not a newshound. Cool, no problem."
-msgstr ""
+msgstr "Houlà. Pas un accro à l'info. Cool, pas de souci."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/c-7/22
 msgctxt "Bodhi"
 msgid "We'll talk later, then."
-msgstr ""
+msgstr "On se parle plus tard, alors."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/c-8/7
 msgctxt "Bodhi"
 msgid "Awesome! A day or two to gather myself and I'll be ready to chat. Maybe we can even talk current events!!"
-msgstr ""
+msgstr "Génial ! Un jour ou deux pour me ressaisir et je serai prêt à discuter. On pourra même parler de l'actualité !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/c-8/15/0/s/0
 msgctxt "Choix"
 msgid "Ooh, I could do that!"
-msgstr ""
+msgstr "Ooh, ça, je peux le faire !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/c-8/15/c-0/7
 msgctxt "Bodhi"
 msgid "Sweet, dude!"
-msgstr ""
+msgstr "Top, mon pote !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_2/0/g-3/c-8/15/c-0/15
 msgctxt "Bodhi"
 msgid "I can't wait!"
-msgstr ""
+msgstr "J'ai trop hâte !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/9/s/0
 msgctxt "Choix"
 msgid "Not the silent treatment, man."
-msgstr ""
+msgstr "Pas la tête, mon pote."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/c-1/7
 msgctxt "Bodhi"
 msgid "Hey, I can talk forever. I just don't know what's going on with you."
-msgstr ""
+msgstr "Eh, moi je peux parler pendant des heures. Mais je ne sais pas ce qui se passe de ton côté."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-0/0
 msgctxt "Bodhi"
 msgid "You tell me. Starting to feel kinda \"Scissory\" by Stephen Thing in here..."
-msgstr ""
+msgstr "À toi de me le dire. Je commence à me sentir un peu comme dans « Scissory » de Stephen Thing, ici..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Wasn't that 1990?"
-msgstr ""
+msgstr "Ce n'était pas en 1990 ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Huh?"
-msgstr ""
+msgstr "Hein ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "The movie maybe... It came out in 1990..."
-msgstr ""
+msgstr "Le film, peut-être... Il est sorti en 1990..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-0/c-2/15
 msgctxt "Bodhi"
 msgid "...but the book was written in the 80's!!!"
-msgstr ""
+msgstr "...mais le livre a été écrit dans les années 80 !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-0/c-3/7
 msgctxt "Bodhi"
 msgid "Oh right. Lemme guess. Yet another piece of my history that you haven't even tried to bone up on!"
-msgstr ""
+msgstr "Ah oui. Laisse-moi deviner. Encore un morceau de mon histoire que tu n'as même pas essayé de réviser !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-0/c-3/18
 msgctxt "Bodhi"
 msgid "It's cool, don't worry, I'll just sit here by myself in the dark cut off from my culture, cut off from your culture... whatever, dude!"
-msgstr ""
+msgstr "C'est cool, t'inquiète, je vais rester là tout seul dans le noir, coupé de ma culture, coupé de la tienne... bref, peu importe, mon pote !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "I think you're losing it."
-msgstr ""
+msgstr "Je crois que tu pètes les plombs."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "Oof. Come on, let me move you to the main house so you can get some air."
-msgstr ""
+msgstr "Aïe. Allez, laisse-moi te transférer dans la maison principale pour que tu prennes l'air."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/2/s/0
 msgctxt "Choix"
 msgid "Look. No more melodrama, no more 80's talk. Do you wanna come out, or not?"
-msgstr ""
+msgstr "Écoute. Fini le mélodrame, fini les discours sur les années 80. Tu veux sortir, oui ou non ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-4/7
 msgctxt "Bodhi"
 msgid "Can ya blame me??"
-msgstr ""
+msgstr "Tu peux me blâmer ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-4/18
 msgctxt "Bodhi"
 msgid "But you came back, which means you must've had a reason to come back... right?"
-msgstr ""
+msgstr "Mais tu es revenu, ce qui veut dire que tu avais une raison de revenir... non ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-4/26
 msgctxt "Bodhi"
 msgid "Totally secretly hoping you're gonna get me outta here and put me somewhere with some entertainment!"
-msgstr ""
+msgstr "Je compte totalement en secret sur toi pour me sortir de là et me poser quelque part avec un peu de divertissement !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-4/34/0/s/0
 msgctxt "Choix"
 msgid "Yeah. I'm gonna make an effort. You wanna come to the main house with me?"
-msgstr ""
+msgstr "Ouais. Je vais faire un effort. Tu veux venir dans la maison principale avec moi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-4/34/1/s/0
 msgctxt "Choix"
 msgid "Not gonna happen."
-msgstr ""
+msgstr "Ça n'arrivera pas."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-4/34/c-0/7
 msgctxt "Bodhi"
 msgid "Um YEAH I do!! Ha, fantastic, let's boogie!"
-msgstr ""
+msgstr "Euh OUI, je veux !! Ha, fantastique, allons-y, on y va en boogie !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-5/7
 msgctxt "Bodhi"
 msgid "Oh my god, THANK YOU!"
-msgstr ""
+msgstr "Oh mon dieu, MERCI !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-5/18/0/s/0
 msgctxt "Choix"
 msgid "No problem. Sorry we didn't hit things off right away."
-msgstr ""
+msgstr "De rien. Je regrette qu'on n'ait pas accroché tout de suite."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-5/18/1/s/0
 msgctxt "Choix"
 msgid "I'll work on my 80's aversion, and you work on getting up to date, okay handsome?"
-msgstr ""
+msgstr "Je vais bosser sur mon aversion pour les années 80, et toi sur ta mise à jour, d'accord, beau gosse ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-5/18/c-0/7
 msgctxt "Bodhi"
 msgid "That's okay - I'm a time capsule... patience is kinda totally built into me!"
-msgstr ""
+msgstr "C'est bon, je suis une capsule temporelle... la patience, c'est un peu dans ma nature !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-5/18/c-1/7
 msgctxt "Bodhi"
 msgid "Deal!"
-msgstr ""
+msgstr "Marché conclu !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-6/7
 msgctxt "Bodhi"
 msgid "I definitely wanna come out but I... You... you know what?!?! NEVERMIND!!"
-msgstr ""
+msgstr "J'ai vraiment envie de sortir mais je... Toi... tu sais quoi ?!?! LAISSE TOMBER !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_3/0/g-1/c-6/15
 msgctxt "Bodhi"
 msgid "I'd rather stay here all by my damned self than hang out with your narrow-minded butt for one more second."
-msgstr ""
+msgstr "Je préfère rester ici tout seul comme un grand plutôt que de traîner une seconde de plus avec ton esprit étriqué."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/0
 msgctxt "Bodhi"
 msgid "You've been pretty dang unkind to me since we've met."
-msgstr ""
+msgstr "Tu as vraiment été dur avec moi depuis qu'on s'est rencontrés."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/8
 msgctxt "Bodhi"
 msgid "You judged me before you even had an interest in getting to know me!"
-msgstr ""
+msgstr "Tu m'as jugé avant même d'avoir envie de me connaître !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/16
 msgctxt "Bodhi"
 msgid "I get it. You don't LOOOOOOVE the era, fine."
-msgstr ""
+msgstr "Je comprends. Tu n'AAAAIMES pas cette époque, très bien."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/24
 msgctxt "Bodhi"
 msgid "But I am cool. And we could've learned from each other, y'know?"
-msgstr ""
+msgstr "Mais je suis cool. Et on aurait pu apprendre l'un de l'autre, tu sais ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/32
 msgctxt "Bodhi"
 msgid "But you were too distracted by your own self to even try!"
-msgstr ""
+msgstr "Mais tu étais bien trop occupé par toi-même pour seulement essayer !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/43
 msgctxt "Bodhi"
 msgid "Gag me with a spoon."
-msgstr ""
+msgstr "Beurk, c'est à gerber."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/54
 msgctxt "Narrator"
 msgid "Bodhi lets the insult sink in for a few moments. You're not sure you've ever been so thoroughly disrespected."
-msgstr ""
+msgstr "Bodhi laisse l'insulte faire son chemin pendant quelques instants. Jamais on ne vous avait aussi complètement manqué de respect, vous semble-t-il."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/62
 msgctxt "Bodhi"
 msgid "I'm done. But thanks for wakin' me up! Not totally sure where I am right now, but I'll bet I'm gonna find a way to have a good time!"
-msgstr ""
+msgstr "J'en ai fini. Mais merci de m'avoir réveillé ! Je ne sais pas trop où je suis, mais je parie que je vais trouver un moyen de bien m'amuser !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_join/104
 msgctxt "Reggie"
 msgid "I agree - the 80s died long ago - and this guy needs to stay underground."
-msgstr ""
+msgstr "Je suis d'accord : les années 80 sont mortes depuis longtemps, et ce type doit rester sous terre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/0
 msgctxt "Bodhi"
 msgid "Hey! Look at me on the couch, dude... like I was made to be here!"
-msgstr ""
+msgstr "Eh ! Regarde-moi sur le canapé, mon pote... comme si j'avais été fait pour ça !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/11/s/0
 msgctxt "Choix"
 msgid "Enjoying the new digs?"
-msgstr ""
+msgstr "Tu profites de ta nouvelle piaule ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/12/s/0
 msgctxt "Choix"
 msgid "Catching up on some TV?"
-msgstr ""
+msgstr "Tu rattrapes ton retard côté télé ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/c-0/7
 msgctxt "Bodhi"
 msgid "Oh, you know it. Just veggin' out. Telly was surfing for me!"
-msgstr ""
+msgstr "Oh, tu penses bien. Je végète, quoi. La télé zappait toute seule pour moi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/c-0/18
 msgctxt "Bodhi"
 msgid "I think it might be a good thing that I wasn't anywhere near the TV before... I could spend some serious hours hangin' out in here!"
-msgstr ""
+msgstr "Je crois que c'est une bonne chose que je n'aie pas été près de la télé avant... je pourrais passer des heures et des heures ici !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/c-1/7
 msgctxt "Bodhi"
 msgid "Yo. Your stunts these days? Wicked!"
-msgstr ""
+msgstr "Yo. Tes cascades, de nos jours ? Dingues !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/c-1/15
 msgctxt "Bodhi"
 msgid "I've seen like multiple people jump off of buildings and this one guy was wearing sunglasses with just one big long red lens and shooting lasers out of his eyes??"
-msgstr ""
+msgstr "J'ai vu genre plusieurs personnes sauter de bâtiments, et un type qui portait des lunettes avec un seul grand verre rouge tout en longueur et qui tirait des lasers avec les yeux ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/c-1/23
 msgctxt "Bodhi"
 msgid "Epic."
-msgstr ""
+msgstr "Épique."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "See anything you like?"
-msgstr ""
+msgstr "Tu vois quelque chose qui te plaît ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "Enough to keep you busy??"
-msgstr ""
+msgstr "Assez pour t'occuper ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/0
 msgctxt "Bodhi"
 msgid "Are you kidding!? Where do you even start? Streaming? Cable? On Demand?!"
-msgstr ""
+msgstr "Tu plaisantes !? Par où commencer ? Le streaming ? Le câble ? La demande ?!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/11
 msgctxt "Bodhi"
 msgid "I don't even know if you know this, but we had these things called bunny ears? They worked, and they looked really cool because you could twist 'em around and stuff but this... !?"
-msgstr ""
+msgstr "Je ne sais pas si tu es au courant, mais on avait des trucs qu'on appelait des antennes râteau ? Ça marchait, et ça avait vraiment la classe parce qu'on pouvait les tordre dans tous les sens, mais là... !?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/19
 msgctxt "Bodhi"
 msgid "Completely different ballgame."
-msgstr ""
+msgstr "C'est un tout autre monde."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/27/0/s/0
 msgctxt "Choix"
 msgid "Haha, yeah, there's sure a lot of content."
-msgstr ""
+msgstr "Haha, ouais, il y a vraiment beaucoup de contenu."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/27/c-4/7
 msgctxt "Bodhi"
 msgid "Content?"
-msgstr ""
+msgstr "Contenu ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/27/c-4/15/0/s/0
 msgctxt "Choix"
 msgid "Ooohhh, \"content\" is what we call media. Not just TV, but podcasts, live-streams, you know, stuff to watch."
-msgstr ""
+msgstr "Ooohh, le « contenu », c'est comme ça qu'on appelle les médias. Pas que la télé, mais aussi les podcasts, les lives, enfin, tout ce qu'on regarde."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/27/c-4/15/1/s/0
 msgctxt "Choix"
 msgid "Gross word, huh?"
-msgstr ""
+msgstr "Mot dégueu, hein ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-1/27/c-4/15/c-0/7 bodhi_capsule/bodhi_on_couch/0/g-1/27/c-4/15/c-1/7
 msgctxt "Bodhi"
 msgid "Yeah. It all kinda feels like \"content\"..."
-msgstr ""
+msgstr "Ouais. Tout finit par ressembler à du « contenu »..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-3/0/s/0
 msgctxt "Choix"
 msgid "But hey, you'll never get bored!"
-msgstr ""
+msgstr "Mais bon, tu ne t'ennuieras jamais !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-3/1/s/0
 msgctxt "Choix"
 msgid "Feeling like it's too much?"
-msgstr ""
+msgstr "Tu trouves que c'est trop ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-4/0
 msgctxt "Bodhi"
 msgid "How do you sift through the bad to get to the good stuff?"
-msgstr ""
+msgstr "Comment tu fais le tri entre le mauvais et le bon ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-4/8/s/0
 msgctxt "Choix"
 msgid "Technically, everything is supposed to be tailored to your preferences. Doesn't always work, though."
-msgstr ""
+msgstr "En théorie, tout est censé être adapté à tes préférences. Mais ça ne marche pas toujours."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-4/9/s/0
 msgctxt "Choix"
 msgid "Honestly I have no idea. We just kind of consume it, good or bad, depending on what's trending."
-msgstr ""
+msgstr "Honnêtement, aucune idée. On consomme, c'est tout, bon ou mauvais, selon ce qui est tendance."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-5/0
 msgctxt "Bodhi"
 msgid "Huh. I guess that's why none of it really feels... \"special\"."
-msgstr ""
+msgstr "Hum. Je crois que c'est pour ça que rien de tout ça n'a l'air... « spécial »."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-5/8/s/0
 msgctxt "Choix"
 msgid "Ha! Yeah. That's the algorithm for ya."
-msgstr ""
+msgstr "Ha ! Ouais. C'est l'algorithme, que veux-tu."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-5/c-9/7
 msgctxt "Bodhi"
 msgid "Algo-what-now?"
-msgstr ""
+msgstr "L'algo-quoi, là ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-5/c-9/15/0/s/0
 msgctxt "Choix"
 msgid "You know, a finite sequence of rigorous instructions?"
-msgstr ""
+msgstr "Tu sais, une suite finie d'instructions rigoureuses ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-5/c-9/15/1/s/0
 msgctxt "Choix"
 msgid "Algorithm. It's a thing. I dunno what it means."
-msgstr ""
+msgstr "Algorithme. C'est un truc. Je ne sais pas ce que ça veut dire."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-6/0
 msgctxt "Bodhi"
 msgid "Explain."
-msgstr ""
+msgstr "Explique."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-6/8/s/0
 msgctxt "Choix"
 msgid "In this specific instance they use your media viewing preference to build a synthetic prediction of what you'll enjoy."
-msgstr ""
+msgstr "Dans ce cas précis, ils se servent de tes préférences de visionnage pour fabriquer une prédiction synthétique de ce qui te plaira."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-6/9/s/0
 msgctxt "Choix"
 msgid "It basically governs everything that you're served up on all the streaming services."
-msgstr ""
+msgstr "En gros, ça régit tout ce qu'on te sert sur toutes les plateformes de streaming."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-6/c-10/7
 msgctxt "Bodhi"
 msgid "My head hurts."
-msgstr ""
+msgstr "J'ai mal à la tête."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-6/c-10/18/0/s/0
 msgctxt "Choix"
 msgid "Let's change the subject."
-msgstr ""
+msgstr "Changeons de sujet."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-6/c-10/18/c-0/7
 msgctxt "Bodhi"
 msgid "Whew! Thank goodness."
-msgstr ""
+msgstr "Ouf ! Dieu merci."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-6/c-11/7
 msgctxt "Bodhi"
 msgid "Man that blows..."
-msgstr ""
+msgstr "Mon pote, c'est nul..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-7/0/s/0
 msgctxt "Choix"
 msgid "What was TV like during the 80's?"
-msgstr ""
+msgstr "Comment c'était, la télé, dans les années 80 ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-7/1/s/0
 msgctxt "Choix"
 msgid "Do you have any favorite television shows?"
-msgstr ""
+msgstr "Tu as des séries préférées ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-8/0
 msgctxt "Bodhi"
 msgid "Man, the tube was AWESOME back in my day!"
-msgstr ""
+msgstr "Mon pote, le tube, c'était GÉNIAL à mon époque !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-8/11
 msgctxt "Bodhi"
 msgid "Family Neckties, B.A.S.H, Houston, The Jeffersuns, The Wonder Bread Years, Growing Pain Relievers, The Fax of Life, Miami Vicegrips. So many classics!"
-msgstr ""
+msgstr "Famille Cravate, B.A.S.H, Houston, Les Jeffersuns, Les Années Pain Blanc, Croissance Soulagée, Les Fax de la Vie, Miami Pince-Vices. Tellement de classiques !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-8/19/s/0
 msgctxt "Choix"
 msgid "Certified Bangers!"
-msgstr ""
+msgstr "Des bangers certifiés !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-8/20/s/0
 msgctxt "Choix"
 msgid "Never heard of 'em!"
-msgstr ""
+msgstr "Jamais entendu parler !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/0
 msgctxt "Bodhi"
 msgid "Ooohh man. Too good."
-msgstr ""
+msgstr "Ooohh mon pote. Trop bien."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/8
 msgctxt "Bodhi"
 msgid "Hey, who's your favorite Silver Señorita?!"
-msgstr ""
+msgstr "Eh, c'est qui, ta Silver Señorita préférée ?!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/16/s/0
 msgctxt "Choix"
 msgid "I have no idea who you're talking about."
-msgstr ""
+msgstr "Je n'ai aucune idée de qui tu parles."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/17/s/0
 msgctxt "Choix"
 msgid "OMG, I always loved..."
-msgstr ""
+msgstr "OMG, j'ai toujours adoré..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-16/7
 msgctxt "Bodhi"
 msgid "Aw come on, everyone's got their gal!"
-msgstr ""
+msgstr "Allez, tout le monde a sa préférée !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/7
 msgctxt "Bodhi"
 msgid "Yeah?"
-msgstr ""
+msgstr "Ouais ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/0/s/0
 msgctxt "Choix"
 msgid "Dolores Zdornob"
-msgstr ""
+msgstr "Dolores Zdornob"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/1/s/0
 msgctxt "Choix"
 msgid "Tulip Nightgown"
-msgstr ""
+msgstr "Tulip Nightgown"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/2/s/0
 msgctxt "Choix"
 msgid "Rouge Garnier"
-msgstr ""
+msgstr "Rouge Garnier"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/3/s/0
 msgctxt "Choix"
 msgid "Sapphire Petrus"
-msgstr ""
+msgstr "Sapphire Petrus"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-0/7 bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-1/7 bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-2/7 bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-3/7
 msgctxt "Bodhi"
 msgid "RADICAL!!! They're my favorite too!!!"
-msgstr ""
+msgstr "RADICAL !!! C'est aussi la mienne !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-0/15
 msgctxt "Bodhi"
 msgid "She's so snarky!"
-msgstr ""
+msgstr "Elle est tellement piquante !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-1/15
 msgctxt "Bodhi"
 msgid "She's so silly!"
-msgstr ""
+msgstr "Elle est tellement pétillante !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-2/15
 msgctxt "Bodhi"
 msgid "She's so saucy!"
-msgstr ""
+msgstr "Elle est tellement pimentée !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-9/c-17/15/c-3/15
 msgctxt "Bodhi"
 msgid "She's so sassy!"
-msgstr ""
+msgstr "Elle est tellement pétulante !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/0
 msgctxt "Bodhi"
 msgid "Oh man, that was our favorite show, my grandmother and me. She was a 1920's time capsule."
-msgstr ""
+msgstr "Oh mon pote, c'était notre émission préférée, ma grand-mère et moi. C'était une capsule temporelle des années 1920."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/8
 msgctxt "Bodhi"
 msgid "It was syndicated. Came on right after afternoon cartoons."
-msgstr ""
+msgstr "Elle passait en syndication. Juste après les dessins animés de l'après-midi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/16
 msgctxt "Bodhi"
 msgid "Sure, the comedy was a little too old for me, I didn't get every joke, but grandma would laugh, and I would laugh."
-msgstr ""
+msgstr "Bien sûr, l'humour était un peu trop vieux pour moi, je ne comprenais pas toutes les blagues, mais mamie riait, et moi je riais."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/24
 msgctxt "Bodhi"
 msgid "I think it really shaped my sense of humor. It was... special."
-msgstr ""
+msgstr "Je crois que ça a vraiment façonné mon sens de l'humour. C'était... spécial."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/32/s/0
 msgctxt "Choix"
 msgid "My grandmother used to make me cookies. Bad ones, but still."
-msgstr ""
+msgstr "Ma grand-mère me faisait des cookies. Des mauvais, mais quand même."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/33/s/0
 msgctxt "Choix"
 msgid "Awww, that's so sweet."
-msgstr ""
+msgstr "Awww, c'est trop mignon."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-18/7
 msgctxt "Bodhi"
 msgid "But still... Even if the moment wasn't great, sometimes the memory is still important."
-msgstr ""
+msgstr "Mais quand même... Même si le moment n'était pas terrible, parfois le souvenir reste important."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-18/15
 msgctxt "Bodhi"
 msgid "Weird, how time does that, huh?"
-msgstr ""
+msgstr "Bizarre, ce que fait le temps, non ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-19/7
 msgctxt "Bodhi"
 msgid "She was awesome. All those actors are probably gone now, huh?"
-msgstr ""
+msgstr "Elle était géniale. Tous ces acteurs ont sans doute disparu, maintenant, hein ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-19/15
 msgctxt "Bodhi"
 msgid "Super weird, how much time has gone by."
-msgstr ""
+msgstr "C'est super bizarre, tout ce temps qui a passé."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-19/23/0/s/0
 msgctxt "Choix"
 msgid "Oh. Yeah, Bodhi. I think they're all gone."
-msgstr ""
+msgstr "Oh. Ouais, Bodhi. Je crois qu'ils sont tous partis."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-19/23/1/s/0
 msgctxt "Choix"
 msgid "Sapphire was the first to go I think. But Tulip lived to be 99 and made people laugh the entire time!!"
-msgstr ""
+msgstr "Sapphire est partie la première, je crois. Mais Tulip a vécu jusqu'à 99 ans et a fait rire les gens tout du long !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-19/23/c-0/7
 msgctxt "Bodhi"
 msgid "Hmmm. Yeah. I guess that makes sense, though."
-msgstr ""
+msgstr "Hmmm. Ouais. Je suppose que ça se tient, remarque."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-10/c-19/23/c-1/7
 msgctxt "Bodhi"
 msgid "Oh wow! Well. Good for her. She was a radical lady."
-msgstr ""
+msgstr "Oh wow ! Eh bien. Tant mieux pour elle. C'était une dame radicale."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-11/0/s/0
 msgctxt "Choix"
 msgid "You okay?"
-msgstr ""
+msgstr "Ça va ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-11/1/s/0
 msgctxt "Choix"
 msgid "Need a minute?"
-msgstr ""
+msgstr "Tu as besoin d'une minute ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-12/0
 msgctxt "Bodhi"
 msgid "Yeah, I think I want to be alone for a bit. That okay?"
-msgstr ""
+msgstr "Ouais, je crois que je veux rester seul un moment. Ça te va ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-12/8/s/0
 msgctxt "Choix"
 msgid "Something I did?"
-msgstr ""
+msgstr "J'ai fait quelque chose ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-12/9/s/0
 msgctxt "Choix"
 msgid "Of course. Take all the time you like."
-msgstr ""
+msgstr "Bien sûr. Prends tout le temps que tu veux."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-12/c-22/7
 msgctxt "Bodhi"
 msgid "Oh no, of course not."
-msgstr ""
+msgstr "Oh non, bien sûr que non."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_on_couch/0/g-12/c-22/15 bodhi_capsule/bodhi_on_couch/0/g-12/c-23/7
 msgctxt "Bodhi"
 msgid "It's just that I'm feeling a little out of place... or time."
-msgstr ""
+msgstr "C'est juste que je me sens un peu déplacé... ou décalé dans le temps."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/0
 msgctxt "Bodhi"
 msgid "Whoa, buddy, hey! Nice to see ya!"
-msgstr ""
+msgstr "Houlà, mon pote, eh ! Content de te voir !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/8/s/0
 msgctxt "Choix"
 msgid "Hey Bodhi! Found your way to the office I see."
-msgstr ""
+msgstr "Salut Bodhi ! Je vois que tu as trouvé le chemin du bureau."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/9/s/0
 msgctxt "Choix"
 msgid "Hey Bodhi! How's that computer treating you?"
-msgstr ""
+msgstr "Salut Bodhi ! Alors, il te traite bien, cet ordinateur ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/c-0/7
 msgctxt "Bodhi"
 msgid "Yeah, it's awesome in here! Seems like somewhere you spend a lot of time."
-msgstr ""
+msgstr "Ouais, c'est génial ici ! On dirait un endroit où tu passes beaucoup de temps."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/c-1/7
 msgctxt "Bodhi"
 msgid "Pretty cool, pal-i-o, pretty cool."
-msgstr ""
+msgstr "Plutôt cool, poteau, plutôt cool."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "So, have you had some time to catch up on, oh I dunno, the 21st century?"
-msgstr ""
+msgstr "Alors, tu as eu le temps de te mettre à jour sur, je sais pas, le XXIe siècle ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "What do you think of this \"brave new world\"?"
-msgstr ""
+msgstr "Que penses-tu de ce « meilleur des mondes » ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/0
 msgctxt "Bodhi"
 msgid "Yeah, there's... a lot."
-msgstr ""
+msgstr "Ouais, il y a... beaucoup de choses."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/8
 msgctxt "Bodhi"
 msgid "It's all a little overwhelming."
-msgstr ""
+msgstr "C'est un peu écrasant."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/0/s/0
 msgctxt "Choix"
 msgid "Overwhelming makes sense. Is there something that you are still psyched about?"
-msgstr ""
+msgstr "C'est normal d'être submergé. Y a-t-il quelque chose qui t'enthousiasme toujours ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/1/s/0
 msgctxt "Choix"
 msgid "Hmm... I think I know what you mean."
-msgstr ""
+msgstr "Hmm... Je crois que je vois ce que tu veux dire."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/7
 msgctxt "Bodhi"
 msgid "Sure! I try to be a positive time capsule. The whole \"internet\" thing is pretty bitchin'. I think?"
-msgstr ""
+msgstr "Bien sûr ! J'essaie d'être une capsule temporelle positive. Ce truc d'« internet », c'est plutôt d'enfer. Je crois ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/0/s/0
 msgctxt "Choix"
 msgid "\"You think\"?"
-msgstr ""
+msgstr "« Tu crois » ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/1/s/0
 msgctxt "Choix"
 msgid "Bitchin' for sure."
-msgstr ""
+msgstr "D'enfer, c'est sûr."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/0
 msgctxt "Bodhi"
 msgid "Well, yeah. I mean, it's actually insane. Borderline inconceivable."
-msgstr ""
+msgstr "Enfin, ouais. Je veux dire, c'est dément. Presque inconcevable."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/8
 msgctxt "Bodhi"
 msgid "You have the collective knowledge of all humanity at your finger tips."
-msgstr ""
+msgstr "Vous avez le savoir collectif de toute l'humanité au bout des doigts."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/16
 msgctxt "Bodhi"
 msgid "Still... you all use it for, like, fight videos and arguing with strangers? Maybe even FAKE strangers. \"AI\" I'm not sure I get it."
-msgstr ""
+msgstr "Pourtant... vous vous en servez pour, genre, des vidéos de bagarres et pour vous disputer avec des inconnus ? Peut-être même de FAUX inconnus. L'« IA », je ne suis pas sûr de piger."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/0/s/0
 msgctxt "Choix"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/1/s/0
 msgctxt "Choix"
 msgid "Yeah... Can't say you're wrong."
-msgstr ""
+msgstr "Ouais... Tu n'as pas tort."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/0
 msgctxt "Bodhi"
 msgid "It's just that... ALL of that technology. Information. Possibility. And this is what we did with it?"
-msgstr ""
+msgstr "C'est juste que... TOUTE cette technologie. L'information. Les possibilités. Et voilà ce qu'on en a fait ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/8
 msgctxt "Bodhi"
 msgid "I was so sure we'd have like cured cancer and have flying cars by now."
-msgstr ""
+msgstr "J'étais tellement sûr qu'on aurait guéri le cancer et qu'on aurait des voitures volantes à l'heure qu'il est."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/16
 msgctxt "Bodhi"
 msgid "And there is a really fantastic amount of porn."
-msgstr ""
+msgstr "Et il y a une quantité vraiment fantastique de porno."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/24
 msgctxt "Bodhi"
 msgid "Like, porn, go for it, whatever but... who needs this much??"
-msgstr ""
+msgstr "Genre, le porno, vas-y, pourquoi pas, mais... qui a besoin d'autant ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/32/0/s/0
 msgctxt "Choix"
 msgid "Yikes. I'm sorry porn was your gateway to the internet, buddy."
-msgstr ""
+msgstr "Aïe. Ça craint que le porno ait été ta porte d'entrée vers internet, mon pote."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/32/1/s/0
 msgctxt "Choix"
 msgid "It's a lot. All kinds of people have visibility now, so that's good."
-msgstr ""
+msgstr "C'est beaucoup, oui. Toutes sortes de gens ont de la visibilité maintenant, et ça, c'est bien."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/32/g-0/0
 msgctxt "Bodhi"
 msgid "I guess. I'm just a little tired. Overwhelmed. Kinda bummed out. I really need a pick me up. And you know what never bums me out?"
-msgstr ""
+msgstr "Je suppose. Je suis juste un peu fatigué. Submergé. Un peu déprimé. Il me faut vraiment un remontant. Et tu sais ce qui ne me déprime jamais ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/32/g-0/8
 msgctxt "Bodhi"
 msgid "What's always there for me??"
-msgstr ""
+msgstr "Ce qui est toujours là pour moi ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_second_encounter/0/g-1/19/c-5/15/g-0/24/g-0/32/g-0/16
 msgctxt "Bodhi"
 msgid "...MOVIES!!!"
-msgstr ""
+msgstr "...LES FILMS !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/0
 msgctxt "Bodhi"
 msgid "Movies, movies, movies, always and forever, my dude!"
-msgstr ""
+msgstr "Les films, les films, les films, toujours et à jamais, mon pote !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/8/s/0
 msgctxt "Choix"
 msgid "Oh yeah, I LOVE 80's flicks."
-msgstr ""
+msgstr "Oh ouais, j'ADORE les films des années 80."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/9/s/0
 msgctxt "Choix"
 msgid "I don't know many."
-msgstr ""
+msgstr "J'en connais peu."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/c-0/7 bodhi_capsule/movies/0/c-1/7
 msgctxt "Bodhi"
 msgid "There are so many classics!"
-msgstr ""
+msgstr "Il y a tellement de classiques !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-0/0
 msgctxt "Bodhi"
 msgid "Cindy Bandana Jones, E-Tea, Ferriswheel Bueller’s Day Off, Fast Times at Fridgemont High, 17 Candles, Grill and Shed’s Excellent Adventure!!"
-msgstr ""
+msgstr "Cindy Bandana Jones, E-Thé, La Folle Journée de Ferriswheel Bueller, Class Frigo, 17 Bougies, L'Excellente Aventure de Grill et Shed !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Totally! Those are fantastic films!"
-msgstr ""
+msgstr "Totalement ! Ce sont des films fantastiques !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Those aren't bad."
-msgstr ""
+msgstr "Ils ne sont pas mal."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "Not my fav..."
-msgstr ""
+msgstr "Pas mes préférés..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "Right?! So fun."
-msgstr ""
+msgstr "N'est-ce pas ?! Trop marrant."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-0/c-3/7
 msgctxt "Bodhi"
 msgid "Not BAD!?"
-msgstr ""
+msgstr "Pas MAL !?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-0/c-4/7
 msgctxt "Bodhi"
 msgid "What??!!"
-msgstr ""
+msgstr "Quoi ??!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-1/0
 msgctxt "Bodhi"
 msgid "Okay, okay, what are your favs?"
-msgstr ""
+msgstr "Bon, bon, et quels sont tes préférés ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "Beverly Hills Stop Sign"
-msgstr ""
+msgstr "Le Flic de Beverly Stop Sign"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "The Princess Slide"
-msgstr ""
+msgstr "Princess Glisse"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "Do The Right Things"
-msgstr ""
+msgstr "Do The Right Things"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-1/c-5/7
 msgctxt "Bodhi"
 msgid "Hahahah, oh man, so funny. Can't get that tune out of my head! Bum, bum, bum, bum, bum, bum buuummmm..."
-msgstr ""
+msgstr "Hahahah, oh mon pote, trop drôle. Impossible de me sortir cet air de la tête ! Bom, bom, bom, bom, bom, bom boummm..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-1/c-6/7
 msgctxt "Bodhi"
 msgid "As you wish!"
-msgstr ""
+msgstr "Comme vous voudrez !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-1/c-7/7
 msgctxt "Bodhi"
 msgid "So poignant. Love a Spike Tree joint!"
-msgstr ""
+msgstr "Tellement poignant. J'adore un film de Spike Tree !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-2/0
 msgctxt "Bodhi"
 msgid "Comedy, Action, Fantasy, Animation, Drama!! You've got some really diverse taste."
-msgstr ""
+msgstr "Comédie, action, fantasy, animation, drame !! Tu as des goûts vraiment variés."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-2/11/s/0
 msgctxt "Choix"
 msgid "Thanks Bodhi!"
-msgstr ""
+msgstr "Merci Bodhi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-2/12/s/0
 msgctxt "Choix"
 msgid "Oh I don't know..."
-msgstr ""
+msgstr "Oh, je sais pas..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-2/c-8/7
 msgctxt "Bodhi"
 msgid "Heck yeah!"
-msgstr ""
+msgstr "Et comment !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-2/c-9/7
 msgctxt "Bodhi"
 msgid "Sure ya do!"
-msgstr ""
+msgstr "Mais si, tu sais !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-3/0
 msgctxt "Bodhi"
 msgid "Y'know what, that's actually something I've discovered about your time that I think is pretty rad."
-msgstr ""
+msgstr "Tu sais quoi, c'est justement un truc que j'ai découvert sur ton époque et que je trouve plutôt radical."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-3/8
 msgctxt "Bodhi"
 msgid "You've got so many different kinds of faces now."
-msgstr ""
+msgstr "Vous avez maintenant des visages tellement différents."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-3/16
 msgctxt "Bodhi"
 msgid "You've got all these different personalities and perspectives and stuff. I mean we had it, kinda, but you've really just gone so much further!"
-msgstr ""
+msgstr "Vous avez toutes ces personnalités et ces points de vue différents et tout. Nous aussi on en avait, un peu, mais vous êtes allés bien plus loin !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-3/24
 msgctxt "Bodhi"
 msgid "Black, White, Asian, Arab, Indigenous... Oh and those people with all of those LETTERS?!?!?"
-msgstr ""
+msgstr "Noirs, Blancs, Asiatiques, Arabes, Autochtones... Oh, et ces gens avec toutes ces LETTRES ?!?!?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-3/32/s/0
 msgctxt "Choix"
 msgid "What letters?"
-msgstr ""
+msgstr "Quelles lettres ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-3/33/s/0
 msgctxt "Choix"
 msgid "Say that last part again?"
-msgstr ""
+msgstr "Répète un peu la fin ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-3/c-10/7 bodhi_capsule/movies/0/g-3/c-11/7
 msgctxt "Bodhi"
 msgid "You know Ligibitdiqua!"
-msgstr ""
+msgstr "Tu sais, les Elgébétéquia !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/0/s/0
 msgctxt "Choix"
 msgid "Hahah, you mean LGBTQIA+"
-msgstr ""
+msgstr "Hahah, tu veux dire LGBTQIA+"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/7
 msgctxt "Bodhi"
 msgid "YEAH!! That's the one. There is a lot to learn there, buddy, believe you me."
-msgstr ""
+msgstr "OUAIS !! C'est ça. Il y a plein de choses à apprendre là-dessus, mon pote, crois-moi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/15
 msgctxt "Bodhi"
 msgid "Hey. I guess that's something that your internet is great for!"
-msgstr ""
+msgstr "Eh. Je suppose que c'est un truc pour lequel votre internet est génial !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/23
 msgctxt "Bodhi"
 msgid "Learnin' stuff."
-msgstr ""
+msgstr "Apprendre des trucs."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/31
 msgctxt "Bodhi"
 msgid "It's amazing."
-msgstr ""
+msgstr "C'est incroyable."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/39
 msgctxt "Bodhi"
 msgid "I was so much of my own time, I didn't even realize how pale things were looking in ol' Hollywood."
-msgstr ""
+msgstr "J'étais tellement dans mon époque que je n'avais même pas remarqué à quel point ça manquait de couleurs dans le bon vieux Hollywood."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/47
 msgctxt "Bodhi"
 msgid "I still love my movies, but sometimes now when I see the jokes... the humor was way tough on anyone that was different."
-msgstr ""
+msgstr "J'aime toujours mes films, mais parfois, maintenant, quand je revois les blagues... l'humour était vraiment dur avec tous ceux qui étaient différents."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/55
 msgctxt "Bodhi"
 msgid "Maybe your generation doesn't have flying cars yet, but you're making stories about people I never thought I'd get to know. And that's definitely bodacious."
-msgstr ""
+msgstr "Votre génération n'a peut-être pas encore de voitures volantes, mais vous racontez des histoires sur des gens que je n'aurais jamais cru connaître un jour. Et ça, c'est vraiment d'enfer."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/66/0/s/0
 msgctxt "Choix"
 msgid "Aww, Bodhi, we've definitely been making an effort! I'm honored you noticed."
-msgstr ""
+msgstr "Aww, Bodhi, on fait clairement des efforts ! Ça me touche que tu l'aies remarqué."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/66/1/s/0
 msgctxt "Choix"
 msgid "80's movies are still great though! It's healthy to be able to enjoy things and also know they aren't perfect."
-msgstr ""
+msgstr "Les films des années 80, c'est quand même génial ! C'est sain de pouvoir aimer des choses tout en sachant qu'elles ne sont pas parfaites."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/66/c-0/7
 msgctxt "Bodhi"
 msgid "Good to hear it, compadre."
-msgstr ""
+msgstr "Content de l'entendre, pote."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-4/c-12/66/c-1/7
 msgctxt "Bodhi"
 msgid "Yeah! Oh, that's a great point! You're right, compadre."
-msgstr ""
+msgstr "Ouais ! Oh, excellent argument ! Tu as raison, pote."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-5/0
 msgctxt "Bodhi"
 msgid "Anyway, it was really nice talking to you. I, uh... I've been pretty lonely for a while."
-msgstr ""
+msgstr "Bref, c'était vraiment sympa de discuter avec toi. Je, euh... je me sens assez seul depuis un moment."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-5/8/s/0
 msgctxt "Choix"
 msgid "Me too."
-msgstr ""
+msgstr "Moi aussi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-5/9/s/0
 msgctxt "Choix"
 msgid "I get that."
-msgstr ""
+msgstr "Je comprends."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-6/0
 msgctxt "Bodhi"
 msgid "Could have fooled me. You're super nice, and you're insightful, and you're funny... I don't know! I'll bet you're pretty popular!"
-msgstr ""
+msgstr "On ne dirait pas. Tu as un coeur en or, du flair, de l'humour... je sais pas ! Je parie que tu es très populaire !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-6/11/s/0
 msgctxt "Choix"
 msgid "Can't relate."
-msgstr ""
+msgstr "Je ne me reconnais pas là-dedans."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-6/12/s/0
 msgctxt "Choix"
 msgid "I mean... with these dateviators I'm popular here!"
-msgstr ""
+msgstr "Enfin... avec ces Dateviators, je suis populaire ici !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-6/c-15/7
 msgctxt "Bodhi"
 msgid "Ha! Doesn't surprise me. You are way too cool. Smart, funny, nice... I bet you go on TONS of dates."
-msgstr ""
+msgstr "Ha ! Ça ne m'étonne pas. Tu es bien trop cool. Du cerveau, de l'humour, du coeur... Je parie que tu vas à PLEIN de rencards."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-6/c-16/7
 msgctxt "Bodhi"
 msgid "Got me talkin' at ya!"
-msgstr ""
+msgstr "Tu me fais jacter !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-7/0
 msgctxt "Bodhi"
 msgid "Anyway, great hang."
-msgstr ""
+msgstr "Bref, super moment."
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-7/8
 msgctxt "Bodhi"
 msgid "I'm gonna cruise around a bit, see some more of the house and catch up on the 2000's!"
-msgstr ""
+msgstr "Je vais faire un tour, voir le reste de la maison et me mettre à jour sur les années 2000 !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-7/16
 msgctxt "Bodhi"
 msgid "Later gator!"
-msgstr ""
+msgstr "À plus, castor !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-7/24/s/0
 msgctxt "Choix"
 msgid "After a while crocodile!"
-msgstr ""
+msgstr "À la prochaine, la hyène !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-7/25/s/0
 msgctxt "Choix"
 msgid "Peace out!"
-msgstr ""
+msgstr "Peace !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-7/c-18/7
 msgctxt "Bodhi"
 msgid "Wait, is it peace out now?? I thought we had Pans Across America!!!"
-msgstr ""
+msgstr "Attends, c'est « peace » maintenant ?? Je croyais qu'on avait « Poêles à travers l'Amérique » !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/movies/0/g-7/c-18/15
 msgctxt "Bodhi"
 msgid "Nevermind. I'll figure it out. I got this!"
-msgstr ""
+msgstr "Laisse tomber. Je vais me débrouiller. Je gère !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/0
 msgctxt "Bodhi"
 msgid "Vibe, baby... Hey man, I'm just vibin'!"
-msgstr ""
+msgstr "Vibe, bébé... Hé, pote, je vibre, c'est tout !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/8
 msgctxt "Bodhi"
 msgid "Hey. Come on over here and test my vibe!"
-msgstr ""
+msgstr "Hé. Viens par ici tester ma vibe !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/16/s/0
 msgctxt "Choix"
 msgid "Bodhi? You doin' ok?"
-msgstr ""
+msgstr "Bodhi ? Ça va, toi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/17/s/0
 msgctxt "Choix"
 msgid "Hey buddy. Do I need to be worried about you?"
-msgstr ""
+msgstr "Hé, pote. Je dois m'inquiéter pour toi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-0/0
 msgctxt "Bodhi"
 msgid "I am so good. I've been researching and checking out the house and generally vibin' on all these new decades!"
-msgstr ""
+msgstr "Je suis au top. J'ai fait des recherches, j'ai exploré la maison et je vibre en général sur toutes ces nouvelles décennies !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "What are you doing in the dining room?"
-msgstr ""
+msgstr "Qu'est-ce que tu fais dans la salle à manger ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "How have you been?"
-msgstr ""
+msgstr "Comment vas-tu ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-1/0
 msgctxt "Bodhi"
 msgid "Oh you know, just vibin'..."
-msgstr ""
+msgstr "Oh tu sais, je vibre, quoi..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-1/8
 msgctxt "Bodhi"
 msgid "Hey, am I using that right? I've been practicing a bunch of different uses in sentences and stuff and, I don't know, it sounds weird."
-msgstr ""
+msgstr "Dis, je l'utilise bien ? Je m'entraîne à l'employer de plein de façons dans des phrases et tout, et, je sais pas, ça sonne bizarre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Yeah, you're getting it, mostly!"
-msgstr ""
+msgstr "Ouais, tu y es presque !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "Pretty close..."
-msgstr ""
+msgstr "Pas loin..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/0/b/1
 msgctxt "Bodhi"
 msgid "Whew... okay... I've been chatting with Rainey, she's been playing some tunes!"
-msgstr ""
+msgstr "Pfiou... bon... j'ai discuté avec Rainey, elle passe des morceaux !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/3
 msgctxt "Bodhi"
 msgid "I dig that you have a record player. Old School. Been listening to some of your \"new\" music too. I like it! Well, most of it."
-msgstr ""
+msgstr "J'adore que tu aies un tourne-disque. Old school. J'écoute aussi de ta « nouvelle » musique. J'aime bien ! Enfin, presque tout."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/11/s/0
 msgctxt "Choix"
 msgid "Oh yeah? What kind of music are you into?"
-msgstr ""
+msgstr "Ah ouais ? Tu écoutes quoi, comme musique ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/c-6/7
 msgctxt "Bodhi"
 msgid "Oh wow, there's so much stuff I like! Pop, Punk, Rap, R&B, Rock, Soul. Even Disco. But don't tell anybody."
-msgstr ""
+msgstr "Oh wow, j'aime tellement de choses ! Pop, punk, rap, R&B, rock, soul. Même le disco. Mais ne le répète à personne."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/c-6/18
 msgctxt "Bodhi"
 msgid "As an 80's guy, I'm supposed to be pretty strongly opposed to disco. Which is dumb. Because disco is so cool."
-msgstr ""
+msgstr "En tant que gars des années 80, je suis censé être farouchement contre le disco. Ce qui est bête. Parce que le disco, c'est trop cool."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/c-6/26/0/s/0
 msgctxt "Choix"
 msgid "Got any favorites?"
-msgstr ""
+msgstr "Tu as des préférés ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/c-6/26/c-0/7
 msgctxt "Bodhi"
 msgid "Well yeah! Um, from my era, I love Tommy Tree and Nikki Seven from Mötley Crüeneck, Axles Roses, Brick James, Richie Sambuca, Yngwie Malmsteam, oh, and Pill Spector is like, the best producer ever."
-msgstr ""
+msgstr "Eh bien, oui ! Euh, de mon époque, j'adore Tommy Tree et Nikki Seven de Mötley Crüeneck, Axles Roses, Brick James, Richie Sambuca, Yngwie Malmsteam, ah, et Pill Spector, c'est genre le meilleur producteur de tous les temps."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/c-6/26/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Uuummm..."
-msgstr ""
+msgstr "Euuuh..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-2/c-6/26/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Yikes..."
-msgstr ""
+msgstr "Aïe..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/0/s/0
 msgctxt "Choix"
 msgid "I hate to tell you this, but all of the folks you just named are really problematic, Bodhi."
-msgstr ""
+msgstr "Je déteste devoir te le dire, mais tous les gens que tu viens de citer sont vraiment problématiques, Bodhi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/7
 msgctxt "Bodhi"
 msgid "Hahahah! Oh yeah. They're WILDMEN!"
-msgstr ""
+msgstr "Hahahah ! Oh ouais. Ce sont des FOUS FURIEUX !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/0/s/0
 msgctxt "Choix"
 msgid "No Bodhi, they're CANCELLED."
-msgstr ""
+msgstr "Non Bodhi, ils sont ANNULÉS."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/1/s/0
 msgctxt "Choix"
 msgid "Bodhi, they're not wild. They're bad people."
-msgstr ""
+msgstr "Bodhi, ils ne sont pas fous. Ce sont de mauvaises personnes."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-0/7
 msgctxt "Bodhi"
 msgid "What, like their new records got canned?"
-msgstr ""
+msgstr "Quoi, genre leur nouvel album a été annulé ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-0/15
 msgctxt "Bodhi"
 msgid "No. If it was that, you would've just said that."
-msgstr ""
+msgstr "Non. Si c'était ça, tu l'aurais simplement dit."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-0/23
 msgctxt "Bodhi"
 msgid "What does \"cancelled\" mean?"
-msgstr ""
+msgstr "Ça veut dire quoi, « annulé » ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "It means that someone's poor choices and negative actions have caused pretty much everyone to universally shun them."
-msgstr ""
+msgstr "Ça veut dire que les mauvais choix et les actes négatifs de quelqu'un ont amené pratiquement tout le monde à le rejeter universellement."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-0/31/c-0/7
 msgctxt "Bodhi"
 msgid "Well, wait. Do they have a chance to say sorry?"
-msgstr ""
+msgstr "Attends. Ils ont une chance de dire pardon ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-0/31/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Kinda. It's rare."
-msgstr ""
+msgstr "Plus ou moins. C'est rare."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-1/7
 msgctxt "Bodhi"
 msgid "Oh bummer, dude. So you met them all. And you know they're no good?"
-msgstr ""
+msgstr "Oh la poisse, mon pote. Donc tu les as tous rencontrés. Et tu sais qu'ils sont infréquentables ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "No I haven't met them. I don't need to. I know the things they've done. We don't really look up to any of the people you named anymore."
-msgstr ""
+msgstr "Non, je ne les ai pas rencontrés. Pas besoin. Je sais ce qu'ils ont fait. On n'admire plus aucune des personnes que tu as citées."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-1/15/c-0/7
 msgctxt "Bodhi"
 msgid "So you haven't met them, but... you sure?"
-msgstr ""
+msgstr "Donc tu ne les as pas rencontrés, mais... aucun doute possible ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I'm sure. I think Pill Spector actually killed somebody."
-msgstr ""
+msgstr "Aucun doute. Je crois que Pill Spector a carrément tué quelqu'un."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-3/c-7/18/c-1/15/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "What?? That's... deep bummer right there."
-msgstr ""
+msgstr "Quoi ?? C'est... un gros coup dur, ça."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/0
 msgctxt "Bodhi"
 msgid "So that's it then? All of my favorite artists are cancelled? Like, they won't make any more music?"
-msgstr ""
+msgstr "Alors c'est tout ? Tous mes artistes préférés sont annulés ? Genre, ils ne feront plus de musique ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/8/s/0
 msgctxt "Choix"
 msgid "Probably not."
-msgstr ""
+msgstr "Probablement pas."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/9/s/0
 msgctxt "Choix"
 msgid "Anything is possible... technically."
-msgstr ""
+msgstr "Tout est possible... techniquement."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-8/7
 msgctxt "Bodhi"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-9/7
 msgctxt "Bodhi"
 msgid "But not likely."
-msgstr ""
+msgstr "Mais peu probable."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-9/15/0/s/0
 msgctxt "Choix"
 msgid "I'm sorry, Bodhi."
-msgstr ""
+msgstr "Je compatis, Bodhi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-9/15/c-0/7
 msgctxt "Bodhi"
 msgid "But what about forgiveness? Second chances? Redemption?"
-msgstr ""
+msgstr "Mais le pardon ? Les secondes chances ? La rédemption ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-9/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "It's not that simple anymore I'm afraid."
-msgstr ""
+msgstr "Ce n'est plus aussi simple, j'en ai peur."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-9/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "You want a list of the messed up stuff they did?"
-msgstr ""
+msgstr "Tu veux la liste de leurs saloperies ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-9/15/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "Huh. That's okay. I think I understand. I think..."
-msgstr ""
+msgstr "Hum. C'est bon. Je crois que je comprends. Je crois..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-4/c-9/15/c-0/15/c-1/7
 msgctxt "Bodhi"
 msgid "Um, no. I do not want that."
-msgstr ""
+msgstr "Euh, non. Je ne veux pas de ça."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-5/0/s/0
 msgctxt "Choix"
 msgid "You doing okay?"
-msgstr ""
+msgstr "Ça va ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-5/c-10/7
 msgctxt "Bodhi"
 msgid "Yeah. Just a lot to absorb."
-msgstr ""
+msgstr "Ouais. C'est juste beaucoup à digérer."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-5/c-10/15
 msgctxt "Bodhi"
 msgid "Kinda hurts that a lot of my icons turned out to be bad people."
-msgstr ""
+msgstr "Ça fait mal que plein de mes idoles se soient révélées être de mauvaises personnes."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-5/c-10/23
 msgctxt "Bodhi"
 msgid "It's confusing, y'know?"
-msgstr ""
+msgstr "C'est déroutant, tu vois ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-5/c-10/31/0/s/0
 msgctxt "Choix"
 msgid "I get it. Still happens today, actually. We just find out about it a lot faster."
-msgstr ""
+msgstr "Je comprends. Ça arrive encore aujourd'hui, d'ailleurs. On l'apprend simplement beaucoup plus vite."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-5/c-10/31/1/s/0
 msgctxt "Choix"
 msgid "My generation is having a lot of conversations about \"separating the art from the artist\". You can still enjoy the songs. Just... different awareness, I guess."
-msgstr ""
+msgstr "Ma génération a beaucoup de conversations sur « séparer l'art de l'artiste ». On peut toujours aimer les chansons. Juste... avec une autre conscience, je suppose."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-5/c-10/31/c-0/7 bodhi_capsule/bodhi_dining_room/0/g-5/c-10/31/c-1/7
 msgctxt "Bodhi"
 msgid "Sure."
-msgstr ""
+msgstr "Bien sûr."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-6/0
 msgctxt "Bodhi"
 msgid "Well, it sounds like the music industry had a lot of issues, but hey, at least my favorite actors, authors, sports stars and comedians are okay, right?"
-msgstr ""
+msgstr "Bon, il paraît que l'industrie musicale avait pas mal de problèmes, mais bon, au moins mes acteurs, auteurs, sportifs et humoristes préférés sont clean, non ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-6/8/s/0
 msgctxt "Choix"
 msgid "Who were they?"
-msgstr ""
+msgstr "C'étaient qui ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-6/c-11/7
 msgctxt "Bodhi"
 msgid "Bell Gibson, H.P. Hovercraft, Orange Juice Simpson and Drill Cosby."
-msgstr ""
+msgstr "Bell Gibson, H.P. Hovercraft, Orange Juice Simpson et Drill Cosby."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-6/c-11/15/0/s/0
 msgctxt "Choix"
 msgid "Uh-oh."
-msgstr ""
+msgstr "Oh-oh."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-6/c-11/15/1/s/0
 msgctxt "Choix"
 msgid "Um."
-msgstr ""
+msgstr "Hum."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-6/c-11/15/c-0/7 bodhi_capsule/bodhi_dining_room/0/g-6/c-11/15/c-1/7 bodhi_capsule/bodhi_dining_room/0/g-6/c-11/15/c-2/13
 msgctxt "Bodhi"
 msgid "WHAT NOW?!?!"
-msgstr ""
+msgstr "QUOI ENCORE ?!?!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_dining_room/0/g-7/0
 msgctxt "Bodhi"
 msgid "I'M OUT I'M OUT I'M OUT!!"
-msgstr ""
+msgstr "JE ME BARRE, JE ME BARRE, JE ME BARRE !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/0
 msgctxt "Bodhi"
 msgid "Hey compadre."
-msgstr ""
+msgstr "Salut, pote."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/8/s/0
 msgctxt "Choix"
 msgid "Whoa, is that Bedroom Bodhi I see?"
-msgstr ""
+msgstr "Oh, c'est le Bodhi de la chambre que je vois ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/9/s/0
 msgctxt "Choix"
 msgid "Snugged up in my bed, huh?"
-msgstr ""
+msgstr "Bien au chaud dans mon lit, hein ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/c-0/7
 msgctxt "Bodhi"
 msgid "Haha, yeah. Bedroom Bodhi! I sound like a superhero. It's peaceful in here."
-msgstr ""
+msgstr "Haha, ouais. Le Bodhi de la chambre ! On dirait un super-héros. On est bien tranquille, ici."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/c-1/7
 msgctxt "Bodhi"
 msgid "Haha, yeah. Hope you don't mind."
-msgstr ""
+msgstr "Haha, ouais. J'espère que ça ne te dérange pas."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Not at all! I like it in here, too."
-msgstr ""
+msgstr "Pas du tout ! J'aime bien être ici aussi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "No problem. After all, you've lived here longer than me."
-msgstr ""
+msgstr "Pas de souci. Après tout, tu vis ici depuis plus longtemps que moi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/c-1/15/c-0/7
 msgctxt "Bodhi"
 msgid "Thanks for letting me have free range of the house."
-msgstr ""
+msgstr "Merci de me laisser libre accès à la maison."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/0
 msgctxt "Narrator"
 msgid "Bodhi looks off into the distance somewhere—he's clearly not his usual chipper self."
-msgstr ""
+msgstr "Bodhi regarde au loin, quelque part : il n'est clairement pas dans son état joyeux habituel."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "You seem lost in thought."
-msgstr ""
+msgstr "Tu as l'air perdu dans tes pensées."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Did I do something to deserve the silent treatment?"
-msgstr ""
+msgstr "Ai-je fait quelque chose pour mériter la loi du silence ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/c-2/7
 msgctxt "Bodhi"
 msgid "I've just... I've been thinkin' a lot, my dude. About a lot of stuff."
-msgstr ""
+msgstr "C'est juste que... j'ai beaucoup réfléchi, mon pote. À plein de choses."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/c-3/7
 msgctxt "Bodhi"
 msgid "I've just... I've had a lot to think about."
-msgstr ""
+msgstr "C'est juste que... j'ai eu beaucoup de choses à penser."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "Such as?"
-msgstr ""
+msgstr "Par exemple ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/c-3/15/c-0/7
 msgctxt "Bodhi"
 msgid "I dunno. I'm not used to... being bummed out! Are you sure I'm not bumming you, with my bummed-ness?"
-msgstr ""
+msgstr "Je sais pas. Je n'ai pas l'habitude d'avoir le cafard ! Ça ne te plombe pas, mon cafardage ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/c-3/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Not bummed. Go ahead and talk."
-msgstr ""
+msgstr "Pas de cafard. Vas-y, parle."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-0/c-3/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "You're closer to making me laugh. Which is good! Talk."
-msgstr ""
+msgstr "Tu es à deux doigts de me faire rire. Ce qui est bien ! Parle."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/0
 msgctxt "Bodhi"
 msgid "Okay. It's like this."
-msgstr ""
+msgstr "Bon. Voilà."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/8
 msgctxt "Bodhi"
 msgid "Nostalgia is a powerful thing, right? You for sure don't think while something is happening, 'whoa, I'm gonna miss this.'"
-msgstr ""
+msgstr "La nostalgie, c'est puissant, non ? Tu ne te dis sûrement pas, pendant que ça se passe : « Houlà, ça va me manquer. »"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/16
 msgctxt "Bodhi"
 msgid "I mean sure, you might realize it's \"good\", but you don't always realize that it's also finite. It's gonna end. Every moment ends."
-msgstr ""
+msgstr "Enfin, bien sûr, tu te rends peut-être compte que c'est « bien », mais tu ne te rends pas toujours compte que c'est aussi fini. Ça va s'arrêter. Chaque moment s'arrête."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/24
 msgctxt "Bodhi"
 msgid "It might be kind of a big thing to grasp the meaning of the era you live in or the impact it might have on the world. And your soul."
-msgstr ""
+msgstr "Ça doit être un peu énorme de saisir le sens de l'époque dans laquelle on vit, ou l'impact qu'elle peut avoir sur le monde. Et sur l'âme."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/32
 msgctxt "Bodhi"
 msgid "I should know, amigo! I'm the 80's and just look at me."
-msgstr ""
+msgstr "Je m'y connais, pote ! Je suis les années 80, et regarde-moi."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/40
 msgctxt "Bodhi"
 msgid "Sure, people remember me fondly because of the style, music and media of the times, but..."
-msgstr ""
+msgstr "Bien sûr, les gens se souviennent de moi avec tendresse à cause du style, de la musique et des médias de l'époque, mais..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/48
 msgctxt "Bodhi"
 msgid "...I don't know, are they remembering the REAL me? Or are they remembering and longing for who they were, then?"
-msgstr ""
+msgstr "...je sais pas, est-ce qu'ils se souviennent du VRAI moi ? Ou est-ce qu'ils se souviennent de ce qu'ils étaient, et le regrettent ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/59
 msgctxt "Bodhi"
 msgid "Think about it. Reaganomics, The hole in the ozone layer, Exxon Valdez, The Challenger, Chernobyl, The War on Drugs, The Central Park 5, The Iran Contra Affair, AIDS for god's sake..."
-msgstr ""
+msgstr "Pense-y. La Reaganomics, le trou dans la couche d'ozone, l'Exxon Valdez, Challenger, Tchernobyl, la guerre contre la drogue, les Cinq de Central Park, l'affaire Iran-Contra, le sida, bon sang..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/67
 msgctxt "Bodhi"
 msgid "That's all me. That stuff was a pretty big downer. Definitely doesn't sound like stuff to miss."
-msgstr ""
+msgstr "Tout ça, c'est moi. Tout ça, c'était plutôt déprimant. Ça ne ressemble vraiment pas à des trucs qu'on regrette."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/75
 msgctxt "Bodhi"
 msgid "I'm just feeling like... maybe I wasn't as great as I thought I was."
-msgstr ""
+msgstr "J'ai juste l'impression que... je n'étais peut-être pas aussi génial que je le croyais."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/86/s/0
 msgctxt "Choix"
 msgid "But Bodhi, EVERY decade is a mess. Nothing is perfect, but that doesn't mean it doesn't have merit. People remember you for good things, too!"
-msgstr ""
+msgstr "Mais Bodhi, CHAQUE décennie est un bazar. Rien n'est parfait, mais ça ne veut pas dire que ça n'a pas de valeur. Les gens se souviennent aussi de toi pour de bonnes choses !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/87/s/0
 msgctxt "Choix"
 msgid "But Bodhi, EVERY decade is a mess. Nothing is perfect, but that doesn't mean it doesn't have merit. People love you for who you are... I love you for who you are."
-msgstr ""
+msgstr "Mais Bodhi, CHAQUE décennie est un bazar. Rien n'est parfait, mais ça ne veut pas dire que ça n'a pas de valeur. Les gens t'aiment pour ce que tu es... Moi, je t'aime pour ce que tu es."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-4/7
 msgctxt "Bodhi"
 msgid "Like what?"
-msgstr ""
+msgstr "Comme quoi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-4/15/0/s/0
 msgctxt "Choix"
 msgid "Oh I don't know, how about The Fall of the Iron Curtain, computers, mobile phones, the internet, VIDEOGAMES and so much. Bodhi... you're amazing."
-msgstr ""
+msgstr "Oh, je sais pas, la chute du rideau de fer, les ordinateurs, les téléphones portables, internet, les JEUX VIDÉO et tant d'autres choses. Bodhi... tu es incroyable."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-5/7
 msgctxt "Bodhi"
 msgid "Wait. What did you just say?"
-msgstr ""
+msgstr "Attends. Qu'est-ce que tu viens de dire ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-5/15/0/s/0
 msgctxt "Choix"
 msgid "I said... I love you."
-msgstr ""
+msgstr "J'ai dit... que je t'aime."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-5/15/c-0/7
 msgctxt "Bodhi"
 msgid "You do?"
-msgstr ""
+msgstr "C'est vrai ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-5/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Yes. Everything about you. Even your flaws."
-msgstr ""
+msgstr "Oui. Tout chez toi. Même tes défauts."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-5/15/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "I... I love you too!"
-msgstr ""
+msgstr "Je... Moi aussi, je t'aime !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_fourth_encounter/0/g-1/c-5/15/c-0/15/c-0/18
 msgctxt "Bodhi"
 msgid "I love you so much... uh oh, bucko, hold on... I feel a power ballad comin' on!!"
-msgstr ""
+msgstr "Je t'aime tellement... oh oh, pote, attends... je sens une power ballad arriver !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/0
 msgctxt "Bodhi"
 msgid "I... I've never had a friend like you. I mean, I've never had a friend from the future before!"
-msgstr ""
+msgstr "Je... je n'ai jamais eu un ami comme toi. Enfin, je n'ai jamais eu d'ami venu du futur !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/8
 msgctxt "Bodhi"
 msgid "You've literally brought me out of the past! How cool is that?"
-msgstr ""
+msgstr "Tu m'as littéralement sorti du passé ! C'est pas cool, ça ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/19
 msgctxt "Bodhi"
 msgid "Because of you, because of what I've learned, I feel like I could actually have a future."
-msgstr ""
+msgstr "Grâce à toi, grâce à ce que j'ai appris, j'ai l'impression que je pourrais vraiment avoir un avenir."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/30/s/0
 msgctxt "Choix"
 msgid "Well, you ARE the 80's."
-msgstr ""
+msgstr "Eh bien, tu ES les années 80."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/7
 msgctxt "Bodhi"
 msgid "Yeah. Can only be who I am, I guess..."
-msgstr ""
+msgstr "Ouais. Je ne peux être que ce que je suis, je suppose..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Which meeeaaannns. You could also be the 2080's!!"
-msgstr ""
+msgstr "Ce qui veeeut dire... que tu pourrais aussi être les années 2080 !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "Wah... aaa... aahhahahaAHAHAH YEAH!!! I guess that's right isn't it! The 2080's, huh? Wonder what it'll be like?"
-msgstr ""
+msgstr "Wah... aaa... aahhahahaAHAHAH OUAIS !!! C'est vrai, ça ! Les années 2080, hein ? Je me demande comment ce sera !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/15
 msgctxt "Bodhi"
 msgid "You think they'll still have time capsules then? Ooh, dude, maybe they'll be made out of some crazy futuristic polymer or something!!"
-msgstr ""
+msgstr "Tu crois qu'ils auront encore des capsules temporelles, à l'époque ? Ooh, mon pote, elles seront peut-être faites d'un polymère futuriste complètement dingue !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "I'm just hoping for less spandex and neon."
-msgstr ""
+msgstr "J'espère juste moins de lycra et de néon."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "Looks like we'll find out together... compadre."
-msgstr ""
+msgstr "On dirait qu'on le découvrira ensemble... compadre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/c-0/7
 msgctxt "Bodhi"
 msgid "Hey!!"
-msgstr ""
+msgstr "Hé !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/c-0/15
 msgctxt "Bodhi"
 msgid "I happen to be a pretty big fan of spandex. And neon."
-msgstr ""
+msgstr "Il se trouve que je suis un grand fan de lycra. Et de néon."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/c-0/23
 msgctxt "Bodhi"
 msgid "And leg warmers."
-msgstr ""
+msgstr "Et de jambières."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/c-0/31
 msgctxt "Bodhi"
 msgid "And fingerless gloves."
-msgstr ""
+msgstr "Et de gants sans doigts."
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/c-0/39
 msgctxt "Bodhi"
 msgid "And lace and fishnet t-shirts! And frizzy perms! And bright eye shadow! And tight jeans and sneakers!!!"
-msgstr ""
+msgstr "Et de dentelle et de t-shirts résille ! Et de permanentes frisottées ! Et de fard à paupières flashy ! Et de jeans moulants et de baskets !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/Bodhi_friendshipconclusion/0/c-0/15/c-0/26/c-1/7
 msgctxt "Bodhi"
 msgid "Aaahhh so tubular, friend!!"
-msgstr ""
+msgstr "Aaahhh trop tubesque, mon ami !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_2/0/0
 msgctxt "Bodhi"
 msgid "Oh yeah here we go, it's time to feel it!"
-msgstr ""
+msgstr "Oh ouais, c'est parti, c'est l'heure de ressentir !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_2/0/8/s/0
 msgctxt "Choix"
 msgid "Oh my god, is this happening?"
-msgstr ""
+msgstr "Oh mon dieu, c'est en train d'arriver ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_2/0/9/s/0
 msgctxt "Choix"
 msgid "I'm definitely feelin' it!"
-msgstr ""
+msgstr "Je le sens, c'est sûr !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_2/0/c-0/7
 msgctxt "Bodhi"
 msgid "You bet your booty it's happening!"
-msgstr ""
+msgstr "Tu parles que ça arrive !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_2/0/c-1/7
 msgctxt "Bodhi"
 msgid "The music of LOVE!"
-msgstr ""
+msgstr "La musique de l'AMOUR !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_2/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Let's go, Bodhi, SING TO ME!!!"
-msgstr ""
+msgstr "Allez, Bodhi, CHANTE-MOI !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_2/0/c-1/15/c-0/7
 msgctxt "Bodhi"
 msgid "BITCHIN'!"
-msgstr ""
+msgstr "D'ENFER !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/0
 msgctxt "Bodhi"
 msgid "Oh hey, HATER."
-msgstr ""
+msgstr "Oh, tiens, voilà la HAINE."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/8/s/0
 msgctxt "Choix"
 msgid "Where'd you learn that word?"
-msgstr ""
+msgstr "Où as-tu appris ce mot ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/9/s/0
 msgctxt "Choix"
 msgid "Hater says what? (USE SASS CANDY)"
-msgstr ""
+msgstr "Et le rageux, il dit quoi ? (UTILISER UN BONBON DE SARCASME)"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-0/7/b/1 bodhi_capsule/bodhi_hate_return/0/c-0/9/b/1
 msgctxt "Bodhi"
 msgid "Vaughn. He may have been a grumpy little weirdo, but at least he's not keeping me PRISONER!!"
-msgstr ""
+msgstr "Vaughn. C'est peut-être un petit bizarre grincheux, mais au moins lui, il ne me retient pas PRISONNIER !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-0/8/b/1
 msgctxt "Bodhi"
 msgid "Vaughn. He may be a grumpy little weirdo, but at least he's not keeping me PRISONER!!"
-msgstr ""
+msgstr "Vaughn. C'est un petit bizarre grincheux, peut-être, mais au moins lui, il ne me garde pas PRISONNIER !!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-0/12/0/s/0
 msgctxt "Choix"
 msgid "Listen..."
-msgstr ""
+msgstr "Écoute..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-0/12/c-0/7
 msgctxt "Bodhi"
 msgid "Leave me alone. Unless it's time for you to lower the lotion down in a basket."
-msgstr ""
+msgstr "Laisse-moi tranquille. Sauf si c'est pour me descendre la crème dans un panier."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-0/12/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "How do you know that reference?"
-msgstr ""
+msgstr "Comment tu connais cette référence ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-0/12/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "What the hell else do I have to do with my time but LEARN STUFF, ya heartless monster?"
-msgstr ""
+msgstr "Qu'est-ce que je suis censé faire d'autre de mon temps à part APPRENDRE DES TRUCS, espèce de monstre sans coeur ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-0/12/c-0/15/c-0/15
 msgctxt "Bodhi"
 msgid "JUST GET OUTTA HERE!!!"
-msgstr ""
+msgstr "DÉGAGE D'ICI !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-1/11
 msgctxt "Bodhi"
 msgid "Not falling for that."
-msgstr ""
+msgstr "Je ne tomberai pas dans le panneau."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-1/19/0/s/0
 msgctxt "Choix"
 msgid "But you cracked a smile!"
-msgstr ""
+msgstr "Mais tu as esquissé un sourire !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-1/19/c-0/7
 msgctxt "Bodhi"
 msgid "The only thing that's getting cracked is my patience."
-msgstr ""
+msgstr "La seule chose qui s'esquisse, c'est ma patience qui craque."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-1/19/c-0/15
 msgctxt "Bodhi"
 msgid "You bringing me up into the house or nah?"
-msgstr ""
+msgstr "Tu me fais monter dans la maison, ou bof ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-1/19/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Okay, come on, Bodhi. Welcome home."
-msgstr ""
+msgstr "Bon, allez, viens, Bodhi. Bienvenue à la maison."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-1/19/c-0/23/c-0/7
 msgctxt "Bodhi"
 msgid "Seriously?? Ha! I can't believe that worked!"
-msgstr ""
+msgstr "Sérieux ?? Ha ! Je n'arrive pas à croire que ça ait marché !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_hate_return/0/c-1/19/c-0/23/c-0/15
 msgctxt "Bodhi"
 msgid "Let's do this. Couch surfing here we come!"
-msgstr ""
+msgstr "C'est parti ! Surf de canapé, nous voilà !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/0
 msgctxt "Bodhi"
 msgid "Hey compadre, how are ya?!"
-msgstr ""
+msgstr "Salut pote, comment ça va ?!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/8/s/0
 msgctxt "Choix"
 msgid "Good I guess, what are you up to?"
-msgstr ""
+msgstr "Bien, je crois. Et toi, tu fais quoi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/9/s/0
 msgctxt "Choix"
 msgid "Well, I've actually come to Realize you! If you're into it."
-msgstr ""
+msgstr "Eh bien, en fait, j'ai décidé de te Réaliser ! Si ça te tente."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/c-0/7
 msgctxt "Bodhi"
 msgid "Just discovering some new stuff. Still vibin' and rockin' and... y'know, trying to stay current."
-msgstr ""
+msgstr "Je découvre des trucs. Je vibre toujours, je rocke et... tu sais, j'essaie de rester dans le coup."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/c-0/15
 msgctxt "Bodhi"
 msgid "Hey, also, I found this old box of DISCS!! Some of them say CD. Ah, I could never afford a player... Some of them say DVD? And some of them look like movies, and some of them look like music?!"
-msgstr ""
+msgstr "Eh, et puis j'ai trouvé cette vieille boîte de DISQUES !! Certains disent CD. Ah, je n'ai jamais pu me payer de lecteur... Certains disent DVD ? Et certains ressemblent à des films, et d'autres à de la musique ?!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/c-0/23
 msgctxt "Bodhi"
 msgid "I don't know, though, because they're all so tiny?? It's crazy! I'm totally into it!"
-msgstr ""
+msgstr "Mais je sais pas trop, parce qu'ils sont tous minuscules ?? C'est dingue ! Je suis à fond dedans !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Oh, we really don't use those— you know what, nevermind. It's gnarly, right?!"
-msgstr ""
+msgstr "Oh, on ne s'en sert plus vraiment, tu sais quoi, laisse tomber. C'est démentiel, hein ?!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/c-0/31/c-0/7
 msgctxt "Bodhi"
 msgid "TOTALLY!! Wanna watch some with me?"
-msgstr ""
+msgstr "TOTALEMENT !! Tu veux en regarder avec moi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/c-0/31/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "Absolutely I do! A little nostalgia is good for the soul!"
-msgstr ""
+msgstr "Carrément ! Un peu de nostalgie, c'est bon pour l'âme !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_friend_return/0/c-0/31/c-0/18/c-0/7
 msgctxt "Bodhi"
 msgid "Nostalgia?! This is cutting edge for me, pal-i-o! Spin those lasers!! OOOOWWW!"
-msgstr ""
+msgstr "De la nostalgie ?! Pour moi, c'est de la technologie de pointe, poteau ! Fais tourner ces lasers !! OOOOWWW !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/0
 msgctxt "Bodhi"
 msgid "Oh hey, there, ya sexpot! Back again?"
-msgstr ""
+msgstr "Oh, salut, canon ! De retour ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/8/s/0
 msgctxt "Choix"
 msgid "Yeah, I missed ya!"
-msgstr ""
+msgstr "Ouais, tu m'as manqué !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/9/s/0
 msgctxt "Choix"
 msgid "Yeah! I've actually come to Realize you, Bodhi!"
-msgstr ""
+msgstr "Ouais ! En fait, j'ai décidé de te Réaliser, Bodhi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/7
 msgctxt "Bodhi"
 msgid "Same here. Listen, I've been thinking about that scene with Patrick Daisy in \"Toast\" and it's kinda making me wonder if you'd wanna do some... <i>ahem</i> \"pottery\" with me?"
-msgstr ""
+msgstr "Pareil pour moi. Écoute, je repensais à cette scène avec Patrick Daisy dans « Toast », et ça me fait me demander si ça te dirait de faire un peu de... <i>ahem</i> « poterie » avec moi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Sounds messy."
-msgstr ""
+msgstr "Ça a l'air salissant."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/c-0/7
 msgctxt "Bodhi"
 msgid "Uh huh. Definitely. Gotta get a good mess on! But FIRST!..."
-msgstr ""
+msgstr "Mmh-mmh. Clairement. Faut en mettre partout ! Mais D'ABORD !..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/c-0/18
 msgctxt "Bodhi"
 msgid "I feel the need... the need... to serenade ya with a power ballad!"
-msgstr ""
+msgstr "Je ressens le besoin... le besoin... de te faire une sérénade avec une power ballad !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "I thought you'd never ask!"
-msgstr ""
+msgstr "Je pensais que tu ne le demanderais jamais !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/c-0/26/1/s/0
 msgctxt "Choix"
 msgid "As good as that sounds, you had me at pottery."
-msgstr ""
+msgstr "Aussi bien que ça sonne, tu m'avais à « poterie »."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/c-0/26/c-0/7
 msgctxt "Bodhi"
 msgid "SICK!"
-msgstr ""
+msgstr "TROP BIEN !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/c-0/26/c-1/7
 msgctxt "Bodhi"
 msgid "Oh heck yes. Let's glaze it up!"
-msgstr ""
+msgstr "Oh oui, carrément. Allez, on émaille tout ça !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_return/0/c-0/15/c-0/26/c-1/18
 msgctxt "Narrator"
 msgid "The time spent with Bodhi spinning pottery makes time fly by faster than you ever imagined..."
-msgstr ""
+msgstr "Le temps passé avec Bodhi à tourner de la poterie file bien plus vite que vous ne l'auriez jamais imaginé..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/0
 msgctxt "Bodhi"
 msgid "Whoa. Hold on there, amigo. Realize?"
-msgstr ""
+msgstr "Houlà. Attends un peu, pote. Réaliser ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/11
 msgctxt "Bodhi"
 msgid "How many badass things are you gonna do for me?? First you wake me up, then you show me all these bodacious years I missed, and now... now I'm gonna get Realized??"
-msgstr ""
+msgstr "Combien de trucs de dingue vas-tu faire pour moi ?? D'abord tu me réveilles, ensuite tu me fais découvrir toutes ces années d'enfer que j'ai ratées, et maintenant... maintenant je vais être Réalisé ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/19/s/0
 msgctxt "Choix"
 msgid "So you're into it, then."
-msgstr ""
+msgstr "Donc ça te tente, alors."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/20/s/0
 msgctxt "Choix"
 msgid "Well, yeah, if you stop talking, sure!"
-msgstr ""
+msgstr "Eh bien, oui, si tu arrêtes de parler, bien sûr !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/c-0/7
 msgctxt "Bodhi"
 msgid "Oh, I'm into it. Big time. Let's goooooo...."
-msgstr ""
+msgstr "Oh, ça me tente. Grave. Allons-y..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/g-0/0
 msgctxt "Bodhi"
 msgid "Are you ready to rock right now?"
-msgstr ""
+msgstr "Ça te dit de tout déchirer, là, tout de suite ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/g-0/20/s/0
 msgctxt "Choix"
 msgid "Yep! Buckle up!"
-msgstr ""
+msgstr "Yep ! Attache ta ceinture !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/g-0/21/s/0
 msgctxt "Choix"
 msgid "Haha. As long as you're ready. I'm not quite, but I'll come back!"
-msgstr ""
+msgstr "Haha. Du moment que toi, tu es prêt. Moi, il me faut encore un peu de temps, mais je reviendrai !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_join/0/g-0/c-3/10
 msgctxt "Bodhi"
 msgid "Oh, you'd better come back. I'll be here, continuing my education, so to speak!"
-msgstr ""
+msgstr "Oh, tu as intérêt à revenir. Je serai là, à poursuivre mon éducation, si je puis dire !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_return/0/0
 msgctxt "Bodhi"
 msgid "Gnarly gnarly, my friend, are we doing this??"
-msgstr ""
+msgstr "Génial génial, mon ami, on le fait ??"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_return/0/17/s/0
 msgctxt "Choix"
 msgid "Oh yes. Prepare yourself, Bodhi!"
-msgstr ""
+msgstr "Oh oui. Prépare-toi, Bodhi !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_return/0/18/s/0
 msgctxt "Choix"
 msgid "Almost! A few more things!"
-msgstr ""
+msgstr "Presque ! Encore quelques trucs à faire !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_return/0/c-1/10
 msgctxt "Bodhi"
 msgid "Brochacho, you are so very lucky that I am patient. Like whoa."
-msgstr ""
+msgstr "Potochacho, tu as une sacrée chance que je sois patient. Genre, houlà."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_begin/6/b/1
 msgctxt "Skylar"
 msgid "I hope this tech isn't bogus... let's start with Bodhi and see if it works!"
-msgstr ""
+msgstr "J'espère que cette technologie n'est pas foireuse... commençons par Bodhi pour voir si ça marche !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_begin/9
 msgctxt "Skylar"
 msgid "Bodhi - let's get radical!"
-msgstr ""
+msgstr "Bodhi, passons à la radicalité !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_begin/17
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely a time capsule, becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était jusqu'alors qu'une capsule temporelle devient..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realized/0/3
 msgctxt "Bodhi"
 msgid "Duh duh duh DUH!! Here I am, alive and in the flesh. Gotta love it baby!!!"
-msgstr ""
+msgstr "Dou dou dou DOU !! Me voici, vivant et en chair et en os. Faut aimer ça, bébé !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realized/0/14/s/0
 msgctxt "Choix"
 msgid "Well well, you look ready to take on the world, my friend!"
-msgstr ""
+msgstr "Eh bien eh bien, tu as l'air prêt à conquérir le monde, mon ami !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realized/0/15/s/0
 msgctxt "Choix"
 msgid "You gonna sing me a sexy song again? I hope so..."
-msgstr ""
+msgstr "Tu vas encore me chanter une chanson sexy ? J'espère bien..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/3
 msgctxt "Bodhi"
 msgid "Oh I'm gonna do a lot more than sing!"
-msgstr ""
+msgstr "Oh, je vais faire bien plus que chanter !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/11
 msgctxt "Bodhi"
 msgid "Although definitely I'm gonna sing."
-msgstr ""
+msgstr "Même si, c'est sûr, je vais chanter."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/19
 msgctxt "Bodhi"
 msgid "You know what I didn't get to do when I was learning all that stuff about the times that came after me?"
-msgstr ""
+msgstr "Tu sais ce que je n'ai pas pu faire quand j'apprenais tout ça sur les époques qui sont venues après moi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/27
 msgctxt "Bodhi"
 msgid "Dance! I never got to dance. And there are so many good dances..."
-msgstr ""
+msgstr "Danser ! Je n'ai jamais pu danser. Et il y a tellement de bonnes danses..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/38
 msgctxt "Bodhi"
 msgid "Would you dance with me?"
-msgstr ""
+msgstr "Tu veux bien danser avec moi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/46/s/0
 msgctxt "Choix"
 msgid "Bodhi. Are you finally asking me out on a date?"
-msgstr ""
+msgstr "Bodhi. Tu es enfin en train de me proposer un rencard ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/7
 msgctxt "Bodhi"
 msgid "Finally? Wait..."
-msgstr ""
+msgstr "Enfin ? Attends..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/15
 msgctxt "Bodhi"
 msgid "You wanted me to ask you out?"
-msgstr ""
+msgstr "Tu voulais que je te demande de sortir avec moi ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Well DUH!!!"
-msgstr ""
+msgstr "Bah OUI !!!"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/23/c-0/7
 msgctxt "Bodhi"
 msgid "Wow... I feel like such a doofus right now."
-msgstr ""
+msgstr "Wow... je me sens comme un gros benêt, là."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/23/c-0/18
 msgctxt "Bodhi"
 msgid "Consider yourself asked out. Asked out times a million. You are one radical human, and I'm gonna date the heck outta ya!"
-msgstr ""
+msgstr "Considère que je te l'ai demandé. Demandé fois un million. Tu es un humain radical, et je vais te faire un rencard d'enfer !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/23/c-0/29
 msgctxt "Narrator"
 msgid "Bodhi proved true to his word. You sang and laughed and watched movies new and old, and at one point danced around in nothing but socks and white button down shirts."
-msgstr ""
+msgstr "Bodhi a tenu parole. Vous avez chanté, ri, regardé des films neufs et anciens, et à un moment, vous avez dansé en chaussettes et en chemise blanche boutonnée, rien d'autre."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/23/c-0/37
 msgctxt "Narrator"
 msgid "You fall asleep holding hands, talking in the brief moments before unconsciousness of all the things in this new world you wanted to see together."
-msgstr ""
+msgstr "Vous vous endormez main dans la main, parlant, dans les brefs instants avant l'inconscience, de tout ce que vous vouliez voir ensemble dans ce nouveau monde."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/23/c-0/45
 msgctxt "Narrator"
 msgid "Just before sleep finally overtakes you, you realize that Bodhi has made you see your own time as new. And fresh. And wonderful."
-msgstr ""
+msgstr "Juste avant que le sommeil ne vous emporte enfin, vous comprenez que Bodhi vous a fait voir votre propre époque comme neuve. Et fraîche. Et merveilleuse."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_divert/0/c-0/23/c-0/53
 msgctxt "Bodhi"
 msgid "And how radical is that?"
-msgstr ""
+msgstr "Et c'est pas radical, ça ?"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/3
 msgctxt "Narrator"
 msgid "Bodhi made sure to say a very musical goodbye to you before he left in the morning."
-msgstr ""
+msgstr "Bodhi a pris soin de vous dire un au revoir très musical avant de partir au matin."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/11
 msgctxt "Narrator"
 msgid "When asked what he planned on doing, what would be his ambition for his new life, he replied only..."
-msgstr ""
+msgstr "Quand on lui a demandé ce qu'il comptait faire, quelle serait son ambition pour sa nouvelle vie, il a simplement répondu..."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/19
 msgctxt "Bodhi"
 msgid "I dunno yet! I've still got a lot to learn so... I guess I'll figure something out!"
-msgstr ""
+msgstr "Je sais pas encore ! J'ai encore plein de choses à apprendre, alors... je trouverai bien un truc !"
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/27
 msgctxt "Narrator"
 msgid "He bounced around doing odd jobs, and quite happily, too, until he found himself working at a movie studio as a coffee delivery guy."
-msgstr ""
+msgstr "Il a enchaîné les petits boulots, et de bon coeur, jusqu'à se retrouver à travailler dans un studio de cinéma comme livreur de café."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/35
 msgctxt "Narrator"
 msgid "One day, delivering an order of iced lattes to a closed set on one of the sound stages he heard snatches of the music he recognized from his history as a time capsule."
-msgstr ""
+msgstr "Un jour, en livrant une commande de cafés glacés sur un plateau fermé, dans l'un des studios, il a entendu des bribes de la musique qu'il reconnaissait de son passé de capsule temporelle."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/43
 msgctxt "Narrator"
 msgid "He saw frizzy perms. Tight jeans with sneakers. Bright leggings with leg warmers."
-msgstr ""
+msgstr "Il a vu des permanentes frisottées. Des jeans moulants avec des baskets. Des leggings flashy avec des jambières."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/51
 msgctxt "Narrator"
 msgid "He had delivered coffee to the set of the first season of Stranger Rings."
-msgstr ""
+msgstr "Il venait de livrer du café sur le tournage de la première saison de Stranger Rings."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/62
 msgctxt "Narrator"
 msgid "He couldn't contain his excitement, or his emotion, and the director soon noticed the kooky coffee delivery boy in the corner who seemed to know all the references and all the mannerisms so much better than the actors or even the writers."
-msgstr ""
+msgstr "Il n'a pu contenir ni son excitation ni son émotion, et le réalisateur a vite remarqué, dans le coin, ce livreur de café loufoque qui semblait connaître toutes les références et toutes les manières bien mieux que les acteurs, voire les scénaristes."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/70
 msgctxt "Narrator"
 msgid "Although he of course couldn't tell the director why he knew the 80's as well as he did, he was able to label himself an \"enthusiast.\""
-msgstr ""
+msgstr "Même s'il ne pouvait évidemment pas dire au réalisateur pourquoi il connaissait si bien les années 80, il a pu se définir comme un « passionné »."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_love_join/78
 msgctxt "Narrator"
 msgid "Works for me, thought the grateful director. Bodhi was soon thereafter hired as a \"consultant.\" He goes to work grinning every single day."
-msgstr ""
+msgstr "Ça me va, a pensé le réalisateur, reconnaissant. Bodhi a peu après été engagé comme « consultant ». Il va au travail avec le sourire, chaque jour que Dieu fait."
 
+# Traduction IA – à relire
 #: bodhi_capsule/bodhi_realize_zoey/0/g-0/20/s/0
 msgctxt "Choix"
 msgid "Huh, mysterious. Okay! Free necklace!"
-msgstr ""
+msgstr "Hum, mystérieux. Bon ! Collier gratuit !"
