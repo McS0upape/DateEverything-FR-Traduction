@@ -131,3 +131,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **kristof_crosstrainer** : crosstrainer = vélo elliptique ; Keanu Sleeves (garder) ; Hell, Norway = Hell, en Norvège ; La Vengeance du Viking ; Brynja (garder) ; Collapsible Bookshelves = les Bibliothèques Pliantes.
 - **harper_hamper** : hamper = panier à linge ; les Hanks ; Chappy (garder) ; bestie = BFF ; Hate Playbook = Manuel de la Haine ; Commitment by Harper = L'Engagement par Harper ; Freedom by Dirk = La Liberté par Dirk.
 - **farya_firstaid** : Doctor (gag de Farya) = Doctoresse ; Medical Professional = professionnelle de santé.
+- **holly_holidays** : Venetian's Day = Saint-Vénitien ; Valdiviantine's Day = Saint-Valdivientin ; Holly Day, Blissmas, Balloween, Hollyween (garder) ; Gleester in July = Gleester en juillet ; Gleester Bunny = Lapin de Gleester ; HOLIDAY DECORATIONS = DÉCORATIONS DE FÊTES.
