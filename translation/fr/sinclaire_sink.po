@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: sinclaire_sink/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "SINK"
-msgstr ""
+msgstr "ÉVIER"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/0
 msgctxt "Narrator"
 msgid "You're used to seeing mostly people-shaped objects with the dateviators, but clearly the sink-headed figure before you is... well, not like the others."
-msgstr ""
+msgstr "Avec les Dateviators, vous avez l'habitude de voir surtout des objets en forme de personnes, mais la silhouette à tête d'évier qui se tient devant vous est... enfin, pas comme les autres."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/8
 msgctxt "Narrator"
 msgid "All the time in the world wouldn't be enough to comprehend whatever is going on with this guy."
-msgstr ""
+msgstr "Tout le temps du monde ne suffirait pas à comprendre ce qui se passe avec ce type."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/13
 msgctxt "Narrator"
 msgid "You can see that he's got a sink for a head and the clothing and posture of a beleaguered stand-up comic, but your inspection is cut short by his disturbing screams."
-msgstr ""
+msgstr "Vous constatez qu'il a un évier à la place de la tête, ainsi que la tenue et la posture d'un humoriste de stand-up à bout de nerfs, mais votre inspection est interrompue par ses hurlements déchirants."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/18
 msgctxt "Sinclaire"
 msgid "HEEEEELLLLLLLPPPPPPP!!!!!!"
-msgstr ""
+msgstr "AU SECOOOOOOURS !!!!!!"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/29
 msgctxt "Sinclaire"
 msgid "HELP ME!"
-msgstr ""
+msgstr "AIDEZ-MOI !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/37
 msgctxt "Sinclaire"
 msgid "Hello?? Can you hear me???"
-msgstr ""
+msgstr "Allô ?? Vous m'entendez ???"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/45/s/0 sinclaire_sink/sinclaire_hate_return/0/22/s/0
 msgctxt "Choix"
 msgid "Um... hi?"
-msgstr ""
+msgstr "Euh... salut ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/46/s/0
 msgctxt "Choix"
 msgid "What's wrong!?"
-msgstr ""
+msgstr "Qu'est-ce qui se passe !?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/47/s/0
 msgctxt "Choix"
 msgid "Did you happen to start a fire in the bathroom?"
-msgstr ""
+msgstr "Tu aurais pas mis le feu dans la salle de bain, par hasard ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/7
 msgctxt "Sinclaire"
 msgid "Hi. Hello."
-msgstr ""
+msgstr "Salut. Bonjour."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Why were you just screaming 'help?'"
-msgstr ""
+msgstr "Pourquoi tu hurlais « à l'aide » ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "That wasn't me."
-msgstr ""
+msgstr "C'était pas moi."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "...what?"
-msgstr ""
+msgstr "...quoi ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "I mean it was me, but it wasn't. Isn't."
-msgstr ""
+msgstr "Enfin si, c'était moi, mais c'était pas moi. N'est pas moi."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/15
 msgctxt "Sinclaire"
 msgid "Nothing is as it seems. <w>I</w> am not who <w>I</w> seem!"
-msgstr ""
+msgstr "Rien n'est ce qu'il semble être. <w>Je</w> ne suis pas celui que <w>je</w> parais !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Okayyyy..."
-msgstr ""
+msgstr "D'accooord..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "I'm gonna go ahead and leave now."
-msgstr ""
+msgstr "Bon, je vais y aller, du coup."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/7
 msgctxt "Sinclaire"
 msgid "I mean the I you see before you isn't the me I am inside!"
-msgstr ""
+msgstr "Je veux dire que le moi que tu vois devant toi n'est pas le moi que je suis à l'intérieur !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/15
 msgctxt "Sinclaire"
 msgid "You see, there's the I that sees through these eyes, of course, but who is that?"
-msgstr ""
+msgstr "Tu vois, il y a le moi qui regarde par ces yeux, bien sûr, mais qui est-ce ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/23
 msgctxt "Sinclaire"
 msgid "Certainly not the one I am!"
-msgstr ""
+msgstr "Certainement pas celui que je suis !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Oh, I see. It's a philosophy thing!"
-msgstr ""
+msgstr "Ah, je vois. C'est un truc de philosophie !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/1/s/0
 msgctxt "Choix"
 msgid "You're kind of scaring me."
-msgstr ""
+msgstr "Tu commences à me faire peur."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-0/7
 msgctxt "Sinclaire"
 msgid "No, it's a reality thing."
-msgstr ""
+msgstr "Non, c'est un truc de réalité."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-1/7
 msgctxt "Sinclaire"
 msgid "Don't be afraid."
-msgstr ""
+msgstr "N'aie pas peur."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-1/15
 msgctxt "Sinclaire"
 msgid "There's nothing to fear except creepy old fortune tellers in poorly-lit back alleys."
-msgstr ""
+msgstr "Il n'y a rien à craindre, sauf les vieilles voyantes flippantes dans les ruelles mal éclairées."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-0/31/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "What on earth are you talking about?"
-msgstr ""
+msgstr "Mais de quoi tu parles, enfin ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-1/7
 msgctxt "Sinclaire"
 msgid "No! Don't leave me!"
-msgstr ""
+msgstr "Non ! Ne me quitte pas !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-0/15/c-0/15/c-0/23/c-1/18/0/s/0
 msgctxt "Choix"
 msgid "Byeeeee..."
-msgstr ""
+msgstr "Saluuut..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-1/7
 msgctxt "Sinclaire"
 msgid "Listen closely. There isn't much time. Nothing is as it seems."
-msgstr ""
+msgstr "Écoute bien. On n'a pas beaucoup de temps. Rien n'est ce qu'il semble être."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Oh my gosh! What's going on?"
-msgstr ""
+msgstr "Oh mon dieu ! Qu'est-ce qui se passe ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-2/7
 msgctxt "Sinclaire"
 msgid "Why yes! I splish-splashed a little water right into the electrical socket."
-msgstr ""
+msgstr "Mais oui ! J'ai fait un petit plouf de flotte direct dans la prise électrique."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-2/15
 msgctxt "Sinclaire"
 msgid "Not a bad move, if I may say so!"
-msgstr ""
+msgstr "Pas mal comme coup, si je puis me permettre !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "You really shouldn't be doing that! You could've gotten someone really hurt!"
-msgstr ""
+msgstr "Tu ne devrais vraiment pas faire ça ! Tu aurais pu blesser quelqu'un gravement !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-2/23/c-0/7
 msgctxt "Sinclaire"
 msgid "I never thought about it that way."
-msgstr ""
+msgstr "Je n'avais jamais vu les choses sous cet angle."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-2/23/c-0/15
 msgctxt "Sinclaire"
 msgid "I merely meant to alert the powers that be to my terrible predicament."
-msgstr ""
+msgstr "Je voulais simplement alerter les autorités compétentes sur ma terrible situation."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/c-2/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Which is...?"
-msgstr ""
+msgstr "À savoir...?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/0
 msgctxt "Sinclaire"
 msgid "I'm not who I appear to be."
-msgstr ""
+msgstr "Je ne suis pas ce que je parais être."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/15
 msgctxt "Sinclaire"
 msgid "My name is NOT Sinclaire, it's MARTIN. Martin Applegate."
-msgstr ""
+msgstr "Mon nom n'est PAS Sinclaire, c'est MARTIN. Martin Applegate."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/26
 msgctxt "Martin Applegate"
 msgid "And I'm not a sink."
-msgstr ""
+msgstr "Et je ne suis pas un évier."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/34
 msgctxt "Martin Applegate"
 msgid "I'm an insurance claims adjuster from Turkleman City, Florida."
-msgstr ""
+msgstr "Je suis expert en sinistres d'assurance, à Turkleman City, en Floride."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/42/s/0
 msgctxt "Choix"
 msgid "This is getting weird fast."
-msgstr ""
+msgstr "Ça devient bizarre très vite."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/43/s/0
 msgctxt "Choix"
 msgid "Turkleman City? Is that even a real place?"
-msgstr ""
+msgstr "Turkleman City ? Ça existe vraiment, comme endroit ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/7
 msgctxt "Sinclaire"
 msgid "Now you're catching on."
-msgstr ""
+msgstr "Tu commences à comprendre."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "To...?"
-msgstr ""
+msgstr "Quoi donc...?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Just how weird this is going to get."
-msgstr ""
+msgstr "À quel point ça va devenir bizarre."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I don't know if I want that."
-msgstr ""
+msgstr "Je ne sais pas si j'ai envie de ça."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I'm gonna gooo..."
-msgstr ""
+msgstr "Je vais y aller..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Ooh! Weird. I like weird."
-msgstr ""
+msgstr "Ooh ! Bizarre. J'aime bien le bizarre."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Well <i>I</i> don't know if I wanted my dog to be turned into a bar of <i>SOAP!</i>"
-msgstr ""
+msgstr "Eh bien <i>moi</i>, je ne sais pas si je voulais que mon chien soit transformé en pain de <i>SAVON !</i>"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/15
 msgctxt "Sinclaire"
 msgid "But that happened, and here we are..."
-msgstr ""
+msgstr "Mais c'est arrivé, et nous voilà..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Your dog got turned into a bar of soap?"
-msgstr ""
+msgstr "Ton chien a été transformé en pain de savon ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/13 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/6 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/21 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/32 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/21 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/21
 msgctxt "Sudsy"
 msgid "Ruff!"
-msgstr ""
+msgstr "Ouaf !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/21 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/14 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/29 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/40 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/29 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/29
 msgctxt "Narrator"
 msgid "A strange creature that looks and sounds like a soapy little dog jumps up at your legs, yapping and barking."
-msgstr ""
+msgstr "Une étrange créature qui ressemble et aboie comme un petit chien savonneux bondit contre vos jambes en jappant."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/32 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/25 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/40 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/51 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/40 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/40
 msgctxt "Sinclaire"
 msgid "Down Sudsy! Down! Keep your bubbles to yourself, you little devil!"
-msgstr ""
+msgstr "Couché, Sudsy ! Couché ! Garde tes bulles pour toi, petit diable !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/40 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/33 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/48 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/59 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/48 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/51
 msgctxt "Sudsy"
 msgid "Ruff! Ruff!"
-msgstr ""
+msgstr "Ouaf ! Ouaf !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/48 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/41 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/56 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/67 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/56 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/59
 msgctxt "Sinclaire"
 msgid "Tray, Sudsy!"
-msgstr ""
+msgstr "Au porte-savon, Sudsy !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/59
 msgctxt "Sudsy"
 msgid "rrrrrRUFF!"
-msgstr ""
+msgstr "grrrrrOUAF !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/67 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/57 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/72 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/83 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/72 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/78
 msgctxt "Sinclaire"
 msgid "Go. To. Your. Tray!"
-msgstr ""
+msgstr "Va. Dans. Ton. Porte-savon !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/81 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/71 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/86 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/97 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/86 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/92
 msgctxt "Sinclaire"
 msgid "Sorry about that."
-msgstr ""
+msgstr "Désolé pour ça."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/89/0/s/0
 msgctxt "Choix"
 msgid "Ok, so that just happened."
-msgstr ""
+msgstr "Bon, donc ça vient d'arriver."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-0/23/c-0/89/c-0/7
 msgctxt "Sinclaire"
 msgid "And that's just the beginning."
-msgstr ""
+msgstr "Et ce n'est que le début."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/7
 msgctxt "Sinclaire"
 msgid "No, wait! I need someone to reverse this curse!"
-msgstr ""
+msgstr "Non, attends ! J'ai besoin de quelqu'un pour lever cette malédiction !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Did you say curse?"
-msgstr ""
+msgstr "Tu as dit malédiction ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Oh yes, a foul, mysterious curse! Cast upon me by a foul, mysterious fiend!"
-msgstr ""
+msgstr "Oh oui, une affreuse et mystérieuse malédiction ! Lancée sur moi par un affreux et mystérieux démon !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Go on."
-msgstr ""
+msgstr "Continue."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Guess I'm stuck here..."
-msgstr ""
+msgstr "Je crois que je suis coincé ici..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-1/15/c-0/15/g-0/49 sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/64 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/64
 msgctxt "Sudsy"
 msgid "rrrrrRUF!"
-msgstr ""
+msgstr "grrrrrOUAF !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-3/15/c-0/15/c-2/7
 msgctxt "Sinclaire"
 msgid "Try this on for size, then."
-msgstr ""
+msgstr "Essaie donc celle-là pour voir."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/7
 msgctxt "Sinclaire"
 msgid "Of course it's a real place!"
-msgstr ""
+msgstr "Bien sûr que ça existe !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/15
 msgctxt "Sinclaire"
 msgid "Do I look like the kind of guy who would lie to you?"
-msgstr ""
+msgstr "J'ai une tête à mentir, moi ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/0/s/0 sinclaire_sink/maggie_and_sinclaire/0/53/s/0
 msgctxt "Choix"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/1/s/0 sinclaire_sink/maggie_and_sinclaire/0/52/s/0
 msgctxt "Choix"
 msgid "No."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/2/s/0
 msgctxt "Choix"
 msgid "I mean, what do you want me to say? You're a talking sink."
-msgstr ""
+msgstr "Enfin, qu'est-ce que tu veux que je réponde ? Tu es un évier qui parle."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/7
 msgctxt "Sinclaire"
 msgid "Looks..."
-msgstr ""
+msgstr "Les apparences..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Why are you pausing?"
-msgstr ""
+msgstr "Pourquoi tu fais une pause ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Um."
-msgstr ""
+msgstr "Euh."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/0
 msgctxt "Sinclaire"
 msgid "...can be deceiving!"
-msgstr ""
+msgstr "...sont trompeuses !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Thanks for the dramatic pause, I guess."
-msgstr ""
+msgstr "Merci pour la pause dramatique, je suppose."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/7
 msgctxt "Sinclaire"
 msgid "My pleasure..."
-msgstr ""
+msgstr "Avec plaisir..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/15
 msgctxt "Sinclaire"
 msgid "IS WHAT I WOULD SAY IF I WEREN'T TRAPPED IN ETERNAL SINKDOM."
-msgstr ""
+msgstr "C'EST CE QUE JE DIRAIS SI JE N'ÉTAIS PAS PRIS AU PIÈGE DE L'ÉVIERNITÉ."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-0/23/g-0/8/c-0/75 sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/70
 msgctxt "Sudsy"
 msgid "rrrrrrRUF!"
-msgstr ""
+msgstr "grrrrrrOUAF !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-1/7
 msgctxt "Sinclaire"
 msgid "Exactly! And I'm not! I'm telling you the truth."
-msgstr ""
+msgstr "Exactement ! Et je ne le suis pas ! Je te dis la vérité."
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/7
 msgctxt "Sinclaire"
 msgid "No! That's just what <w>she</w> wants you to think!"
-msgstr ""
+msgstr "Non ! C'est exactement ce que <w>elle</w> veut te faire croire !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "She!? Who's 'she?'"
-msgstr ""
+msgstr "Elle !? Qui ça, « elle » ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/SinclaireIntro/0/g-0/c-4/23/c-2/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Allow me to explain..."
-msgstr ""
+msgstr "Permets-moi de t'expliquer..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/0
 msgctxt "Sinclaire"
 msgid "Before I begin telling you my tale of woe and temples shirley..."
-msgstr ""
+msgstr "Avant que je te conte mon récit de malheurs et de Shirley Temples..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/8
 msgctxt "Sinclaire"
 msgid "Lemme let Sudsy out, okay? When he gets like this I just get really flustered."
-msgstr ""
+msgstr "Laisse-moi faire sortir Sudsy, d'accord ? Quand il est comme ça, je suis complètement à cran."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/16/s/0
 msgctxt "Choix"
 msgid "Okay?"
-msgstr ""
+msgstr "D'accord ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/17/s/0
 msgctxt "Choix"
 msgid "Is your dog gonna pee on my bathroom tile?"
-msgstr ""
+msgstr "Ton chien va pas faire pipi sur le carrelage de ma salle de bain ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/18/s/0
 msgctxt "Choix"
 msgid "Is your dog gonna pee on my kitchen tile?"
-msgstr ""
+msgstr "Ton chien va pas faire pipi sur le carrelage de ma cuisine ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/19/s/0
 msgctxt "Choix"
 msgid "Is your dog gonna pee on my floor?"
-msgstr ""
+msgstr "Ton chien va pas faire pipi sur mon sol ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/20/s/0
 msgctxt "Choix"
 msgid "More flustered than being transformed into a sink?"
-msgstr ""
+msgstr "Plus à cran que d'avoir été transformé en évier ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/c-1/7 sinclaire_sink/Sinclaires_Situation/0/c-2/7 sinclaire_sink/Sinclaires_Situation/0/c-3/7
 msgctxt "Sinclaire"
 msgid "No!"
-msgstr ""
+msgstr "Non !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/c-4/7
 msgctxt "Sinclaire"
 msgid "Yeah. Pretty much."
-msgstr ""
+msgstr "Ouais. À peu près."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaires_Situation/0/g-0/0
 msgctxt "Sinclaire"
 msgid "Okay bye! Sink you next time!"
-msgstr ""
+msgstr "Bon, salut ! À la prochaine, évier-demment !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/0 sinclaire_sink/Agreed_But_No_Agatha/0/0
 msgctxt "Sinclaire"
 msgid "You're back!"
-msgstr ""
+msgstr "Te revoilà !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/8/s/0
 msgctxt "Choix"
 msgid "Tell me your story, Sinclaire."
-msgstr ""
+msgstr "Raconte-moi ton histoire, Sinclaire."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/9/s/0
 msgctxt "Choix"
 msgid "Yeah, I guess so. More curious than anything."
-msgstr ""
+msgstr "Ouais, je suppose. Plus curieux qu'autre chose."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/0
 msgctxt "Sinclaire"
 msgid "It all happened one rainy night, on the North Side of Turkleman City..."
-msgstr ""
+msgstr "Tout est arrivé par une nuit pluvieuse, dans le quartier nord de Turkleman City..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/8
 msgctxt "Sinclaire"
 msgid "The <i>tough</i> side."
-msgstr ""
+msgstr "Le côté <i>mal famé</i>."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/16
 msgctxt "Sinclaire"
 msgid "I'd stayed late at the office because I had extra work to do before the holidays."
-msgstr ""
+msgstr "J'étais resté tard au bureau parce que j'avais du travail en plus avant les fêtes."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "Stayed late at your job as an... insurance claims adjuster. Go on."
-msgstr ""
+msgstr "Resté tard à ton travail d'... expert en sinistres d'assurance. Continue."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/7
 msgctxt "Sinclaire"
 msgid "Well, when I left, I was feeling a bit low, so I went out to a local bar."
-msgstr ""
+msgstr "Eh bien, en sortant, j'avais un peu le cafard, alors je suis allé dans un bar du coin."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/15
 msgctxt "Sinclaire"
 msgid "It's called The Banana Club. They make a mean Shirley Temple. Heavy pour."
-msgstr ""
+msgstr "Ça s'appelle Le Banana Club. Ils font un Shirley Temple d'enfer. Bien tassé."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "Then what happened?"
-msgstr ""
+msgstr "Et ensuite ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/1/s/0
 msgctxt "Choix"
 msgid "But I thought Shirley Temples were..."
-msgstr ""
+msgstr "Mais je croyais que les Shirley Temple, c'était..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/c-1/7
 msgctxt "Sinclaire"
 msgid "Devastatingly potent. Yes."
-msgstr ""
+msgstr "Dévastateurs de puissance. Oui."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I was going to say..."
-msgstr ""
+msgstr "J'allais dire..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-0/c-2/23/c-1/15/c-0/7
 msgctxt "Sinclaire"
 msgid "A recipe for disaster? I know! I shouldn't have indulged."
-msgstr ""
+msgstr "Une recette pour le désastre ? Je sais ! Je n'aurais pas dû me laisser tenter."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/0
 msgctxt "Sinclaire"
 msgid "I should have known better."
-msgstr ""
+msgstr "J'aurais dû me méfier."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/8
 msgctxt "Sinclaire"
 msgid "But after I'd had about seven of them, I went out for a stroll."
-msgstr ""
+msgstr "Mais après en avoir bu environ sept, je suis sorti me promener."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/16
 msgctxt "Sinclaire"
 msgid "I don't know where I was going."
-msgstr ""
+msgstr "Je ne sais pas où j'allais."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/24
 msgctxt "Sinclaire"
 msgid "Just trekking the streets with my dog."
-msgstr ""
+msgstr "Je battais le pavé avec mon chien."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/32
 msgctxt "Sinclaire"
 msgid "Suddenly, I came upon a fine dining establishment called the Questionable Dandelion."
-msgstr ""
+msgstr "Soudain, je suis tombé sur un restaurant gastronomique appelé le Pissenlit Douteux."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/40/s/0
 msgctxt "Choix"
 msgid "Right."
-msgstr ""
+msgstr "D'accord."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/7
 msgctxt "Sinclaire"
 msgid "They've got an incredible buffet."
-msgstr ""
+msgstr "Ils ont un buffet incroyable."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/15
 msgctxt "Sinclaire"
 msgid "Lots of strange ingredients from all around the world."
-msgstr ""
+msgstr "Plein d'ingrédients étranges venus du monde entier."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/23
 msgctxt "Sinclaire"
 msgid "They're always trying new things."
-msgstr ""
+msgstr "Ils essaient toujours de nouvelles choses."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/0/s/0
 msgctxt "Choix"
 msgid "Ok."
-msgstr ""
+msgstr "Ok."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/7
 msgctxt "Sinclaire"
 msgid "Like diplodocus berries."
-msgstr ""
+msgstr "Comme les baies de diplodocus."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Sure. Of course."
-msgstr ""
+msgstr "Bien sûr. Évidemment."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Diplodocus...? Berries...?"
-msgstr ""
+msgstr "Des baies...? De diplodocus...?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/0
 msgctxt "Sinclaire"
 msgid "And Jimson Weed cupcakes."
-msgstr ""
+msgstr "Et les cupcakes à la stramoine."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Naturally."
-msgstr ""
+msgstr "Naturellement."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/7
 msgctxt "Sinclaire"
 msgid "They also sell Exceedrin by the pint. The headache medicine."
-msgstr ""
+msgstr "Ils vendent aussi de l'Exceedrin à la pinte. Le médicament contre les maux de tête."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Well, that sounds dangerous."
-msgstr ""
+msgstr "Ça m'a l'air dangereux."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I'm tracking this... I think."
-msgstr ""
+msgstr "Je suis le fil... je crois."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Oh yes. Very. But good for headaches."
-msgstr ""
+msgstr "Oh oui. Très. Mais efficace contre les migraines."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-1/c-3/31/c-0/15/g-0/8/c-0/15/c-1/7
 msgctxt "Sinclaire"
 msgid "Anyway, I ate my fill and went on my way. That's when things started to get weird."
-msgstr ""
+msgstr "Bref, j'ai mangé à ma faim et je suis reparti. C'est là que les choses ont commencé à devenir bizarres."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "Oh, is that when it happened?"
-msgstr ""
+msgstr "Ah, c'est là que c'est arrivé ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-2/1/s/0
 msgctxt "Choix"
 msgid "Up until now it had been a typical Friday night, I'm guessing?"
-msgstr ""
+msgstr "Jusque-là, c'était un vendredi soir ordinaire, j'imagine ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-2/c-5/7
 msgctxt "Sinclaire"
 msgid "NO! NOT. AT ALL."
-msgstr ""
+msgstr "NON ! PAS DU TOUT."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-2/c-5/21/c-0/7
 msgctxt "Sinclaire"
 msgid "It was Thursday."
-msgstr ""
+msgstr "C'était un jeudi."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-2/c-5/21/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Forgive me."
-msgstr ""
+msgstr "Pardonne-moi."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/0
 msgctxt "Sinclaire"
 msgid "I was walking around, or sort of drifting, or rather, floating, or..."
-msgstr ""
+msgstr "Je marchais, ou plutôt je dérivais, ou plutôt je flottais, ou..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/8
 msgctxt "Sinclaire"
 msgid "I guess you could say I was 'making my way' about town."
-msgstr ""
+msgstr "Disons que je « faisais mon chemin » dans la ville."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/16
 msgctxt "Sinclaire"
 msgid "Aimlessly, you see?"
-msgstr ""
+msgstr "Sans but, tu vois ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "I'm getting that."
-msgstr ""
+msgstr "Ça, j'ai compris."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/25/s/0
 msgctxt "Choix"
 msgid "And?"
-msgstr ""
+msgstr "Et ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/26/s/0
 msgctxt "Choix"
 msgid "Would you please just get to the bloody point!?!?"
-msgstr ""
+msgstr "Tu veux bien en venir au fait, bon sang !?!?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-6/7
 msgctxt "Sinclaire"
 msgid "You're very perceptive!"
-msgstr ""
+msgstr "Tu es très perspicace !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-6/18/0/s/0
 msgctxt "Choix"
 msgid "I pride myself on it. So what happened?"
-msgstr ""
+msgstr "J'en suis fier. Alors, qu'est-ce qui s'est passé ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/7
 msgctxt "Sinclaire"
 msgid "And what?"
-msgstr ""
+msgstr "Et quoi ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/0/s/0
 msgctxt "Choix"
 msgid "What do you mean 'and what?!' You were just telling me your story!"
-msgstr ""
+msgstr "Comment ça « et quoi ? »!? Tu étais en train de me raconter ton histoire !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Ah yes, so you want me to continue. This was your meaning?"
-msgstr ""
+msgstr "Ah oui, donc tu veux que je continue. C'est bien ce que tu voulais dire ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What on EARTH is the MATTER WITH YOU?"
-msgstr ""
+msgstr "Mais qu'est-ce qui ne va PAS chez TOI ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Why, that's precisely what I'm telling you!"
-msgstr ""
+msgstr "Mais c'est précisément ce que je suis en train de te raconter !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I may just go insane, here."
-msgstr ""
+msgstr "Je vais peut-être devenir fou, ici."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Please don't. I can assure you, it isn't as much fun as it looks."
-msgstr ""
+msgstr "Je t'en prie, non. Je t'assure que c'est moins drôle qu'il n'y paraît."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/15
 msgctxt "Sinclaire"
 msgid "And with two of us in the room, it might just start to get a little confusing."
-msgstr ""
+msgstr "Et à deux dans la pièce, ça risquerait de devenir un peu confus."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Oh it might, might it?"
-msgstr ""
+msgstr "Ah, ça risquerait, vraiment ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-3/c-7/15/c-0/15/c-0/15/c-0/23/c-0/7
 msgctxt "Sinclaire"
 msgid "Please try to stay on track."
-msgstr ""
+msgstr "Essaie de rester sur la bonne voie, s'il te plaît."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/0
 msgctxt "Sinclaire"
 msgid "Well, I came across an alley I had never noticed before."
-msgstr ""
+msgstr "Bref, je suis tombé sur une ruelle que je n'avais jamais remarquée."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/8
 msgctxt "Sinclaire"
 msgid "It was dark and had a rather threatening look about it."
-msgstr ""
+msgstr "Elle était sombre et avait un air plutôt menaçant."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/16
 msgctxt "Sinclaire"
 msgid "So naturally I went down it."
-msgstr ""
+msgstr "Alors naturellement, je m'y suis engagé."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/24/s/0
 msgctxt "Choix"
 msgid "What anyone might do."
-msgstr ""
+msgstr "Comme tout le monde l'aurait fait."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/25/s/0
 msgctxt "Choix"
 msgid "Are you bonkers?"
-msgstr ""
+msgstr "Tu es cinglé ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/26/s/0
 msgctxt "Choix"
 msgid "Sinks sure are brave. Or stupid."
-msgstr ""
+msgstr "Les éviers sont courageux. Ou stupides."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-10/7
 msgctxt "Sinclaire"
 msgid "Would I know?"
-msgstr ""
+msgstr "Comment le saurais-je ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-10/15/0/s/0
 msgctxt "Choix"
 msgid "Good point."
-msgstr ""
+msgstr "Bien vu."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/7
 msgctxt "Sinclaire"
 msgid "Sinks?"
-msgstr ""
+msgstr "Les éviers ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/0/s/0
 msgctxt "Choix"
 msgid "Oh right, I forgot. You're an insurance claims adjuster named Martin Applegate."
-msgstr ""
+msgstr "Ah oui, j'oubliais. Tu es un expert en sinistres d'assurance qui s'appelle Martin Applegate."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/7
 msgctxt "Sinclaire"
 msgid "I am?"
-msgstr ""
+msgstr "Ah bon ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I'm literally two seconds away from leaving."
-msgstr ""
+msgstr "Je suis littéralement à deux secondes de partir."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Relax! It was a joke."
-msgstr ""
+msgstr "Détends-toi ! C'était une blague."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "<i>Face palm.</i>"
-msgstr ""
+msgstr "<i>Facepalm.</i>"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-4/c-11/15/c-0/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "You really ought to lighten up. Anyway..."
-msgstr ""
+msgstr "Tu devrais vraiment te détendre. Bref..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/0
 msgctxt "Sinclaire"
 msgid "I wandered down the alley and came to a door, lit by a red light."
-msgstr ""
+msgstr "J'ai suivi la ruelle jusqu'à une porte éclairée par une lumière rouge."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/8
 msgctxt "Sinclaire"
 msgid "I opened it and found a long hall, at the end of which was a sort of booth."
-msgstr ""
+msgstr "Je l'ai ouverte et j'ai découvert un long couloir, au bout duquel se trouvait une sorte de kiosque."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/16
 msgctxt "Sinclaire"
 msgid "And in this booth was a fortune teller!"
-msgstr ""
+msgstr "Et dans ce kiosque, il y avait une voyante !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/24/b/1 sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/15/b/1
 msgctxt "Sinclaire"
 msgid "She was wearing a fantastic red shirt, not unlike the one you're sporting."
-msgstr ""
+msgstr "Elle portait une fantastique chemise rouge, comme celle que tu arbores."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/24/b/9
 msgctxt "Sinclaire"
 msgid "Although it could easily have been more of a chartreuse. I can't tell, I'm tone deaf."
-msgstr ""
+msgstr "Même si elle aurait aussi bien pu être plutôt chartreuse. Je ne saurais le dire, je suis dur d'oreille."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/27/s/0
 msgctxt "Choix"
 msgid "A fortune teller?"
-msgstr ""
+msgstr "Une voyante ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/7
 msgctxt "Sinclaire"
 msgid "Yes! Her name was Vagabonda the Sinclairious."
-msgstr ""
+msgstr "Oui ! Elle s'appelait Vagabonda la Sinclairieuse."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/15/b/9
 msgctxt "Sinclaire"
 msgid "I'm sorry I keep harping on the shirt, but it was absolutely... fantastic."
-msgstr ""
+msgstr "Désolé de revenir sans cesse sur la chemise, mais elle était absolument... fantastique."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/18
 msgctxt "Sinclaire"
 msgid "She spread out a deck of strange cards, and asked me to select one."
-msgstr ""
+msgstr "Elle a étalé un jeu de cartes étranges et m'a demandé d'en choisir une."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/0/s/0
 msgctxt "Choix"
 msgid "Strange how?"
-msgstr ""
+msgstr "Étranges comment ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/7
 msgctxt "Sinclaire"
 msgid "They were business cards!"
-msgstr ""
+msgstr "C'étaient des cartes de visite !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I see."
-msgstr ""
+msgstr "Je vois."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Which one did you pick?"
-msgstr ""
+msgstr "Laquelle as-tu choisie ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/0
 msgctxt "Sinclaire"
 msgid "I chose at random, and the card I picked turned out to be the Ace of Spades."
-msgstr ""
+msgstr "J'ai choisi au hasard, et la carte s'est révélée être l'As de Pique."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/0/s/0
 msgctxt "Choix"
 msgid "Wait... I thought you just said they were business cards."
-msgstr ""
+msgstr "Attends... je croyais que tu venais de dire que c'étaient des cartes de visite."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/1/s/0
 msgctxt "Choix"
 msgid "Sounds like a lucky card..."
-msgstr ""
+msgstr "Ça a l'air d'être une carte porte-bonheur..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/7
 msgctxt "Sinclaire"
 msgid "The Ace of Spades is a bespoke shovel manufacturer based in Crumple, Michigan."
-msgstr ""
+msgstr "L'As de Pique est un fabricant de pelles sur mesure installé à Crumple, dans le Michigan."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/15
 msgctxt "Sinclaire"
 msgid "The owner's name is Ace."
-msgstr ""
+msgstr "Le patron s'appelle As."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I should've known."
-msgstr ""
+msgstr "J'aurais dû m'en douter."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-0/23/c-0/7
 msgctxt "Sinclaire"
 msgid "He does great work."
-msgstr ""
+msgstr "Il fait du super boulot."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-5/c-12/26/c-0/15/g-0/8/c-1/7
 msgctxt "Sinclaire"
 msgid "If ONLY I'd known... that it WASN'T TO BE THE CASE!"
-msgstr ""
+msgstr "Si SEULEMENT j'avais su... que ça NE SE PASSERAIT PAS COMME ÇA !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-6/0
 msgctxt "Sinclaire"
 msgid "Vagabonda snatched the card back from me and said 'not that one!'"
-msgstr ""
+msgstr "Vagabonda m'a arraché la carte des mains en disant « pas celle-là ! »"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-6/8
 msgctxt "Sinclaire"
 msgid "It turns out she had her rewards program on the back - twelve stamps and you get a free spade."
-msgstr ""
+msgstr "Il s'avère qu'elle avait son programme de fidélité au dos : douze tampons et on vous offre une pelle."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-6/16/s/0
 msgctxt "Choix"
 msgid "Probably shouldn't have had that one in there."
-msgstr ""
+msgstr "Elle n'aurait sans doute pas dû mettre celle-là dedans."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-6/17/s/0
 msgctxt "Choix"
 msgid "That's rude."
-msgstr ""
+msgstr "C'est malpoli."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/0
 msgctxt "Sinclaire"
 msgid "We agree! Besides, she only had two stamps."
-msgstr ""
+msgstr "On est d'accord ! D'ailleurs, elle n'avait que deux tampons."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/8/b/1
 msgctxt "Sinclaire"
 msgid "So I snatched it back from her again, and we had a bit of a row..."
-msgstr ""
+msgstr "Alors je la lui ai reprise, et on a eu une petite prise de bec..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/8/b/9
 msgctxt "Sinclaire"
 msgid "I'm sorry, God damn that is a nice shirt!"
-msgstr ""
+msgstr "Pardon, nom d'un chien, qu'est-ce qu'elle est belle, cette chemise !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/8/b/17
 msgctxt "Sinclaire"
 msgid "Anyway."
-msgstr ""
+msgstr "Bref."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/9/b/1
 msgctxt "Sinclaire"
 msgid "So I snatched it back from her again, and we had a bit of a row."
-msgstr ""
+msgstr "Alors je la lui ai reprise, et on a eu une petite prise de bec."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/12
 msgctxt "Sinclaire"
 msgid "I guess that wasn't a very good start to our fortune telling session."
-msgstr ""
+msgstr "J'imagine que ce n'était pas un très bon début pour notre séance de voyance."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/20
 msgctxt "Sinclaire"
 msgid "I think that's why she cursed me!"
-msgstr ""
+msgstr "Je crois que c'est pour ça qu'elle m'a maudit !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/28/s/0
 msgctxt "Choix"
 msgid "How do you figure?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/7
 msgctxt "Sinclaire"
 msgid "Because right afterwards she said:"
-msgstr ""
+msgstr "Parce que juste après, elle m'a dit :"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/15
 msgctxt "Sinclaire"
 msgid "'Martin, that wasn't a very good start to our fortune telling session."
-msgstr ""
+msgstr "« Martin, ce n'était pas un très bon début pour notre séance de voyance."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/23
 msgctxt "Sinclaire"
 msgid "I'm going to curse you because of it!'"
-msgstr ""
+msgstr "Je vais te maudire pour ça ! »"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/31
 msgctxt "Sinclaire"
 msgid "And then she cursed me!"
-msgstr ""
+msgstr "Et puis elle m'a maudit !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/0/s/0
 msgctxt "Choix"
 msgid "Cursed you how?"
-msgstr ""
+msgstr "Maudit comment ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/7
 msgctxt "Sinclaire"
 msgid "She waved what looked like a magic wand..."
-msgstr ""
+msgstr "Elle a agité ce qui ressemblait à une baguette magique..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/15
 msgctxt "Sinclaire"
 msgid "... although to be honest it could have easily been a bagel of some sort..."
-msgstr ""
+msgstr "... même si, à vrai dire, ça aurait très bien pu être une sorte de bagel..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/23
 msgctxt "Sinclaire"
 msgid "... and then said 'Martin, I doom you now to become a detestable object!"
-msgstr ""
+msgstr "... et elle a dit : « Martin, je te condamne à devenir un objet détestable !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/31
 msgctxt "Sinclaire"
 msgid "I transform you thusly, so that you may go home and sink about what you've done.'"
-msgstr ""
+msgstr "Je te transforme ainsi, afin que tu rentres chez toi te rincer les méninges sur ce que tu as fait. »"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/0/s/0
 msgctxt "Choix"
 msgid "Go home and 'sink' about what you've done?"
-msgstr ""
+msgstr "Rentrer chez toi te « rincer les méninges » sur ce que tu as fait ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/1/s/0
 msgctxt "Choix"
 msgid "Am I to understand that you may have confused a wand for a bagel?"
-msgstr ""
+msgstr "Dois-je comprendre que tu as peut-être pris un bagel pour une baguette ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-0/7
 msgctxt "Sinclaire"
 msgid "She wasn't above a bad pun."
-msgstr ""
+msgstr "Elle n'était pas au-dessus d'un mauvais jeu de mots."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-0/15/0/s/0 sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "And then you became a sink?"
-msgstr ""
+msgstr "Et ensuite tu es devenu un évier ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-7/c-15/39/c-0/39/c-1/7
 msgctxt "Sinclaire"
 msgid "That is correct."
-msgstr ""
+msgstr "C'est exact."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/0
 msgctxt "Sinclaire"
 msgid "And then I became a sink."
-msgstr ""
+msgstr "Et puis je suis devenu un évier."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/8
 msgctxt "Sinclaire"
 msgid "Now you find me as I am! Trapped in this porcelain prison!"
-msgstr ""
+msgstr "Et maintenant tu me retrouves tel que je suis ! Prisonnier de cette geôle de porcelaine !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/16
 msgctxt "Sinclaire"
 msgid "All I want to do is return to my old life,"
-msgstr ""
+msgstr "Tout ce que je veux, c'est retrouver ma vie d'avant,"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/24
 msgctxt "Sinclaire"
 msgid "To stroll the streets of Turkleman City once more..."
-msgstr ""
+msgstr "Arpenter de nouveau les rues de Turkleman City..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/32
 msgctxt "Sinclaire"
 msgid "Without a care in the world!"
-msgstr ""
+msgstr "Sans le moindre souci !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/40
 msgctxt "Sinclaire"
 msgid "Oh, how I long for it! Please, won't you help me?"
-msgstr ""
+msgstr "Oh, comme j'en rêve ! S'il te plaît, tu veux bien m'aider ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/48
 msgctxt "Sinclaire"
 msgid "Sudsy and I would be oh so grateful if you could get to the bottom of what's going on here, and return us to our proper forms! Will you?"
-msgstr ""
+msgstr "Sudsy et moi te serions infiniment reconnaissants si tu pouvais découvrir ce qui se passe ici et nous rendre nos formes d'origine ! Tu veux bien ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/56/s/0
 msgctxt "Choix"
 msgid "I'll do everything I can!"
-msgstr ""
+msgstr "Je ferai tout mon possible !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/57/s/0
 msgctxt "Choix"
 msgid "I'm never coming near you again."
-msgstr ""
+msgstr "Je ne m'approcherai plus jamais de toi."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/58/s/0
 msgctxt "Choix"
 msgid "Can I have a bit to think about this?"
-msgstr ""
+msgstr "Je peux avoir un petit moment pour y réfléchir ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-16/7
 msgctxt "Sinclaire"
 msgid "Oh, joy!"
-msgstr ""
+msgstr "Oh, quelle joie !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-17/7
 msgctxt "Sinclaire"
 msgid "A wise choice!"
-msgstr ""
+msgstr "Un sage choix !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/7
 msgctxt "Sinclaire"
 msgid "Ooh. I'm fresh out of bits."
-msgstr ""
+msgstr "Ooh. Je n'ai plus de petits moments en stock."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/0/s/0
 msgctxt "Choix"
 msgid "No, I mean, like, can I have five minutes."
-msgstr ""
+msgstr "Non, je veux dire, genre cinq minutes."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/c-0/7
 msgctxt "Sinclaire"
 msgid "I haven't been taking minutes on this meeting. Have you?"
-msgstr ""
+msgstr "Je n'ai pas rédigé les minutes de cette réunion. Et toi ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What the...? No, I mean... Never mind. I'll be back in a little while."
-msgstr ""
+msgstr "Quoi ?... Non, je veux dire... Laisse tomber. Je reviens dans un petit moment."
 
+# Traduction IA – à relire
 #: sinclaire_sink/sinclaire_post_sudsy/0/g-8/c-18/15/c-0/15/c-0/11 sinclaire_sink/Sinclaire_Suggests_Maggie/0/c-1/7 sinclaire_sink/HaveYouMadeUpYourMind/0/c-1/7 sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/63/c-0/7
 msgctxt "Narrator"
 msgid "He stands there silent and unmoving until you finally leave."
-msgstr ""
+msgstr "Il reste là, silencieux et immobile, jusqu'à ce que vous partiez enfin."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/0
 msgctxt "Sinclaire"
 msgid "If you want to help get to the bottom of all this,"
-msgstr ""
+msgstr "Si tu veux aider à tirer tout ça au clair,"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/8
 msgctxt "Sinclaire"
 msgid "I might suggest you seek out someone who is in the business of solving unsolvable mysteries!"
-msgstr ""
+msgstr "je te suggère de chercher quelqu'un dont le métier est de résoudre les mystères insolubles !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/16
 msgctxt "Sinclaire"
 msgid "Or just go see if Vagabonda the Sinclairious is willing to undo her curse for a free shovel."
-msgstr ""
+msgstr "Ou d'aller voir si Vagabonda la Sinclairieuse accepterait de lever sa malédiction contre une pelle gratuite."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/24/s/0
 msgctxt "Choix"
 msgid "I'll do my best to help you."
-msgstr ""
+msgstr "Je ferai de mon mieux pour t'aider."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/25/s/0
 msgctxt "Choix"
 msgid "I think I know just the magnifying glass..."
-msgstr ""
+msgstr "Je crois que je connais justement la loupe qu'il te faut..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/26/s/0
 msgctxt "Choix"
 msgid "On second thought, I think I'll just leave you to your own devices for now."
-msgstr ""
+msgstr "Réflexion faite, je vais te laisser te débrouiller tout seul pour l'instant."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/c-0/7
 msgctxt "Sinclaire"
 msgid "Oh, yay! Let me know when you have news!"
-msgstr ""
+msgstr "Oh, youpi ! Tiens-moi au courant quand tu auras des nouvelles !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Sinclaire_Suggests_Maggie/0/c-2/7
 msgctxt "Sinclaire"
 msgid "Fair enough!"
-msgstr ""
+msgstr "Comme tu voudras !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/HaveYouMadeUpYourMind/0/0
 msgctxt "Sinclaire"
 msgid "Hello again, wandering traveler!"
-msgstr ""
+msgstr "Tiens, re-bonjour, âme errante !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/HaveYouMadeUpYourMind/0/8
 msgctxt "Sinclaire"
 msgid "Have you made up your mind as to whether or not you'll help me?"
-msgstr ""
+msgstr "As-tu décidé si tu allais m'aider ou non ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/HaveYouMadeUpYourMind/0/16
 msgctxt "Sinclaire"
 msgid "I long to escape the confines of the pipes and their various interweavings."
-msgstr ""
+msgstr "J'aspire à m'évader du carcan des tuyaux et de leurs entrelacements."
 
+# Traduction IA – à relire
 #: sinclaire_sink/HaveYouMadeUpYourMind/0/24
 msgctxt "Sinclaire"
 msgid "And return to my old life as Martin Applegate, insurance claims adjuster extraordinaire."
-msgstr ""
+msgstr "Et à retrouver ma vie d'avant, celle de Martin Applegate, expert en sinistres d'assurance hors pair."
 
+# Traduction IA – à relire
 #: sinclaire_sink/HaveYouMadeUpYourMind/0/32/s/0
 msgctxt "Choix"
 msgid "I'll help you."
-msgstr ""
+msgstr "Je vais t'aider."
 
+# Traduction IA – à relire
 #: sinclaire_sink/HaveYouMadeUpYourMind/0/33/s/0
 msgctxt "Choix"
 msgid "I forgot how crazy you are. Goodbye."
-msgstr ""
+msgstr "J'avais oublié à quel point tu es dingue. Au revoir."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/11
 msgctxt "Sudsy"
 msgid "Wruf! rrrRUF RUF!"
-msgstr ""
+msgstr "Wouf ! grrrOUAF OUAF !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/19
 msgctxt "Sinclaire"
 msgid "Off, Sudsy! Go lick someone else's hands!"
-msgstr ""
+msgstr "Descends, Sudsy ! Va lécher les mains de quelqu'un d'autre !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/30
 msgctxt "Sudsy"
 msgid "... rof."
-msgstr ""
+msgstr "... ouaf."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/38
 msgctxt "Sinclaire"
 msgid "I don't care how dirty they are! Off with you! Go to your tray."
-msgstr ""
+msgstr "Peu importe qu'elles soient sales ! Ouste ! Va dans ton porte-savon."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/49
 msgctxt "Sudsy"
 msgid "Bwuff."
-msgstr ""
+msgstr "Bwouf."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/60
 msgctxt "Sinclaire"
 msgid "So, have you found someone to help yet?"
-msgstr ""
+msgstr "Alors, as-tu trouvé quelqu'un pour t'aider ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/68/s/0
 msgctxt "Choix"
 msgid "I'm working on it!"
-msgstr ""
+msgstr "J'y travaille !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/69/s/0
 msgctxt "Choix"
 msgid "As a matter of complete coincidence, I happened to run into one 'Vagabonda the Sinclairious!'"
-msgstr ""
+msgstr "Par pure coïncidence, je suis tombé sur une certaine « Vagabonda la Sinclairieuse » !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/70/s/0
 msgctxt "Choix"
 msgid "No. But maybe I can help you myself!"
-msgstr ""
+msgstr "Non. Mais peut-être que je peux t'aider moi-même !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-0/7
 msgctxt "Sinclaire"
 msgid "Well it is like I have all day!"
-msgstr ""
+msgstr "Eh bien, c'est comme si j'avais toute la journée !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-0/15
 msgctxt "Sinclaire"
 msgid "So I'll see you some other time then!"
-msgstr ""
+msgstr "Alors à une autre fois, dans ce cas !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/7
 msgctxt "Sinclaire"
 msgid "You... You did!?"
-msgstr ""
+msgstr "Tu... Tu l'as fait !?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I did! And as another matter of coincidence, I happened to be carrying an unneeded shovel at the time."
-msgstr ""
+msgstr "Oui ! Et, autre coïncidence, il se trouve que j'avais sur moi une pelle dont je n'avais pas besoin."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/7
 msgctxt "Sinclaire"
 msgid "That's so unlikely as to be almost unbelievable!"
-msgstr ""
+msgstr "C'est si improbable que ça en devient presque incroyable !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Well, ya know what they say: Fact is stranger than fiction!"
-msgstr ""
+msgstr "Eh bien, tu sais ce qu'on dit : la réalité dépasse la fiction !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "They do say that. They always have."
-msgstr ""
+msgstr "On le dit, en effet. On l'a toujours dit."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Anyway, I offered Vagabonda the shovel in exchange for lifting the curse, and VOILA! You're all better now!"
-msgstr ""
+msgstr "Bref, j'ai offert la pelle à Vagabonda en échange de la levée de la malédiction, et ET VOILÀ ! Te voilà guéri !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "I... I am!? Wow! Thank you! Let me shake your... Hmm. That's odd."
-msgstr ""
+msgstr "Je... je suis guéri !? Oh là là ! Merci ! Laisse-moi te serrer la... Hmm. C'est bizarre."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "What's odd? Nothing's odd. Everything's totally fine and you believe me."
-msgstr ""
+msgstr "Qu'est-ce qui est bizarre ? Rien n'est bizarre. Tout va très bien et tu me crois."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/7
 msgctxt "Sinclaire"
 msgid "Your tricks won't work on me! My hand isn't a hand at all! It's a stainless steel knob! And my neck is a faucet!"
-msgstr ""
+msgstr "Tes tours ne marcheront pas sur moi ! Ma main n'est pas une main du tout ! C'est un bouton en inox ! Et mon cou est un robinet !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/29
 msgctxt "Sinclaire"
 msgid "And my dog is still a bar of soap!"
-msgstr ""
+msgstr "Et mon chien est toujours un pain de savon !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/37
 msgctxt "Sudsy"
 msgid "ruf ruf!"
-msgstr ""
+msgstr "ouaf ouaf !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/45
 msgctxt "Sinclaire"
 msgid "I don't care if <i>you</i> don't mind, Sudsy! The point here is we've been lied to!"
-msgstr ""
+msgstr "Peu importe que <i>toi</i>, ça ne te dérange pas, Sudsy ! Le fait est qu'on nous a menti !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/56
 msgctxt "Sudsy"
 msgid "rrrrrrrr."
-msgstr ""
+msgstr "grrrrrrrr."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/64
 msgctxt "Sinclaire"
 msgid "Exactly!"
-msgstr ""
+msgstr "Exactement !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/0/s/0
 msgctxt "Choix"
 msgid "It's possible you might have been <i>slightly</i> misled."
-msgstr ""
+msgstr "Il est possible que tu aies été <i>légèrement</i> induit en erreur."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/1/s/0
 msgctxt "Choix"
 msgid "I'm sorry! I was just trying to help! Your story is so crazy I thought that maybe I could just sort of convince you out of it!"
-msgstr ""
+msgstr "Je suis désolé ! J'essayais juste d'aider ! Ton histoire est tellement dingue que j'ai pensé que je pourrais te la sortir de la tête en te convainquant !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-0/7
 msgctxt "Sinclaire"
 msgid "Out with you! Out of my sight, false friend!"
-msgstr ""
+msgstr "Dehors ! Hors de ma vue, fourbe !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-0/18
 msgctxt "Sudsy"
 msgid "rrrrRUF RUF! rrrrrrr!"
-msgstr ""
+msgstr "grrrrOUAF OUAF ! grrrrrrr !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "Ok! Ok! I'm going! Sorry!"
-msgstr ""
+msgstr "Ok ! Ok ! Je m'en vais ! Pardon !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/7
 msgctxt "Sinclaire"
 msgid "Unbelievable."
-msgstr ""
+msgstr "Incroyable."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/15
 msgctxt "Sinclaire"
 msgid "You thought that just because <i>you</i> didn't believe my story,"
-msgstr ""
+msgstr "Tu as cru que, parce que <i>toi</i>, tu ne croyais pas mon histoire,"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/23
 msgctxt "Sinclaire"
 msgid "That it wasn't my actual experience?"
-msgstr ""
+msgstr "Ce n'était pas mon vécu réel ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/31
 msgctxt "Sinclaire"
 msgid "You don't know what it's like to live trapped in an alien body."
-msgstr ""
+msgstr "Tu ne sais pas ce que c'est de vivre prisonnier d'un corps étranger."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/39
 msgctxt "Sinclaire"
 msgid "To know in your heart that you're an insurance claims adjuster, while everyone around you just sees a plain old 'sink!'"
-msgstr ""
+msgstr "De savoir au fond de son cœur qu'on est expert en sinistres d'assurance, alors que tout le monde autour ne voit qu'un banal « évier » !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/47
 msgctxt "Sinclaire"
 msgid "A sink with a bar of soap for a pet."
-msgstr ""
+msgstr "Un évier avec un pain de savon pour animal de compagnie."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-1/15/c-0/15/c-0/15/c-0/15/c-0/75/c-1/63/0/s/0
 msgctxt "Choix"
 msgid "I'm sure there's a right way to reply to this, but I'll be damned if I know what it is."
-msgstr ""
+msgstr "Je suis sûr qu'il y a une bonne façon de répondre à ça, mais je veux bien être pendu si je sais laquelle."
 
+# Traduction IA – à relire
 #: sinclaire_sink/Agreed_But_No_Agatha/0/c-2/7
 msgctxt "Sinclaire"
 msgid "You? Alone? I doubt it. Come back when you've found a professional!"
-msgstr ""
+msgstr "Toi ? Tout seul ? J'en doute. Reviens quand tu auras trouvé un professionnel !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/0
 msgctxt "Narrator"
 msgid "Sinclaire does a funny little dance when he sees you, leaping up in the air and clicking his heels together."
-msgstr ""
+msgstr "Sinclaire fait une drôle de petite danse en vous voyant, bondissant en l'air et claquant les talons."
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/8
 msgctxt "Sinclaire"
 msgid "You've returned!"
-msgstr ""
+msgstr "Tu es revenu !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/19
 msgctxt "Sinclaire"
 msgid "And no better time. I've been hearing some strange rumors lately."
-msgstr ""
+msgstr "Et à pic. J'ai entendu d'étranges rumeurs ces derniers temps."
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/27
 msgctxt "Sinclaire"
 msgid "It would seem that <i>some</i> people are saying I'm not a man at all!"
-msgstr ""
+msgstr "Il paraît que <i>certaines</i> personnes disent que je ne suis pas un homme du tout !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/35
 msgctxt "Sinclaire"
 msgid "They say I'm a sink who's lost his mind!"
-msgstr ""
+msgstr "Elles disent que je suis un évier qui a perdu la tête !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/43
 msgctxt "Sinclaire"
 msgid "Can you believe it?!"
-msgstr ""
+msgstr "Tu te rends compte ?!"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/51/s/0
 msgctxt "Choix"
 msgid "Um..."
-msgstr ""
+msgstr "Euh..."
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/c-0/7
 msgctxt "Sinclaire"
 msgid "Sounds like the 'um' of agreeance!"
-msgstr ""
+msgstr "Ça sonne comme le « euh » de l'approbation !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/c-1/7
 msgctxt "Sinclaire"
 msgid "Sounds like the 'no' of agreeance!"
-msgstr ""
+msgstr "Ça sonne comme le « non » de l'approbation !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/c-2/7
 msgctxt "Sinclaire"
 msgid "Right?!"
-msgstr ""
+msgstr "Pas vrai ?!"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/g-0/6
 msgctxt "Narrator"
 msgid "Sinclaire turns his red and blue gaze to Maggie, his expression completely blank."
-msgstr ""
+msgstr "Sinclaire tourne son regard rouge et bleu vers Maggie, l'expression totalement vide."
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/g-0/17
 msgctxt "Sinclaire"
 msgid "And who's this you've got with you?"
-msgstr ""
+msgstr "Et qui est-ce que tu as amené avec toi ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/g-0/25
 msgctxt "Maggie"
 msgid "You don't remember me?"
-msgstr ""
+msgstr "Tu ne te souviens pas de moi ?"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/g-0/33
 msgctxt "Sinclaire"
 msgid "Remember you? Why, no madam, we've never met before."
-msgstr ""
+msgstr "Me souvenir de vous ? Mais non, madame, nous ne nous sommes jamais rencontrés."
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/g-0/41
 msgctxt "Sinclaire"
 msgid "I'm sure I'd remember such a stunning beauty!"
-msgstr ""
+msgstr "Je suis sûr que je me souviendrais d'une beauté aussi éblouissante !"
 
+# Traduction IA – à relire
 #: sinclaire_sink/maggie_and_sinclaire/0/g-0/49
 msgctxt "Narrator"
 msgid "He waggles his handles the way a human might waggle their eyebrows."
-msgstr ""
+msgstr "Il remue ses poignées comme un humain remuerait les sourcils."
 
 #: sinclaire_sink/maggie_and_sinclaire/0/g-0/60
 msgctxt "Maggie"
