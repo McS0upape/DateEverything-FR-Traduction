@@ -142,3 +142,17 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **jerry_junkdrawer** : junk drawer = tiroir fourre-tout ; Department for Undelivered Flyers = Service des Prospectus Non Distribués ; Mold Wing = Aile Moisissure ; hateship = haimitié (aussi chez Harper et Tina).
 - **memoria_memories** : MemoRandom (garder, piste : MémoAléatoire) ; Plenty-o-Pasta Portrait = Portrait Plein de Pâtes.
 - **tony_toolbox** : toolbox = boîte à outils ; Gregslist (garder) ; done-zo = fini-zo ; Fix it, Ton' = Répare-le, Ton' ! ; Indora the Indoor Slide = Intéria, le Toboggan d'Intérieur.
+
+## stepford_trophy
+- reps → séries (contexte sportif)
+- Triangularium → Triangularium ; Hall of Quadratus → Salle des Quadratus
+- Birdies → Volants (d'or)
+- Existential Dread → Angoisse Existentielle (majuscules, féminin)
+
+## hanks_hangers
+- Red Bowl (non traduit) ; Delta-Hank ; Antre de l'Adrénaline ; Hank n°X
+- Competition Casita → Casita des Compétitions
+
+## hime_anime
+- Dread (concept de l'anime) → l'Effroi (distinct de Doug / Angoisse existentielle)
+- Tennistar → la Tennistar ; Starlight Smash → Smash Étoilé ; Galaxy Arts → Arts Galactiques
