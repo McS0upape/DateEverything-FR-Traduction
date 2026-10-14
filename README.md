@@ -3,6 +3,8 @@
 Traduction française communautaire de [Date Everything!](https://store.steampowered.com/app/2201320/) (Sassy Chap Games / Team17).
 Projet de fans, non affilié aux développeurs. Il faut posséder le jeu.
 
+Traduction faite à l'aide de l'IA en essayant de rester le plus fidèle possible aux textes originaux : plus d'un million de mots traduits ou en cours de traduction et de correction.
+
 ## État d'avancement
 
 **~94 % des textes traduits** (environ 942 000 mots sur 1 000 000), au 15 octobre 2026.
