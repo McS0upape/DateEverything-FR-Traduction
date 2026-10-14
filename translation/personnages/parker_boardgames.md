@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, jovial, exagérément enjoué, quasi enfantin (« Ça alors ! », « Youpi ! »), avec des accès de panique pudique quand ça devient intime ; jure de façon inattendue quand il perd son sang-froid.
+- **Personnalité, manière de parler** : maniaque des Règles, joueur de société inquiétant mais attachant, seul dans le grenier. Bégaie quand il est troublé (« b-beach » -> « pl-plage »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : interjections (« Wowee ! », « Yowzers ! », « Woohoo ! »), rimes dans les règles, surnom « Parker l'Inébranlable ». Appellatifs au joueur : épicènes.
+- **Exemples de répliques traduites (référence de ton)** : « Ça alors, un coucou-hou ! » ; « Mais tu as l'air d'un gars sympa » (variantes genrées) ; « Les règles, c'est ma chose préférée ! »

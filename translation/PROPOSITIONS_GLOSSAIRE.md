@@ -130,3 +130,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **johnny_shower** : Elvis Parsley = Elvis Persil ; American Maestro (garder) ; Valdivian Plus = Valdivia Plus ; Breaker Box = le Disjoncteur ; GoPlumbMe = GoPlombMoi ; Enrique Pipes = Enrique Tuyaux.
 - **kristof_crosstrainer** : crosstrainer = vélo elliptique ; Keanu Sleeves (garder) ; Hell, Norway = Hell, en Norvège ; La Vengeance du Viking ; Brynja (garder) ; Collapsible Bookshelves = les Bibliothèques Pliantes.
 - **harper_hamper** : hamper = panier à linge ; les Hanks ; Chappy (garder) ; bestie = BFF ; Hate Playbook = Manuel de la Haine ; Commitment by Harper = L'Engagement par Harper ; Freedom by Dirk = La Liberté par Dirk.
+- **farya_firstaid** : Doctor (gag de Farya) = Doctoresse ; Medical Professional = professionnelle de santé.
