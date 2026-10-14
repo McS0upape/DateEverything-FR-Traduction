@@ -22,10 +22,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : masculin (il)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, argot cool de coach de drague californien (« frérot », « grave », « ça déchire », « aight » -> « ouais, ok »), chaleureux, bienveillant, jamais méchant
+- **Personnalité, manière de parler** : feu qui se prend pour un sensei du « pickup » mais qui prêche la sincérité (La Voie de la Flamme) ; romantique incurable, un peu fraudeur de l'intérieur ; enchaîne les calembours de feu (braise, flamme, allumer, brûler, chauffer, foyer). Surnoms au joueur : « ma braise », « étincelle », « pétard » (épicènes) ; variantes genrées (m'dude / girlie / bud, Flameo / Flueliet) rendues par « mec / ma belle / ma braise », « Flaméo / Flamiette ».
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « hot stuff » -> « ma braise » ; « fired up » -> « chaud bouillant » ; « hearth/heart » -> « foyer/coeur » ; « The Way of the Flame » -> « la Voie de la Flamme » ; « icebreaker » -> « brise-glace » ; « pickup lines » -> « répliques de drague » ; « Infernostradamus » inchangé.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Ayyyy, what up, hot stuff?! » -> « Ayyyy, quoi de neuf, ma braise ?! »
+  - « Sure, we just met, but you can think of me as an old flame. » -> « Bon, on vient de se rencontrer, mais tu peux me voir comme une vieille flamme. »
+  - « Keep it nice and casual... Smooth. » -> « Rester cool et décontracté... Smooth. »

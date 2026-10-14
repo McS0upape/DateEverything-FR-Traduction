@@ -183,3 +183,9 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## dishy_dishwasher
 - Dishwashing Experience → Expérience de Lavage de Vaisselle ; Valdivian Customer Support → Service Client Valdivian ; Golden Gauntlets → Gantelets Dorés ; Final Ladle → Louche Ultime
+
+## bodhi_capsule
+- tubular → tubesque ; bodacious / bitchin' → d'enfer ; USE SASS CANDY → UTILISER UN BONBON DE SARCASME
+
+## dante_fireplace
+- icebreaker → brise-glace ; pickup line → réplique de drague ; The Way of the Flame → la Voie de la Flamme ; Flameo / Flueliet → Flaméo / Flamiette
