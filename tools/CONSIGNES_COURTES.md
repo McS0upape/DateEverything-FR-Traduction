@@ -32,7 +32,9 @@ python work.py apply <knot> <fichier.json> --ai   # fichier.json = {"<id>": "tra
 - **Genre du joueur ou de la joueuse** : `{{prêt|prête|prêt·e}}` (masc|fém|neutre), seulement quand les formes diffèrent. Préfère une reformulation épicène.
   - Les **surnoms adressés au joueur ou à la joueuse** (« buddy », « boy-o », « girl », « dude »…) doivent être épicènes ou passer par `{{…}}`.
   - Le genre des personnages est fixe : jamais de `{{…}}` pour eux.
-- **Balises** : garder exactement `<i>`, `</i>`, `<b>`, `<w>`. Garder les `>>>` (même nombre).
+  - **Jamais de « ·e » brut** (« désolé·e ») pour le joueur ou la joueuse hors des accolades : toujours `{{désolé|désolée|désolé·e}}` ou une reformulation.
+- **Balises** : garder exactement `<i>`, `</i>`, `<b>`, `<w>`, `</w>`. Garder les `>>>` (même nombre). `apply` ne rejette pas toujours une balise manquante : vérifie-les toi-même.
+- **Langue étrangère** : si un personnage parle français en VO (gag « langue étrangère »), remplace par de l'italien.
 - **Interdits de format** : pas de `::`, pas de retour à la ligne, pas de tabulation.
 - `[fragment]` : le jeu colle un nom ou un nombre à la suite ; garde un ordre compatible et n'écris pas « [fragment] ».
 - **Tags** :
