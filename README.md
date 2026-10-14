@@ -3,6 +3,22 @@
 Traduction française communautaire de [Date Everything!](https://store.steampowered.com/app/2201320/) (Sassy Chap Games / Team17).
 Projet de fans, non affilié aux développeurs. Il faut posséder le jeu.
 
+## État d'avancement
+
+**~94 % des textes traduits** (environ 942 000 mots sur 1 000 000), au 15 octobre 2026.
+
+| Partie | État |
+|---|---|
+| Interface, tutoriels, menus | ✅ traduits |
+| Date-A-Dex, fins, épilogue | ✅ traduits |
+| Dialogues : la grande majorité des personnages | ✅ traduits, jeux de mots repris à part |
+| benhwa_sextoys, connie_console, vaughn_mousetrap | 🟡 en cours (37 à 51 %) |
+| penelope_stationery, mikey_micro, monique_money, lux_lamp, koa_couch et quelques autres | ⬜ pas encore commencés |
+
+Les textes pas encore traduits s'affichent en anglais, le jeu reste jouable. La traduction est une **première passe faite par IA** (Claude), avec des fiches de voix par personnage, un glossaire commun et une passe dédiée aux jeux de mots. Elle n'a **pas encore été relue entièrement par des humains** : attendez-vous à des maladresses, et n'hésitez pas à les signaler (onglet *Issues*).
+
+Pour l'avancement exact, fichier par fichier : `python tools/work.py status`.
+
 ## Pour les joueurs : installation
 
 1. Téléchargez la dernière archive `DateEverything_FR_vX.Y.zip` (onglet Releases).
@@ -11,6 +27,12 @@ Projet de fans, non affilié aux développeurs. Il faut posséder le jeu.
 4. Lancez le jeu normalement.
 
 Au premier lancement, BepInEx (le chargeur de mods) prépare ses fichiers, ce qui peut prendre quelques secondes de plus. Le texte s'affiche ensuite en français ; les passages pas encore traduits restent en anglais.
+
+**Sans archive (installation depuis les sources)** :
+1. Installez [BepInEx 5.4.23 x64](https://github.com/BepInEx/BepInEx/releases) dans le dossier du jeu et lancez le jeu une fois, puis fermez-le.
+2. Copiez `release_extra/BepInEx/config/BepInEx.cfg` dans `BepInEx/config/` (indispensable : sans ce réglage, le jeu détruit le plugin).
+3. Compilez le plugin (`dotnet build -c Release` dans `plugin/`) et générez les données : `python tools/extract_ink.py` (le script Ink extrait de votre jeu n'est pas fourni dans ce dépôt), puis `python tools/build.py extracted/main_resources.json translation/fr dist/fr` (voir plus bas).
+4. Copiez `DateEverythingFR.dll` dans `BepInEx/plugins/DateEverythingFR/`, et le contenu de `dist/fr/` dans `BepInEx/plugins/DateEverythingFR/fr/`.
 
 **Désinstaller** : supprimez `winhttp.dll`, `doorstop_config.ini`, `.doorstop_version` et le dossier `BepInEx`. Le jeu n'est jamais modifié : aucun fichier d'origine n'est touché.
 
@@ -30,7 +52,10 @@ Tout ce qu'il faut savoir est dans [translation/GUIDE_TRADUCTION.md](translation
 
 - `translation/fr/*.po` : les textes, un fichier par personnage, à éditer avec [Poedit](https://poedit.net/) ou un éditeur de texte.
 - `translation/personnages/*.md` : la fiche de voix de chaque personnage.
-- `translation/GLOSSAIRE.tsv` : les termes du jeu.
+- `translation/GLOSSAIRE.tsv` : les termes du jeu ; les choix encore en débat sont dans `translation/PROPOSITIONS_GLOSSAIRE.md`.
+- `tools/CONSIGNES_*.md` : les consignes données aux agents IA (ton, accords, balises à conserver).
+
+Conventions principales : le narrateur vouvoie le joueur ou la joueuse, les personnages le tutoient ; les accords passent par `{{masc|fém|neutre}}` (jamais d'écriture inclusive « ·e » brute pour le joueur) ; les balises `<i>`, `<w>`… doivent être conservées ; le français parlé dans la VO devient de l'italien.
 
 Une première passe est traduite par IA (commentaire `Traduction IA – à relire`). Le travail le plus précieux, c'est la **relecture en jeu** : repérer les tournures maladroites, les blagues qui tombent à plat, les incohérences de ton ou de tutoiement.
 
