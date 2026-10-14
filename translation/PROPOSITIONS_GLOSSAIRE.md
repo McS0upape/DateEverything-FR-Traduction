@@ -127,3 +127,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **keith_key** : « Church of Latter Day Sinks » → « Église des Éviers du Dernier Jour » (à harmoniser).
 - **keyes_piano** : sound board = table d'harmonie ; baby grand = piano quart de queue ; recapitulation = réexposition ; cadenza = cadence.
 - **fantina_fan** : Hanksgiving (garder) ; fan-club ; cheese rolling = course au fromage ; Hallowed Sanctuary of Eternal Reverence = Sanctuaire Sacré de la Révérence Éternelle ; Supreme Executive Presidential Leader = Suprême Dirigeante Exécutive Présidentielle.
+- **johnny_shower** : Elvis Parsley = Elvis Persil ; American Maestro (garder) ; Valdivian Plus = Valdivia Plus ; Breaker Box = le Disjoncteur ; GoPlumbMe = GoPlombMoi ; Enrique Pipes = Enrique Tuyaux.
