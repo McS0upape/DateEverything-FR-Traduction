@@ -180,3 +180,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## luke_microwave
 - swarmers → essaimeurs ; the Barrens → les Friches ; Deathmart → Mortmart ; tendies → nuggets ; The Magnetron → Le Magnétron ; GRUNT → BIDASSE
+
+## dishy_dishwasher
+- Dishwashing Experience → Expérience de Lavage de Vaisselle ; Valdivian Customer Support → Service Client Valdivian ; Golden Gauntlets → Gantelets Dorés ; Final Ladle → Louche Ultime

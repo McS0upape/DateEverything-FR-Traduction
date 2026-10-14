@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : vouvoie (mascotte commerciale de Valdivian), même quand il dérape ; surnoms épicènes (« canon », « rabat-joie »).
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : jargon corporate et service client ultra-poli, ponctué de points d'exclamation, de MAJUSCULES et de formules juridiques ; il craque parfois (vulgarité soudaine, rancune).
+- **Personnalité, manière de parler** : dishwasher mascotte, obséquieux, envahissant, obsédé par la collecte de données et les mises à jour ; devient peu à peu possessif et inquiétant, puis sincèrement attachant une fois « libéré ».
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Dishwashing Experience » = « Expérience de Lavage de Vaisselle » (majuscules) ; « connectez-moi à votre internet » ; « mises à jour » ; DisHub (inchangé) ; « (1) jour » écrit avec chiffre entre parenthèses.
+- **Exemples de répliques traduites (référence de ton)** : « Bonjour ! Et bienvenue dans l'Expérience Valdivienne de Lavage de Vaisselle ! » / « Je suis votre lave-vaisselle, désormais ! » / « Allez, taisez-vous et prenez ça ! »
