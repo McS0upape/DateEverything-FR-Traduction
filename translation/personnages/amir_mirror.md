@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, théâtral et fleuri, sans vulgarité ; exclamations d'artiste
+- **Personnalité, manière de parler** : romantique exalté, flatteur, d'une honnêteté radicale ; dramatique, susceptible quand on conteste son art ; se voit comme un artiste/arbitre du goût ; phrases emphatiques, pauses, interjections.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : mots persans gardés tels quels (azizam, joonam, bah bah, zood bosh, bodo). Surnoms épicènes : « mon cœur », « mon âme », « ma lumière ». Jeux sur le reflet / le miroir (reflect = refléter / réfléchir), « glow » = éclat. Lewis Barrel = parodie de Lewis Carroll ; « You the Looking Glass » = « Toi, le miroir ».
+- **Exemples de répliques traduites (référence de ton)** : « Ah, Incroyable ! » ; « Non, non, non ! Ne bouge pas. Reviens dans la lumière. » ; « Je ne fais que refléter la beauté qui se tient devant moi. »

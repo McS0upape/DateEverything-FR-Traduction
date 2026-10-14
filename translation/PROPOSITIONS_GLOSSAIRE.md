@@ -156,3 +156,17 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 ## hime_anime
 - Dread (concept de l'anime) → l'Effroi (distinct de Doug / Angoisse existentielle)
 - Tennistar → la Tennistar ; Starlight Smash → Smash Étoilé ; Galaxy Arts → Arts Galactiques
+
+## bobby_bobbypin
+- Pinn Gang → Bande à Pinn ; Pinn Crime Family → Syndicat du Crime Pinn ; recruit/rookie → recrue
+
+## amir_mirror
+- Mots persans gardés tels quels (azizam, joonam, eshgham, ghorboonetberam…) ; Lewis Barrel conservé
+- Johnny appelle Amir « Brillant » (shiny fella / Mr. Shiny)
+
+## tyrell_towel
+- Towel Buddy → Serviette-Pote ; Towel Turtle → Tortue-Serviette ; Lord of the Wrings → Seigneur des Essorages
+- Tidy Tyrell's Full Service Car Wash and Dry → Tyrell Impec' : Lavage et Séchage tous services ; Second Chance → refuge Seconde Chance
+
+## mac_computer
+- Mac : iel, tutoie ; doomscroller ; chamallow

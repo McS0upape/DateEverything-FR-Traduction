@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : iel (« they » en VO, Mac est une personne non binaire) ; éviter les accords gênants dans ses répliques, préférer des tournures neutres (« je suis aux anges », « ça me ravit »).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, poli, un peu pompeux (« odieux obstacle », « inordinée »), qui contraste avec ses flirts maladroits.
+- **Personnalité, manière de parler** : geek tatoué·e, enthousiaste, serviable, très vocabulaire informatique, anxieux·se à l'idée de ne pas être « assez bien » (mise à jour du système).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : métaphores informatiques (interfacer, processeur, cache d'affection, octets), système nommé d'après des villes du New Jersey (Newark, Trenton, Atlantic City).
+- **Exemples de répliques traduites (référence de ton)** : « Bon retour ! Je suis aux anges que tu sois de retour ! » ; « Il m'est simplement impossible de ne pas les connaître, car leurs données sont indissociables de mon cerveau. »

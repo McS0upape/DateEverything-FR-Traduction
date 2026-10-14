@@ -23,10 +23,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (Tyrell, une serviette)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, décontracté, ton « pote de vestiaire » un peu bavard, qui s'emballe et se rattrape
+- **Personnalité, manière de parler** : doux, anxieux, en quête d'utilité (« à quoi je sers ? »), se sent toujours second rôle, essaie trop fort d'être drôle, parle à sa serviette-pote (cygne, tortue) ; surnom épicène pour le joueur : « mon pote », « poto », « l'ami » (jamais « mec »/« ma belle »)
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : champ lexical absorber / éponger / essorer / moelleux / doux / pelucheux / s'effilocher / plier ; slogans bancals (« Tyrell, mon nom ; éponger, mon don ») ; « Towel Buddy » -> « Serviette-Pote » ; « drip » = tendance/mouillé
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Wait! Hold still. » -> « Attends ! Bouge pas. »
+  - « Ya boy is all good. » -> « Tyrell va très bien, merci. »
+  - « I may be soft, but I'm hard against spills. » -> « Je suis tout doux, mais intraitable avec les dégâts. »
