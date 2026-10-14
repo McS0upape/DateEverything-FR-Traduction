@@ -123,3 +123,5 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 ## tydus_tide (agent Sonnet, 2026-10-13)
 - Pods, Dipodgenes : inchangés ; Stone/Parchment/Shears → Pierre/Parchemin/Cisailles
 - Hundred Beer's War → Guerre des Cent Bières ; Springtime Breeze → Brise de Printemps ; The Round Table → La Table Ronde
+
+- **keith_key** : « Church of Latter Day Sinks » → « Église des Éviers du Dernier Jour » (à harmoniser).

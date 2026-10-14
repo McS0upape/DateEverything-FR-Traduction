@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu-pompeux et emphatique, viril, comique par le sérieux ; vocabulaire archaïsant, mais tutoiement
+- **Personnalité, manière de parler** : viking exubérant, narcissique et ravi de la violence, prend tout pour un défi ; naïf sur les coutumes modernes. Interjections : « Odin », « Faen ! ». Appareil elliptique (volant d'inertie à l'entrejambe).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Choisis ton arme ! », « VIOLENCE ! » ; « OK » compris comme « au quai » (quai / drakkar, « Un quai, c'est pour les bateaux ») ; CULotté pour ASSume.
+- **Exemples de répliques traduites (référence de ton)** : « J'adore la violence. » ; « Tu es sans conteste {{étranger|étrangère|étranger·ère}} ! » ; « Choisis ton arme ! »
