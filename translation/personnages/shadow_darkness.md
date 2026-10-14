@@ -25,10 +25,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : pseudo-seigneur des ténèbres, soutenu, grandiloquent, archaïsant (« Çà ! », « Nenni »), qui craque en ado/geek gêné ou tendre dès qu'on le bouscule.
+- **Personnalité, manière de parler** : emphase théâtrale, majuscules mentales, mots rares (caliginosité), puis retombée dans la maladresse. Gentil, solitaire, nostalgique de son pseudo de forum.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Fwa ha ha ha ha ! » (inchangé) ; surnom du joueur « penumbra » -> « pénombre » (épicène) ; « Shadowlord » -> « Seigneur des Ombres » ; « Great Cataclysm » -> « le Grand Cataclysme » ; pseudo xxXShadowl0rd420Xxx inchangé.
+- **Exemples de répliques traduites (référence de ton)** : « Des ténèbres, je suis le vide qui couvre tes yeux quand la lumière se repose. » ; « Çà, pénombre, tu me surprends ! » ; « Je... ne pensais rien par là. Évidemment. »

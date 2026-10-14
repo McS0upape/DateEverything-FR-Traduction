@@ -201,3 +201,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## rainey_record
 - Giggle Water → Eau de Rire ; Talc Capone (inchangé) ; Phillips head → « Phillips » (gag « Philippe »)
+
+## shadow_darkness
+- Penumbra → pénombre ; Shadowlord → Seigneur des Ombres ; Great Cataclysm → Grand Cataclysme ; The Hanged Man → Le Pendu
