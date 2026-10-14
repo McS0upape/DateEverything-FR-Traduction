@@ -8,2755 +8,3305 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: mateo_blanket/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "BLANKET"
-msgstr ""
+msgstr "COUVERTURE"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/12
 msgctxt "Mateo"
 msgid "Davi!"
-msgstr ""
+msgstr "Davi !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/20
 msgctxt "Mateo"
 msgid "Daaaaviii!"
-msgstr ""
+msgstr "Daaaaviii !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/28
 msgctxt "Mateo"
 msgid "Come on Davi, where'd you get off to now?"
-msgstr ""
+msgstr "Allez Davi, où t'es encore parti ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/36
 msgctxt "Mateo"
 msgid "Davi?"
-msgstr ""
+msgstr "Davi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/52
 msgctxt "Mateo"
 msgid "I hope he's alright..."
-msgstr ""
+msgstr "J'espère qu'il va bien..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/60/s/0
 msgctxt "Choix"
 msgid "What's going on?"
-msgstr ""
+msgstr "Qu'est-ce qui se passe ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/61/s/0
 msgctxt "Choix"
 msgid "Pay attention to me, the dateable human!"
-msgstr ""
+msgstr "Fais attention à moi, l'humain·e datable !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/0
 msgctxt "Mateo"
 msgid "Oh, hey!"
-msgstr ""
+msgstr "Oh, salut !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/8
 msgctxt "Mateo"
 msgid "I'm sorry, I didn't even see you, I hope you haven't been here too long."
-msgstr ""
+msgstr "Pardon, je ne t'avais même pas {{vu|vue|vu·e}}. J'espère que tu n'attends pas depuis trop longtemps."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/16
 msgctxt "Mateo"
 msgid "I'm Mateo. Mateo Manta."
-msgstr ""
+msgstr "Moi, c'est Mateo. Mateo Manta."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/27
 msgctxt "Mateo"
 msgid "Oh uh... 'blanket'."
-msgstr ""
+msgstr "Ah, euh... « couverture »."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/41
 msgctxt "Mateo"
 msgid "I've just been so focused on finding Davi..."
-msgstr ""
+msgstr "C'est juste que je suis tellement concentré sur la recherche de Davi..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/49
 msgctxt "Mateo"
 msgid "This is the second time he's wandered off this week, I'm starting to get really worried."
-msgstr ""
+msgstr "C'est la deuxième fois cette semaine qu'il disparaît, je commence vraiment à m'inquiéter."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/57/s/0
 msgctxt "Choix"
 msgid "Who is Davi?"
-msgstr ""
+msgstr "C'est qui, Davi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/58/s/0
 msgctxt "Choix"
 msgid "Must be a friend of yours."
-msgstr ""
+msgstr "Ça doit être un ami à toi."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/59/s/0
 msgctxt "Choix"
 msgid "<i>Yawn loudly.</i>"
-msgstr ""
+msgstr "<i>Bâiller bruyamment.</i>"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-0/c-3/7
 msgctxt "Mateo"
 msgid "You could say that. Though sometimes it feels like he can't wait to get away from me, haha..."
-msgstr ""
+msgstr "On peut dire ça. Même si parfois j'ai l'impression qu'il a hâte de me fausser compagnie, haha..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-1/0
 msgctxt "Mateo"
 msgid "Davi's one of my rescues, a young knit bull that I found trapped in the office a few months ago."
-msgstr ""
+msgstr "Davi, c'est un de mes protégés, un jeune pit-tricot que j'ai trouvé coincé dans le bureau il y a quelques mois."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-1/8
 msgctxt "Mateo"
 msgid "You wouldn't happen to have seen him around, would you?"
-msgstr ""
+msgstr "Tu ne l'aurais pas vu dans le coin, par hasard ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Hrm maybe, what's he look like?"
-msgstr ""
+msgstr "Hmm, peut-être. Il ressemble à quoi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "I don't think so, but I can keep an eye out."
-msgstr ""
+msgstr "Je ne crois pas, mais je garderai un oeil ouvert."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-1/18/s/0 mateo_blanket/clueless_return3/0/17/8/4/s/0
 msgctxt "Choix"
 msgid "Nah."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-1/c-6/7
 msgctxt "Mateo"
 msgid "Thanks, I appreciate it."
-msgstr ""
+msgstr "Merci, c'est gentil."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/0
 msgctxt "Mateo"
 msgid "He's about an inch tall, hand dyed, fingering weight even though he <i>acts</i> like he's worsted and it's always getting him into trouble."
-msgstr ""
+msgstr "Il fait à peu près un pouce de haut, teint à la main, en fil fin même s'il <i>se comporte</i> comme du gros fil, et ça lui attire toujours des ennuis."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/8
 msgctxt "Mateo"
 msgid "I just keep thinking about him all tangled up somewhere again, trapped and alone..."
-msgstr ""
+msgstr "Je n'arrête pas de l'imaginer encore tout emmêlé quelque part, coincé et seul..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/16
 msgctxt "Mateo"
 msgid "He was in pretty rough shape when I found him the first time, no telling how long he'd been there. He was so frayed I wasn't sure if I'd be able to put him back together."
-msgstr ""
+msgstr "Il était dans un sale état quand je l'ai trouvé la première fois, impossible de savoir depuis combien de temps il était là. Il était tellement effiloché que je ne savais pas si j'arriverais à le remettre en un seul morceau."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "Poor thing..."
-msgstr ""
+msgstr "Le pauvre..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "That's horrible, who would do something like that?"
-msgstr ""
+msgstr "C'est horrible, qui ferait une chose pareille ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/26/s/0
 msgctxt "Choix"
 msgid "But he made it out ok, right?"
-msgstr ""
+msgstr "Mais il s'en est sorti, non ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/27/s/0 mateo_blanket/grooming_dolly/0/g-1/37/s/0
 msgctxt "Choix"
 msgid "Okay whatever."
-msgstr ""
+msgstr "Bon, d'accord, peu importe."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/c-8/7
 msgctxt "Mateo"
 msgid "Yeah, but he's a fighter. He really hung in there."
-msgstr ""
+msgstr "Oui, mais c'est un battant. Il a vraiment tenu bon."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/c-9/7
 msgctxt "Mateo"
 msgid "It's hard to say. He might have just gotten lost or left behind."
-msgstr ""
+msgstr "Difficile à dire. Il s'est peut-être juste perdu ou fait abandonner."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/c-9/15
 msgctxt "Mateo"
 msgid "But there are certainly things out there who think it's funny to pull on a tassel hound's string, you know?"
-msgstr ""
+msgstr "Mais certains trouvent ça drôle de tirer sur le fil d'un chien à pompons, tu vois ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/c-9/23
 msgctxt "Mateo"
 msgid "And they do go missing all the time. Unfortunately, it's pretty easy to get away with it."
-msgstr ""
+msgstr "Et ils disparaissent tout le temps. Malheureusement, il est assez facile de s'en tirer sans conséquences."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/c-9/31
 msgctxt "Mateo"
 msgid "Whatever happened, he hung in there."
-msgstr ""
+msgstr "Quoi qu'il se soit passé, il a tenu bon."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-2/c-10/7
 msgctxt "Mateo"
 msgid "Yeah, he did. He's a real trooper."
-msgstr ""
+msgstr "Oui, c'est vrai. C'est un vrai petit soldat."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-3/0
 msgctxt "Mateo"
 msgid "After a few weeks he bounced right back and was running around with the rest of the tassel hounds."
-msgstr ""
+msgstr "Après quelques semaines, il avait repris du poil de la bête et courait partout avec les autres chiens à pompons."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-3/8/s/0
 msgctxt "Choix"
 msgid "Sounds like a happy ending."
-msgstr ""
+msgstr "On dirait une fin heureuse."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-3/9/s/0
 msgctxt "Choix"
 msgid "But you said he keeps going missing?"
-msgstr ""
+msgstr "Mais tu disais qu'il disparaît tout le temps ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-3/c-12/7
 msgctxt "Mateo"
 msgid "Haha weeell, mostly."
-msgstr ""
+msgstr "Hahaha eh bien, presque."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-3/c-13/7
 msgctxt "Mateo"
 msgid "Yeah, it's become a pretty regular thing with him."
-msgstr ""
+msgstr "Oui, c'est devenu une habitude chez lui."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/0
 msgctxt "Mateo"
 msgid "He gets on great with the other tassel hounds, and he seems pretty trusting despite what he's been through."
-msgstr ""
+msgstr "Il s'entend à merveille avec les autres chiens à pompons et il a l'air plutôt confiant malgré ce qu'il a traversé."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/8
 msgctxt "Mateo"
 msgid "But for some reason, he just wanders off whenever you're not looking."
-msgstr ""
+msgstr "Mais pour une raison que j'ignore, il file dès qu'on a le dos tourné."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/16
 msgctxt "Mateo"
 msgid "It's almost like he waits until I've got my threads full with something else and then disappears for a few days."
-msgstr ""
+msgstr "C'est presque comme s'il attendait que j'aie les mains pleines pour disparaître quelques jours."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/3
 msgctxt "Narrator"
 msgid "A small creature that looks rather like a black cat rubs up against Mateo's leg, meowing for his attention."
-msgstr ""
+msgstr "Une petite créature qui ressemble à un chat noir se frotte contre la jambe de Mateo en miaulant pour attirer son attention."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/8 mateo_blanket/runaway/0/g-5/8
 msgctxt "Sprite"
 msgid "Meow."
-msgstr ""
+msgstr "Miaou."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/13
 msgctxt "Mateo"
 msgid "Speaking of handfuls haha."
-msgstr ""
+msgstr "Quand on parle de mains pleines haha."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/21
 msgctxt "Sprite"
 msgid "Meooow~"
-msgstr ""
+msgstr "Miaoouu~"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/26
 msgctxt "Mateo"
 msgid "Aww don't worry Sprite, it's not your fault Davi ran off, I promise. He'll be back soon, ok?"
-msgstr ""
+msgstr "Aww, ne t'inquiète pas Sprite, ce n'est pas ta faute si Davi s'est enfui, promis. Il va bientôt revenir, d'accord ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/34
 msgctxt "Narrator"
 msgid "He bends down to pick up the small creature."
-msgstr ""
+msgstr "Il se penche pour prendre la petite créature."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/42
 msgctxt "Sprite"
 msgid "<w>HSSSS</w>"
-msgstr ""
+msgstr "<w>SSSSS</w>"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/56/s/0
 msgctxt "Choix"
 msgid "Who is your little friend there?"
-msgstr ""
+msgstr "C'est qui, ta petite copine ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/57/s/0
 msgctxt "Choix"
 msgid "Feisty!"
-msgstr ""
+msgstr "Quel caractère !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/58/s/0
 msgctxt "Choix"
 msgid "Awww so cute, what's her name?"
-msgstr ""
+msgstr "Awww trop mignonne, elle s'appelle comment ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/59/s/0
 msgctxt "Choix"
 msgid "I don't like this thing."
-msgstr ""
+msgstr "Je n'aime pas cette bestiole."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-4/24/c-15/7
 msgctxt "Mateo"
 msgid "Haha, yeah. She's got a big personality."
-msgstr ""
+msgstr "Haha oui. Elle a une sacrée personnalité."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/0
 msgctxt "Mateo"
 msgid "This is Sprite, one of the first inanimals I ever rescued."
-msgstr ""
+msgstr "Voici Sprite, l'une des premières inanimaux que j'ai sauvées."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/16
 msgctxt "Mateo"
 msgid "Yeah sweet girl, been together a long time now, huh?"
-msgstr ""
+msgstr "Oui ma douce, ça fait longtemps qu'on est ensemble, hein ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/24
 msgctxt "Mateo"
 msgid "Long enough for you to know better than to go messing with Curt and Rod."
-msgstr ""
+msgstr "Assez longtemps pour savoir qu'il ne faut pas embêter Curt et Rod."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/35
 msgctxt "Sprite"
 msgid "<w>mew</w>"
-msgstr ""
+msgstr "<w>miaou</w>"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/43
 msgctxt "Mateo"
 msgid "Oh reaaally? Haha I guess the bottom of those curtains just tore themselves up then, huh?"
-msgstr ""
+msgstr "Ah ouiii ? Haha, donc le bas de ces rideaux s'est déchiré tout seul, c'est ça ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/51
 msgctxt "Sprite"
 msgid "...mow"
-msgstr ""
+msgstr "...maou"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/56/s/0
 msgctxt "Choix"
 msgid "I don't think she did it... look how cute she is!"
-msgstr ""
+msgstr "Je ne crois pas que ce soit elle... regarde comme elle est mignonne !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/57/s/0
 msgctxt "Choix"
 msgid "Yeah yeah... keep playing innocent, we're definitely buying it."
-msgstr ""
+msgstr "Ouais ouais... continue de faire l'innocente, on est totalement convaincus."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-5/c-18/7
 msgctxt "Mateo"
 msgid "Haha don't let her fool you, she's a little mischief-maker."
-msgstr ""
+msgstr "Haha ne te laisse pas avoir, c'est une petite polissonne."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/0
 msgctxt "Mateo"
 msgid "She'll get you every time. I mean, who can stay mad at that little face?"
-msgstr ""
+msgstr "Elle t'aura à tous les coups. Et puis, qui peut rester fâché devant cette petite bouille ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/8
 msgctxt "Sprite"
 msgid "meow~ meow~"
-msgstr ""
+msgstr "miaou~ miaou~"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/13/s/0
 msgctxt "Choix"
 msgid "I belong to her now."
-msgstr ""
+msgstr "Je lui appartiens désormais."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/14/s/0
 msgctxt "Choix"
 msgid "This is why I don't have any pets."
-msgstr ""
+msgstr "Voilà pourquoi je n'ai pas d'animaux."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/7
 msgctxt "Mateo"
 msgid "You're in good company."
-msgstr ""
+msgstr "Tu es en bonne compagnie."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/0/s/0
 msgctxt "Choix"
 msgid "Welp. I'm good with standing far away from this thing."
-msgstr ""
+msgstr "Bon. Je suis très bien à bonne distance de cette bestiole."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/1/s/0
 msgctxt "Choix"
 msgid "Can I pet her?"
-msgstr ""
+msgstr "Je peux la caresser ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/2/s/0
 msgctxt "Choix"
 msgid "Is she friendly?"
-msgstr ""
+msgstr "Elle est gentille ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/0
 msgctxt "Mateo"
 msgid "American cordhairs are pretty affectionate, buuuut... she's a little, well <i>picky</i>."
-msgstr ""
+msgstr "Les cordopoils américains sont plutôt affectueux, maaais... elle est un peu, enfin, <i>difficile</i>."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/8
 msgctxt "Mateo"
 msgid "If you want to try to pet her, just hold your hand out and let her sniff you."
-msgstr ""
+msgstr "Si tu veux essayer de la caresser, tends simplement la main et laisse-la te renifler."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/16
 msgctxt "Mateo"
 msgid "If she headbutts you, then you're safe. If she just stares at you though..."
-msgstr ""
+msgstr "Si elle te donne un coup de tête, tu es tranquille. Si elle te fixe juste du regard par contre..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/24/0/s/0
 msgctxt "Choix"
 msgid "I'm willing to take that chance."
-msgstr ""
+msgstr "Je prends le risque."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/24/1/s/0
 msgctxt "Choix"
 msgid "Ah on second thought, maybe I'll just love her from afar."
-msgstr ""
+msgstr "Ah, finalement, je vais plutôt l'aimer de loin."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/24/c-0/14
 msgctxt "Mateo"
 msgid "Alright, go ahead!"
-msgstr ""
+msgstr "D'accord, vas-y !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/24/c-0/22
 msgctxt "Narrator"
 msgid "You hold out your hand to Sprite, waiting with bated breath for her reaction."
-msgstr ""
+msgstr "Vous tendez la main vers Sprite, en attendant sa réaction avec impatience."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-20/15/g-0/24/c-1/7
 msgctxt "Mateo"
 msgid "Haha fair enough. Her love doesn't come easy, probably the safer option."
-msgstr ""
+msgstr "Haha d'accord. Son amour ne se gagne pas facilement, c'est probablement plus prudent."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-21/7
 msgctxt "Mateo"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Comment ça ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-21/15/0/s/0
 msgctxt "Choix"
 msgid "Because I could never say no to them, they'd get away with everything."
-msgstr ""
+msgstr "Parce que je ne pourrais jamais leur dire non, ils feraient tout ce qu'ils veulent."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-21/15/1/s/0
 msgctxt "Choix"
 msgid "It's just a lot of work."
-msgstr ""
+msgstr "C'est juste beaucoup de travail."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-21/15/c-0/7
 msgctxt "Mateo"
 msgid "Haha yeah, and trust me, they know it!"
-msgstr ""
+msgstr "Haha oui, et crois-moi, ils le savent !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-21/15/c-1/7
 msgctxt "Mateo"
 msgid "Ah, yeah it is. It's worth it, you know, if that work is something you're willing to do."
-msgstr ""
+msgstr "Ah, oui, c'est vrai. Ça vaut le coup, tu sais, si on est prêt à fournir cet effort."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-6/c-21/15/c-1/15
 msgctxt "Mateo"
 msgid "But I get that it's not for everyone. At least you're honest about it."
-msgstr ""
+msgstr "Mais je comprends que ce ne soit pas pour tout le monde. Au moins, tu es honnête."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/3
 msgctxt "Mateo"
 msgid "Well I'll be hearing about it from Curt and Rod later once they notice the bottom of the curtains are ripped, I'm sure."
-msgstr ""
+msgstr "Bon, j'entendrai parler de ça par Curt et Rod tout à l'heure, quand ils verront que le bas des rideaux est déchiré, j'en suis sûr."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/11
 msgctxt "Mateo"
 msgid "Honestly, I think she's just acting out because she's upset about Davi."
-msgstr ""
+msgstr "Franchement, je crois qu'elle fait juste des bêtises parce qu'elle est triste pour Davi."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/27
 msgctxt "Mateo"
 msgid "I was really hoping I'd be able to find him before it got too late."
-msgstr ""
+msgstr "J'espérais vraiment le retrouver avant qu'il soit trop tard."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/38
 msgctxt "Mateo"
 msgid "There's still a few more places I haven't checked, but I need to get back to the rescue."
-msgstr ""
+msgstr "Il me reste encore quelques endroits à vérifier, mais je dois retourner au refuge."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/46
 msgctxt "Mateo"
 msgid "Things can really start to, uh <i>unravel</i> if I stay away for too long."
-msgstr ""
+msgstr "Les choses peuvent vite commencer à, euh, se <i>détricoter</i> si je m'absente trop longtemps."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/54/s/0
 msgctxt "Choix"
 msgid "Is there anything I can do to help?"
-msgstr ""
+msgstr "Je peux faire quelque chose pour t'aider ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/55/s/0
 msgctxt "Choix"
 msgid "Hahaha, yeah, I see what you did there."
-msgstr ""
+msgstr "Hahaha, oui, j'ai vu ce que tu as fait là."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/c-23/7
 msgctxt "Mateo"
 msgid "A little humor can lighten the mood sometimes."
-msgstr ""
+msgstr "Un peu d'humour peut parfois alléger l'ambiance."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/c-23/15
 msgctxt "Mateo"
 msgid "I'd better get back to it."
-msgstr ""
+msgstr "Je ferais mieux d'y retourner."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/c-23/23/0/s/0
 msgctxt "Choix"
 msgid "Yeah, ok. Good luck! I'll check in later."
-msgstr ""
+msgstr "Ouais, d'accord. Bonne chance ! Je repasserai plus tard."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/afterspritejoin/c-23/23/1/s/0
 msgctxt "Choix"
 msgid "Need a hand?"
-msgstr ""
+msgstr "Tu as besoin d'un coup de main ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-7/0
 msgctxt "Mateo"
 msgid "That's kind of you to offer, but I'll figure something out."
-msgstr ""
+msgstr "C'est gentil de me le proposer, mais je me débrouillerai."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-7/8
 msgctxt "Mateo"
 msgid "I'm sure you've got other things to worry about!"
-msgstr ""
+msgstr "Je suis sûr que tu as d'autres soucis en tête !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-7/16/s/0
 msgctxt "Choix"
 msgid "Really, it's no trouble."
-msgstr ""
+msgstr "Vraiment, ça ne me dérange pas."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-7/17/s/0
 msgctxt "Choix"
 msgid "I want to help."
-msgstr ""
+msgstr "Je veux t'aider."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-8/0
 msgctxt "Mateo"
 msgid "Are you <i>sure</i>?"
-msgstr ""
+msgstr "Tu en es <i>{{certain|certaine|certain·e}}</i> ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-8/8
 msgctxt "Mateo"
 msgid "Davi's my responsibility, it's my fault he's missing. I really should have been watching him more closely..."
-msgstr ""
+msgstr "Davi est sous ma responsabilité, c'est ma faute s'il a disparu. J'aurais vraiment dû le surveiller de plus près..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-8/16/s/0
 msgctxt "Choix"
 msgid "Yeah. You kinda dropped the ball."
-msgstr ""
+msgstr "Ouais. Tu as un peu laissé tomber la balle."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-8/17/s/0
 msgctxt "Choix"
 msgid "You've got to lighten up on yourself."
-msgstr ""
+msgstr "Tu devrais être moins dur avec toi-même."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-8/c-26/7
 msgctxt "Mateo"
 msgid "Ugh I know it. I feel so bad."
-msgstr ""
+msgstr "Ugh je sais. Je m'en veux tellement."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-9/0
 msgctxt "Mateo"
 msgid "The inanimals depend on me. I can't afford to be careless."
-msgstr ""
+msgstr "Les inanimaux comptent sur moi. Je n'ai pas le droit d'être négligent."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-9/8
 msgctxt "Mateo"
 msgid "It just doesn't feel right, asking someone else to fix my mistake."
-msgstr ""
+msgstr "Ça ne me semble pas juste de demander à quelqu'un d'autre de réparer mon erreur."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-9/16/s/0
 msgctxt "Choix"
 msgid "Hey, if you're really not interested in my help, it's cool. I can go."
-msgstr ""
+msgstr "Hé, si mon aide ne t'intéresse vraiment pas, pas de souci. Je peux m'en aller."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-9/17/s/0
 msgctxt "Choix"
 msgid "You're not very good at accepting help, are you?"
-msgstr ""
+msgstr "Tu n'es pas très {{doué|douée|doué·e}} pour accepter de l'aide, hein ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-9/c-28/11 mateo_blanket/boredofsprite/0
 msgctxt "Mateo"
 msgid "...sure. I wouldn't want to keep you. And it is my job."
-msgstr ""
+msgstr "...d'accord. Je ne voudrais pas te retenir. Et puis c'est mon travail."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-9/c-28/19 mateo_blanket/boredofsprite/8
 msgctxt "Mateo"
 msgid "I'll see you around, if you decide to come back."
-msgstr ""
+msgstr "On se reverra, si tu décides de revenir."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-9/c-29/7
 msgctxt "Mateo"
 msgid "Guilty."
-msgstr ""
+msgstr "Coupable."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-10/0
 msgctxt "Mateo"
 msgid "I guess I'm just used to being the one helping, not the other way around."
-msgstr ""
+msgstr "Je crois que j'ai juste l'habitude d'être celui qui aide, pas l'inverse."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-10/8
 msgctxt "Mateo"
 msgid "And I can't be in both places at once..."
-msgstr ""
+msgstr "Et je ne peux pas être à deux endroits à la fois..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-10/16
 msgctxt "Mateo"
 msgid "Alright. If you're really up for it, I do have something you could do."
-msgstr ""
+msgstr "Bon. Si tu es vraiment {{partant|partante|partant·e}}, j'ai effectivement quelque chose à te confier."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-10/24/s/0
 msgctxt "Choix"
 msgid "Hit me!"
-msgstr ""
+msgstr "Je t'écoute !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/0 mateo_blanket/runaway_return/0/14/c-0/7
 msgctxt "Mateo"
 msgid "I put together some information on Davi to give to Phoenicia, just in case he didn't come back tonight."
-msgstr ""
+msgstr "J'ai rassemblé des informations sur Davi pour les donner à Phoenicia, au cas où il ne reviendrait pas ce soir."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/8 mateo_blanket/runaway_return/0/14/c-0/15
 msgctxt "Mateo"
 msgid "I was going to ask her if she'd make a post on Placebook about him and get the word out..."
-msgstr ""
+msgstr "Je voulais lui demander de faire un post sur lui sur Placebook pour passer le mot..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/16
 msgctxt "Mateo"
 msgid "...but I haven't had a chance to talk to her yet since I was chasing down <i>this</i> little troublemaker instead."
-msgstr ""
+msgstr "...mais je n'ai pas encore eu l'occasion de lui parler, vu que j'ai couru après <i>cette</i> petite chipie."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/24
 msgctxt "Sprite"
 msgid "Meow~"
-msgstr ""
+msgstr "Miaou~"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/29
 msgctxt "Mateo"
 msgid "Do you think you could talk to her for me? I can give you the packet I made, it's got everything she'll need."
-msgstr ""
+msgstr "Tu pourrais lui parler de ma part ? Je peux te donner le dossier que j'ai préparé, il y a tout ce qu'il lui faut."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/37/s/0
 msgctxt "Choix"
 msgid "Anything you need! I've got a soft spot for strays."
-msgstr ""
+msgstr "Tout ce que tu veux ! J'ai un faible pour les bêtes perdues."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/7
 msgctxt "Mateo"
 msgid "Really? Me too! Obviously."
-msgstr ""
+msgstr "Vraiment ? Moi aussi ! Évidemment."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/15
 msgctxt "Mateo"
 msgid "Betty keeps joking that I'm going to run out of space for them all."
-msgstr ""
+msgstr "Betty n'arrête pas de plaisanter en disant que je finirai par manquer de place pour tous les accueillir."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/0/s/0
 msgctxt "Choix"
 msgid "You've got a big heart. I'm sure they are grateful to have you!"
-msgstr ""
+msgstr "Tu as un grand coeur. Je suis sûr qu'ils sont reconnaissants de t'avoir !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/1/s/0
 msgctxt "Choix"
 msgid "You just might!"
-msgstr ""
+msgstr "C'est bien possible !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/7
 msgctxt "Mateo"
 msgid "Ahh I don't know about all that. I'm nothing special, it's just the right thing to do."
-msgstr ""
+msgstr "Ahh je ne sais pas. Je n'ai rien de spécial, c'est juste ce qu'il faut faire."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/15
 msgctxt "Mateo"
 msgid "When something needs help... well, you don't give up on it."
-msgstr ""
+msgstr "Quand quelqu'un a besoin d'aide... eh bien, on ne l'abandonne pas."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/23
 msgctxt "Mateo"
 msgid "Sorry, I didn't mean to talk your ear off there."
-msgstr ""
+msgstr "Pardon, je ne voulais pas te casser les oreilles."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/31
 msgctxt "Mateo"
 msgid "Once I get started talking about them, it's hard to stop."
-msgstr ""
+msgstr "Une fois que je commence à parler d'eux, c'est difficile de m'arrêter."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/39
 msgctxt "Mateo"
 msgid "If you're interested, you could always come by the rescue later and we could talk more!"
-msgstr ""
+msgstr "Si ça te tente, tu peux toujours passer au refuge plus tard et on pourra discuter davantage !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/47/0/s/0
 msgctxt "Choix"
 msgid "I'd love that."
-msgstr ""
+msgstr "Avec plaisir."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/47/1/s/0
 msgctxt "Choix"
 msgid "I'll think about it, I've got a lot going on right now."
-msgstr ""
+msgstr "J'y réfléchirai, j'ai beaucoup de choses en ce moment."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/47/c-0/7 mateo_blanket/rescue_me/0/g-3/11/c-11/7 mateo_blanket/rescue_me/0/g-3/11/c-13/7
 msgctxt "Mateo"
 msgid "Great!"
-msgstr ""
+msgstr "Super !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/47/c-1/7
 msgctxt "Mateo"
 msgid "You're always welcome if you change your mind."
-msgstr ""
+msgstr "Tu seras toujours {{bienvenu|bienvenue|bienvenu·e}} si tu changes d'avis."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/47/g-0/0 mateo_blanket/runaway/0/g-11/c-31/23/c-1/15
 msgctxt "Mateo"
 msgid "Anyway!"
-msgstr ""
+msgstr "Bref !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-0/47/g-0/8 mateo_blanket/runaway/0/g-11/c-31/23/c-1/23
 msgctxt "Mateo"
 msgid "Thanks for offering to help."
-msgstr ""
+msgstr "Merci de proposer ton aide."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-11/c-31/23/c-1/7
 msgctxt "Mateo"
 msgid "Well... maybe so."
-msgstr ""
+msgstr "Eh bien... peut-être."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-12/0/s/0
 msgctxt "Choix"
 msgid "No problem, I was going to do a few things around the house anyway."
-msgstr ""
+msgstr "Pas de souci, je comptais faire quelques trucs dans la maison de toute façon."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-12/c-32/7
 msgctxt "Mateo"
 msgid "Thanks!"
-msgstr ""
+msgstr "Merci !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway/0/g-12/c-32/15
 msgctxt "Mateo"
 msgid "I'll be right here at the rescue if you need anything; feel free to stop by!"
-msgstr ""
+msgstr "Je serai ici au refuge si tu as besoin de quoi que ce soit ; n'hésite pas à passer !"
 
+# Traduction IA – à relire
 #: mateo_blanket/sprite_success/0
 msgctxt "Sprite"
 msgid "meow~~"
-msgstr ""
+msgstr "miaou~~"
 
+# Traduction IA – à relire
 #: mateo_blanket/sprite_success/5
 msgctxt "Mateo"
 msgid "Wow impressive! Looks like she approves of your bravery, haha!"
-msgstr ""
+msgstr "Waouh, impressionnant ! On dirait qu'elle approuve ton courage, haha !"
 
+# Traduction IA – à relire
 #: mateo_blanket/sprite_fail/0
 msgctxt "Sprite"
 msgid "Meooooooooow <w>hiss</w>"
-msgstr ""
+msgstr "Miaaaaaaaaou <w>sss</w>"
 
+# Traduction IA – à relire
 #: mateo_blanket/sprite_fail/8
 msgctxt "Mateo"
 msgid "Woah! It's ok sweetheart, I've got you."
-msgstr ""
+msgstr "Woah ! Ça va, ma puce, je suis là."
 
+# Traduction IA – à relire
 #: mateo_blanket/sprite_fail/16
 msgctxt "Mateo"
 msgid "Sorry, better luck next time."
-msgstr ""
+msgstr "Désolé, ce sera pour la prochaine fois."
 
+# Traduction IA – à relire
 #: mateo_blanket/sprite_fail/24
 msgctxt "Mateo"
 msgid "You uh, you should probably step back a little bit, just to be safe."
-msgstr ""
+msgstr "Tu devrais peut-être, euh, reculer un peu, par sécurité."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/3
 msgctxt "Mateo"
 msgid "Hey, you're back!"
-msgstr ""
+msgstr "Hé, te revoilà !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/11/b/1
 msgctxt "Mateo"
 msgid "That was fast. Did you talk to Phoenicia already?"
-msgstr ""
+msgstr "Ça a été rapide. Tu as déjà parlé à Phoenicia ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/0/s/0
 msgctxt "Choix"
 msgid "What are you talking about?"
-msgstr ""
+msgstr "De quoi tu parles ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/1/s/0
 msgctxt "Choix"
 msgid "No, not yet."
-msgstr ""
+msgstr "Non, pas encore."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/2/s/0 mateo_blanket/clueless_return2/0/17/8/3/s/0
 msgctxt "Choix"
 msgid "Nope."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/3/s/0
 msgctxt "Choix"
 msgid "I actually just wanted to check on you."
-msgstr ""
+msgstr "En fait, je voulais juste prendre de tes nouvelles."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/4/s/0
 msgctxt "Choix"
 msgid "Uh... no. Honestly. But I will!"
-msgstr ""
+msgstr "Euh... non. Franchement. Mais je vais le faire !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-1/7
 msgctxt "Mateo"
 msgid "Oh..."
-msgstr ""
+msgstr "Oh..."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-1/15
 msgctxt "Mateo"
 msgid "Look, I've actually been thinking about that, and I kinda asked a lot."
-msgstr ""
+msgstr "Écoute, j'y repensais, et je t'en ai demandé pas mal."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-1/23
 msgctxt "Mateo"
 msgid "I can ask Betty or Lyric to cover the rescue and I'll do it myself."
-msgstr ""
+msgstr "Je peux demander à Betty ou à Lyric de s'occuper du refuge et le faire moi-même."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-2/7
 msgctxt "Mateo"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-2/15
 msgctxt "Mateo"
 msgid "Y'know what, if it's too much, I've got it. I probably shouldn't have put that on you, honestly."
-msgstr ""
+msgstr "Tu sais quoi, si c'est trop, je m'en occupe. Je n'aurais sans doute pas dû te charger de ça, honnêtement."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/7
 msgctxt "Mateo"
 msgid "Ah, it's ok. Phoenicia's probably super busy anyway! She might already have too much going on to help out with this."
-msgstr ""
+msgstr "Ah, ce n'est pas grave. Phoenicia est sûrement super occupée de toute façon ! Elle a peut-être déjà trop à faire pour s'en charger."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/15 mateo_blanket/grooming_sinclaire/0/g-2/16
 msgctxt "Mateo"
 msgid "<i>...</i>"
-msgstr ""
+msgstr "<i>...</i>"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/23
 msgctxt "Mateo"
 msgid "She really does work too much, she's going to run herself into the ground if she's not careful."
-msgstr ""
+msgstr "Elle travaille vraiment trop, elle va s'épuiser si elle ne fait pas attention."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/0/s/0
 msgctxt "Choix"
 msgid "Pot to kettle!"
-msgstr ""
+msgstr "C'est l'hôpital qui se moque de la charité !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/1/s/0
 msgctxt "Choix"
 msgid "Look in the mirror?"
-msgstr ""
+msgstr "Regarde-toi dans un miroir ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-0/0
 msgctxt "Mateo"
 msgid "Hm? What'd you say?"
-msgstr ""
+msgstr "Hm ? Qu'est-ce que tu as dit ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-0/8/s/0
 msgctxt "Choix"
 msgid "Nothing just uh clearing my throat."
-msgstr ""
+msgstr "Rien, juste, euh, je me raclais la gorge."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-0/9/s/0
 msgctxt "Choix"
 msgid "I said yeah, she's going to burn herself out!"
-msgstr ""
+msgstr "J'ai dit que oui, elle va finir par craquer !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-0/c-3/7
 msgctxt "Mateo"
 msgid "I hope not. I just wish she'd take some time off."
-msgstr ""
+msgstr "J'espère que non. J'aimerais juste qu'elle prenne un peu de temps pour elle."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-1/0
 msgctxt "Mateo"
 msgid "Well thank you anyway for trying. Let me know as soon as she's able to get to it."
-msgstr ""
+msgstr "Bon, merci quand même d'avoir essayé. Dis-moi dès qu'elle pourra s'en occuper."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-1/8
 msgctxt "Mateo"
 msgid "You need anything else?"
-msgstr ""
+msgstr "Tu as besoin d'autre chose ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-1/16/0/s/0
 msgctxt "Choix"
 msgid "Nope, just gonna go check in with her!"
-msgstr ""
+msgstr "Non, je vais juste aller la voir !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-1/16/1/s/0
 msgctxt "Choix"
 msgid "Well, I also wanted to see how you were doing."
-msgstr ""
+msgstr "Eh bien, je voulais aussi voir comment tu allais."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/14/c-4/31/g-1/16/c-0/7
 msgctxt "Mateo"
 msgid "Thanks for your help, it means a lot to all of us!"
-msgstr ""
+msgstr "Merci pour ton aide, ça compte énormément pour nous tous !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/howareyou/0
 msgctxt "Mateo"
 msgid "Huh? Oh, me? I'm good!"
-msgstr ""
+msgstr "Hein ? Oh, moi ? Ça va !"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/howareyou/8/s/0
 msgctxt "Choix"
 msgid "You sure?"
-msgstr ""
+msgstr "Tu en es {{sûr|sûre|sûr·e}} ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/howareyou/9/s/0
 msgctxt "Choix"
 msgid "You look tired."
-msgstr ""
+msgstr "Tu as l'air fatigué."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/howareyou/c-5/7
 msgctxt "Mateo"
 msgid "Absolutely. One hundred percent."
-msgstr ""
+msgstr "Absolument. Cent pour cent."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/howareyou/c-5/15
 msgctxt "Mateo"
 msgid "Shorn 'uff."
-msgstr ""
+msgstr "Cent pour cent laine."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/howareyou/c-5/31
 msgctxt "Mateo"
 msgid "That was bad and I'm going to leave now."
-msgstr ""
+msgstr "C'était nul et je m'en vais maintenant."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-0/0
 msgctxt "Mateo"
 msgid "Ah well, I guess I haven't really been sleeping much with everything going on."
-msgstr ""
+msgstr "Ah, eh bien, je crois que je ne dors pas beaucoup avec tout ce qui se passe."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Worried about Davi?"
-msgstr ""
+msgstr "Tu t'inquiètes pour Davi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Waiting is hard."
-msgstr ""
+msgstr "Attendre, c'est dur."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-0/c-7/7
 msgctxt "Mateo"
 msgid "Yeah, that's part of it."
-msgstr ""
+msgstr "Oui, c'est en partie ça."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-1/0
 msgctxt "Mateo"
 msgid "If I'm being honest, I don't usually sleep much anyway."
-msgstr ""
+msgstr "Pour être honnête, je ne dors pas beaucoup d'habitude de toute façon."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-1/8
 msgctxt "Mateo"
 msgid "It's been like that for a while."
-msgstr ""
+msgstr "Ça dure depuis un moment."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Why?"
-msgstr ""
+msgstr "Pourquoi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-2/0
 msgctxt "Mateo"
 msgid "I... Umm."
-msgstr ""
+msgstr "Je... Euh."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-2/8
 msgctxt "Mateo"
 msgid "Yeah, I dunno."
-msgstr ""
+msgstr "Ouais, je ne sais pas."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-2/16
 msgctxt "Mateo"
 msgid "Just hard for me I guess."
-msgstr ""
+msgstr "C'est juste difficile pour moi, je suppose."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-2/24
 msgctxt "Mateo"
 msgid "But it's fine, I'll manage! Just don't tell Betty! I'll never hear the end of it."
-msgstr ""
+msgstr "Mais ça va, je m'en sortirai ! Ne le dis surtout pas à Betty ! Je n'en entendrais jamais la fin."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-2/35
 msgctxt "Mateo"
 msgid "I should get back to it."
-msgstr ""
+msgstr "Je ferais mieux de m'y remettre."
 
+# Traduction IA – à relire
 #: mateo_blanket/runaway_return/0/g-2/43
 msgctxt "Mateo"
 msgid "And thanks again for your help, it means a lot."
-msgstr ""
+msgstr "Et merci encore pour ton aide, ça compte beaucoup."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/9
 msgctxt "Narrator"
 msgid "Mateo tends to a group of adorable dog-like creatures, grooming them and speaking to them sweetly."
-msgstr ""
+msgstr "Mateo s'occupe d'un groupe d'adorables créatures canines, les toilettant et leur parlant avec douceur."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/14
 msgctxt "Mateo"
 msgid "Just a few more..."
-msgstr ""
+msgstr "Encore quelques-uns..."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/22
 msgctxt "Mateo"
 msgid "Annnnnnd done!"
-msgstr ""
+msgstr "Et voilàààà !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/30
 msgctxt "Mateo"
 msgid "Awww what a good girl, Damask! Que bonita!"
-msgstr ""
+msgstr "Awww quelle gentille fille, Damask ! Que bonita !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/38
 msgctxt "Mateo"
 msgid "I bet that feels better, doesn't it?"
-msgstr ""
+msgstr "Je parie que tu te sens mieux, hein ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/46
 msgctxt "Mateo"
 msgid "I know you're a knottweiler, but that snag on your tail was getting ridiculous!"
-msgstr ""
+msgstr "Je sais que tu es un rottricotteur, mais ce noeud dans ta queue devenait ridicule !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/54/s/0
 msgctxt "Choix"
 msgid "If I had a nickel for every tail I've desnagged..."
-msgstr ""
+msgstr "Si j'avais un euro pour chaque queue que j'ai désaccrochée..."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/55/s/0
 msgctxt "Choix"
 msgid "Looks like you've got your hands full."
-msgstr ""
+msgstr "On dirait que tu as les mains pleines."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/56/s/0
 msgctxt "Choix"
 msgid "Pay attention to me, bro!"
-msgstr ""
+msgstr "Fais attention à moi, frérot !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-0/0
 msgctxt "Mateo"
 msgid "Oh hey, you're here! I was hoping you'd come by."
-msgstr ""
+msgstr "Oh salut, tu es là ! J'espérais que tu passerais."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-0/8
 msgctxt "Mateo"
 msgid "I wanted to thank you for talking to Phoenicia about making that post."
-msgstr ""
+msgstr "Je voulais te remercier d'avoir parlé à Phoenicia pour ce post."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-0/16/s/0
 msgctxt "Choix"
 msgid "No problem!"
-msgstr ""
+msgstr "Pas de souci !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-0/17/s/0
 msgctxt "Choix"
 msgid "Seems like I could've done more?"
-msgstr ""
+msgstr "On dirait que j'aurais pu faire plus ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-0/18/s/0
 msgctxt "Choix"
 msgid "It's whatevs."
-msgstr ""
+msgstr "Bof, peu importe."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-0/c-4/7
 msgctxt "Mateo"
 msgid "Hey, trust me, that was a big help!"
-msgstr ""
+msgstr "Hé, crois-moi, ça nous a beaucoup aidés !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/0
 msgctxt "Mateo"
 msgid "We've already had some visitors stop by because of it."
-msgstr ""
+msgstr "On a déjà eu quelques visiteurs grâce à ça."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/8
 msgctxt "Mateo"
 msgid "I even talked to a few things who said they saw Davi recently!"
-msgstr ""
+msgstr "J'ai même parlé à quelques objets qui ont dit avoir vu Davi récemment !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/16
 msgctxt "Mateo"
 msgid "Hopefully, if we can figure out where he's been, we might be able to follow his trail and track him down."
-msgstr ""
+msgstr "Avec un peu de chance, si on arrive à savoir où il est passé, on pourra suivre sa piste et le retrouver."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/24
 msgctxt "Damask"
 msgid "Arf! Ruff ruff!"
-msgstr ""
+msgstr "Arf ! Ouaf ouaf !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/29
 msgctxt "Mateo"
 msgid "Oh, that's right, chiquita. He'll be back before you know it."
-msgstr ""
+msgstr "Oh, c'est vrai, chiquita. Il sera de retour avant que tu t'en rendes compte."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/37/s/0
 msgctxt "Choix"
 msgid "You weren't kidding about running out of space."
-msgstr ""
+msgstr "Tu ne plaisantais pas quand tu parlais de manquer de place."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/38/s/0
 msgctxt "Choix"
 msgid "So these are the cuties I've heard so much about."
-msgstr ""
+msgstr "Donc ce sont les mignons dont on m'a tant parlé."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/39/s/0
 msgctxt "Choix"
 msgid "Can we get to the next part of the quest?"
-msgstr ""
+msgstr "On peut passer à la suite de la quête ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/c-6/7
 msgctxt "Mateo"
 msgid "Nope! But we make due with what we have around here, don't we?"
-msgstr ""
+msgstr "Non ! Mais on fait avec ce qu'on a ici, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/c-6/15
 msgctxt "Narrator"
 msgid "The inanimals respond with a few happy barks."
-msgstr ""
+msgstr "Les inanimaux répondent par quelques aboiements joyeux."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/c-6/20
 msgctxt "Mateo"
 msgid "Some might call it cramped but I prefer... cozy."
-msgstr ""
+msgstr "Certains diraient que c'est à l'étroit, mais je préfère dire... douillet."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-1/c-6/28
 msgctxt "Mateo"
 msgid "And who wouldn't wanna be cozy with these munchkins?"
-msgstr ""
+msgstr "Et qui ne voudrait pas se blottir avec ces petits bouts ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/0
 msgctxt "Mateo"
 msgid "You've caught us in the middle of a grooming day."
-msgstr ""
+msgstr "Tu nous surprends en plein jour de toilettage."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/8
 msgctxt "Mateo"
 msgid "Everyone's been a little stressed waiting for Davi to come back, so I thought a bit of pampering would do us all some good."
-msgstr ""
+msgstr "Tout le monde est un peu stressé à attendre le retour de Davi, alors j'ai pensé qu'un peu de chouchoutage nous ferait du bien à tous."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/16/s/0
 msgctxt "Choix"
 msgid "Great plan! I'll let you get to it."
-msgstr ""
+msgstr "Super idée ! Je te laisse t'y mettre."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/17/s/0
 msgctxt "Choix"
 msgid "And who gets to pamper you?"
-msgstr ""
+msgstr "Et qui te chouchoute, toi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/7
 msgctxt "Mateo"
 msgid "Me?"
-msgstr ""
+msgstr "Moi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/15
 msgctxt "Mateo"
 msgid "Uhh well, I hadn't really thought about it."
-msgstr ""
+msgstr "Euh bon, je n'y avais pas vraiment pensé."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/23
 msgctxt "Mateo"
 msgid "As long as these guys are happy, I'm happy."
-msgstr ""
+msgstr "Tant que ces petits sont heureux, je suis heureux."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/31
 msgctxt "Mateo"
 msgid "That's really all the pampering I need!"
-msgstr ""
+msgstr "C'est vraiment tout le chouchoutage dont j'ai besoin !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/0/s/0
 msgctxt "Choix"
 msgid "Come on, there has to be something you'd like to do for yourself."
-msgstr ""
+msgstr "Allez, il doit bien y avoir quelque chose que tu aimerais faire pour toi."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/1/s/0
 msgctxt "Choix"
 msgid "How 'bout you let me pamper you? Like on a date?"
-msgstr ""
+msgstr "Et si tu me laissais te chouchouter ? Genre un rendez-vous ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/7
 msgctxt "Mateo"
 msgid "Most of my to-do list involves managing the rescue and looking after everyone here."
-msgstr ""
+msgstr "Presque toute ma liste de choses à faire consiste à gérer le refuge et à m'occuper de tout le monde ici."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/15
 msgctxt "Mateo"
 msgid "Dooooes... that count?"
-msgstr ""
+msgstr "Çaaaa... compte ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Sounds like you're a workaholic."
-msgstr ""
+msgstr "On dirait que tu es un bourreau de travail."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/7
 msgctxt "Mateo"
 msgid "Yeah, you're probably right."
-msgstr ""
+msgstr "Oui, tu as probablement raison."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/15
 msgctxt "Mateo"
 msgid "But you know, do what you love and you'll never work a day in your life."
-msgstr ""
+msgstr "Mais bon, tu sais, fais ce que tu aimes et tu n'auras plus jamais l'impression de travailler."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "More like, 'do what you love and you'll work every second of every day of your life'."
-msgstr ""
+msgstr "Plutôt : « fais ce que tu aimes et tu travailleras chaque seconde de chaque jour de ta vie »."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "I guess that's true, I wouldn't really know."
-msgstr ""
+msgstr "Je suppose que c'est vrai, je ne saurais pas trop."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-0/7
 msgctxt "Mateo"
 msgid "I've never heard that before! I like it."
-msgstr ""
+msgstr "Je ne l'avais jamais entendue ! J'aime bien."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-0/15
 msgctxt "Mateo"
 msgid "But I can't just up and leave. I'm responsible for these guys."
-msgstr ""
+msgstr "Mais je ne peux pas tout plaquer comme ça. Je suis responsable de ces petits."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-0/23
 msgctxt "Mateo"
 msgid "And honestly, I'm not really sure I'd know what to do with myself if I wasn't doing this."
-msgstr ""
+msgstr "Et honnêtement, je ne suis pas sûr de savoir quoi faire de moi si je ne faisais pas ça."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-1/7
 msgctxt "Mateo"
 msgid "You don't enjoy your job?"
-msgstr ""
+msgstr "Tu n'aimes pas ton travail ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Not really, but it pays me, so that's good."
-msgstr ""
+msgstr "Pas vraiment, mais il me fait vivre, c'est déjà bien."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "I was replaced by AI. It's... not as bad as I thought."
-msgstr ""
+msgstr "J'ai été {{remplacé|remplacée|remplacé·e}} par une IA. C'est... moins grave que je le pensais."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-1/15/g-0/0
 msgctxt "Mateo"
 msgid "I can't imagine doing anything else."
-msgstr ""
+msgstr "Je ne me vois pas faire autre chose."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-1/15/g-0/8
 msgctxt "Mateo"
 msgid "I get to spend all day, every day helping things that really need it."
-msgstr ""
+msgstr "Je passe mes journées, tous les jours, à aider des êtres qui en ont vraiment besoin."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-1/15/g-0/16
 msgctxt "Mateo"
 msgid "That's worth a few sleepless nights for me."
-msgstr ""
+msgstr "Ça vaut bien quelques nuits blanches pour moi."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-0/23/c-0/23/c-1/15/g-0/24/0/s/0
 msgctxt "Choix"
 msgid "I'll leave you to it, then."
-msgstr ""
+msgstr "Alors je te laisse à ton travail."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-1/7
 msgctxt "Narrator"
 msgid "Mateo's eyes widen as realization dawns on him very slowly."
-msgstr ""
+msgstr "Les yeux de Mateo s'écarquillent tandis que la réalisation se fait jour en lui, très lentement."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-1/15
 msgctxt "Mateo"
 msgid "Oh? <i>Oh</i>. Ooooh."
-msgstr ""
+msgstr "Oh ? <i>Oh</i>. Ooooh."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-1/26
 msgctxt "Mateo"
 msgid "I-I'm flattered, really. And you do seem great, but the rescue keeps me pretty busy as it is."
-msgstr ""
+msgstr "J-je suis flatté, vraiment. Et tu as l'air génial, mais le refuge m'occupe déjà beaucoup."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-1/34
 msgctxt "Mateo"
 msgid "And until I find Davi, I just don't think I'd have time for anything like that."
-msgstr ""
+msgstr "Et tant que je n'aurai pas retrouvé Davi, je ne crois pas que j'aurai le temps pour quoi que ce soit de ce genre."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-1/42
 msgctxt "Mateo"
 msgid "I wouldn't say no to some friendly company though, if you felt like sticking around?"
-msgstr ""
+msgstr "Je ne dirais pas non à un peu de compagnie amicale, par contre, si tu as envie de rester ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-1/50/0/s/0
 msgctxt "Choix"
 msgid "I should probably get going."
-msgstr ""
+msgstr "Je devrais probablement y aller."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-2/c-10/39/c-1/50/c-0/7
 msgctxt "Mateo"
 msgid "Oh that's a shame!"
-msgstr ""
+msgstr "Oh, quel dommage !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/3
 msgctxt "Mateo"
 msgid "Well before you go, I wanted to ask you something."
-msgstr ""
+msgstr "Bon, avant que tu partes, je voulais te demander quelque chose."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/11/0
 msgctxt "Mateo"
 msgid "You did such a good job with the Placebook post, I was hoping you might want to help me follow up on some of the leads we've gotten."
-msgstr ""
+msgstr "Tu as fait du super boulot avec le post Placebook, j'espérais que tu voudrais bien m'aider à donner suite à certaines des pistes qu'on a reçues."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/11/8
 msgctxt "Mateo"
 msgid "It would take me a while to get through them all myself, and I really don't like leaving the inanimals alone for that long."
-msgstr ""
+msgstr "Ça me prendrait un moment de toutes les traiter tout seul, et je n'aime vraiment pas laisser les inanimaux seuls aussi longtemps."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/11/16/s/0
 msgctxt "Choix"
 msgid "Yeah, of course."
-msgstr ""
+msgstr "Oui, bien sûr."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/11/17/s/0
 msgctxt "Choix"
 msgid "If I have time."
-msgstr ""
+msgstr "Si j'ai le temps."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/11/18/s/0
 msgctxt "Choix"
 msgid "I'm all over it!"
-msgstr ""
+msgstr "Je m'en occupe !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/11/19/s/0
 msgctxt "Choix"
 msgid "Okay just tell me already."
-msgstr ""
+msgstr "D'accord, dis-moi tout, maintenant."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-3/11/c-12/7
 msgctxt "Mateo"
 msgid "I really appreciate it if you could!"
-msgstr ""
+msgstr "Je t'en serais vraiment reconnaissant !"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-4/0
 msgctxt "Mateo"
 msgid "All right... The first one I have is from Hoove."
-msgstr ""
+msgstr "Bon... La première que j'ai vient de Hoove."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-4/20
 msgctxt "Mateo"
 msgid "He said he saw Davi sniffing around the laundry room a few days ago, right around the time he first went missing."
-msgstr ""
+msgstr "Il dit avoir vu Davi renifler du côté de la buanderie il y a quelques jours, juste au moment où il a disparu pour la première fois."
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-4/28
 msgctxt "Mateo"
 msgid "Let me know if you find anything, ok?"
-msgstr ""
+msgstr "Dis-moi si tu trouves quelque chose, d'accord ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/rescue_me/0/g-4/36
 msgctxt "Mateo"
 msgid "And really, thanks for helping out."
-msgstr ""
+msgstr "Et vraiment, merci de ton aide."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/8 mateo_blanket/clueless_return2/0/0 mateo_blanket/clueless_return3/0/0
 msgctxt "Mateo"
 msgid "Hey, you're back! That was fast, any news on Davi?"
-msgstr ""
+msgstr "Hé, te revoilà ! Déjà ? Des nouvelles de Davi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/16
 msgctxt "Mateo"
 msgid "Were you able to check out that lead from Hoove?"
-msgstr ""
+msgstr "Tu as pu vérifier la piste de Hoove ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/0/s/0
 msgctxt "Choix"
 msgid "Yeah, I took a look but no luck yet. Did Hoove say anything else?"
-msgstr ""
+msgstr "Oui, j'ai jeté un oeil mais sans succès pour l'instant. Hoove a dit autre chose ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/1/s/0
 msgctxt "Choix"
 msgid "Not yet, can you remind me what Hoove told you?"
-msgstr ""
+msgstr "Pas encore, tu peux me rappeler ce que Hoove t'a dit ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/2/s/0 mateo_blanket/clueless_return2/0/17/8/2/s/0
 msgctxt "Choix"
 msgid "Actually, I wanted to check on you and the inanimals. How is everyone holding up?"
-msgstr ""
+msgstr "En fait, je voulais voir comment vont toi et les inanimaux. Comment tout le monde tient le coup ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/3/s/0 mateo_blanket/clueless_return2/0/17/8/4/s/0 mateo_blanket/clueless_return3/0/17/8/3/s/0
 msgctxt "Choix"
 msgid "On my way to do that right now!"
-msgstr ""
+msgstr "J'y vais de ce pas !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/4/s/0
 msgctxt "Choix"
 msgid "Nah. Not yet."
-msgstr ""
+msgstr "Non. Pas encore."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-0/11
 msgctxt "Mateo"
 msgid "Not much, just that he saw Davi sniffing around Harper's corner in the laundry room."
-msgstr ""
+msgstr "Pas grand-chose, juste qu'il a vu Davi renifler dans le coin de Harper, dans la buanderie."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-1/11
 msgctxt "Mateo"
 msgid "Just that he saw Davi sniffing around Harper's corner in the laundry room."
-msgstr ""
+msgstr "Juste qu'il a vu Davi renifler dans le coin de Harper, dans la buanderie."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/7
 msgctxt "Mateo"
 msgid "About as well as you'd expect."
-msgstr ""
+msgstr "À peu près comme tu t'en doutes."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/15 mateo_blanket/clueless_return2/0/17/8/c-2/15
 msgctxt "Mateo"
 msgid "I think the nerves are starting to get to all of us."
-msgstr ""
+msgstr "Je crois que les nerfs commencent à lâcher chez nous tous."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/23 mateo_blanket/clueless_return2/0/17/8/c-2/23
 msgctxt "Mateo"
 msgid "If you wanted to stick around for a bit, I'm sure they'd really enjoy the company!"
-msgstr ""
+msgstr "Si tu veux rester un moment, je suis sûr qu'ils apprécieraient ta compagnie !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/31/0/s/0 mateo_blanket/clueless_return2/0/17/8/c-2/31/0/s/0
 msgctxt "Choix"
 msgid "Nowhere else I'd rather be."
-msgstr ""
+msgstr "Je ne voudrais être nulle part ailleurs."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/31/1/s/0
 msgctxt "Choix"
 msgid "I would, but I should get back to the search."
-msgstr ""
+msgstr "Avec plaisir, mais je dois retourner à la recherche."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/31/c-0/7 mateo_blanket/clueless_return2/0/17/8/c-2/31/c-0/7
 msgctxt "Mateo"
 msgid "Well that makes two of us then."
-msgstr ""
+msgstr "Alors on est deux."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/31/c-0/15 mateo_blanket/clueless_return2/0/17/8/c-2/31/c-0/15
 msgctxt "Mateo"
 msgid "You can say hi to whoever you like - don't let me stop you!"
-msgstr ""
+msgstr "Dis bonjour à qui tu veux, ne te gêne pas pour moi !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/31/c-1/7 mateo_blanket/clueless_return2/0/17/8/c-2/31/c-1/7 mateo_blanket/clueless_return3/0/17/8/c-2/31/c-1/7
 msgctxt "Mateo"
 msgid "Of course!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/25/8/c-2/31/c-1/15 mateo_blanket/clueless_return2/0/17/8/c-2/31/c-1/15
 msgctxt "Mateo"
 msgid "Thanks for checking on us. Let me know if you find anything, ok?"
-msgstr ""
+msgstr "Merci de prendre de nos nouvelles. Dis-moi si tu trouves quelque chose, d'accord ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return/0/g-0/0
 msgctxt "Mateo"
 msgid "Thanks for looking into it for me. I've been out so much lately trying to find Davi, it's been hard on the rest of the inanimals."
-msgstr ""
+msgstr "Merci de t'en occuper pour moi. Je suis tellement sorti ces derniers temps pour chercher Davi, c'est dur pour les autres inanimaux."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return2/0/8
 msgctxt "Mateo"
 msgid "Were you able to check out that lead from Telly?"
-msgstr ""
+msgstr "Tu as pu vérifier la piste de Telly ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return2/0/17/8/0/s/0
 msgctxt "Choix"
 msgid "Yeah, I took a look but no luck yet. Did Telly say anything else?"
-msgstr ""
+msgstr "Oui, j'ai jeté un oeil mais sans succès pour l'instant. Telly a dit autre chose ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return2/0/17/8/1/s/0
 msgctxt "Choix"
 msgid "Not yet, can you remind me what Telly told you?"
-msgstr ""
+msgstr "Pas encore, tu peux me rappeler ce que Telly t'a dit ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return2/0/17/8/c-0/7 mateo_blanket/clueless_return2/0/17/8/c-1/7
 msgctxt "Mateo"
 msgid "Not much, just that they were chasing Davi out of Connie's cords not long after Hoove saw him in the laundry."
-msgstr ""
+msgstr "Pas grand-chose, juste qu'il courait après Davi hors des câbles de Connie, peu après que Hoove l'a vu dans la buanderie."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return2/0/17/8/c-2/7
 msgctxt "Mateo"
 msgid "...about as well as you'd expect."
-msgstr ""
+msgstr "...à peu près comme tu t'en doutes."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return2/0/17/8/c-2/31/1/s/0
 msgctxt "Choix"
 msgid "Not right now; I'm going to keep looking!"
-msgstr ""
+msgstr "Pas maintenant ; je continue à chercher !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return2/0/17/8/c-4/7
 msgctxt "Mateo"
 msgid "Sounds great. I'll be here, if you find anything!"
-msgstr ""
+msgstr "Parfait. Je serai ici si tu trouves quelque chose !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/8
 msgctxt "Mateo"
 msgid "Were you able to check out that lead from Shelley and Stepford?"
-msgstr ""
+msgstr "Tu as pu vérifier la piste de Shelley et Stepford ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/0/s/0
 msgctxt "Choix"
 msgid "Yeah, I took a look but no luck yet. Did Shelley and Stepford say anything else?"
-msgstr ""
+msgstr "Oui, j'ai jeté un oeil mais sans succès pour l'instant. Shelley et Stepford ont dit autre chose ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/1/s/0
 msgctxt "Choix"
 msgid "Not yet, can you remind me what Shelley and Stepford told you?"
-msgstr ""
+msgstr "Pas encore, tu peux me rappeler ce que Shelley et Stepford t'ont dit ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/2/s/0
 msgctxt "Choix"
 msgid "Actually, I wanted to check on you folks! How are you doing?"
-msgstr ""
+msgstr "En fait, je voulais prendre de vos nouvelles à tous ! Comment ça va ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-0/7
 msgctxt "Mateo"
 msgid "Not much, just that they heard some rustling around in the gym closet, but apparently they were in the middle of a set and couldn't stop to check it out."
-msgstr ""
+msgstr "Pas grand-chose, juste qu'ils ont entendu des bruissements dans le placard de la salle de sport, mais ils étaient en pleine série et n'ont pas pu s'arrêter pour aller voir."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-1/7
 msgctxt "Mateo"
 msgid "Just that they heard some rustling around in the gym closet, but apparently they were in the middle of a set and couldn't stop to check it out"
-msgstr ""
+msgstr "Juste qu'ils ont entendu des bruissements dans le placard de la salle de sport, mais ils étaient en pleine série et n'ont pas pu s'arrêter pour aller voir"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/7
 msgctxt "Mateo"
 msgid "...ok? I guess?"
-msgstr ""
+msgstr "...d'accord ? Je suppose ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/15
 msgctxt "Mateo"
 msgid "We're all a little tired, I think."
-msgstr ""
+msgstr "On est tous un peu fatigués, je crois."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/23
 msgctxt "Mateo"
 msgid "You'd be a big boost if you wanted to hang out for a while!"
-msgstr ""
+msgstr "Ça nous remonterait vraiment le moral si tu restais un moment !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/31/0/s/0
 msgctxt "Choix"
 msgid "You got it!"
-msgstr ""
+msgstr "Avec plaisir !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/31/1/s/0
 msgctxt "Choix"
 msgid "Nope! Gonna get back to the search!"
-msgstr ""
+msgstr "Non ! Je retourne à la recherche !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/31/c-0/7
 msgctxt "Mateo"
 msgid "Excellent!"
-msgstr ""
+msgstr "Excellent !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/31/c-0/15
 msgctxt "Mateo"
 msgid "Make yourself at home."
-msgstr ""
+msgstr "Fais comme chez toi."
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-2/31/c-1/15
 msgctxt "Mateo"
 msgid "Love the initiative. Thanks for your help!"
-msgstr ""
+msgstr "J'adore ton initiative. Merci pour ton aide !"
 
+# Traduction IA – à relire
 #: mateo_blanket/clueless_return3/0/17/8/c-3/7
 msgctxt "Mateo"
 msgid "Awesome! We're all really ready for Davi to come home."
-msgstr ""
+msgstr "Génial ! On a tous hâte que Davi rentre à la maison."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/21
 msgctxt "Betty"
 msgid "I'm so sorry, Matito."
-msgstr ""
+msgstr "Je suis vraiment désolée, Matito."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/29
 msgctxt "Betty"
 msgid "I know how much Davi means to you."
-msgstr ""
+msgstr "Je sais à quel point Davi compte pour toi."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/37
 msgctxt "Mateo"
 msgid "Thanks Betty. And you're sure you haven't seen him in the bedroom anywhere lately?"
-msgstr ""
+msgstr "Merci Betty. Et tu es sûre que tu ne l'as pas vu dans la chambre ces derniers temps ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/45
 msgctxt "Mateo"
 msgid "Maybe he fell behind the nightstand or got stuck in the closet or something?"
-msgstr ""
+msgstr "Il est peut-être tombé derrière la table de nuit ou resté coincé dans le placard, ou je ne sais quoi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/53
 msgctxt "Betty"
 msgid "I can check again, but I haven't seen him since I caught him hiding my pillows last week."
-msgstr ""
+msgstr "Je peux vérifier à nouveau, mais je ne l'ai pas revu depuis la fois où je l'ai surpris en train de cacher mes oreillers la semaine dernière."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/61
 msgctxt "Mateo"
 msgid "Well you know it's just because he likes you so much."
-msgstr ""
+msgstr "Tu sais, c'est juste parce qu'il t'aime beaucoup."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/69
 msgctxt "Betty"
 msgid "Oh, is that all? I'll remember that for next time."
-msgstr ""
+msgstr "Oh, c'est tout ? Je m'en souviendrai la prochaine fois."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/85
 msgctxt "Mateo"
 msgid "There <i>is</i> going to be a next time... right?"
-msgstr ""
+msgstr "Il y <i>aura</i> une prochaine fois... n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/96
 msgctxt "Betty"
 msgid "Of course there is, sweetheart."
-msgstr ""
+msgstr "Bien sûr que oui, mon chéri."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/104
 msgctxt "Betty"
 msgid "In the meantime, I'll ask around the bedroom and let you know if I hear anything."
-msgstr ""
+msgstr "En attendant, je vais me renseigner dans la chambre et je te dirai si j'entends quoi que ce soit."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/115
 msgctxt "Mateo"
 msgid "You're the best."
-msgstr ""
+msgstr "Tu es la meilleure."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/123/s/0
 msgctxt "Choix"
 msgid "Still no luck?"
-msgstr ""
+msgstr "Toujours pas de chance ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/124/s/0
 msgctxt "Choix"
 msgid "Did Betty find anything?"
-msgstr ""
+msgstr "Betty a trouvé quelque chose ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/125/s/0
 msgctxt "Choix"
 msgid "I am the best."
-msgstr ""
+msgstr "Je suis {{le meilleur|la meilleure|le·la meilleur·e}}."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/0
 msgctxt "Mateo"
 msgid "No, unfortunately."
-msgstr ""
+msgstr "Non, malheureusement."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/8
 msgctxt "Mateo"
 msgid "What about you?"
-msgstr ""
+msgstr "Et toi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/16/0
 msgctxt "Mateo"
 msgid "Were you able to check out the bathroom? Any sign of Davi?"
-msgstr ""
+msgstr "Tu as pu jeter un oeil à la salle de bains ? Un signe de Davi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/16/8/s/0
 msgctxt "Choix"
 msgid "Yeah, you could say that."
-msgstr ""
+msgstr "Oui, on peut dire ça."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/16/9/s/0
 msgctxt "Choix"
 msgid "Not the bathroom, actually..."
-msgstr ""
+msgstr "Pas dans la salle de bains, en fait..."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/16/10/s/0
 msgctxt "Choix"
 msgid "I found this."
-msgstr ""
+msgstr "J'ai trouvé ça."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/16/11/s/0
 msgctxt "Choix"
 msgid "That's not all I found."
-msgstr ""
+msgstr "Ce n'est pas tout ce que j'ai trouvé."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/16/12/s/0
 msgctxt "Choix"
 msgid "It was caught on something next to this."
-msgstr ""
+msgstr "C'était accroché à quelque chose, à côté de ça."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-0/16/c-5/18
 msgctxt "Mateo"
 msgid "That's one of Davi's threads!"
-msgstr ""
+msgstr "C'est un des fils de Davi !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/0
 msgctxt "Mateo"
 msgid "A pythorn!"
-msgstr ""
+msgstr "Un pythorn !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/8
 msgctxt "Pythorn"
 msgid "Hissss"
-msgstr ""
+msgstr "Sssss"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/13
 msgctxt "Mateo"
 msgid "Look at you, what a beauty!"
-msgstr ""
+msgstr "Regarde-toi, quelle beauté !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/24
 msgctxt "Mateo"
 msgid "Leave it to Davi to be wandering around just making friends this whole time."
-msgstr ""
+msgstr "Ça ne m'étonne pas de Davi, de se balader en se faisant des amis pendant tout ce temps."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/32
 msgctxt "Mateo"
 msgid "Welcome to the rescue little guy. What should we call you, hm?"
-msgstr ""
+msgstr "Bienvenue au refuge, petit bonhomme. Comment on va t'appeler, hm ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/40 mateo_blanket/friendship_ending/0/g-1/32
 msgctxt "Mateo"
 msgid "What do you think?"
-msgstr ""
+msgstr "Qu'est-ce que tu en penses ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/48/s/0
 msgctxt "Choix"
 msgid "Something poetic."
-msgstr ""
+msgstr "Quelque chose de poétique."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/49/s/0
 msgctxt "Choix"
 msgid "Something badass."
-msgstr ""
+msgstr "Quelque chose de badass."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/50/s/0
 msgctxt "Choix"
 msgid "Something cute."
-msgstr ""
+msgstr "Quelque chose de mignon."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/c-8/7
 msgctxt "Mateo"
 msgid "Poetic huh? Are you a soulful little pythorn?"
-msgstr ""
+msgstr "Poétique, hein ? Tu es un petit pythorn plein d'âme ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/c-8/15
 msgctxt "Mateo"
 msgid "How about Lilac?"
-msgstr ""
+msgstr "Que dirais-tu de Lilas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/c-9/7
 msgctxt "Mateo"
 msgid "Ahh of course, of course. You're obviously a hardcore little pythorn, aren't you?"
-msgstr ""
+msgstr "Ahh bien sûr, bien sûr. Tu es de toute évidence un petit pythorn hardcore, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/c-9/15
 msgctxt "Mateo"
 msgid "How about Belladonna?"
-msgstr ""
+msgstr "Que dirais-tu de Belladone ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/c-10/7
 msgctxt "Mateo"
 msgid "Well it would have to be, wouldn't it? For such a cute little pythorn!"
-msgstr ""
+msgstr "Eh bien il le faut bien, non ? Pour un si mignon petit pythorn !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-1/c-10/15
 msgctxt "Mateo"
 msgid "How about Clover?"
-msgstr ""
+msgstr "Que dirais-tu de Trèfle ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/0
 msgctxt "Mateo"
 msgid "Well if the thread was still there, Davi couldn't have been there that long ago, right?"
-msgstr ""
+msgstr "Enfin, si le fil était encore là, Davi ne peut pas être passé il y a si longtemps, non ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/8
 msgctxt "Mateo"
 msgid "This is great! We should focus on the rooms downstairs!"
-msgstr ""
+msgstr "C'est super ! On devrait se concentrer sur les pièces du rez-de-chaussée !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/16
 msgctxt "Mateo"
 msgid "One of the responses to the Placebook post was from Telly. Apparently, Davi got caught up in Connie's cords not long after Hoove saw him in the laundry room."
-msgstr ""
+msgstr "Une des réponses au post Placebook venait de Telly. Apparemment, Davi s'est retrouvé pris dans les câbles de Connie peu après que Hoove l'a vu dans la buanderie."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/27
 msgctxt "Mateo"
 msgid "Telly said they lost track of him but they're still untangling things so he could be stuck back there somewhere."
-msgstr ""
+msgstr "Telly dit l'avoir perdu de vue, mais ils sont encore en train de démêler tout ça, donc il est peut-être coincé là-bas quelque part."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/47
 msgctxt "Mateo"
 msgid "Can you go check it out?"
-msgstr ""
+msgstr "Tu peux aller voir ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/55/s/0
 msgctxt "Choix"
 msgid "I'm on it!"
-msgstr ""
+msgstr "Je m'en occupe !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/56/s/0
 msgctxt "Choix"
 msgid "When I have a chance, sure."
-msgstr ""
+msgstr "Quand j'aurai un moment, d'accord."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-2/c-11/7
 msgctxt "Mateo"
 msgid "Finally some good news."
-msgstr ""
+msgstr "Enfin une bonne nouvelle."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-3/0
 msgctxt "Mateo"
 msgid "Hang on Davi, we're coming buddy!"
-msgstr ""
+msgstr "Tiens bon Davi, on arrive, mon grand !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-3/8/b/1
 msgctxt "Mateo"
 msgid "Come on now, Lilac."
-msgstr ""
+msgstr "Allez, viens, Lilas."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-3/9/b/1
 msgctxt "Mateo"
 msgid "Come on now, Belladonna."
-msgstr ""
+msgstr "Allez, viens, Belladone."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues/0/g-3/10/b/1
 msgctxt "Mateo"
 msgid "Come on now, Clover."
-msgstr ""
+msgstr "Allez, viens, Trèfle."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/21/b/1
 msgctxt "Narrator"
 msgid "When you find Mateo next, he has a visitor - some sort of mer-book-man."
-msgstr ""
+msgstr "Quand vous retrouvez Mateo, il a de la visite : une sorte de tritolivre."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/22/b/1
 msgctxt "Narrator"
 msgid "When you find Mateo next, he has a visitor - none other than Lyric Literature."
-msgstr ""
+msgstr "Quand vous retrouvez Mateo, il a de la visite : nul autre que Lyric Literature."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/25
 msgctxt "Lyric"
 msgid "Mateo... is he still missing?"
-msgstr ""
+msgstr "Mateo... il a toujours disparu ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/36
 msgctxt "Mateo"
 msgid "Yeah, it's been days."
-msgstr ""
+msgstr "Oui, ça fait des jours."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/44
 msgctxt "Mateo"
 msgid "We found one of his threads in the bathroom, but there hasn't been another sign of him yet."
-msgstr ""
+msgstr "On a trouvé un de ses fils dans la salle de bains, mais aucun autre signe de lui pour l'instant."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/52
 msgctxt "Mateo"
 msgid "Do you think he might have gone back there? Maybe I should go check again-"
-msgstr ""
+msgstr "Tu crois qu'il y est peut-être retourné ? Je devrais peut-être aller revérifier-"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/60
 msgctxt "Lyric"
 msgid "I ran into Amir on my way over. There's no sign of him in either bathroom."
-msgstr ""
+msgstr "J'ai croisé Amir en venant. Il n'y a aucune trace de lui dans les deux salles de bains."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/71
 msgctxt "Lyric"
 msgid "I'm sorry Mateo."
-msgstr ""
+msgstr "Je suis désolé, Mateo."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/79
 msgctxt "Mateo"
 msgid "I just know something's wrong. He's never been gone this long."
-msgstr ""
+msgstr "Je sais que quelque chose ne va pas. Il n'a jamais été absent aussi longtemps."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/87
 msgctxt "Mateo"
 msgid "What if he got caught on something? He's already lost one of his threads. What if he unraveled? What if-"
-msgstr ""
+msgstr "Et s'il s'était pris dans quelque chose ? Il a déjà perdu un de ses fils. Et s'il s'était détricoté ? Et si-"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/95/s/0
 msgctxt "Choix"
 msgid "Mateo, breathe. We're going to find him, okay?"
-msgstr ""
+msgstr "Mateo, respire. On va le retrouver, d'accord ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/96/s/0
 msgctxt "Choix"
 msgid "He died? Things can't die. It's all good."
-msgstr ""
+msgstr "Il est mort ? Les objets ne peuvent pas mourir. Tout va bien."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/c-0/7
 msgctxt "Mateo"
 msgid "And if we don't?"
-msgstr ""
+msgstr "Et si on n'y arrive pas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/8
 msgctxt "Mateo"
 msgid "Lyric I..."
-msgstr ""
+msgstr "Lyric, je..."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/16
 msgctxt "Mateo"
 msgid "I can't go through this again."
-msgstr ""
+msgstr "Je ne peux pas revivre ça."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/27/b/1
 msgctxt "Lyric"
 msgid "We won't have to. Now that the human is able to speak with us I'm sure he'll be able to help even better than we can."
-msgstr ""
+msgstr "Tu n'auras pas à le revivre. Maintenant que l'humain peut nous parler, je suis sûr qu'il saura nous aider encore mieux que nous."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/28/b/1
 msgctxt "Lyric"
 msgid "We won't have to. Now that the human is able to speak with us I'm sure she'll be able to help even better than we can."
-msgstr ""
+msgstr "Tu n'auras pas à le revivre. Maintenant que l'humaine peut nous parler, je suis sûr qu'elle saura nous aider encore mieux que nous."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/29/b/1
 msgctxt "Lyric"
 msgid "We won't have to. Now that the human is able to speak with us I'm sure they'll be able to help even better than we can."
-msgstr ""
+msgstr "Tu n'auras pas à le revivre. Maintenant que l'humain·e peut nous parler, je suis sûr qu'iel saura nous aider encore mieux que nous."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/32
 msgctxt "Mateo"
 msgid "...thanks Lyric."
-msgstr ""
+msgstr "...merci Lyric."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/40
 msgctxt "Mateo"
 msgid "I'll run through the list of leads again."
-msgstr ""
+msgstr "Je vais repasser en revue la liste des pistes."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/48
 msgctxt "Lyric"
 msgid "We're gonna find him."
-msgstr ""
+msgstr "On va le retrouver."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/56
 msgctxt "Lyric"
 msgid "Chin up, my snuggle-buddy."
-msgstr ""
+msgstr "Courage, mon pote câlin."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/82/s/0
 msgctxt "Choix"
 msgid "Anything from Lyric?"
-msgstr ""
+msgstr "Du nouveau du côté de Lyric ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/83/s/0
 msgctxt "Choix"
 msgid "Did any of your leads pan out?"
-msgstr ""
+msgstr "Une de tes pistes a donné quelque chose ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-0/84/s/0
 msgctxt "Choix"
 msgid "Um hello? I'm here?"
-msgstr ""
+msgstr "Euh bonjour ? Je suis là ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-1/0
 msgctxt "Mateo"
 msgid "Nope, another bust."
-msgstr ""
+msgstr "Non, encore un flop."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-1/8
 msgctxt "Mateo"
 msgid "And that list is only getting shorter..."
-msgstr ""
+msgstr "Et cette liste ne fait que raccourcir..."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Well, this little guy should cheer you up."
-msgstr ""
+msgstr "Eh bien, ce petit bonhomme devrait te remonter le moral."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/umhello/3
 msgctxt "Mateo"
 msgid "Another one of Davi's threads?"
-msgstr ""
+msgstr "Encore un des fils de Davi ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/umhello/11
 msgctxt "Mateo"
 msgid "What in the chenille is going on with him?"
-msgstr ""
+msgstr "Mais qu'est-ce qui se trame avec lui ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/umhello/19/s/0
 msgctxt "Choix"
 msgid "I think he's leaving them on purpose."
-msgstr ""
+msgstr "Je pense qu'il les laisse exprès."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/umhello/20/s/0
 msgctxt "Choix"
 msgid "Whatever it is, it's definitely deliberate."
-msgstr ""
+msgstr "Quoi que ce soit, c'est clairement délibéré."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-2/0
 msgctxt "Mateo"
 msgid "What makes you say that?"
-msgstr ""
+msgstr "Qu'est-ce qui te fait dire ça ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "There was something else with the thread."
-msgstr ""
+msgstr "Il y avait autre chose avec le fil."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "Looks like Davi made another friend."
-msgstr ""
+msgstr "On dirait que Davi s'est fait un autre ami."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-3/0
 msgctxt "Springtail"
 msgid "<i>chitters</i>"
-msgstr ""
+msgstr "<i>stridule</i>"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-3/5
 msgctxt "Mateo"
 msgid "A springtail?! Do you know how tough these little guys are to catch?"
-msgstr ""
+msgstr "Une queue-de-printemps ?! Tu sais à quel point ces petits sont difficiles à attraper ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-3/13
 msgctxt "Mateo"
 msgid "That's impressive!"
-msgstr ""
+msgstr "C'est impressionnant !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-3/21/s/0
 msgctxt "Choix"
 msgid "Davi did all the work, I just showed up."
-msgstr ""
+msgstr "C'est Davi qui a fait tout le travail, je me suis juste {{pointé|pointée|pointé·e}}."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-3/22/s/0
 msgctxt "Choix"
 msgid "Ahhh I'd call it more luck than anything."
-msgstr ""
+msgstr "Ahhh je dirais que c'est plus de la chance qu'autre chose."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/0
 msgctxt "Mateo"
 msgid "Give yourself some credit, handling inanimals can be tricky. And it looks like you have a knack for it!"
-msgstr ""
+msgstr "Ne te sous-estime pas, manipuler des inanimaux, ce n'est pas simple. Et on dirait que tu as le coup de main !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/8
 msgctxt "Mateo"
 msgid "Now, what should we call you? Hrmmm."
-msgstr ""
+msgstr "Bon, comment va-t-on t'appeler ? Hmmm."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/16/s/0
 msgctxt "Choix"
 msgid "Something artsy."
-msgstr ""
+msgstr "Quelque chose d'artistique."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/17/s/0
 msgctxt "Choix"
 msgid "Something punny."
-msgstr ""
+msgstr "Quelque chose avec un jeu de mots."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/18/s/0
 msgctxt "Choix"
 msgid "Something mechanical."
-msgstr ""
+msgstr "Quelque chose de mécanique."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/c-12/7
 msgctxt "Mateo"
 msgid "I can definitely see that in this one! I'll go with... Cielo."
-msgstr ""
+msgstr "Je vois tout à fait ça chez lui ! Je vais choisir... Cielo."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/c-13/7
 msgctxt "Mateo"
 msgid "Who doesn't love a good pun? You definitely look like a little jokester to me."
-msgstr ""
+msgstr "Qui n'aime pas un bon jeu de mots ? Tu as vraiment une tête de petit farceur."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/c-13/15
 msgctxt "Mateo"
 msgid "Well since you're already a <i>Spring</i> tail, how about Summer?"
-msgstr ""
+msgstr "Eh bien puisque tu es déjà une queue-de-<i>printemps</i>, que dirais-tu d'Été ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/c-14/7
 msgctxt "Mateo"
 msgid "Mechanical huh? Unconventional but appropriate, I like it!"
-msgstr ""
+msgstr "Mécanique, hein ? Original mais approprié, j'aime bien !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-4/c-14/15
 msgctxt "Mateo"
 msgid "How about Bolt?"
-msgstr ""
+msgstr "Que dirais-tu de Boulon ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-5/0
 msgctxt "Mateo"
 msgid "Are you up for looking into another lead?"
-msgstr ""
+msgstr "Tu serais {{partant|partante|partant·e}} pour suivre une autre piste ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-5/8/s/0
 msgctxt "Choix"
 msgid "Gimme what you've got!"
-msgstr ""
+msgstr "Donne-moi ce que tu as !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-5/9/s/0
 msgctxt "Choix"
 msgid "Lay it on me."
-msgstr ""
+msgstr "Je t'écoute."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-5/10/s/0
 msgctxt "Choix"
 msgid "Guess I have no choice, huh?"
-msgstr ""
+msgstr "Je suppose que je n'ai pas le choix, hein ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/0
 msgctxt "Mateo"
 msgid "Stepford and Shelley were complaining about a weird rustling in the gym closet recently."
-msgstr ""
+msgstr "Stepford et Shelley se plaignaient récemment d'un drôle de bruissement dans le placard de la salle de sport."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/14
 msgctxt "Mateo"
 msgid "I didn't think much about it since the gym is all the way across the house from where we found the other signs of Davi, but..."
-msgstr ""
+msgstr "Je n'y ai pas trop fait attention, vu que la salle de sport est à l'autre bout de la maison par rapport aux endroits où on a trouvé les autres traces de Davi, mais..."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/22
 msgctxt "Mateo"
 msgid "If Davi really is leaving clues, maybe whatever Davi is trying to lead us to is up there?"
-msgstr ""
+msgstr "Si Davi laisse vraiment des indices, ce qu'il essaie de nous montrer est peut-être là-haut ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/39
 msgctxt "Mateo"
 msgid "Worth checking out at least, right?"
-msgstr ""
+msgstr "Ça vaut au moins le coup d'oeil, non ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/47
 msgctxt "Mateo"
 msgid "I was starting to feel a little hopeless earlier, but now I really think we're onto something!"
-msgstr ""
+msgstr "Je commençais à me sentir un peu désespéré tout à l'heure, mais maintenant je crois vraiment qu'on tient quelque chose !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/55
 msgctxt "Mateo"
 msgid "You've been a big help, I can't thank you enough."
-msgstr ""
+msgstr "Tu m'as été d'une grande aide, je ne te remercierai jamais assez."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/63
 msgctxt "Mateo"
 msgid "It means a lot to me that I'm not the only one out there looking for him."
-msgstr ""
+msgstr "Ça compte beaucoup pour moi de ne pas être le seul à le chercher."
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/71/b/1
 msgctxt "Mateo"
 msgid "Oye Cielo! Let's go meet your new friends!"
-msgstr ""
+msgstr "Oye Cielo ! Allons rencontrer tes nouveaux amis !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/72/b/1
 msgctxt "Mateo"
 msgid "Hey Bolt! Let's go meet your new friends!"
-msgstr ""
+msgstr "Hé Boulon ! Allons rencontrer tes nouveaux amis !"
 
+# Traduction IA – à relire
 #: mateo_blanket/davis_clues2/0/g-6/73/b/1
 msgctxt "Mateo"
 msgid "Hey Summer! Let's go meet your new friends!"
-msgstr ""
+msgstr "Hé Été ! Allons rencontrer tes nouveaux amis !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/0
 msgctxt "Mateo"
 msgid "Lint-"
-msgstr ""
+msgstr "Lint-"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/8
 msgctxt "Lint"
 msgid "Meyorrrrrrp!"
-msgstr ""
+msgstr "Miaorrrrrrp !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/19
 msgctxt "Mateo"
 msgid "Liiint-"
-msgstr ""
+msgstr "Liiint-"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/30
 msgctxt "Lint"
 msgid "Meyyyyyyyyyyyyorp!"
-msgstr ""
+msgstr "Miaaaaaaaaaaaorp !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/38
 msgctxt "Mateo"
 msgid "Haha Lint, come on buddy. Remember what happened last time?"
-msgstr ""
+msgstr "Haha Lint, allez mon grand. Tu te souviens de ce qui s'est passé la dernière fois ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/46
 msgctxt "Lint"
 msgid "Meyorp! Meyorp Meyorp Meyorp Meyorp!"
-msgstr ""
+msgstr "Miaorp ! Miaorp Miaorp Miaorp Miaorp !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/57
 msgctxt "Mateo"
 msgid "If you don't slow down, you're gunna-"
-msgstr ""
+msgstr "Si tu ne ralentis pas, tu vas-"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/68
 msgctxt "Narrator"
 msgid "Mateo doesn't even manage to finish his warning—Lint crashes into something just out of sight."
-msgstr ""
+msgstr "Mateo n'a même pas le temps de finir son avertissement : Lint s'écrase contre quelque chose, hors de vue."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/87
 msgctxt "Mateo"
 msgid "I'll get the broom."
-msgstr ""
+msgstr "Je vais chercher le balai."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/95/s/0
 msgctxt "Choix"
 msgid "Looks like you could use a hand."
-msgstr ""
+msgstr "On dirait que tu as besoin d'un coup de main."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/96/s/0
 msgctxt "Choix"
 msgid "Got a troublemaker in today?"
-msgstr ""
+msgstr "Un petit chenapan aujourd'hui ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/0
 msgctxt "Mateo"
 msgid "Ahh it's just Lint Eastwood, Dolly's pet, he always gets the zoomies after a bath."
-msgstr ""
+msgstr "Ahh c'est juste Lint Eastwood, l'animal de Dolly, il fait toujours le fou après un bain."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/8
 msgctxt "Dolly"
 msgid "LINTY~!"
-msgstr ""
+msgstr "LINTY~ !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/13
 msgctxt "Mateo"
 msgid "Speaking of..."
-msgstr ""
+msgstr "Quand on parle du loup..."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/24
 msgctxt "Dolly"
 msgid "Linty! There's my big handsome boy, look at you! Fresh as a daisy!"
-msgstr ""
+msgstr "Linty ! Voilà mon grand beau garçon, regarde-toi ! Frais comme une rose !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/32
 msgctxt "Narrator"
 msgid "Dolly bends down to pick up Lint, planting a sweet kiss to the top of his head."
-msgstr ""
+msgstr "Dolly se baisse pour prendre Lint dans ses bras et dépose un tendre baiser sur le sommet de sa tête."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/37
 msgctxt "Lint"
 msgid "MEYORP!"
-msgstr ""
+msgstr "MIAORP !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/42
 msgctxt "Dolly"
 msgid "Aww now were you a good boy for our Matito here, hm?"
-msgstr ""
+msgstr "Aww alors, tu as été sage avec notre Matito, hm ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/50
 msgctxt "Lint"
 msgid "Meyorrrrrp..."
-msgstr ""
+msgstr "Miaorrrrrp..."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/55
 msgctxt "Dolly"
 msgid "Tell me honest, he didn't give you any trouble this time, did he?"
-msgstr ""
+msgstr "Dis-moi franchement, il ne t'a pas causé d'ennuis cette fois, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/63
 msgctxt "Mateo"
 msgid "Haha filo no, nothing I couldn't handle. He actually did better with the trimmer. I think he's finally starting to trust me."
-msgstr ""
+msgstr "Haha pas le moindre accroc, rien que je ne puisse gérer. Il s'est même mieux comporté avec la tondeuse. Je crois qu'il commence enfin à me faire confiance."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/71
 msgctxt "Dolly"
 msgid "Is that right! I'm so <i>proud</i> of you my fuzzy sweety lumpkins!"
-msgstr ""
+msgstr "Ah bon ! Je suis si <i>fière</i> de toi, mon gros loulou tout doux !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/79
 msgctxt "Dolly"
 msgid "Thanks for always taking such good care of him. I know he can be a handful but... well, he's my handful!"
-msgstr ""
+msgstr "Merci de t'occuper toujours aussi bien de lui. Je sais qu'il peut être difficile mais... eh bien, c'est mon difficile à moi !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/87
 msgctxt "Mateo"
 msgid "He's welcome back any time, Dolly."
-msgstr ""
+msgstr "Il est le bienvenu quand il veut, Dolly."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/95
 msgctxt "Dolly"
 msgid "Come on, let's get you home."
-msgstr ""
+msgstr "Allez, on rentre à la maison."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/117/s/0
 msgctxt "Choix"
 msgid "Didn't have the heart to tell her he knocked over every jar on the counter?"
-msgstr ""
+msgstr "Tu n'as pas eu le coeur de lui dire qu'il a renversé tous les bocaux du comptoir ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-0/118/s/0
 msgctxt "Choix"
 msgid "If this was Lint on his best behavior, I hate to see what he was like before..."
-msgstr ""
+msgstr "Si c'était Lint sur son meilleur comportement, j'ai peur de savoir comment il était avant..."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/0
 msgctxt "Narrator"
 msgid "Mateo giggles nervously."
-msgstr ""
+msgstr "Mateo glousse nerveusement."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/11
 msgctxt "Mateo"
 msgid "Haha... ahh you don't think she noticed, do you?"
-msgstr ""
+msgstr "Haha... ahh tu ne crois pas qu'elle l'a remarqué, hein ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/19
 msgctxt "Mateo"
 msgid "He really has gotten a lot better. The first time she brought him in he almost caused a riot between some of the newer rescues."
-msgstr ""
+msgstr "Il s'est vraiment beaucoup amélioré. La première fois qu'elle l'a amené, il a failli provoquer une émeute entre certains des nouveaux protégés."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/27
 msgctxt "Mateo"
 msgid "At least now he doesn't try to jump out of the washtub every time I reach for the shampoo."
-msgstr ""
+msgstr "Au moins maintenant il n'essaie plus de sauter hors du bac chaque fois que je tends la main vers le shampoing."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/35/s/0
 msgctxt "Choix"
 msgid "Why don't I help you clean up and you can tell me all about him?"
-msgstr ""
+msgstr "Et si je t'aidais à nettoyer, et que tu me racontais tout sur lui ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/36/s/0
 msgctxt "Choix"
 msgid "Okay, it's clean-up time!"
-msgstr ""
+msgstr "Bon, c'est l'heure du ménage !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/c-4/15
 msgctxt "Mateo"
 msgid "I'd like that."
-msgstr ""
+msgstr "Ça me ferait plaisir."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_dolly/0/g-1/c-5/7
 msgctxt "Mateo"
 msgid "You're a saint."
-msgstr ""
+msgstr "Tu es une perle."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/3
 msgctxt "Narrator"
 msgid "Sinclaire paces back and forth, nervous and talking to himself."
-msgstr ""
+msgstr "Sinclaire fait les cent pas, nerveux, en se parlant à lui-même."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/16
 msgctxt "Sinclaire"
 msgid "Come on, it shouldn't be taking this long..."
-msgstr ""
+msgstr "Allez, ça ne devrait pas prendre autant de temps..."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/32/s/0
 msgctxt "Choix"
 msgid "Have you seen Mateo?"
-msgstr ""
+msgstr "Tu as vu Mateo ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/33/s/0
 msgctxt "Choix"
 msgid "Is something wrong?"
-msgstr ""
+msgstr "Quelque chose ne va pas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/7
 msgctxt "Sinclaire"
 msgid "I've seen several shoes, if that's what you're asking."
-msgstr ""
+msgstr "J'ai vu plusieurs chaussures, si c'est ce que vous demandez."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/15
 msgctxt "Sinclaire"
 msgid "And none of them are the slightest bit amenable to ORDINARY CONVERSATION."
-msgstr ""
+msgstr "Et aucune n'est le moins du monde disposée à la CONVERSATION ORDINAIRE."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/26
 msgctxt "Sinclaire"
 msgid "Does that answer your question?"
-msgstr ""
+msgstr "Cela répond-il à votre question ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/42
 msgctxt "Sinclaire"
 msgid "WAIT! Before you answer that, don't answer this."
-msgstr ""
+msgstr "ATTENDEZ ! Avant de répondre, ne répondez pas à ceci."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/50
 msgctxt "Sinclaire"
 msgid "What size is the most common size of fly?"
-msgstr ""
+msgstr "Quelle est la taille de mouche la plus courante ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/0/s/0
 msgctxt "Choix"
 msgid "Seven."
-msgstr ""
+msgstr "Sept."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/1/s/0
 msgctxt "Choix"
 msgid "Thirteen."
-msgstr ""
+msgstr "Treize."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/3/s/0
 msgctxt "Choix"
 msgid "Trick question. There are no common sizes of fly."
-msgstr ""
+msgstr "Question piège. Il n'y a pas de taille courante de mouche."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/7
 msgctxt "Sinclaire"
 msgid "Seven is the correct answer, but seven WHAT?"
-msgstr ""
+msgstr "Sept est la bonne réponse, mais sept QUOI ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Inches?"
-msgstr ""
+msgstr "Pouces ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Cubes?"
-msgstr ""
+msgstr "Cubes ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "Verbs?"
-msgstr ""
+msgstr "Verbes ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/3/s/0
 msgctxt "Choix"
 msgid "Flat."
-msgstr ""
+msgstr "Plat."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/7
 msgctxt "Sinclaire"
 msgid "What color?"
-msgstr ""
+msgstr "De quelle couleur ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Eight."
-msgstr ""
+msgstr "Huit."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Cat."
-msgstr ""
+msgstr "Chat."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/2/s/0
 msgctxt "Choix"
 msgid "Mouth... parts?"
-msgstr ""
+msgstr "Pièces... buccales ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/3/s/0
 msgctxt "Choix"
 msgid "Soft, creamy beige."
-msgstr ""
+msgstr "Beige doux et crémeux."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/c-0/7
 msgctxt "Sinclaire"
 msgid "of cheese. Correct."
-msgstr ""
+msgstr "de fromage. Exact."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/c-1/7
 msgctxt "Sinclaire"
 msgid "Absolutely my favorite flavor."
-msgstr ""
+msgstr "Absolument ma saveur préférée."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/c-2/7
 msgctxt "Sinclaire"
 msgid "What a weird answer."
-msgstr ""
+msgstr "Quelle étrange réponse."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-2/15/c-3/7
 msgctxt "Sinclaire"
 msgid "A distinguished customer, I see. Well done."
-msgstr ""
+msgstr "Je vois que nous avons affaire à {{un client distingué|une cliente distinguée|un·e client·e distingué·e}}. Bien joué."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-0/15/c-3/7
 msgctxt "Sinclaire"
 msgid "You've won my loyalty, squire."
-msgstr ""
+msgstr "Vous avez gagné ma loyauté, {{écuyer|écuyère|écuyer·ère}}."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-1/7
 msgctxt "Sinclaire"
 msgid "Incorrect. Flies were never real."
-msgstr ""
+msgstr "Faux. Les mouches n'ont jamais existé."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-2/13
 msgctxt "Sinclaire"
 msgid "That is correct."
-msgstr ""
+msgstr "C'est exact."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-0/58/c-3/7
 msgctxt "Sinclaire"
 msgid "I'm talking to a god damn genius here."
-msgstr ""
+msgstr "Je parle à un putain de génie, ici."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/7
 msgctxt "Sinclaire"
 msgid "How dare you!"
-msgstr ""
+msgstr "Comment osez-vous !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/15
 msgctxt "Sinclaire"
 msgid "Wrong? In what fashion?"
-msgstr ""
+msgstr "Faux ? De quelle façon ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "You seem like you might be... insane?"
-msgstr ""
+msgstr "Tu as l'air d'avoir perdu la boule ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "High Andalusian."
-msgstr ""
+msgstr "Haut-andalou."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/2/s/0
 msgctxt "Choix"
 msgid "Wtf?"
-msgstr ""
+msgstr "Wtf ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/c-0/7
 msgctxt "Sinclaire"
 msgid "That's a cryptic observation. Cryptic in the way a clam might be."
-msgstr ""
+msgstr "Voilà une observation cryptique. Cryptique à la manière d'une palourde."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/c-0/15
 msgctxt "Sinclaire"
 msgid "That is to say, 'mildly prophetic.'"
-msgstr ""
+msgstr "C'est-à-dire « légèrement prophétique »."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/c-0/23
 msgctxt "Sinclaire"
 msgid "And rife with the scent of cheese."
-msgstr ""
+msgstr "Et empreinte d'une odeur de fromage."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/c-1/7
 msgctxt "Sinclaire"
 msgid "Ah. Yes. You've noticed that I'm insane."
-msgstr ""
+msgstr "Ah. Oui. Vous avez remarqué que je suis fou."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/c-2/7
 msgctxt "Sinclaire"
 msgid "The three shortest letters in the english crabularium."
-msgstr ""
+msgstr "Les trois lettres les plus courtes du crabulaire anglais."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/c-1/23/c-2/15
 msgctxt "Sinclaire"
 msgid "I salute you."
-msgstr ""
+msgstr "Je vous salue."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Uhh... are you feeling alright?"
-msgstr ""
+msgstr "Euh... tout va bien ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "Ok you're obviously going through... something..."
-msgstr ""
+msgstr "Bon, tu traverses clairement... quelque chose..."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/0
 msgctxt "Sinclaire"
 msgid "No, no, just waiting for my soap hound!"
-msgstr ""
+msgstr "Non, non, j'attends juste mon chien-savon !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/11
 msgctxt "Sudsy"
 msgid "WOOF!"
-msgstr ""
+msgstr "OUAF !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/19
 msgctxt "Sinclaire"
 msgid "And here he comes!"
-msgstr ""
+msgstr "Et le voilà !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/30
 msgctxt "Sinclaire"
 msgid "Let me look at you, are you alright? Have you become any less composed of saponins?"
-msgstr ""
+msgstr "Laisse-moi te regarder, tu vas bien ? Es-tu devenu un peu moins composé de saponines ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/38
 msgctxt "Sudsy"
 msgid "Woof! Woof!"
-msgstr ""
+msgstr "Ouaf ! Ouaf !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/46
 msgctxt "Narrator"
 msgid "Mateo enters just after Sudsy, giving Sinclaire an uneasy smile."
-msgstr ""
+msgstr "Mateo entre juste après Sudsy et adresse à Sinclaire un sourire mal à l'aise."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/60
 msgctxt "Mateo"
 msgid "Oh... Heyyyyy Sinclaire. How ya... How ya doin buddy?"
-msgstr ""
+msgstr "Oh... Heyyyyy Sinclaire. Comment ça... Comment ça va, mon vieux ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/71
 msgctxt "Sinclaire"
 msgid "I'm better than you've ever been on your worst day."
-msgstr ""
+msgstr "Je vais mieux que tu ne l'as jamais été, même au pire de tes jours."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/79
 msgctxt "Mateo"
 msgid "Yeah. Cool. So, um."
-msgstr ""
+msgstr "Ouais. Cool. Alors, euh."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/87
 msgctxt "Mateo"
 msgid "Nothing to worry about with regard to the Sudster. He was just saying goodbye to the tassel hounds. They've gotten so close, I just hate having to pull them apart."
-msgstr ""
+msgstr "Aucun souci à avoir pour le Sudster. Il disait juste au revoir aux chiens à pompons. Ils sont devenus si proches, je déteste devoir les séparer."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/95
 msgctxt "Sinclaire"
 msgid "Sudsy, what did I tell you about forming inanimate attachments? The more you buy into the madness, the harder it will be when we go home!"
-msgstr ""
+msgstr "Sudsy, qu'est-ce que je t'ai dit sur le fait de nouer des attachements inanimés ? Plus tu crois à cette folie, plus ce sera dur quand nous rentrerons chez nous !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/103
 msgctxt "Mateo"
 msgid "Uhh right, yup. Absolutely, gotta be careful! Well thanks for bringing Sudsy by, always a pleasure having him."
-msgstr ""
+msgstr "Euh oui, c'est ça. Absolument, il faut faire attention ! Bon, merci d'avoir amené Sudsy, c'est toujours un plaisir de l'avoir."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/114
 msgctxt "Mateo"
 msgid "You take care now, Sudsy."
-msgstr ""
+msgstr "Prends soin de toi, Sudsy."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/122
 msgctxt "Sudsy"
 msgid "Woof! Woof woof!"
-msgstr ""
+msgstr "Ouaf ! Ouaf ouaf !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/130
 msgctxt "Narrator"
 msgid "Mateo leans down to whisper to Sudsy."
-msgstr ""
+msgstr "Mateo se penche pour chuchoter à Sudsy."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/141
 msgctxt "Mateo"
 msgid "Come on back any time, ok boy?"
-msgstr ""
+msgstr "Reviens quand tu veux, d'accord mon grand ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/149
 msgctxt "Sudsy"
 msgid "Woof!"
-msgstr ""
+msgstr "Ouaf !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/157
 msgctxt "Mateo"
 msgid "Good boy."
-msgstr ""
+msgstr "Bon garçon."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/171/s/0
 msgctxt "Choix"
 msgid "I'm scared."
-msgstr ""
+msgstr "J'ai peur."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-1/172/s/0
 msgctxt "Choix"
 msgid "Is that normal?"
-msgstr ""
+msgstr "C'est normal ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-2/0
 msgctxt "Mateo"
 msgid "Ahh Sinclaire is... well he's just... I mean, when you look at it from his perspective..."
-msgstr ""
+msgstr "Ahh Sinclaire est... enfin il est juste... je veux dire, quand on se place de son point de vue..."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-2/8
 msgctxt "Mateo"
 msgid "Ok I got nothing. I can't figure the guy out."
-msgstr ""
+msgstr "Bon, je sèche. Je n'arrive pas à comprendre ce type."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_sinclaire/0/g-2/24
 msgctxt "Mateo"
 msgid "He sure does love that dog, though."
-msgstr ""
+msgstr "Ce qui est sûr, c'est qu'il adore ce chien."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/3
 msgctxt "Narrator"
 msgid "It appears that one of Mateo's inanimals is in the middle of a conflict with Hero-hime's Nekoboru. Perhaps his catlike features are rubbing the small doglike creature the wrong way..."
-msgstr ""
+msgstr "Il semble que l'un des inanimaux de Mateo soit en plein conflit avec Nekoboru, celui de Hero-hime. Peut-être que ses traits de chat froissent la petite créature canine..."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/8
 msgctxt "Mateo"
 msgid "Oh no, not again. Taffeta, down!"
-msgstr ""
+msgstr "Oh non, pas encore. Taffeta, couchée !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/16
 msgctxt "Nekoboru"
 msgid "Nekoboru! Nekoboru Nekoboru Nekoboru!"
-msgstr ""
+msgstr "Nekoboru ! Nekoboru Nekoboru Nekoboru !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/24
 msgctxt "Taffeta"
 msgid "Bark~! Bark bark bark!"
-msgstr ""
+msgstr "Ouaf~ ! Ouaf ouaf ouaf !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/32
 msgctxt "Mateo"
 msgid "Taffeta, come on sweetie you're scaring him."
-msgstr ""
+msgstr "Taffeta, allez ma belle, tu lui fais peur."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/40
 msgctxt "Mateo"
 msgid "Come here NekoOOKAY ALRIGHT. Calm down buddy I've got you."
-msgstr ""
+msgstr "Viens ici NekoOOKAY TRÈS BIEN. Calme-toi mon grand, je te tiens."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/54
 msgctxt "Nekoboru"
 msgid "N-n-nekoborrrrru!"
-msgstr ""
+msgstr "N-n-nekoborrrrru !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/65
 msgctxt "Mateo"
 msgid "Herringbone, a little help here please!"
-msgstr ""
+msgstr "Herringbone, un peu d'aide ici s'il te plaît !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/76
 msgctxt "Herringbone"
 msgid "BARK."
-msgstr ""
+msgstr "OUAF."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/99
 msgctxt "Narrator"
 msgid "Mateo takes a long, deep breath, as though willing the stress from his body."
-msgstr ""
+msgstr "Mateo inspire longuement et profondément, comme pour chasser le stress de son corps."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/115
 msgctxt "Mateo"
 msgid "Thank you."
-msgstr ""
+msgstr "Merci."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/123
 msgctxt "Mateo"
 msgid "Alright Taffeta, go on. Go to bed."
-msgstr ""
+msgstr "Bon Taffeta, va. Va au lit."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/131
 msgctxt "Taffeta"
 msgid "<i>whine</i>"
-msgstr ""
+msgstr "<i>gémit</i>"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/136
 msgctxt "Mateo"
 msgid "I know, but Nekoboru doesn't want to play right now, ok?"
-msgstr ""
+msgstr "Je sais, mais Nekoboru n'a pas envie de jouer maintenant, d'accord ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/144/s/0
 msgctxt "Choix"
 msgid "Never a dull moment around here, huh?"
-msgstr ""
+msgstr "Jamais un moment d'ennui par ici, hein ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/145/s/0
 msgctxt "Choix"
 msgid "Are they not getting along?"
-msgstr ""
+msgstr "Ils ne s'entendent pas ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/c-0/7
 msgctxt "Mateo"
 msgid "Ha, you can say that again."
-msgstr ""
+msgstr "Ha, tu peux le dire."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/0
 msgctxt "Mateo"
 msgid "It's my fault, I meant to put Taffeta to bed before Hero dropped Nekoboru off."
-msgstr ""
+msgstr "C'est ma faute, je voulais mettre Taffeta au lit avant que Hero dépose Nekoboru."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/8
 msgctxt "Mateo"
 msgid "Taffeta always gets a little... over excited when he's here. She's harmless, really but well it just so happens that Nekoboru looks <i>exactly</i> like her favorite toy."
-msgstr ""
+msgstr "Taffeta devient toujours un peu... surexcitée quand il est là. Elle est inoffensive, vraiment, mais il se trouve que Nekoboru ressemble <i>exactement</i> à son jouet préféré."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/16
 msgctxt "Mateo"
 msgid "She doesn't mean anything by it."
-msgstr ""
+msgstr "Elle n'y met aucune méchanceté."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/24
 msgctxt "Nekoboru"
 msgid "Nekoboru!"
-msgstr ""
+msgstr "Nekoboru !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/32
 msgctxt "Mateo"
 msgid "Yeah, I know buddy. She really spooked you this time, huh?"
-msgstr ""
+msgstr "Oui, je sais mon grand. Elle t'a vraiment fait peur cette fois, hein ?"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/46
 msgctxt "Hero-Hime"
 msgid "Yo! How's my little-woah!"
-msgstr ""
+msgstr "Yo ! Comment va mon petit-woah !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/54
 msgctxt "Narrator"
 msgid "Nekoboru launches himself at Hero-hime, clearly distressed."
-msgstr ""
+msgstr "Nekoboru se jette sur Hero-hime, visiblement affolé."
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/65
 msgctxt "Nekoboru"
 msgid "NEKOBORU!"
-msgstr ""
+msgstr "NEKOBORU !"
 
+# Traduction IA – à relire
 #: mateo_blanket/grooming_hero/0/g-0/76
 msgctxt "Mateo"
 msgid "Ah Hero I'm so sorry, Taffeta got out just as I was finishing up."
-msgstr ""
+msgstr "Ah Hero je suis vraiment désolé, Taffeta s'est échappée juste au moment où je finissais."
 
 #: mateo_blanket/grooming_hero/0/g-0/87
 msgctxt "Hero-Hime"

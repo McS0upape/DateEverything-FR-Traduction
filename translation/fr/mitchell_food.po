@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: mitchell_food/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "FOOD"
-msgstr ""
+msgstr "NOURRITURE"
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/8
 msgctxt "Mitchell"
 msgid "Pitiful. Utterly mismatched flavor profiles, textures a mess..."
-msgstr ""
+msgstr "Pitoyable. Des profils aromatiques totalement dépareillés, des textures en bouillie..."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/19
 msgctxt "Mitchell"
 msgid "Hm?"
-msgstr ""
+msgstr "Hm ?"
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/27/b/1
 msgctxt "Mitchell"
 msgid "My friend - you return?"
-msgstr ""
+msgstr "Ah, tu reviens ?"
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/28/b/1
 msgctxt "Mitchell"
 msgid "Yes? What is it, love?"
-msgstr ""
+msgstr "Oui ? De quoi s'agit-il ?"
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/29/b/1
 msgctxt "Mitchell"
 msgid "Ugh. You? Speak."
-msgstr ""
+msgstr "Pfff. Toi ? Parle."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/32/s/0
 msgctxt "Choix"
 msgid "I've got a delivery from Daisuke."
-msgstr ""
+msgstr "J'ai une livraison de la part de Daisuke."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/7
 msgctxt "Narrator"
 msgid "Mitchell waves a hand at you."
-msgstr ""
+msgstr "Mitchell vous fait signe de la main."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/15
 msgctxt "Mitchell"
 msgid "Ah, yes. Unpack them for me, won't you?"
-msgstr ""
+msgstr "Ah, oui. Déballe-les pour moi, veux-tu ?"
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Uhh, sure."
-msgstr ""
+msgstr "Euh, d'accord."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/15
 msgctxt "Narrator"
 msgid "Mitchell looks over your deliveries, nodding his approval."
-msgstr ""
+msgstr "Mitchell inspecte vos livraisons en hochant la tête d'un air approbateur."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/23
 msgctxt "Mitchell"
 msgid "Brilliant. These are perfect for what I need. They should look spectacular in the dining room."
-msgstr ""
+msgstr "Brillant. C'est exactement ce qu'il me faut. Elles feront un effet spectaculaire dans la salle à manger."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "Does it really matter that much? These are just plates."
-msgstr ""
+msgstr "C'est vraiment si important ? Ce ne sont que des assiettes."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/7
 msgctxt "Mitchell"
 msgid "Just plates? JUST plates?"
-msgstr ""
+msgstr "Que des assiettes ? DES ASSIETTES ?"
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/18
 msgctxt "Mitchell"
 msgid "Food is an artform, and the plate is the canvas. The presentation is a non-negotiable part of the deal."
-msgstr ""
+msgstr "La cuisine est un art, et l'assiette en est la toile. La présentation n'est pas négociable."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/26
 msgctxt "Mitchell"
 msgid "Plating is as vital to a dish as the seasoning. It elevates the entire experience!"
-msgstr ""
+msgstr "Le dressage est aussi vital pour un plat que l'assaisonnement. Il sublime toute l'expérience !"
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/37
 msgctxt "Mitchell"
 msgid "Without Daisuke's hard work keeping me supplied, my dishes would be nowhere near Michelin-level."
-msgstr ""
+msgstr "Sans le dur labeur de Daisuke pour m'approvisionner, mes plats n'approcheraient même pas le niveau Michelin."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/0/s/0
 msgctxt "Choix"
 msgid "I guess I should be more appreciative of my dishware."
-msgstr ""
+msgstr "Je devrais sans doute mieux apprécier ma vaisselle."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/7
 msgctxt "Mitchell"
 msgid "Damn right you should."
-msgstr ""
+msgstr "Et comment que tu le devrais."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/15
 msgctxt "Mitchell"
 msgid "Daisuke spent years refining his craft creating his own ceramics."
-msgstr ""
+msgstr "Daisuke a passé des années à perfectionner son art en créant ses propres céramiques."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/23
 msgctxt "Mitchell"
 msgid "He has a respect for the work you simply can't be taught otherwise. You'd do well to model yourself after him."
-msgstr ""
+msgstr "Il a pour le travail un respect qu'on ne peut tout simplement pas acquérir autrement. Tu ferais bien de t'en inspirer."
 
+# Traduction IA – à relire
 #: mitchell_food/dishes_food/0/c-0/23/c-0/34/c-0/45/c-0/31
 msgctxt "Mitchell"
 msgid "Now, if you'll excuse me, I have reviews to complete."
-msgstr ""
+msgstr "Maintenant, si tu veux bien m'excuser, j'ai des critiques à rédiger."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_dish_end/0/0
 msgctxt "Mitchell"
 msgid "You delivered to me last?"
-msgstr ""
+msgstr "C'est toi qui m'as livré en dernier ?"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_dish_end/0/8/s/0
 msgctxt "Choix"
 msgid "Yeah. Is that an issue?"
-msgstr ""
+msgstr "Ouais. Il y a un problème ?"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_dish_end/0/c-0/7
 msgctxt "Mitchell"
 msgid "Hm."
-msgstr ""
+msgstr "Hm."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_dish_end/0/c-0/15
 msgctxt "Mitchell"
 msgid "Well. Carry on, then."
-msgstr ""
+msgstr "Soit. Poursuis, alors."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/0
 msgctxt "Narrator"
 msgid "The first word that comes to mind as you evaluate the strange figure standing before you is 'delicious'—you don't even intend to be salacious, it's just... he looks... edible."
-msgstr ""
+msgstr "Le premier mot qui vous vient à l'esprit en détaillant l'étrange silhouette devant vous est « délicieux » - vous n'avez aucune intention d'être grivois, c'est juste que... il a l'air... comestible."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/8
 msgctxt "Narrator"
 msgid "His long blonde hair calls to mind ramen noodles, but his entire outfit is a culinary journey around the globe. He looks downright mouth-watering, but you're not sure the feeling is mutual. His expression suggests he's less than impressed with you."
-msgstr ""
+msgstr "Ses longs cheveux blonds évoquent des nouilles de ramen, mais toute sa tenue est un voyage culinaire autour du monde. Il est tout simplement appétissant, mais vous doutez que le sentiment soit réciproque. Son expression laisse entendre que vous ne lui faites pas franchement bonne impression."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/16
 msgctxt "Mitchell"
 msgid "Good evening."
-msgstr ""
+msgstr "Bonsoir."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/24
 msgctxt "Mitchell"
 msgid "Do have a seat. I'll be with you in just a minute."
-msgstr ""
+msgstr "Je t'en prie, assieds-toi. Je suis à toi dans une minute."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/32/s/0
 msgctxt "Choix"
 msgid "Looks like you're really enjoying that glass of wine."
-msgstr ""
+msgstr "On dirait que tu savoures vraiment ce verre de vin."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/c-0/7
 msgctxt "Mitchell"
 msgid "Glass of wine? Surely you can do better than that..."
-msgstr ""
+msgstr "Un verre de vin ? Tu peux sûrement mieux faire que cela..."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/c-0/15
 msgctxt "Mitchell"
 msgid "This fine white has a light body, and is rather dry."
-msgstr ""
+msgstr "Ce blanc de qualité a un corps léger et il est plutôt sec."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/c-0/23
 msgctxt "Mitchell"
 msgid "It's quite acidic."
-msgstr ""
+msgstr "Il est assez acide."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/c-0/31
 msgctxt "Mitchell"
 msgid "I can virtually taste its origins in the Eastern Loire Valley. Dare I guess just outside Chavignol?"
-msgstr ""
+msgstr "Je peux presque goûter ses origines dans l'est de la Loire. Oserais-je deviner, juste à côté de Chavignol ?"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/c-0/39
 msgctxt "Mitchell"
 msgid "And as its taste matures on my tongue..."
-msgstr ""
+msgstr "Et tandis que son goût mûrit sur ma langue..."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/c-0/47
 msgctxt "Mitchell"
 msgid "I detect notes of honeydew, grapefruit, and peach."
-msgstr ""
+msgstr "Je perçois des notes de melon miel, de pamplemousse et de pêche."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_preintro/0/c-0/55
 msgctxt "Mitchell"
 msgid "And a certain minerality. Flint, gray salt."
-msgstr ""
+msgstr "Et une certaine minéralité. Du silex, du sel gris."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/0/s/0
 msgctxt "Choix"
 msgid "Definitely a Chardonnay."
-msgstr ""
+msgstr "C'est clairement un Chardonnay."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/1/s/0
 msgctxt "Choix"
 msgid "It's a Sauvignon Blanc."
-msgstr ""
+msgstr "C'est un Sauvignon Blanc."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/2/s/0
 msgctxt "Choix"
 msgid "Riesling, then?"
-msgstr ""
+msgstr "Un Riesling, alors ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/3/s/0
 msgctxt "Choix"
 msgid "That's not a white at all. It's a rosé."
-msgstr ""
+msgstr "Ce n'est même pas un blanc. C'est un rosé."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/c-0/7
 msgctxt "Mitchell"
 msgid "Close... But Chardonnay is from Burgundy. I'll give you one more try."
-msgstr ""
+msgstr "Près du but... Mais le Chardonnay vient de Bourgogne. Je t'accorde un dernier essai."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/c-1/10
 msgctxt "Mitchell"
 msgid "Well done!"
-msgstr ""
+msgstr "Bravo !"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/c-2/7
 msgctxt "Mitchell"
 msgid "Pathetic. Just pathetic."
-msgstr ""
+msgstr "Pathétique. Tout simplement pathétique."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test/0/c-3/7
 msgctxt "Mitchell"
 msgid "A rosé? Do I look like I'm eating barbecued prawns?"
-msgstr ""
+msgstr "Un rosé ? Ai-je l'air de dévorer des crevettes grillées au barbecue ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/0
 msgctxt "Mitchell"
 msgid "Now, can you do even better?"
-msgstr ""
+msgstr "Alors, peux-tu faire encore mieux ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/8/s/0
 msgctxt "Choix"
 msgid "It probably pairs nicely with goat cheese."
-msgstr ""
+msgstr "Il s'accorde sûrement très bien avec du fromage de chèvre."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/9/s/0
 msgctxt "Choix"
 msgid "I'm going to say... Chablis?"
-msgstr ""
+msgstr "Je dirais... un Chablis ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/10/s/0
 msgctxt "Choix"
 msgid "I'd guess it's a Sancerre."
-msgstr ""
+msgstr "Je parierais sur un Sancerre."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/11/s/0
 msgctxt "Choix"
 msgid "I know my limits."
-msgstr ""
+msgstr "Je connais mes limites."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-0/13
 msgctxt "Mitchell"
 msgid "Indeed! An excellent idea."
-msgstr ""
+msgstr "En effet ! Excellente idée."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-0/24/0/s/0
 msgctxt "Choix"
 msgid "And maybe some chive crackers?"
-msgstr ""
+msgstr "Et peut-être quelques crackers à la ciboulette ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-0/24/c-0/7
 msgctxt "Mitchell"
 msgid "Well now you're just showing off. And I'm very much here for it."
-msgstr ""
+msgstr "Là, tu en rajoutes. Et j'adore ça."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-1/13
 msgctxt "Mitchell"
 msgid "Well. That's a disappointment."
-msgstr ""
+msgstr "Quelle déception."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-1/24
 msgctxt "Mitchell"
 msgid "You do know that Chablis is an entirely different wine, don't you?"
-msgstr ""
+msgstr "Tu sais bien que le Chablis est un vin entièrement différent, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-1/32/0/s/0
 msgctxt "Choix"
 msgid "Guess I just got lucky the first time..."
-msgstr ""
+msgstr "J'ai dû avoir de la chance la première fois..."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-1/32/c-0/7
 msgctxt "Mitchell"
 msgid "I guess so."
-msgstr ""
+msgstr "Je le crains."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/13
 msgctxt "Mitchell"
 msgid "You've hit it spot on. I did not realize I was in the presence of a master sommelier!"
-msgstr ""
+msgstr "En plein dans le mille. Je ne savais pas me trouver en présence d'un maître sommelier !"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/24
 msgctxt "Mitchell"
 msgid "How did you know?"
-msgstr ""
+msgstr "Comment l'as-tu su ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/0/s/0
 msgctxt "Choix"
 msgid "Lucky guess?"
-msgstr ""
+msgstr "Un coup de chance ?"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/1/s/0
 msgctxt "Choix"
 msgid "You said Eastern Loire. But it was Chavignol that really gave it away."
-msgstr ""
+msgstr "Tu as dit l'est de la Loire. Mais c'est Chavignol qui t'a trahi."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/2/s/0
 msgctxt "Choix"
 msgid "Though with the taste of flint, it could've been a Pouilly Fume, I suppose..."
-msgstr ""
+msgstr "Quoique avec ce goût de silex, ç'aurait pu être un Pouilly-Fumé, je suppose..."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/c-0/7
 msgctxt "Mitchell"
 msgid "You and I both know luck had nothing to do with it."
-msgstr ""
+msgstr "Toi et moi savons que la chance n'y est pour rien."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/c-1/7 mitchell_food/MitchellTableauxIntro/0/c-0/7
 msgctxt "Mitchell"
 msgid "Marvelous!"
-msgstr ""
+msgstr "Merveilleux !"
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/c-2/7
 msgctxt "Mitchell"
 msgid "My word. You are astonishing."
-msgstr ""
+msgstr "Mon dieu. Tu es {{époustouflant|époustouflante|époustouflant·e}}."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/g-0/0/0/s/0
 msgctxt "Choix"
 msgid "Sometimes you just get lucky."
-msgstr ""
+msgstr "Parfois, on a juste de la chance."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-2/32/g-0/0/1/s/0
 msgctxt "Choix"
 msgid "I know my stuff."
-msgstr ""
+msgstr "Je m'y connais."
 
+# Traduction IA – à relire
 #: mitchell_food/wine_test2/0/c-3/7
 msgctxt "Mitchell"
 msgid "Wisdom always does! There's nothing wrong with humility whatsoever."
-msgstr ""
+msgstr "La sagesse, toujours ! Il n'y a rien de mal à l'humilité."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/3
 msgctxt "Mitchell"
 msgid "But where are my manners? Allow me to introduce myself."
-msgstr ""
+msgstr "Mais où sont passées mes manières ? Permets-moi de me présenter."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/11
 msgctxt "Mitchell"
 msgid "I'm Mitchell Linn, food critic extraordinaire."
-msgstr ""
+msgstr "Je suis Mitchell Linn, critique gastronomique extraordinaire."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/19
 msgctxt "Mitchell"
 msgid "Paragon of the perfect, advocate of the adventurous, and bane of the banal."
-msgstr ""
+msgstr "Parangon du parfait, avocat de l'audace et fléau du banal."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/33/s/0
 msgctxt "Choix"
 msgid "You must really like food then, huh?"
-msgstr ""
+msgstr "Tu dois vraiment aimer la bouffe, alors ?"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/34/s/0
 msgctxt "Choix"
 msgid "I consider myself something of a foodie, actually."
-msgstr ""
+msgstr "Je me considère comme un peu gourmet, en fait."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/35/s/0
 msgctxt "Choix"
 msgid "Food! Can't live with it. Can't live without it."
-msgstr ""
+msgstr "La bouffe ! Impossible de vivre avec, impossible de vivre sans."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/36/s/0
 msgctxt "Choix"
 msgid "Have you heard of Soylint? I'm really into Soylint lately."
-msgstr ""
+msgstr "Tu connais le Soylint ? Je suis à fond dans le Soylint en ce moment."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-0/7
 msgctxt "Mitchell"
 msgid "Like it? I LIVE for it. And not just food, but the whole of the experience."
-msgstr ""
+msgstr "Aimer ? J'en VIS. Et pas seulement de la nourriture, mais de toute l'expérience."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-0/15
 msgctxt "Mitchell"
 msgid "The ambiance! That interplay of sound, sight, and scent that whets the appetite and inspires the mind."
-msgstr ""
+msgstr "L'ambiance ! Ce jeu de sons, de visions et de parfums qui aiguise l'appétit et inspire l'esprit."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-0/23
 msgctxt "Mitchell"
 msgid "The art of service, be it subtle theater, delightful formality, or downright brutish charm."
-msgstr ""
+msgstr "L'art du service, qu'il soit théâtre subtil, formalité délicieuse ou charme franchement brutal."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-0/31
 msgctxt "Mitchell"
 msgid "And of course the meal itself."
-msgstr ""
+msgstr "Et bien sûr, le repas lui-même."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-0/39
 msgctxt "Mitchell"
 msgid "From the minutiae of the menu, to the presentation on the plate, and the very titillation of the tongue."
-msgstr ""
+msgstr "Du détail de la carte au dressage dans l'assiette, jusqu'à la titillation de la langue."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-0/47
 msgctxt "Mitchell"
 msgid "Dining, in all its forms, is the blood that flows in my veins."
-msgstr ""
+msgstr "Dîner, sous toutes ses formes, est le sang qui coule dans mes veines."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-1/7/b/1
 msgctxt "Mitchell"
 msgid "I have to say I already find your taste QUITE impressive."
-msgstr ""
+msgstr "Je dois dire que je trouve déjà ton goût PLUTÔT impressionnant."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-1/8/b/1
 msgctxt "Mitchell"
 msgid "You've already begun to prove that!"
-msgstr ""
+msgstr "Tu as déjà commencé à le prouver !"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-1/9/b/1
 msgctxt "Mitchell"
 msgid "Oh really? Could have fooled me..."
-msgstr ""
+msgstr "Ah vraiment ? On aurait pu me tromper..."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-2/7
 msgctxt "Mitchell"
 msgid "What, pray tell, does that mean?"
-msgstr ""
+msgstr "Que veux-tu dire par là, je te prie ?"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Honestly, I'm not even sure what I meant by that. Sometimes I just say things."
-msgstr ""
+msgstr "Honnêtement, je ne sais même pas ce que je voulais dire. Parfois je dis des choses, c'est tout."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "You're really hot."
-msgstr ""
+msgstr "Tu es vraiment canon."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-2/15/c-0/7
 msgctxt "Mitchell"
 msgid "Right..."
-msgstr ""
+msgstr "Bien..."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-2/15/c-1/7
 msgctxt "Mitchell"
 msgid "I, uh, thank you?"
-msgstr ""
+msgstr "Je, euh, merci ?"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/c-3/7
 msgctxt "Mitchell"
 msgid "I'm going to pretend I didn't hear that."
-msgstr ""
+msgstr "Je vais faire comme si je n'avais rien entendu."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/0
 msgctxt "Mitchell"
 msgid "Listen, I'm afraid you've caught me in a bit of a hurry."
-msgstr ""
+msgstr "Écoute, j'ai bien peur que tu ne m'aies surpris en plein empressement."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/8
 msgctxt "Mitchell"
 msgid "Three new spots have just opened up around the house."
-msgstr ""
+msgstr "Trois nouvelles adresses viennent d'ouvrir dans la maison."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/16
 msgctxt "Mitchell"
 msgid "I'm eager to give them a try, and see if they measure up to my exacting standards."
-msgstr ""
+msgstr "Je brûle de les essayer et de voir si elles satisfont à mes standards exigeants."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/24
 msgctxt "Mitchell"
 msgid "Say... How would you like to accompany me?"
-msgstr ""
+msgstr "Dis-moi... Aimerais-tu m'accompagner ?"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "That would be great!"
-msgstr ""
+msgstr "Avec plaisir !"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "I'm not really hungry right now."
-msgstr ""
+msgstr "Je n'ai pas vraiment faim pour le moment."
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/c-4/11
 msgctxt "Mitchell"
 msgid "Brilliant!"
-msgstr ""
+msgstr "Brillant !"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/c-5/11
 msgctxt "Mitchell"
 msgid "Then I'm afraid this is goodbye for now!"
-msgstr ""
+msgstr "Alors je crains qu'il ne faille nous dire au revoir pour l'instant !"
 
+# Traduction IA – à relire
 #: mitchell_food/mitchell_intro/0/g-0/c-5/19
 msgctxt "Mitchell"
 msgid "Come back and see me whenever you'd like to go out for a bite."
-msgstr ""
+msgstr "Reviens me voir quand tu voudras sortir manger un morceau."
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/0
 msgctxt "Mitchell"
 msgid "Hello again. I'm just about to head out to a review. Care to join me?"
-msgstr ""
+msgstr "Rebonjour. J'allais justement partir pour une critique. Tu te joins à moi ?"
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/8/s/0 mitchell_food/MeetingAgain/0/19/s/0
 msgctxt "Choix"
 msgid "I'd love to!"
-msgstr ""
+msgstr "Avec joie !"
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/9/s/0 mitchell_food/MeetingAgain/0/20/s/0
 msgctxt "Choix"
 msgid "Too bad. I just ate."
-msgstr ""
+msgstr "Dommage. Je viens de manger."
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/10/s/0 mitchell_food/MeetingAgain/0/21/s/0
 msgctxt "Choix"
 msgid "I was thinking maybe we could just talk..."
-msgstr ""
+msgstr "Je pensais qu'on pourrait simplement discuter..."
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/c-1/7 mitchell_food/MeetingAgain/0/c-1/7
 msgctxt "Mitchell"
 msgid "Pity, that. See you later!"
-msgstr ""
+msgstr "Quel dommage ! À plus tard !"
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/c-2/7 mitchell_food/MeetingAgain/0/c-2/7
 msgctxt "Mitchell"
 msgid "I'd love to, really."
-msgstr ""
+msgstr "J'aimerais bien, vraiment."
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/c-2/15 mitchell_food/MeetingAgain/0/c-2/15
 msgctxt "Mitchell"
 msgid "But I'm afraid without my reviews, the culinary prospects of this house would be dire indeed."
-msgstr ""
+msgstr "Mais j'ai bien peur que sans mes critiques, les perspectives culinaires de cette maison soient funestes."
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/c-2/23/0/s/0 mitchell_food/MeetingAgain/0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "I'll come along, then."
-msgstr ""
+msgstr "Alors je viens avec toi."
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/c-2/23/1/s/0 mitchell_food/MeetingAgain/0/c-2/23/1/s/0
 msgctxt "Choix"
 msgid "Ok. I'll see you another time, then."
-msgstr ""
+msgstr "D'accord. À une prochaine fois, alors."
 
+# Traduction IA – à relire
 #: mitchell_food/HungryYet/0/c-2/23/c-0/11 mitchell_food/MeetingAgain/0/c-2/23/c-0/7
 msgctxt "Mitchell"
 msgid "Excellent!"
-msgstr ""
+msgstr "Excellent !"
 
+# Traduction IA – à relire
 #: mitchell_food/MeetingAgain/0/3
 msgctxt "Mitchell"
 msgid "Ah! My faithful companion!"
-msgstr ""
+msgstr "Ah ! Voilà ma fidèle escorte !"
 
+# Traduction IA – à relire
 #: mitchell_food/MeetingAgain/0/11
 msgctxt "Mitchell"
 msgid "Care to join me for another review?"
-msgstr ""
+msgstr "Une autre critique, ça te dit ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/4
 msgctxt "Narrator"
 msgid "You find Mitchell looking more pensive than usual. He sits staring off into the distance, absently swirling a glass of red."
-msgstr ""
+msgstr "Vous trouvez Mitchell plus pensif que d'habitude. Il fixe le lointain, faisant tourner distraitement un verre de rouge."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/12
 msgctxt "Narrator"
 msgid "He notices you when you approach, and you catch a glint of something in his eyes."
-msgstr ""
+msgstr "Il vous remarque à votre approche, et vous croyez voir briller quelque chose dans ses yeux."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/20
 msgctxt "Mitchell"
 msgid "Bon soir, mon... ami?"
-msgstr ""
+msgstr "Bon soir, {{mon... ami|mon... amie|mon... ami·e}} ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/28
 msgctxt "Mitchell"
 msgid "Mon... cheri?"
-msgstr ""
+msgstr "Mon... {{chéri|chérie|chéri·e}} ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/36
 msgctxt "Mitchell"
 msgid "Sometimes I get so wrapped up in what I'm doing that I forget the most essential things."
-msgstr ""
+msgstr "Parfois je suis tellement absorbé par ce que je fais que j'en oublie l'essentiel."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/44/s/0
 msgctxt "Choix"
 msgid "Such as?"
-msgstr ""
+msgstr "Par exemple ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/45/s/0
 msgctxt "Choix"
 msgid "Mon cheri? I like the sound of that..."
-msgstr ""
+msgstr "Mon chéri ? J'aime bien comment ça sonne..."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/46/s/0
 msgctxt "Choix"
 msgid "Is something wrong, Mitchell?"
-msgstr ""
+msgstr "Quelque chose ne va pas, Mitchell ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/c-0/7
 msgctxt "Mitchell"
 msgid "Such as questioning what's really at the heart of it all."
-msgstr ""
+msgstr "Par exemple, me demander ce qui se trouve vraiment au coeur de tout cela."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/c-0/15
 msgctxt "Mitchell"
 msgid "There's something I'd very much like to ask you."
-msgstr ""
+msgstr "Il y a quelque chose que j'aimerais beaucoup te demander."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/c-1/7
 msgctxt "Mitchell"
 msgid "Yes, well... You've been on my mind."
-msgstr ""
+msgstr "Oui, eh bien... Tu occupes mes pensées."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/c-1/15
 msgctxt "Mitchell"
 msgid "I've wanted to ask your opinion about something."
-msgstr ""
+msgstr "Je voulais te demander ton avis sur quelque chose."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/c-2/7
 msgctxt "Mitchell"
 msgid "Not at all, not at all. In fact, something has never been more right."
-msgstr ""
+msgstr "Pas du tout, pas du tout. En fait, tout va mieux que jamais."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/c-2/15
 msgctxt "Mitchell"
 msgid "May I ask you something?"
-msgstr ""
+msgstr "Puis-je te poser une question ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Ask away!"
-msgstr ""
+msgstr "Je t'écoute !"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "Anything."
-msgstr ""
+msgstr "Tout ce que tu veux."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "I'm... already spoken for, Mitchell."
-msgstr ""
+msgstr "Je suis... {{déjà pris|déjà prise|déjà pris·e}}, Mitchell."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-0/c-5/7
 msgctxt "Mitchell"
 msgid "Ah! Of course. I should have known..."
-msgstr ""
+msgstr "Ah ! Bien sûr. J'aurais dû m'en douter..."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-0/c-5/15
 msgctxt "Mitchell"
 msgid "And while this disappoints me, I must say that wasn't going to be my question."
-msgstr ""
+msgstr "Et bien que cela me déçoive, je dois dire que ce n'était pas ma question."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/0
 msgctxt "Mitchell"
 msgid "Do you think there is a connection between food and love?"
-msgstr ""
+msgstr "Penses-tu qu'il existe un lien entre la nourriture et l'amour ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/8
 msgctxt "Mitchell"
 msgid "Specifically, do you think that by eating with another, delighting in delicacies..."
-msgstr ""
+msgstr "Plus précisément, penses-tu qu'en mangeant avec quelqu'un, en se délectant de mets délicats..."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/16
 msgctxt "Mitchell"
 msgid "Appreciating the ambiance of a fine establishment..."
-msgstr ""
+msgstr "En appréciant l'ambiance d'un établissement raffiné..."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/24
 msgctxt "Mitchell"
 msgid "Engaging in pleasant conversation and the elegant dance of table manners..."
-msgstr ""
+msgstr "En s'adonnant à une conversation agréable et à l'élégante danse des manières de table..."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/32
 msgctxt "Mitchell"
 msgid "Can these things make love?"
-msgstr ""
+msgstr "Ces choses peuvent-elles faire naître l'amour ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/40/s/0
 msgctxt "Choix"
 msgid "They can actually get in love's way."
-msgstr ""
+msgstr "Elles peuvent même lui barrer la route."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/41/s/0
 msgctxt "Choix"
 msgid "They cannot make it, but they can reveal it."
-msgstr ""
+msgstr "Elles ne peuvent pas le créer, mais elles peuvent le révéler."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/42/s/0
 msgctxt "Choix"
 msgid "They are themselves an act of love."
-msgstr ""
+msgstr "Elles sont elles-mêmes un acte d'amour."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-6/7
 msgctxt "Mitchell"
 msgid "How can this be?"
-msgstr ""
+msgstr "Comment est-ce possible ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-6/15
 msgctxt "Mitchell"
 msgid "I've spent my whole life believing that the path to my heart lay directly through my stomach."
-msgstr ""
+msgstr "J'ai passé ma vie à croire que le chemin vers mon coeur passait directement par mon estomac."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-6/23
 msgctxt "Mitchell"
 msgid "But perhaps there's more to life than food. Perhaps I ought to expand my horizons."
-msgstr ""
+msgstr "Mais il y a peut-être plus dans la vie que la nourriture. Peut-être devrais-je élargir mes horizons."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-6/31
 msgctxt "Mitchell"
 msgid "Hm. I fear this has put me in a rather sour mood."
-msgstr ""
+msgstr "Hm. Je crains que cela ne m'ait mis d'une humeur plutôt aigre."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-6/42
 msgctxt "Mitchell"
 msgid "Return another time, and we can 'get in love's way' together, no?"
-msgstr ""
+msgstr "Reviens une autre fois, et nous pourrons « barrer la route à l'amour » ensemble, non ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-7/7
 msgctxt "Mitchell"
 msgid "These are wise words, and I must ponder them..."
-msgstr ""
+msgstr "Voilà de sages paroles, et je vais devoir y réfléchir..."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-7/15 mitchell_food/FoodOfLove/0/g-1/c-8/26
 msgctxt "Mitchell"
 msgid "Do return soon, yes?"
-msgstr ""
+msgstr "Reviens vite, d'accord ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-7/23 mitchell_food/FoodOfLove/0/g-1/c-8/34
 msgctxt "Mitchell"
 msgid "I must say I am eagerly awaiting our next rendezvous."
-msgstr ""
+msgstr "Je dois dire que j'attends notre prochain rendez-vous avec impatience."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-7/31 mitchell_food/FoodOfLove/0/g-1/c-8/42
 msgctxt "Mitchell"
 msgid "I have begun to find you rather... entrancing."
-msgstr ""
+msgstr "Je commence à te trouver plutôt... {{envoûtant|envoûtante|envoûtant·e}}."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-7/39 mitchell_food/FoodOfLove/0/g-1/c-8/50
 msgctxt "Mitchell"
 msgid "But tonight, I need some time with this glass of wine."
-msgstr ""
+msgstr "Mais ce soir, j'ai besoin d'un peu de temps avec ce verre de vin."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-7/47 mitchell_food/FoodOfLove/0/g-1/c-8/58
 msgctxt "Mitchell"
 msgid "That is to say, time to be with myself."
-msgstr ""
+msgstr "C'est-à-dire, du temps pour être avec moi-même."
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-8/7
 msgctxt "Mitchell"
 msgid "An act of love... Do you mean to say that love is created by what we do?"
-msgstr ""
+msgstr "Un acte d'amour... Veux-tu dire que l'amour est créé par ce que nous faisons ?"
 
+# Traduction IA – à relire
 #: mitchell_food/FoodOfLove/0/g-1/c-8/15
 msgctxt "Mitchell"
 msgid "This is a beautiful sentiment, and one that goes straight to my heart."
-msgstr ""
+msgstr "C'est un beau sentiment, et il va droit à mon coeur."
 
+# Traduction IA – à relire
 #: mitchell_food/WhereShouldWeEat/0/0
 msgctxt "Mitchell"
 msgid "So, where should we go?"
-msgstr ""
+msgstr "Alors, où allons-nous ?"
 
+# Traduction IA – à relire
 #: mitchell_food/WhereShouldWeEat/0/8/b/1
 msgctxt "Mitchell"
 msgid "There's a new hawaiian-fusion place in the living room."
-msgstr ""
+msgstr "Il y a un nouvel endroit de cuisine hawaïenne fusion dans le salon."
 
+# Traduction IA – à relire
 #: mitchell_food/WhereShouldWeEat/0/11/b/1
 msgctxt "Mitchell"
 msgid "Daisuke's sushi spot in the dining room is supposed to be pretty swanky."
-msgstr ""
+msgstr "Le restaurant de sushis de Daisuke dans la salle à manger est censé être plutôt chic."
 
+# Traduction IA – à relire
 #: mitchell_food/WhereShouldWeEat/0/14/b/1
 msgctxt "Mitchell"
 msgid "Freddy Yeti has an ice cream joint in the kitchen that's worth checking out."
-msgstr ""
+msgstr "Freddy Yeti a un glacier dans la cuisine qui mérite le détour."
 
+# Traduction IA – à relire
 #: mitchell_food/WhereShouldWeEat/0/17/s/0
 msgctxt "Choix"
 msgid "Let's do sushi!"
-msgstr ""
+msgstr "Allons manger des sushis !"
 
+# Traduction IA – à relire
 #: mitchell_food/WhereShouldWeEat/0/18/s/0
 msgctxt "Choix"
 msgid "Hawaiian-fusion? I'm in!"
-msgstr ""
+msgstr "De la cuisine hawaïenne fusion ? {{Partant|Partante|Partant·e}} !"
 
+# Traduction IA – à relire
 #: mitchell_food/WhereShouldWeEat/0/19/s/0
 msgctxt "Choix"
 msgid "You had me at 'ice cream.'"
-msgstr ""
+msgstr "Tu m'avais à « glace »."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/19
 msgctxt "Narrator"
 msgid "Mitchell leads you to the dining room—he seems excited, or about as excited as a critic like Mitchell can be about a new place."
-msgstr ""
+msgstr "Mitchell vous conduit à la salle à manger - il semble enthousiaste, ou aussi enthousiaste qu'un critique comme Mitchell peut l'être face à un nouvel endroit."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/24
 msgctxt "Mitchell"
 msgid "I've heard only good things about Daisuke's place so far."
-msgstr ""
+msgstr "Je n'ai entendu que du bien de l'établissement de Daisuke jusqu'ici."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/32
 msgctxt "Mitchell"
 msgid "Let's hope it lives up to expectation."
-msgstr ""
+msgstr "Espérons qu'il soit à la hauteur."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/37
 msgctxt "Narrator"
 msgid "You walk into a rather austere space, every element seemingly selected for its clean and unpretentious elegance."
-msgstr ""
+msgstr "Vous pénétrez dans un espace plutôt austère, dont chaque élément semble choisi pour son élégance épurée et sans prétention."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/42
 msgctxt "Narrator"
 msgid "The counters are of raw pine, finished to a glossy luster."
-msgstr ""
+msgstr "Les comptoirs sont en pin brut, poli jusqu'à un lustre brillant."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/47
 msgctxt "Narrator"
 msgid "The walls are shoji-style screens, and the doors slide open with a soft hiss that seems engineered to bring you entirely into your sophisticated surroundings."
-msgstr ""
+msgstr "Les murs sont des panneaux de style shoji, et les portes coulissent dans un doux sifflement qui semble conçu pour vous plonger tout entier dans ce cadre raffiné."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/52
 msgctxt "Narrator"
 msgid "A water feature drips delightfully in the background."
-msgstr ""
+msgstr "Une fontaine goutte agréablement en fond sonore."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/57
 msgctxt "Narrator"
 msgid "You feel instantaneously relaxed and intrigued."
-msgstr ""
+msgstr "Vous vous sentez instantanément {{détendu|détendue|détendu·e}} et {{intrigué|intriguée|intrigué·e}}."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/65
 msgctxt "Mitchell"
 msgid "Ah, here comes the owner now."
-msgstr ""
+msgstr "Ah, voici le propriétaire."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/76
 msgctxt "Daisuke"
 msgid "Irasshaimase!"
-msgstr ""
+msgstr "Irasshaimase !"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/90
 msgctxt "Narrator"
 msgid "Daisuke greets you both with a warm smile."
-msgstr ""
+msgstr "Daisuke vous accueille tous deux avec un chaleureux sourire."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/101
 msgctxt "Daisuke"
 msgid "Welcome to Omakase Daisuke. I am pleased to see you both."
-msgstr ""
+msgstr "Bienvenue à l'Omakase Daisuke. Je suis heureux de vous voir tous les deux."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/109
 msgctxt "Mitchell"
 msgid "Always nice to see you, Daisuke."
-msgstr ""
+msgstr "Toujours un plaisir de te voir, Daisuke."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/117
 msgctxt "Mitchell"
 msgid "It's obvious you've put a lot of work into this endeavor."
-msgstr ""
+msgstr "Il est évident que tu as investi beaucoup de travail dans cette entreprise."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/125
 msgctxt "Daisuke"
 msgid "Thank you, Mitchell. I have only done what anyone would in my place."
-msgstr ""
+msgstr "Merci, Mitchell. Je n'ai fait que ce que n'importe qui aurait fait à ma place."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/133
 msgctxt "Daisuke"
 msgid "The dishware deserves no less than maximum effort."
-msgstr ""
+msgstr "La vaisselle ne mérite pas moins qu'un effort maximal."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/141
 msgctxt "Daisuke"
 msgid "I hope the decor and ambiance please you."
-msgstr ""
+msgstr "J'espère que le décor et l'ambiance vous plaisent."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/149
 msgctxt "Mitchell"
 msgid "My mind isn't quite made up yet..."
-msgstr ""
+msgstr "Mon avis n'est pas encore tout à fait arrêté..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/157/s/0
 msgctxt "Choix"
 msgid "I think it's exquisite, Daisuke."
-msgstr ""
+msgstr "Je le trouve exquis, Daisuke."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/158/s/0
 msgctxt "Choix"
 msgid "Eh. Feels a little too stuffy to me..."
-msgstr ""
+msgstr "Bof. Je trouve ça un peu trop guindé..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/159/s/0
 msgctxt "Choix"
 msgid "The slightly 'run down' quality... It's..."
-msgstr ""
+msgstr "Ce côté un peu « délabré »... C'est..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/7
 msgctxt "Mitchell"
 msgid "You do? Seems rather dull to me."
-msgstr ""
+msgstr "Ah oui ? Il me paraît plutôt terne."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Look more closely. It's intentional. Not dull, but understated."
-msgstr ""
+msgstr "Regarde de plus près. C'est voulu. Pas terne, mais sobre."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Hmm. Now that you mention it, there's not really much going on here."
-msgstr ""
+msgstr "Hmm. Maintenant que tu le dis, il ne se passe pas grand-chose ici."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/7
 msgctxt "Mitchell"
 msgid "Understated, you say? Let me take a closer look..."
-msgstr ""
+msgstr "Sobre, dis-tu ? Laisse-moi regarder de plus près..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Everything has been selected and arranged in order to draw one's full attention to the sushi."
-msgstr ""
+msgstr "Tout a été choisi et disposé pour attirer toute l'attention sur les sushis."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/7
 msgctxt "Mitchell"
 msgid "Why, you're absolutely right. I thought at first it was lazy and weak decor..."
-msgstr ""
+msgstr "Mais oui, tu as tout à fait raison. J'ai d'abord cru à un décor paresseux et fade..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/15
 msgctxt "Daisuke"
 msgid "Lazy and weak?"
-msgstr ""
+msgstr "Paresseux et fade ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/26
 msgctxt "Narrator"
 msgid "Mitchell continues on, as though he's not heard Daisuke."
-msgstr ""
+msgstr "Mitchell poursuit, comme s'il n'avait pas entendu Daisuke."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/37
 msgctxt "Mitchell"
 msgid "But look around you."
-msgstr ""
+msgstr "Mais regarde autour de toi."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/45
 msgctxt "Mitchell"
 msgid "Perfectly clean. Lighting muted but warm."
-msgstr ""
+msgstr "D'une propreté parfaite. Un éclairage tamisé mais chaleureux."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/53
 msgctxt "Mitchell"
 msgid "This wood shows the signs of a master carpenter."
-msgstr ""
+msgstr "Ce bois porte la marque d'un maître charpentier."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/61
 msgctxt "Mitchell"
 msgid "These chairs have been selected with painstaking care."
-msgstr ""
+msgstr "Ces chaises ont été choisies avec un soin minutieux."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/69
 msgctxt "Mitchell"
 msgid "And as I listen, I detect the subtle dripping of water from a waterfall pond."
-msgstr ""
+msgstr "Et en tendant l'oreille, je perçois le subtil égouttement d'un bassin à cascade."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/77
 msgctxt "Daisuke"
 msgid "That is only Sinclaire's chronic drip, but I thank you all the same."
-msgstr ""
+msgstr "Ce n'est que la fuite chronique de Sinclaire, mais je vous remercie tout de même."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/85
 msgctxt "Mitchell"
 msgid "I feel almost as if I've been transported to the Sukibayashi Jiro!"
-msgstr ""
+msgstr "J'ai presque l'impression d'avoir été transporté au Sukibayashi Jiro !"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-0/15/c-0/96
 msgctxt "Mitchell"
 msgid "Delightful! Simply delightful."
-msgstr ""
+msgstr "Délicieux ! Tout simplement délicieux."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-1/7
 msgctxt "Mitchell"
 msgid "No. Where is the zing? The pizazz?"
-msgstr ""
+msgstr "Non. Où est le peps ? Le panache ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-1/15
 msgctxt "Mitchell"
 msgid "Where is the originality?"
-msgstr ""
+msgstr "Où est l'originalité ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-1/23
 msgctxt "Mitchell"
 msgid "I'm afraid it's a bit too conservative for my bold taste."
-msgstr ""
+msgstr "J'ai bien peur que ce soit un peu trop conservateur pour mon goût audacieux."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-1/31
 msgctxt "Daisuke"
 msgid "Sushi is a simple yet elegant food, and should be presented as such."
-msgstr ""
+msgstr "Le sushi est un mets simple mais élégant, et doit être présenté comme tel."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-0/15/c-1/39
 msgctxt "Daisuke"
 msgid "If you wish for bold presentation look elsewhere."
-msgstr ""
+msgstr "Si vous souhaitez une présentation audacieuse, allez voir ailleurs."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/7
 msgctxt "Mitchell"
 msgid "Hmm. Can you explain that a bit?"
-msgstr ""
+msgstr "Hmm. Peux-tu m'expliquer cela un peu ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Not a thing out of place. Overly pristine. Makes me feel like I'm not supposed to be here!"
-msgstr ""
+msgstr "Rien qui dépasse. Trop immaculé. J'ai l'impression de ne pas être à ma place ici !"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/c-0/7
 msgctxt "Mitchell"
 msgid "I'm rather inclined to agree."
-msgstr ""
+msgstr "Je suis plutôt enclin à être d'accord."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/c-0/15
 msgctxt "Mitchell"
 msgid "I don't mind luxury, but this? It's a bit much."
-msgstr ""
+msgstr "Je n'ai rien contre le luxe, mais ceci ? C'est un peu excessif."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/c-0/23
 msgctxt "Daisuke"
 msgid "Luxury?"
-msgstr ""
+msgstr "Le luxe ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/c-0/31
 msgctxt "Narrator"
 msgid "Daisuke gestures around you."
-msgstr ""
+msgstr "Daisuke désigne les lieux d'un geste."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/c-0/39
 msgctxt "Daisuke"
 msgid "I selected these pieces for their simplicity."
-msgstr ""
+msgstr "J'ai choisi ces pièces pour leur simplicité."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/c-0/47
 msgctxt "Mitchell"
 msgid "I'm sorry Daisuke but I don't think I'm a fan."
-msgstr ""
+msgstr "Je suis désolé, Daisuke, mais je ne crois pas être un adepte."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-1/15/c-0/55
 msgctxt "Daisuke"
 msgid "I see. That is a shame."
-msgstr ""
+msgstr "Je vois. C'est regrettable."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/7
 msgctxt "Mitchell"
 msgid "It's what?"
-msgstr ""
+msgstr "C'est quoi ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "Rather offputting, I must say."
-msgstr ""
+msgstr "Plutôt rebutant, je dois dire."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/1/s/0
 msgctxt "Choix"
 msgid "Absolutely masterful."
-msgstr ""
+msgstr "Absolument magistral."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-0/7
 msgctxt "Mitchell"
 msgid "Unfortunately I think you're right. Not exactly inviting, is it?"
-msgstr ""
+msgstr "Malheureusement, je crois que tu as raison. Ce n'est pas franchement accueillant, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-0/18
 msgctxt "Daisuke"
 msgid "I am sorry you find my restaurant uninviting."
-msgstr ""
+msgstr "Je suis navré que vous trouviez mon restaurant peu accueillant."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/7
 msgctxt "Mitchell"
 msgid "Run down? Masterful? Please explain."
-msgstr ""
+msgstr "Délabré ? Magistral ? Explique-toi, je te prie."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "A flawless example of the Japanese concept known as wabi-sabi."
-msgstr ""
+msgstr "Un exemple parfait du concept japonais du wabi-sabi."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "A flawless example of the concept of shabby-chic."
-msgstr ""
+msgstr "Un exemple parfait du concept de shabby-chic."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "A flawless example of brutalist decor."
-msgstr ""
+msgstr "Un exemple parfait de décor brutaliste."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/3/s/0
 msgctxt "Choix"
 msgid "A flawless example of Bohemian decor."
-msgstr ""
+msgstr "Un exemple parfait de décor bohème."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/7
 msgctxt "Daisuke"
 msgid "That is... not what I intended, but I am glad you are familiar with the concept."
-msgstr ""
+msgstr "Ce n'est... pas ce que j'avais voulu, mais je suis heureux que vous connaissiez le concept."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/15
 msgctxt "Daisuke"
 msgid "Its meaning is quite profound."
-msgstr ""
+msgstr "Sa signification est assez profonde."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/23
 msgctxt "Daisuke"
 msgid "It is the embrace of transience and the impermanence of all things."
-msgstr ""
+msgstr "C'est l'acceptation de la transience et de l'impermanence de toute chose."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/31
 msgctxt "Mitchell"
 msgid "My goodness... You're right."
-msgstr ""
+msgstr "Mon dieu... Tu as raison."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/39
 msgctxt "Mitchell"
 msgid "Think of a cracked bowl glued back together with gold: Used for who knows how many years before being placed reverently on a shelf?"
-msgstr ""
+msgstr "Pense à un bol fêlé recollé avec de l'or : utilisé pendant Dieu sait combien d'années avant d'être posé avec révérence sur une étagère."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/47
 msgctxt "Mitchell"
 msgid "Some day, that will be all of us."
-msgstr ""
+msgstr "Un jour, ce sera chacun de nous."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/55
 msgctxt "Mitchell"
 msgid "Used with love until finished."
-msgstr ""
+msgstr "Utilisés avec amour jusqu'à la fin."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/63
 msgctxt "Mitchell"
 msgid "And then honored in retirement."
-msgstr ""
+msgstr "Puis honorés dans la retraite."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/71
 msgctxt "Mitchell"
 msgid "I'm... I'm moved to tears."
-msgstr ""
+msgstr "Je suis... je suis ému aux larmes."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/82
 msgctxt "Mitchell"
 msgid "And to think that without you pointing it out to me, I would have missed it."
-msgstr ""
+msgstr "Et dire que sans toi pour me le faire remarquer, je serais passé à côté."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-0/90
 msgctxt "Mitchell"
 msgid "How can I thank you enough?"
-msgstr ""
+msgstr "Comment pourrais-je assez te remercier ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-1/7
 msgctxt "Daisuke"
 msgid "Shabby-chic? You think my restaurant is shabby?"
-msgstr ""
+msgstr "Shabby-chic ? Vous trouvez mon restaurant miteux ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-1/15
 msgctxt "Mitchell"
 msgid "Shabby, yes. Chic? No."
-msgstr ""
+msgstr "Miteux, oui. Chic ? Non."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-1/23
 msgctxt "Daisuke"
 msgid "How unfortunate."
-msgstr ""
+msgstr "Quel dommage."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/7
 msgctxt "Daisuke"
 msgid "Brutal???"
-msgstr ""
+msgstr "Brutal ???"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/18
 msgctxt "Mitchell"
 msgid "If you understood brutalism you would never say that about this place."
-msgstr ""
+msgstr "Si tu comprenais le brutalisme, tu ne dirais jamais cela de cet endroit."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/29
 msgctxt "Daisuke"
 msgid "I do not know what you mean, but I feel I am being insulted just the same."
-msgstr ""
+msgstr "Je ne sais pas ce que vous voulez dire, mais j'ai l'impression d'être insulté quand même."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-2/37
 msgctxt "Daisuke"
 msgid "You are lucky I do not eject you from your seat here and now."
-msgstr ""
+msgstr "Vous avez de la chance que je ne vous éjecte pas de votre siège sur-le-champ."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-3/7
 msgctxt "Mitchell"
 msgid "Bohemian? Are you joking?"
-msgstr ""
+msgstr "Bohème ? Tu plaisantes ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-3/18
 msgctxt "Daisuke"
 msgid "Are you simply guessing at style terms?"
-msgstr ""
+msgstr "Vous devinez simplement des termes de style au hasard ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/c-2/23/c-1/15/c-3/26
 msgctxt "Daisuke"
 msgid "Your reckless words are undeserving of a place at this table."
-msgstr ""
+msgstr "Vos paroles irréfléchies ne méritent pas une place à cette table."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/0
 msgctxt "Mitchell"
 msgid "Let's move on to your specialty, Daisuke... What are we to make of the settings?"
-msgstr ""
+msgstr "Passons à ta spécialité, Daisuke... Que penser des couverts ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/8
 msgctxt "Daisuke"
 msgid "Before we begin I am obligated to tell you that Scandalabra's stories about the silver are damaging lies and not to be believed."
-msgstr ""
+msgstr "Avant de commencer, je suis tenu de vous dire que les histoires de Scandalabra sur l'argenterie sont des mensonges nuisibles auxquels il ne faut pas croire."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/22
 msgctxt "Mitchell"
 msgid "Believe the Scandalabra? I'd sooner let Sinclaire process an insurance claim for me..."
-msgstr ""
+msgstr "Croire le Scandalabra ? Je laisserais plutôt Sinclaire traiter un dossier d'assurance pour moi..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/33
 msgctxt "Daisuke"
 msgid "I am glad we are all in agreement there."
-msgstr ""
+msgstr "Je suis heureux que nous soyons tous d'accord là-dessus."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/41
 msgctxt "Mitchell"
 msgid "Now let's have a look."
-msgstr ""
+msgstr "Voyons cela maintenant."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/49
 msgctxt "Mitchell"
 msgid "We appear to be missing chopsticks."
-msgstr ""
+msgstr "Il semble que les baguettes manquent."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/57/s/0
 msgctxt "Choix"
 msgid "Why's that, Daisuke?"
-msgstr ""
+msgstr "Pourquoi donc, Daisuke ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/58/s/0
 msgctxt "Choix"
 msgid "Chopsticks are properly only offered in Chinese restaurants."
-msgstr ""
+msgstr "Les baguettes ne s'offrent normalement que dans les restaurants chinois."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/59/s/0
 msgctxt "Choix"
 msgid "Chopsticks are brought out after the first course."
-msgstr ""
+msgstr "Les baguettes sont apportées après le premier service."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/60/s/0
 msgctxt "Choix"
 msgid "Traditionally, sushi is eaten with the hands."
-msgstr ""
+msgstr "Traditionnellement, les sushis se mangent avec les mains."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/c-3/7 mitchell_food/UpscaleSushi/0/g-0/c-4/32 mitchell_food/UpscaleSushi/0/g-0/c-5/15
 msgctxt "Daisuke"
 msgid "Traditionally, sushi is eaten with the hands."
-msgstr ""
+msgstr "Traditionnellement, les sushis se mangent avec les mains."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/c-4/7
 msgctxt "Mitchell"
 msgid "Oh dear."
-msgstr ""
+msgstr "Oh là là."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/c-4/24 mitchell_food/UpscaleSushi/0/g-0/c-5/7
 msgctxt "Daisuke"
 msgid "This is untrue. The answer is much simpler."
-msgstr ""
+msgstr "C'est faux. La réponse est bien plus simple."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/c-4/40 mitchell_food/UpscaleSushi/0/g-0/c-5/23 mitchell_food/UpscaleSushi/0/g-0/c-6/30
 msgctxt "Daisuke"
 msgid "But if you wish I can bring you some."
-msgstr ""
+msgstr "Mais si vous le souhaitez, je peux vous en apporter."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/c-6/19
 msgctxt "Daisuke"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/c-6/38
 msgctxt "Mitchell"
 msgid "No need! I'll eat in the traditional way."
-msgstr ""
+msgstr "Inutile ! Je mangerai à la façon traditionnelle."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-0/c-6/46
 msgctxt "Mitchell"
 msgid "And I must say, marvelous attention to detail, Daisuke."
-msgstr ""
+msgstr "Et je dois dire, quelle merveilleuse attention aux détails, Daisuke."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/0
 msgctxt "Mitchell"
 msgid "Alright... Let's get down to business! I'm starving."
-msgstr ""
+msgstr "Bien... Passons aux choses sérieuses ! Je meurs de faim."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/8
 msgctxt "Daisuke"
 msgid "As the name suggests, we offer only omakase."
-msgstr ""
+msgstr "Comme son nom l'indique, nous ne proposons que de l'omakase."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/16/s/0
 msgctxt "Choix"
 msgid "Great! No need to order."
-msgstr ""
+msgstr "Super ! Pas besoin de commander."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/17/s/0
 msgctxt "Choix"
 msgid "Ooh, perfect. I love shellfish!"
-msgstr ""
+msgstr "Ooh, parfait. J'adore les fruits de mer !"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/18/s/0
 msgctxt "Choix"
 msgid "Hmm. I don't like not having a selection."
-msgstr ""
+msgstr "Hmm. Je n'aime pas ne pas avoir le choix."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/19/s/0
 msgctxt "Choix"
 msgid "Seaweed only is an odd choice, I have to say."
-msgstr ""
+msgstr "Uniquement des algues, c'est un choix étrange, je dois dire."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/c-7/19
 msgctxt "Mitchell"
 msgid "I can't wait to see what's in store for us!"
-msgstr ""
+msgstr "Il me tarde de découvrir ce qui nous attend !"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/c-8/13 mitchell_food/UpscaleSushi/0/g-1/c-10/13
 msgctxt "Mitchell"
 msgid "I don't think that means what you think it does..."
-msgstr ""
+msgstr "Je ne pense pas que cela veuille dire ce que tu crois..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-1/c-9/19
 msgctxt "Mitchell"
 msgid "Me neither."
-msgstr ""
+msgstr "Moi non plus."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/0
 msgctxt "Mitchell"
 msgid "Ok, now when the first course comes, let's..."
-msgstr ""
+msgstr "Bon, quand le premier service arrivera, nous allons..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "Give ourselves a minute or so to appreciate its beauty."
-msgstr ""
+msgstr "Nous donner une minute environ pour en apprécier la beauté."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "Pretend to refuse it once before accepting."
-msgstr ""
+msgstr "Faire semblant de le refuser une fois avant de l'accepter."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/10/s/0
 msgctxt "Choix"
 msgid "Eat it right away, as soon as it is delivered!"
-msgstr ""
+msgstr "Le manger tout de suite, dès qu'il est servi !"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/c-11/13
 msgctxt "Mitchell"
 msgid "Sushi must be eaten right away! Within the first ten seconds."
-msgstr ""
+msgstr "Le sushi doit être mangé immédiatement ! Dans les dix premières secondes."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/c-12/13
 msgctxt "Mitchell"
 msgid "Now that's an odd notion."
-msgstr ""
+msgstr "Voilà une drôle d'idée."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/c-13/13
 msgctxt "Mitchell"
 msgid "Yes! You really know your sushi etiquette."
-msgstr ""
+msgstr "Oui ! Tu connais vraiment l'étiquette des sushis."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-2/c-13/24
 msgctxt "Mitchell"
 msgid "Which I find very appealing, by the way..."
-msgstr ""
+msgstr "Ce que je trouve très séduisant, soit dit en passant..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/0
 msgctxt "Daisuke"
 msgid "Here you are. Please enjoy."
-msgstr ""
+msgstr "Voici. Bon appétit."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/8
 msgctxt "Narrator"
 msgid "Daisuke places a dish before you containing what must be the most hideous, clumsy nigiri you've ever seen in your life."
-msgstr ""
+msgstr "Daisuke dépose devant vous une assiette contenant ce qui doit être le nigiri le plus hideux et le plus maladroit que vous ayez vu de votre vie."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/19
 msgctxt "Narrator"
 msgid "The fish is misshapen, and the rice seems to be falling apart."
-msgstr ""
+msgstr "Le poisson est difforme, et le riz semble se désagréger."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/30
 msgctxt "Mitchell"
 msgid "What... what are we looking at, Daisuke?"
-msgstr ""
+msgstr "Que... que sommes-nous en train de regarder, Daisuke ?"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/41
 msgctxt "Daisuke"
 msgid "Is it not obvious? This is eel."
-msgstr ""
+msgstr "N'est-ce pas évident ? C'est de l'anguille."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/49
 msgctxt "Mitchell"
 msgid "...I see."
-msgstr ""
+msgstr "...Je vois."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/60/s/0
 msgctxt "Choix"
 msgid "No complaints from me!"
-msgstr ""
+msgstr "Rien à redire de mon côté !"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/61/s/0
 msgctxt "Choix"
 msgid "Thank you for trying your best, Daisuke."
-msgstr ""
+msgstr "Merci d'avoir fait de votre mieux, Daisuke."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/62/s/0
 msgctxt "Choix"
 msgid "<i>Sip water and look away.</i>"
-msgstr ""
+msgstr "<i>Boire de l'eau et détourner le regard.</i>"
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-3/c-14/13 mitchell_food/UpscaleSushi/0/g-3/c-15/13
 msgctxt "Mitchell"
 msgid "Glad to know your take. I'll present my own opinions in the review..."
-msgstr ""
+msgstr "Content de connaître ton avis. Je présenterai le mien dans la critique..."
 
+# Traduction IA – à relire
 #: mitchell_food/UpscaleSushi/0/g-4/0
 msgctxt "Mitchell"
 msgid "Now that we've eaten, I think it's time to go!"
-msgstr ""
+msgstr "Maintenant que nous avons mangé, il est temps de partir !"
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/19
 msgctxt "Narrator"
 msgid "You find yourself in a large and comfy, side-of-the-street style stand."
-msgstr ""
+msgstr "Vous voilà dans un grand stand confortable, style bord de rue."
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/24
 msgctxt "Narrator"
 msgid "Koa has blended traditional Hawaiian vibes with Korean elements."
-msgstr ""
+msgstr "Koa a mêlé l'ambiance hawaïenne traditionnelle à des éléments coréens."
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/29/b/1
 msgctxt "Narrator"
 msgid "He has somehow convinced Lux to don a red and blue outfit, in order to tastefully represent a traditional Korean lantern."
-msgstr ""
+msgstr "Il a réussi à convaincre Lux d'enfiler une tenue rouge et bleue, pour représenter avec goût une lanterne coréenne traditionnelle."
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/32
 msgctxt "Narrator"
 msgid "Koa has managed to bend himself around a grill in the center of the establishment, in classic Korean BBQ style."
-msgstr ""
+msgstr "Koa a réussi à se plier autour d'un gril au centre de l'établissement, à la manière du barbecue coréen classique."
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/37/b/1
 msgctxt "Narrator"
 msgid "But the Hawaiian vibe is very much in full swing, and the scent of Kahlua pork is drifting on the breeze (he's asked Wyndolyn to kindly crack herself a bit for the occasion!)."
-msgstr ""
+msgstr "Mais l'ambiance hawaïenne bat son plein, et l'odeur du porc kalua flotte dans l'air (il a demandé à Wyndolyn de bien vouloir s'entrouvrir un peu pour l'occasion !)."
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/49
 msgctxt "Koa"
 msgid "Aloha friends!"
-msgstr ""
+msgstr "Aloha les amis !"
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/60
 msgctxt "Koa"
 msgid "Welcome to Two Currents! A Hawaiian-fusion experience!"
-msgstr ""
+msgstr "Bienvenue chez Two Currents ! Une expérience hawaïenne fusion !"
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/71
 msgctxt "Mitchell"
 msgid "My, my, mon ami! You've worked hard to create the atmosphere."
-msgstr ""
+msgstr "Eh bien, eh bien, mon ami ! Tu t'es donné du mal pour créer l'ambiance."
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/79
 msgctxt "Koa"
 msgid "Oh, not too hard!"
-msgstr ""
+msgstr "Oh, pas trop !"
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/87
 msgctxt "Mitchell"
 msgid "Well... What do we think?"
-msgstr ""
+msgstr "Alors... Qu'en pensons-nous ?"
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/95/s/0
 msgctxt "Choix"
 msgid "You've achieved a true fusion!"
-msgstr ""
+msgstr "Tu as réussi une vraie fusion !"
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/96/s/0
 msgctxt "Choix"
 msgid "Awesome shoji lantern!!"
-msgstr ""
+msgstr "Génial, la lanterne shoji !!"
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/97/s/0
 msgctxt "Choix"
 msgid "Love the cheongsachorong. Nice touch."
-msgstr ""
+msgstr "J'adore le cheongsachorong. Belle touche."
 
+# Traduction IA – à relire
 #: mitchell_food/DyinForHawaiian/0/98/s/0
 msgctxt "Choix"
 msgid "Shouldn't we be eating on Abel's back?"
-msgstr ""
+msgstr "On ne devrait pas manger sur le dos d'Abel ?"
 
 #: mitchell_food/DyinForHawaiian/0/c-0/7
 msgctxt "Koa"
