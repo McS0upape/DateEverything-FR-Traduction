@@ -173,3 +173,10 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## sophia_safe
 - Blissmas → Noëlicité ; Safeword → mot de sécurité (le mot choisi : « Coffre-fort ») ; Wretch → vermisseau ; IRS Agent → Agent du Fisc ; Prep cook → commis
+
+## unfurnished_business
+- Beverly's Beverages → la Buvette de Beverly ; Friar Errol → Frère Errol ; The Breaker Box → le Breaker Box ; Sassy Chap → le Sassy Chap / le Chap
+- Fiches à compléter : genre grammatical de Ben-hwa, Kopi, Rongomaiwhenua
+
+## luke_microwave
+- swarmers → essaimeurs ; the Barrens → les Friches ; Deathmart → Mortmart ; tendies → nuggets ; The Magnetron → Le Magnétron ; GRUNT → BIDASSE

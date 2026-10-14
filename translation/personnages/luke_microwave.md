@@ -22,10 +22,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (Luke, micro-ondes, soldat).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (« Ranger » = titre invariable, épicène).
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : militaire aboyé, familier, paranoïaque et épuisé (powercrank, 49 mois sans dormir), parodie de jeu de guerre post-apo des années 90 (Duke Nukem).
+- **Personnalité, manière de parler** : zèle de sergent, digressions absurdes, hurle des ordres puis s'excuse ; voix intérieure en <i>.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Ranger », les Immortels (« Thank the Immortals » → « Merci aux Immortels »), les essaimeurs (swarmers), les tendies → « nuggets », 'wave → « 'onde » (micro-ondes), le Magnétron (The Magnetron), les Friches (the Barrens), colonel Furnace (« Colonel Furnace »), powercrank (inchangé), les voix dans les murs.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Ranger! You survived the journey! » → « Ranger ! Tu as survécu au voyage ! »
+  - « Swarmers are just stupid. » → « Les essaimeurs sont juste stupides. »
+  - « I'm a goddamn microwave! » → « Je suis un putain de micro-ondes ! »
