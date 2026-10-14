@@ -141,3 +141,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **tbc_ui** : Textbox-chan, UImmy, Lauren Ipsum (garder) ; Hewo = Bonjouw ; Ttyl = À+.
 - **jerry_junkdrawer** : junk drawer = tiroir fourre-tout ; Department for Undelivered Flyers = Service des Prospectus Non Distribués ; Mold Wing = Aile Moisissure ; hateship = haimitié (aussi chez Harper et Tina).
 - **memoria_memories** : MemoRandom (garder, piste : MémoAléatoire) ; Plenty-o-Pasta Portrait = Portrait Plein de Pâtes.
+- **tony_toolbox** : toolbox = boîte à outils ; Gregslist (garder) ; done-zo = fini-zo ; Fix it, Ton' = Répare-le, Ton' ! ; Indora the Indoor Slide = Intéria, le Toboggan d'Intérieur.
