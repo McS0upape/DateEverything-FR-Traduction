@@ -137,3 +137,5 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **tina_triangle** : throuple = trouple ; Love on Triangle Island = L'Amour sur l'Île du Triangle ; square (insulte) = carré.
 - **mateo_blanket** : tassel hound = chien à pompons ; knit bull = pit-tricot ; springtail = queue-de-printemps ; WFYB = BOVTR (Brigade On-Va-Te-Retrouver) ; Curt, Rod, Stitch, pythorn (garder).
 - **parker_boardgames** : Carl card = carte Carl ; Cream Capitalist = Capitaliste de la Crème ; Frisk = Pelotage ; Sandy Kingdom = Royaume de Sable.
+- **mitchell_food** : Yummy Yeti = Le Yeti Yummy ; Omakase Daisuke, Two Currents (garder) ; Mitchell's Menuette = Le Menuet de Mitchell ; Every-Day-Is-Sundae = Chaque-Jour-Est-Sundae (provisoire). CONVENTION : quand un personnage parle français en VO (gag « langue étrangère »), le remplacer par de l'italien.
+- **tbc_ui** : Textbox-chan, UImmy, Lauren Ipsum (garder) ; Hewo = Bonjouw ; Ttyl = À+.

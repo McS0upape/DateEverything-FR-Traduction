@@ -210,7 +210,7 @@ msgstr "Un papillon de nuit s'est envolé quand je t'ai ouvert..."
 #: jerry_junkdrawer/jerry_1st_encounter/0/56/c-0/37/c-0/7
 msgctxt "Jerry"
 msgid "Oho, so you would think! Where the untrained eye sees a pile of plastic spaghetti, I see a system, my friend! A highly organized system!"
-msgstr "Oho, c'est ce que tu crois ! Là où l'œil non averti voit un tas de spaghettis en plastique, moi je vois un système, {{mon ami|mon amie|mon ami·e}} ! Un système ultra organisé !"
+msgstr "Oho, c'est ce que tu crois ! Là où l'oeil non averti voit un tas de spaghettis en plastique, moi je vois un système, {{mon ami|mon amie|mon ami·e}} ! Un système ultra organisé !"
 
 # Traduction IA – à relire
 #: jerry_junkdrawer/jerry_1st_encounter/0/56/c-0/37/c-0/15
@@ -1404,7 +1404,7 @@ msgstr "Les surcycler en quelque chose qui prend moins de place."
 #: jerry_junkdrawer/jerry_recycle/0/c-0/15/c-0/7
 msgctxt "Jerry"
 msgid "Upcycle them? You mean like an art piece?"
-msgstr "Les surcycler ? Tu veux dire comme une œuvre d'art ?"
+msgstr "Les surcycler ? Tu veux dire comme une oeuvre d'art ?"
 
 # Traduction IA – à relire
 #: jerry_junkdrawer/jerry_recycle/0/g-0/0/s/0
@@ -1416,13 +1416,13 @@ msgstr "Oui."
 #: jerry_junkdrawer/jerry_recycle/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "Uh. Yeah. An art piece that we display... in the dumpster."
-msgstr "Euh. Oui. Une œuvre d'art qu'on exposerait... dans la benne."
+msgstr "Euh. Oui. Une oeuvre d'art qu'on exposerait... dans la benne."
 
 # Traduction IA – à relire
 #: jerry_junkdrawer/jerry_recycle/0/g-0/c-1/7
 msgctxt "Jerry"
 msgid "Well, I suppose the collection <i>could</i> use a centerpiece. Something eye-catching to bring in more visitors."
-msgstr "Eh bien, j'imagine que la collection <i>pourrait</i> avoir besoin d'une pièce maîtresse. Quelque chose qui attire l'œil et amène plus de visiteurs."
+msgstr "Eh bien, j'imagine que la collection <i>pourrait</i> avoir besoin d'une pièce maîtresse. Quelque chose qui attire l'oeil et amène plus de visiteurs."
 
 # Traduction IA – à relire
 #: jerry_junkdrawer/jerry_recycle/0/g-0/c-1/15
@@ -2136,7 +2136,7 @@ msgstr "Je prévois de faire un bricolage avec !"
 #: jerry_junkdrawer/jerry_shoo_return/0/g-0/35/c-3/21/0/s/0
 msgctxt "Choix"
 msgid "<i>What</i> craft?"
-msgstr "Quel bricolage ?"
+msgstr "<i>Quel</i> bricolage ?"
 
 # Traduction IA – à relire
 #: jerry_junkdrawer/jerry_shoo_return/0/g-0/35/c-3/21/c-0/7
@@ -3008,567 +3008,680 @@ msgctxt "Narrator"
 msgid "The stifling amount of junk blocks your path out, but somehow through extreme wriggling you make it out in one piece."
 msgstr "La quantité étouffante de bric-à-brac vous barre la sortie, mais à force de vous tortiller, vous réussissez à vous en tirer sain et sauf."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/0
 msgctxt "Jerry"
 msgid "Just so you know, I am absolutely refusing to talk to you."
-msgstr ""
+msgstr "Je tiens à te prévenir, je refuse catégoriquement de te parler."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/8/s/0
 msgctxt "Choix"
 msgid "You seem more energetic than I thought you'd be."
-msgstr ""
+msgstr "Tu as l'air plus énergique que je ne le pensais."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/7
 msgctxt "Jerry"
 msgid "Well I'm not."
-msgstr ""
+msgstr "Eh bien, je ne le suis pas."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "You haven't had this much space to walk around in years."
-msgstr ""
+msgstr "Ça fait des années que tu n'avais pas eu autant de place pour te déplacer."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I wanted to talk to you about my behavior. (USE EMPATHY CANDY)"
-msgstr ""
+msgstr "Je voulais te parler de mon comportement. (UTILISER UN BONBON D'EMPATHIE)"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-0/15
 msgctxt "Narrator"
 msgid "The silence lingers, and you take your leave."
-msgstr ""
+msgstr "Le silence s'éternise, et vous prenez congé."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/7
 msgctxt "Jerry"
 msgid "Great. Are you going to start with an apology?"
-msgstr ""
+msgstr "Super. Tu vas commencer par des excuses ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Yes, actually."
-msgstr ""
+msgstr "Oui, en fait."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/7
 msgctxt "Jerry"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/15
 msgctxt "Jerry"
 msgid "Well. Good!"
-msgstr ""
+msgstr "Eh bien. Bien !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I'm sorry I was so forceful. I only wanted to help."
-msgstr ""
+msgstr "Je suis {{désolé|désolée|désolé·e}} d'avoir été aussi {{brutal|brutale|brutal·e}}. Je voulais seulement aider."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "And... if I can say so. I do think you look a lot better than before."
-msgstr ""
+msgstr "Et... si je peux me permettre. Je trouve que tu as bien meilleure mine qu'avant."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/7
 msgctxt "Jerry"
 msgid "Really. Because I've feel miserable. I feel as empty as my collection."
-msgstr ""
+msgstr "Vraiment. Parce que moi, je me sens misérable. Je me sens aussi vide que ma collection."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/15
 msgctxt "Jerry"
 msgid "It's... so much nothing. It's like nausea and hunger all at the same time and it's squeezing inside my stomach."
-msgstr ""
+msgstr "C'est... tellement de rien. C'est comme avoir la nausée et la faim en même temps, et ça me serre l'estomac."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "I shouldn't have thrown away everything. Which is why I got you this."
-msgstr ""
+msgstr "Je n'aurais pas dû tout jeter. C'est pour ça que je t'ai apporté ça."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/7
 msgctxt "Jerry"
 msgid "What is it?"
-msgstr ""
+msgstr "Qu'est-ce que c'est ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/23
 msgctxt "Jerry"
 msgid "That's... That's Rudolph! And Lorena, and all the little figurines!"
-msgstr ""
+msgstr "C'est... C'est Rudolph ! Et Lorena, et toutes les petites figurines !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/34
 msgctxt "Jerry"
 msgid "You put them together... You saved them from the trash heap."
-msgstr ""
+msgstr "Tu les as assemblés... Tu les as sauvés de la décharge."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/42
 msgctxt "Narrator"
 msgid "Jerry starts to tear up."
-msgstr ""
+msgstr "Jerry commence à avoir les larmes aux yeux."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/50
 msgctxt "Jerry"
 msgid "Oh... Oh, I thought I'd lost you."
-msgstr ""
+msgstr "Oh... Oh, je croyais vous avoir perdus."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/61
 msgctxt "Jerry"
 msgid "And look! They're all... they're all combined into a little carousel! How adorable!"
-msgstr ""
+msgstr "Et regarde ! Ils sont tous... ils sont tous combinés en un petit carrousel ! Adorable !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/69/0/s/0
 msgctxt "Choix"
 msgid "You could make all sorts of art like this with your collection, Jerry."
-msgstr ""
+msgstr "Tu pourrais faire toutes sortes d'oeuvres comme ça avec ta collection, Jerry."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/69/c-0/7
 msgctxt "Jerry"
 msgid "...so this is what you meant."
-msgstr ""
+msgstr "...donc c'est ça que tu voulais dire."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/69/c-0/15
 msgctxt "Jerry"
 msgid "You didn't want me to destroy all of my pieces... You wanted me to make them into something new."
-msgstr ""
+msgstr "Tu ne voulais pas que je détruise toutes mes pièces... Tu voulais que j'en fasse quelque chose de nouveau."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/69/c-0/23
 msgctxt "Jerry"
 msgid "I have to say, I have some notes on your forceful execution! But... point taken."
-msgstr ""
+msgstr "Je dois dire que j'ai quelques remarques sur ta façon brutale de procéder ! Mais... message reçu."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/69/c-0/31
 msgctxt "Jerry"
 msgid "And I do appreciate this olive branch. Even if you're the one who chopped down the tree."
-msgstr ""
+msgstr "Et j'apprécie ce rameau d'olivier. Même si c'est toi qui as abattu l'arbre."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/69/c-0/39
 msgctxt "Jerry"
 msgid "Alright. Alright! Fine. We'll start over."
-msgstr ""
+msgstr "Bon. Bon ! D'accord. On repart de zéro."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_hatereturn/0/c-0/15/c-1/15/c-0/23/c-0/15/c-0/23/c-0/69/c-0/47
 msgctxt "Jerry"
 msgid "Me and Rudolph, and Lorena... And you, too."
-msgstr ""
+msgstr "Moi et Rudolph, et Lorena... Et toi aussi."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/0
 msgctxt "Jerry"
 msgid "Oh! Oh my!"
-msgstr ""
+msgstr "Oh ! Oh là là !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/8
 msgctxt "Jerry"
 msgid "This is unexpected..."
-msgstr ""
+msgstr "Je ne m'y attendais pas..."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/16
 msgctxt "Jerry"
 msgid "If I turn human I'm gonna have to find a new place to hold my collection!"
-msgstr ""
+msgstr "Si je deviens humain, il va falloir que je trouve un nouvel endroit pour ma collection !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/33/s/0
 msgctxt "Choix"
 msgid "Let's get it started, then!"
-msgstr ""
+msgstr "Alors lançons-nous !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/34/s/0
 msgctxt "Choix"
 msgid "Oh, maybe not just yet. Turns out I don't have the stats."
-msgstr ""
+msgstr "Oh, peut-être pas tout de suite. Il se trouve que je n'ai pas les stats."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/c-1/10
 msgctxt "Jerry"
 msgid "Oh that's a bit of a relief actually."
-msgstr ""
+msgstr "Oh, c'est un petit soulagement, en fait."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/c-1/18
 msgctxt "Jerry"
 msgid "I was already feeling a panic attack on the horizon."
-msgstr ""
+msgstr "Je sentais déjà une crise de panique poindre à l'horizon."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/c-1/26
 msgctxt "Jerry"
 msgid "Just imagine re-re-cataloging everything!"
-msgstr ""
+msgstr "Imagine devoir tout re-re-cataloguer !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/c-1/34
 msgctxt "Jerry"
 msgid "But that doesn't mean I'm disinterested."
-msgstr ""
+msgstr "Mais ça ne veut pas dire que je ne suis pas intéressé."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_join/0/c-1/42
 msgctxt "Jerry"
 msgid "Let me know if anything changes on your end."
-msgstr ""
+msgstr "Dis-moi si quelque chose change de ton côté."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_return/0/0
 msgctxt "Jerry"
 msgid "Wah! You scared me!"
-msgstr ""
+msgstr "Wah ! Tu m'as fait peur !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_return/0/8
 msgctxt "Jerry"
 msgid "Were you, uh, coming to change me into a human?"
-msgstr ""
+msgstr "Tu venais, euh, me transformer en humain ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_return/0/25/s/0
 msgctxt "Choix"
 msgid "Yep, let's get 'er done."
-msgstr ""
+msgstr "Ouaip, finissons-en."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_return/0/26/s/0
 msgctxt "Choix"
 msgid "No - just checking on the growth of that mold in the corner."
-msgstr ""
+msgstr "Non, je vérifiais juste la croissance de la moisissure dans le coin."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_return/0/c-1/10
 msgctxt "Jerry"
 msgid "Ah... she's a beaut, ain't she? Have you ever seen such a deep, beautiful black?"
-msgstr ""
+msgstr "Ah... elle est belle, hein ? Tu as déjà vu un noir aussi profond et magnifique ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_return/0/c-1/18
 msgctxt "Jerry"
 msgid "I'm pretty sure I saw it move once."
-msgstr ""
+msgstr "Je suis presque sûr de l'avoir vue bouger, une fois."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/6/b/1
 msgctxt "Skylar"
 msgid "C'mon, Skylar, you can get this whole Realization to work. Just start with Jerry and..."
-msgstr ""
+msgstr "Allez, Skylar, tu peux faire marcher toute cette Réalisation. Commence par Jerry et..."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/9
 msgctxt "Skylar"
 msgid "...whoa."
-msgstr ""
+msgstr "...waouh."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/17
 msgctxt "Skylar"
 msgid "Which of these, er... Lovely objects are we realizing today?"
-msgstr ""
+msgstr "Lequel de ces, euh... charmants objets réalise-t-on aujourd'hui ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/25
 msgctxt "Jerry"
 msgid "That'd be me! Jerry. Of \"Jerry's Junk Drawer\"."
-msgstr ""
+msgstr "C'est moi ! Jerry. Du « Tiroir Fourre-Tout de Jerry »."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/33
 msgctxt "Skylar"
 msgid "Alright!"
-msgstr ""
+msgstr "Parfait !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/41
 msgctxt "Skylar"
 msgid "You sure you don't wanna maybe do this someplace a little more open?"
-msgstr ""
+msgstr "Tu es sûr de ne pas vouloir faire ça dans un endroit un peu plus dégagé ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/49
 msgctxt "Jerry"
 msgid "I find I'm most comfortable in uncomfortable spaces."
-msgstr ""
+msgstr "Je me sens plus à l'aise dans les espaces inconfortables."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/57
 msgctxt "Skylar"
 msgid "Suit yourself, man. And from this moment on, I mean that... literally!"
-msgstr ""
+msgstr "Comme tu voudras, mec. Et à partir de maintenant, c'est... littéralement ton corps qui décide !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realize_begin/68
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely a junk drawer, becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était jadis qu'un simple tiroir fourre-tout devient...."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/3
 msgctxt "Jerry"
 msgid "Wowza! I'm... I'm tall!"
-msgstr ""
+msgstr "Bigre ! Je... je suis grand !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/11
 msgctxt "Jerry"
 msgid "Look at that! Is this my collection? Gosh, it all looks so tiny from here. And... Uh. Woof. What is <i>that?</i>"
-msgstr ""
+msgstr "Regardez-moi ça ! C'est ma collection ? Dis donc, tout paraît minuscule d'ici. Et... Euh. Ouf. C'est quoi, <i>ça ?</i>"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/19/s/0
 msgctxt "Choix"
 msgid "That's a smell."
-msgstr ""
+msgstr "C'est une odeur."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/c-0/7
 msgctxt "Jerry"
 msgid "Woof! Jiminy Christmas, that is... ripe."
-msgstr ""
+msgstr "Ouf ! Nom d'un petit bonhomme, c'est... bien mûr."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-0/0
 msgctxt "Jerry"
 msgid "Is that the general aroma my collection's had all this time? No wonder nobody used to open me."
-msgstr ""
+msgstr "C'est l'arôme que dégage ma collection depuis tout ce temps ? Pas étonnant que personne n'ait voulu m'ouvrir."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "I love a man with a natural musk."
-msgstr ""
+msgstr "J'adore un homme au musc naturel."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "Yeah it's rough."
-msgstr ""
+msgstr "Ouais, c'est costaud."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-0/c-1/7
 msgctxt "Jerry"
 msgid "G-Goodness."
-msgstr ""
+msgstr "M-mon Dieu."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-0/c-1/15
 msgctxt "Jerry"
 msgid "Well, I'm glad you like it, but I can't imagine the appeal is universal."
-msgstr ""
+msgstr "Eh bien, ravi que ça te plaise, mais je ne pense pas que ça fasse l'unanimité."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-0/c-2/7
 msgctxt "Jerry"
 msgid "Oh dear."
-msgstr ""
+msgstr "Oh là là."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/0
 msgctxt "Jerry"
 msgid "Agh!"
-msgstr ""
+msgstr "Agh !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/8
 msgctxt "Jerry"
 msgid "Jumpin' Jehoshaphat, that smarts!"
-msgstr ""
+msgstr "Saperlipopette, ça fait un mal de chien !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/16
 msgctxt "Jerry"
 msgid "Hoof..."
-msgstr ""
+msgstr "Ouf..."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/27
 msgctxt "Jerry"
 msgid "I've banged my leg against the exhibits more times than I can count, but it's never felt like that."
-msgstr ""
+msgstr "Je me suis cogné la jambe contre les pièces d'exposition plus de fois que je ne peux compter, mais ça n'a jamais fait cet effet-là."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/35/s/0
 msgctxt "Choix"
 msgid "That'd be your new nervous system."
-msgstr ""
+msgstr "C'est ton nouveau système nerveux."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/7
 msgctxt "Jerry"
 msgid "It's making me nervous alright!"
-msgstr ""
+msgstr "Il me rend nerveux, en effet !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/15
 msgctxt "Jerry"
 msgid "Oh, the textures... the smells... It's overwhelming!"
-msgstr ""
+msgstr "Oh, les textures... les odeurs... C'est écrasant !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/23
 msgctxt "Jerry"
 msgid "Err... I don't mean to sound rude, but... Might it be possible to go back to being a drawer?"
-msgstr ""
+msgstr "Euh... je ne veux pas être impoli, mais... Serait-il possible de redevenir un tiroir ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/31
 msgctxt "Skylar"
 msgid "Sorry, pal. That's a one-way ticket."
-msgstr ""
+msgstr "Désolée, mon pote. C'est un aller simple."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/36
 msgctxt "Jerry"
 msgid "W-What?!"
-msgstr ""
+msgstr "Q-Quoi ?!"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/44
 msgctxt "Jerry"
 msgid "Oh... Oh no."
-msgstr ""
+msgstr "Oh... Oh non."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/52
 msgctxt "Jerry"
 msgid "Well. I guess it doesn't matter. Even if I could turn back, I'd always know the terrible truth."
-msgstr ""
+msgstr "Eh bien. Je suppose que ça n'a pas d'importance. Même si je pouvais revenir en arrière, je connaîtrais toujours l'horrible vérité."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/60
 msgctxt "Jerry"
 msgid "The truth that I'm... <i>stinky.</i>"
-msgstr ""
+msgstr "La vérité, c'est que je suis... <i>puant.</i>"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/68
 msgctxt "Jerry"
 msgid "Even if I could shift back into a wooden drawer, I'd know. The only thing closing on this ol' drawer is the most recent chapter in his life."
-msgstr ""
+msgstr "Même si je pouvais redevenir un tiroir en bois, je saurais. La seule chose qui se referme sur ce vieux tiroir, c'est le dernier chapitre de sa vie."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/76
 msgctxt "Jerry"
 msgid "I... I think I gotta take a walk. A <i>long</i> walk."
-msgstr ""
+msgstr "Je... je crois que je dois aller marcher. Une <i>longue</i> marche."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-1/c-3/84
 msgctxt "Jerry"
 msgid "Maybe get a taste of that \"fresh air\" everyone's always goin' on about."
-msgstr ""
+msgstr "Goûter un peu à cet « air frais » dont tout le monde parle sans arrêt."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "Musk and all... wanna make out?"
-msgstr ""
+msgstr "Musc et tout... tu veux qu'on s'embrasse ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-2/1/s/0
 msgctxt "Choix"
 msgid "It can be good... if it's fresh that is."
-msgstr ""
+msgstr "Ça peut être bien... à condition que ce soit frais."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-2/c-4/10
 msgctxt "Narrator"
 msgid "It appears quickly that the soft caress of skin, however, is not among his dislikes."
-msgstr ""
+msgstr "Il apparaît vite que la douce caresse de la peau, en revanche, ne figure pas parmi ses aversions."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-2/c-4/18
 msgctxt "Narrator"
 msgid "The two of you creep closer and closer. His fingers run through your hair."
-msgstr ""
+msgstr "Vous vous rapprochez de plus en plus. Ses doigts passent dans vos cheveux."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-2/c-4/23
 msgctxt "Narrator"
 msgid "He feels your breath on his neck, and as he becomes familiar with the sensation of warmth, he must admit there are parts of humanity he really truly loves."
-msgstr ""
+msgstr "Il sent votre souffle dans son cou, et à mesure qu'il se familiarise avec la sensation de chaleur, il doit admettre qu'il y a des aspects de l'humanité qu'il aime vraiment, sincèrement."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-2/c-4/28
 msgctxt "Narrator"
 msgid "Intertwined together, you find yourself spending hours basking in the morning sunlight."
-msgstr ""
+msgstr "Enlacés, vous passez des heures à vous prélasser sous le soleil du matin."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-2/c-4/33
 msgctxt "Narrator"
 msgid "Ever a collector at heart, he finds it difficult to let you go."
-msgstr ""
+msgstr "Collectionneur dans l'âme, il a du mal à vous laisser partir."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-3/0
 msgctxt "Narrator"
 msgid "Like a newborn deer waddling into the light for the first time, Jerry takes his first, stumbling steps out of your home."
-msgstr ""
+msgstr "Tel un faon nouveau-né qui se dandine vers la lumière pour la première fois, Jerry fait ses premiers pas chancelants hors de chez vous."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-3/8
 msgctxt "Narrator"
 msgid "He's overwhelmed at first. For hours. But as the weeks go by, he finds a new appreciation for the little things he never had as a drawer. Elbow room, for one."
-msgstr ""
+msgstr "Il est d'abord submergé. Pendant des heures. Mais au fil des semaines, il découvre une nouvelle appréciation pour les petites choses qu'il n'avait jamais eues en tant que tiroir. De l'espace pour les coudes, par exemple."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-3/16
 msgctxt "Narrator"
 msgid "All that space leads to Jerry realizing that he does not actually enjoy touch as much as he thought he did."
-msgstr ""
+msgstr "Tout cet espace amène Jerry à réaliser qu'il n'aime pas autant le toucher qu'il le pensait."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-3/24
 msgctxt "Narrator"
 msgid "In a strange twist of fate, he becomes unable to contend with a majority of textures. He thinks of the molds, oils, and goos of his past life with utter revulsion."
-msgstr ""
+msgstr "Par un étrange tour du destin, il devient incapable de supporter la majorité des textures. Il repense aux moisissures, huiles et substances gluantes de sa vie passée avec un profond dégoût."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-3/32
 msgctxt "Narrator"
 msgid "Still, he feels naked without a collection of small objects around him."
-msgstr ""
+msgstr "Pourtant, il se sent nu sans une collection de petits objets autour de lui."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-3/40
 msgctxt "Narrator"
 msgid "Eventually, he discovers the world of model trains. The smooth metals and plastics of the cars along with the infinitely clutter-able customization of all the miniature rail lines speak to him."
-msgstr ""
+msgstr "Finalement, il découvre le monde du train miniature. Les métaux et plastiques lisses des wagons, ainsi que la personnalisation à l'infini encombrable de toutes les lignes miniatures, lui parlent."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/jerry_realized/0/g-3/48
 msgctxt "Narrator"
 msgid "His hobby turns into a small career. He discovers others who see the artistry in his clutter. For the first time in his life, he truly thrives."
-msgstr ""
+msgstr "Son passe-temps devient une petite carrière. Il découvre d'autres personnes qui voient l'art dans son fouillis. Pour la première fois de sa vie, il s'épanouit vraiment."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/20/b/1
 msgctxt "Jerry"
 msgid "Come back for the rest? You didn't leave much to take, thief!"
-msgstr ""
+msgstr "Tu reviens chercher le reste ? Tu n'as pas laissé grand-chose à prendre, voleur !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/21/b/1
 msgctxt "Jerry"
 msgid "Oh HO! The new exhibit's not quite ready friend, but I'm always glad to see ya!"
-msgstr ""
+msgstr "Oh HO ! La nouvelle expo n'est pas tout à fait prête, {{mon ami|mon amie|mon ami·e}}, mais je suis toujours content de te voir !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/22/b/1
 msgctxt "Jerry"
 msgid "AHAH! Returned to admire the collection?"
-msgstr ""
+msgstr "AHAH ! Tu es revenu admirer la collection ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/23/b/1
 msgctxt "Jerry"
 msgid "AHH! A VISITOR! Gave me a bit of a scare there! Mind the collection, a little overwhelming I know. Come to admire?"
-msgstr ""
+msgstr "AHH ! UN VISITEUR ! Tu m'as fait un peu peur ! Attention à la collection, c'est un peu écrasant, je sais. Tu viens admirer ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/26/s/0
 msgctxt "Choix"
 msgid "I'm actually here on behalf of the Department for Undelivered Flyers."
-msgstr ""
+msgstr "En fait, je viens de la part du Service des Prospectus Non Distribués."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/27/s/0
 msgctxt "Choix"
 msgid "I'm actually here to help you get something back."
-msgstr ""
+msgstr "En fait, je viens t'aider à récupérer quelque chose."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/c-1/7
 msgctxt "Jerry"
 msgid "Like everything you STOLE?"
-msgstr ""
+msgstr "Comme tout ce que tu as VOLÉ ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "I'm here on behalf of the Department for Undelivered Flyers."
-msgstr ""
+msgstr "Je viens de la part du Service des Prospectus Non Distribués."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-0/0
 msgctxt "Jerry"
 msgid "OH THANK GOODNESS! I've been trying to contact them for MONTHS now."
-msgstr ""
+msgstr "OH, DIEU MERCI ! J'essaie de les joindre depuis des MOIS."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-0/8
 msgctxt "Jerry"
 msgid "You see, I'm not quite sure what's happened, but I've noticed a significant decline in flyer numbers."
-msgstr ""
+msgstr "Tu vois, je ne sais pas trop ce qui s'est passé, mais j'ai remarqué une baisse significative du nombre de prospectus."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-0/16
 msgctxt "Jerry"
 msgid "And drawers cannot subsist on single flyers alone."
-msgstr ""
+msgstr "Et un tiroir ne peut pas survivre avec de simples prospectus isolés."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-0/24/b/1
 msgctxt "Jerry"
 msgid "My new exhibit is in shambles, I tell you. FLYERLESS SHAMBLES!"
-msgstr ""
+msgstr "Ma nouvelle expo est en ruine, je te le dis. UNE RUINE SANS PROSPECTUS !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "A SERIOUS issue. A grave breach of our department policy, I assure you."
-msgstr ""
+msgstr "Un problème GRAVE. Un manquement sérieux à la politique de notre service, je vous assure."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "Seriously?"
-msgstr ""
+msgstr "Sérieusement ?"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-1/0
 msgctxt "Jerry"
 msgid "Deathly so."
-msgstr ""
+msgstr "À en mourir."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "I just wanted to let you know that official complaints can be directed to Florence, if you so wish."
-msgstr ""
+msgstr "Je voulais juste vous informer que les plaintes officielles peuvent être adressées à Florence, si vous le souhaitez."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-1/c-4/7
 msgctxt "Jerry"
 msgid "Well thank GOODNESS. The man on the phone wouldn't stop telling me \"YOU'VE GOT THE WRONG NUMBER.\""
-msgstr ""
+msgstr "Eh bien, DIEU MERCI. Le monsieur au téléphone n'arrêtait pas de me répéter « VOUS AVEZ FAIT UNE ERREUR DE NUMÉRO »."
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-1/c-4/15
 msgctxt "Jerry"
 msgid "And I think I know the number for the department of undelivered flyers, thank you very much, SIR!"
-msgstr ""
+msgstr "Et je pense connaître le numéro du service des prospectus non distribués, merci bien, MONSIEUR !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-1/c-4/23/b/1
 msgctxt "Jerry"
 msgid "Don't think this means you're forgiven, mind you! Now get out!"
-msgstr ""
+msgstr "Ne crois pas que tu es pardonné pour autant, hein ! Maintenant, dehors !"
 
+# Traduction IA – à relire
 #: jerry_junkdrawer/hollyhatesubplot/0/g-1/c-4/24/b/1
 msgctxt "Jerry"
 msgid "Now I definitely appreciate the tip. But as you can see, I've got some organising to do. Do come back though! Hopefully by then I'll be less flyer-less!"
-msgstr ""
+msgstr "Bon, j'apprécie vraiment le tuyau. Mais comme tu peux le voir, j'ai du rangement à faire. Reviens quand même ! Avec un peu de chance, j'aurai moins de mal à trouver mes prospectus d'ici là !"

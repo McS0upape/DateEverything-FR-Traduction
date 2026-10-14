@@ -25,10 +25,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : courant, un peu précieux, mondain ; vanité de champion qui cache une grande timidité et un manque de confiance
+- **Personnalité, manière de parler** : trophée narcissique, sculpté et huilé, charmeur et dragueur (sous-entendus), mais anxieux, naïf et attachant ; adore être premier
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Premier ! », vocabulaire de concours et de médailles ; surnoms au joueur : « coach », « mon ami·e » (épicènes) ; « Trivialétisme » (Trivia-Letics = quiz + athlétisme) ; Existential Dread = « l'Angoisse Existentielle » (elle)
+- **Exemples de répliques traduites (référence de ton)** : « Mais voilà mon petit en-cas. » / « Je suis Stepford ! Trophée des trophées, à ton service. » / « Mon physique ne serait plus qu'un simple « affriolant ». »

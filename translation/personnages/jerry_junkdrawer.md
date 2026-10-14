@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier-poli, anxieux, bavard, exclamatif, un peu désuet (« Nom d'un petit bonhomme », « Saperlipopette »)
+- **Personnalité, manière de parler** : collectionneur compulsif, nerveux, défensif, enthousiaste de son bric-à-brac, se blesse sur des punaises sans y prêter attention
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Ouf... », « Hé. » en rire gêné, toux « Cof ! », s'adresse au joueur par {{mon ami|mon amie|mon ami·e}}
+- **Exemples de répliques traduites (référence de ton)** : « Bon sang de bonsoir, tu m'as fait peur ! » ; « Le ciel m'en préserve ! » ; « Tout réussit à Jerry ! »

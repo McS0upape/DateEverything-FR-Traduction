@@ -25,10 +25,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (Textbox-chan, l'interface devenue femme)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, enjoué, très « kawaii »
+- **Personnalité, manière de parler** : bavarde, enthousiaste, sensible ; passionnée d'accessibilité et de lisibilité ; kaomoji en fin de phrase (conservés tels quels) ; Narrator la décrit en vouvoyant
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Hewo » = « Bonjouw » ; « Ttyl » = « À+ » ; « Je suis toujours de ton côté » ; jeu « UI » / « you and I » ; blagues de polices et de typographie
+- **Exemples de répliques traduites (référence de ton)** : « Salut salut ! Je suis Textbox-chan ! » ; « Ça, ce sont des paroles de guerre, mon chou ! » ; « Je me sens juste, genre, émotionnellement proutesque. »
