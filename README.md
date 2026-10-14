@@ -21,6 +21,16 @@ Les textes pas encore traduits s'affichent en anglais, le jeu reste jouable. La 
 
 Pour l'avancement exact, fichier par fichier : `python tools/work.py status`.
 
+## Choix de traduction
+
+Quelques partis pris, pour que vous ne les preniez pas pour des erreurs :
+
+- **Le français de la VO devient de l'italien.** En anglais, certains personnages glissent des mots ou des phrases en français pour faire chic, exotique ou prétentieux : c'est un gag de « langue étrangère ». Laissé en français dans une traduction française, ce passage deviendrait invisible et la blague disparaîtrait. Nous le remplaçons donc par de l'italien, qui produit le même effet pour un public français. Exception : les personnages dont l'identité même est française (Jean Loo, par exemple) gardent leur français.
+- **Les jeux de mots sont adaptés, pas traduits mot à mot.** Le jeu repose énormément sur les calembours (noms des objets, répliques…). Quand un jeu de mots anglais ne passe pas en français, nous en cherchons un équivalent qui garde l'esprit de la scène, quitte à s'éloigner du sens littéral. Une passe de relecture est consacrée uniquement à ça.
+- **Vouvoiement et tutoiement.** Le narrateur vous vouvoie ; les personnages vous tutoient, sauf exception justifiée par leur caractère.
+- **Accords selon vos pronoms.** Le jeu vous demande vos pronoms au début de la partie (il, elle ou iel), et le texte s'accorde en conséquence. Pour le pronom neutre, la traduction utilise des formulations épicènes ou des accords neutres.
+- **« œ » s'écrit « oe ».** Les polices du jeu ne contiennent pas ce caractère (option `ReplaceOE`).
+
 ## Pour les joueurs : installation
 
 1. Téléchargez la dernière archive `DateEverything_FR_vX.Y.zip` (onglet Releases).
@@ -57,7 +67,7 @@ Tout ce qu'il faut savoir est dans [translation/GUIDE_TRADUCTION.md](translation
 - `translation/GLOSSAIRE.tsv` : les termes du jeu ; les choix encore en débat sont dans `translation/PROPOSITIONS_GLOSSAIRE.md`.
 - `tools/CONSIGNES_*.md` : les consignes données aux agents IA (ton, accords, balises à conserver).
 
-Conventions principales : le narrateur vouvoie le joueur ou la joueuse, les personnages le tutoient ; les accords passent par `{{masc|fém|neutre}}` (jamais d'écriture inclusive « ·e » brute pour le joueur) ; les balises `<i>`, `<w>`… doivent être conservées ; le français parlé dans la VO devient de l'italien.
+Conventions principales : le narrateur vouvoie le joueur ou la joueuse, les personnages le tutoient ; les accords passent par `{{masc|fém|neutre}}` (jamais d'écriture inclusive « ·e » brute pour le joueur) ; les balises `<i>`, `<w>`… doivent être conservées. Voir aussi [Choix de traduction](#choix-de-traduction).
 
 Une première passe est traduite par IA (commentaire `Traduction IA – à relire`). Le travail le plus précieux, c'est la **relecture en jeu** : repérer les tournures maladroites, les blagues qui tombent à plat, les incohérences de ton ou de tutoiement.
 
