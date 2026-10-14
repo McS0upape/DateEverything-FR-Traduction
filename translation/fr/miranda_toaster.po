@@ -5010,7 +5010,7 @@ msgstr "Je me demande si tu voudrais continuer le boulot ?"
 #: miranda_toaster/friendshipending/0/0/s/0
 msgctxt "Choix"
 msgid "Yeah. I'd really like that. Let's be friends!"
-msgstr "Ouais. Ça me plairait vraiment. Soyons ami·es !"
+msgstr "Ouais. Ça me plairait vraiment. Soyons {{amis|amies|ami·es}} !"
 
 # Traduction IA – à relire
 #: miranda_toaster/friendshipending/0/1/s/0

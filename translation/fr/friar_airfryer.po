@@ -558,7 +558,7 @@ msgstr "Dis-moi... en as-tu joui ? L'impureté de tout cela t'a-t-elle titillé�
 #: friar_airfryer/friar_confess1/0/c-0/40/0/s/0
 msgctxt "Choix"
 msgid "No, it just disgusted me with myself."
-msgstr "Non, ça m'a seulement dégoûté·e de moi-même."
+msgstr "Non, ça m'a seulement {{dégoûté|dégoûtée|dégoûté·e}} de moi-même."
 
 # Traduction IA – à relire
 #: friar_airfryer/friar_confess1/0/c-0/40/1/s/0
@@ -1026,7 +1026,7 @@ msgstr "Franchement, tout ce que tu as cité a meilleur goût au four."
 #: friar_airfryer/first_encounter/0/g-0/170/s/0
 msgctxt "Choix"
 msgid "I gotta admit you've saved my bacon many times over the years when I was tired..."
-msgstr "Je dois avouer que tu m'as sauvé la mise plein de fois au fil des ans quand j'étais fatigué·e..."
+msgstr "Je dois avouer que tu m'as sauvé la mise plein de fois au fil des ans quand j'étais {{fatigué|fatiguée|fatigué·e}}..."
 
 # Traduction IA – à relire
 #: friar_airfryer/first_encounter/0/g-0/171/s/0

@@ -246,7 +246,7 @@ msgstr "Exactement !"
 #: tbc_ui/Textbox_Chan_1/0/g-1/c-4/23/c-3/18
 msgctxt "Textbox-chan"
 msgid "Well. Hopefully the right ones. The ones that are making sure you pay attention."
-msgstr "Enfin. J'espère que ce sont les bons. Ceux qui veillent à ce que tu restes attentif·ve."
+msgstr "Enfin. J'espère que ce sont les bons. Ceux qui veillent à ce que tu restes {{attentif|attentive|attentif·ve}}."
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_1/0/g-2/0
@@ -300,7 +300,7 @@ msgstr "Ça a l'air plutôt utile, je suppose."
 #: tbc_ui/Textbox_Chan_1/0/g-2/c-5/43/c-0/7
 msgctxt "Textbox-chan"
 msgid "Trapped in here forever..."
-msgstr "Coincé·e ici pour toujours..."
+msgstr "{{Coincé|Coincée|Coincé·e}} ici pour toujours..."
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_1/0/g-2/c-5/43/c-0/15
@@ -456,7 +456,7 @@ msgstr "Allez, je te laisse !"
 #: tbc_ui/Textbox_Chan_1/0/g-5/24
 msgctxt "Textbox-chan"
 msgid "Then just put on those specs and tap that phantom word box you've never questioned before!"
-msgstr "Alors enfile ces lunettes et touche cette boîte de texte fantôme dont tu ne t'es jamais méfié·e !"
+msgstr "Alors enfile ces lunettes et touche cette boîte de texte fantôme dont tu ne t'es jamais {{méfié|méfiée|méfié·e}} !"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_1/0/g-5/32/s/0
@@ -738,7 +738,7 @@ msgstr "C'est vrai ?"
 #: tbc_ui/Textbox_Chan_2/0/g-2/c-11/15
 msgctxt "Textbox-chan"
 msgid "Because I get an alert every time you click next and you are button-mashing like crazy!"
-msgstr "Parce que je reçois une alerte à chaque clic sur « suivant » et tu matraques le bouton comme un·e fou·folle !"
+msgstr "Parce que je reçois une alerte à chaque clic sur « suivant » et tu matraques le bouton comme si ta vie en dépendait !"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_2/0/g-2/c-11/26
@@ -900,7 +900,7 @@ msgstr "Textbox-chan: Ou comme ça ! Il n'y a qu'un seul deux-points ici et ils 
 #: tbc_ui/TBInterview/0/c-0/31/c-0/56/0/s/0
 msgctxt "Choix"
 msgid "I'm sorry to hear that!"
-msgstr "Je suis désolé·e de l'apprendre !"
+msgstr "Je suis {{désolé|désolée|désolé·e}} de l'apprendre !"
 
 # Traduction IA – à relire
 #: tbc_ui/TBInterview/0/c-0/31/c-0/56/1/s/0
@@ -1026,7 +1026,7 @@ msgstr "Oh oh. Je vais juste... m'en aller."
 #: tbc_ui/Textbox_Chan_3/0/c-0/24/0/s/0
 msgctxt "Choix"
 msgid "Oh no - I'm so sorry!"
-msgstr "Oh non, je suis vraiment désolé·e !"
+msgstr "Oh non, je suis vraiment {{désolé|désolée|désolé·e}} !"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_3/0/g-0/0 tbc_ui/Textbox_Chan_4/0/g-0/c-3/7
@@ -1188,7 +1188,7 @@ msgstr "C'était vraiment marrant !"
 #: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/1/s/0
 msgctxt "Choix"
 msgid "Sorry... I always doze off during plays."
-msgstr "Désolé·e... je m'endors toujours pendant les pièces de théâtre."
+msgstr "{{Désolé|Désolée|Désolé·e}}... je m'endors toujours pendant les pièces de théâtre."
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_3/0/g-1/c-4/162/c-0/7
@@ -1272,7 +1272,7 @@ msgstr "Non. Pas encore."
 #: tbc_ui/Textbox_Chan_3/0/g-2/18/s/0
 msgctxt "Choix"
 msgid "Maybe. But I'm not sure."
-msgstr "Peut-être. Mais je ne suis pas sûr·e."
+msgstr "Peut-être. Mais je ne suis pas {{sûr|sûre|sûr·e}}."
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_3/0/g-2/c-6/7
@@ -1302,7 +1302,7 @@ msgstr "Dis donc, vu que tu as fait preuve d'une belle curiosité... je tenais �
 #: tbc_ui/Textbox_Chan_3/0/g-3/0/b/9
 msgctxt "Textbox-chan"
 msgid "Being inquisitive - asking questions - listening - these are my favorite things!"
-msgstr "Être curieux·se, poser des questions, écouter : ce sont mes choses préférées !"
+msgstr "Rester curieux, poser des questions, écouter : ce sont mes choses préférées !"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_3/0/g-3/0/b/20
@@ -1314,7 +1314,7 @@ msgstr "Continue comme ça !"
 #: tbc_ui/Textbox_Chan_3/0/g-3/1/b/1
 msgctxt "Textbox-chan"
 msgid "Well, hey since you haven't been doing a good job of being curious about me, I'd love to offer some advice!"
-msgstr "Dis donc, vu que tu ne t'es pas montré·e très curieux·se à mon sujet, je tiens à te donner un conseil !"
+msgstr "Dis donc, vu que tu ne t'es pas {{montré|montrée|montré·e}} très {{curieux|curieuse|curieux·se}} à mon sujet, je tiens à te donner un conseil !"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_3/0/g-3/1/b/9
@@ -2196,13 +2196,13 @@ msgstr "Je suis si fière de l'appeler ma meilleure amie ! （＊＾－＾）人
 #: tbc_ui/Textbox_Chan_5/0/g-5/43/s/0
 msgctxt "Choix"
 msgid "I thought I was your BFF..."
-msgstr "Je croyais être ton·ta meilleur·e ami·e..."
+msgstr "Je croyais être {{ton meilleur ami|ta meilleure amie|ton·ta meilleur·e ami·e}}..."
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_5/0/g-5/44/s/0
 msgctxt "Choix"
 msgid "Should I be jealous?"
-msgstr "Je devrais être jaloux·se ?"
+msgstr "Je devrais être {{jaloux|jalouse|jaloux·se}} ?"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_5/0/g-5/45/s/0
@@ -2226,7 +2226,7 @@ msgstr "Bien sûr que non ! Lauren et moi sommes bonnes amies, c'est tout."
 #: tbc_ui/Textbox_Chan_5/0/g-5/c-17/15
 msgctxt "Textbox-chan"
 msgid "Besides... SHOULD you be jealous? Is there something you need to tell me? ﴾ಠ▾ಠ﴿"
-msgstr "D'ailleurs... DEVRAIS-tu être jaloux·se ? Tu as quelque chose à me dire ? ﴾ಠ▾ಠ﴿"
+msgstr "D'ailleurs... DEVRAIS-tu être {{jaloux|jalouse|jaloux·se}} ? Tu as quelque chose à me dire ? ﴾ಠ▾ಠ﴿"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_5/0/g-5/c-17/23
@@ -2298,7 +2298,7 @@ msgstr "On verra..."
 #: tbc_ui/Textbox_Chan_5/0/g-6/47/s/0
 msgctxt "Choix"
 msgid "I'm up for it, baby!"
-msgstr "Je suis partant·e, bébé !"
+msgstr "Je suis {{partant|partante|partant·e}}, bébé !"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_5/0/g-6/c-19/7
@@ -2328,13 +2328,13 @@ msgstr "Coucou ! Je suis trop contente de te voir !"
 #: tbc_ui/Textbox_Chan_6/0/4/b/1
 msgctxt "Textbox-chan"
 msgid "Oh, hello! You came back."
-msgstr "Oh, bonjour ! Tu es revenu·e."
+msgstr "Oh, bonjour ! Tu es {{revenu|revenue|revenu·e}}."
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_6/0/5/b/1
 msgctxt "Textbox-chan"
 msgid "Oh... it's you. The mean one."
-msgstr "Oh... c'est toi. Tu es méchant·e."
+msgstr "Oh... c'est toi. Tu es {{méchant|méchante|méchant·e}}."
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_6/0/8
@@ -2394,7 +2394,7 @@ msgstr "Tu es si jolie, Textbox-chan. Si belle et si stylée."
 #: tbc_ui/Textbox_Chan_6/0/g-0/9/11/1/s/0
 msgctxt "Choix"
 msgid "I had fun hanging out with you!"
-msgstr "Je me suis bien amusé·e avec toi !"
+msgstr "Je me suis bien {{amusé|amusée|amusé·e}} avec toi !"
 
 # Traduction IA – à relire
 #: tbc_ui/Textbox_Chan_6/0/g-0/9/11/2/s/0
@@ -2418,7 +2418,7 @@ msgstr "Haha... tu plaisantes, n'est-ce pas ?"
 #: tbc_ui/textbox_ending_HATE_2/0/8/s/0 tbc_ui/textbox_ending_HATE/0/8/s/0
 msgctxt "Choix"
 msgid "Sorry, that was a bad joke."
-msgstr "Désolé·e, c'était une mauvaise blague."
+msgstr "{{Désolé|Désolée|Désolé·e}}, c'était une mauvaise blague."
 
 # Traduction IA – à relire
 #: tbc_ui/textbox_ending_HATE_2/0/9/s/0
@@ -2430,7 +2430,7 @@ msgstr "Non. Tu es nulle, et tu es nulle à regarder et à lire."
 #: tbc_ui/textbox_ending_HATE_2/0/c-1/7/b/1
 msgctxt "Textbox-chan"
 msgid "I thought you were better than that! You were nice to me before..."
-msgstr "Je te croyais mieux que ça ! Tu étais gentil·le avec moi avant..."
+msgstr "Je te croyais mieux que ça ! Tu étais {{gentil|gentille|gentil·le}} avec moi avant..."
 
 # Traduction IA – à relire
 #: tbc_ui/textbox_ending_HATE_2/0/c-1/18 tbc_ui/textbox_ending_HATE/0/c-1/31
@@ -2460,7 +2460,7 @@ msgstr "Je te trouve juste super canon... ? C'est mal ?"
 #: tbc_ui/textbox_ending_HATE/0/c-1/7
 msgctxt "Textbox-chan"
 msgid "Y... you're not serious, are you!? ( ╬ ಠ 益 ಠ)"
-msgstr "T... tu es sérieux·se !? ( ╬ ಠ 益 ಠ)"
+msgstr "T... tu es {{sérieux|sérieuse|sérieux·se}} !? ( ╬ ಠ 益 ಠ)"
 
 # Traduction IA – à relire
 #: tbc_ui/textbox_ending_HATE/0/c-1/15
@@ -2784,7 +2784,7 @@ msgstr "Je suis à toi."
 #: tbc_ui/textbox_ending_LOVE/0/g-0/44/s/0
 msgctxt "Choix"
 msgid "I'm sorry, I just want to be friends."
-msgstr "Désolé·e, je veux juste qu'on soit amis."
+msgstr "{{Désolé|Désolée|Désolé·e}}, je veux juste qu'on soit amis."
 
 # Traduction IA – à relire
 #: tbc_ui/textbox_ending_LOVE/0/g-0/45/s/0
@@ -2838,7 +2838,7 @@ msgstr "Quoi !? Mais tu viens de dire..."
 #: tbc_ui/textbox_ending_LOVE/0/g-0/c-3/18
 msgctxt "Textbox-chan"
 msgid "Why are you being such a jerk!? I can't handle these mixed messages!"
-msgstr "Pourquoi tu es aussi méchant·e !? Je ne supporte pas ces messages contradictoires !"
+msgstr "Pourquoi tu es aussi {{méchant|méchante|méchant·e}} !? Je ne supporte pas ces messages contradictoires !"
 
 # Traduction IA – à relire
 #: tbc_ui/textbox_ending_LOVE/0/g-0/c-3/26
@@ -2934,7 +2934,7 @@ msgstr "Pas de stress, fais ce qui te vient naturellement."
 #: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/23/1/s/0
 msgctxt "Choix"
 msgid "I'm happy to take the lead."
-msgstr "Je suis ravi·e de prendre les devants."
+msgstr "Je suis {{ravi|ravie|ravi·e}} de prendre les devants."
 
 # Traduction IA – à relire
 #: tbc_ui/textbox_ending_LOVE/0/tbcace/c-6/23/g-0/0
@@ -3018,7 +3018,7 @@ msgstr "Hé, toi ! (❀≧3≦)♡"
 #: tbc_ui/tbc_love_return/0/11
 msgctxt "Textbox-chan"
 msgid "Thanks for stopping by."
-msgstr "Merci d'être passé·e."
+msgstr "Merci d'être {{passé|passée|passé·e}}."
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_love_return/0/19/s/0
@@ -3030,7 +3030,7 @@ msgstr "Comment vas-tu aujourd'hui ?"
 #: tbc_ui/tbc_love_return/0/20/s/0 tbc_ui/tbc_friend_return/0/12/s/0
 msgctxt "Choix"
 msgid "I'm ready to Realize you, Textbox-chan!"
-msgstr "Je suis prêt·e à te Réaliser, Textbox-chan !"
+msgstr "Je suis {{prêt|prête|prêt·e}} à te Réaliser, Textbox-chan !"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_love_return/0/21/s/0 tbc_ui/tbc_friend_return/0/13/s/0
@@ -3156,7 +3156,7 @@ msgstr "Écoute. J'ai peut-être un peu réagi de manière excessive."
 #: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/23/0/s/0
 msgctxt "Choix"
 msgid "Either way, I'm sorry."
-msgstr "Dans tous les cas, je suis désolé·e."
+msgstr "Dans tous les cas, je suis {{désolé|désolée|désolé·e}}."
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_friendsagain_ed/0/c-0/15/c-0/15/c-0/23/c-0/23/c-0/7
@@ -3186,7 +3186,7 @@ msgstr "En amitié. (｡^‿^｡)"
 #: tbc_ui/tbc_realize_join/0/0
 msgctxt "Textbox-chan"
 msgid "Wow, a real human? Do you have what it takes?"
-msgstr "Waouh, un·e vrai·e humain·e ? Tu es à la hauteur ?"
+msgstr "Waouh, {{un vrai humain|une vraie humaine|un·e vrai·e humain·e}} ? Tu es à la hauteur ?"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_realize_join/0/17/s/0 tbc_ui/tbc_realize_return/0/20/s/0
@@ -3204,13 +3204,13 @@ msgstr "Non, pas tout de suite."
 #: tbc_ui/tbc_realize_join/0/c-1/10
 msgctxt "Textbox-chan"
 msgid "Okies, no problem! I'll just wait here 'til you're ready. (❀≧3≦)♡"
-msgstr "Pas de souci ! Je t'attends ici jusqu'à ce que tu sois prêt·e. (❀≧3≦)♡"
+msgstr "Pas de souci ! Je t'attends ici jusqu'à ce que tu sois {{prêt|prête|prêt·e}}. (❀≧3≦)♡"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_realize_return/0/3
 msgctxt "Textbox-chan"
 msgid "You're back! You ready now?"
-msgstr "Te revoilà ! Tu es prêt·e, maintenant ?"
+msgstr "Te revoilà ! Tu es {{prêt|prête|prêt·e}}, maintenant ?"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_realize_return/0/c-1/10
@@ -3384,7 +3384,7 @@ msgstr "Oh là là, eh bien, euh... si tu changes d'avis, euh... je dirais que t
 #: tbc_ui/tbc_love_divert/0/c-1/15
 msgctxt "Textbox-chan"
 msgid "I'm gonna make you proud out there, just wait!"
-msgstr "Je vais te rendre fier·ère là-bas, attends un peu !"
+msgstr "Je vais te rendre {{fier|fière|fier·ère}} là-bas, attends un peu !"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_love_divert/0/c-1/23
@@ -3456,7 +3456,7 @@ msgstr "Pas toi, hein. Seulement le toi au sens figuré !"
 #: tbc_ui/tbc_emoji_1/0/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "That's a relief."
-msgstr "Ouf, je suis rassuré·e."
+msgstr "Ouf, je suis {{rassuré|rassurée|rassuré·e}}."
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_emoji_1/0/c-0/26/c-0/7
@@ -3582,7 +3582,7 @@ msgstr "Exactement ! Je suis en pleine forme !"
 #: tbc_ui/tbc_emoji_5/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "So happy to hear that."
-msgstr "Je suis ravi·e de l'entendre."
+msgstr "Je suis {{ravi|ravie|ravi·e}} de l'entendre."
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_emoji_6/0/11/s/0
@@ -3750,7 +3750,7 @@ msgstr "Encore un... chat ?"
 #: tbc_ui/tbc_emoji_12/0/c-0/7
 msgctxt "Textbox-chan"
 msgid "You're getting good at these!"
-msgstr "Tu deviens de plus en plus fort·e à ce jeu !"
+msgstr "Tu deviens de plus en plus {{fort|forte|fort·e}} à ce jeu !"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_emoji_12/0/c-0/15
@@ -4956,7 +4956,7 @@ msgstr "Oh, euh, ouais. Tout à fait l'ambiance que je ressens."
 #: tbc_ui/tbc_emoji_47/0/c-0/15/c-0/7
 msgctxt "Textbox-chan"
 msgid "You're getting better at these! ( ≧ᗜ≦)"
-msgstr "Tu deviens de plus en plus fort·e à ce jeu ! ( ≧ᗜ≦)"
+msgstr "Tu deviens de plus en plus {{fort|forte|fort·e}} à ce jeu ! ( ≧ᗜ≦)"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_emoji_48/0/8/s/0
@@ -5202,7 +5202,7 @@ msgstr "Mais la prochaine fois que je vois une araignée, je t'appellerai pour t
 #: tbc_ui/tbc_pasta/0/0
 msgctxt "Textbox-chan"
 msgid "Cum-gratulations! :sweatdrops: you've found the horniest :eggplant: content in the game! :lipstickprint: If you've reading this :eyes: then you're in the :bitinglip: top 1% of nastiest :devilemoji: sluts to ever Date :lips: Everything :checkmark: !"
-msgstr "Fellicitations ! :sweatdrops: tu as trouvé le contenu le plus chaud :eggplant: du jeu ! :lipstickprint: Si tu lis ça :eyes: alors tu fais partie du :bitinglip: top 1 % des plus sales :devilemoji: dépravé·es à avoir jamais Date :lips: Everything :checkmark: !"
+msgstr "Fellicitations ! :sweatdrops: tu as trouvé le contenu le plus chaud :eggplant: du jeu ! :lipstickprint: Si tu lis ça :eyes: alors tu fais partie du :bitinglip: top 1 % des plus sales :devilemoji: dépravés à avoir jamais Date :lips: Everything :checkmark: !"
 
 # Traduction IA – à relire
 #: tbc_ui/tbc_pasta/0/8
