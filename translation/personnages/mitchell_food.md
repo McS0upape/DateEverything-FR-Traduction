@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (Mitchell) ; Daisuke, Koa, Freddy : il
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (Mitchell reste très policé, mais tutoie ; Daisuke aussi, avec une raideur cérémonieuse)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, précieux, emphatique (critique gastronomique), anglicismes culinaires et mots français glissés (« mon ami », « mon cheri »)
+- **Personnalité, manière de parler** : pompeux, théâtral, cinglant puis ému ; superlatifs, métaphores culinaires, allitérations (paragon of the perfect -> parangon du parfait).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Brilliant! », « Marvelous! », « Pathetic. » ; Daisuke : phrases sans contractions, « Je suis navré ».
+- **Exemples de répliques traduites (référence de ton)** : « Bonsoir. Je t'en prie, assieds-toi. » ; « Parangon du parfait, avocat de l'audace et fléau du banal. »
