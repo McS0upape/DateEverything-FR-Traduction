@@ -5,6 +5,14 @@ Projet de fans, non affilié aux développeurs. Il faut posséder le jeu.
 
 Traduction faite à l'aide de l'IA en essayant de rester le plus fidèle possible aux textes originaux : plus d'un million de mots traduits ou en cours de traduction et de correction.
 
+## Note du développeur
+
+Salut, moi c'est McSoupape ! Le jeu intéressait ma conjointe, qui malheureusement ne peut pas jouer à un jeu entièrement en anglais, en particulier quand les personnages parlent tous sur des tons différents, avec des formulations complexes et des jeux de mots difficiles à traduire en français. En cherchant sur internet et dans les communautés de joueurs, je n'ai vu aucun avancement sur une traduction du jeu depuis sa sortie il y a plus d'un an. J'ai donc décidé de traduire moi-même le jeu avec l'IA pour qu'elle puisse y jouer, et d'en faire profiter la communauté française.
+
+Évidemment, je n'ai pas pu vérifier toutes les traductions une par une, et je repasserai dessus après avoir constaté des coquilles en jouant moi-même au jeu. Mais la puissance de l'IA aujourd'hui (utilisation d'Opus 5.5) fait que les traductions sont cohérentes et compréhensibles, hors jeux de mots complexes.
+
+Pour les fans qui vont utiliser cette traduction : n'hésitez pas à faire remonter tous les problèmes de traduction que vous rencontrerez, et à proposer de meilleures alternatives. Ce serait top pour la communauté française !
+
 ## État d'avancement
 
 **~94 % des textes traduits** (environ 942 000 mots sur 1 000 000), au 15 octobre 2026.
