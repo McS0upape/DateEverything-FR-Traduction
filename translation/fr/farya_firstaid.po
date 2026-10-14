@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: farya_firstaid/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "FIRST AID KIT"
-msgstr ""
+msgstr "TROUSSE DE SECOURS"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/3
 msgctxt "Skylar"
 msgid "So... Farya is a first aid kit - and as such will have a lot of talk about things that are medical."
-msgstr ""
+msgstr "Alors... Farya est une trousse de secours, et à ce titre, elle va beaucoup parler de choses médicales."
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/11
 msgctxt "Skylar"
 msgid "That might include blunt talk about diagnoses and medical terminology."
-msgstr ""
+msgstr "Ça peut inclure des propos crus sur des diagnostics et du vocabulaire médical."
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/19
 msgctxt "Skylar"
 msgid "As well as in-depth descriptions of the human anatomy."
-msgstr ""
+msgstr "Ainsi que des descriptions détaillées de l'anatomie humaine."
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/27
 msgctxt "Skylar"
 msgid "You cool with that? Or do you want to skip it?"
-msgstr ""
+msgstr "Ça te va ? Ou tu préfères passer ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/35/s/0
 msgctxt "Choix"
 msgid "Let's skip this please!"
-msgstr ""
+msgstr "Passons, s'il te plaît !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/36/s/0
 msgctxt "Choix"
 msgid "No, I'm okay with that."
-msgstr ""
+msgstr "Non, ça ne me dérange pas."
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/25
 msgctxt "Skylar"
 msgid "No worries!"
-msgstr ""
+msgstr "Pas de souci !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/33
 msgctxt "Narrator"
 msgid "How would you like your relationship with Farya to resolve?"
-msgstr ""
+msgstr "Comment souhaitez-vous que votre relation avec Farya se termine ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/0/s/0
 msgctxt "Choix"
 msgid "Love!"
-msgstr ""
+msgstr "L'amour !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/1/s/0
 msgctxt "Choix"
 msgid "Friendship!"
-msgstr ""
+msgstr "L'amitié !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/2/s/0
 msgctxt "Choix"
 msgid "Hate!"
-msgstr ""
+msgstr "La haine !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/c-0/7
 msgctxt "Narrator"
 msgid "No need for a second opinion - you and Farya are in love!"
-msgstr ""
+msgstr "Inutile de demander un deuxième avis : entre Farya et vous, c'est le grand amour !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/c-0/27 farya_firstaid/skylar_farya_content/0/c-0/38/c-1/27 farya_firstaid/skylar_farya_content/0/c-0/38/c-2/27
 msgctxt "Skylar"
 msgid "See you out there on the next one!"
-msgstr ""
+msgstr "On se retrouve pour la suivante !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/c-1/7
 msgctxt "Narrator"
 msgid "After a quick check-up, you've determined that Farya would be a great friend!"
-msgstr ""
+msgstr "Après un bref examen, vous avez établi que Farya ferait une excellente amie !"
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/c-2/7
 msgctxt "Narrator"
 msgid "Your relationship with Farya is now on life support."
-msgstr ""
+msgstr "Votre relation avec Farya est désormais sous assistance respiratoire."
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-0/38/c-2/60 farya_firstaid/farya_hatepath/31
 msgctxt "Reggie"
 msgid "Somebody call an ambulance! But not for you..."
-msgstr ""
+msgstr "Quelqu'un appelle une ambulance ! Mais pas pour toi..."
 
+# Traduction IA – à relire
 #: farya_firstaid/skylar_farya_content/0/c-1/7
 msgctxt "Skylar"
 msgid "Okie-dokie!"
-msgstr ""
+msgstr "Comme tu voudras !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/0
 msgctxt "Narrator"
 msgid "You see a medic with bright eyes, a kind smile, and a sort of maternal air about her. She doesn't even wait for your introduction, greeting you cheerfully."
-msgstr ""
+msgstr "Vous apercevez une soignante au regard brillant, au sourire bienveillant et à l'air un peu maternel. Elle n'attend même pas que vous vous présentiez et vous accueille avec entrain."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/8
 msgctxt "Farya"
 msgid "Oh my! Hello there!"
-msgstr ""
+msgstr "Oh là là ! Bonjour, bonjour !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/16
 msgctxt "Farya"
 msgid "A fresh face! Here to see the doctor, are you?"
-msgstr ""
+msgstr "Un nouveau visage ! Tu viens voir la doctoresse, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/24/s/0
 msgctxt "Choix"
 msgid "Sure!"
-msgstr ""
+msgstr "Oui, bien sûr !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/25/s/0
 msgctxt "Choix"
 msgid "I'm here to see hotties."
-msgstr ""
+msgstr "Je viens voir des canons."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/c-0/7
 msgctxt "Farya"
 msgid "Well, look no further!"
-msgstr ""
+msgstr "Eh bien, ne cherche pas plus loin !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/c-1/7
 msgctxt "Farya"
 msgid "Phew...!"
-msgstr ""
+msgstr "Ouf...!"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/0
 msgctxt "Farya"
 msgid "I might look like any old Jane, but I'll have you know that you are looking at a truly top notch medical professional, and the only one around for miles!"
-msgstr ""
+msgstr "J'ai beau avoir l'air d'une Madame Tout-le-monde, sache que tu as devant toi une professionnelle de santé de premier ordre, et la seule à des lieues à la ronde !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/11
 msgctxt "Farya"
 msgid "Whether you've got a tummy ache or a life-threatening ulcer, I'm your gal!"
-msgstr ""
+msgstr "Mal au ventre ou ulcère mortel, je suis la femme de la situation !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/0
 msgctxt "Narrator"
 msgid "She pauses, looking you up and down hopefully."
-msgstr ""
+msgstr "Elle marque une pause et vous toise de haut en bas avec espoir."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/8
 msgctxt "Farya"
 msgid "...do you have a life-threatening ulcer?"
-msgstr ""
+msgstr "...tu n'aurais pas un ulcère mortel, par hasard ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/16/s/0
 msgctxt "Choix"
 msgid "No! Nope, no ulcer. Or anything life-threatening, actually."
-msgstr ""
+msgstr "Non ! Non, pas d'ulcère. Ni rien de mortel, en fait."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/17/s/0
 msgctxt "Choix"
 msgid "Why do you sound so excited about an ulcer?"
-msgstr ""
+msgstr "Pourquoi es-tu aussi enthousiaste à l'idée d'un ulcère ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/7
 msgctxt "Narrator"
 msgid "You've never seen anyone more disappointed to hear of your good health."
-msgstr ""
+msgstr "Vous n'avez jamais vu quiconque aussi déçu d'apprendre que vous êtes en bonne santé."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/15 farya_firstaid/second_encounter/0/c-0/7
 msgctxt "Farya"
 msgid "Aw, heck!"
-msgstr ""
+msgstr "Oh, zut !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/23
 msgctxt "Farya"
 msgid "I do get my hopes up, you know..."
-msgstr ""
+msgstr "Je me fais toujours des idées, tu sais..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/31
 msgctxt "Farya"
 msgid "One of these days someone is going to bust through that door bleeding from orifices natural and contrived and boy oh boy what a red-letter afternoon that'll be!"
-msgstr ""
+msgstr "Un de ces jours, quelqu'un va faire irruption par cette porte en saignant par tous les orifices, naturels ou artificiels, et ça alors, quelle après-midi mémorable ce sera !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/0/s/0
 msgctxt "Choix"
 msgid "That... is really disturbing."
-msgstr ""
+msgstr "Ça... c'est vraiment troublant."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/1/s/0
 msgctxt "Choix"
 msgid "Cool cool. Really hope it's not me."
-msgstr ""
+msgstr "Super, super. J'espère vraiment que ce ne sera pas moi."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-0/7
 msgctxt "Farya"
 msgid "I suppose it would be, to a layperson."
-msgstr ""
+msgstr "J'imagine que ça l'est, pour un profane."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-0/15
 msgctxt "Farya"
 msgid "But to us medical folk, it's a delicious challenge!"
-msgstr ""
+msgstr "Mais pour nous, gens de la médecine, c'est un délicieux défi !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/7
 msgctxt "Farya"
 msgid "As do I! I understand they're quite painful."
-msgstr ""
+msgstr "Moi aussi ! Il paraît que c'est très douloureux."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/15
 msgctxt "Farya"
 msgid "Then again, if you ever find that it IS you, if by some misadventure or chance you find yourself in possession of said acidic incubus, I hope you know you can come to me."
-msgstr ""
+msgstr "Cela dit, si jamais c'était toi, si par malheur ou par hasard tu te retrouvais en possession dudit incube acide, sache que tu peux venir me voir."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/23
 msgctxt "Farya"
 msgid "I would know exactly what to do!"
-msgstr ""
+msgstr "Je saurais exactement quoi faire !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/31
 msgctxt "Farya"
 msgid "I would have a very good approximation of exactly what to do. Yes."
-msgstr ""
+msgstr "J'aurais une très bonne approximation de ce qu'il faut faire. Oui."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/39
 msgctxt "Farya"
 msgid "Basically."
-msgstr ""
+msgstr "En gros."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-2/39/c-1/47
 msgctxt "Farya"
 msgid "Anyway! What can I do for you today? If not an ulcer?"
-msgstr ""
+msgstr "Enfin bref ! Que puis-je faire pour toi aujourd'hui ? À défaut d'un ulcère ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/7
 msgctxt "Farya"
 msgid "Oh, you know..."
-msgstr ""
+msgstr "Oh, tu sais..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/15
 msgctxt "Farya"
 msgid "Stomach acid is terribly exciting stuff..."
-msgstr ""
+msgstr "L'acide gastrique, c'est terriblement passionnant..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/23
 msgctxt "Farya"
 msgid "I'd love to get my hands on some one day."
-msgstr ""
+msgstr "J'adorerais en avoir un peu entre les mains, un jour."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/31
 msgctxt "Farya"
 msgid "Oh dear! Ha! Not literally! Goodness wouldn't that be a sight, me, elbow deep in stomach acid as my tissues are slowly eaten away!"
-msgstr ""
+msgstr "Oh là là ! Ha ! Pas au sens propre ! Mon Dieu, quel spectacle ce serait, moi, jusqu'aux coudes dans l'acide gastrique, mes tissus lentement dévorés !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/0/s/0
 msgctxt "Choix"
 msgid "Yeah... that would be really... I feel sick."
-msgstr ""
+msgstr "Ouais... ce serait vraiment... j'ai la nausée."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/1/s/0
 msgctxt "Choix"
 msgid "All this talk about fluids makes me think I need a check-up."
-msgstr ""
+msgstr "Toutes ces histoires de fluides me donnent envie d'un bilan de santé."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/2/s/0
 msgctxt "Choix"
 msgid "Wow. I think I woke up the wrong object."
-msgstr ""
+msgstr "Wow. Je crois que j'ai éveillé le mauvais objet."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-0/7
 msgctxt "Farya"
 msgid "Sick?? Fantastic!"
-msgstr ""
+msgstr "Malade ?? Fantastique !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-0/18 farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-1/7
 msgctxt "Farya"
 msgid "What do you need?"
-msgstr ""
+msgstr "De quoi as-tu besoin ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/7
 msgctxt "Farya"
 msgid "Ha! Not at all, my strange new friend. I'm just indulging in a bit of fancy."
-msgstr ""
+msgstr "Ha ! Pas du tout, ma curieuse nouvelle connaissance. Je me laisse simplement aller à une petite fantaisie."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/15
 msgctxt "Farya"
 msgid "Do no harm, and all. I take that very seriously. You will never come to grief within my purview. Promise."
-msgstr ""
+msgstr "Ne pas nuire, tout ça. Je prends cela très au sérieux. Il ne t'arrivera jamais rien de fâcheux sous ma garde. Promis."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/23
 msgctxt "Farya"
 msgid "Why are we chatting, though? Just up for a little chin wag?"
-msgstr ""
+msgstr "Mais pourquoi discute-t-on, au fait ? C'est juste pour papoter un peu ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-0/25/c-3/39/c-2/31
 msgctxt "Farya"
 msgid "Oh sweet sacrum don't get me started on the chin. WHAT a powerful jutting prominence that is!"
-msgstr ""
+msgstr "Oh, doux sacrum, ne me lance pas sur le menton. QUELLE puissante proéminence saillante !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "I'm just looking around for stuff to date."
-msgstr ""
+msgstr "Je cherche juste des trucs à dater."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "I guess I could use a band-aid?"
-msgstr ""
+msgstr "Je pourrais peut-être avoir un pansement ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/2/s/0
 msgctxt "Choix"
 msgid "Could you look me over?"
-msgstr ""
+msgstr "Tu pourrais m'examiner ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-4/7
 msgctxt "Farya"
 msgid "Oh. Just dating."
-msgstr ""
+msgstr "Oh. Juste pour draguer."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-4/15
 msgctxt "Farya"
 msgid "Well, that's disappointing."
-msgstr ""
+msgstr "Eh bien, c'est décevant."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-4/23/0/s/0
 msgctxt "Choix"
 msgid "Didn't realize I was trying to impress you."
-msgstr ""
+msgstr "Je n'avais pas compris que je devais t'impressionner."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-4/23/c-0/7
 msgctxt "Farya"
 msgid "Oh, no, no, no, no, no, not at all. Not impress me."
-msgstr ""
+msgstr "Oh, non, non, non, non, pas du tout. Pas m'impressionner."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-4/23/c-0/15
 msgctxt "Farya"
 msgid "I just was so hoping you'd at LEAST need gauze. Or sutures."
-msgstr ""
+msgstr "J'espérais simplement que tu aurais AU MOINS besoin de compresses. Ou de sutures."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-4/23/c-0/23
 msgctxt "Farya"
 msgid "Or skin staples. Have you seen those? Talk about a cool toy..."
-msgstr ""
+msgstr "Ou d'agrafes cutanées. Tu en as déjà vu ? Quel jouet formidable..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-5/7
 msgctxt "Farya"
 msgid "Oh, bandages! They are the first line of defense when the interior of the body has the temerity to propose to become the exterior."
-msgstr ""
+msgstr "Oh, les pansements ! Ils sont la première ligne de défense quand l'intérieur du corps a l'outrecuidance de vouloir passer à l'extérieur."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-5/15
 msgctxt "Farya"
 msgid "Get back in there, blood! Back to your proper courses, lymph! And you, skin... have a little help controlling this raging horde of fluid and marrow."
-msgstr ""
+msgstr "Retourne là-dedans, sang ! Retour dans tes cours habituels, lymphe ! Et toi, peau... un peu d'aide pour contenir cette horde déchaînée de fluides et de moelle."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-5/23
 msgctxt "Farya"
 msgid "Band-aids are basically magic."
-msgstr ""
+msgstr "Les pansements, c'est de la magie, tout simplement."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-1/c-5/31
 msgctxt "Farya"
 msgid "Ah, I could go all day..."
-msgstr ""
+msgstr "Ah, je pourrais en parler toute la journée..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-2/0
 msgctxt "Farya"
 msgid "Anything that you might need - hydrocortisone, non-latex gloves, even a simple pen - that, darling lacerated one, will be duck soup!"
-msgstr ""
+msgstr "Tout ce dont tu pourrais avoir besoin, hydrocortisone, gants sans latex, même un simple stylo, ma chère âme lacérée, ce sera du gâteau !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-2/8/s/0
 msgctxt "Choix"
 msgid "No no. No duck soup for me. Thanks. Nuh-uh."
-msgstr ""
+msgstr "Non non. Pas de gâteau pour moi, merci. Pas question."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-2/9/s/0
 msgctxt "Choix"
 msgid "Lacerated? You're making me sound like a battlefield casualty here."
-msgstr ""
+msgstr "Lacérée ? Tu me fais passer pour une victime de champ de bataille."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-2/10/s/0
 msgctxt "Choix"
 msgid "Well, thanks!"
-msgstr ""
+msgstr "Eh bien, merci !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-3/0
 msgctxt "Farya"
 msgid "Zounds... something is drawing my eye... my medi-senses are tingling..."
-msgstr ""
+msgstr "Palsambleu... quelque chose attire mon regard... mes sens médicaux frétillent..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-3/8
 msgctxt "Farya"
 msgid "Better let me take a look at that wound of yours."
-msgstr ""
+msgstr "Laisse-moi donc jeter un oeil à cette blessure."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-3/16
 msgctxt "Farya"
 msgid "You sneaky little sufferer! Thought you could slide one by me under cover of metacarpals, eh?"
-msgstr ""
+msgstr "Vilaine petite âme souffrante ! Tu pensais m'en faire passer une en douce sous couvert de métacarpes, hein ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "What are you TALKING ABOUT."
-msgstr ""
+msgstr "Mais tu PARLES DE QUOI."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-3/25/s/0
 msgctxt "Choix"
 msgid "Um... nope, not suffering, I don't think. Metacarpals are all good here."
-msgstr ""
+msgstr "Euh... non, je ne souffre pas, je crois. Les métacarpes vont très bien."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-3/26/s/0
 msgctxt "Choix"
 msgid "I didn't mean to hide it from you!"
-msgstr ""
+msgstr "Je ne voulais pas te le cacher !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/0
 msgctxt "Farya"
 msgid "Juuust to double check you don't need an injection or two."
-msgstr ""
+msgstr "Juste pour vérifier que tu n'as pas besoin d'une piqûre ou deux."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/8
 msgctxt "Farya"
 msgid "Take it from me, dear, you're better off safe than sorry."
-msgstr ""
+msgstr "Crois-moi, ma belle âme, mieux vaut prévenir que guérir."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/16
 msgctxt "Farya"
 msgid "After all, if there's any sign of rash, you won't know it's there unless we do a thorough examination and even then..."
-msgstr ""
+msgstr "Après tout, au moindre signe d'éruption, on ne le saura que par un examen approfondi, et même alors..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/24
 msgctxt "Farya"
 msgid "...well, I'm afraid there's always a chance for scarlet fever."
-msgstr ""
+msgstr "...hélas, il y a toujours un risque de scarlatine."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/32/s/0
 msgctxt "Choix"
 msgid "Whoa! What century do you think this is?"
-msgstr ""
+msgstr "Whoa ! Tu te crois dans quel siècle ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/33/s/0
 msgctxt "Choix"
 msgid "Oh crap, really? Check me, check me now!!"
-msgstr ""
+msgstr "Oh merde, sérieux ? Examine-moi, examine-moi tout de suite !!"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/7
 msgctxt "Farya"
 msgid "Whatever century this is, it is a century where proper medical care is an essential right of all beings!"
-msgstr ""
+msgstr "Quel que soit le siècle, c'est un siècle où des soins médicaux dignes de ce nom sont un droit essentiel pour tous les êtres !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/15
 msgctxt "Farya"
 msgid "And I am here to provide said right."
-msgstr ""
+msgstr "Et je suis là pour garantir ledit droit."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/23
 msgctxt "Farya"
 msgid "Now. Produce your fingers, please."
-msgstr ""
+msgstr "À présent. Présente-moi tes doigts, je te prie."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/0/s/0
 msgctxt "Choix"
 msgid "Oh for heaven's sake. Fine. Here."
-msgstr ""
+msgstr "Oh, pour l'amour du ciel. Bon. Tiens."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/1/s/0
 msgctxt "Choix"
 msgid "And what if I don't?"
-msgstr ""
+msgstr "Et si je refuse ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/2/s/0
 msgctxt "Choix"
 msgid "Actually, this medical stuff kind of makes me uncomfortable..."
-msgstr ""
+msgstr "En fait, tout ce truc médical me met un peu mal à l'aise..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/0
 msgctxt "Farya"
 msgid "Well. I can't force you. Even if I could, such a course of action would never occur to me. It is against the oath I took and hold to my heart as a sacred charge."
-msgstr ""
+msgstr "Eh bien. Je ne peux pas te forcer. Même si je le pouvais, cette idée ne m'effleurerait jamais. Elle va à l'encontre du serment que j'ai prêté et que je garde sur le coeur comme une charge sacrée."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/8
 msgctxt "Farya"
 msgid "I guess I'd say..."
-msgstr ""
+msgstr "Je suppose que je dirais..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/16
 msgctxt "Farya"
 msgid "Oh please! Please! Please! Please! Please! PLEASEE!"
-msgstr ""
+msgstr "Oh s'il te plaît ! S'il te plaît ! S'il te plaît ! S'il te plaît ! S'IL TE PLAÎÎÎT !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/0/s/0
 msgctxt "Choix"
 msgid "Y'know what? Take a look."
-msgstr ""
+msgstr "Tu sais quoi ? Vas-y, regarde."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/1/s/0
 msgctxt "Choix"
 msgid "I really don't want to, Farya."
-msgstr ""
+msgstr "Vraiment pas envie, Farya."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-0/7
 msgctxt "Farya"
 msgid "Yay! You won't be sorry."
-msgstr ""
+msgstr "Youpi ! Tu ne le regretteras pas."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/7
 msgctxt "Farya"
 msgid "That is your right. I respect it. I honor you for being honest!"
-msgstr ""
+msgstr "C'est ton droit. Je le respecte. Je t'honore pour ta franchise !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/15
 msgctxt "Farya"
 msgid "Please come back and visit me if you're ever grievously wounded."
-msgstr ""
+msgstr "Reviens me voir si tu es un jour gravement blessé·e."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/23
 msgctxt "Farya"
 msgid "Or if you're a little lonely and want to talk about grievous wounds."
-msgstr ""
+msgstr "Ou si tu te sens un peu seul·e et que tu veux parler de blessures graves."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-13/31/g-0/27/c-1/31
 msgctxt "Farya"
 msgid "Either way."
-msgstr ""
+msgstr "Dans les deux cas."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-4/c-14/7
 msgctxt "Farya"
 msgid "Once more unto the exams!"
-msgstr ""
+msgstr "Encore une fois, à l'assaut des examens !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/0
 msgctxt "Narrator"
 msgid "Farya looks you up and down, tapping her chin as she considers you from every angle."
-msgstr ""
+msgstr "Farya vous toise de haut en bas en se tapotant le menton, vous considérant sous tous les angles."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/8
 msgctxt "Farya"
 msgid "Hmm... Hmph! Hmph, hmph, hmph..."
-msgstr ""
+msgstr "Hmm... Hmpf ! Hmpf, hmpf, hmpf..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/16
 msgctxt "Farya"
 msgid "Exactly what I thought."
-msgstr ""
+msgstr "Exactement ce que je pensais."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/24/s/0
 msgctxt "Choix"
 msgid "What. Oh god, you're freaking me out."
-msgstr ""
+msgstr "Quoi. Oh mon dieu, tu me fais flipper."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/25/s/0
 msgctxt "Choix"
 msgid "If this is just a splinter or something, I'm gonna die laughing."
-msgstr ""
+msgstr "Si c'est juste une écharde ou un truc du genre, je vais mourir de rire."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/26/s/0
 msgctxt "Choix"
 msgid "And what did you exactly think?"
-msgstr ""
+msgstr "Et qu'est-ce que tu pensais, exactement ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/c-15/7
 msgctxt "Farya"
 msgid "No need to be anxious! We caught it just in time."
-msgstr ""
+msgstr "Inutile de t'inquiéter ! On l'a détecté juste à temps."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/c-15/15 farya_firstaid/farya_intro/0/showhand/c-17/7
 msgctxt "Farya"
 msgid "You do indeed possess..."
-msgstr ""
+msgstr "Tu possèdes bel et bien..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/showhand/c-15/23 farya_firstaid/farya_intro/0/showhand/c-17/15
 msgctxt "Farya"
 msgid "A SPLINTER!"
-msgstr ""
+msgstr "UNE ÉCHARDE !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/0
 msgctxt "Farya"
 msgid "Ah-ha! But it's NOT just any old splinter, dear."
-msgstr ""
+msgstr "Ah-ha ! Mais ce n'est PAS une écharde ordinaire, mon petit."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/8
 msgctxt "Farya"
 msgid "What you have is a deep, DEEP splinter."
-msgstr ""
+msgstr "Ce que tu as là, c'est une écharde profonde, PROFONDE."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/16
 msgctxt "Farya"
 msgid "Plenty of tender flesh open to infection, just waiting for those little microbial monsters to set in."
-msgstr ""
+msgstr "Une quantité de chair tendre ouverte à l'infection, n'attendant que ces petits monstres microbiens pour s'y installer."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/24
 msgctxt "Farya"
 msgid "Do you know what that means?"
-msgstr ""
+msgstr "Sais-tu ce que cela signifie ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/32/s/0
 msgctxt "Choix"
 msgid "Sounds bad."
-msgstr ""
+msgstr "Ça sent mauvais."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/33/s/0
 msgctxt "Choix"
 msgid "I mean, you just kinda told me. Infection is what it means."
-msgstr ""
+msgstr "Enfin, tu viens de me le dire. Ça veut dire une infection."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/7
 msgctxt "Farya"
 msgid "Ah! Yes, I did. I did give you the answer on that one, didn't I."
-msgstr ""
+msgstr "Ah ! Oui, c'est vrai. Je t'ai donné la réponse, n'est-ce pas."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/15
 msgctxt "Farya"
 msgid "Whoopsie daisy."
-msgstr ""
+msgstr "Oupsie."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/23
 msgctxt "Farya"
 msgid "But can you think of a circumstance under which an infection would be a good thing?"
-msgstr ""
+msgstr "Mais peux-tu imaginer une situation où une infection serait une bonne chose ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/31/0/s/0
 msgctxt "Choix"
 msgid "It means you're not dead yet, at least."
-msgstr ""
+msgstr "Ça veut dire que tu es encore en vie, au moins."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/31/1/s/0
 msgctxt "Choix"
 msgid "Nope! Infection bad. I remember that from health class."
-msgstr ""
+msgstr "Non ! Infection, mauvais. Je m'en souviens du cours de santé."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/31/c-0/15
 msgctxt "Farya"
 msgid "I hadn't thought of that. What an excellent point!"
-msgstr ""
+msgstr "Je n'y avais pas pensé. Excellente remarque !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/31/c-0/23
 msgctxt "Farya"
 msgid "But aside from the not being dead yet thing. Infections, we can agree, are generally not indicators of good health, correct?"
-msgstr ""
+msgstr "Mais mis à part le fait d'être encore en vie. Les infections, nous sommes d'accord, ne sont généralement pas un signe de bonne santé, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-5/c-19/31/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Correct."
-msgstr ""
+msgstr "Exact."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-6/0
 msgctxt "Farya"
 msgid "And how!"
-msgstr ""
+msgstr "Et pas qu'un peu !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-6/8
 msgctxt "Farya"
 msgid "And that's just the beginning."
-msgstr ""
+msgstr "Et ce n'est que le début."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-6/16
 msgctxt "Farya"
 msgid "Because once the infection's done a number on you, and your poor beleaguered immune system staggers back onto the field of battle for another round with the enemy..."
-msgstr ""
+msgstr "Car une fois que l'infection t'a bien travaillé, et que ton pauvre système immunitaire éreinté retourne sur le champ de bataille pour une nouvelle manche contre l'ennemi..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-6/24
 msgctxt "Farya"
 msgid "...you watch helplessly as your body swells and burns and turns all different shades of red, pink and yellow, and the true engine of the enemy rolls up to the line... poof!"
-msgstr ""
+msgstr "...tu assistes, impuissant·e, à l'enflure et à la brûlure de ton corps, qui vire à toutes les nuances de rouge, de rose et de jaune, et le véritable moteur de l'ennemi arrive en première ligne... pouf !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-6/32
 msgctxt "Farya"
 msgid "GANGRENE!"
-msgstr ""
+msgstr "LA GANGRÈNE !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-6/43/s/0
 msgctxt "Choix"
 msgid "What?!"
-msgstr ""
+msgstr "Quoi ?!"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-6/44/s/0
 msgctxt "Choix"
 msgid "From a splinter?? Oh please."
-msgstr ""
+msgstr "À cause d'une écharde ?? Oh, s'il te plaît."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/0
 msgctxt "Farya"
 msgid "And before you know it, we'll have to amputate entirely!"
-msgstr ""
+msgstr "Et avant que tu t'en rendes compte, il faudra amputer entièrement !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/11/s/0
 msgctxt "Choix"
 msgid "I DO NOT GIVE YOU PERMISSION TO AMPUTATE ANYTHING."
-msgstr ""
+msgstr "JE NE T'AUTORISE À AMPUTER QUOI QUE CE SOIT."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/12/s/0
 msgctxt "Choix"
 msgid "I really think you're blowing this out of proportion."
-msgstr ""
+msgstr "Je crois vraiment que tu exagères."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/13/s/0
 msgctxt "Choix"
 msgid "AAAAAAHHHHHHHH!!!!!"
-msgstr ""
+msgstr "AAAAAAHHHHHHHH !!!!!"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/c-22/7
 msgctxt "Farya"
 msgid "I'll note that in your chart of course but I have to be honest..."
-msgstr ""
+msgstr "Je le noterai dans ton dossier, bien sûr, mais je dois être honnête..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/c-23/7
 msgctxt "Farya"
 msgid "Do you? Do you??"
-msgstr ""
+msgstr "Vraiment ? Vraiment ??"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/c-23/15
 msgctxt "Farya"
 msgid "Ah, I see, so you would rather wait and see, allow the infection to spread under its epidermal shield until the enemy has a non-dislodgeable foothold in your precious body and you can no longer ignore the signs and symptoms."
-msgstr ""
+msgstr "Ah, je vois, tu préfères donc attendre, laisser l'infection se propager sous son bouclier épidermique jusqu'à ce que l'ennemi s'installe pour de bon dans ton précieux corps et que tu ne puisses plus ignorer les signes et les symptômes."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/c-23/23
 msgctxt "Farya"
 msgid "We'll just let it progress, then."
-msgstr ""
+msgstr "Alors laissons faire."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/c-23/31
 msgctxt "Farya"
 msgid "HOWEVER."
-msgstr ""
+msgstr "CEPENDANT."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-7/c-24/13
 msgctxt "Farya"
 msgid "I KNOW! This stuff is not for the faint of heart."
-msgstr ""
+msgstr "JE SAIS ! Tout cela n'est pas pour les âmes sensibles."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/0
 msgctxt "Farya"
 msgid "Once it's bad enough, my poor new friend, I'm afraid the whole appendage'll have to come off."
-msgstr ""
+msgstr "Quand ce sera assez grave, ma pauvre nouvelle connaissance, je crains que tout l'appendice ne doive y passer."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/8
 msgctxt "Farya"
 msgid "Preventing spread, and all."
-msgstr ""
+msgstr "Pour éviter la propagation, et tout ça."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/16
 msgctxt "Farya"
 msgid "I'm sad to say we lose many a good limb to splinters every year."
-msgstr ""
+msgstr "Hélas, nous perdons chaque année bien des membres à cause d'échardes."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/24/s/0
 msgctxt "Choix"
 msgid "Is that true? Like, statistically?"
-msgstr ""
+msgstr "C'est vrai ? Genre, statistiquement ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/25/s/0
 msgctxt "Choix"
 msgid "You live in a very dramatic world, Farya."
-msgstr ""
+msgstr "Tu vis dans un monde très dramatique, Farya."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/c-25/7
 msgctxt "Farya"
 msgid "Statistics is not really my field, I have to say. But I know how many amputations I've had to perform because someone got careless moving the milk crate!"
-msgstr ""
+msgstr "Les statistiques, ce n'est pas vraiment mon rayon, je dois dire. Mais je sais combien d'amputations j'ai dû pratiquer parce que quelqu'un avait été imprudent en déplaçant la caisse de lait !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/c-25/15
 msgctxt "Farya"
 msgid "Ah yes. I do know about the body."
-msgstr ""
+msgstr "Ah oui. Le corps, je connais."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/c-26/7
 msgctxt "Farya"
 msgid "The world is dramatic! Drama isn't necessarily a bad thing, you know."
-msgstr ""
+msgstr "Le monde est dramatique ! Le drame n'est pas forcément une mauvaise chose, tu sais."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-8/c-26/15
 msgctxt "Farya"
 msgid "Drama can be the spice of life! Like cinnamon, or penicillin."
-msgstr ""
+msgstr "Le drame, c'est le sel de la vie ! Comme la cannelle, ou la pénicilline."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/0
 msgctxt "Farya"
 msgid "The bottom line is, you have got to stay vigilant!"
-msgstr ""
+msgstr "L'essentiel, c'est de rester vigilant·e !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/8
 msgctxt "Farya"
 msgid "The world's a scary place, and your body is a fragile, fragile thing."
-msgstr ""
+msgstr "Le monde est effrayant, et ton corps est une chose fragile, si fragile."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/16
 msgctxt "Farya"
 msgid "One wrong move, and you can throw it into total and utter chaos!"
-msgstr ""
+msgstr "Un faux pas, et tout peut basculer dans le chaos le plus total !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/24
 msgctxt "Farya"
 msgid "A veritable breeding ground for every Balm, Dick, & Harry's slate of diseases ready to eat you whole!"
-msgstr ""
+msgstr "Un véritable terreau pour la panoplie de maladies de tous les Pommade, Paul et Jacques, prêtes à t'engloutir tout rond !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/32
 msgctxt "Farya"
 msgid "You never know what the seemingly tiniest, laughable symptom can mean."
-msgstr ""
+msgstr "On ne sait jamais ce que peut signifier le symptôme le plus minuscule, le plus risible en apparence."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/40
 msgctxt "Farya"
 msgid "For example... Got a case of bad breath?"
-msgstr ""
+msgstr "Par exemple... une haleine un peu forte ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/48
 msgctxt "Farya"
 msgid "Maybe you just ate a sandwich with too many onions..."
-msgstr ""
+msgstr "Peut-être que tu as simplement mangé un sandwich avec trop d'oignons..."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/56
 msgctxt "Farya"
 msgid "OR, your breath stinks like a dead fish on a hot Sunday because you’ve managed to develop halitosis as a result of the toxic substances in your body not being filtered out properly because your LIVER IS FAILING."
-msgstr ""
+msgstr "OU BIEN ton haleine sent le poisson mort un dimanche de canicule parce que tu as développé une halitose due aux substances toxiques que ton corps n'élimine pas correctement parce que TON FOIE LÂCHE."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/67/s/0
 msgctxt "Choix"
 msgid "Or, it’s just that sandwich."
-msgstr ""
+msgstr "Ou alors, c'est juste le sandwich."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/68/s/0
 msgctxt "Choix"
 msgid "Pretty sure my liver is ok. Love the concern, though."
-msgstr ""
+msgstr "Je suis presque sûr que mon foie va bien. Merci de t'en soucier, cela dit."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/c-27/7 farya_firstaid/farya_intro/0/g-13/c-35/18
 msgctxt "Farya"
 msgid "Maybe."
-msgstr ""
+msgstr "Peut-être."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-9/c-27/15
 msgctxt "Farya"
 msgid "A totally legitimate possibility."
-msgstr ""
+msgstr "Une possibilité tout à fait légitime."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-10/0
 msgctxt "Farya"
 msgid "You can never be too careful."
-msgstr ""
+msgstr "On n'est jamais trop prudent."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-10/8
 msgctxt "Farya"
 msgid "And when something does go wrong?"
-msgstr ""
+msgstr "Et quand quelque chose tourne mal ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-10/16
 msgctxt "Farya"
 msgid "Well, it's my job to make sure you're all fixed up."
-msgstr ""
+msgstr "Eh bien, c'est mon travail de te remettre sur pied."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-10/24
 msgctxt "Farya"
 msgid "And I'll have you know, I take my job very, very seriously."
-msgstr ""
+msgstr "Et sache que je prends mon travail très, très au sérieux."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-10/32/s/0
 msgctxt "Choix"
 msgid "No, I got that."
-msgstr ""
+msgstr "Non, ça, j'avais compris."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-10/33/s/0
 msgctxt "Choix"
 msgid "Gasp. Really? I'd never have known."
-msgstr ""
+msgstr "Oh. Vraiment ? Je ne m'en serais jamais douté."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/0
 msgctxt "Farya"
 msgid "A doctor's duty is to keep their patients alive and kicking!"
-msgstr ""
+msgstr "Le devoir d'un médecin est de garder ses patients en vie et en forme !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/8
 msgctxt "Farya"
 msgid "That's a big responsibility."
-msgstr ""
+msgstr "C'est une lourde responsabilité."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/16
 msgctxt "Farya"
 msgid "So you can bet your behind I make sure to cross all my Ts and dot all my Is - sometimes even twice!"
-msgstr ""
+msgstr "Alors tu peux parier ta culotte que je mets les points sur les i et les barres sur les t, parfois même deux fois !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/24/s/0
 msgctxt "Choix"
 msgid "Two dots? Two crosses? When will the madness end??"
-msgstr ""
+msgstr "Deux points ? Deux barres ? Quand cette folie s'arrêtera-t-elle ??"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/25/s/0
 msgctxt "Choix"
 msgid "I'll bet your handwriting is hard to read."
-msgstr ""
+msgstr "Je parie que ton écriture est illisible."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/c-31/7
 msgctxt "Farya"
 msgid "When there is no more sickness!"
-msgstr ""
+msgstr "Quand il n'y aura plus de maladie !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/c-31/15/0/s/0
 msgctxt "Choix"
 msgid "That is a totally unrealistic goal."
-msgstr ""
+msgstr "C'est un objectif complètement irréaliste."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/c-31/15/1/s/0
 msgctxt "Choix"
 msgid "Awesome. I'll wait for that!"
-msgstr ""
+msgstr "Génial. Je vais attendre ça !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/c-32/7
 msgctxt "Farya"
 msgid "Ha! Never met a doctor who had good handwriting!"
-msgstr ""
+msgstr "Ha ! Je n'ai jamais rencontré de médecin à l'écriture soignée !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/c-32/15/0/s/0
 msgctxt "Choix"
 msgid "Yeah but that's not a goal to strive for!"
-msgstr ""
+msgstr "Oui mais ce n'est pas un objectif à viser !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-11/c-32/15/1/s/0
 msgctxt "Choix"
 msgid "I don't think they're proud of that, though."
-msgstr ""
+msgstr "Je ne pense pas qu'ils en soient fiers, pourtant."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-12/0
 msgctxt "Farya"
 msgid "Horsefeathers!"
-msgstr ""
+msgstr "Des plumes de cheval !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-12/8/s/0
 msgctxt "Choix"
 msgid "Oh boy."
-msgstr ""
+msgstr "Eh ben, mon gars."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-12/9/s/0
 msgctxt "Choix"
 msgid "Horse-what?"
-msgstr ""
+msgstr "Cheval... quoi ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-12/c-33/7
 msgctxt "Farya"
 msgid "Girl. Female. Not boy."
-msgstr ""
+msgstr "Une fille. Une femme. Pas un gars."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-12/c-33/15
 msgctxt "Farya"
 msgid "Oh! You were expressing consternation. Frustration."
-msgstr ""
+msgstr "Oh ! Tu exprimais ta consternation. Ta frustration."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-12/c-33/23
 msgctxt "Farya"
 msgid "Got it."
-msgstr ""
+msgstr "J'ai compris."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-12/c-34/7
 msgctxt "Farya"
 msgid "Feathers. Horse... oh nevermind."
-msgstr ""
+msgstr "Plumes. Cheval... oh, laisse tomber."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/0
 msgctxt "Farya"
 msgid "Anywho."
-msgstr ""
+msgstr "Bref."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/8
 msgctxt "Farya"
 msgid "It doesn't look like you've got any type of rash after all."
-msgstr ""
+msgstr "Finalement, il n'y a aucune éruption."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/16
 msgctxt "Farya"
 msgid "Just that splinter looking awful uncomfortable there."
-msgstr ""
+msgstr "Juste cette écharde qui a l'air bien inconfortable."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/24
 msgctxt "Farya"
 msgid "Let's get that taken care of."
-msgstr ""
+msgstr "Occupons-nous-en."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/32
 msgctxt "Farya"
 msgid "And then, presto, you're all patched up."
-msgstr ""
+msgstr "Et hop, te voilà tout rafistolé."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/48
 msgctxt "Farya"
 msgid "There you go!"
-msgstr ""
+msgstr "Voilà !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/59
 msgctxt "Farya"
 msgid "Good as new - and if you do develop any plague-like symptoms, well, that's what I'm here for!"
-msgstr ""
+msgstr "Comme neuf, et si jamais tu développes des symptômes évoquant la peste, eh bien, c'est pour ça que je suis là !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/67/s/0
 msgctxt "Choix"
 msgid "Do you secretly want me to have plague? Just checking."
-msgstr ""
+msgstr "Tu veux secrètement que j'aie la peste ? Je demande, c'est tout."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/68/s/0
 msgctxt "Choix"
 msgid "I'll come back at the first sign of a sniffle, I promise!"
-msgstr ""
+msgstr "Je reviendrai au premier reniflement, promis !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/c-35/7
 msgctxt "Farya"
 msgid "NO!"
-msgstr ""
+msgstr "NON !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/c-35/26
 msgctxt "Farya"
 msgid "A little bit."
-msgstr ""
+msgstr "Un petit peu."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/c-35/34
 msgctxt "Farya"
 msgid "Dear syringes what am I saying. No, I do not secretly want you to have plague."
-msgstr ""
+msgstr "Par mes seringues, que suis-je en train de dire. Non, je ne souhaite pas secrètement que tu aies la peste."
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-13/c-36/7
 msgctxt "Farya"
 msgid "You'd better! I'll keep the tissues ready!"
-msgstr ""
+msgstr "Tu as intérêt ! Je garderai les mouchoirs à portée de main !"
 
+# Traduction IA – à relire
 #: farya_firstaid/farya_intro/0/g-14/0
 msgctxt "Farya"
 msgid "Medical Professional Farya's always just a sniff, sneeze and groan of discomfort away!"
-msgstr ""
+msgstr "Farya, professionnelle de santé, n'est jamais qu'à un reniflement, un éternuement et un gémissement de douleur de toi !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/0
 msgctxt "Farya"
 msgid "Hello, hello!"
-msgstr ""
+msgstr "Bonjour, bonjour !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/8
 msgctxt "Farya"
 msgid "How nice to see you again! I do hope that wound is healing up nicely!"
-msgstr ""
+msgstr "Quel plaisir de te revoir ! J'espère que cette blessure cicatrise bien !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/16
 msgctxt "Farya"
 msgid "You've interrupted me in media res, so to speak."
-msgstr ""
+msgstr "Tu me prends in medias res, si je puis dire."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/24
 msgctxt "Farya"
 msgid "I just got in a brand new shipment of bandages, so I'm taking a study break to organize everything!"
-msgstr ""
+msgstr "Je viens de recevoir un tout nouvel arrivage de pansements, alors je fais une pause dans mes révisions pour tout ranger !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/32/s/0
 msgctxt "Choix"
 msgid "Wound is doing great, thanks!"
-msgstr ""
+msgstr "La blessure va très bien, merci !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/33/s/0
 msgctxt "Choix"
 msgid "Study break?"
-msgstr ""
+msgstr "Une pause dans tes révisions ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-0/7
 msgctxt "Farya"
 msgid "Thrilled to hear it."
-msgstr ""
+msgstr "Ravie de l'entendre."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-0/15
 msgctxt "Farya"
 msgid "Remember to keep it clean and dry and change the dressing once every 24 hours."
-msgstr ""
+msgstr "N'oublie pas de la garder propre et sèche et de changer le pansement toutes les 24 heures."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-0/23
 msgctxt "Farya"
 msgid "Or it is 36 hours..."
-msgstr ""
+msgstr "Ou est-ce 36 heures..."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-0/31
 msgctxt "Farya"
 msgid "Oh heck, for some reason I always forget that. Let me just check in my textbook and I'll give you the correct information!"
-msgstr ""
+msgstr "Oh zut, je l'oublie toujours, je ne sais pas pourquoi. Laisse-moi vérifier dans mon manuel et je te donnerai la bonne information !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-1/7
 msgctxt "Farya"
 msgid "Yes!"
-msgstr ""
+msgstr "Oui !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-1/15
 msgctxt "Farya"
 msgid "I believe I mentioned to you that I am currently a top notch medical professional?"
-msgstr ""
+msgstr "Je crois t'avoir dit que je suis actuellement une professionnelle de santé de premier ordre ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-1/23/0/s/0
 msgctxt "Choix"
 msgid "You may have brought it up once or twice, yes."
-msgstr ""
+msgstr "Tu l'as peut-être évoqué une fois ou deux, oui."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "YOU? No way."
-msgstr ""
+msgstr "TOI ? Pas possible."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-1/23/c-1/7
 msgctxt "Farya"
 msgid "Way! I am. Right here in the house. Top notch. And professional."
-msgstr ""
+msgstr "Si ! Je le suis. Ici même, dans la maison. De premier ordre. Et professionnelle."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/c-1/23/c-1/15
 msgctxt "Farya"
 msgid "But there is something to which I aspire that I have not yet achieved."
-msgstr ""
+msgstr "Mais il y a quelque chose à quoi j'aspire et que je n'ai pas encore atteint."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-0/0
 msgctxt "Farya"
 msgid "I am studying with great earnestness to become..."
-msgstr ""
+msgstr "J'étudie avec une grande ferveur pour devenir..."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-0/8
 msgctxt "Farya"
 msgid "...a <w>Doctor</w>."
-msgstr ""
+msgstr "...une <w>Doctoresse</w>."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-0/19/s/0
 msgctxt "Choix"
 msgid "Wow, that's so cool!"
-msgstr ""
+msgstr "Wow, c'est trop cool !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-0/20/s/0
 msgctxt "Choix"
 msgid "Sounds like a lot of work."
-msgstr ""
+msgstr "Ça a l'air de faire beaucoup de travail."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-0/c-2/7
 msgctxt "Farya"
 msgid "It is cool. It is the coolest thing I have ever done."
-msgstr ""
+msgstr "C'est cool. C'est la chose la plus cool que j'aie jamais faite."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/0
 msgctxt "Farya"
 msgid "It is a lot of work!"
-msgstr ""
+msgstr "C'est beaucoup de travail !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/8
 msgctxt "Farya"
 msgid "In fact... let me show you my textbook!"
-msgstr ""
+msgstr "D'ailleurs... laisse-moi te montrer mon manuel !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/16
 msgctxt "Farya"
 msgid "I might ask for your help with studying!"
-msgstr ""
+msgstr "Je pourrais te demander de l'aide pour mes révisions !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/25/s/0
 msgctxt "Choix"
 msgid "Whoa, bandages. That sounds exciting!"
-msgstr ""
+msgstr "Wow, des pansements. Ça a l'air passionnant !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/7
 msgctxt "Farya"
 msgid "Oh my goodness, is it ever!"
-msgstr ""
+msgstr "Oh là là, et comment !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/15
 msgctxt "Farya"
 msgid "I've got over a hundred varieties here, you know!"
-msgstr ""
+msgstr "J'en ai plus d'une centaine de variétés, tu sais !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/23
 msgctxt "Farya"
 msgid "I've got gauze bandages, and crepe bandages, and snake bite bandages, and cravat bandages, oh, and liquid bandages, and- ehhh..."
-msgstr ""
+msgstr "J'ai des pansements de gaze, des bandes de crêpe, des pansements anti-morsure de serpent, des bandages triangulaires, ah, et des pansements liquides, et... euh..."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/31
 msgctxt "Farya"
 msgid "I'm getting carried away, aren't I."
-msgstr ""
+msgstr "Je m'emballe, n'est-ce pas."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/39
 msgctxt "Farya"
 msgid "Ah well. I do tend to ramble when I talk about bandages."
-msgstr ""
+msgstr "Enfin bon. J'ai tendance à divaguer quand je parle de pansements."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/47
 msgctxt "Farya"
 msgid "I also haven't spoken in a while so my words are all so anxious to be expressed!"
-msgstr ""
+msgstr "Et puis je n'ai pas parlé depuis un moment, alors mes mots sont tous impatients de s'exprimer !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/55
 msgctxt "Farya"
 msgid "I've been studying all day."
-msgstr ""
+msgstr "J'ai étudié toute la journée."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/0/s/0
 msgctxt "Choix"
 msgid "Studying? For what?"
-msgstr ""
+msgstr "Tu révises ? Pour quoi ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/1/s/0
 msgctxt "Choix"
 msgid "When I study too much I just get really hungry."
-msgstr ""
+msgstr "Quand je révise trop, je me retrouve avec une faim de loup."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/7
 msgctxt "Farya"
 msgid "For the single greatest pursuit of my life."
-msgstr ""
+msgstr "Pour la plus grande quête de ma vie."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/15
 msgctxt "Farya"
 msgid "I, already a top notch medical professional, am studying to become..."
-msgstr ""
+msgstr "Moi, déjà professionnelle de santé de premier ordre, j'étudie pour devenir..."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/23
 msgctxt "Farya"
 msgid "...a <w>Doctor.</w>"
-msgstr ""
+msgstr "...une <w>Doctoresse.</w>"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/34
 msgctxt "Farya"
 msgid "Here! Let me show you my textbook!"
-msgstr ""
+msgstr "Tiens ! Laisse-moi te montrer mon manuel !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-0/42
 msgctxt "Farya"
 msgid "It's marvelously impressive, if I do say so."
-msgstr ""
+msgstr "Il est merveilleusement impressionnant, si je puis me permettre."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/7
 msgctxt "Farya"
 msgid "Oh that happens to me too!"
-msgstr ""
+msgstr "Oh, ça m'arrive aussi !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/15
 msgctxt "Farya"
 msgid "Unfortunately, one cannot eat bandages, and that seems to be the primary feature of my environment at this moment."
-msgstr ""
+msgstr "Hélas, on ne peut pas manger de pansements, et c'est apparemment la principale caractéristique de mon environnement en ce moment."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/23
 msgctxt "Farya"
 msgid "But such sacrifices are necessary in the pursuit of my goal!"
-msgstr ""
+msgstr "Mais de tels sacrifices sont nécessaires à la poursuite de mon but !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/31
 msgctxt "Farya"
 msgid "I, Farya, a crack first aid kit, am studying to become..."
-msgstr ""
+msgstr "Moi, Farya, trousse de secours hors pair, j'étudie pour devenir..."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/39
 msgctxt "Farya"
 msgid "...a <w>Doctor!</w>"
-msgstr ""
+msgstr "...une <w>Doctoresse !</w>"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-1/c-4/63/c-1/50
 msgctxt "Farya"
 msgid "And this. This tome of knowledge. Is my guide on the path."
-msgstr ""
+msgstr "Et ceci. Ce recueil de savoir. Est mon guide sur le chemin."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/0
 msgctxt "Farya"
 msgid "This, this beautiful and weighted thing, is my textbook!"
-msgstr ""
+msgstr "Ceci, cette belle et pesante chose, c'est mon manuel !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/11
 msgctxt "Farya"
 msgid "I'm not sure if you can tell, but I love it very much."
-msgstr ""
+msgstr "Je ne sais pas si ça se voit, mais je l'aime très fort."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/19
 msgctxt "Farya"
 msgid "I study every single day, and I have my big test coming up soon!"
-msgstr ""
+msgstr "J'étudie chaque jour, et mon grand examen approche !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/27
 msgctxt "Farya"
 msgid "In fact, might I ask you a favor?"
-msgstr ""
+msgstr "D'ailleurs, puis-je te demander un service ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/35/s/0
 msgctxt "Choix"
 msgid "Go for it."
-msgstr ""
+msgstr "Je t'écoute."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/36/s/0
 msgctxt "Choix"
 msgid "No, you can't dissect me."
-msgstr ""
+msgstr "Non, tu ne peux pas me disséquer."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/c-6/7
 msgctxt "Farya"
 msgid "Ha! Oh you are so funny."
-msgstr ""
+msgstr "Ha ! Oh, tu es tellement drôle."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/textbook/c-6/15
 msgctxt "Farya"
 msgid "No, it isn't that. Although dissection is a very useful instructional tool."
-msgstr ""
+msgstr "Non, ce n'est pas ça. Même si la dissection est un outil pédagogique très utile."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-2/0
 msgctxt "Farya"
 msgid "Would you be willing to help me study?"
-msgstr ""
+msgstr "Accepterais-tu de m'aider à réviser ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-2/8
 msgctxt "Farya"
 msgid "Perhaps despite appearances, I'm a bit nervous... I could really use some support."
-msgstr ""
+msgstr "Malgré les apparences, je suis peut-être un peu nerveuse... Un peu de soutien me ferait vraiment du bien."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-2/16/s/0
 msgctxt "Choix"
 msgid "For sure! I'm a great study buddy."
-msgstr ""
+msgstr "Carrément ! Pour réviser, je suis imbattable."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-2/17/s/0
 msgctxt "Choix"
 msgid "What do I have to do? I know nothing about this stuff."
-msgstr ""
+msgstr "Qu'est-ce que je dois faire ? Je n'y connais rien, à ces trucs."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-2/c-8/7
 msgctxt "Farya"
 msgid "Just quiz me! And you get to hold the answers so it's absolutely no pressure on you at all."
-msgstr ""
+msgstr "Il suffit de m'interroger ! Et c'est toi qui tiens les réponses, donc aucune pression pour toi."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-2/c-8/15
 msgctxt "Farya"
 msgid "And it won't even be now. I need to study some more before I'm ready for a mock quiz, so just hold onto it and I'll let you know when we can get to it!"
-msgstr ""
+msgstr "Et ce ne sera pas tout de suite. Je dois encore réviser avant d'être prête pour un quiz blanc, alors garde ça précieusement et je te préviendrai quand on pourra s'y mettre !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/0
 msgctxt "Farya"
 msgid "I really appreciate this. So so very much."
-msgstr ""
+msgstr "Je t'en suis vraiment reconnaissante. Tellement, tellement."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/11
 msgctxt "Farya"
 msgid "You're helping me realize my greatest dream!"
-msgstr ""
+msgstr "Tu m'aides à réaliser mon plus grand rêve !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/25
 msgctxt "Narrator"
 msgid "Farya hands you a piece of paper with an anatomical drawing of a skeleton on it."
-msgstr ""
+msgstr "Farya vous tend une feuille sur laquelle figure le dessin anatomique d'un squelette."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/33
 msgctxt "Farya"
 msgid "Here, take this page from my book. You can get familiar with the answers you'll need to quiz me on!"
-msgstr ""
+msgstr "Tiens, prends cette page de mon manuel. Tu pourras te familiariser avec les réponses sur lesquelles tu devras m'interroger !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/41
 msgctxt "Farya"
 msgid "(If you need help reading - they will appear in that newfangled date-a-dex Phoenicia has been telling me about)."
-msgstr ""
+msgstr "(Si tu as du mal à lire, elles apparaîtront dans ce nouveau Date-A-Dex dont Phoenicia me parle depuis un moment.)"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/56
 msgctxt "Farya"
 msgid "I'm very much looking forward to seeing you again soon!"
-msgstr ""
+msgstr "J'ai hâte de te revoir bientôt !"
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/64
 msgctxt "Farya"
 msgid "Huh..."
-msgstr ""
+msgstr "Tiens..."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/72
 msgctxt "Farya"
 msgid "Oddly, I don't even care if you're injured when you come back. How interesting."
-msgstr ""
+msgstr "Curieusement, je me fiche même que tu sois blessé·e à ton retour. Comme c'est intéressant."
 
+# Traduction IA – à relire
 #: farya_firstaid/first_encounter/0/g-3/80
 msgctxt "Farya"
 msgid "Until later, friend!"
-msgstr ""
+msgstr "À plus tard, {{mon ami|mon amie|mon ami·e}} !"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/0
 msgctxt "Farya"
 msgid "Oh, hi there!"
-msgstr ""
+msgstr "Oh, bonjour !"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/8
 msgctxt "Farya"
 msgid "Welcome back!"
-msgstr ""
+msgstr "Bon retour parmi nous !"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/16
 msgctxt "Farya"
 msgid "Wounds? Injuries? In addition to bandages I now have..."
-msgstr ""
+msgstr "Des blessures ? Des plaies ? En plus des pansements, j'ai maintenant..."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/24
 msgctxt "Farya"
 msgid "Ointments!"
-msgstr ""
+msgstr "Des onguents !"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/35/s/0
 msgctxt "Choix"
 msgid "All bones intact, no active bleeding."
-msgstr ""
+msgstr "Tous les os sont intacts, aucun saignement actif."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/36/s/0
 msgctxt "Choix"
 msgid "Ointments. Wow. You're moving up in the world."
-msgstr ""
+msgstr "Des onguents. Wow. Tu montes en grade."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/37/s/0
 msgctxt "Choix"
 msgid "You know you're a little ridiculous. Right?"
-msgstr ""
+msgstr "Tu sais que tu es un peu ridicule. Non ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-0/15
 msgctxt "Farya"
 msgid "I mean, well, I suppose it's good you're not expiring."
-msgstr ""
+msgstr "Enfin, je suppose que c'est bien que tu ne sois pas sur le point de rendre l'âme."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-0/23
 msgctxt "Farya"
 msgid "Finding that I would miss you, weirdly."
-msgstr ""
+msgstr "Je me rends compte que tu me manquerais, bizarrement."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-0/31
 msgctxt "Farya"
 msgid "Not weird! Ooooh whoopsies, not weirdly. You're excellent and fully missable."
-msgstr ""
+msgstr "Pas bizarre ! Oooh oups, pas bizarrement. Tu es excellent·e et parfaitement manquable."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-0/42
 msgctxt "Farya"
 msgid "I just usually don't... miss anyone. Except for this one armoire I knew who managed to take an honest-to-goodness axe through one of his doors..."
-msgstr ""
+msgstr "C'est juste que, d'habitude, personne ne me... manque. Sauf cette armoire que j'ai connue et qui avait réussi à prendre une vraie hache dans l'une de ses portes..."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-0/50
 msgctxt "Farya"
 msgid "That was a fun surgery..."
-msgstr ""
+msgstr "Quelle chirurgie amusante c'était..."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/7
 msgctxt "Farya"
 msgid "Yes, yes indeed I am."
-msgstr ""
+msgstr "Oui, oui, en effet, je le suis."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/15
 msgctxt "Farya"
 msgid "From ointments, it's a hop to tinctures, from tinctures a mere skip to injectable local anaesthetics and after that, the sky truly is the limit."
-msgstr ""
+msgstr "Des onguents, on passe aux teintures, des teintures, il n'y a qu'un pas jusqu'aux anesthésiques locaux injectables, et après ça, le ciel est vraiment la limite."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/23
 msgctxt "Farya"
 msgid "I may even be the proud owner of a pill press one day."
-msgstr ""
+msgstr "Je serai peut-être même un jour l'heureuse propriétaire d'une presse à pilules."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "I'm very excited for you."
-msgstr ""
+msgstr "Je suis ravi·e pour toi."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "Pill Press. GET IT."
-msgstr ""
+msgstr "Presse à pilules. ELLE EST BONNE."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/c-0/7
 msgctxt "Farya"
 msgid "I'm excited for me, too!"
-msgstr ""
+msgstr "Moi aussi, je suis ravie pour moi !"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/c-0/15
 msgctxt "Farya"
 msgid "How fun to have a friend to be excited for me."
-msgstr ""
+msgstr "Quel bonheur d'avoir un·e ami·e pour se réjouir pour moi."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/c-1/7
 msgctxt "Farya"
 msgid "One day, dear compatriot, one day. They are surprisingly hard to find! They aren't really manufactured for individuals anymore."
-msgstr ""
+msgstr "Un jour, {{cher|chère|cher·e}} compatriote, un jour. C'est étonnamment difficile à trouver ! On n'en fabrique plus vraiment pour les particuliers."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/c-1/15
 msgctxt "Farya"
 msgid "I suppose I could get one of the big industrial ones, but do I really need to produce 1000 pills at one time? No."
-msgstr ""
+msgstr "Je suppose que je pourrais me procurer une de ces grosses industrielles, mais ai-je vraiment besoin de produire 1000 pilules d'un coup ? Non."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/c-1/23
 msgctxt "Farya"
 msgid "No."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/c-1/31
 msgctxt "Farya"
 msgid "Hm. Actually now that I've...."
-msgstr ""
+msgstr "Hm. En fait, maintenant que j'y pense..."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-1/31/c-1/42
 msgctxt "Farya"
 msgid "No, no. Self-control, Farya. Self-control."
-msgstr ""
+msgstr "Non, non. Maîtrise de soi, Farya. Maîtrise de soi."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-2/7
 msgctxt "Farya"
 msgid "Fully and completely!"
-msgstr ""
+msgstr "Pleinement et totalement !"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-2/15
 msgctxt "Farya"
 msgid "I learned long ago and in painful fashion that I would much rather be ridiculous and be myself than be non-ridiculous and be somebody else."
-msgstr ""
+msgstr "J'ai appris il y a longtemps, et dans la douleur, que je préférais mille fois être ridicule en étant moi-même que non ridicule en étant quelqu'un d'autre."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-2/23
 msgctxt "Farya"
 msgid "For the love of all things dermal, have you an INKLING of the work involved in trying to be someone else."
-msgstr ""
+msgstr "Pour l'amour de tout ce qui est dermique, as-tu une IDÉE du travail que ça demande d'essayer d'être quelqu'un d'autre ?"
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-2/31
 msgctxt "Farya"
 msgid "And fool those around you into believing you're someone else."
-msgstr ""
+msgstr "Et de faire croire à ceux qui t'entourent que tu es quelqu'un d'autre."
 
+# Traduction IA – à relire
 #: farya_firstaid/second_encounter/0/c-2/39
 msgctxt "Farya"
 msgid "And fool yourself into believing you're someone else because otherwise it is so confusing and upsetting to try to be two things!"
-msgstr ""
+msgstr "Et de te faire croire à toi-même que tu es quelqu'un d'autre parce que sinon c'est tellement déroutant et bouleversant d'essayer d'être deux choses à la fois !"
 
 #: farya_firstaid/second_encounter/0/c-2/50
 msgctxt "Farya"

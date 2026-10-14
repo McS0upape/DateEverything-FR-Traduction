@@ -125,3 +125,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - Hundred Beer's War → Guerre des Cent Bières ; Springtime Breeze → Brise de Printemps ; The Round Table → La Table Ronde
 
 - **keith_key** : « Church of Latter Day Sinks » → « Église des Éviers du Dernier Jour » (à harmoniser).
+- **keyes_piano** : sound board = table d'harmonie ; baby grand = piano quart de queue ; recapitulation = réexposition ; cadenza = cadence.

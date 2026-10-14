@@ -28,10 +28,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : masculin (« il »).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie.
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : théâtral, grandiloquent, comique de stand-up ; phrases pompeuses qui déraillent en absurde, digressions, fausses pistes, humour de papa.
+- **Personnalité, manière de parler** : prétend être Martin Applegate, expert en sinistres d'assurance de Turkleman City (Floride), maudit en évier par Vagabonda la Sinclairieuse. Délire paranoïaque, prend tout au pied de la lettre, enchaîne les jeux de mots sur l'évier. Son chien Sudsy est un savon (aboie « Ouaf »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Rien n'est ce qu'il semble être » ; calembours évier / couler / rincer / éviernité ; « À la prochaine, évier-demment ! » ; la chemise rouge fantastique ; le Pissenlit Douteux ; Église des Éviers du Dernier Jour.
+- **Exemples de répliques traduites (référence de ton)** :
+  - « HELP ME! » -> « À L'AIDE ! »
+  - « Nothing is as it seems. » -> « Rien n'est ce qu'il semble être. »
+  - « Okay bye! Sink you next time! » -> « Bon, salut ! À la prochaine, évier-demment ! »

@@ -8,1505 +8,1805 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: holly_holidays/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "HOLIDAY DECORATIONS"
-msgstr ""
+msgstr "DÉCORATIONS DE FÊTES"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/0
 msgctxt "Holly"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/8
 msgctxt "Holly"
 msgid "You came!"
-msgstr ""
+msgstr "Tu es {{venu|venue|venu·e}} !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/16/s/0
 msgctxt "Choix"
 msgid "I said I would."
-msgstr ""
+msgstr "J'avais dit que je viendrais."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/17/s/0
 msgctxt "Choix"
 msgid "Did you think I wouldn't?"
-msgstr ""
+msgstr "Tu pensais que je ne viendrais pas ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/0
 msgctxt "Holly"
 msgid "Well it's not that I didn't think that you would. It's just... I've got a tricky schedule."
-msgstr ""
+msgstr "Eh bien ce n'est pas que je ne le pensais pas. C'est juste que... j'ai un emploi du temps compliqué."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/8
 msgctxt "Holly"
 msgid "So..."
-msgstr ""
+msgstr "Donc..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/16
 msgctxt "Holly"
 msgid "It's easier to presume that people have to cancel."
-msgstr ""
+msgstr "C'est plus simple de partir du principe que les gens vont annuler."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/24
 msgctxt "Holly"
 msgid "Or they'll forget."
-msgstr ""
+msgstr "Ou oublier."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/32
 msgctxt "Holly"
 msgid "Or they'll just... have their own lives."
-msgstr ""
+msgstr "Ou tout simplement... avoir leur propre vie."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/48
 msgctxt "Holly"
 msgid "Which is me. I'm \"people\"."
-msgstr ""
+msgstr "Ce qui, c'est moi. Les « gens », c'est moi."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/56
 msgctxt "Holly"
 msgid "I cancel or forget or I have my own life."
-msgstr ""
+msgstr "J'annule, j'oublie, ou j'ai ma propre vie."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/64/s/0
 msgctxt "Choix"
 msgid "You're here now."
-msgstr ""
+msgstr "Tu es là maintenant."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/65/s/0
 msgctxt "Choix"
 msgid "You seem kinda hard on yourself."
-msgstr ""
+msgstr "Tu as l'air un peu dure avec toi-même."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/66/s/0
 msgctxt "Choix"
 msgid "So you're a bit flakey?"
-msgstr ""
+msgstr "Donc tu poses des lapins de temps en temps ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-2/7
 msgctxt "Holly"
 msgid "I know. Crazy right? Blissmas miracle. Is it Blissmas?"
-msgstr ""
+msgstr "Je sais, hein ? Dingue ! Un miracle de Blissmas. On est à Blissmas ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "No."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-2/15/2/s/0
 msgctxt "Choix"
 msgid "Nearly."
-msgstr ""
+msgstr "Presque."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-2/15/c-0/7
 msgctxt "Holly"
 msgid "Damn. Just lucky then."
-msgstr ""
+msgstr "Zut. Alors juste de la chance."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-2/15/c-1/7
 msgctxt "Holly"
 msgid "See!"
-msgstr ""
+msgstr "Tu vois !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-2/15/c-2/7
 msgctxt "Holly"
 msgid "Exactly!"
-msgstr ""
+msgstr "Exactement !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-3/7
 msgctxt "Holly"
 msgid "I'm just realistic."
-msgstr ""
+msgstr "Je suis juste réaliste."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-0/c-4/7
 msgctxt "Holly"
 msgid "A little. I try not to be. But I've never been good at that. \"Trying not to be.\""
-msgstr ""
+msgstr "Un peu. J'essaie de ne pas l'être. Mais je n'ai jamais été douée pour ça. « Essayer de ne pas l'être. »"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "Did work go okay?"
-msgstr ""
+msgstr "Le boulot s'est bien passé ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "What was the gig?"
-msgstr ""
+msgstr "C'était quoi, le contrat ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-1/c-5/7
 msgctxt "Holly"
 msgid "Yeah! It was great!"
-msgstr ""
+msgstr "Ouais ! C'était génial !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-1/c-5/23
 msgctxt "Holly"
 msgid "Wait you said okay, right?"
-msgstr ""
+msgstr "Attends, tu as dit « bien », hein ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-1/c-5/31
 msgctxt "Holly"
 msgid "Yeah... it was okay."
-msgstr ""
+msgstr "Ouais... c'était correct."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-1/c-6/7
 msgctxt "Holly"
 msgid "The gig... was..."
-msgstr ""
+msgstr "Le contrat... c'était..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/0
 msgctxt "Holly"
 msgid "Hard. Underpaid. Fun. Just a local fete. My favourite kind. The little ones."
-msgstr ""
+msgstr "Dur. Mal payé. Marrant. Juste une kermesse du coin. Mon genre préféré. Les petites."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/8
 msgctxt "Holly"
 msgid "<w>Yawn.</w>"
-msgstr ""
+msgstr "<w>Bâillement.</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/16
 msgctxt "Holly"
 msgid "Sorry. It's not you."
-msgstr ""
+msgstr "Pardon. C'est pas toi."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "Tired?"
-msgstr ""
+msgstr "Fatiguée ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "Bored?"
-msgstr ""
+msgstr "Tu t'ennuies ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/c-7/7
 msgctxt "Holly"
 msgid "A little. But who isn't?"
-msgstr ""
+msgstr "Un peu. Mais qui ne l'est pas ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/c-8/7
 msgctxt "Holly"
 msgid "No! No! Not at all!"
-msgstr ""
+msgstr "Non ! Non ! Pas du tout !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/c-8/18
 msgctxt "Holly"
 msgid "That was a joke, right?"
-msgstr ""
+msgstr "C'était une blague, hein ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/c-8/26/0/s/0
 msgctxt "Choix"
 msgid "No. I'm deeply offended."
-msgstr ""
+msgstr "Non. Je suis {{profondément vexé|profondément vexée|profondément vexé·e}}."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/c-8/26/1/s/0
 msgctxt "Choix"
 msgid "Obviously."
-msgstr ""
+msgstr "Évidemment."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/c-8/26/c-0/7
 msgctxt "Holly"
 msgid "Well that's silly. Silly season."
-msgstr ""
+msgstr "Mais c'est idiot, ça. Période idiote."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-2/c-8/26/c-1/7
 msgctxt "Holly"
 msgid "HAHAHA! Woke me right up."
-msgstr ""
+msgstr "HAHAHA ! Ça m'a réveillée d'un coup."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-3/0
 msgctxt "Holly"
 msgid "I, uhh. Usually when I finish a shift most of the others are asleep. I never really get to talk about my work so... it's strange."
-msgstr ""
+msgstr "Je, euh. D'habitude, quand je finis mon service, la plupart des autres dorment. Je n'ai jamais vraiment l'occasion de parler de mon travail, alors... c'est bizarre."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-3/8
 msgctxt "Holly"
 msgid "It's nice."
-msgstr ""
+msgstr "C'est agréable."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-3/16
 msgctxt "Holly"
 msgid "The shift wasn't, but this is."
-msgstr ""
+msgstr "Le service ne l'était pas, mais ça, si."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "Why do you work so much?"
-msgstr ""
+msgstr "Pourquoi tu travailles autant ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-3/25/s/0
 msgctxt "Choix"
 msgid "Happy to help."
-msgstr ""
+msgstr "Avec plaisir."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-3/c-9/7
 msgctxt "Holly"
 msgid "Someone has to. It's my job. It's always a holiday somewhere and someone has to do the work to bring the wonder to everyone else."
-msgstr ""
+msgstr "Il faut bien que quelqu'un le fasse. C'est mon boulot. C'est toujours la fête quelque part, et il faut bien que quelqu'un s'occupe d'apporter la magie à tous les autres."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-3/c-10/7
 msgctxt "Holly"
 msgid "Happy to be helped. Nice change of pace."
-msgstr ""
+msgstr "Ravie qu'on m'aide. Ça change."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/0
 msgctxt "Holly"
 msgid "I'm a helper, most of the time."
-msgstr ""
+msgstr "Je suis une aidante, la plupart du temps."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/8
 msgctxt "Holly"
 msgid "\"Essential\"... so they say."
-msgstr ""
+msgstr "« Essentielle »... à ce qu'on dit."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/16 holly_holidays/holly_office/0/g-5/c-15/7
 msgctxt "Holly"
 msgid "Sometimes."
-msgstr ""
+msgstr "Parfois."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/24
 msgctxt "Holly"
 msgid "When it's useful to say so."
-msgstr ""
+msgstr "Quand ça arrange de le dire."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/32
 msgctxt "Holly"
 msgid "<i>Yawn.</i>"
-msgstr ""
+msgstr "<i>Bâillement.</i>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/40
 msgctxt "Holly"
 msgid "Sorry."
-msgstr ""
+msgstr "Pardon."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/48
 msgctxt "Holly"
 msgid "Here I am complaining I never have anyone to talk to, and now I'm yawning in your face."
-msgstr ""
+msgstr "Me voilà à me plaindre de n'avoir personne à qui parler, et je te bâille au nez."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/56
 msgctxt "Holly"
 msgid "I guess I should knock off. I've got a shift in the morning. But thanks... I really appreciate it."
-msgstr ""
+msgstr "Je crois que je ferais mieux de débaucher. J'ai un service demain matin. Mais merci... vraiment."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/64/s/0
 msgctxt "Choix"
 msgid "Get some rest."
-msgstr ""
+msgstr "Repose-toi bien."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/65/s/0
 msgctxt "Choix"
 msgid "See you next time."
-msgstr ""
+msgstr "À la prochaine."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/c-11/7
 msgctxt "Holly"
 msgid "NO! You get some rest..."
-msgstr ""
+msgstr "NON ! Repose-TOI bien..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1B/0/g-4/c-12/7 holly_holidays/hollyreturnhate/0/c-1/69/c-0/55
 msgctxt "Holly"
 msgid "Happy holidays."
-msgstr ""
+msgstr "Joyeuses fêtes."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2_fail/0
 msgctxt "Holly"
 msgid "I'm not here right now! Work work work!"
-msgstr ""
+msgstr "Je ne suis pas là en ce moment ! Boulot boulot boulot !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2_fail/11
 msgctxt "Holly"
 msgid "If you see me, that's not really me - it is an <w>ILLUSION!</w>"
-msgstr ""
+msgstr "Si tu me vois, ce n'est pas vraiment moi, c'est une <w>ILLUSION !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2_fail/19
 msgctxt "Holly"
 msgid "I'm free in the morning if you want to chat!"
-msgstr ""
+msgstr "Je suis libre demain matin si tu veux discuter !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2_fail/27
 msgctxt "Holly"
 msgid "<w>ILLUSION AWAY!</w>"
-msgstr ""
+msgstr "<w>ILLUSION, DISPARAIS !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/0
 msgctxt "Holly"
 msgid "HEY! Sorry I missed you the other day. I picked up another double for Venetian's day, but I'm free tomorrow morning if you wanna swing by? I'd stay and chat now but I've gotta bounce for a Gleester in July gig."
-msgstr ""
+msgstr "HÉ ! Désolée de t'avoir ratée l'autre jour. J'ai pris un double pour la Saint-Vénitien, mais je suis libre demain matin si tu veux passer ? Je resterais discuter là, mais je dois filer pour un contrat de Gleester en juillet."
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/8/s/0
 msgctxt "Choix"
 msgid "Best be hoppin."
-msgstr ""
+msgstr "Faut sauter, alors."
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/9/s/0
 msgctxt "Choix"
 msgid "I'll try!"
-msgstr ""
+msgstr "J'essaierai !"
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/10/s/0
 msgctxt "Choix"
 msgid "You work a lot."
-msgstr ""
+msgstr "Tu travailles beaucoup."
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/11/s/0
 msgctxt "Choix"
 msgid "Have an eggcelent time!"
-msgstr ""
+msgstr "Passe un moment oeuf-ficace !"
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/c-0/7
 msgctxt "Holly"
 msgid "Officer Bounce, bounding off! <w>BYEEEE!</w> Bye, bye, byyyeee!!!"
-msgstr ""
+msgstr "Agent Rebond, je rebondis ! <w>BYEEEE !</w> Bye, bye, byyyeee !!!"
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/c-1/7
 msgctxt "Holly"
 msgid "Sorry my schedule's so haywire! <w>BYEEEE!</w>"
-msgstr ""
+msgstr "Désolée que mon emploi du temps soit si détraqué ! <w>BYEEEE !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/c-2/7
 msgctxt "Holly"
 msgid "<w>I KNOW RIGHT!? BYEEEE!</w>"
-msgstr ""
+msgstr "<w>JE SAIS, HEIN !? BYEEEE !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/hollyshipsinthenightshift/0/c-3/7
 msgctxt "Holly"
 msgid "Huh? ...OH! EGG! That was funny! Okayy. <w>BYEEEE!</w>"
-msgstr ""
+msgstr "Hein ? ...OH ! OEUF ! C'était drôle ! Okayy. <w>BYEEEE !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/6
 msgctxt "Narrator"
 msgid "It takes you just a moment to properly evaluate the figure standing before you—her hair and clothing are such a jumble of various holiday decorations it throws you."
-msgstr ""
+msgstr "Il vous faut un instant pour bien évaluer la silhouette qui se tient devant vous : ses cheveux et ses vêtements sont un tel fouillis de décorations de fêtes en tout genre que vous en perdez vos repères."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/14
 msgctxt "Narrator"
 msgid "What time of year is it again? Have you truly been locked in your house for so long that time has lost all meaning?"
-msgstr ""
+msgstr "En quelle saison est-on, déjà ? Êtes-vous vraiment {{enfermé|enfermée|enfermé·e}} chez vous depuis si longtemps que le temps a perdu tout sens ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/22
 msgctxt "Narrator"
 msgid "She is adorable though, and her energetic greeting shocks you right out of your quiet contemplation."
-msgstr ""
+msgstr "Elle est adorable, cela dit, et son salut énergique vous arrache d'un coup à votre contemplation tranquille."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/30
 msgctxt "Holly"
 msgid "HEY BOSS. You've caught me at a bad time. Heading to work. The other work. Or is it the other other work? What day IS it anyway?"
-msgstr ""
+msgstr "HÉ CHEF. Tu tombes mal. Je file au boulot. L'autre boulot. Ou c'est l'autre autre boulot ? On est quel jour, déjà ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/38
 msgctxt "Holly"
 msgid "Oh! What's up? What do you need?"
-msgstr ""
+msgstr "Oh ! Quoi de neuf ? Qu'est-ce qu'il te faut ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/46/s/0
 msgctxt "Choix"
 msgid "I can come back later?"
-msgstr ""
+msgstr "Je peux repasser plus tard ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/47/s/0
 msgctxt "Choix"
 msgid "Just wanted to introduce myself."
-msgstr ""
+msgstr "Je voulais juste me présenter."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/c-0/7
 msgctxt "Holly"
 msgid "Oh you're so sweet! I'm working a double though... and then I'm opening tomorow..."
-msgstr ""
+msgstr "Oh, c'est trop gentil ! Mais je fais un double... et après j'ouvre demain..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/c-1/7
 msgctxt "Holly"
 msgid "AND I TO YOU! So many things and so little time. Makes you wanna cry cry cry."
-msgstr ""
+msgstr "ET MOI DE MÊME ! Tant de choses et si peu de temps. Ça donne envie de pleurer pleurer pleurer."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/c-1/15
 msgctxt "Holly"
 msgid "That was bad. HAHA."
-msgstr ""
+msgstr "C'était nul. HAHA."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/0
 msgctxt "Holly"
 msgid "I'm Holly by the way!"
-msgstr ""
+msgstr "Moi, c'est Holly, au fait !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/19
 msgctxt "Holly"
 msgid "OH. And who are you? Did you already say? Sorry."
-msgstr ""
+msgstr "OH. Et toi, qui es-tu ? Tu l'as déjà dit ? Pardon."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/27
 msgctxt "Holly"
 msgid "In a little rish rash rush for the dish dash dosh. Rat race, all that."
-msgstr ""
+msgstr "Je suis dans un petit tourni-tourna-tourbillon pour le pèse-pèze-pognon. La course de rats, tout ça."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/35/s/0
 msgctxt "Choix"
 msgid "I'm"
-msgstr ""
+msgstr "Moi, c'est"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/36/s/0
 msgctxt "Choix"
 msgid "I own the house."
-msgstr ""
+msgstr "C'est ma maison."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/37/s/0
 msgctxt "Choix"
 msgid "I'm Holly!"
-msgstr ""
+msgstr "Moi, c'est Holly !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/c-2/7
 msgctxt "Holly"
 msgid "OH! I've heard about you! That is such a funny name!"
-msgstr ""
+msgstr "OH ! On m'a parlé de toi ! Quel nom rigolo !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/c-3/7
 msgctxt "Holly"
 msgid "Oh... the boss of my boss!"
-msgstr ""
+msgstr "Oh... le chef de mon chef !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/c-3/15
 msgctxt "Holly"
 msgid "You're Big Boss!"
-msgstr ""
+msgstr "Tu es le Grand Chef !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/c-3/23 holly_holidays/holly1/0/g-0/c-4/18
 msgctxt "Holly"
 msgid "I've heard about you!"
-msgstr ""
+msgstr "On m'a parlé de toi !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-0/c-4/7
 msgctxt "Holly"
 msgid "Twinning!"
-msgstr ""
+msgstr "Jumelage !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "From who?"
-msgstr ""
+msgstr "Qui ça ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/1/s/0
 msgctxt "Choix"
 msgid "What have you heard?"
-msgstr ""
+msgstr "Qu'est-ce qu'on t'a dit ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/2/s/0
 msgctxt "Choix"
 msgid "That sounds foreboding."
-msgstr ""
+msgstr "Ça sonne comme un mauvais présage."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-5/7
 msgctxt "Holly"
 msgid "From everyone! I'm social butter, so they say."
-msgstr ""
+msgstr "De tout le monde ! Je suis une chenille sociale, qu'ils disent."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-5/15/0/s/0
 msgctxt "Choix"
 msgid "A social butterfly?"
-msgstr ""
+msgstr "Un papillon social ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-5/15/1/s/0
 msgctxt "Choix"
 msgid "Butter, but social?"
-msgstr ""
+msgstr "Une chenille, mais sociale ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-5/15/2/s/0
 msgctxt "Choix"
 msgid "That makes sense."
-msgstr ""
+msgstr "Ça se tient."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-5/15/c-0/7
 msgctxt "Holly"
 msgid "OH! That makes more sense..."
-msgstr ""
+msgstr "OH ! Ça a plus de sens, comme ça..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-5/15/c-1/7
 msgctxt "Holly"
 msgid "Yeah... I don't really get it either, truth be told. But it seems like a compliment when they say it."
-msgstr ""
+msgstr "Ouais... moi non plus je ne comprends pas trop, à vrai dire. Mais ils ont l'air de le dire comme un compliment."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-5/15/c-2/7
 msgctxt "Holly"
 msgid "Does it? I could never figure it out."
-msgstr ""
+msgstr "Tu trouves ? Je n'ai jamais réussi à comprendre."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-6/7
 msgctxt "Holly"
 msgid "Just some tidbits!"
-msgstr ""
+msgstr "Juste des bribes !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-1/c-7/7
 msgctxt "Holly"
 msgid "OH nothing like that!"
-msgstr ""
+msgstr "OH rien de tel !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-2/0
 msgctxt "Holly"
 msgid "Anywho, I'm so sorry, but I'm already running late. Love to chat more, though. I'm working a double in opening/closing tomorrow, but swing by first thing in the morning?"
-msgstr ""
+msgstr "Enfin bref, je suis vraiment désolée, mais je suis déjà en retard. J'adorerais discuter plus longtemps. Je fais un double ouverture/fermeture demain, mais passe à la première heure ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-2/8
 msgctxt "Holly"
 msgid "That's when I'm usually able to sleep."
-msgstr ""
+msgstr "C'est le moment où j'arrive d'habitude à dormir."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-2/16
 msgctxt "Holly"
 msgid "That work?"
-msgstr ""
+msgstr "Ça te va ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "No..."
-msgstr ""
+msgstr "Non..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "Sure!"
-msgstr ""
+msgstr "Bien sûr !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-3/0
 msgctxt "Holly"
 msgid "Great!"
-msgstr ""
+msgstr "Super !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-3/8
 msgctxt "Holly"
 msgid "Okay!"
-msgstr ""
+msgstr "Okay !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly1/0/g-3/16
 msgctxt "Holly"
 msgid "<w>BYEEEEE!</w>"
-msgstr ""
+msgstr "<w>BYEEEEE !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/6
 msgctxt "Narrator"
 msgid "Holly greets you with a spirited wave, the bells and ornaments in her hair jingling with every energetic shake of her hand."
-msgstr ""
+msgstr "Holly vous salue avec entrain, les clochettes et les ornements de ses cheveux tintant à chaque secousse énergique de sa main."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/14
 msgctxt "Holly"
 msgid "You made it! Thanks for making the time."
-msgstr ""
+msgstr "Tu as réussi à venir ! Merci d'avoir pris le temps."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/22/s/0
 msgctxt "Choix"
 msgid "I've got plenty of it."
-msgstr ""
+msgstr "J'en ai à revendre."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/23/s/0
 msgctxt "Choix"
 msgid "You too!"
-msgstr ""
+msgstr "Toi aussi !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/24/s/0
 msgctxt "Choix"
 msgid "It's hard to pin you down."
-msgstr ""
+msgstr "On a du mal à te coincer."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/25/s/0
 msgctxt "Choix"
 msgid "How was work?"
-msgstr ""
+msgstr "Et ce boulot ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-0/7
 msgctxt "Holly"
 msgid "Sounds like a dream."
-msgstr ""
+msgstr "On dirait un rêve."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-1/7
 msgctxt "Holly"
 msgid "Gotta rest sometime!"
-msgstr ""
+msgstr "Il faut bien se reposer de temps en temps !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-2/7
 msgctxt "Holly"
 msgid "I know right!? I don't even know where I am sometimes."
-msgstr ""
+msgstr "Je sais, hein !? Parfois je ne sais même plus où je suis."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/7
 msgctxt "Holly"
 msgid "<w>Loooonnnggggggg.</w> But great! Mostly."
-msgstr ""
+msgstr "<w>Looooonnnnnnng.</w> Mais super ! Surtout."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/0/s/0
 msgctxt "Choix"
 msgid "Mostly?"
-msgstr ""
+msgstr "Surtout ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/1/s/0
 msgctxt "Choix"
 msgid "Another double?"
-msgstr ""
+msgstr "Encore un double ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-0/7
 msgctxt "Holly"
 msgid "Well. You know... someone spat in my face. But besides that!"
-msgstr ""
+msgstr "Eh bien. Tu sais... quelqu'un m'a craché au visage. Mais à part ça !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I'm so sorry."
-msgstr ""
+msgstr "Je suis vraiment {{désolé|désolée|désolé·e}}."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-0/15/1/s/0 holly_holidays/HollyBruce/0/g-0/60/s/0
 msgctxt "Choix"
 msgid "Merry Blissmas."
-msgstr ""
+msgstr "Joyeux Blissmas."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-0/15/2/s/0
 msgctxt "Choix"
 msgid "That sounds terrible."
-msgstr ""
+msgstr "Ça a l'air terrible."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-0/15/c-0/7
 msgctxt "Holly"
 msgid "It's ok. Spit happens."
-msgstr ""
+msgstr "C'est pas grave. Ça postillonne, c'est la vie."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-0/15/c-1/7
 msgctxt "Holly"
 msgid "Spits the season to be jolly."
-msgstr ""
+msgstr "C'est la saison des crachats joyeux."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-0/15/c-2/7
 msgctxt "Holly"
 msgid "That's the gig."
-msgstr ""
+msgstr "C'est le métier."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2/0/c-3/15/c-1/7
 msgctxt "Holly"
 msgid "Nah. Well... legally, no. But technically, yes."
-msgstr ""
+msgstr "Nan. Enfin... légalement, non. Mais techniquement, oui."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/0/s/0
 msgctxt "Choix"
 msgid "Seems like you're always working?"
-msgstr ""
+msgstr "On dirait que tu travailles tout le temps ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/1/s/0
 msgctxt "Choix"
 msgid "What do you actually do?"
-msgstr ""
+msgstr "Tu fais quoi, au juste ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/2/s/0
 msgctxt "Choix"
 msgid "Gig work then?"
-msgstr ""
+msgstr "Des contrats ponctuels, alors ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-0/7
 msgctxt "Holly"
 msgid "Almost! There's always something happening somewhere."
-msgstr ""
+msgstr "Presque ! Il se passe toujours quelque chose quelque part."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-1/7
 msgctxt "Holly"
 msgid "Everything! I've got a five page resume which I know you're not supposed to have but I'm secretly very proud of it. I've been a waiter, a maitre-de, a caddy, an usher, a valet, a pinata, a mascot, a pinata mascot, a bartender..."
-msgstr ""
+msgstr "Tout ! J'ai un CV de cinq pages, ce qu'on n'est pas censé avoir, je sais, mais j'en suis secrètement très fière. J'ai été serveuse, maîtresse d'hôtel, caddie, placeuse, voiturier, piñata, mascotte, mascotte piñata, barmaid..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-1/15
 msgctxt "Holly"
 msgid "...a line chef, a runner, a ticketer, a seat-holder, an election official, a zamboni driver, a scuba diver, a pick-packer, a mail carrier, a time-keeper, and an eisteddfod judge for a local junior yodeling competition."
-msgstr ""
+msgstr "...commis de cuisine, coursière, contrôleuse de billets, gardienne de place, scrutatrice, conductrice de Zamboni, plongeuse sous-marine, préparatrice de commandes, factrice, chronométreuse, et juge d'eisteddfod pour un concours local de yodel junior."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-2/7
 msgctxt "Holly"
 msgid "Oh, the giggiest. The best kind of work for me, personally. Always something new. I can't sit still for too long. Bores me to tears. I need fifty things to focus on or absolutely none at all."
-msgstr ""
+msgstr "Oh, le plus gigantesque des gigs. Le meilleur type de travail pour moi, personnellement. Toujours du nouveau. Je ne tiens pas en place longtemps. Ça m'ennuie à pleurer. Il me faut cinquante trucs sur lesquels me concentrer, ou absolument aucun."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "Sounds... hectic."
-msgstr ""
+msgstr "Ça a l'air... mouvementé."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Does it pay well?"
-msgstr ""
+msgstr "Ça paie bien ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-2/15/c-0/7
 msgctxt "Holly"
 msgid "It is. It's perfect."
-msgstr ""
+msgstr "Oui. C'est parfait."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/c-2/15/c-1/7
 msgctxt "Holly"
 msgid "NOPE. But I work a lotta hours. But you already know that."
-msgstr ""
+msgstr "NON. Mais je fais beaucoup d'heures. Mais ça, tu le sais déjà."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/0
 msgctxt "Holly"
 msgid "It's joyful too, bringing joy. Someone's always celebrating something, and I get to be a part of that, all the time. It doesn't even have to be a holiday for me, or about me. I just enjoy joy. You know?"
-msgstr ""
+msgstr "C'est joyeux aussi, de répandre la joie. Il y a toujours quelqu'un qui fête quelque chose, et je peux en faire partie, tout le temps. Pas besoin que ce soit une fête pour moi, ou à mon sujet. J'aime juste la joie. Tu vois ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/8
 msgctxt "Holly"
 msgid "Better than punching numbers all day, unless that's part of the gig."
-msgstr ""
+msgstr "Mieux que d'aligner des chiffres toute la journée, sauf si ça fait partie du contrat."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/16
 msgctxt "Holly"
 msgid "NO OFFENSE TO NUMBER PUNCHERS! Just not for me."
-msgstr ""
+msgstr "SANS OFFENSE POUR LES ALIGNEURS DE CHIFFRES ! Juste, pas pour moi."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/27/s/0
 msgctxt "Choix"
 msgid "None taken."
-msgstr ""
+msgstr "Aucune offense."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "No, that makes sense."
-msgstr ""
+msgstr "Non, ça se comprend."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/29/s/0
 msgctxt "Choix"
 msgid "Not every holiday is joyful."
-msgstr ""
+msgstr "Toutes les fêtes ne sont pas joyeuses."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/c-5/7
 msgctxt "Holly"
 msgid "No. They aren't."
-msgstr ""
+msgstr "Non. Elles ne le sont pas."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-0/c-5/15
 msgctxt "Holly"
 msgid "But every holiday has a purpose."
-msgstr ""
+msgstr "Mais chaque fête a une raison d'être."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/0
 msgctxt "Holly"
 msgid "What about you!? What do you do!?"
-msgstr ""
+msgstr "Et toi alors !? Tu fais quoi !?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/8/s/0
 msgctxt "Choix"
 msgid "I punch numbers."
-msgstr ""
+msgstr "J'aligne des chiffres."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/9/s/0
 msgctxt "Choix"
 msgid "I talk to objects."
-msgstr ""
+msgstr "Je parle aux objets."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/10/s/0
 msgctxt "Choix"
 msgid "I work in conflict resolution."
-msgstr ""
+msgstr "Je travaille dans la résolution de conflits."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/11/s/0
 msgctxt "Choix"
 msgid "Nothing, really. Got fired my second day."
-msgstr ""
+msgstr "Rien, en fait. Je me suis fait virer le deuxième jour."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/7
 msgctxt "Holly"
 msgid "...ah. Ahhhh. Hmm. Yep. My bad."
-msgstr ""
+msgstr "...ah. Ahhhh. Hmm. Ouais. Mon mauvais."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/0/s/0
 msgctxt "Choix"
 msgid "No offense taken. It's not for me either."
-msgstr ""
+msgstr "Aucune offense. Ce n'est pas pour moi non plus."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/1/s/0
 msgctxt "Choix"
 msgid "I happen to quite enjoy numbers."
-msgstr ""
+msgstr "Il se trouve que j'aime plutôt bien les chiffres."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/c-0/7
 msgctxt "Holly"
 msgid "Well that was awkward..."
-msgstr ""
+msgstr "Ça a jeté un froid..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/c-1/7
 msgctxt "Holly"
 msgid "Well at least we're not competing for jobs!"
-msgstr ""
+msgstr "Eh bien au moins on ne se dispute pas les mêmes jobs !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/0
 msgctxt "Holly"
 msgid "It's good to have a job around here, keep your mind off the drama. You'd think it was always the holidays with what we've got going on."
-msgstr ""
+msgstr "C'est bien d'avoir un boulot ici, ça change les idées du drame ambiant. On croirait que c'est tout le temps les fêtes, avec ce qui se passe."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/8/b/1
 msgctxt "Holly"
 msgid "That said, I've heard your name flung around with a bit of a bitter bite lately."
-msgstr ""
+msgstr "Cela dit, j'ai entendu ton nom balancé avec un certain mordant, ces derniers temps."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/11/b/1
 msgctxt "Holly"
 msgid "Everyone seems to love you though."
-msgstr ""
+msgstr "Tout le monde a l'air de t'adorer, pourtant."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/14/b/1
 msgctxt "Holly"
 msgid "I've heard you've been diving into the mix, for better or worse."
-msgstr ""
+msgstr "Il paraît que tu as plongé dans le bain, pour le meilleur ou pour le pire."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-6/15/g-0/17
 msgctxt "Holly"
 msgid "So it goes..."
-msgstr ""
+msgstr "Ainsi va la vie..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/7
 msgctxt "Holly"
 msgid "AHH. You're good at that. Or, I can see you being good at that."
-msgstr ""
+msgstr "AHH. Tu as du talent pour ça. Enfin, je vois bien que tu pourrais en avoir."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/0/s/0 holly_holidays/hollyreturnhate/0/c-1/69/0/s/0
 msgctxt "Choix"
 msgid "I am."
-msgstr ""
+msgstr "C'est le cas."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/1/s/0
 msgctxt "Choix"
 msgid "I'm not."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/2/s/0
 msgctxt "Choix"
 msgid "I get by."
-msgstr ""
+msgstr "Je me débrouille."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/c-0/7
 msgctxt "Holly"
 msgid "I agree."
-msgstr ""
+msgstr "Je suis d'accord."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/c-1/7
 msgctxt "Holly"
 msgid "Sure you are! Look at us right now, chit chattering like old chums."
-msgstr ""
+msgstr "Bien sûr que oui ! Regarde-nous, là, à papoter comme de vieux copains."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/0
 msgctxt "Holly"
 msgid "I think you're great at talking to objects!"
-msgstr ""
+msgstr "Je trouve que tu es super pour parler aux objets !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/8/b/1
 msgctxt "Holly"
 msgid "Nevermind what everyone else says."
-msgstr ""
+msgstr "Peu importe ce que disent les autres."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/11/b/1
 msgctxt "Holly"
 msgid "At least that's the word around town."
-msgstr ""
+msgstr "Du moins c'est ce qu'on dit en ville."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-7/15/g-0/14/b/1
 msgctxt "Holly"
 msgid "...even if the jury's out for everyone else."
-msgstr ""
+msgstr "...même si les avis des autres sont partagés."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-8/7
 msgctxt "Holly"
 msgid "OHH. Sounds high stakes! Must come in handy round here."
-msgstr ""
+msgstr "OHH. Ça a l'air d'avoir de gros enjeux ! Ça doit servir, par ici."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/0/s/0
 msgctxt "Choix"
 msgid "Most of you seem beyond resolution."
-msgstr ""
+msgstr "La plupart d'entre vous semblent irrécupérables."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/1/s/0
 msgctxt "Choix"
 msgid "Disturbingly so."
-msgstr ""
+msgstr "À un degré inquiétant."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/0
 msgctxt "Holly"
 msgid "Motley bunch, we are. Best way to be, keeps things lively like a holiday punch!"
-msgstr ""
+msgstr "On est une drôle de bande, nous. C'est la meilleure façon d'être, ça garde les choses animées, comme un punch de fêtes !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/8/b/1
 msgctxt "Holly"
 msgid "...and I hear you've been stirring the bowl."
-msgstr ""
+msgstr "...et il paraît que c'est toi qui remues le bol."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/11/b/1 holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/14/b/1
 msgctxt "Holly"
 msgid "From what I hear, you've been fitting in well!"
-msgstr ""
+msgstr "D'après ce que j'entends, tu t'intègres très bien !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-8/15/g-0/17/b/1
 msgctxt "Holly"
 msgid "I hear you've been a divisive addition to the mix!"
-msgstr ""
+msgstr "J'entends dire que tu es un ajout qui divise !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/7
 msgctxt "Holly"
 msgid "Sounds nice."
-msgstr ""
+msgstr "Ça a l'air sympa."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/0/s/0
 msgctxt "Choix"
 msgid "It pays the bills... oddly."
-msgstr ""
+msgstr "Ça paie les factures... étrangement."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/1/s/0
 msgctxt "Choix"
 msgid "It is. I get time to enjoy life."
-msgstr ""
+msgstr "Oui. J'ai le temps de profiter de la vie."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/c-0/7
 msgctxt "Holly"
 msgid "Odd jobs... can relate!"
-msgstr ""
+msgstr "Les petits boulots... je connais !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/0
 msgctxt "Holly"
 msgid "It's good to have something simple around here. There's enough crazy to go around, but you know that."
-msgstr ""
+msgstr "C'est bien d'avoir quelque chose de simple, par ici. Il y a déjà assez de folie pour tout le monde, mais ça, tu le sais."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/8/b/1
 msgctxt "Holly"
 msgid "I hear you've been starting some social warfare yourself."
-msgstr ""
+msgstr "J'entends dire que tu lances toi-même une guerre sociale."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/11/b/1
 msgctxt "Holly"
 msgid "I hear you're making a good impression so far."
-msgstr ""
+msgstr "J'entends dire que tu fais bonne impression jusqu'ici."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-1/c-9/15/g-0/14/b/1
 msgctxt "Holly"
 msgid "I hear you're striking a steady balance between Claus and Krampus."
-msgstr ""
+msgstr "J'entends dire que tu tiens un équilibre stable entre le Père Noël et Krampus."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-2/0/s/0
 msgctxt "Choix"
 msgid "So what ARE the others saying?"
-msgstr ""
+msgstr "Alors, qu'est-ce que disent les autres ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-2/1/s/0
 msgctxt "Choix"
 msgid "You know. I'm actually ok not knowing the talk of the town."
-msgstr ""
+msgstr "Tu sais quoi. Je suis très bien sans connaître les rumeurs du coin."
 
+# Traduction IA – à relire
 #: holly_holidays/holly2alwaysworking/0/g-2/c-11/7
 msgctxt "Holly"
 msgid "Okie dokie. Whatever you say, boss. Eyes on the prize."
-msgstr ""
+msgstr "Okie dokie. Comme tu veux, chef. Les yeux sur le prix."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/0
 msgctxt "Holly"
 msgid "Oh, you know. Things. Stuff. Nothing really."
-msgstr ""
+msgstr "Oh, tu sais. Des trucs. Des machins. Rien de spécial."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/8/b/1
 msgctxt "Holly"
 msgid "Rebel had some choice words, but that's Rebel. They are... multifauceted."
-msgstr ""
+msgstr "Rebel a eu quelques mots choisis, mais bon, c'est Rebel. Iel est... multifacette."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/11
 msgctxt "Holly"
 msgid "In general, I suppose, the consensus... might be... that you have so far had a net negative impact on the \"holiday spirit\"."
-msgstr ""
+msgstr "En général, je suppose, le consensus... serait peut-être... que tu as eu jusqu'ici un impact net négatif sur « l'esprit des fêtes »."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/19
 msgctxt "Holly"
 msgid "NOT THAT THAT'S A BAD THING!"
-msgstr ""
+msgstr "CE QUI N'EST PAS FORCÉMENT MAUVAIS !"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/30/s/0
 msgctxt "Choix"
 msgid "It's not?"
-msgstr ""
+msgstr "Non ?"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/31/s/0
 msgctxt "Choix"
 msgid "Exactly!"
-msgstr ""
+msgstr "Exactement !"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/c-0/7
 msgctxt "Holly"
 msgid "I don't know. I think sometimes hate is the healthiest relationship you can hope for. Not everyone was made to get along. Might as well be honest about it."
-msgstr ""
+msgstr "Je ne sais pas. Je crois que parfois la haine est la relation la plus saine qu'on puisse espérer. On n'est pas tous faits pour s'entendre. Autant être honnête là-dessus."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/c-0/15
 msgctxt "Holly"
 msgid "I've worked with plenty of antagonists."
-msgstr ""
+msgstr "J'ai travaillé avec plein d'antagonistes."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/c-1/7
 msgctxt "Holly"
 msgid "Exactly! Yeah... that makes sense."
-msgstr ""
+msgstr "Exactement ! Ouais... ça se tient."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "I'm glad we agree."
-msgstr ""
+msgstr "Tant mieux, on est d'accord."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/g-0/1/s/0
 msgctxt "Choix"
 msgid "You're just trying to make me feel better."
-msgstr ""
+msgstr "Tu essaies juste de me remonter le moral."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/g-0/2/s/0
 msgctxt "Choix"
 msgid "Can't wait to get you to hate me."
-msgstr ""
+msgstr "J'ai hâte de te faire me détester."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/g-0/c-2/7
 msgctxt "Holly"
 msgid "You are stalwart."
-msgstr ""
+msgstr "Tu es coriace."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/g-0/c-3/7
 msgctxt "Holly"
 msgid "Mostly yep. I'm not lying though."
-msgstr ""
+msgstr "Surtout oui. Je ne mens pas, pourtant."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseHate/0/g-0/c-4/23
 msgctxt "Holly"
 msgid "We can skip right over that!"
-msgstr ""
+msgstr "On peut passer là-dessus !"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseLove/0/0 holly_holidays/HollyHouseBalance/0/6
 msgctxt "Holly"
 msgid "Depends on who you ask..."
-msgstr ""
+msgstr "Ça dépend à qui tu demandes..."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseLove/0/8/b/1
 msgctxt "Holly"
 msgid "Seems you're still finding your feet, but they seem to like you or love you. That line gets really blurry around here sometimes."
-msgstr ""
+msgstr "On dirait que tu cherches encore tes marques, mais ils ont l'air de t'apprécier ou de t'adorer. La frontière est très floue, par ici, parfois."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseLove/0/11/b/1
 msgctxt "Holly"
 msgid "Let's just say Venetian's Day might be a busy day for you. Let me know if you need some help! I have a side gig running roses to \"side-gigs\" every year."
-msgstr ""
+msgstr "Disons que la Saint-Vénitien pourrait être chargée pour toi. Dis-moi si tu as besoin d'aide ! J'ai un petit boulot annexe : chaque année, je livre des roses aux « boulots annexes »."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseLove/0/14/b/1
 msgctxt "Holly"
 msgid "Everyone's your best friend, apparently. So many besties, so little time. Watch out for June 8th, bestie."
-msgstr ""
+msgstr "Tout le monde est ton meilleur ami, apparemment. Tant de besties, si peu de temps. Fais gaffe au 8 juin, bestie."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseBalance/0/0/b/1
 msgctxt "Holly"
 msgid "I mean it's not that many around here talking, but..."
-msgstr ""
+msgstr "Enfin, ils ne sont pas si nombreux à parler par ici, mais..."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHouseBalance/0/3/b/1
 msgctxt "Holly"
 msgid "There's a healthy balance of general enjoyment and hate your guts. Really it's just smack down the center. It's kind of wild how precise it is."
-msgstr ""
+msgstr "Il y a un bel équilibre entre l'affection générale et l'envie de t'étrangler. En vrai, c'est pile au milieu. C'est dingue de précision."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/0/s/0
 msgctxt "Choix"
 msgid "That said, how do you feel about me?"
-msgstr ""
+msgstr "Cela dit, tu m'aimes comment, toi ?"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/7
 msgctxt "Holly"
 msgid "Well you waded through my busted schedule, so you can't be that bad."
-msgstr ""
+msgstr "Eh bien tu as réussi à t'aventurer dans mon planning détraqué, donc tu ne peux pas être si terrible."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I'm hardly running for office."
-msgstr ""
+msgstr "Je ne me présente pas aux élections."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Sounds like you're dodging the question."
-msgstr ""
+msgstr "On dirait que tu esquives la question."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/c-0/7
 msgctxt "Holly"
 msgid "I'd vote for you. I think. I mean, you made the time to see me with my busted schedule, so maybe you'd actually get things done around here."
-msgstr ""
+msgstr "Je voterais pour toi. Je crois. Enfin, tu as trouvé le temps de me voir malgré mon planning détraqué, alors peut-être que tu ferais vraiment avancer les choses, par ici."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/c-0/15
 msgctxt "Holly"
 msgid "Don't tell Celia, though!"
-msgstr ""
+msgstr "Ne le dis pas à Celia, par contre !"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/c-0/15/c-1/7
 msgctxt "Holly"
 msgid "Yes, I am!!"
-msgstr ""
+msgstr "Oui, j'esquive !!"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/0
 msgctxt "Holly"
 msgid "Speaking of which, I gotta bounce to another shift. Gleester in July is really hopping this year."
-msgstr ""
+msgstr "À ce propos, je dois filer à un autre service. Gleester en juillet bat son plein cette année."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/8/s/0
 msgctxt "Choix"
 msgid "Ew."
-msgstr ""
+msgstr "Beurk."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/9/s/0
 msgctxt "Choix"
 msgid "It's not July."
-msgstr ""
+msgstr "On n'est pas en juillet."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/7/b/1
 msgctxt "Holly"
 msgid "See! This is why things around here don't like you."
-msgstr ""
+msgstr "Tu vois ! C'est pour ça que les choses, ici, ne t'aiment pas."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/10
 msgctxt "Holly"
 msgid "Don't be a hot cross bunny."
-msgstr ""
+msgstr "Fais pas ton lapin de mauvais poil."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/0/s/0
 msgctxt "Choix"
 msgid "That's not bunny."
-msgstr ""
+msgstr "Ce n'est pas la bonne expression."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/1/s/0
 msgctxt "Choix"
 msgid "<i>Sigh</i>."
-msgstr ""
+msgstr "<i>Soupir</i>."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/c-0/7
 msgctxt "Holly"
 msgid "Oh, that was good, that was good..."
-msgstr ""
+msgstr "Oh, celle-là était bien, elle était bien..."
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-1/18/c-1/7
 msgctxt "Holly"
 msgid "Gesundheit!"
-msgstr ""
+msgstr "À tes souhaits !"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-0/c-2/7
 msgctxt "Holly"
 msgid "I KNOW RIGHT!? THAT'S WHAT I SAID!"
-msgstr ""
+msgstr "JE SAIS, HEIN !? C'EST CE QUE J'AI DIT !"
 
+# Traduction IA – à relire
 #: holly_holidays/HollyHowDoYouFeelAboutMe/0/g-1/0
 msgctxt "Holly"
 msgid "ANYWAY. OKAY. <w>BYEEEEEE!</w> Bye bye bye!"
-msgstr ""
+msgstr "BREF. OKAY. <w>BYEEEEEE !</w> Bye bye bye !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/6
 msgctxt "Holly"
 msgid "PERFECT TIMING!"
-msgstr ""
+msgstr "PILE À L'HEURE !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/17
 msgctxt "Narrator"
 msgid "You've come to expect Holly's spirited greetings, but this one still manages to startle you just a little."
-msgstr ""
+msgstr "Vous avez fini par vous habituer aux salutations enthousiastes de Holly, mais celle-ci parvient quand même à vous faire sursauter un peu."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/25/s/0
 msgctxt "Choix"
 msgid "Umm..."
-msgstr ""
+msgstr "Euh..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/26/s/0
 msgctxt "Choix"
 msgid "Knew it."
-msgstr ""
+msgstr "Je le savais."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/27/s/0
 msgctxt "Choix"
 msgid "I'm just here when the prophecy tells me to be."
-msgstr ""
+msgstr "Je suis là uniquement quand la prophétie me l'ordonne."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/c-0/7
 msgctxt "Holly"
 msgid "You know, umm is the start of many a great adventure."
-msgstr ""
+msgstr "Tu sais, « euh » est le début de bien des grandes aventures."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/c-1/7
 msgctxt "Holly"
 msgid "I knew you'd know!"
-msgstr ""
+msgstr "Je savais que tu saurais !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/c-2/7
 msgctxt "Holly"
 msgid "OHHHHHHHH! Let's get PROPHETIC."
-msgstr ""
+msgstr "OHHHHHHHH ! Passons au PROPHÉTIQUE."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/c-2/15
 msgctxt "Holly"
 msgid "<w>SPOOOOOOKEEEEEEEEEYYYYYYYYYYYYY.</w>"
-msgstr ""
+msgstr "<w>FLAGEOLAAAAAAAANT.</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/c-2/23 holly_holidays/holly_office/0/g-0/43
 msgctxt "Holly"
 msgid "ANYWAY!"
-msgstr ""
+msgstr "BREF !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/0
 msgctxt "Holly"
 msgid "How."
-msgstr ""
+msgstr "Qu'est-ce."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/8
 msgctxt "Holly"
 msgid "Do."
-msgstr ""
+msgstr "Que."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/16
 msgctxt "Holly"
 msgid "You."
-msgstr ""
+msgstr "Tu."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/24
 msgctxt "Holly"
 msgid "Feel."
-msgstr ""
+msgstr "Penses."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/32
 msgctxt "Holly"
 msgid "About..."
-msgstr ""
+msgstr "Des..."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/43
 msgctxt "Holly"
 msgid "...flyers...?"
-msgstr ""
+msgstr "...tracts... ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/51/s/0
 msgctxt "Choix"
 msgid "Ambivalent."
-msgstr ""
+msgstr "De l'ambivalence."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/52/s/0
 msgctxt "Choix"
 msgid "They're... nice?"
-msgstr ""
+msgstr "Ils sont... sympas ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/53/s/0
 msgctxt "Choix"
 msgid "I FUCKING LOVE FLYERS."
-msgstr ""
+msgstr "J'ADORE LES PUTAINS DE TRACTS."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/c-3/7
 msgctxt "Holly"
 msgid "Well get ready to feel VALENT about them!"
-msgstr ""
+msgstr "Eh bien prépare-toi à ressentir de la VALENCE pour eux !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/c-4/7
 msgctxt "Holly"
 msgid "I KNOW RIGHT!?"
-msgstr ""
+msgstr "JE SAIS, HEIN !?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-0/c-5/7
 msgctxt "Holly"
 msgid "SO. DO. I!"
-msgstr ""
+msgstr "MOI. AUSSI !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/0
 msgctxt "Holly"
 msgid "So I've got a mail drop shift, and I figured why not do MOOOOOOREEEE!?"
-msgstr ""
+msgstr "Donc j'ai un service de dépôt de courrier, et j'ai pensé : pourquoi pas en faire PLUUUUUS !?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/8
 msgctxt "Holly"
 msgid "You know!?"
-msgstr ""
+msgstr "Tu vois !?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/16
 msgctxt "Holly"
 msgid "So I picked up a flyer drop shift."
-msgstr ""
+msgstr "Alors j'ai pris un service de distribution de tracts."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/24
 msgctxt "Holly"
 msgid "And I figure since you're here, you're wanting to hang out anyway?"
-msgstr ""
+msgstr "Et je me dis que, puisque tu es là, tu as sûrement envie de traîner avec moi ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/32
 msgctxt "Holly"
 msgid "So... keep me company?"
-msgstr ""
+msgstr "Alors... tiens-moi compagnie ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/43/s/0
 msgctxt "Choix"
 msgid "Sounds gre-"
-msgstr ""
+msgstr "Ça a l'air gé-"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/44/s/0
 msgctxt "Choix"
 msgid "Actual-"
-msgstr ""
+msgstr "En fait-"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-1/45/s/0
 msgctxt "Choix"
 msgid "I me-"
-msgstr ""
+msgstr "Je vou-"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-2/0
 msgctxt "Holly"
 msgid "-GREAT! Race you to the kitchen!"
-msgstr ""
+msgstr "-NIAL ! Le dernier à la cuisine paie sa tournée !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-2/11/s/0
 msgctxt "Choix"
 msgid "Uh-"
-msgstr ""
+msgstr "Eu-"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-2/12/s/0
 msgctxt "Choix"
 msgid "Wai-"
-msgstr ""
+msgstr "Atten-"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-2/13/s/0
 msgctxt "Choix"
 msgid "I wa-"
-msgstr ""
+msgstr "Je ve-"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/0
 msgctxt "Narrator"
 msgid "Holly takes off before you can even finish your sentence, fleeing towards the kitchen."
-msgstr ""
+msgstr "Holly détale avant même que vous ayez fini votre phrase, fonçant vers la cuisine."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/8
 msgctxt "Holly"
 msgid "SORRY! I can't hear you over me <w>winniinnnnnnng.</w>"
-msgstr ""
+msgstr "DÉSOLÉE ! Je ne t'entends pas, je suis trop occupée à <w>gagnaaaaaaaaaaaaaaaaaant.</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/19
 msgctxt "Holly"
 msgid "Tortoise and hare we are."
-msgstr ""
+msgstr "La tortue et le lièvre, c'est nous."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/27/s/0
 msgctxt "Choix"
 msgid "I'm deeply unfit."
-msgstr ""
+msgstr "Je suis en très mauvaise forme."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/28/s/0
 msgctxt "Choix"
 msgid "Hey I caught up just fine!"
-msgstr ""
+msgstr "Hé, je t'ai rattrapée sans problème !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/c-12/7
 msgctxt "Holly"
 msgid "You should work hospo. Free gym membership."
-msgstr ""
+msgstr "Tu devrais faire dans l'hôtellerie-restauration. Abonnement gratuit à la salle de sport."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/c-13/7
 msgctxt "Holly"
 msgid "I'm proud of you!"
-msgstr ""
+msgstr "Je suis fière de toi !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-3/c-13/15
 msgctxt "Holly"
 msgid "But nothing's faster than an unexpected HOLIDAY!"
-msgstr ""
+msgstr "Mais rien ne va plus vite qu'une FÊTE inattendue !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/0/s/0
 msgctxt "Choix"
 msgid "So what are we actually doing?"
-msgstr ""
+msgstr "Alors, on fait quoi, exactement ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/c-14/7
 msgctxt "Holly"
 msgid "If you're going to be my helper - you need to know the basics."
-msgstr ""
+msgstr "Si tu veux être mon aide, il faut que tu connaisses les bases."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/c-14/15
 msgctxt "Holly"
 msgid "There is a Mirthday festival next week. I get $0.50 a flyer for handing out 100 flyers. And that is?"
-msgstr ""
+msgstr "Il y a un festival de Mirthday la semaine prochaine. Je touche 0,50 $ par tract pour en distribuer 100. Et ça fait ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/c-14/23/3/s/0
 msgctxt "Choix"
 msgid "I didn't go to fuckin school for math."
-msgstr ""
+msgstr "J'ai pas fait des études pour me farcir des putains de maths."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/c-14/23/c-0/7/b/1 holly_holidays/holly3/0/g-4/c-14/23/c-2/7/b/1 holly_holidays/holly3/0/g-4/c-14/23/c-3/7/b/1
 msgctxt "Holly"
 msgid "I thought you said you punched numbers?"
-msgstr ""
+msgstr "Je croyais que tu avais dit que tu alignais des chiffres ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/c-14/23/c-0/8/b/1 holly_holidays/holly3/0/g-4/c-14/23/c-2/8/b/1
 msgctxt "Holly"
 msgid "I WISH."
-msgstr ""
+msgstr "SI SEULEMENT."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/c-14/23/c-1/7/b/1
 msgctxt "Holly"
 msgid "You really do punch numbers!"
-msgstr ""
+msgstr "Tu aimes vraiment aligner les chiffres !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-4/c-14/23/c-1/8/b/1
 msgctxt "Holly"
 msgid "Bingo!"
-msgstr ""
+msgstr "Bingo !"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/0
 msgctxt "Holly"
 msgid "It's $50. Which isn't bad, to be honest. And it just so happens that between you, me, and 98 roommates, we've got 100 folks to fly through."
-msgstr ""
+msgstr "50 $. Ce qui n'est pas mal, à vrai dire. Et il se trouve qu'entre toi, moi et 98 colocataires, on a 100 personnes à qui en refiler."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/8
 msgctxt "Holly"
 msgid "And we're gonna start."
-msgstr ""
+msgstr "Et on va commencer."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/16
 msgctxt "Holly"
 msgid "Right."
-msgstr ""
+msgstr "Tout."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/24
 msgctxt "Holly"
 msgid "HERE."
-msgstr ""
+msgstr "DE SUITE."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/35
 msgctxt "Holly"
 msgid "<w>KOPIIIIIIII! I'M BAAACKKKK!</w>"
-msgstr ""
+msgstr "<w>KOPIIIIIIII ! JE SUIS DE RETOUUUUR !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/58
 msgctxt "Kopi"
 msgid "<w>HOLLLLLLLLY!</w>"
-msgstr ""
+msgstr "<w>HOLLLLLLLLY !</w>"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/69
 msgctxt "Holly"
 msgid "<w>Kooopiiiii!</w> Be my favourite customer and take a flyer? I gotta get rid of a hundred of em and they KNOW when I don't."
-msgstr ""
+msgstr "<w>Kooopiiiii !</w> Sois mon client préféré et prends un tract ? Il faut que je m'en débarrasse de cent et ils SAVENT quand je n'y arrive pas."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/77
 msgctxt "Holly"
 msgid "I don't know how, but they know."
-msgstr ""
+msgstr "Je ne sais pas comment, mais ils savent."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/85
 msgctxt "Kopi"
 msgid "You got an intern?"
-msgstr ""
+msgstr "Tu as un stagiaire ?"
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/93
 msgctxt "Holly"
 msgid "Something like that."
-msgstr ""
+msgstr "Quelque chose comme ça."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/101/b/1
 msgctxt "Kopi"
 msgid "This one's a good brew."
-msgstr ""
+msgstr "Celui-ci est un bon cru."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/104/b/1
 msgctxt "Kopi"
 msgid "Don't pin your hopes on them."
-msgstr ""
+msgstr "Ne mise pas tout sur cette personne."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/107/b/1
 msgctxt "Kopi"
 msgid "Holly works hard. You might need a coffee to keep up."
-msgstr ""
+msgstr "Holly travaille dur. Il te faudra peut-être un café pour suivre."
 
+# Traduction IA – à relire
 #: holly_holidays/holly3/0/g-5/110
 msgctxt "Kopi"
 msgid "And on that note, I better get back to work! Pick up a shift Holly! I miss youuuuuu."
-msgstr ""
+msgstr "Et sur ce, je ferais mieux de retourner bosser ! Prends un service, Holly ! Tu me manques."
 
 #: holly_holidays/holly3/0/g-5/118
 msgctxt "Holly"
