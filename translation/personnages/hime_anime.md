@@ -25,10 +25,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle (Hero-Hime). Nekoboru ne dit que « Nekoboru ». Le titre « Tennistar » est féminin : « la Tennistar » (star).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : héroïne de sport-anime ultra-positive, naïve, enthousiaste ; langage parlé, citations motivantes, mots japonais gardés (senpai, sayonara, yosh, kawaii, sakuga, isekai).
+- **Personnalité, manière de parler** : se met en scène comme dans un anime, annonce ses coups (« Arts Galactiques : Smash Étoilé ! »), narre en italiques à la 3e personne.
+- **Tics verbaux, expressions récurrents, jeux de mots à préserver** : « Sayonara~ », « Hihi ! », « Court de combat, activation ! », « Il faut te remettre en forme, partenaire ! ». Noms de coups : Smash Étoilé, Lob Perce-Ciel, Super Canon de Contre-Volée.
+- **Exemples de répliques traduites (référence de ton)** : « Le matin, c'est un état d'esprit ! » ; « Carrément pas ! » ; « Youhou ! Quel super échange ! »

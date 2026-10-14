@@ -140,3 +140,4 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 - **mitchell_food** : Yummy Yeti = Le Yeti Yummy ; Omakase Daisuke, Two Currents (garder) ; Mitchell's Menuette = Le Menuet de Mitchell ; Every-Day-Is-Sundae = Chaque-Jour-Est-Sundae (provisoire). CONVENTION : quand un personnage parle français en VO (gag « langue étrangère »), le remplacer par de l'italien.
 - **tbc_ui** : Textbox-chan, UImmy, Lauren Ipsum (garder) ; Hewo = Bonjouw ; Ttyl = À+.
 - **jerry_junkdrawer** : junk drawer = tiroir fourre-tout ; Department for Undelivered Flyers = Service des Prospectus Non Distribués ; Mold Wing = Aile Moisissure ; hateship = haimitié (aussi chez Harper et Tina).
+- **memoria_memories** : MemoRandom (garder, piste : MémoAléatoire) ; Plenty-o-Pasta Portrait = Portrait Plein de Pâtes.

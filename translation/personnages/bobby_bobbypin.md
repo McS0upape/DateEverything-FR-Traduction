@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : iel (non-binaire, « they »). Bobby parle de soi sans accord genré (reformuler : « je viens prendre ce qui m'appartient », jamais « prêt/prête »). Le Narrator dit « Bobby » plutôt qu'un pronom.
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, argot, grossier à l'occasion ; gangster de pacotille qui se prend pour un caïd.
+- **Personnalité, manière de parler** : fanfaron, enthousiaste, plans d'arnaque nuls, appelle le joueur ou la joueuse « recrue », se vexe vite (« hater ») ; terrifié par Sophia.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « baby », « BOUH ! », « Pinn s'éclipse », « hater », « épingle d'affaires légitime », « Talc Capone », « T-T-F (Toujours Tirer du Fric) », noms d'arnaques en « Titre ».
+- **Exemples de répliques traduites (référence de ton)** : « T'as un problème, petite frappe !? » ; « Bienvenue dans la Famille Pinn, baby ! » ; « Quand t'as raison, t'as raison. »
