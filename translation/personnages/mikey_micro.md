@@ -27,10 +27,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, vendeur survolté, faussement poli ; quand il joue le Marchand de Brundles, accent gouailleur de titi parisien (« J'suis », « 'jour », « moi ») à la place du cockney.
+- **Personnalité, manière de parler** : positivité commerciale à toute épreuve, éclate de joie, se vexe sous la politesse ; surnoms épicènes (« bébé », « pote de tirage »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « baby » -> « bébé » ; « Mikey likey / no likey » -> « Mikey kiffe / kiffe pas » ; « Pulling Pal » -> « Pote de tirage » ; « pull » -> « tirer » ; Money (majuscule, monnaie) -> « Argent » ; « Thank » (au lieu de Thanks) -> « Mercie ».
+- **Exemples de répliques traduites (référence de ton)** : « Salut toi ! Moi c'est Michael Transaction ! » / « Mais tu peux m'appeler... Mikey ! » / « Tu pourrais bien craquer pour moi, bébé ! » (voir le .po)

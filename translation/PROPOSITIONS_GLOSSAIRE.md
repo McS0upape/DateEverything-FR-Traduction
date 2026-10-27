@@ -218,3 +218,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## monique_money
 - « Duly noted » → « Dûment noté » (tic de Monique) ; « Will » (testament de Monique) → « Ted » (à revoir en passe JDM).
+
+## mikey_micro
+- Brundles : invariable ; Money → Argent ; pull → tirer ; drop rates → taux de drop ; Delayed Variable Rewards → Récompenses Variables Différées.
