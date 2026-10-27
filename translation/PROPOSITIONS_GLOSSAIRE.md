@@ -242,3 +242,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## monique_money (passe JDM)
 - Le testament « Will » devient « Tess » (Tess... tament) — DateADex mis à jour.
+
+## koa_couch
+- alone together → seuls ensemble ; couch culture → culture canapé.

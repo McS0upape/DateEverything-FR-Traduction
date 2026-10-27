@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (Koa, un canapé : « un canapé sportif »)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, décontracté, élocution traînante (« j'te », « y a pas de mal », « carrément »)
+- **Personnalité, manière de parler** : géant doux d'Hawaï, adepte du silence ; « buddy » n'est pas traduit (épicène oblige), on le supprime ou on reformule.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « alone together » = « seuls ensemble » ; « take a load off » = « pose-toi un peu » ; « keep it comfy / chill » = « reste à l'aise / cool » ; « couch culture » = « culture canapé » ; « maika'i loa » inchangé.
+- **Exemples de répliques traduites (référence de ton)** : « Allez, viens, pose-toi un peu. » ; « Je suis pas trop un canapé sportif, moi. » ; « Merci d'avoir partagé le silence avec moi. »
