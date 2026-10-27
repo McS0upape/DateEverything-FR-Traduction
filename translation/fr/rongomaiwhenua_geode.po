@@ -8,1797 +8,2156 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "GEODE"
-msgstr ""
+msgstr "GÉODE"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/6
 msgctxt "Narrator"
 msgid "You expected some manner of dazzling beauty when you focused your gaze on the beautiful geode in your office—but you couldn't have imagined this goddess."
-msgstr ""
+msgstr "Vous vous attendiez à une beauté éblouissante en posant les yeux sur la magnifique géode de votre bureau, mais vous n'auriez jamais imaginé cette déesse."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/14
 msgctxt "Narrator"
 msgid "Her crystalline eyes upon you stop you in your tracks. The planes of her sculpted face glitter so beautifully, you're almost tempted to touch her..."
-msgstr ""
+msgstr "Ses yeux cristallins posés sur vous vous clouent sur place. Les facettes de son visage sculpté scintillent si joliment que vous avez presque envie de la toucher..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/22
 msgctxt "Narrator"
 msgid "But the aura of power that radiates from her stops your hand."
-msgstr ""
+msgstr "Mais l'aura de puissance qui émane d'elle arrête votre main."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/30
 msgctxt "Rongomaiwhenua"
 msgid "You are new."
-msgstr ""
+msgstr "Tu es {{nouveau|nouvelle|nouvel·le}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/38/s/0
 msgctxt "Choix"
 msgid "New?"
-msgstr ""
+msgstr "{{Nouveau|Nouvelle|Nouvel·le}} ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/39/s/0
 msgctxt "Choix"
 msgid "I've lived here for years."
-msgstr ""
+msgstr "Je vis ici depuis des années."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/40/s/0
 msgctxt "Choix"
 msgid "No I'm not?"
-msgstr ""
+msgstr "Mais non ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "Yes. New."
-msgstr ""
+msgstr "Oui. {{Nouveau|Nouvelle|Nouvel·le}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/c-0/15
 msgctxt "Rongomaiwhenua"
 msgid "Not old. This is what new means."
-msgstr ""
+msgstr "Non pas vieux. Voilà ce que signifie « nouveau »."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "Your years are less than a few moments to me."
-msgstr ""
+msgstr "Tes années ne sont rien, quelques instants à peine pour moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/c-2/7
 msgctxt "Rongomaiwhenua"
 msgid "You are."
-msgstr ""
+msgstr "Tu l'es."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/c-2/15
 msgctxt "Rongomaiwhenua"
 msgid "You may not believe it, but this does not make it so."
-msgstr ""
+msgstr "Tu ne veux peut-être pas le croire, mais cela n'y change rien."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/0/b/1
 msgctxt "Rongomaiwhenua"
 msgid "I saw you with the others during that grand battle."
-msgstr ""
+msgstr "Je te voyais parmi les autres lors de cette grande bataille."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/0/b/9
 msgctxt "Rongomaiwhenua"
 msgid "I wondered how long it would take you to approach me."
-msgstr ""
+msgstr "Je me demandais combien de temps il te faudrait pour t'approcher de moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/3
 msgctxt "Rongomaiwhenua"
 msgid "I have heard stories of the master of this household from Airyn."
-msgstr ""
+msgstr "Airyn m'a conté des histoires sur le maître de cette maison."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/14
 msgctxt "Rongomaiwhenua"
 msgid "Another green young shoot convinced of their own immortality."
-msgstr ""
+msgstr "Encore une jeune pousse verte convaincue de sa propre immortalité."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/22
 msgctxt "Rongomaiwhenua"
 msgid "Even as the wildfires rage closer and closer."
-msgstr ""
+msgstr "Alors même que les incendies se rapprochent toujours plus."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/30/s/0
 msgctxt "Choix"
 msgid "I don't think I'm immortal..."
-msgstr ""
+msgstr "Je ne crois pas être {{immortel|immortelle|immortel·le}}..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/31/s/0
 msgctxt "Choix"
 msgid "Are you always this intense?"
-msgstr ""
+msgstr "Tu es toujours aussi intense ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "If I'm a green shoot what does that make you?"
-msgstr ""
+msgstr "Si je suis une jeune pousse, qu'est-ce que ça fait de toi ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/c-3/7
 msgctxt "Rongomaiwhenua"
 msgid "No. Mortals always think this way."
-msgstr ""
+msgstr "Non. Les mortels pensent toujours ainsi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/c-4/7
 msgctxt "Rongomaiwhenua"
 msgid "I am nothing but myself."
-msgstr ""
+msgstr "Je ne suis rien d'autre que moi-même."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-0/c-5/7
 msgctxt "Rongomaiwhenua"
 msgid "I am just what you see."
-msgstr ""
+msgstr "Je suis exactement ce que tu vois."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/0/b/1
 msgctxt "Rongomaiwhenua"
 msgid "My name is Rongomaiwhenua."
-msgstr ""
+msgstr "Mon nom est Rongomaiwhenua."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/6
 msgctxt "Rongomaiwhenua"
 msgid "I am a geode here in your home, but I am so much more."
-msgstr ""
+msgstr "Je suis une géode dans ta demeure, mais je suis bien plus que cela."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/14
 msgctxt "Rongomaiwhenua"
 msgid "I am the earth that nurtures you."
-msgstr ""
+msgstr "Je suis la terre qui te nourrit."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/22
 msgctxt "Rongomaiwhenua"
 msgid "I am the elements that imperil you."
-msgstr ""
+msgstr "Je suis les éléments qui te menacent."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/30
 msgctxt "Rongomaiwhenua"
 msgid "I am all that was and all that will be."
-msgstr ""
+msgstr "Je suis tout ce qui fut et tout ce qui sera."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/38
 msgctxt "Rongomaiwhenua"
 msgid "The first and the last. The beginning and the end."
-msgstr ""
+msgstr "La première et la dernière. Le commencement et la fin."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/46/s/0
 msgctxt "Choix"
 msgid "Can I just call you Ro?"
-msgstr ""
+msgstr "Je peux t'appeler Ro ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/47/s/0
 msgctxt "Choix"
 msgid "Damn that's a lot of titles."
-msgstr ""
+msgstr "Waouh, ça fait beaucoup de titres."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/48/s/0
 msgctxt "Choix"
 msgid "Kinda full of yourself, aren't you?"
-msgstr ""
+msgstr "Tu ne te prendrais pas un peu pour quelqu'un ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/49/s/0
 msgctxt "Choix"
 msgid "I'm"
-msgstr ""
+msgstr "Je suis"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/49/s/5
 msgctxt "Choix"
 msgid ", a human."
-msgstr ""
+msgstr ", un être humain."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/c-6/7
 msgctxt "Rongomaiwhenua"
 msgid "No."
-msgstr ""
+msgstr "Non."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/c-7/7
 msgctxt "Rongomaiwhenua"
 msgid "It is merely the truth of my existence."
-msgstr ""
+msgstr "Ce n'est que la vérité de mon existence."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/c-8/7
 msgctxt "Rongomaiwhenua"
 msgid "I do not understand what this means."
-msgstr ""
+msgstr "Je ne comprends pas ce que cela signifie."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/c-8/15
 msgctxt "Rongomaiwhenua"
 msgid "What else would I be full of if not myself?"
-msgstr ""
+msgstr "De quoi d'autre serais-je pleine, sinon de moi-même ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-1/c-8/23
 msgctxt "Rongomaiwhenua"
 msgid "Human expressions make little sense."
-msgstr ""
+msgstr "Les expressions humaines n'ont guère de sens."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/0
 msgctxt "Rongomaiwhenua"
 msgid "I have wondered when you might make your presence known to me."
-msgstr ""
+msgstr "Je me demandais quand tu daignerais te faire connaître de moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/8
 msgctxt "Rongomaiwhenua"
 msgid "I hear of your comings and goings from the others in this place."
-msgstr ""
+msgstr "J'entends parler de tes allées et venues par les autres habitants de ce lieu."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/16
 msgctxt "Rongomaiwhenua"
 msgid "Your antics are most amusing to me."
-msgstr ""
+msgstr "Tes facéties m'amusent beaucoup."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/24/s/0
 msgctxt "Choix"
 msgid "'Antics'?"
-msgstr ""
+msgstr "« Facéties » ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/25/s/0
 msgctxt "Choix"
 msgid "Happy to help."
-msgstr ""
+msgstr "{{Ravi|Ravie|Ravi·e}} d'être utile."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/26/s/0
 msgctxt "Choix"
 msgid "Didn't think an earth goddess would care about that."
-msgstr ""
+msgstr "Je ne pensais pas qu'une déesse de la terre s'intéresserait à ça."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/c-10/7
 msgctxt "Rongomaiwhenua"
 msgid "Yes. The things you do in this dwelling."
-msgstr ""
+msgstr "Oui. Ce que tu fais dans cette demeure."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/c-11/7 rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/c-2/7 rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/c-4/7
 msgctxt "Rongomaiwhenua"
 msgid "Very good."
-msgstr ""
+msgstr "Très bien."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/c-12/7
 msgctxt "Rongomaiwhenua"
 msgid "Care? I do not 'care' about what you do."
-msgstr ""
+msgstr "M'intéresser ? Je ne me « soucie » pas de ce que tu fais."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/c-12/15
 msgctxt "Rongomaiwhenua"
 msgid "But the things you do..."
-msgstr ""
+msgstr "Mais ce que tu fais..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/c-12/23
 msgctxt "Rongomaiwhenua"
 msgid "I have not had this manner of entertainment in years."
-msgstr ""
+msgstr "Je n'ai pas connu pareil divertissement depuis des années."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/c-12/31
 msgctxt "Rongomaiwhenua"
 msgid "Continue."
-msgstr ""
+msgstr "Continue."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-2/c-12/39
 msgctxt "Rongomaiwhenua"
 msgid "Well. Continue another time."
-msgstr ""
+msgstr "Enfin. Continue une autre fois."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-3/0
 msgctxt "Rongomaiwhenua"
 msgid "I have things to tend to now."
-msgstr ""
+msgstr "J'ai maintenant des affaires à régler."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-3/8
 msgctxt "Rongomaiwhenua"
 msgid "Important things far beyond your ken."
-msgstr ""
+msgstr "Des affaires importantes, bien au-delà de ton entendement."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_intro/0/g-3/16 rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-5/19 rongomaiwhenua_geode/rongo_collectable/75 rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-9/29
 msgctxt "Rongomaiwhenua"
 msgid "You may go now."
-msgstr ""
+msgstr "Tu peux disposer."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/6 rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/0
 msgctxt "Rongomaiwhenua"
 msgid "You have returned."
-msgstr ""
+msgstr "Tu es {{revenu|revenue|revenu·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/14/s/0
 msgctxt "Choix"
 msgid "Sure have."
-msgstr ""
+msgstr "Et comment."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/15/s/0
 msgctxt "Choix"
 msgid "And you've stayed."
-msgstr ""
+msgstr "Et toi, tu es restée là."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/16/s/0
 msgctxt "Choix"
 msgid "Are you surprised?"
-msgstr ""
+msgstr "Ça t'étonne ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/c-0/7 rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/c-3/7
 msgctxt "Rongomaiwhenua"
 msgid "Indeed."
-msgstr ""
+msgstr "En effet."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/c-1/15
 msgctxt "Rongomaiwhenua"
 msgid "I am uninterested in moving from this place."
-msgstr ""
+msgstr "Je n'ai aucune envie de quitter cet endroit."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/c-2/7
 msgctxt "Rongomaiwhenua"
 msgid "Not in the least."
-msgstr ""
+msgstr "Pas le moins du monde."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/c-2/15
 msgctxt "Rongomaiwhenua"
 msgid "I knew you would seek me out."
-msgstr ""
+msgstr "Je savais que tu viendrais me chercher."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/0
 msgctxt "Rongomaiwhenua"
 msgid "No mortal can resist the pull of a goddess."
-msgstr ""
+msgstr "Aucun mortel ne résiste à l'attrait d'une déesse."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/8
 msgctxt "Rongomaiwhenua"
 msgid "Particularly in this form."
-msgstr ""
+msgstr "Surtout sous cette forme."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/16
 msgctxt "Rongomaiwhenua"
 msgid "The glitter and sparkle of my current form has lured many of your kind."
-msgstr ""
+msgstr "L'éclat et le scintillement de ma forme actuelle ont attiré bien des gens de ton espèce."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "Lured?"
-msgstr ""
+msgstr "Attiré ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "You make it sound like you're trapping them."
-msgstr ""
+msgstr "On dirait que tu les piégeais."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/26/s/0
 msgctxt "Choix"
 msgid "Well you ARE very pretty..."
-msgstr ""
+msgstr "Il faut dire que tu es TRÈS jolie..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/c-3/7 rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "That is what I said, yes."
-msgstr ""
+msgstr "C'est bien ce que j'ai dit, oui."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/c-4/7
 msgctxt "Rongomaiwhenua"
 msgid "Trapping? No."
-msgstr ""
+msgstr "Piéger ? Non."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/c-4/15
 msgctxt "Rongomaiwhenua"
 msgid "I have no need to entrap mortals."
-msgstr ""
+msgstr "Je n'ai nul besoin de prendre les mortels au piège."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/c-5/13
 msgctxt "Rongomaiwhenua"
 msgid "I am."
-msgstr ""
+msgstr "Je suis."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-0/c-5/24
 msgctxt "Rongomaiwhenua"
 msgid "But it is good that you recognize what is in front of you."
-msgstr ""
+msgstr "Mais il est bon que tu reconnaisses ce qui se tient devant toi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/0
 msgctxt "Rongomaiwhenua"
 msgid "I have spent many years in this universe being ignored or worse by the mortals that inhabit me."
-msgstr ""
+msgstr "J'ai passé de longues années dans cet univers, ignorée ou pis encore par les mortels qui m'habitent."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/8
 msgctxt "Rongomaiwhenua"
 msgid "Humankind has grown more and more disrespectful over the years."
-msgstr ""
+msgstr "L'humanité est devenue de plus en plus irrespectueuse au fil des ans."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/16
 msgctxt "Rongomaiwhenua"
 msgid "I do not NEED your worship."
-msgstr ""
+msgstr "Je n'ai PAS BESOIN de ton adoration."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/24
 msgctxt "Rongomaiwhenua"
 msgid "But there is a satisfaction in it."
-msgstr ""
+msgstr "Mais elle procure une certaine satisfaction."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/32
 msgctxt "Rongomaiwhenua"
 msgid "The same satisfaction I imagine you derive from performing your menial human tasks."
-msgstr ""
+msgstr "La même satisfaction, j'imagine, que tu tires de tes basses besognes humaines."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/40
 msgctxt "Rongomaiwhenua"
 msgid "Or making friends with your, uh, fellows."
-msgstr ""
+msgstr "Ou de tes amitiés avec tes, euh, semblables."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/48/s/0
 msgctxt "Choix"
 msgid "There's no satisfaction in menial tasks."
-msgstr ""
+msgstr "Les basses besognes n'ont rien de satisfaisant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/49/s/0
 msgctxt "Choix"
 msgid "Nice of you to think I have friends."
-msgstr ""
+msgstr "C'est gentil de croire que j'ai des amis."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/50/s/0
 msgctxt "Choix"
 msgid "You can get my worship anytime baby."
-msgstr ""
+msgstr "Tu peux avoir mon adoration quand tu veux, ma belle."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/c-6/7
 msgctxt "Rongomaiwhenua"
 msgid "Oh? Then why do you persist in doing them?"
-msgstr ""
+msgstr "Oh ? Alors pourquoi persistes-tu à les accomplir ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/c-6/15
 msgctxt "Rongomaiwhenua"
 msgid "Humanity is truly baffling."
-msgstr ""
+msgstr "L'humanité est vraiment déconcertante."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/c-7/7
 msgctxt "Rongomaiwhenua"
 msgid "Have I misjudged you?"
-msgstr ""
+msgstr "Me serais-je méprise sur ton compte ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/c-7/15
 msgctxt "Rongomaiwhenua"
 msgid "A rare mistake on my part."
-msgstr ""
+msgstr "Une erreur rare de ma part."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/c-7/23
 msgctxt "Rongomaiwhenua"
 msgid "I have given you too much credit."
-msgstr ""
+msgstr "Je t'ai accordé trop de crédit."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/c-8/13
 msgctxt "Rongomaiwhenua"
 msgid "The sentiment is noted."
-msgstr ""
+msgstr "Le sentiment est noté."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-1/c-8/21
 msgctxt "Rongomaiwhenua"
 msgid "But call me 'baby' again and it will be the last thing you ever do."
-msgstr ""
+msgstr "Mais appelle-moi encore « ma belle » et ce sera la dernière chose que tu feras."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/0
 msgctxt "Rongomaiwhenua"
 msgid "If you have come to worship, you may do so now."
-msgstr ""
+msgstr "Si tu es {{venu|venue|venu·e}} m'adorer, tu peux le faire maintenant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/8
 msgctxt "Rongomaiwhenua"
 msgid "Otherwise, state your purpose."
-msgstr ""
+msgstr "Sinon, expose ton propos."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/16/s/0
 msgctxt "Choix"
 msgid "I'm not worshipping you, weirdo."
-msgstr ""
+msgstr "Je ne t'adore pas, espèce de tordue."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/17/s/0
 msgctxt "Choix"
 msgid "I was hoping to get to know you."
-msgstr ""
+msgstr "J'espérais apprendre à te connaître."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/18/s/0
 msgctxt "Choix"
 msgid "It's an honor just to stand in your presence."
-msgstr ""
+msgstr "C'est un honneur de me tenir en ta présence."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-9/13
 msgctxt "Rongomaiwhenua"
 msgid "Disrespect me again and I will make your life miserable in ways you cannot yet contemplate, worm."
-msgstr ""
+msgstr "Manque-moi encore de respect et je te rendrai la vie misérable de façons que tu ne peux encore concevoir, ver de terre."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-9/24
 msgctxt "Rongomaiwhenua"
 msgid "And spare me your lies."
-msgstr ""
+msgstr "Et épargne-moi tes mensonges."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-9/32
 msgctxt "Rongomaiwhenua"
 msgid "Why else have you displayed me so prominently in your home?"
-msgstr ""
+msgstr "Pourquoi, sinon, m'aurais-tu exposée si bien en vue dans ta demeure ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-9/40
 msgctxt "Rongomaiwhenua"
 msgid "Goddesses are meant for worship."
-msgstr ""
+msgstr "Les déesses sont faites pour être adorées."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-9/48
 msgctxt "Rongomaiwhenua"
 msgid "My purpose here is to remind you of this."
-msgstr ""
+msgstr "Ma raison d'être ici est de te le rappeler."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-10/13
 msgctxt "Rongomaiwhenua"
 msgid "'Get to know' me?"
-msgstr ""
+msgstr "« Apprendre à me connaître » ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-10/21
 msgctxt "Rongomaiwhenua"
 msgid "What is there to know?"
-msgstr ""
+msgstr "Qu'y a-t-il à connaître ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-10/29
 msgctxt "Rongomaiwhenua"
 msgid "I am eternal."
-msgstr ""
+msgstr "Je suis éternelle."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-10/37
 msgctxt "Rongomaiwhenua"
 msgid "Unless and until the sun explodes and consumes me I will be here."
-msgstr ""
+msgstr "Tant que le soleil n'explosera pas pour me consumer, je serai là."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-10/45
 msgctxt "Rongomaiwhenua"
 msgid "I was here long before you and will remain long after you."
-msgstr ""
+msgstr "J'étais là bien avant toi et je serai là bien après toi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-10/53
 msgctxt "Rongomaiwhenua"
 msgid "When the bones of this dwelling have rotted away I will remain here."
-msgstr ""
+msgstr "Quand les os de cette demeure auront pourri, je serai toujours là."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-2/c-11/13
 msgctxt "Rongomaiwhenua"
 msgid "Indeed, it is."
-msgstr ""
+msgstr "En effet, c'en est un."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/0
 msgctxt "Rongomaiwhenua"
 msgid "You will submit your praises or leave."
-msgstr ""
+msgstr "Tu me présenteras tes louanges ou tu partiras."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/8
 msgctxt "Rongomaiwhenua"
 msgid "Proceed."
-msgstr ""
+msgstr "Procède."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/16/s/0
 msgctxt "Choix"
 msgid "I've never known anyone as powerful or beautiful as you."
-msgstr ""
+msgstr "Je n'ai jamais connu personne d'aussi puissant ni d'aussi beau que toi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/17/s/0
 msgctxt "Choix"
 msgid "You're just like, so cool."
-msgstr ""
+msgstr "Tu es juste, genre, trop cool."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/18/s/0
 msgctxt "Choix"
 msgid "You are so delusional it's impressive."
-msgstr ""
+msgstr "Tu es tellement délirante que c'en est impressionnant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-12/13
 msgctxt "Rongomaiwhenua"
 msgid "Of course you have not."
-msgstr ""
+msgstr "Bien sûr que non."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-12/21
 msgctxt "Rongomaiwhenua"
 msgid "Such a being does not exist."
-msgstr ""
+msgstr "Un tel être n'existe pas."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-12/29
 msgctxt "Rongomaiwhenua"
 msgid "But I see that you are trying to worship me in your own way."
-msgstr ""
+msgstr "Mais je vois que tu tentes de m'adorer à ta manière."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-13/13
 msgctxt "Rongomaiwhenua"
 msgid "Cool? No."
-msgstr ""
+msgstr "Cool ? Non."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-13/21
 msgctxt "Rongomaiwhenua"
 msgid "The actions of your kind have raised my temperature."
-msgstr ""
+msgstr "Les agissements de ton espèce ont fait monter ma température."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-13/29
 msgctxt "Rongomaiwhenua"
 msgid "Which is fine for me... but concerning for your own future."
-msgstr ""
+msgstr "Ce qui m'est égal... mais inquiétant pour ton propre avenir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-13/37
 msgctxt "Rongomaiwhenua"
 msgid "But I see that you are trying to worship me in your way."
-msgstr ""
+msgstr "Mais je vois que tu tentes de m'adorer à ta façon."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-14/13
 msgctxt "Rongomaiwhenua"
 msgid "Delusional? No."
-msgstr ""
+msgstr "Délirante ? Non."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-14/21
 msgctxt "Rongomaiwhenua"
 msgid "I see things more clearly than you could ever imagine."
-msgstr ""
+msgstr "Je vois les choses plus clairement que tu ne pourrais jamais l'imaginer."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-3/c-14/29
 msgctxt "Rongomaiwhenua"
 msgid "If this is your attempt at worship consider it a failure."
-msgstr ""
+msgstr "Si c'est là ta tentative d'adoration, tiens-la pour un échec."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/0
 msgctxt "Rongomaiwhenua"
 msgid "Now that that is settled..."
-msgstr ""
+msgstr "Maintenant que cela est réglé..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/8
 msgctxt "Rongomaiwhenua"
 msgid "Was there something else you required?"
-msgstr ""
+msgstr "Requérais-tu autre chose ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/16/s/0
 msgctxt "Choix"
 msgid "I really do want to get to know you."
-msgstr ""
+msgstr "Je veux vraiment apprendre à te connaître."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/17/s/0
 msgctxt "Choix"
 msgid "I just wanted to bask in your beauty."
-msgstr ""
+msgstr "Je voulais juste me prélasser dans ta beauté."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/18/s/0
 msgctxt "Choix"
 msgid "I 'require' you to get a grip."
-msgstr ""
+msgstr "Je « requiers » que tu te ressaisisses."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-15/13
 msgctxt "Rongomaiwhenua"
 msgid "You cannot know nature in its infinite beauty."
-msgstr ""
+msgstr "Tu ne peux connaître la nature dans son infinie beauté."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-15/21
 msgctxt "Rongomaiwhenua"
 msgid "Your small mortal mind cannot possibly comprehend me in my entirety."
-msgstr ""
+msgstr "Ton petit esprit mortel ne saurait me comprendre dans mon entièreté."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-16/13
 msgctxt "Rongomaiwhenua"
 msgid "Have at it."
-msgstr ""
+msgstr "Fais donc."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-17/13
 msgctxt "Rongomaiwhenua"
 msgid "Get a grip? On what?"
-msgstr ""
+msgstr "Me ressaisir ? Saisir quoi ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-17/21
 msgctxt "Rongomaiwhenua"
 msgid "I have the whole of humanity squeezed within my powerful fist."
-msgstr ""
+msgstr "J'ai l'humanité tout entière serrée dans mon puissant poing."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-17/29
 msgctxt "Rongomaiwhenua"
 msgid "I need no further grip."
-msgstr ""
+msgstr "Je n'ai besoin d'aucune autre prise."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-17/37
 msgctxt "Rongomaiwhenua"
 msgid "But even though your mortal words make no sense..."
-msgstr ""
+msgstr "Mais bien que tes mots mortels n'aient aucun sens..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-17/45
 msgctxt "Rongomaiwhenua"
 msgid "I sense that you are disrespecting me."
-msgstr ""
+msgstr "Je sens que tu me manques de respect."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-17/53
 msgctxt "Rongomaiwhenua"
 msgid "So you may leave."
-msgstr ""
+msgstr "Tu peux donc partir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-4/c-17/61
 msgctxt "Rongomaiwhenua"
 msgid "Go."
-msgstr ""
+msgstr "Va."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-5/3
 msgctxt "Rongomaiwhenua"
 msgid "Your worship has been noted."
-msgstr ""
+msgstr "Ton adoration est notée."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_second_encounter/0/g-5/11
 msgctxt "Rongomaiwhenua"
 msgid "Consider your mortal duties discharged."
-msgstr ""
+msgstr "Considère tes devoirs mortels comme accomplis."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_collectable/0
 msgctxt "Rongomaiwhenua"
 msgid "I should note, you have been entertaining me sufficiently, human."
-msgstr ""
+msgstr "Je dois dire que tu m'as suffisamment divertie, {{humain|humaine|humain·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_collectable/8
 msgctxt "Rongomaiwhenua"
 msgid "One of my forms that please humans most, are the ones that glitter alluringly."
-msgstr ""
+msgstr "L'une de mes formes qui plaisent le plus aux humains est celle qui scintille de façon séduisante."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_collectable/16
 msgctxt "Rongomaiwhenua"
 msgid "Feel free to gaze upon my beauty a bit longer in the form of this citrine geode."
-msgstr ""
+msgstr "Libre à toi de contempler ma beauté un peu plus longtemps sous la forme de cette géode de citrine."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_collectable/27
 msgctxt "Rongomaiwhenua"
 msgid "You humans enjoy creating your own citrine-color by heating amethyst to obtain this golden hue."
-msgstr ""
+msgstr "Vous autres humains aimez créer votre propre citrine en chauffant de l'améthyste pour obtenir cette teinte dorée."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_collectable/35
 msgctxt "Rongomaiwhenua"
 msgid "But this, I assure you, has been formed through the steady heat of my molten form over millions of years."
-msgstr ""
+msgstr "Mais celle-ci, je t'assure, s'est formée par la chaleur constante de ma forme en fusion durant des millions d'années."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_collectable/51
 msgctxt "Narrator"
 msgid "You look upon Rongomaiwhenua in silence, admiring the beauty of her form."
-msgstr ""
+msgstr "Vous contemplez Rongomaiwhenua en silence, admirant la beauté de sa forme."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_collectable/67
 msgctxt "Rongomaiwhenua"
 msgid "That is enough admiring."
-msgstr ""
+msgstr "Assez d'admiration."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/6
 msgctxt "Rongomaiwhenua"
 msgid "There you are, human."
-msgstr ""
+msgstr "Te voilà, {{humain|humaine|humain·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/14
 msgctxt "Rongomaiwhenua"
 msgid "I have been waiting for you."
-msgstr ""
+msgstr "Je t'attendais."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/22/s/0
 msgctxt "Choix"
 msgid "I have a name, you know."
-msgstr ""
+msgstr "Je te signale que j'ai un nom."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/23/s/0
 msgctxt "Choix"
 msgid "You've been waiting for me?"
-msgstr ""
+msgstr "Tu m'attendais ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/24/s/0
 msgctxt "Choix"
 msgid "I'm happy to see you too."
-msgstr ""
+msgstr "Moi aussi, je suis {{content|contente|content·e}} de te voir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "But you are a human, are you not?"
-msgstr ""
+msgstr "Mais tu es bien un être humain, n'est-ce pas ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/c-0/15
 msgctxt "Rongomaiwhenua"
 msgid "Is it so offensive to be addressed as you are?"
-msgstr ""
+msgstr "Est-ce si offensant qu'on t'appelle ce que tu es ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/c-2/7
 msgctxt "Rongomaiwhenua"
 msgid "That is not what I said."
-msgstr ""
+msgstr "Ce n'est pas ce que j'ai dit."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/c-2/15
 msgctxt "Rongomaiwhenua"
 msgid "I said only that I have awaited you."
-msgstr ""
+msgstr "J'ai dit seulement que je t'attendais."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/0
 msgctxt "Rongomaiwhenua"
 msgid "I grow bored of the conversation here in this... 'office'."
-msgstr ""
+msgstr "La conversation dans ce... « bureau » commence à m'ennuyer."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/8
 msgctxt "Rongomaiwhenua"
 msgid "These objects are pleasant enough, but they converse about things I do not understand."
-msgstr ""
+msgstr "Ces objets sont agréables, mais ils parlent de choses que je ne comprends pas."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/16
 msgctxt "Rongomaiwhenua"
 msgid "So much talk of... 'teevee shows'..."
-msgstr ""
+msgstr "Tant de discours sur des... « séries télé »..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "You don't know what TV is?"
-msgstr ""
+msgstr "Tu ne sais pas ce qu'est la télé ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "You're a goddess and you can't grasp a simple invention?"
-msgstr ""
+msgstr "Tu es une déesse et tu ne comprends pas une simple invention ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/26/s/0
 msgctxt "Choix"
 msgid "What did they say exactly?"
-msgstr ""
+msgstr "Qu'est-ce qu'ils ont dit, au juste ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/c-3/7
 msgctxt "Rongomaiwhenua"
 msgid "It is incomprehensible."
-msgstr ""
+msgstr "C'est incompréhensible."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/c-3/15
 msgctxt "Rongomaiwhenua"
 msgid "So much inscrutable mortal jargon."
-msgstr ""
+msgstr "Tant de jargon mortel indéchiffrable."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/c-3/23
 msgctxt "Rongomaiwhenua"
 msgid "What happened to storytelling?"
-msgstr ""
+msgstr "Qu'est devenu l'art de conter ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/c-4/13
 msgctxt "Rongomaiwhenua"
 msgid "I can grasp anything your limited mortal mind can dream up."
-msgstr ""
+msgstr "Je peux saisir tout ce que ton esprit mortel et limité est capable de rêver."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/c-4/21
 msgctxt "Rongomaiwhenua"
 msgid "But these objects speak in riddles."
-msgstr ""
+msgstr "Mais ces objets parlent par énigmes."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-0/c-5/7
 msgctxt "Rongomaiwhenua"
 msgid "Utter nonsense."
-msgstr ""
+msgstr "Un pur non-sens."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/0
 msgctxt "Rongomaiwhenua"
 msgid "Something about... total... drama..."
-msgstr ""
+msgstr "Quelque chose à propos de... drame... total..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/8
 msgctxt "Rongomaiwhenua"
 msgid "Tea spilled..."
-msgstr ""
+msgstr "Du thé renversé..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/16
 msgctxt "Rongomaiwhenua"
 msgid "The shade of it all..."
-msgstr ""
+msgstr "De la classe de tout ça..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/0
 msgctxt "Rongomaiwhenua"
 msgid "These are words I recognize but their usage is unclear."
-msgstr ""
+msgstr "Ces mots me sont connus, mais leur usage m'échappe."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/8
 msgctxt "Rongomaiwhenua"
 msgid "But you are here now."
-msgstr ""
+msgstr "Mais te voilà."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/16
 msgctxt "Rongomaiwhenua"
 msgid "So you will entertain me."
-msgstr ""
+msgstr "Alors tu vas me divertir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/24/s/0
 msgctxt "Choix"
 msgid "I'm not a trained seal."
-msgstr ""
+msgstr "Je ne suis pas un phoque savant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/25/s/0
 msgctxt "Choix"
 msgid "I live to serve, queen."
-msgstr ""
+msgstr "Je vis pour servir, ma reine."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/26/s/0
 msgctxt "Choix"
 msgid "What do you want me to do?"
-msgstr ""
+msgstr "Que veux-tu que je fasse ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/c-6/13
 msgctxt "Rongomaiwhenua"
 msgid "Yes, you are a human."
-msgstr ""
+msgstr "Oui, tu es un être humain."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/c-6/21
 msgctxt "Rongomaiwhenua"
 msgid "That is not in dispute."
-msgstr ""
+msgstr "Cela n'est pas contesté."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/c-6/29
 msgctxt "Rongomaiwhenua"
 msgid "You <i>are</i> insubordinate."
-msgstr ""
+msgstr "Tu <i>es</i> insubordonné."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/c-6/37
 msgctxt "Rongomaiwhenua"
 msgid "But not a seal."
-msgstr ""
+msgstr "Mais pas un phoque."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/c-7/13
 msgctxt "Rongomaiwhenua"
 msgid "It gladdens me to see that you understand your purpose."
-msgstr ""
+msgstr "Je suis ravie de voir que tu comprends ta raison d'être."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-1/24/c-8/7
 msgctxt "Rongomaiwhenua"
 msgid "It is simple."
-msgstr ""
+msgstr "Elle est simple."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/0
 msgctxt "Rongomaiwhenua"
 msgid "Tell me something of your human aspirations."
-msgstr ""
+msgstr "Parle-moi de tes aspirations humaines."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/8
 msgctxt "Rongomaiwhenua"
 msgid "Your hopes and desires."
-msgstr ""
+msgstr "De tes espoirs et de tes désirs."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/16
 msgctxt "Rongomaiwhenua"
 msgid "There is nothing so amusing as the dreams of humanity."
-msgstr ""
+msgstr "Rien n'est aussi amusant que les rêves de l'humanité."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/24/s/0
 msgctxt "Choix"
 msgid "I'm not going to let you mock me."
-msgstr ""
+msgstr "Je ne vais pas te laisser te moquer de moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/25/s/0
 msgctxt "Choix"
 msgid "What if we talked about your dreams instead?"
-msgstr ""
+msgstr "Et si on parlait plutôt de tes rêves à toi ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/26/s/0
 msgctxt "Choix"
 msgid "I just want to be happy honestly."
-msgstr ""
+msgstr "Moi, je veux juste être {{heureux|heureuse|heureux·se}}, franchement."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-9/13
 msgctxt "Rongomaiwhenua"
 msgid "What a dreadful bore you are."
-msgstr ""
+msgstr "Quel ennui tu fais."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-9/21
 msgctxt "Rongomaiwhenua"
 msgid "If you cannot even entertain me what use are you?"
-msgstr ""
+msgstr "Si tu ne peux même pas me divertir, à quoi me sers-tu ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-10/13
 msgctxt "Rongomaiwhenua"
 msgid "My dreams?"
-msgstr ""
+msgstr "Mes rêves ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-10/21
 msgctxt "Rongomaiwhenua"
 msgid "I do not dream."
-msgstr ""
+msgstr "Je ne rêve pas."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-10/29
 msgctxt "Rongomaiwhenua"
 msgid "I simply am."
-msgstr ""
+msgstr "Je suis, simplement."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-10/37
 msgctxt "Rongomaiwhenua"
 msgid "I do not wonder what will happen on the morrow."
-msgstr ""
+msgstr "Je ne me demande pas ce qui arrivera demain."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-10/45
 msgctxt "Rongomaiwhenua"
 msgid "I do not wish for more or better."
-msgstr ""
+msgstr "Je ne souhaite ni plus ni mieux."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-10/53
 msgctxt "Rongomaiwhenua"
 msgid "I only exist."
-msgstr ""
+msgstr "J'existe, seulement."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-11/13 rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-13/7
 msgctxt "Rongomaiwhenua"
 msgid "How quaint."
-msgstr ""
+msgstr "Comme c'est pittoresque."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-11/21
 msgctxt "Rongomaiwhenua"
 msgid "Human happiness is so fleeting."
-msgstr ""
+msgstr "Le bonheur humain est si fugace."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-11/29
 msgctxt "Rongomaiwhenua"
 msgid "You are so desperate for it, you'll follow that dream right over the cliff's edge."
-msgstr ""
+msgstr "Tu en es si avide que tu suivras ce rêve jusqu'au bord de la falaise."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-11/37
 msgctxt "Rongomaiwhenua"
 msgid "You will chase it to your own detriment."
-msgstr ""
+msgstr "Tu le poursuivras à ton propre détriment."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-3/c-11/45
 msgctxt "Rongomaiwhenua"
 msgid "How sad... how utterly charming."
-msgstr ""
+msgstr "Comme c'est triste... comme c'est tout à fait charmant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/0
 msgctxt "Rongomaiwhenua"
 msgid "Tell me human... what will you do when you leave here?"
-msgstr ""
+msgstr "Dis-moi, {{humain|humaine|humain·e}}... que feras-tu en quittant cet endroit ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/8
 msgctxt "Rongomaiwhenua"
 msgid "I want to know what your day holds when it is not filled with worship."
-msgstr ""
+msgstr "Je veux savoir ce que contient ta journée quand elle n'est pas remplie d'adoration."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/16/s/0
 msgctxt "Choix"
 msgid "Probably just going back to sleep."
-msgstr ""
+msgstr "Sans doute retourner dormir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/17/s/0
 msgctxt "Choix"
 msgid "Going to try to advance my relationships."
-msgstr ""
+msgstr "Essayer de faire avancer mes relations."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/18/s/0
 msgctxt "Choix"
 msgid "None of your business, geode grandma."
-msgstr ""
+msgstr "Ça ne te regarde pas, mamie géode."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-12/7
 msgctxt "Rongomaiwhenua"
 msgid "How dull."
-msgstr ""
+msgstr "Quelle platitude."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-12/15
 msgctxt "Rongomaiwhenua"
 msgid "But your honesty is noted."
-msgstr ""
+msgstr "Mais ta franchise est notée."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-13/15
 msgctxt "Rongomaiwhenua"
 msgid "I shall look forward to hearing of your progress with the others here."
-msgstr ""
+msgstr "J'attendrai avec impatience de savoir où tu en es avec les autres ici."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-14/13
 msgctxt "Rongomaiwhenua"
 msgid "You level this word against me as if it is some sort of slight."
-msgstr ""
+msgstr "Tu brandis ce mot contre moi comme s'il s'agissait d'une quelconque offense."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-14/21
 msgctxt "Rongomaiwhenua"
 msgid "I am <i>the</i> mother of all life."
-msgstr ""
+msgstr "Je suis <i>la</i> mère de toute vie."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-14/29
 msgctxt "Rongomaiwhenua"
 msgid "To be a grandmother is the highest honor amongst all mortal life."
-msgstr ""
+msgstr "Être grand-mère est le plus grand honneur parmi tous les mortels."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-14/37
 msgctxt "Rongomaiwhenua"
 msgid "That your rotted mouth would attempt to turn it into an insult... pathetic."
-msgstr ""
+msgstr "Que ta bouche pourrie tente d'en faire une insulte... pathétique."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_third_encounter/0/g-4/c-14/48
 msgctxt "Rongomaiwhenua"
 msgid "You may leave now."
-msgstr ""
+msgstr "Tu peux partir maintenant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_critical_encounter/0
 msgctxt "Rongomaiwhenua"
 msgid "You have come, human."
-msgstr ""
+msgstr "Te voilà, {{humain|humaine|humain·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_critical_encounter/8
 msgctxt "Rongomaiwhenua"
 msgid "Even in your absence, you have occupied my mind."
-msgstr ""
+msgstr "Même en ton absence, tu as occupé mon esprit."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_critical_encounter/16
 msgctxt "Rongomaiwhenua"
 msgid "You should feel honored."
-msgstr ""
+msgstr "Tu devrais t'en sentir {{honoré|honorée|honoré·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_critical_encounter/24
 msgctxt "Rongomaiwhenua"
 msgid "I have something to say to you, so listen well."
-msgstr ""
+msgstr "J'ai quelque chose à te dire, alors écoute bien."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/0
 msgctxt "Rongomaiwhenua"
 msgid "You have been a consistent source of amusement for me."
-msgstr ""
+msgstr "Tu as été pour moi une source constante d'amusement."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/8
 msgctxt "Rongomaiwhenua"
 msgid "It takes much to make me smile—I have, after all, seen eternity."
-msgstr ""
+msgstr "Il en faut beaucoup pour me faire sourire : j'ai, après tout, vu l'éternité."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/16
 msgctxt "Rongomaiwhenua"
 msgid "But I find that I smile when I think of you."
-msgstr ""
+msgstr "Mais je constate que je souris quand je pense à toi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/24
 msgctxt "Rongomaiwhenua"
 msgid "Congratulations, human."
-msgstr ""
+msgstr "Félicitations, {{humain|humaine|humain·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/32/s/0
 msgctxt "Choix"
 msgid "So what are you saying?"
-msgstr ""
+msgstr "Qu'est-ce que tu veux dire ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/33/s/0
 msgctxt "Choix"
 msgid "Are we friends now?"
-msgstr ""
+msgstr "Alors, c'est l'amitié, maintenant ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/34/s/0
 msgctxt "Choix"
 msgid "I'm really happy to hear that."
-msgstr ""
+msgstr "Ça me fait vraiment plaisir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "Is it not obvious?"
-msgstr ""
+msgstr "N'est-ce pas évident ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "As odd as it may sound..."
-msgstr ""
+msgstr "Aussi étrange que cela puisse paraître..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/0
 msgctxt "Rongomaiwhenua"
 msgid "Goddesses do not make friends easily."
-msgstr ""
+msgstr "Les déesses ne se font pas facilement des amis."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/8
 msgctxt "Rongomaiwhenua"
 msgid "But you may consider yourself a friend."
-msgstr ""
+msgstr "Mais tu peux te compter parmi mes amis."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/16
 msgctxt "Rongomaiwhenua"
 msgid "Do not misunderstand. This does not mean you are my peer."
-msgstr ""
+msgstr "Ne te méprends pas. Cela ne te place pas à mon niveau."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/24
 msgctxt "Rongomaiwhenua"
 msgid "But even a timeless goddess can enjoy the company of one such as yourself."
-msgstr ""
+msgstr "Mais même une déesse hors du temps peut apprécier la compagnie de quelqu'un comme toi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/32/s/0
 msgctxt "Choix"
 msgid "Wow... friends with a goddess."
-msgstr ""
+msgstr "Waouh... l'amitié d'une déesse."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/33/s/0
 msgctxt "Choix"
 msgid "Friends, but not peers. Noted."
-msgstr ""
+msgstr "L'amitié, mais pas l'égalité. Noté."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/34/s/0
 msgctxt "Choix"
 msgid "Whatever you say, lady."
-msgstr ""
+msgstr "Comme tu voudras, madame."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-0/c-5/7
 msgctxt "Rongomaiwhenua"
 msgid "That is what I have said, yes."
-msgstr ""
+msgstr "C'est bien ce que j'ai dit, oui."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-1/0 rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/63
 msgctxt "Rongomaiwhenua"
 msgid "Now that that is settled... you may go."
-msgstr ""
+msgstr "Maintenant que cela est réglé... tu peux partir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-1/8 rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/71
 msgctxt "Rongomaiwhenua"
 msgid "However."
-msgstr ""
+msgstr "Cependant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-1/16
 msgctxt "Rongomaiwhenua"
 msgid "Do return, and don't be long."
-msgstr ""
+msgstr "Reviens, et ne tarde pas."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_path/0/g-1/24
 msgctxt "Rongomaiwhenua"
 msgid "I would like to smile again."
-msgstr ""
+msgstr "J'aimerais sourire à nouveau."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/0
 msgctxt "Rongomaiwhenua"
 msgid "It has been quite some time since I felt a human was worth tolerating."
-msgstr ""
+msgstr "Il y a longtemps que je n'avais pas senti qu'un humain valait la peine d'être toléré."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/8
 msgctxt "Rongomaiwhenua"
 msgid "In an age where a goddess like myself is resigned to mere decoration at best..."
-msgstr ""
+msgstr "À une époque où une déesse telle que moi est réduite au rang de simple décoration, au mieux..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/16
 msgctxt "Rongomaiwhenua"
 msgid "You have given me the sort of respect I have not enjoyed in thousands of years."
-msgstr ""
+msgstr "Tu m'as témoigné le genre de respect dont je n'avais pas joui depuis des milliers d'années."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/24
 msgctxt "Rongomaiwhenua"
 msgid "It is your duty, yes, but you are among the few performing it."
-msgstr ""
+msgstr "C'est ton devoir, certes, mais tu es parmi les rares à l'accomplir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/32
 msgctxt "Rongomaiwhenua"
 msgid "This pleases me."
-msgstr ""
+msgstr "Cela me plaît."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/40
 msgctxt "Rongomaiwhenua"
 msgid "And when your goddess is pleased... so too may you be pleased."
-msgstr ""
+msgstr "Et quand ta déesse est comblée... il se peut que tu le sois aussi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/48
 msgctxt "Rongomaiwhenua"
 msgid "Would you like to experience infinity, human?"
-msgstr ""
+msgstr "Aimerais-tu connaître l'infini, {{humain|humaine|humain·e}} ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/56/s/0
 msgctxt "Choix"
 msgid "Are you saying what I think you're saying?"
-msgstr ""
+msgstr "Dis-tu ce que je crois que tu dis ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/57/s/0
 msgctxt "Choix"
 msgid "Can we just be friends?"
-msgstr ""
+msgstr "On ne peut pas s'en tenir à l'amitié ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/58/s/0
 msgctxt "Choix"
 msgid "Sign me up."
-msgstr ""
+msgstr "Où je signe ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "I will allow you the honor of pleasure at the hand of a goddess, yes."
-msgstr ""
+msgstr "Je t'accorderai l'honneur du plaisir de la main d'une déesse, oui."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Sounds good."
-msgstr ""
+msgstr "Ça marche."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Can we skip that part?"
-msgstr ""
+msgstr "On peut sauter cette partie ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "It is your choice, human."
-msgstr ""
+msgstr "C'est à toi de choisir, {{humain|humaine|humain·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/15
 msgctxt "Rongomaiwhenua"
 msgid "If you wish to refuse the gifts of a goddess it is your prerogative."
-msgstr ""
+msgstr "Si tu souhaites refuser les dons d'une déesse, c'est ton droit."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/23
 msgctxt "Rongomaiwhenua"
 msgid "Only know it is not offered lightly."
-msgstr ""
+msgstr "Sache seulement qu'ils ne sont pas offerts à la légère."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/31
 msgctxt "Rongomaiwhenua"
 msgid "Still, my fondness for you remains."
-msgstr ""
+msgstr "Malgré tout, mon affection pour toi demeure."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/39
 msgctxt "Rongomaiwhenua"
 msgid "For what little of your tiny mortal lifespan remains..."
-msgstr ""
+msgstr "Pour le peu qu'il reste de ta minuscule vie de mortel..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/47
 msgctxt "Rongomaiwhenua"
 msgid "You are welcome to spend it in my presence."
-msgstr ""
+msgstr "Tu es libre de le passer en ma présence."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/55
 msgctxt "Rongomaiwhenua"
 msgid "You may go now if you wish, but do return soon."
-msgstr ""
+msgstr "Tu peux partir si tu le souhaites, mais reviens vite."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-0/15/c-1/63
 msgctxt "Rongomaiwhenua"
 msgid "Your presence pleases me."
-msgstr ""
+msgstr "Ta présence me plaît."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "If that is what you prefer, fine."
-msgstr ""
+msgstr "Si c'est ce que tu préfères, soit."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/15
 msgctxt "Rongomaiwhenua"
 msgid "So be it, then."
-msgstr ""
+msgstr "Qu'il en soit ainsi, alors."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/23
 msgctxt "Rongomaiwhenua"
 msgid "From this point onward, I will consider you a friend."
-msgstr ""
+msgstr "À partir de maintenant, je t'accorde mon amitié."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/31
 msgctxt "Rongomaiwhenua"
 msgid "Not a peer, mind you—do not get that confused."
-msgstr ""
+msgstr "Mais tu n'es pas de mon rang, note bien : ne confonds pas."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/39
 msgctxt "Rongomaiwhenua"
 msgid "We are nowhere near equal."
-msgstr ""
+msgstr "Nous sommes loin d'être au même niveau."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/47
 msgctxt "Rongomaiwhenua"
 msgid "But you are a pleasant distraction."
-msgstr ""
+msgstr "Mais tu es une agréable distraction."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/55
 msgctxt "Rongomaiwhenua"
 msgid "So you may see me anytime you like."
-msgstr ""
+msgstr "Tu peux donc me voir quand bon te semble."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_path/0/c-1/79
 msgctxt "Rongomaiwhenua"
 msgid "Do return, and don't be too long."
-msgstr ""
+msgstr "Reviens, et ne tarde pas trop."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_infinity/4
 msgctxt "Narrator"
 msgid "Rongomaiwhenua holds her hand out to you, and when your soft human fingers intertwine with her glittering jeweled ones you are transported to an entirely new plane of sensation."
-msgstr ""
+msgstr "Rongomaiwhenua vous tend la main, et quand vos doigts humains et doux s'entrelacent avec les siens, scintillants et sertis de joyaux, un tout nouveau plan de sensations s'ouvre à vous."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_infinity/18
 msgctxt "Narrator"
 msgid "Your eyes roll back in your head as your body comes alive with pleasures too overwhelming for your mortal mind to comprehend."
-msgstr ""
+msgstr "Vos yeux se révulsent tandis que votre corps s'éveille à des plaisirs trop intenses pour que votre esprit mortel puisse les concevoir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_infinity/26
 msgctxt "Narrator"
 msgid "You are one with the planet... with Rongomaiwhenua."
-msgstr ""
+msgstr "Vous ne faites plus qu'un avec la planète... avec Rongomaiwhenua."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_infinity/31
 msgctxt "Narrator"
 msgid "You have glimpsed infinity... and incredibly, your mind has not shattered in the process."
-msgstr ""
+msgstr "Vous avez entrevu l'infini... et, incroyablement, votre esprit n'a pas volé en éclats."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_infinity/36
 msgctxt "Narrator"
 msgid "You are forever changed."
-msgstr ""
+msgstr "Plus rien ne sera jamais pareil pour vous."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongo_infinity/44
 msgctxt "Narrator"
 msgid "(Mostly by plus five points to your Smarts stat, but in other ways, too.)"
-msgstr ""
+msgstr "(Surtout par cinq points de plus dans votre statistique de Savoir, mais aussi à d'autres égards.)"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/0
 msgctxt "Rongomaiwhenua"
 msgid "I have watched human beings from a distance over years."
-msgstr ""
+msgstr "J'observe les êtres humains de loin depuis des années."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/8
 msgctxt "Rongomaiwhenua"
 msgid "I have observed many of the disgusting crimes and wrongs you have committed against each other and myself."
-msgstr ""
+msgstr "J'ai vu bien des crimes et des torts ignobles que vous avez commis les uns envers les autres, et envers moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/16
 msgctxt "Rongomaiwhenua"
 msgid "I have endured suffering your puny mortal mind could never imagine."
-msgstr ""
+msgstr "J'ai enduré des souffrances que ton esprit mortel et minuscule ne saurait imaginer."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/24
 msgctxt "Rongomaiwhenua"
 msgid "So listen well to what I have to say now."
-msgstr ""
+msgstr "Écoute donc bien ce que j'ai à te dire."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/32
 msgctxt "Rongomaiwhenua"
 msgid "You are the most loathsome human being I have ever encountered."
-msgstr ""
+msgstr "Tu es l'être humain le plus abject que j'aie jamais rencontré."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/43
 msgctxt "Rongomaiwhenua"
 msgid "I am billions of years old. Think of what that means."
-msgstr ""
+msgstr "J'ai des milliards d'années. Songe à ce que cela signifie."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/51
 msgctxt "Rongomaiwhenua"
 msgid "You are even less tolerable than murderers and polluters."
-msgstr ""
+msgstr "Tu es encore moins tolérable que les assassins et les pollueurs."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/59
 msgctxt "Rongomaiwhenua"
 msgid "I take solace in the knowledge that your death hastens."
-msgstr ""
+msgstr "Je me console en sachant que ta mort approche."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/67/s/0
 msgctxt "Choix"
 msgid "What are you talking about?"
-msgstr ""
+msgstr "De quoi parles-tu ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/68/s/0
 msgctxt "Choix"
 msgid "That's pretty harsh."
-msgstr ""
+msgstr "C'est plutôt dur."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/69/s/0
 msgctxt "Choix"
 msgid "I'm gonna put you back in storage."
-msgstr ""
+msgstr "Je vais te remettre au garde-meuble."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "You are human."
-msgstr ""
+msgstr "Tu es un être humain."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/c-0/15
 msgctxt "Rongomaiwhenua"
 msgid "Your lifespan is but the blink of an eye to an eternal being like myself."
-msgstr ""
+msgstr "Ta vie n'est qu'un battement de cils pour un être éternel comme moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/c-0/23
 msgctxt "Rongomaiwhenua"
 msgid "When you have taken your last breath I will smile."
-msgstr ""
+msgstr "Quand tu auras rendu ton dernier souffle, je sourirai."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "It is nothing but the truth."
-msgstr ""
+msgstr "Ce n'est que la vérité."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/c-2/7
 msgctxt "Rongomaiwhenua"
 msgid "You haven't the bravery for such a thing."
-msgstr ""
+msgstr "Tu n'en as pas le courage."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/c-2/15
 msgctxt "Rongomaiwhenua"
 msgid "And it makes no difference to me."
-msgstr ""
+msgstr "Et cela ne change rien pour moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/g-0/0
 msgctxt "Rongomaiwhenua"
 msgid "I have been here long before you and will be here long after you are gone."
-msgstr ""
+msgstr "J'étais là bien avant toi et je serai là bien après ton départ."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/g-0/8
 msgctxt "Rongomaiwhenua"
 msgid "You could have had a goddess's blessing... and instead you will have her ire."
-msgstr ""
+msgstr "Tu aurais pu avoir la bénédiction d'une déesse... et tu auras à la place son courroux."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/g-0/16 rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/c-1/31
 msgctxt "Rongomaiwhenua"
 msgid "Leave now."
-msgstr ""
+msgstr "Pars, maintenant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_path/0/g-0/24
 msgctxt "Rongomaiwhenua"
 msgid "And do not ever approach me again."
-msgstr ""
+msgstr "Et ne t'approche plus jamais de moi."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_joiner/34
 msgctxt "Reggie"
 msgid "She's so high and mighty thinking that everything's made from rocks."
-msgstr ""
+msgstr "Elle se la pète trop, à croire que tout est fait de cailloux."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_joiner/42
 msgctxt "Reggie"
 msgid "But I ain't. I'm made out of venom."
-msgstr ""
+msgstr "Mais pas moi. Moi, ma matière, c'est le venin."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_joiner/50
 msgctxt "Reggie"
 msgid "And maybe a little gold. Just for the costume."
-msgstr ""
+msgstr "Et peut-être un peu d'or. Juste pour le costume."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/8
 msgctxt "Rongomaiwhenua"
 msgid "Have you come to entertain me, human?"
-msgstr ""
+msgstr "Es-tu venu me divertir, {{humain|humaine|humain·e}} ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/16/s/0
 msgctxt "Choix"
 msgid "Just wanted to say hi."
-msgstr ""
+msgstr "Je voulais juste dire bonjour."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/17/s/0 rongomaiwhenua_geode/rongomaiwhenua_love_return/0/18/s/0
 msgctxt "Choix"
 msgid "I'm ready to Realize you, Rongomaiwhenua."
-msgstr ""
+msgstr "Je suis {{prêt|prête|prêt·e}} à te Réaliser, Rongomaiwhenua."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "Hello."
-msgstr ""
+msgstr "Bonjour."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/c-0/15
 msgctxt "Rongomaiwhenua"
 msgid "Well then... you may go."
-msgstr ""
+msgstr "Eh bien... tu peux disposer."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/c-0/23
 msgctxt "Rongomaiwhenua"
 msgid "Do return again."
-msgstr ""
+msgstr "Reviens bientôt."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_friend_return/0/c-0/31
 msgctxt "Narrator"
 msgid "This is indeed what friendship is with Rongomaiwhenua."
-msgstr ""
+msgstr "Voilà bien ce qu'est l'amitié avec Rongomaiwhenua."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/0
 msgctxt "Rongomaiwhenua"
 msgid "Hello, most favored of humans."
-msgstr ""
+msgstr "Bonjour, toi que je distingue entre tous les humains."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/8
 msgctxt "Rongomaiwhenua"
 msgid "Are you here to experience the infinite?"
-msgstr ""
+msgstr "Viens-tu faire l'expérience de l'infini ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/16/s/0
 msgctxt "Choix"
 msgid "Not this time."
-msgstr ""
+msgstr "Pas cette fois."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/17/s/0
 msgctxt "Choix"
 msgid "Yes please."
-msgstr ""
+msgstr "Oui, s'il te plaît."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/c-0/7
 msgctxt "Narrator"
 msgid "She does not seem to care."
-msgstr ""
+msgstr "Elle n'a pas l'air de s'en soucier."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "Take my hand then."
-msgstr ""
+msgstr "Prends ma main, alors."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/c-1/15
 msgctxt "Narrator"
 msgid "Rongomaiwhenua's brand of love is truly like nothing else you've ever felt."
-msgstr ""
+msgstr "L'amour selon Rongomaiwhenua ne ressemble vraiment à rien de ce que vous avez déjà ressenti."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_return/0/c-1/26
 msgctxt "Narrator"
 msgid "She grants you a mind-blowing experience that leaves your body trembling and your mind completely blank."
-msgstr ""
+msgstr "Elle vous offre une expérience époustouflante qui laisse votre corps tremblant et votre esprit complètement vide."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/0
 msgctxt "Rongomaiwhenua"
 msgid "Why are you here?"
-msgstr ""
+msgstr "Pourquoi es-tu ici ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/8/s/0
 msgctxt "Choix"
 msgid "I wanted to say hi!"
-msgstr ""
+msgstr "Je voulais dire bonjour !"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/9/s/0
 msgctxt "Choix"
 msgid "Please, O Goddess... allow me the honor of your worship. (USE SMARTS CANDY)"
-msgstr ""
+msgstr "Je t'en prie, ô déesse... accorde-moi l'honneur de t'adorer. (UTILISER UN BONBON DE SAVOIR)"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "I have forbidden you from speaking to me."
-msgstr ""
+msgstr "Je t'ai interdit de me parler."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/c-1/7
 msgctxt "Rongomaiwhenua"
 msgid "Oh... well."
-msgstr ""
+msgstr "Oh... eh bien."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/c-1/15
 msgctxt "Rongomaiwhenua"
 msgid "Perhaps you have not forgotten the old ways entirely."
-msgstr ""
+msgstr "Peut-être n'as-tu pas tout à fait oublié les anciennes coutumes."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/c-1/23
 msgctxt "Rongomaiwhenua"
 msgid "Very well, human. You may be allowed in my presence."
-msgstr ""
+msgstr "Très bien, {{humain|humaine|humain·e}}. Tu peux être admis en ma présence."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_hate_return/0/c-1/39
 msgctxt "Rongomaiwhenua"
 msgid "But do return later."
-msgstr ""
+msgstr "Mais reviens plus tard."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_join/0/0
 msgctxt "Rongomaiwhenua"
 msgid "Truly?"
-msgstr ""
+msgstr "Vraiment ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_join/0/17/s/0
 msgctxt "Choix"
 msgid "Yes, I have what it takes."
-msgstr ""
+msgstr "Oui, j'ai ce qu'il faut."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_join/0/18/s/0
 msgctxt "Choix"
 msgid "No, not just yet."
-msgstr ""
+msgstr "Non, pas tout de suite."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_join/0/c-1/10
 msgctxt "Rongomaiwhenua"
 msgid "I may be infinite, but my patience is not."
-msgstr ""
+msgstr "Je suis peut-être infinie, mais ma patience ne l'est pas."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_join/0/c-1/18
 msgctxt "Rongomaiwhenua"
 msgid "Return when you are ready."
-msgstr ""
+msgstr "Reviens quand tu seras {{prêt|prête|prêt·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_return/0/0
 msgctxt "Rongomaiwhenua"
 msgid "Are you now ready?"
-msgstr ""
+msgstr "Es-tu {{prêt|prête|prêt·e}} à présent ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_return/0/17/s/0
 msgctxt "Choix"
 msgid "Yes, I'm ready now."
-msgstr ""
+msgstr "Oui, je suis {{prêt|prête|prêt·e}} maintenant."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_return/0/18/s/0
 msgctxt "Choix"
 msgid "No, sorry."
-msgstr ""
+msgstr "Non, pardon."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_return/0/c-1/10
 msgctxt "Rongomaiwhenua"
 msgid "Away with you then and do not return until you are ready."
-msgstr ""
+msgstr "Hors de ma vue, alors, et ne reviens pas avant d'être {{prêt|prête|prêt·e}}."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_begin/6/b/1
 msgctxt "Skylar"
 msgid "The honor of being Realized goes first to Rongomaiwhenua."
-msgstr ""
+msgstr "Le privilège d'être Réalisée revient d'abord à Rongomaiwhenua."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_begin/9
 msgctxt "Skylar"
 msgid "I hope she doesn't feel this is a downgrade!"
-msgstr ""
+msgstr "J'espère qu'elle ne le prendra pas pour une rétrogradation !"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realize_begin/20
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once an earth goddess becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui était jadis une déesse de la terre devient...."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/3
 msgctxt "Rongomaiwhenua"
 msgid "Oh... I feel so... finite."
-msgstr ""
+msgstr "Oh... je me sens si... finie."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/14
 msgctxt "Rongomaiwhenua"
 msgid "So small."
-msgstr ""
+msgstr "Si petite."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/22
 msgctxt "Rongomaiwhenua"
 msgid "Is this how you've always felt, human?"
-msgstr ""
+msgstr "Est-ce ainsi que tu t'es toujours sentie, {{humain|humaine|humain·e}} ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/30
 msgctxt "Rongomaiwhenua"
 msgid "No... I should call you by your name."
-msgstr ""
+msgstr "Non... je devrais t'appeler par ton nom."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/38
 msgctxt "Rongomaiwhenua"
 msgid "I am human now too..."
-msgstr ""
+msgstr "Je suis humaine, moi aussi, à présent..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/46/s/0
 msgctxt "Choix"
 msgid "It's not all bad being finite."
-msgstr ""
+msgstr "Être fini, ce n'est pas si terrible."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/47/s/0
 msgctxt "Choix"
 msgid "We might be small but we can still touch infinity..."
-msgstr ""
+msgstr "Nous sommes peut-être petits, mais nous pouvons encore toucher l'infini..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/c-0/7
 msgctxt "Rongomaiwhenua"
 msgid "I shall have to take your word for it."
-msgstr ""
+msgstr "Je devrai te croire sur parole."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/c-0/15
 msgctxt "Rongomaiwhenua"
 msgid "I suppose there must be some benefit to being human..."
-msgstr ""
+msgstr "Je suppose qu'il doit bien y avoir un avantage à être humaine..."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/c-0/23
 msgctxt "Rongomaiwhenua"
 msgid "I will go now and see what there is to see."
-msgstr ""
+msgstr "Je vais partir maintenant et voir ce qu'il y a à voir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/c-0/31
 msgctxt "Rongomaiwhenua"
 msgid "I shall experience all the things humanity has to offer."
-msgstr ""
+msgstr "Je ferai l'expérience de tout ce que l'humanité a à offrir."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/c-0/39
 msgctxt "Rongomaiwhenua"
 msgid "If I do not get this small, weak body killed perhaps I will return someday."
-msgstr ""
+msgstr "Si je ne fais pas tuer ce petit corps faible, peut-être reviendrai-je un jour."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_realized/0/c-0/47
 msgctxt "Rongomaiwhenua"
 msgid "Farewell."
-msgstr ""
+msgstr "Adieu."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_divert/0
 msgctxt "Rongomaiwhenua"
 msgid "Oh?"
-msgstr ""
+msgstr "Oh ?"
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_divert/8
 msgctxt "Rongomaiwhenua"
 msgid "Show me then."
-msgstr ""
+msgstr "Montre-moi, alors."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_divert/16
 msgctxt "Narrator"
 msgid "Rongomaiwhenua may no longer be an eternal goddess, but her touch is just as divine as it always was."
-msgstr ""
+msgstr "Rongomaiwhenua n'est peut-être plus une déesse éternelle, mais son toucher est toujours aussi divin."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_divert/27
 msgctxt "Narrator"
 msgid "She asks you to show her the pleasures of humanity, but her goddess energy remains; you find yourself inclined only to worship at her feet."
-msgstr ""
+msgstr "Elle vous demande de lui montrer les plaisirs de l'humanité, mais son énergie de déesse demeure : la seule envie qui vous vienne est de l'adorer à ses pieds."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_divert/35
 msgctxt "Narrator"
 msgid "Afterwards, Rongomaiwhenua is surprisingly sweet and gentle—she thanks you for the experience in an uncharacteristically humble way."
-msgstr ""
+msgstr "Ensuite, Rongomaiwhenua se montre étonnamment douce et gentille : elle vous remercie pour l'expérience avec une humilité qui ne lui ressemble guère."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_divert/43
 msgctxt "Narrator"
 msgid "As you watch her walk out the door you can't help but wonder what she'll make of the human experience."
-msgstr ""
+msgstr "Alors que vous la regardez franchir la porte, vous ne pouvez vous empêcher de vous demander ce qu'elle pensera de l'expérience humaine."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_join/0
 msgctxt "Narrator"
 msgid "One might have expected Rongomaiwhenua to hold herself at a distance from humanity, but she embraces these new opportunities to the fullest."
-msgstr ""
+msgstr "On aurait pu s'attendre à ce que Rongomaiwhenua garde ses distances avec l'humanité, mais elle saisit ces nouvelles occasions à pleines mains."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_join/8
 msgctxt "Narrator"
 msgid "She finds she enjoys the dirtiest, messiest experiences—anything involving dirt and mud is a clear draw."
-msgstr ""
+msgstr "Elle découvre qu'elle adore les expériences les plus sales et les plus salissantes : tout ce qui touche à la terre et à la boue l'attire clairement."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_join/16
 msgctxt "Narrator"
 msgid "Rongomaiwhenua finds her true calling when she visits a dairy farm. Feeding animals and tending to them is joyful enough, but her first taste of ice cream is absolutely transcendent."
-msgstr ""
+msgstr "Rongomaiwhenua trouve sa véritable vocation en visitant une ferme laitière. Nourrir les animaux et s'en occuper est déjà un plaisir, mais sa première glace est absolument transcendante."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_join/24
 msgctxt "Narrator"
 msgid "She struggles a bit with taking orders, but working with the animals and enjoying a free ice cream cone with each shift eases the burden."
-msgstr ""
+msgstr "Elle a un peu de mal à recevoir des ordres, mais travailler avec les animaux et profiter d'un cornet de glace gratuit à chaque service allège le fardeau."
 
+# Traduction IA – à relire
 #: rongomaiwhenua_geode/rongomaiwhenua_love_join/32
 msgctxt "Narrator"
 msgid "She sends you photos of herself, completely stone-faced, bottle feeding calves and milking cows. She hasn't quite gotten the hang of smiling, but you believe in her."
-msgstr ""
+msgstr "Elle vous envoie des photos d'elle, le visage de pierre, en train de donner le biberon à des veaux et de traire des vaches. Elle n'a pas encore tout à fait pris le pli du sourire, mais vous croyez en elle."

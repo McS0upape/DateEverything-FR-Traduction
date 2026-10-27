@@ -22,10 +22,13 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : féminin (déesse de la terre, géode)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (avec hauteur, comme on tutoie un ver de terre)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, solennel, phrases courtes et sentencieuses, aucune familiarité ; ne comprend pas l'argot ni les expressions humaines (« geode grandma », « get a grip »). Après la Réalisation : plus douce, humble, curieuse.
+- **Personnalité, manière de parler** : déesse arrogante, éternelle, méprisante envers les « mortels », mais amusée par le joueur ou la joueuse. Appelle le joueur « human » : rendu par « {{humain|humaine|humain·e}} » (ou « mortel » / reformulation épicène). Insulte : « ver de terre » (worm).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Je suis. » (existence pure) ; « Poursuis. » ; « Tu peux disposer. » ; « Reviens, et ne tarde pas. » ; « Je vois que tu tentes de m'adorer à ta manière. »
+- **Exemples de répliques traduites (référence de ton)** :
+  - « Your years are less than a few moments to me. » → « Tes années ne sont que quelques instants pour moi. »
+  - « I do not 'care' about what you do. » → « Je ne me « soucie » pas de ce que tu fais. »
+  - « Away with you then and do not return until you are ready. » → « Hors de ma vue, alors, et ne reviens que lorsque tu seras prêt. » (reformulé en épicène)
