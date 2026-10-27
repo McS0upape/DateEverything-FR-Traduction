@@ -212,3 +212,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 ## telly_tv
 - Valdiviflix, Viewlu, Panini Hut : invariables.
 - « TV and chill » → « Netflix and chill ».
+
+## connie_console
+- Stratospire (fém.) ; xeno-goggles → xéno-lunettes ; Upholder → Gardien (de classe …) ; state-a-dex → Statu-Dex ; Kryzny Box → Boîte Kryzny ; Lingonberries → Airelles.
