@@ -204,3 +204,11 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## shadow_darkness
 - Penumbra → pénombre ; Shadowlord → Seigneur des Ombres ; Great Cataclysm → Grand Cataclysme ; The Hanged Man → Le Pendu
+
+## benhwa_sextoys
+- Ben-hwa : « darling » → « mon coeur », « honey / sweetie » → « mon chou ».
+- « Safe Unsafe Sex » → « Sexe Risqué Sans Risque ».
+
+## telly_tv
+- Valdiviflix, Viewlu, Panini Hut : invariables.
+- « TV and chill » → « Netflix and chill ».
