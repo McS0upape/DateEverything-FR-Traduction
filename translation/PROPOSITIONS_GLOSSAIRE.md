@@ -224,3 +224,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## penelope_stationery
 - Office Romance Magazine → Romance de Bureau Magazine ; LARPing → GN ; faux auteurs de citations invariables (Marker Twain, Arispotle…).
+
+## shelley_shelf
+- Swolebrarian → Bibliobaraque ; drywall → placo ; studs → montants ; anchors → chevilles.
