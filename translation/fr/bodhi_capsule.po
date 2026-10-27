@@ -276,7 +276,7 @@ msgstr "Attends, je croyais que tu étais une capsule temporelle."
 #: bodhi_capsule/bodhi_freed/0/40/s/0
 msgctxt "Choix"
 msgid "I'm confused. How can you be an entire decade? You're a tube of old junk."
-msgstr "Je suis perdu. Comment peux-tu être une décennie entière ? Tu es un tube de vieilleries."
+msgstr "Je suis {{perdu|perdue|perdu·e}}. Comment peux-tu être une décennie entière ? Tu es un tube de vieilleries."
 
 # Traduction IA – à relire
 #: bodhi_capsule/bodhi_freed/0/c-0/7

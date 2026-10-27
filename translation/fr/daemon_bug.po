@@ -270,7 +270,7 @@ msgstr "Quoi de neuf, Daemon ?"
 #: daemon_bug/daemon_outside_return/0/20/s/0 daemon_bug/daemon_friend_return/0/31/s/0 daemon_bug/daemon_love_return/0/34/s/0
 msgctxt "Choix"
 msgid "I'm ready to Realize you."
-msgstr "Je suis prêt à te Réaliser."
+msgstr "Je suis {{prêt|prête|prêt·e}} à te Réaliser."
 
 # Traduction IA – à relire
 #: daemon_bug/daemon_outside_return/0/21/s/0 daemon_bug/daemon_hate_return/0/50/s/0 daemon_bug/daemon_friend_return/0/30/s/0 daemon_bug/daemon_love_return/0/33/s/0 daemon_bug/daemon_null_return/0/33/s/0
@@ -2685,7 +2685,7 @@ msgstr "Une déception, mais à quoi d'autre m'attendre."
 #: daemon_bug/daemonrealization/0/110/s/0
 msgctxt "Choix"
 msgid "I'm happy for you."
-msgstr "Je suis content pour toi."
+msgstr "Je suis {{content|contente|content·e}} pour toi."
 
 # Traduction IA – à relire
 #: daemon_bug/daemonrealization/0/111/s/0

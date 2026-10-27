@@ -900,7 +900,7 @@ msgstr "Dans ta face, pauvre naze !"
 #: parker_boardgames/player_wins_beach/0/9/s/0 parker_boardgames/player_wins_beach_swimsuit/0/23/s/0
 msgctxt "Choix"
 msgid "I'm so happy!"
-msgstr "Je suis trop content{{|e|·e}} !"
+msgstr "Je suis trop {{content|contente|content·e}} !"
 
 # Traduction IA – à relire
 #: parker_boardgames/player_wins_beach/0/10/s/0 parker_boardgames/player_wins_beach_swimsuit/0/24/s/0
@@ -3534,7 +3534,7 @@ msgstr "Même si tu es {{un|une|un·e}} sale putain de tricheu{{r|se|r·se}}... 
 #: parker_boardgames/plove/0/53/s/0
 msgctxt "Choix"
 msgid "I'm so happy we rolled to be lovers!"
-msgstr "Je suis tellement content{{|e|·e}} que les dés nous aient faits amants !"
+msgstr "Je suis tellement {{content|contente|content·e}} que les dés nous aient faits amants !"
 
 # Traduction IA – à relire
 #: parker_boardgames/plove/0/54/s/0
@@ -3744,7 +3744,7 @@ msgstr "Jouons à quelques jeux, Parker !"
 #: parker_boardgames/parker_love_return/0/20/s/0 parker_boardgames/parker_friend_return/0/23/s/0
 msgctxt "Choix"
 msgid "I'm ready to Realize you, Parker."
-msgstr "Je suis prêt{{|e|·e}} à te Réaliser, Parker."
+msgstr "Je suis {{prêt|prête|prêt·e}} à te Réaliser, Parker."
 
 # Traduction IA – à relire
 #: parker_boardgames/parker_love_return/0/c-0/7

@@ -1542,7 +1542,7 @@ msgstr "Bon, pardon ! C'est un peu bizarre de faire une pause comme ça."
 #: chairemi_chair/chairemi_3rdPlayGreenlight/0/55/s/0
 msgctxt "Choix"
 msgid "It's not weird. I'm glad you told me."
-msgstr "C'est pas bizarre. Je suis content{{|e|·e}} que tu me l'aies dit."
+msgstr "C'est pas bizarre. Je suis {{content|contente|content·e}} que tu me l'aies dit."
 
 # Traduction IA – à relire
 #: chairemi_chair/chairemi_3rdPlayGreenlight/0/56/s/0
@@ -1830,7 +1830,7 @@ msgstr "Oh... mon Dieu, mon Dieu, Détective. Avez-vous des nouvelles de mon mar
 #: chairemi_chair/saturday_play/0/144/s/0
 msgctxt "Choix"
 msgid "Sorry, ma'am. No news so far."
-msgstr "Désolé{{|e|·e}}, madame. Aucune nouvelle pour l'instant."
+msgstr "{{Désolé|Désolée|Désolé·e}}, madame. Aucune nouvelle pour l'instant."
 
 # Traduction IA – à relire
 #: chairemi_chair/saturday_play/0/145/s/0

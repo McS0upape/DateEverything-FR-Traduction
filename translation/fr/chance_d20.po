@@ -2892,7 +2892,7 @@ msgstr "Qu'est-ce qui se passe ?"
 #: chance_d20/Troub_indoor_fight_a/0/c-1/48/1/s/0
 msgctxt "Choix"
 msgid "Okay, now I'm confused."
-msgstr "Ok, là, je suis perdu{{|e|·e}}."
+msgstr "Ok, là, je suis {{perdu|perdue|perdu·e}}."
 
 # Traduction IA – à relire
 #: chance_d20/Troub_indoor_fight_a/0/g-0/0
@@ -7038,7 +7038,7 @@ msgstr "Ça te dérange si je le fais ?"
 #: chance_d20/Guardian_part8/0/g-2/20/s/0
 msgctxt "Choix"
 msgid "If you wrote it, I'm sure it's awesome."
-msgstr "Si c'est toi qui l'as écrit, je suis sûr{{|e|·e}} que c'est génial."
+msgstr "Si c'est toi qui l'as écrit, je suis {{sûr|sûre|sûr·e}} que c'est génial."
 
 # Traduction IA – à relire
 #: chance_d20/Guardian_part8/0/g-2/21/s/0

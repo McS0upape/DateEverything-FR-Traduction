@@ -780,7 +780,7 @@ msgstr "Aucune idée."
 #: johnny_shower/johnny_encounter1/0/g-9/54/s/0
 msgctxt "Choix"
 msgid "I'm almost certain it's 24 hours."
-msgstr "Je suis quasi sûr que c'est 24 heures."
+msgstr "Je suis quasi {{sûr|sûre|sûr·e}} que c'est 24 heures."
 
 # Traduction IA – à relire
 #: johnny_shower/johnny_encounter1/0/g-9/c-30/7
@@ -1398,7 +1398,7 @@ msgstr "T'es pas dans la grosse production de disques, au moins ?"
 #: johnny_shower/encounter_2_johnny/0/24/s/0
 msgctxt "Choix"
 msgid "Sorry, all the records I produce are very small-time, artisanal batches."
-msgstr "Désolé, tous les disques que je produis sont des petites séries artisanales."
+msgstr "{{Désolé|Désolée|Désolé·e}}, tous les disques que je produis sont des petites séries artisanales."
 
 # Traduction IA – à relire
 #: johnny_shower/encounter_2_johnny/0/25/s/0

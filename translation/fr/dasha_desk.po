@@ -846,7 +846,7 @@ msgstr "Laisse Dasha t'aider !"
 #: dasha_desk/dasha_introduction/0/g-1/0/s/0
 msgctxt "Choix"
 msgid "I'm not sure about this."
-msgstr "Je suis pas sûr{{|e|·e}} de ça."
+msgstr "Je suis pas {{sûr|sûre|sûr·e}} de ça."
 
 # Traduction IA – à relire
 #: dasha_desk/dasha_introduction/0/g-1/1/s/0
@@ -1680,7 +1680,7 @@ msgstr "Personne me dit ce que je dois faire."
 #: dasha_desk/dasha_encounter_1/0/c-0/23/c-2/36/c-2/21/c-2/24/2/s/0
 msgctxt "Choix"
 msgid "I'm sorry Dasha, I was just joking."
-msgstr "Désolé{{|e|·e}}, Dasha, je plaisantais."
+msgstr "{{Désolé|Désolée|Désolé·e}}, Dasha, je plaisantais."
 
 # Traduction IA – à relire
 #: dasha_desk/dasha_encounter_1/0/c-0/23/c-2/36/c-2/21/c-2/24/c-0/7
@@ -1956,7 +1956,7 @@ msgstr "C'est quoi, un xyй ?"
 #: dasha_desk/dasha_angry_return/0/8/17/s/0
 msgctxt "Choix"
 msgid "I'm sorry, let's have some fun, Dasha."
-msgstr "Désolé{{|e|·e}}, amusons-nous, Dasha."
+msgstr "{{Désolé|Désolée|Désolé·e}}, amusons-nous, Dasha."
 
 # Traduction IA – à relire
 #: dasha_desk/dasha_angry_return/0/8/18/s/0

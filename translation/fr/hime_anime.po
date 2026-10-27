@@ -216,7 +216,7 @@ msgstr "Mais n'oublie pas, ces séries sont pour <i>tout le monde</i> !"
 #: hime_anime/Hero_Meet/0/c-0/45/g-0/0/0/s/0
 msgctxt "Choix"
 msgid "I'm kinda surprised that you <i>know</i> that you're from a show..."
-msgstr "Je suis un peu surpris que tu <i>saches</i> que tu viens d'une série..."
+msgstr "Je suis un peu {{surpris|surprise|surpris·e}} que tu <i>saches</i> que tu viens d'une série..."
 
 # Traduction IA – à relire
 #: hime_anime/Hero_Meet/0/c-0/45/g-0/0/1/s/0
@@ -402,7 +402,7 @@ msgstr "Laisse tomber."
 #: hime_anime/Hero_Meet/0/c-2/45/1/s/0
 msgctxt "Choix"
 msgid "I'm confused."
-msgstr "Je suis perdu."
+msgstr "Je suis {{perdu|perdue|perdu·e}}."
 
 # Traduction IA – à relire
 #: hime_anime/Hero_Meet/0/c-2/45/c-0/7 hime_anime/Hero_Meet/0/c-2/45/c-1/7

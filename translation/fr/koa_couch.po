@@ -906,7 +906,7 @@ msgstr "J'ai hâte de passer un moment tranquille ensemble."
 #: koa_couch/Koa_3/0/g-0/10/s/0
 msgctxt "Choix"
 msgid "I just know you're sitting on a juicy secret... spill it."
-msgstr "Je suis sûr que tu caches un secret croustillant... crache le morceau."
+msgstr "Je suis {{sûr|sûre|sûr·e}} que tu caches un secret croustillant... crache le morceau."
 
 # Traduction IA – à relire
 #: koa_couch/Koa_3/0/g-0/c-4/7
@@ -1122,7 +1122,7 @@ msgstr "Qu'est devenue la bague !?"
 #: koa_couch/koa_talk_3/0/g-0/58/s/0
 msgctxt "Choix"
 msgid "I'm so sorry to hear that..."
-msgstr "Je suis vraiment désolé d'entendre ça..."
+msgstr "Je suis vraiment {{désolé|désolée|désolé·e}} d'entendre ça..."
 
 # Traduction IA – à relire
 #: koa_couch/koa_talk_3/0/g-1/0

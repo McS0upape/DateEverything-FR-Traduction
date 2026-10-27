@@ -2226,7 +2226,7 @@ msgstr "Mais pourquoi un globe ?"
 #: beau_box/mystery_of_rongomaiwhenua_one/0/g-5/105/s/0
 msgctxt "Choix"
 msgid "I'm glad you're here, Gaia."
-msgstr "Je suis content que tu sois là, Gaia."
+msgstr "Je suis {{content|contente|content·e}} que tu sois là, Gaia."
 
 # Traduction IA – à relire
 #: beau_box/mystery_of_rongomaiwhenua_one/0/g-5/c-13/7
@@ -5238,7 +5238,7 @@ msgstr "Je pense que tu devrais faire les deux, Beau. Tu l'as mérité !"
 #: beau_box/post_quest_no_quest/0/c-0/31/c-0/15/c-1/47/1/s/0
 msgctxt "Choix"
 msgid "I'm so glad you had a good time."
-msgstr "Je suis ravi que tu aies passé un bon moment."
+msgstr "Je suis {{ravi|ravie|ravi·e}} que tu aies passé un bon moment."
 
 # Traduction IA – à relire
 #: beau_box/post_quest_no_quest/0/c-0/31/c-0/15/c-1/47/g-0/0
@@ -5262,7 +5262,7 @@ msgstr "Hein. Je ne peux pas dire que je comprenne ça..."
 #: beau_box/post_quest_no_quest/0/c-0/31/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Listen, I'm glad you had fun and all but I gotta go."
-msgstr "Écoute, je suis content que tu t'sois amusée et tout, mais je dois y aller."
+msgstr "Écoute, je suis {{content|contente|content·e}} que tu t'sois amusée et tout, mais je dois y aller."
 
 # Traduction IA – à relire
 #: beau_box/post_quest_no_quest/0/c-0/31/c-1/15/c-0/7
@@ -5670,7 +5670,7 @@ msgstr "Un peu fatigué, mais globalement, génial."
 #: beau_box/beau_ending_love/0/10/s/0
 msgctxt "Choix"
 msgid "I left, but glad to see that you made it out in one piece."
-msgstr "Je suis parti, mais content de voir que tu t'en es sortie en un seul morceau."
+msgstr "Je suis {{parti|partie|parti·e}}, mais {{content|contente|content·e}} de voir que tu t'en es sortie en un seul morceau."
 
 # Traduction IA – à relire
 #: beau_box/beau_ending_love/0/g-0/0

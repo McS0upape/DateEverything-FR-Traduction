@@ -2178,7 +2178,7 @@ msgstr "Je ne voulais même pas être ici, au départ !"
 #: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/1/s/0
 msgctxt "Choix"
 msgid "I'm sorry, Daisuke... I meant it to be encouraging."
-msgstr "Désolé, Daisuke... Je voulais t'encourager."
+msgstr "{{Désolé|Désolée|Désolé·e}}, Daisuke... Je voulais t'encourager."
 
 # Traduction IA – à relire
 #: daisuke_dishes/daisuke_ceramics_talk/0/g-0/c-3/40/c-0/7
@@ -2658,7 +2658,7 @@ msgstr "En quoi ça me regarde ?"
 #: daisuke_dishes/daisuke_coffee_date/0/g-0/25/s/0 daisuke_dishes/daisuke_ceramics_date/0/g-0/28/s/0 daisuke_dishes/daisuke_poetry_date/0/g-0/28/s/0
 msgctxt "Choix"
 msgid "I'm so happy to hear that."
-msgstr "Je suis si content de l'entendre."
+msgstr "Je suis si {{content|contente|content·e}} de l'entendre."
 
 # Traduction IA – à relire
 #: daisuke_dishes/daisuke_coffee_date/0/g-0/26/s/0 daisuke_dishes/daisuke_ceramics_date/0/g-0/29/s/0 daisuke_dishes/daisuke_poetry_date/0/g-0/29/s/0
@@ -4674,7 +4674,7 @@ msgstr "Je ne pars pas parce que tu me l'as dit, juste pour que tu saches."
 #: daisuke_dishes/daisuke_hate_poem/0/g-0/50/s/0
 msgctxt "Choix"
 msgid "I'm sorry Daisuke..."
-msgstr "Désolé, Daisuke..."
+msgstr "{{Désolé|Désolée|Désolé·e}}, Daisuke..."
 
 # Traduction IA – à relire
 #: daisuke_dishes/daisuke_hate_poem/0/g-1/0
@@ -4692,7 +4692,7 @@ msgstr "Comme toujours, vous trouvez Daisuke debout en silence, profondément co
 #: daisuke_dishes/daisuke_love_end/0/9/s/0
 msgctxt "Choix"
 msgid "I'm always happy to see you."
-msgstr "Je suis toujours content de te voir."
+msgstr "Je suis toujours {{content|contente|content·e}} de te voir."
 
 # Traduction IA – à relire
 #: daisuke_dishes/daisuke_love_end/0/10/s/0
@@ -4968,7 +4968,7 @@ msgstr "Je ne puis imaginer que vous ne soyez pas dans ma vie d'une façon ou d'
 #: daisuke_dishes/daisuke_love_end/0/g-1/c-8/31/0/s/0
 msgctxt "Choix"
 msgid "I'm so glad."
-msgstr "J'en suis si content."
+msgstr "J'en suis si {{content|contente|content·e}}."
 
 # Traduction IA – à relire
 #: daisuke_dishes/daisuke_love_end/0/g-1/c-8/31/c-0/7

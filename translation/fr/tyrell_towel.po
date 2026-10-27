@@ -564,7 +564,7 @@ msgstr "Tu es mignon quand tu es jaloux !"
 #: tyrell_towel/tyrell_bathsheba/0/33/s/0
 msgctxt "Choix"
 msgid "Jealous so quickly! I'm not sure I like that."
-msgstr "Jaloux aussi vite ! Je ne suis pas sûr que ça me plaise."
+msgstr "Jaloux aussi vite ! Je ne suis pas {{sûr|sûre|sûr·e}} que ça me plaise."
 
 # Traduction IA – à relire
 #: tyrell_towel/tyrell_bathsheba/0/c-0/7
@@ -2010,7 +2010,7 @@ msgstr "C'est gentil de passer quand c'est creux. Désolé que mon étagère ne 
 #: tyrell_towel/tyrell_bedroom/0/42/s/0
 msgctxt "Choix"
 msgid "I'm surprised you don't have more guests."
-msgstr "Je suis surpris que tu n'aies pas plus d'invités."
+msgstr "Je suis {{surpris|surprise|surpris·e}} que tu n'aies pas plus d'invités."
 
 # Traduction IA – à relire
 #: tyrell_towel/tyrell_bedroom/0/43/s/0
@@ -3000,7 +3000,7 @@ msgstr "Cette étincelle ?"
 #: tyrell_towel/touch_test/0/23/s/0
 msgctxt "Choix"
 msgid "Something, but I'm not sure..."
-msgstr "Quelque chose, mais je ne suis pas sûr..."
+msgstr "Quelque chose, mais je ne suis pas {{sûr|sûre|sûr·e}}..."
 
 # Traduction IA – à relire
 #: tyrell_towel/touch_test/0/c-0/7
@@ -3144,7 +3144,7 @@ msgstr "Après tout ça, tu veux toujours faire le même travail ?"
 #: tyrell_towel/touch_test/0/g-2/1/s/0
 msgctxt "Choix"
 msgid "I'm surprised you still love what you do."
-msgstr "Je suis surpris que tu aimes toujours ce que tu fais."
+msgstr "Je suis {{surpris|surprise|surpris·e}} que tu aimes toujours ce que tu fais."
 
 # Traduction IA – à relire
 #: tyrell_towel/touch_test/0/g-2/c-7/7

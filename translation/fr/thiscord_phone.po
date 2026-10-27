@@ -1838,7 +1838,7 @@ msgstr "Mes calculs montraient que c'était une possibilité, mais je ne pensais
 #: thiscord_phone/tfh_9/0/g-0/c-2/34/0/s/0 thiscord_phone/tfh_9/0/g-0/c-3/68/0/s/0
 msgctxt "Choix"
 msgid "Sorry for the bad news."
-msgstr "Désolé{{|e|·e}} pour la mauvaise nouvelle."
+msgstr "{{Désolé|Désolée|Désolé·e}} pour la mauvaise nouvelle."
 
 # Traduction IA – à relire
 #: thiscord_phone/tfh_9/0/g-0/c-2/34/1/s/0 thiscord_phone/tfh_9/0/g-0/c-3/68/1/s/0
@@ -1850,7 +1850,7 @@ msgstr "On peut parler un peu plus des gluons de réanimation ? Genre, c'est quo
 #: thiscord_phone/tfh_9/0/g-0/c-2/34/c-0/7 thiscord_phone/tfh_9/0/g-0/c-3/68/c-0/7
 msgctxt "Player"
 msgid "Sorry for the bad news."
-msgstr "Désolé{{|e|·e}} pour la mauvaise nouvelle."
+msgstr "{{Désolé|Désolée|Désolé·e}} pour la mauvaise nouvelle."
 
 # Traduction IA – à relire
 #: thiscord_phone/tfh_9/0/g-0/c-2/34/c-1/7 thiscord_phone/tfh_9/0/g-0/c-3/68/c-1/7
@@ -3766,7 +3766,7 @@ msgstr "et tu me dégoûtes."
 #: thiscord_phone/tfh_hate/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "Sorry not sorry."
-msgstr "Désolé{{|e|·e}}, pas désolé{{|e|·e}}."
+msgstr "{{Désolé|Désolée|Désolé·e}}, pas {{désolé|désolée|désolé·e}}."
 
 # Traduction IA – à relire
 #: thiscord_phone/tfh_hate/0/g-0/26/s/0
@@ -3778,7 +3778,7 @@ msgstr "Non, c'est pas ma faute, je te jure !"
 #: thiscord_phone/tfh_hate/0/g-0/c-2/7
 msgctxt "Player"
 msgid "Sorry not sorry."
-msgstr "Désolé{{|e|·e}}, pas désolé{{|e|·e}}."
+msgstr "{{Désolé|Désolée|Désolé·e}}, pas {{désolé|désolée|désolé·e}}."
 
 # Traduction IA – à relire
 #: thiscord_phone/tfh_hate/0/g-0/c-2/9

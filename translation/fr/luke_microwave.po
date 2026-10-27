@@ -954,7 +954,7 @@ msgstr "Pardon... tu te <i>moques de moi,</i> Ranger ?"
 #: luke_microwave/luke_intro/0/g-4/c-16/86/c-2/24/0/s/0
 msgctxt "Choix"
 msgid "Sorry, Sir. No, Sir."
-msgstr "Désolé, chef. Non, chef."
+msgstr "{{Désolé|Désolée|Désolé·e}}, chef. Non, chef."
 
 # Traduction IA – à relire
 #: luke_microwave/luke_intro/0/g-4/c-16/86/c-2/24/1/s/0
@@ -3168,7 +3168,7 @@ msgstr "Il fallait que je te voie."
 #: luke_microwave/luke_fourth_encounter/0/24/s/0
 msgctxt "Choix"
 msgid "I think I’m lost. Is this DFW airport?"
-msgstr "Je crois que je suis perdu. C'est bien l'aéroport DFW ?"
+msgstr "Je crois que je suis {{perdu|perdue|perdu·e}}. C'est bien l'aéroport DFW ?"
 
 # Traduction IA – à relire
 #: luke_microwave/luke_fourth_encounter/0/c-0/11

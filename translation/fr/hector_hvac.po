@@ -624,7 +624,7 @@ msgstr "Euh, non. Pas vraiment."
 #: hector_hvac/hector_second_grate_join/0/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "No, I do. I change your filters, and I'm grateful when it's too cold out that I have heat."
-msgstr "Si, si. Je change tes filtres, et quand il fait trop froid dehors, je suis content d'avoir du chauffage."
+msgstr "Si, si. Je change tes filtres, et quand il fait trop froid dehors, je suis {{content|contente|content·e}} d'avoir du chauffage."
 
 # Traduction IA – à relire
 #: hector_hvac/hector_second_grate_join/0/c-0/23/c-0/7

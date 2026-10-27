@@ -840,7 +840,7 @@ msgstr "Le tien, c'est de réveiller le connard qui sommeille en chacun ?"
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "I'm sure you have more skills than just being sarcastic."
-msgstr "Je suis sûr{{|e|·e}} que tu as d'autres talents que le sarcasme."
+msgstr "Je suis {{sûr|sûre|sûr·e}} que tu as d'autres talents que le sarcasme."
 
 # Traduction IA – à relire
 #: cam_trashcan/second_encounter/0/g-0/c-4/15/c-0/15/2/s/0
@@ -978,7 +978,7 @@ msgstr "Salut."
 #: cam_trashcan/cam_greet_3/0/31/s/0
 msgctxt "Choix"
 msgid "Sorry about before."
-msgstr "Désolé{{|e|·e}} pour tout à l'heure."
+msgstr "{{Désolé|Désolée|Désolé·e}} pour tout à l'heure."
 
 # Traduction IA – à relire
 #: cam_trashcan/cam_greet_3/0/c-0/7
@@ -2364,7 +2364,7 @@ msgstr "Tu as sans doute raison. On pourrait le faire ensemble !"
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Um... I don't know that you're one to talk about upping the level."
-msgstr "Euh... je ne suis pas sûr{{|e|·e}} que tu sois le mieux placé pour parler de relever le niveau."
+msgstr "Euh... je ne suis pas {{sûr|sûre|sûr·e}} que tu sois le mieux placé pour parler de relever le niveau."
 
 # Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-0/15/c-0/7
@@ -2610,7 +2610,7 @@ msgstr "Oh, non, c'est bon. Je m'en sers un peu comme sous-verre. Il y a une dr�
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "I'm pretty sure there's a dead spider on the underside of it."
-msgstr "Je suis presque sûr{{|e|·e}} qu'il y a une araignée morte en dessous."
+msgstr "Je suis presque {{sûr|sûre|sûr·e}} qu'il y a une araignée morte en dessous."
 
 # Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-1/19/c-0/15/c-2/15/c-0/15/c-0/23/g-0/0 cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-1/15/g-0/16/g-0/8/c-1/23/c-1/15/c-0/31/g-0/8/c-0/23
@@ -3378,7 +3378,7 @@ msgstr "Ouais, ça a l'air cool."
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-0/15/c-0/23/1/s/0
 msgctxt "Choix"
 msgid "Sorry I don't recall specific balls of lint like you can..."
-msgstr "Désolé{{|e|·e}}, je ne me souviens pas des boules de peluche une par une comme toi..."
+msgstr "{{Désolé|Désolée|Désolé·e}}, je ne me souviens pas des boules de peluche une par une comme toi..."
 
 # Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-0/15/c-0/23/g-0/0
@@ -3738,7 +3738,7 @@ msgstr "Mais j'ai pu me servir d'un autre ongle comme aiguille pour me faire des
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-1/15/g-0/16/g-0/8/c-1/23/c-1/15/c-0/31/0/s/0
 msgctxt "Choix"
 msgid "Sorry about that..."
-msgstr "Désolé{{|e|·e}} pour ça..."
+msgstr "{{Désolé|Désolée|Désolé·e}} pour ça..."
 
 # Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-1/15/g-0/16/g-0/8/c-1/23/c-1/15/c-0/31/1/s/0
@@ -4428,7 +4428,7 @@ msgstr "Peut-être. Mais se faire de nouveaux amis, c'est un peu chiant."
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-2/23/c-1/15/g-0/8/c-1/15/c-1/23/1/s/0
 msgctxt "Choix"
 msgid "Eh, they're ok. I'm sure I'm not a prize all the time either."
-msgstr "Bah, ils sont pas si mal. Je suis sûr{{|e|·e}} que je ne suis pas un cadeau non plus, tout le temps."
+msgstr "Bah, ils sont pas si mal. Je suis {{sûr|sûre|sûr·e}} que je ne suis pas un cadeau non plus, tout le temps."
 
 # Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-2/19/c-2/23/c-1/15/g-0/8/c-1/15/c-1/23/c-0/7
@@ -5766,7 +5766,7 @@ msgstr "Ou même un seul grain. Un grain de raisin. Juste pour rire."
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-3/19/c-0/15/0/c-2/31/c-0/15/c-1/23/c-2/47/0/s/0
 msgctxt "Choix"
 msgid "I don't know that you're one to talk about cleaning up your life."
-msgstr "Je ne suis pas sûr{{|e|·e}} que tu sois bien placé pour parler de remettre de l'ordre dans sa vie."
+msgstr "Je ne suis pas {{sûr|sûre|sûr·e}} que tu sois bien placé pour parler de remettre de l'ordre dans sa vie."
 
 # Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-3/19/c-0/15/0/c-2/31/c-0/15/c-1/23/c-2/47/c-0/7
@@ -5940,7 +5940,7 @@ msgstr "Je vois pas trop en quoi ça te concerne."
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-3/19/c-0/15/0/c-2/31/c-1/23/g-0/24/c-0/31/g-0/32/c-0/15/g-0/16/0/s/0
 msgctxt "Choix"
 msgid "Hurtful. Not sure if I want to spend time with you now."
-msgstr "Blessant. Je ne suis plus sûr{{|e|·e}} d'avoir envie de passer du temps avec toi."
+msgstr "Blessant. Je ne suis plus {{sûr|sûre|sûr·e}} d'avoir envie de passer du temps avec toi."
 
 # Traduction IA – à relire
 #: cam_trashcan/stuff_menu_for_cam/0/c-1/15/c-3/19/c-0/15/0/c-2/31/c-1/23/g-0/24/c-0/31/g-0/32/c-0/15/g-0/16/1/s/0
@@ -6828,7 +6828,7 @@ msgstr "Eh bien, tu fais la banane."
 #: cam_trashcan/chemistry/0/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "Sorry. But I try to be honest."
-msgstr "Désolé{{|e|·e}}. Mais j'essaie d'être honnête."
+msgstr "{{Désolé|Désolée|Désolé·e}}. Mais j'essaie d'être honnête."
 
 # Traduction IA – à relire
 #: cam_trashcan/chemistry/0/c-2/15/g-0/0
