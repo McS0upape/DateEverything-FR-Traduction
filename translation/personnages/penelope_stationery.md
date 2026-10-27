@@ -26,10 +26,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, enthousiaste, survolté
+- **Personnalité, manière de parler** : employée de bureau en pleine renaissance, désespérément célibataire, positivité forcée qui craque, cris en MAJUSCULES, rires « HAHAHA ». Cite chaque jour sa citation motivationnelle (auteurs célèbres au nom déformé en jeu de mots : Stephen Stovey, Marker Twain, Arispotle...).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Oh mon dieu », « Okay, cool cool cool » ; Office Romance Magazine ; noms d'auteurs de citations déformés (équivalents français : Marker Twain -> Marc Twain... à garder proches).
+- **Exemples de répliques traduites (référence de ton)** : « Oh mon dieu... tu peux me voir ! » ; « PAS DE NÉGATIVITÉ AUTORISÉE ! » ; « Okay, cool cool cool cool, cool. Je peux faire ça. »

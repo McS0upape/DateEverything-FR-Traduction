@@ -221,3 +221,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## mikey_micro
 - Brundles : invariable ; Money → Argent ; pull → tirer ; drop rates → taux de drop ; Delayed Variable Rewards → Récompenses Variables Différées.
+
+## penelope_stationery
+- Office Romance Magazine → Romance de Bureau Magazine ; LARPing → GN ; faux auteurs de citations invariables (Marker Twain, Arispotle…).
