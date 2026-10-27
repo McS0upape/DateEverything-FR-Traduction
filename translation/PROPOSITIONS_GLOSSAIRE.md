@@ -236,3 +236,9 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## wallace_wall
 - Wall → Mur ; Cracked → Fissuré ; stud → Montant ; Defender → Défenseur ; Cry → Cri.
+
+## lux_lamp
+- Luxies, Fans Only, Instaglam, MeTube, MyFace, Twiddler, GasLight, PüpWater, Roe Blowgun : invariables ; Living Light Lounge → Lounge de la Lumière Vivante ; dimmy → demi-watt ; INFLUNCER → INFLUANSEUR ; NPC → PNJ.
+
+## monique_money (passe JDM)
+- Le testament « Will » devient « Tess » (Tess... tament) — DateADex mis à jour.

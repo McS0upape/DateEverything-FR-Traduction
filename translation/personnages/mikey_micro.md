@@ -32,5 +32,5 @@
 - **Le joueur ou la joueuse lui parle avec** : tu
 - **Registre** : familier, vendeur survolté, faussement poli ; quand il joue le Marchand de Brundles, accent gouailleur de titi parisien (« J'suis », « 'jour », « moi ») à la place du cockney.
 - **Personnalité, manière de parler** : positivité commerciale à toute épreuve, éclate de joie, se vexe sous la politesse ; surnoms épicènes (« bébé », « pote de tirage »).
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « baby » -> « bébé » ; « Mikey likey / no likey » -> « Mikey kiffe / kiffe pas » ; « Pulling Pal » -> « Pote de tirage » ; « pull » -> « tirer » ; Money (majuscule, monnaie) -> « Argent » ; « Thank » (au lieu de Thanks) -> « Mercie ».
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « baby » -> « bébé » ; « Mikey likey / no likey » -> « Mikey kiffe / kiffe pas » ; « Pulling Pal » -> « Pote de tirage » ; « pull » -> « tirer » ; Money (majuscule, monnaie) -> « Argent » ; « Thank » (au lieu de Thanks) -> « Merki ».
 - **Exemples de répliques traduites (référence de ton)** : « Salut toi ! Moi c'est Michael Transaction ! » / « Mais tu peux m'appeler... Mikey ! » / « Tu pourrais bien craquer pour moi, bébé ! » (voir le .po)

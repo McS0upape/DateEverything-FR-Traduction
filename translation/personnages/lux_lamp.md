@@ -25,10 +25,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : iel (pronom « they » en VO) ; Lux évite les accords sur soi-même (reformulations épicènes)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : très familier, argot d'influenceur·se (« genre », « trop », « de ouf », « omg », « srx », « obvi »), vulgarité légère
+- **Personnalité, manière de parler** : vaniteux, narcissique, superficiel, désinvolte ; s'adresse à tout le monde comme à son public ; abréviations de réseaux sociaux
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Byeee » (Baiii), « genre », « omg », « obvi » ; INFLUNCER -> INFLUANSEUR (mal écrit) ; NPC -> PNJ (« Plafonnier Non Jouable ») ; le Scandélabre ; « conditions générales d'hystérie » ; Luxies, Fans Only, instaglam inchangés
+- **Exemples de répliques traduites (référence de ton)** : « Wtf. » -> « Wtf. » ; « Hayyyy betches. » -> « Coucouuu les pétasses. » ; « Ew. Fail. » -> « Beurk. Raté. »
