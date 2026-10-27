@@ -28,10 +28,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : elle
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (mais froidement, avec des tournures formelles et soutenues)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, administratif, pince-sans-rire ; pas de contractions familières. Phrases courtes et sèches.
+- **Personnalité, manière de parler** : comptable anxieuse, très prévoyante, froide en façade, timide en réalité (mal à l'aise avec la conversation légère). Se dégèle peu à peu.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Dûment noté. » (Duly noted), « Je suis de l'argent. L'argent parle. », jeux sur dépenser / épargner / valeur / coffre (Sophia = le coffre-fort), « Au revoir. » sec.
+- **Exemples de répliques traduites (référence de ton)** : « Ce serait imprudent. » / « Veuillez ne pas m'adresser la parole, sauf urgence financière. » (adapté en tutoiement : « Évite de m'adresser la parole sauf besoin urgent d'accéder à tes fonds d'urgence. ») / « Dûment noté. »
