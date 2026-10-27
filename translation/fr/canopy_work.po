@@ -30,13 +30,13 @@ msgstr "Quel est le problème ?"
 #: canopy_work/canopy_sewingmachine/0/27/s/0 canopy_work/canopy_sewingmachine/0/c-0/14/c-1/24/1/s/0 canopy_work/canopy_sewingmachine/0/c-2/14/c-0/14/c-0/14/1/s/0
 msgctxt "Choix"
 msgid "Sorry, let me give you a refund."
-msgstr "Désolé, laissez-moi vous rembourser."
+msgstr "Toutes mes excuses, laissez-moi vous rembourser."
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/28/s/0
 msgctxt "Choix"
 msgid "Sew what"
-msgstr "Un point, c'est tout"
+msgstr "Je m'en couds"
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/29/s/0
@@ -60,7 +60,7 @@ msgstr "Oh, j'en sais rien. Elle a arrêté de coudre il y a deux ans environ"
 #: canopy_work/canopy_sewingmachine/0/c-0/14/0/s/0 canopy_work/canopy_couch/0/26/0/s/0 canopy_work/canopy_bobbook/0/26/0/s/0
 msgctxt "Choix"
 msgid "I'm sorry to hear that."
-msgstr "Je suis désolé de l'apprendre."
+msgstr "Ça me désole de l'apprendre."
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/c-0/14/1/s/0
@@ -72,7 +72,7 @@ msgstr "Ça sent l'arnaque."
 #: canopy_work/canopy_sewingmachine/0/c-0/14/c-0/7 canopy_work/canopy_couch/0/26/c-0/7 canopy_work/canopy_bobbook/0/26/c-0/7
 msgctxt "Player"
 msgid "I'm sorry to hear that."
-msgstr "Je suis désolé de l'apprendre."
+msgstr "Ça me désole de l'apprendre."
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/c-0/14/c-0/9
@@ -150,7 +150,7 @@ msgstr "Il le peut, mais si tout le monde arnaquait, je serais au chômage"
 #: canopy_work/canopy_sewingmachine/0/c-0/14/c-1/24/c-1/7 canopy_work/canopy_sewingmachine/0/c-1/7 canopy_work/canopy_sewingmachine/0/c-2/14/c-0/14/c-0/14/c-1/7
 msgctxt "Player"
 msgid "Sorry, let me give you a refund."
-msgstr "Désolé, laissez-moi vous rembourser."
+msgstr "Toutes mes excuses, laissez-moi vous rembourser."
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/c-0/14/c-1/24/c-1/9 canopy_work/canopy_sewingmachine/0/c-1/9 canopy_work/canopy_sewingmachine/0/c-2/14/c-0/14/c-0/14/c-1/9
@@ -228,7 +228,7 @@ msgstr "Voici un bon avis ... salut"
 #: canopy_work/canopy_sewingmachine/0/c-2/7
 msgctxt "Player"
 msgid "Sew what"
-msgstr "Un point, c'est tout"
+msgstr "Je m'en couds"
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/c-2/9
@@ -240,13 +240,13 @@ msgstr "Euh, quoi ?"
 #: canopy_work/canopy_sewingmachine/0/c-2/14/0/s/0
 msgctxt "Choix"
 msgid "Sew what is a joke I made up"
-msgstr "« Un point, c'est tout » est une blague que j'ai inventée"
+msgstr "« Je m'en couds » est une blague que j'ai inventée"
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/c-2/14/c-0/7
 msgctxt "Player"
 msgid "Sew what is a joke I made up"
-msgstr "« Un point, c'est tout » est une blague que j'ai inventée"
+msgstr "« Je m'en couds » est une blague que j'ai inventée"
 
 # Traduction IA – à relire
 #: canopy_work/canopy_sewingmachine/0/c-2/14/c-0/9
@@ -882,13 +882,13 @@ msgstr "Voulez-vous sortir avec moi ?"
 #: canopy_work/canopy_bobbook/0/26/c-0/9
 msgctxt "Customer"
 msgid "Damn right you're sorry."
-msgstr "Vous avez intérêt à vous excuser, oui."
+msgstr "{{Désolé|Désolée|Désolé·e}}, vous pouvez l'être."
 
 # Traduction IA – à relire
 #: canopy_work/canopy_bobbook/0/26/c-0/14
 msgctxt "Customer"
 msgid "Sorry looking."
-msgstr "Et vous faites pitié à voir."
+msgstr "Et {{désolant|désolante|désolant·e}}, surtout."
 
 # Traduction IA – à relire
 #: canopy_work/canopy_bobbook/0/26/c-0/19/1/s/0

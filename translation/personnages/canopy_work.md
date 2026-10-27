@@ -25,5 +25,5 @@
 - **Le joueur ou la joueuse lui parle avec** : vous (ton pro), sauf drague maladroite
 - **Registre** : clients râleurs, familiers (SMS) ou très guindés (Emmanuel, M. Cobrum)
 - **Personnalité, manière de parler** : mini-jeu de service client ; Emmanuel solennel et menaçant
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Sew what » -> « Un point, c'est tout » ; « Passez une heureuse journée, vous et votre âme »
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Sew what » -> « Je m'en couds » ; « Passez une heureuse journée, vous et votre âme »
 - **Exemples de répliques traduites (référence de ton)** : « Ça sent l'arnaque. » ; « Remboursement refusé. » ; « Il en est qui croient pouvoir se jouer d'Emmanuel. »
