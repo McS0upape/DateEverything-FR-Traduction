@@ -22,10 +22,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : Clarence = il ; Dirk = il (même personnage, version sale) ; Reggie = il
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie (Clarence et Dirk)
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier. Clarence : maniaque de la propreté, snob, théâtral, jure volontiers, très sûr de son sex-appeal. Dirk : décontracté, blasé, taquin.
+- **Personnalité, manière de parler** : Clarence est la version propre de Dirk (le linge lavé), en couple avec son dakimakura Bat-man (« Bats »). Il flirte, propose un plan à trois (« trouple ») puis se vexe si on refuse. Dirk adore se salir.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : jeux sur sale/propre/linge (« salir », « linge sale ») ; « Bats » / « Bat-man » ; « dakimakura » gardé tel quel ; « Dirk » ~ dirt.
+- **Exemples de répliques traduites (référence de ton)** : « C'est quoi, cette tête ? C'est comme ça que tu accueilles tout le monde ? » ; « Je suis PROPRE, moi. » ; « Tu sors avec les <i>putains</i> de fringues et l'oreiller. »

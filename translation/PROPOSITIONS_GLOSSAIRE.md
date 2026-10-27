@@ -245,3 +245,9 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## koa_couch
 - alone together → seuls ensemble ; couch culture → culture canapé.
+
+## canopy_work
+- Cobrum invariable ; Distractor → Distracteur ; Valdivian invariable (entreprise).
+
+## clarence_clothes
+- Bat-man / Bats / dakimakura invariables ; throuple → trouple ; Closets By Clarence → Dressings by Clarence.

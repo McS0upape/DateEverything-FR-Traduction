@@ -20,10 +20,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
-- **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Genre grammatical du personnage** : sans objet (clients anonymes ; Emmanuel est un homme)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : vouvoiement (service client), dans les deux sens
+- **Le joueur ou la joueuse lui parle avec** : vous (ton pro), sauf drague maladroite
+- **Registre** : clients râleurs, familiers (SMS) ou très guindés (Emmanuel, M. Cobrum)
+- **Personnalité, manière de parler** : mini-jeu de service client ; Emmanuel solennel et menaçant
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « Sew what » -> « Un point, c'est tout » ; « Passez une heureuse journée, vous et votre âme »
+- **Exemples de répliques traduites (référence de ton)** : « Ça sent l'arnaque. » ; « Remboursement refusé. » ; « Il en est qui croient pouvoir se jouer d'Emmanuel. »
