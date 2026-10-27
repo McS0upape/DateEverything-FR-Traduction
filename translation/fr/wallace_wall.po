@@ -8,1272 +8,1526 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+# Traduction IA – à relire
 #: wallace_wall/1
 msgctxt "Tag Nom d'objet (MAJUSCULES)"
 msgid "WALL"
-msgstr ""
+msgstr "MUR"
 
+# Traduction IA – à relire
 #: wallace_wall/WallaceQuestion/0/12
 msgctxt "Maggie"
 msgid "All right Wallace... have you heard anything about a counterfeit item in the house?"
-msgstr ""
+msgstr "Bon, Wallace... as-tu entendu parler d'un objet contrefait dans la maison ?"
 
+# Traduction IA – à relire
 #: wallace_wall/WallaceQuestion/0/28
 msgctxt "Wallace"
 msgid "WALL!"
-msgstr ""
+msgstr "MUR !"
 
+# Traduction IA – à relire
 #: wallace_wall/WallaceQuestion/0/36
 msgctxt "Maggie"
 msgid "Thank you, Wallace. You can go."
-msgstr ""
+msgstr "Merci, Wallace. Tu peux disposer."
 
+# Traduction IA – à relire
 #: wallace_wall/WallaceQuestion/0/50/s/0
 msgctxt "Choix"
 msgid "I should have known."
-msgstr ""
+msgstr "J'aurais dû m'en douter."
 
+# Traduction IA – à relire
 #: wallace_wall/WallaceQuestion/0/c-0/7
 msgctxt "Maggie"
 msgid "It was worth a try!"
-msgstr ""
+msgstr "Ça valait le coup d'essayer !"
 
+# Traduction IA – à relire
 #: wallace_wall/WallaceQuestion/0/c-0/15
 msgctxt "Maggie"
 msgid "Back to it then."
-msgstr ""
+msgstr "Retour au travail, alors."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/0
 msgctxt "Wallace"
 msgid "Hello, warrior companion!"
-msgstr ""
+msgstr "Salutations, compagnon d'armes !"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/8
 msgctxt "Maggie"
 msgid "Oh! He speaks!"
-msgstr ""
+msgstr "Oh ! Il parle !"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/24/s/0
 msgctxt "Choix"
 msgid "Don't worry, Wallace, she's a good one."
-msgstr ""
+msgstr "Ne t'inquiète pas, Wallace, elle est de confiance."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/25/s/0
 msgctxt "Choix"
 msgid "Maggie... would you mind leaving us here?"
-msgstr ""
+msgstr "Maggie... ça te dérangerait de nous laisser ici ?"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/c-0/7
 msgctxt "Wallace"
 msgid "Very well."
-msgstr ""
+msgstr "Très bien."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/c-1/7
 msgctxt "Maggie"
 msgid "Sure... have fun you two..."
-msgstr ""
+msgstr "Bien sûr... amusez-vous bien, vous deux..."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/0/s/0
 msgctxt "Choix"
 msgid "Have you heard anything about a counterfeit item in the house?"
-msgstr ""
+msgstr "As-tu entendu parler d'un objet contrefait dans la maison ?"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/7
 msgctxt "Wallace"
 msgid "A few days ago, while I was making my rounds in the exercise room..."
-msgstr ""
+msgstr "Il y a quelques jours, pendant ma ronde dans la salle d'entraînement..."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/15
 msgctxt "Wallace"
 msgid "I overheard someone say that the silverware is not what it seems to be - that it is actually fake silver!"
-msgstr ""
+msgstr "J'ai entendu quelqu'un dire que l'argenterie n'est pas ce qu'elle prétend être, qu'il s'agit en réalité de faux argent !"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "The exercise room, huh?"
-msgstr ""
+msgstr "La salle d'entraînement, hein ?"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/7
 msgctxt "Wallace"
 msgid "That's right!"
-msgstr ""
+msgstr "Exactement !"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/15
 msgctxt "Wallace"
 msgid "The crucible in which we temper the steel of our indomitable strength and fortitude."
-msgstr ""
+msgstr "Le creuset où nous trempons l'acier de notre force et de notre fermeté indomptables."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/26
 msgctxt "Wallace"
 msgid "The rumor has penetrated even this sanctum of our discipline."
-msgstr ""
+msgstr "La rumeur a pénétré jusqu'à ce sanctuaire de notre discipline."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/34/0/s/0
 msgctxt "Choix"
 msgid "Do you recall who it was specifically?"
-msgstr ""
+msgstr "Tu te souviens de qui c'était, précisément ?"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/34/c-0/7
 msgctxt "Wallace"
 msgid "As a matter of fact I do."
-msgstr ""
+msgstr "En fait, oui."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/34/c-0/15
 msgctxt "Wallace"
 msgid "It was Stepford. I don't believe he meant any harm by it, though."
-msgstr ""
+msgstr "C'était Stepford. Je ne crois pas qu'il ait voulu faire du mal, cependant."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/34/c-0/29
 msgctxt "Wallace"
 msgid "If I were to hazard a guess, he most likely heard it from someone else and was simply repeating it."
-msgstr ""
+msgstr "Si je devais hasarder une hypothèse, il l'a sans doute entendu de quelqu'un d'autre et l'a simplement répété."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/34/c-0/37
 msgctxt "Wallace"
 msgid "He has no discipline, that boy."
-msgstr ""
+msgstr "Il n'a aucune discipline, ce garçon."
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/34/c-0/45/b/1
 msgctxt "Maggie"
 msgid "Thanks, Wallace. You've really helped us out!"
-msgstr ""
+msgstr "Merci, Wallace. Tu nous as vraiment aidés !"
 
+# Traduction IA – à relire
 #: wallace_wall/SpecialWallaceQuestion/0/g-0/c-2/23/c-0/34/c-0/48
 msgctxt "Wallace"
 msgid "We must support our comrades when they require our aid."
-msgstr ""
+msgstr "Nous devons soutenir nos camarades quand ils requièrent notre aide."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/3
 msgctxt "Narrator"
 msgid "How does one even describe a warrior like this? A veritable, well, <i>wall</i> of muscle stands before you. It's almost comforting to know the walls of your house are <i>this</i> solid."
-msgstr ""
+msgstr "Comment décrire un guerrier pareil ? Un véritable, eh bien, <i>mur</i> de muscles se dresse devant vous. C'est presque réconfortant de savoir que les murs de votre maison sont <i>aussi</i> solides."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/11 wallace_wall/wall_intro/0/c-1/15/g-0/0 wallace_wall/wallace_love_return/0/0 wallace_wall/wallace_love_return/0/8 wallace_wall/wallace_love_return/0/c-2/24/b/1 wallace_wall/wallace_love_return/0/c-2/25/b/1 wallace_wall/wallace_love_return/0/c-2/26/b/1 wallace_wall/wallace_love_return/0/c-2/27/b/1 wallace_wall/wallace_love_return/0/c-2/28/b/1 wallace_wall/wallace_love_return/0/c-2/29/b/1 wallace_wall/wallace_realized_wall/0/wallacejoin2/49
 msgctxt "Wallace"
 msgid "Wall."
-msgstr ""
+msgstr "Mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/19
 msgctxt "Wallace"
 msgid "Wall. Wall."
-msgstr ""
+msgstr "Mur. Mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/30
 msgctxt "Wallace"
 msgid "Wall. Wall. Wall!"
-msgstr ""
+msgstr "Mur. Mur. Mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/44/s/0
 msgctxt "Choix"
 msgid "Hello!"
-msgstr ""
+msgstr "Salut !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/45/s/0 wallace_wall/hate_path/0/59/s/0
 msgctxt "Choix"
 msgid "What?"
-msgstr ""
+msgstr "Quoi ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/46/s/0 wallace_wall/wall_true_love_return/0/8/s/0 wallace_wall/wall_true_friend_return/0/9/s/0
 msgctxt "Choix"
 msgid "Wall!"
-msgstr ""
+msgstr "Mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/47/s/0
 msgctxt "Choix"
 msgid "What the literal fuck."
-msgstr ""
+msgstr "C'est quoi ce putain de bordel."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-0/7 wallace_wall/wallace_realize_begin/33 wallace_wall/wallace_realize_begin_wall/22 wallace_wall/wallace_realized_wall/0/0 wallace_wall/wallace_realized_wall/0/wallacejoin2/36
 msgctxt "Wallace"
 msgid "Wall!"
-msgstr ""
+msgstr "Mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "How are you?"
-msgstr ""
+msgstr "Comment vas-tu ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-0/18/c-0/7 wallace_wall/wallace_realize_wall_join/0/c-1/18
 msgctxt "Wallace"
 msgid "Wall wall wall!"
-msgstr ""
+msgstr "Mur mur mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-0/18/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Are you just repeating what I'm saying but with 'wall'?"
-msgstr ""
+msgstr "Tu répètes juste ce que je dis, mais avec « mur » ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-1/7
 msgctxt "Wallace"
 msgid "Wall...."
-msgstr ""
+msgstr "Mur...."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "Okay... sure."
-msgstr ""
+msgstr "D'accord... si tu le dis."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-1/15/1/s/0
 msgctxt "Choix"
 msgid "This makes perfect sense."
-msgstr ""
+msgstr "Tout ça est parfaitement logique."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-1/15/2/s/0
 msgctxt "Choix"
 msgid "This one? I hate this."
-msgstr ""
+msgstr "Celui-là ? Je déteste ça."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-1/15/g-0/8
 msgctxt "Wallace"
 msgid "Wall wall."
-msgstr ""
+msgstr "Mur mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/7
 msgctxt "Narrator"
 msgid "The warrior's eyes widen. He leans in closer, towering over you."
-msgstr ""
+msgstr "Les yeux du guerrier s'écarquillent. Il se penche vers vous, vous dominant de toute sa hauteur."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/15
 msgctxt "Wallace"
 msgid "... wall?"
-msgstr ""
+msgstr "... mur ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/26/0/s/0
 msgctxt "Choix"
 msgid "Wall... wall!"
-msgstr ""
+msgstr "Mur... mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/26/1/s/0
 msgctxt "Choix"
 msgid "Wall wall wall!"
-msgstr ""
+msgstr "Mur mur mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/26/c-0/7
 msgctxt "Narrator"
 msgid "Whatever you're saying here is clearly pleasing to him. He nods, beginning to smile."
-msgstr ""
+msgstr "Ce que vous dites lui plaît visiblement. Il hoche la tête et commence à sourire."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/26/c-0/15
 msgctxt "Wallace"
 msgid "Wall. Wall!"
-msgstr ""
+msgstr "Mur. Mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/26/c-1/7
 msgctxt "Narrator"
 msgid "He throws his head back in a belly laugh that echoes through the house."
-msgstr ""
+msgstr "Il renverse la tête en arrière dans un éclat de rire qui résonne dans toute la maison."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/c-2/26/c-1/15
 msgctxt "Wallace"
 msgid "Ha ha ha wall!"
-msgstr ""
+msgstr "Ha ha ha mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/g-0/0
 msgctxt "Narrator"
 msgid "He beams at you, a flush spreading across his cheeks."
-msgstr ""
+msgstr "Il vous adresse un sourire radieux, le rouge aux joues."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/g-0/8
 msgctxt "Wallace"
 msgid "I LOVE YOU!"
-msgstr ""
+msgstr "JE T'AIME !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/g-0/19
 msgctxt "Wallace"
 msgid "WALL!!!!"
-msgstr ""
+msgstr "MUR !!!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/g-0/42
 msgctxt "Narrator"
 msgid "He... oh. That was sudden, wasn't it?"
-msgstr ""
+msgstr "Il... oh. C'était soudain, non ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/g-0/50
 msgctxt "Narrator"
 msgid "Ahem. You and Wallace, who has only just introduced himself to you, are now lovers. His gaze settles on you, filled with tenderness."
-msgstr ""
+msgstr "Hum. Vous et Wallace, qui vient à peine de se présenter, êtes désormais amants. Son regard se pose sur vous, plein de tendresse."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/g-0/58
 msgctxt "Narrator"
 msgid "His drywall heart beats only for you. You live happily ever after."
-msgstr ""
+msgstr "Son coeur de placo ne bat que pour vous. Vous vivez heureux pour toujours."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_intro/0/g-0/66
 msgctxt "Narrator"
 msgid "Yes, just that quickly."
-msgstr ""
+msgstr "Oui, aussi vite que ça."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/16/s/0
 msgctxt "Choix"
 msgid "Sure. Yes. Of course. Love it."
-msgstr ""
+msgstr "Bien sûr. Oui. Évidemment. J'adore."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/17/s/0
 msgctxt "Choix"
 msgid "No. I don't like this."
-msgstr ""
+msgstr "Non. Ça ne me plaît pas."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/18/s/0
 msgctxt "Choix"
 msgid "WALLLLL!"
-msgstr ""
+msgstr "MUUUUUR !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/19/s/0
 msgctxt "Choix"
 msgid "Wall."
-msgstr ""
+msgstr "Mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/20/s/0
 msgctxt "Choix"
 msgid "I'm ready to Realize you, Wallace!"
-msgstr ""
+msgstr "Wallace, je peux enfin te Réaliser !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/c-0/7
 msgctxt "Wallace"
 msgid "Haha! Wallwall!"
-msgstr ""
+msgstr "Haha ! Murmur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/c-1/7
 msgctxt "Wallace"
 msgid "Mmm.... wall..... wa..."
-msgstr ""
+msgstr "Mmm.... mur..... mu..."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/c-2/25/b/9 wallace_wall/wallace_love_return/0/c-2/26/b/9 wallace_wall/wallace_love_return/0/c-2/27/b/9 wallace_wall/wallace_love_return/0/c-2/28/b/12 wallace_wall/wallace_love_return/0/c-2/29/b/12
 msgctxt "Narrator"
 msgid "He remains saying 'Wall.'"
-msgstr ""
+msgstr "Il continue de dire « Mur »."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/c-2/26/b/14
 msgctxt "Narrator"
 msgid "Though was there a touch of a smile this time?"
-msgstr ""
+msgstr "Mais n'y avait-il pas l'ombre d'un sourire, cette fois ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/c-2/27/b/14
 msgctxt "Narrator"
 msgid "Yet this time you could feel some positivity radiating from his being."
-msgstr ""
+msgstr "Pourtant, cette fois, vous sentiez une certaine positivité émaner de son être."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/c-2/28/b/17
 msgctxt "Narrator"
 msgid "It's undoubtable. This is starting to have an effect."
-msgstr ""
+msgstr "C'est indéniable. Ça commence à faire effet."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_love_return/0/c-2/29/b/17
 msgctxt "Narrator"
 msgid "But this time... he shifts. Is this a test?"
-msgstr ""
+msgstr "Mais cette fois... il se déplace. Est-ce un test ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_off/0/0
 msgctxt "Wallace"
 msgid "Wall. Wall. Wall. Wall!"
-msgstr ""
+msgstr "Mur. Mur. Mur. Mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_off/0/8/s/0
 msgctxt "Choix"
 msgid "Wall?"
-msgstr ""
+msgstr "Mur ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_off/0/c-0/7
 msgctxt "Wallace"
 msgid "Walllll!"
-msgstr ""
+msgstr "Muuuur !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_off/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Walllll!!"
-msgstr ""
+msgstr "Muuuur !!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_off/0/c-0/15/c-0/7
 msgctxt "Wallace"
 msgid "Walll! Walll!! Walll!!!"
-msgstr ""
+msgstr "Muuur ! Muuur !! Muuur !!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_off/0/c-0/15/c-0/21/0/s/0
 msgctxt "Choix"
 msgid "Wallllll!!!!!!!!!"
-msgstr ""
+msgstr "Muuuuuur !!!!!!!!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_off/0/c-0/15/c-0/21/1/s/0
 msgctxt "Choix"
 msgid "Man I feel so dumb doing this."
-msgstr ""
+msgstr "Je me sens tellement bête de faire ça."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/0
 msgctxt "Narrator"
 msgid "Wallace looks at you with true pain in his eyes, shaking his head slowly."
-msgstr ""
+msgstr "Wallace vous regarde avec une vraie douleur dans les yeux, secouant lentement la tête."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/8
 msgctxt "Wallace"
 msgid "No...."
-msgstr ""
+msgstr "Non...."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/19 wallace_wall/friend_path/0/15
 msgctxt "Narrator"
 msgid "You're stunned to hear him speaking in words you understand."
-msgstr ""
+msgstr "Vous restez stupéfait d'entendre qu'il parle en mots que vous comprenez."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/27
 msgctxt "Wallace"
 msgid "Cracked. Broken..."
-msgstr ""
+msgstr "Fissuré. Brisé..."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/35
 msgctxt "Wallace"
 msgid "I was not uplifted. Not strengthened."
-msgstr ""
+msgstr "Je n'ai pas été élevé. Pas fortifié."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/43
 msgctxt "Wallace"
 msgid "Shattered."
-msgstr ""
+msgstr "Fracassé."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/51
 msgctxt "Wallace"
 msgid "Gone."
-msgstr ""
+msgstr "Parti."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/60/s/0
 msgctxt "Choix"
 msgid "I can't believe this."
-msgstr ""
+msgstr "Je n'arrive pas à y croire."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/g-0/3
 msgctxt "Wallace"
 msgid "What we had was excellent. Beautiful, even."
-msgstr ""
+msgstr "Ce que nous avions était excellent. Magnifique, même."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/g-0/11
 msgctxt "Wallace"
 msgid "When I heard you sing the words with the proper support, I thought I found a true friend."
-msgstr ""
+msgstr "Quand je t'ai entendu chanter les mots avec l'appui qu'il fallait, j'ai cru avoir trouvé un véritable ami."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/g-0/19
 msgctxt "Wallace"
 msgid "Tch."
-msgstr ""
+msgstr "Tsss."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/g-0/30
 msgctxt "Wallace"
 msgid "How easily we break."
-msgstr ""
+msgstr "Comme nous nous brisons facilement."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/g-0/69
 msgctxt "Reggie"
 msgid "You cracked the wall!"
-msgstr ""
+msgstr "Tu as fissuré le mur !"
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/g-0/80
 msgctxt "Reggie"
 msgid "Not bad. That took some skill."
-msgstr ""
+msgstr "Pas mal. Ça demandait du talent."
 
+# Traduction IA – à relire
 #: wallace_wall/hate_path/0/g-0/88
 msgctxt "Reggie"
 msgid "Honestly, it's kinda hot."
-msgstr ""
+msgstr "Honnêtement, c'est plutôt excitant."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/4
 msgctxt "Wallace"
 msgid "You understand me. You speak the words of the foretellers."
-msgstr ""
+msgstr "Tu me comprends. Tu parles les mots des devins."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/23/s/0
 msgctxt "Choix"
 msgid "Yes! Yes you can talk!"
-msgstr ""
+msgstr "Oui ! Oui, tu sais parler !"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/24/s/0
 msgctxt "Choix"
 msgid "I... yep. Totally meant to do that."
-msgstr ""
+msgstr "Je... ouais. J'avais tout prévu, évidemment."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/7
 msgctxt "Wallace"
 msgid "Of course I can talk."
-msgstr ""
+msgstr "Bien sûr que je sais parler."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Why didn't you before?"
-msgstr ""
+msgstr "Alors pourquoi pas avant ?"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/1/s/0 wallace_wall/friend_path/0/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "I can't believe this. I thought you were like one of those pocket-sized monsters that can only say their name..."
-msgstr ""
+msgstr "Je n'en reviens pas. Je pensais que tu étais comme ces monstres de poche qui ne savent dire que leur nom..."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-0/7
 msgctxt "Wallace"
 msgid "I was on Duty. Keeping the Home constantly aloft is taxing and requires great resolve."
-msgstr ""
+msgstr "J'étais de Devoir. Maintenir le Foyer constamment debout est épuisant et exige une grande détermination."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-0/15
 msgctxt "Wallace"
 msgid "Hearing you speak the Cry like that allowed me to relax with the knowledge that there is someone else here as strong as I."
-msgstr ""
+msgstr "T'entendre pousser le Cri de la sorte m'a permis de me relâcher, sachant qu'il y a ici quelqu'un d'aussi fort que moi."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-0/23/0/s/0 wallace_wall/friend_path/0/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "What's the Cry?"
-msgstr ""
+msgstr "C'est quoi, le Cri ?"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-0/23/c-0/7 wallace_wall/friend_path/0/c-1/31/c-0/7
 msgctxt "Wallace"
 msgid "I give the cry of the Wall to remind me of my Duty!"
-msgstr ""
+msgstr "Je pousse le cri du Mur pour me rappeler mon Devoir !"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-0/23/c-0/15 wallace_wall/friend_path/0/c-0/15/c-1/26/g-0/0 wallace_wall/friend_path/0/c-1/31/c-0/15 wallace_wall/friend_path/0/c-1/31/c-1/26/g-0/0
 msgctxt "Wallace"
 msgid "I choose to uphold the prophecy. To keep the Strong. To keep the Warm."
-msgstr ""
+msgstr "Je choisis de faire respecter la prophétie. De rester Solide. De rester Chaud."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-0/23/c-0/26 wallace_wall/friend_path/0/c-0/15/c-1/26/g-0/11 wallace_wall/friend_path/0/c-1/31/c-0/26 wallace_wall/friend_path/0/c-1/31/c-1/26/g-0/11
 msgctxt "Wallace"
 msgid "And abhor the Crack."
-msgstr ""
+msgstr "Et de haïr la Fissure."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-1/7 wallace_wall/friend_path/0/c-1/31/c-1/7
 msgctxt "Wallace"
 msgid "No. I am a Defender. One of the tribe of the buttress."
-msgstr ""
+msgstr "Non. Je suis un Défenseur. Un membre de la tribu de l'arc-boutant."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-1/15 wallace_wall/friend_path/0/c-1/31/c-1/15
 msgctxt "Wallace"
 msgid "Many of my brothers have fallen. Many of my sisters have Cracked. It is up to me here to keep the prophecy alive and upright."
-msgstr ""
+msgstr "Beaucoup de mes frères sont tombés. Beaucoup de mes soeurs se sont Fissurées. C'est à moi, ici, de garder la prophétie vivante et debout."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-1/26/0/s/0 wallace_wall/friend_path/0/c-1/31/c-1/26/0/s/0
 msgctxt "Choix"
 msgid "So, not like a little monster guy then."
-msgstr ""
+msgstr "Donc, pas un petit monstre, en fait."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-0/15/c-1/26/1/s/0 wallace_wall/friend_path/0/c-1/31/c-1/26/1/s/0
 msgctxt "Choix"
 msgid "That's so cool and maybe honorable!"
-msgstr ""
+msgstr "C'est super classe et peut-être même honorable !"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-1/7
 msgctxt "Narrator"
 msgid "Wallace places a massive, firm hand on your shoulder, giving you a kind smile."
-msgstr ""
+msgstr "Wallace pose une main massive et ferme sur votre épaule, avec un sourire bienveillant."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-1/15
 msgctxt "Wallace"
 msgid "I see your little stumble of words. It is all right if you knew not what you were doing."
-msgstr ""
+msgstr "Je vois que tes mots trébuchent un peu. Ce n'est pas grave si tu ignorais ce que tu faisais."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/c-1/23
 msgctxt "Wallace"
 msgid "What mattered is that you had the strength to carry out the Cry."
-msgstr ""
+msgstr "Ce qui compte, c'est que tu as eu la force d'accomplir le Cri."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/crackjoin/3
 msgctxt "Wallace"
 msgid "I am painted with any color you wish. Art is nailed through my body."
-msgstr ""
+msgstr "On peut me peindre de la couleur de ton choix. On cloue de l'Art à travers mon corps."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/crackjoin/11
 msgctxt "Wallace"
 msgid "It all glances off me like so many childish blows. It is my duty."
-msgstr ""
+msgstr "Tout glisse sur moi comme autant de coups d'enfant. C'est mon devoir."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/crackjoin/22/s/0
 msgctxt "Choix"
 msgid "You're a pretty fascinating individual."
-msgstr ""
+msgstr "Tu es quelqu'un de vraiment fascinant."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/crackjoin/c-2/7
 msgctxt "Wallace"
 msgid "I am a mere foot soldier. Nothing more."
-msgstr ""
+msgstr "Je ne suis qu'un simple fantassin. Rien de plus."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/crackjoin/c-2/15/0/s/0
 msgctxt "Choix"
 msgid "I understand. As am I, in a way."
-msgstr ""
+msgstr "Je comprends. Moi aussi, en un sens."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path/0/crackjoin/c-2/15/1/s/0
 msgctxt "Choix"
 msgid "That's pretty hot, actually."
-msgstr ""
+msgstr "C'est plutôt excitant, en fait."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/0
 msgctxt "Wallace"
 msgid "You are as well? My liege, I live to serve you to lift Ceiling from Floor."
-msgstr ""
+msgstr "Toi aussi ? Ô {{suzerain|suzeraine|suzerain·e}}, je vis pour te servir et séparer le Plafond du Sol."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/8
 msgctxt "Wallace"
 msgid "But to hear that my Master is a soldier is truly surprising to this humble servant."
-msgstr ""
+msgstr "Mais apprendre que mon {{Maître|Maîtresse|Maître·sse}} est un soldat surprend vraiment ce modeste serviteur."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/16/s/0
 msgctxt "Choix"
 msgid "Yeah, I guess you could compare customer service to a war."
-msgstr ""
+msgstr "Ouais, on peut comparer le service client à une guerre."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/17/s/0
 msgctxt "Choix"
 msgid "Ah, not really. I just wanted to sound cool in front of such a stud."
-msgstr ""
+msgstr "Ah, pas vraiment. Je voulais juste faire bonne figure devant un si beau montant."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/c-0/7
 msgctxt "Wallace"
 msgid "Fascinating! Tell me more."
-msgstr ""
+msgstr "Fascinant ! Dis-m'en plus."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/c-1/7
 msgctxt "Wallace"
 msgid "You speak of the Studs?"
-msgstr ""
+msgstr "Tu parles des Montants ?"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/c-1/18
 msgctxt "Wallace"
 msgid "They are quite strong. So strong that they repel any sort of piercing attack."
-msgstr ""
+msgstr "Ils sont très robustes. Si robustes qu'ils repoussent toute attaque perçante."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/c-1/29
 msgctxt "Wallace"
 msgid "I am a mere bulwark. They are my final defense."
-msgstr ""
+msgstr "Je ne suis qu'un simple rempart. Eux sont ma dernière défense."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_2/0/c-1/40/0/s/0
 msgctxt "Choix"
 msgid "I was calling you a stud - a real nice hunk of wall."
-msgstr ""
+msgstr "Je te traitais de beau montant, un sacré beau morceau de mur."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/0/s/0
 msgctxt "Choix"
 msgid "Customer service is about helping people with problems they have."
-msgstr ""
+msgstr "Le service client, c'est aider les gens qui ont des problèmes."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/1/s/0
 msgctxt "Choix"
 msgid "As a human every day is a battle to keep everything from falling apart at the seams."
-msgstr ""
+msgstr "Pour un humain, chaque jour est une bataille pour éviter que tout se désagrège aux coutures."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/c-0/7
 msgctxt "Wallace"
 msgid "The Constant Creak of Strain. You must separate Floor from Ceiling!"
-msgstr ""
+msgstr "Le Grincement Constant de la Tension. Il faut séparer le Sol du Plafond !"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "I keep customers from vendors... in theory."
-msgstr ""
+msgstr "Je tiens les clients à distance des vendeurs... en théorie."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/c-0/15/c-0/7
 msgctxt "Wallace"
 msgid "Fie on these Customers! Hail Vendors!"
-msgstr ""
+msgstr "Honte à ces Clients ! Gloire aux Vendeurs !"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/c-1/7
 msgctxt "Wallace"
 msgid "Yes! That Strain. That constant worry. I feel it too."
-msgstr ""
+msgstr "Oui ! Cette Tension. Cette inquiétude constante. Je la ressens aussi."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/c-1/15
 msgctxt "Wallace"
 msgid "Our forebears have kept our races going for thousands of years. Humans and Walls. Floors and Ceilings. Since the dawn of Rain and Snow."
-msgstr ""
+msgstr "Nos ancêtres ont perpétué nos races pendant des milliers d'années. Les Humains et les Murs. Les Sols et les Plafonds. Depuis l'aube de la Pluie et de la Neige."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/0
 msgctxt "Wallace"
 msgid "Long have I heard your chatter around my Walls."
-msgstr ""
+msgstr "Il y a longtemps que j'entends vos bavardages autour de mes Murs."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/8
 msgctxt "Wallace"
 msgid "And yet never have I put together that we are in fact comrades-in-arms."
-msgstr ""
+msgstr "Et pourtant, jamais je n'avais compris que nous sommes en réalité des frères d'armes."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/16
 msgctxt "Wallace"
 msgid "Brave. And true."
-msgstr ""
+msgstr "Braves. Et loyaux."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/24/s/0
 msgctxt "Choix"
 msgid "Brave. And true."
-msgstr ""
+msgstr "Braves. Et loyaux."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/25/s/0
 msgctxt "Choix"
 msgid "The way you talk... it's so attractive."
-msgstr ""
+msgstr "Ta façon de parler... elle est tellement séduisante."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/c-2/7
 msgctxt "Wallace"
 msgid "I will call you Friend."
-msgstr ""
+msgstr "Je t'appellerai {{Ami|Amie|Ami·e}}."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/c-2/15
 msgctxt "Wallace"
 msgid "I do not call many Friend."
-msgstr ""
+msgstr "Je ne donne pas ce nom à beaucoup."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/c-2/23
 msgctxt "Wallace"
 msgid "The Art. The Floor. The Ceiling."
-msgstr ""
+msgstr "L'Art. Le Sol. Le Plafond."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/c-2/31
 msgctxt "Wallace"
 msgid "These are my Companions."
-msgstr ""
+msgstr "Voilà mes Compagnons."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/c-2/39
 msgctxt "Wallace"
 msgid "But you."
-msgstr ""
+msgstr "Mais toi."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_3/0/g-0/c-2/47
 msgctxt "Wallace"
 msgid "Are a Friend."
-msgstr ""
+msgstr "Tu es {{un Ami|une Amie|un·e Ami·e}}."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/4
 msgctxt "Wallace"
 msgid "Do you truly find me so? I merely use my strong form to lift Ceiling to keep it from Floor. This requires great abdominal strength."
-msgstr ""
+msgstr "Me trouves-tu vraiment tel ? Je ne fais qu'user de ma forme puissante pour soulever le Plafond et l'écarter du Sol. Cela exige de grands abdominaux."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/15
 msgctxt "Wallace"
 msgid "Also biceps."
-msgstr ""
+msgstr "Et des biceps."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/23
 msgctxt "Wallace"
 msgid "And double-biceps."
-msgstr ""
+msgstr "Et des double-biceps."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/34
 msgctxt "Wallace"
 msgid "I have a great number of these muscles."
-msgstr ""
+msgstr "J'ai un grand nombre de ces muscles."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/42/s/0
 msgctxt "Choix"
 msgid "It would be nice to have them around me..."
-msgstr ""
+msgstr "Ce serait agréable de les avoir autour de moi..."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/43/s/0
 msgctxt "Choix"
 msgid "I've noticed..."
-msgstr ""
+msgstr "J'ai remarqué..."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-0/7
 msgctxt "Wallace"
 msgid "Ah! Shall I enfold you in my embrace?"
-msgstr ""
+msgstr "Ah ! Dois-je t'envelopper de mon étreinte ?"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-0/18
 msgctxt "Wallace"
 msgid "Holding up a dear little thing like you would be as easy as a shelf."
-msgstr ""
+msgstr "Porter une chère petite chose comme toi serait aussi facile que porter une étagère."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-0/26/0/s/0
 msgctxt "Choix"
 msgid "<i>Wall... wall wall wall.</i>"
-msgstr ""
+msgstr "<i>Mur... mur mur mur.</i>"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-0/26/c-0/7
 msgctxt "Wallace"
 msgid "Heh. Well put, my love. Well put."
-msgstr ""
+msgstr "Heh. Bien dit, mon amour. Bien dit."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/15
 msgctxt "Wallace"
 msgid "Well. I have spoken of my duty. And my form."
-msgstr ""
+msgstr "Bien. J'ai parlé de mon devoir. Et de ma forme."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/23
 msgctxt "Wallace"
 msgid "Shall I provide anything else?"
-msgstr ""
+msgstr "Dois-je offrir autre chose ?"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/31/0/s/0
 msgctxt "Choix"
 msgid "A kiss?"
-msgstr ""
+msgstr "Un baiser ?"
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/31/1/s/0
 msgctxt "Choix"
 msgid "No, that's all I need from you. It's been lovely to talk to you."
-msgstr ""
+msgstr "Non, c'est tout ce qu'il me faut de toi. C'était un plaisir de discuter avec toi."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/31/c-0/7
 msgctxt "Wallace"
 msgid "Of course."
-msgstr ""
+msgstr "Bien sûr."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/31/c-0/18
 msgctxt "Narrator"
 msgid "Wallace bends down considerably to reach your lips, but his kiss is worth the effort. His strength is nearly incomprehensible, but his lips settle on yours with a softness that takes your breath away."
-msgstr ""
+msgstr "Wallace se penche considérablement pour atteindre vos lèvres, mais son baiser vaut l'effort. Sa force est presque inconcevable, pourtant ses lèvres se posent sur les vôtres avec une douceur qui vous coupe le souffle."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/31/c-1/7
 msgctxt "Wallace"
 msgid "It is a mighty relief to share my language with you."
-msgstr ""
+msgstr "C'est un immense soulagement de partager mon langage avec toi."
 
+# Traduction IA – à relire
 #: wallace_wall/friend_path_love/0/c-1/31/c-1/18
 msgctxt "Wallace"
 msgid "Duty calls, my love."
-msgstr ""
+msgstr "Le devoir m'appelle, mon amour."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/0
 msgctxt "Wallace"
 msgid "My love! We sing the song of the prophecy!"
-msgstr ""
+msgstr "Mon amour ! Chantons le chant de la prophétie !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/9/s/0
 msgctxt "Choix"
 msgid "My darling - I am ready to make you Realized."
-msgstr ""
+msgstr "Mon chéri, le moment est venu de te Réaliser."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-0/7 wallace_wall/wall_true_friend_return/0/c-1/7
 msgctxt "Wallace"
 msgid "Wallllll!!!!!"
-msgstr ""
+msgstr "Muuuuur !!!!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-0/18/0/s/0 wallace_wall/wall_true_friend_return/0/c-1/15/0/s/0
 msgctxt "Choix"
 msgid "WALL!!!"
-msgstr ""
+msgstr "MUR !!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-0/18/c-0/7 wallace_wall/wall_true_friend_return/0/c-1/15/c-0/7
 msgctxt "Wallace"
 msgid "Wallll! Walll!! Walllllll!!!!"
-msgstr ""
+msgstr "Muuur ! Muuur !! Muuuuuuur !!!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-0/18/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "I LOVE YOU!"
-msgstr ""
+msgstr "JE T'AIME !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-0/18/c-0/18/c-0/7
 msgctxt "Wallace"
 msgid "I LOVE YOU!!!"
-msgstr ""
+msgstr "JE T'AIME !!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-0/18/c-0/18/c-0/18 wallace_wall/wall_true_friend_return/0/c-1/15/c-0/18
 msgctxt "Narrator"
 msgid "There is nothing more to be said."
-msgstr ""
+msgstr "Il n'y a plus rien à ajouter."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-1/7 wallace_wall/wall_true_friend_return/0/c-2/7
 msgctxt "Wallace"
 msgid "... me?"
-msgstr ""
+msgstr "... moi ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-1/15 wallace_wall/wall_true_friend_return/0/c-2/15
 msgctxt "Wallace"
 msgid "To bring me to life? To breathe, to sleep, to dream, to pee?"
-msgstr ""
+msgstr "Me donner vie ? Respirer, dormir, rêver, faire pipi ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_love_return/0/c-1/23/0/s/0 wallace_wall/wall_true_friend_return/0/c-2/23/0/s/0
 msgctxt "Choix"
 msgid "That's right."
-msgstr ""
+msgstr "Exactement."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_friend_return/0/0
 msgctxt "Wallace"
 msgid "Friend!"
-msgstr ""
+msgstr "Ami !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_friend_return/0/8/s/0
 msgctxt "Choix"
 msgid "Friend!"
-msgstr ""
+msgstr "Ami !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_friend_return/0/10/s/0
 msgctxt "Choix"
 msgid "My friend - I am ready to make you Realized."
-msgstr ""
+msgstr "Mon {{ami|amie|ami·e}}, le moment est venu de te Réaliser."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_friend_return/0/c-0/7
 msgctxt "Wallace"
 msgid "We are Strong!"
-msgstr ""
+msgstr "Nous sommes Solides !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_friend_return/0/c-0/18/0/s/0
 msgctxt "Choix"
 msgid "We crumble for no one!"
-msgstr ""
+msgstr "Nous ne cédons devant personne !"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_true_friend_return/0/c-0/18/c-0/7
 msgctxt "Wallace"
 msgid "Haha! Onward, to glory!"
-msgstr ""
+msgstr "Haha ! En avant, vers la gloire !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_wall_join/0/0
 msgctxt "Wallace"
 msgid "Wall!!"
-msgstr ""
+msgstr "Mur !!"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_wall_join/0/8
 msgctxt "Wallace"
 msgid "Wall?"
-msgstr ""
+msgstr "Mur ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_wall_join/0/25/s/0
 msgctxt "Choix"
 msgid "If you're asking if I have the stats... I do!"
-msgstr ""
+msgstr "Si tu demandes si j'ai les stats... oui !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_wall_join/0/26/s/0
 msgctxt "Choix"
 msgid "Ah... I don't think I'm ready to do this yet."
-msgstr ""
+msgstr "Ah... Je crois que c'est encore trop tôt pour moi."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_wall_join/0/c-1/10
 msgctxt "Wallace"
 msgid "Wall..."
-msgstr ""
+msgstr "Mur..."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_join/0/0
 msgctxt "Wallace"
 msgid "Then the ritual may commence, if you only have the required recipe."
-msgstr ""
+msgstr "Alors le rituel peut commencer, pourvu que tu aies la recette requise."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_join/0/8
 msgctxt "Wallace"
 msgid "Do you have it?"
-msgstr ""
+msgstr "L'as-tu ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_join/0/25/s/0 wallace_wall/wallace_realize_return/0/25/s/0
 msgctxt "Choix"
 msgid "I do!"
-msgstr ""
+msgstr "Oui !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_join/0/26/s/0 wallace_wall/wallace_realize_return/0/26/s/0
 msgctxt "Choix"
 msgid "I do not yet."
-msgstr ""
+msgstr "Pas encore."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_join/0/c-1/10
 msgctxt "Wallace"
 msgid "It is all right my love. Continue meeting the rest of us, and I trust you will gain the experience necessary for this task."
-msgstr ""
+msgstr "Ce n'est pas grave, mon amour. Continue de rencontrer les autres, et je suis certain que tu acquerras l'expérience nécessaire pour cette tâche."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_join/0/c-1/18 wallace_wall/wallace_realize_return/0/c-1/18
 msgctxt "Wallace"
 msgid "I will remain here - guiding our ceiling ever upward."
-msgstr ""
+msgstr "Je resterai ici, à guider notre plafond toujours plus haut."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_return/0/0
 msgctxt "Wallace"
 msgid "I cherish these moments together before we become united in consciousness."
-msgstr ""
+msgstr "Je chéris ces moments ensemble avant que nous ne soyons unis par la conscience."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_return/0/8
 msgctxt "Wallace"
 msgid "Do you have the required recipe?"
-msgstr ""
+msgstr "As-tu la recette requise ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_return/0/c-1/10
 msgctxt "Wallace"
 msgid "It is all right. Continue meeting the rest of us, and I trust you will gain the experience necessary for this task."
-msgstr ""
+msgstr "Ce n'est pas grave. Continue de rencontrer les autres, et je suis certain que tu acquerras l'expérience nécessaire pour cette tâche."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_hate_return/0/0
 msgctxt "Wallace"
 msgid "I am Cracked. I am Broken."
-msgstr ""
+msgstr "Je suis Fissuré. Je suis Brisé."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_hate_return/0/11/s/0
 msgctxt "Choix"
 msgid "So?"
-msgstr ""
+msgstr "Et alors ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_hate_return/0/12/s/0
 msgctxt "Choix"
 msgid "I know I have wronged you. Let me try again. (USE POISE CANDY)"
-msgstr ""
+msgstr "Je sais que je t'ai fait du tort. Laisse-moi réessayer. (UTILISER UN BONBON DE PRESTANCE)"
 
+# Traduction IA – à relire
 #: wallace_wall/wall_hate_return/0/c-0/7
 msgctxt "Wallace"
 msgid "Return to me no more."
-msgstr ""
+msgstr "Ne reviens plus jamais vers moi."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_hate_candy/0
 msgctxt "Wallace"
 msgid "I see that. Let us resolve."
-msgstr ""
+msgstr "Je le vois bien. Réglons cela."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_hate_candy/8
 msgctxt "Wallace"
 msgid "Cracks may be patched with Trust."
-msgstr ""
+msgstr "Les Fissures se rebouchent avec de la Confiance."
 
+# Traduction IA – à relire
 #: wallace_wall/wall_hate_candy/16
 msgctxt "Wallace"
 msgid "We begin... with the Cry of the Upright."
-msgstr ""
+msgstr "Nous commençons... par le Cri des Dressés."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin/6/b/1
 msgctxt "Skylar"
 msgid "First we're going to Realize Wall? Good thing we can talk with him!"
-msgstr ""
+msgstr "On va d'abord Réaliser Mur ? Heureusement qu'on peut lui parler !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin/9
 msgctxt "Skylar"
 msgid "I am so happy I get to be a part of this! Bringing love to you both gives me the biggest kick in the glass!"
-msgstr ""
+msgstr "Je suis ravie de participer à ça ! Vous réunir tous les deux me procure le plus grand frisson derrière mes verres !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin/17 wallace_wall/wallace_realize_begin_wall/14
 msgctxt "Skylar"
 msgid "Is there anything you wish to say before being brought to life?"
-msgstr ""
+msgstr "Y a-t-il quelque chose que tu souhaites dire avant d'être ramené à la vie ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin/25
 msgctxt "Wallace"
 msgid "I have said all I must. Save one thing."
-msgstr ""
+msgstr "J'ai dit tout ce que je devais. Sauf une chose."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin/44
 msgctxt "Narrator"
 msgid "Having said his piece, Wallace heaves a mighty breath. Skylar nods, doing a few last-minute checks with her instruments."
-msgstr ""
+msgstr "Son discours terminé, Wallace pousse une immense inspiration. Skylar hoche la tête et effectue quelques dernières vérifications avec ses instruments."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin/55 wallace_wall/wallace_realize_begin_wall/41
 msgctxt "Skylar"
 msgid "The recipe is a perfect match - let's do this!"
-msgstr ""
+msgstr "La recette correspond parfaitement, c'est parti !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin/69 wallace_wall/wallace_realize_begin_wall/52
 msgctxt "Narrator"
 msgid "The spectral energy flows through your dateviators, and what was once merely a wall, becomes...."
-msgstr ""
+msgstr "L'énergie spectrale traverse vos Dateviators, et ce qui n'était jadis qu'un mur devient...."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin_wall/3/b/1
 msgctxt "Skylar"
 msgid "First we're going to Realize Wall? I hope we can get a good speech from him or something..."
-msgstr ""
+msgstr "On va d'abord Réaliser Mur ? J'espère qu'on aura droit à un beau discours de sa part ou quelque chose du genre..."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin_wall/6
 msgctxt "Skylar"
 msgid "All right Wallace, we're going to make you into a human."
-msgstr ""
+msgstr "Très bien, Wallace, on va faire de toi un humain."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realize_begin_wall/33
 msgctxt "Skylar"
 msgid "I hear ya buddy!"
-msgstr ""
+msgstr "Je te reçois cinq sur cinq !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/3
 msgctxt "Wallace"
 msgid "My love!"
-msgstr ""
+msgstr "Mon amour !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/14
 msgctxt "Narrator"
 msgid "Resplendent still, but less covered in wallpaper, is your true love."
-msgstr ""
+msgstr "Toujours resplendissant, mais moins couvert de papier peint, voici votre véritable amour."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/22
 msgctxt "Narrator"
 msgid "The tendons in his arms bulge and surge with strength. His days of holding up the house are over."
-msgstr ""
+msgstr "Les tendons de ses bras se gonflent et palpitent de puissance. Ses jours à soutenir la maison sont terminés."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/30
 msgctxt "Wallace"
 msgid "I feel so relieved - so relaxed!"
-msgstr ""
+msgstr "Je me sens tellement soulagé, tellement détendu !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/38
 msgctxt "Wallace"
 msgid "Tell me, does it ever get better than this?"
-msgstr ""
+msgstr "Dis-moi, est-ce que ça peut être mieux que ça ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/43/s/0
 msgctxt "Choix"
 msgid "Not really."
-msgstr ""
+msgstr "Pas vraiment."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/44/s/0
 msgctxt "Choix"
 msgid "It does!"
-msgstr ""
+msgstr "Oui, ça peut !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/c-0/7
 msgctxt "Wallace"
 msgid "Then it is enough."
-msgstr ""
+msgstr "Alors cela me suffit."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/c-1/7
 msgctxt "Wallace"
 msgid "Outstanding! Even more to look forward to!"
-msgstr ""
+msgstr "Excellent ! Encore plus de choses à attendre !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/0/b/1
 msgctxt "Wallace"
 msgid "To breathe, to flex, to no longer have to hold anything up save my head on its shoulders... and you, my love."
-msgstr ""
+msgstr "Respirer, fléchir, ne plus avoir à soutenir quoi que ce soit, hormis ma tête sur mes épaules... et toi, mon amour."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/1/b/1
 msgctxt "Wallace"
 msgid "To breathe, to flex, to no longer have to hold anything up save my head on its shoulders... and you, my friend."
-msgstr ""
+msgstr "Respirer, fléchir, ne plus avoir à soutenir quoi que ce soit, hormis ma tête sur mes épaules... et toi, mon {{ami|amie|ami·e}}."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/4
 msgctxt "Wallace"
 msgid "Under my protection - you will be safe."
-msgstr ""
+msgstr "Sous ma protection, tu seras en sécurité."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/12/s/0
 msgctxt "Choix"
 msgid "You don't need to protect me."
-msgstr ""
+msgstr "Tu n'as pas besoin de me protéger."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/13/s/0
 msgctxt "Choix"
 msgid "We will stand together and defend side by side."
-msgstr ""
+msgstr "Nous nous tiendrons ensemble et défendrons côte à côte."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/14/s/0
 msgctxt "Choix"
 msgid "Save me, big boy."
-msgstr ""
+msgstr "Sauve-moi, grand costaud."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/c-3/7
 msgctxt "Wallace"
 msgid "Of course - as squadron mates we will shoulder all burdens together."
-msgstr ""
+msgstr "Bien sûr. En camarades d'escadron, nous porterons tous les fardeaux ensemble."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/c-4/10
 msgctxt "Wallace"
 msgid "Hmm... delightful."
-msgstr ""
+msgstr "Hmm... délicieux."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/c-4/18
 msgctxt "Wallace"
 msgid "Commence... forward... incursion!"
-msgstr ""
+msgstr "Lançons... l'incursion... en avant !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/c-4/29
 msgctxt "Narrator"
 msgid "Without wasting a second, Wallace lifts you bodily over his shoulders as he bounds his way up the stairs to your bedroom."
-msgstr ""
+msgstr "Sans perdre une seconde, Wallace vous soulève sur ses épaules et bondit dans l'escalier jusqu'à votre chambre."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/c-4/37
 msgctxt "Narrator"
 msgid "Diligent, fierce, and most honorable lovemaking... your expectations of Wallace were high, but he still manages to exceed them."
-msgstr ""
+msgstr "Des ébats appliqués, fougueux et des plus honorables... vos attentes envers Wallace étaient hautes, mais il parvient quand même à les dépasser."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/c-4/45
 msgctxt "Narrator"
 msgid "Your every desire is his to satisfy—without the weight of the entire house upon his shoulders he has near endless strength and energy at your disposal, and he takes great joy in exhausting himself with you."
-msgstr ""
+msgstr "Le moindre de vos désirs est à lui de combler. Sans le poids de toute la maison sur ses épaules, il dispose d'une force et d'une énergie presque infinies à votre service, et il prend grand plaisir à s'épuiser avec vous."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/g-0/c-4/56
 msgctxt "Narrator"
 msgid "... well. Exhausting Wallace is nearly impossible. But you both enjoy the attempt."
-msgstr ""
+msgstr "... enfin. Épuiser Wallace est presque impossible. Mais vous appréciez tous deux la tentative."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/wallacejoin1/0
 msgctxt "Narrator"
 msgid "As the years go by, Wallace is ever steadfast, unwavering in his discipline and thoughtfulness."
-msgstr ""
+msgstr "Au fil des années, Wallace demeure inébranlable, indéfectible dans sa discipline et sa prévenance."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/wallacejoin1/8
 msgctxt "Narrator"
 msgid "He seeks employment in your local school district as a crossing guard - the application process goes faster than any superintendent has ever seen."
-msgstr ""
+msgstr "Il cherche un emploi de brigadier scolaire dans votre district. La procédure est plus rapide que ce qu'aucun inspecteur n'a jamais vu."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/wallacejoin1/13
 msgctxt "Narrator"
 msgid "With his mighty bulk, he body slams any car that dares to get within five feet of a child."
-msgstr ""
+msgstr "Avec sa masse imposante, il plaque au sol toute voiture qui ose s'approcher à moins d'un mètre cinquante d'un enfant."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/wallacejoin1/21
 msgctxt "Wallace"
 msgid "DEFEND!"
-msgstr ""
+msgstr "DÉFENDRE !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/wallacejoin1/35
 msgctxt "Narrator"
 msgid "He moves down the street to a fixer-upper, where he takes the time between child-defense sessions to patch up his home."
-msgstr ""
+msgstr "Il descend la rue jusqu'à une maison à retaper, où il profite des pauses entre deux séances de défense d'enfants pour rafistoler son foyer."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized/0/wallacejoin1/43
 msgctxt "Narrator"
 msgid "Watching him work on his home always puts a smile on your face—it's a sweet reminder that this relationship will never crumble."
-msgstr ""
+msgstr "Le regarder travailler sur sa maison vous met toujours le sourire. C'est un doux rappel que cette relation ne s'effritera jamais."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/11/s/0
 msgctxt "Choix"
 msgid "Absolutely, Wallace."
-msgstr ""
+msgstr "Absolument, Wallace."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/7
 msgctxt "Wallace"
 msgid "Wall... wall?"
-msgstr ""
+msgstr "Mur... mur ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/0/s/0
 msgctxt "Choix"
 msgid "Uh huh!"
-msgstr ""
+msgstr "Ouaip !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/1/s/0
 msgctxt "Choix"
 msgid "Before you go... wanna have one last fling?"
-msgstr ""
+msgstr "Avant de partir... un dernier petit câlin ?"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/c-1/10
 msgctxt "Narrator"
 msgid "You don't need to understand Wallace to know what's on his mind—the look on his face says it all."
-msgstr ""
+msgstr "Pas besoin de comprendre Wallace pour savoir à quoi il pense : son visage dit tout."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/c-1/21
 msgctxt "Narrator"
 msgid "The acts that follow are so debauched, so sinful, that mere words are insufficient to describe them. But if there's one thing that can be said about making love with Wallace, it's this:"
-msgstr ""
+msgstr "Les ébats qui suivent sont si débauchés, si coupables, que les mots sont insuffisants pour les décrire. Mais s'il y a bien une chose à dire sur l'amour avec Wallace, c'est ceci :"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/c-1/26
 msgctxt "Narrator"
 msgid "... wall."
-msgstr ""
+msgstr "... mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/c-1/34
 msgctxt "Wallace"
 msgid "Wall!!!!!"
-msgstr ""
+msgstr "Mur !!!!!"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/c-1/42
 msgctxt "Wallace"
 msgid "Wall... wall... wall."
-msgstr ""
+msgstr "Mur... mur... mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/c-1/53
 msgctxt "Wallace"
 msgid "... WALL!"
-msgstr ""
+msgstr "... MUR !"
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/c-0/15/c-1/64
 msgctxt "Narrator"
 msgid "You never quite know what Wallace is saying, but somehow you know just what he means. You bid him a fond farewell the next morning, and he bids you a sweet 'wall'."
-msgstr ""
+msgstr "Vous ne savez jamais vraiment ce que Wallace dit, mais vous savez pourtant exactement ce qu'il veut dire. Vous lui faites de tendres adieux le lendemain matin, et il vous répond par un doux « mur »."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/wallacejoin2/3
 msgctxt "Narrator"
 msgid "Wall."
-msgstr ""
+msgstr "Mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/wallacejoin2/14
 msgctxt "Narrator"
 msgid "Wall wall wall wall wall... wall."
-msgstr ""
+msgstr "Mur mur mur mur mur... mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/wallacejoin2/25
 msgctxt "Narrator"
 msgid "Wall wall wall wall wall wall wall wall wall wall wall wall, wall. Wall, wall wall wall wall-wall... wall? Wall."
-msgstr ""
+msgstr "Mur mur mur mur mur mur mur mur mur mur mur mur, mur. Mur, mur mur mur mur-mur... mur ? Mur."
 
+# Traduction IA – à relire
 #: wallace_wall/wallace_realized_wall/0/wallacejoin2/44
 msgctxt "Narrator"
 msgid "Wall wall wall."
-msgstr ""
+msgstr "Mur mur mur."

@@ -23,10 +23,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : soutenu, solennel, chevaleresque ; vocabulaire de soldat et de rempart. Majuscules aux concepts sacrés (Cri, Devoir, Sol, Plafond, Fissure, Solide, Confiance).
+- **Personnalité, manière de parler** : colosse stoïque et loyal, ne dit d'abord que « Mur » (« Wall ») puis parle comme un guerrier prophétique. Appelle le joueur « Ami » (via {{Ami|Amie|Ami·e}}), « mon amour » en romance.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : Wall -> « Mur » ; « Wall wall » -> « Mur mur » (murmure) ; stud -> « montant » ; Cracked -> Fissuré.
+- **Exemples de répliques traduites (référence de ton)** : « Le Cri du Mur me rappelle mon Devoir ! » ; « Les Fissures se rebouchent avec de la Confiance. » ; « Je ne suis qu'un simple fantassin. »

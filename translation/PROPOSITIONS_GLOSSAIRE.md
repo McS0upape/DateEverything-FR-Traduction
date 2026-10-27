@@ -233,3 +233,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## vaughn_mousetrap
 - Cheesus → Fromagesus ; Home-icidal Tendencies → Tendances Homicides à Domicile ; D.I.R.T invariable.
+
+## wallace_wall
+- Wall → Mur ; Cracked → Fissuré ; stud → Montant ; Defender → Défenseur ; Cry → Cri.
