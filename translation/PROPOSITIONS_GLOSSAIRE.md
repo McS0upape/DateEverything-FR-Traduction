@@ -227,3 +227,9 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## shelley_shelf
 - Swolebrarian → Bibliobaraque ; drywall → placo ; studs → montants ; anchors → chevilles.
+
+## bathsheba_bath
+- people skills → sens du contact ; bestie(s), HBIC invariables ; queen of clean → reine du clean.
+
+## vaughn_mousetrap
+- Cheesus → Fromagesus ; Home-icidal Tendencies → Tendances Homicides à Domicile ; D.I.R.T invariable.

@@ -24,10 +24,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : il (masculin)
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : familier, gouailleur, voyou new-yorkais (accent VO : dat, wit, den) rendu par des élisions (j'suis, y me faut, maint'nant, p'tit) ; jurons fréquents.
+- **Personnalité, manière de parler** : piège à rats survolté, hurleur, obsédé par claquer un rat, sensible et romantique sous la carapace.
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « claquer » (snap), « mon pote / pally » en {{mon pote|ma pote|mon pote}}, « Fromagesus » (Cheesus), vide sanitaire, ténèbres, Bodhi.
+- **Exemples de répliques traduites (référence de ton)** : « Y me faut du fromage ! » ; « M'embête pas, j'ai des rats à claquer. » ; « Ça te la coupe, hein ?! »
