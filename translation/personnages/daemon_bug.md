@@ -27,10 +27,10 @@
 
 ## Voix en français
 
-- **Genre grammatical du personnage** : À compléter
-- **Tutoie ou vouvoie le joueur ou la joueuse** : À compléter
+- **Genre grammatical du personnage** : masculin (« il », « un bug »). Le Narrator glisse volontairement entre il / elle / leur / iel (glitch).
+- **Tutoie ou vouvoie le joueur ou la joueuse** : tutoie
 - **Le joueur ou la joueuse lui parle avec** : tu
-- **Registre** : À compléter
-- **Personnalité, manière de parler** : À compléter
-- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : À compléter
-- **Exemples de répliques traduites (référence de ton)** : À compléter
+- **Registre** : glitch méta, inquiétant puis mélancolique et moqueur ; phrases courtes, répétitions, questions rhétoriques, parfois du texte corrompu (espaces, lettres répétées, noms de variables à garder tels quels).
+- **Personnalité, manière de parler** : ancienne commode supprimée du jeu (Deenah), conscient d'être un bug et du « contenu » qui s'épuise ; cite les développeurs. Pas de « ·e » pour le joueur (appellatifs épicènes : « mon amour »).
+- **Tics verbaux, expressions récurrentes, jeux de mots à préserver** : « thematic overlap » = « chevauchement thématique » ; « the bug in the beaker » = « le bug dans le bécher » ; « Define X? » = « Définis « X » ? » ; null = « Nul. Négatif, unifié, lobotomie » (acronyme NUL) ; code et variables (daemon_ending = hate, collectable_hold…) inchangés.
+- **Exemples de répliques traduites (référence de ton)** : « Bienvenue à la maison. » ; « Je ne mords pas. / Je crois. / Si ? » ; « Daemon le démon. Le petit pois dans la cosse, le bug dans le bécher. »

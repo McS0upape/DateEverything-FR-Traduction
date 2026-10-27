@@ -251,3 +251,6 @@ Une fois validé, un terme passe dans le glossaire ; s'il est refusé, il faut c
 
 ## clarence_clothes
 - Bat-man / Bats / dakimakura invariables ; throuple → trouple ; Closets By Clarence → Dressings by Clarence.
+
+## daemon_bug
+- collectable → objet de collection ; shippable bug → bug livrable. (« Sassy Chap » reste « Sassy Chap », comme dans sassy_chap.po.)
